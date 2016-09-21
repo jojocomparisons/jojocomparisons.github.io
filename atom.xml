@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://jojocomparisons.github.io/atom.xml" rel="self"/>
   <link href="http://jojocomparisons.github.io/"/>
-  <updated>2016-09-21T12:27:30+02:00</updated>
+  <updated>2016-09-21T12:38:10+02:00</updated>
   <id>http://jojocomparisons.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Diamond is Unbreakable #01 - Jotaro Kujo! Meets Josuke Higashikata]]></title>
-    <link href="http://jojocomparisons.github.io/blog/2016/09/21/first-test-post/"/>
-    <updated>2016-09-21T00:31:01+02:00</updated>
-    <id>http://jojocomparisons.github.io/blog/2016/09/21/first-test-post</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://jojocomparisons.github.io/images/01-headerJP.png"></p>
+    <link href="http://jojocomparisons.github.io/blog/2016/09/21/diu-01/"/>
+    <updated>2016-09-21T12:34:21+02:00</updated>
+    <id>http://jojocomparisons.github.io/blog/2016/09/21/diu-01</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://jojocomparisons.github.io/images/DIU01/01-headerJP.png"></p>
 
 <!-- more -->
 
@@ -44,7 +44,16 @@ First image is always the broadcast version, while the second is always from the
 </video></p>
 
 <ul>
-<li><p>The hand chopped off by Kira is uncensored:</p></li>
+<li>The hand chopped off by Kira is uncensored:</li>
+</ul>
+
+
+<p><img class="center" src="http://jojocomparisons.github.io/images/DIU01/tv-01150.jpg">
+<img class="center" src="http://jojocomparisons.github.io/images/DIU01/bd-01150.jpg">
+<img class="center" src="http://jojocomparisons.github.io/images/DIU01/tv-01200.jpg">
+<img class="center" src="http://jojocomparisons.github.io/images/DIU01/bd-01200.jpg"></p>
+
+<ul>
 <li><p>Art director 加藤恵 has been shifted from the end credits to the opening credits:</p></li>
 <li><p>The episode title is (very) slightly brighter:</p></li>
 <li><p>Star Platinum catching Koichi&rsquo;s things is animated more sharply and with brighter colors:</p></li>
