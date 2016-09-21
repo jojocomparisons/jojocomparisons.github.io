@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Diamond is Unbreakable #01 - Jotaro Kujo! Meets Josuke Higashikata"
-date: 2016-09-21 00:31:01 +0200
+date: 2016-09-21 12:34:21 +0200
 comments: true
 categories: 
 ---
-{% img center /images/01-headerJP.png %}
+{% img center /images/DIU01/01-headerJP.png %}
 <!-- more -->
 Hi, and welcome to this thing.
 I started doing this because I loved seeing what David production changed for the JoJo Bluray releases, but seeing as there was nobody doing that same job for the Diamond is Unbreakable Blurays, I decided to take on the mantle and fill this niche myself.
@@ -25,6 +25,11 @@ First image is always the broadcast version, while the second is always from the
 </video>
 
 - The hand chopped off by Kira is uncensored:
+
+{% img center /images/DIU01/tv-01150.jpg %}
+{% img center /images/DIU01/bd-01150.jpg %}
+{% img center /images/DIU01/tv-01200.jpg %}
+{% img center /images/DIU01/bd-01200.jpg %}
 
 - Art director 加藤恵 has been shifted from the end credits to the opening credits:
 
