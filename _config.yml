@@ -95,11 +95,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: "jojocomparisons-github"
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id: UA-82720302-1
+google_analytics_tracking_id: UA-84542086-1
 
 # Facebook Like
 facebook_like: false
