@@ -5,6 +5,8 @@ date: 2016-09-21 12:34:21 +0200
 comments: true
 categories: 
 ---
+page.comments: true
+
 {% img center /images/DIU01/01-headerJP.png %}
 <!-- more -->
 <br>
