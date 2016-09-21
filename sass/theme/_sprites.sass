@@ -1,0 +1,13 @@
+@import ../settings/vars/site
+
+[class^="#{$sprites-class-namespace}-"],
+[class*=" #{$sprites-class-namespace}-"]
+  @extend %unstyled
+  +hide-text
+  display: inline-block
+  vertical-align: top
+
+@each $sprite in sprite_names($sprites-map)
+  .#{$sprites-class-namespace}-#{$sprite}
+    +sprites-sprite($sprite)
+    +sprite-dimensions($sprites-map, $sprite)

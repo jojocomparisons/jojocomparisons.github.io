@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://jojocomparisons.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: "JoJo's Bizarre Comparisons"
+subtitle: Comparing blurays since 2016.
+author: Duwang Boi
 simple_search: https://www.google.com/search
 description:
 
@@ -22,8 +22,8 @@ subscribe_email:
 email:
 
 # Added when changed theme
-default_asides: []
-sidebar: collapse
+# default_asides: []
+# sidebar: collapse
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -31,7 +31,7 @@ sidebar: collapse
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: :title/
 source: source
 destination: public
 plugins: plugins
@@ -75,7 +75,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user:
-twitter_tweet_button: true
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false

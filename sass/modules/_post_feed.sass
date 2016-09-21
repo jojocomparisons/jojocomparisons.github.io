@@ -1,0 +1,43 @@
+%post-feed
+  margin:
+    top: 70px
+    bottom: 40px
+  header
+    h1
+      margin-bottom: 32px
+      font-size: rem(45px)
+      line-height: rem(48px)
+      +breakpoints("mobile")
+        font-size: rem(30px)
+        line-height: rem(33px)
+      a
+        @extend %reset-link
+    .meta
+      display: table
+      +fill-parent
+      time
+        @extend %post-time
+      &, .categories a
+        color: $gray
+    &::after
+      @extend %separator
+      +span-columns(2 of 12)
+      +shift(5)
+  p
+    +fill-parent
+    display: table
+
+%page-title
+  header
+    width: 120%
+    margin-left: -10%
+    text-align: center
+    +breakpoints("mobile")
+      width: 100%
+      margin-left: 0
+    h1
+      font-size: rem(55px)
+      line-height: rem(63px)
+      +breakpoints("mobile")
+        font-size: rem(40px)
+        line-height: rem(43px)

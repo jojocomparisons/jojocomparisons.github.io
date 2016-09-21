@@ -1,0 +1,30 @@
+@import ../settings/vars/colors
+
+h1,
+h2,
+h3,
+h4
+  @extend %unstyled
+  font-weight: 400
+h1
+  font-weight: bold
+
+a
+  color: $site-color
+
+p
+  line-height: rem(26px)
+  color: $text-color
+
+main
+  display: table
+  width: 100%
+  background-color: white
+
+#page
+  .content > article
+    +span-columns(8)
+    +shift(2)
+    @extend %post-feed
+    @extend %page-title
+    margin-bottom: 0

@@ -1,0 +1,6 @@
+[submodule ".themes/murky-mussels"]
+	path = .themes/murky-mussels
+	url = git://github.com/octothemes/murky-mussels.git
+[submodule ".themes/emd-theme"]
+	path = .themes/emd-theme
+	url = git@github.com:vidblog/emd-theme.git

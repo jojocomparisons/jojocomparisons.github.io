@@ -1,0 +1,10 @@
+{{% if page.comments != false %}}
+  <section class="post-comments">
+    <header>
+      <h2>Comentários:</h2>
+    </header>
+    {% if site.disqus_short_name %}
+      <div id="disqus_thread"></div>
+    {% endif %}
+  </section>
+{{% endif %}}

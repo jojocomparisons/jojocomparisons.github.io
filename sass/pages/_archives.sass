@@ -1,0 +1,24 @@
+@import ../settings/vars/colors
+
+#blog-archives
+  +fill-parent
+  display: table
+  h2
+    margin-bottom: 30px
+    text-align: center
+    color: $gray
+  article
+    margin-bottom: 80px
+    &:last-child
+      margin-bottom: 0
+    h1
+      font-size: rem(30px)
+      line-height: rem(35px)
+      a
+        @extend %reset-link
+    time
+      color: $light-gray
+    footer
+      margin-top: 15px
+  & + footer
+    margin-top: 50px

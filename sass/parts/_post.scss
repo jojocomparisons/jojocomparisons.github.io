@@ -1,44 +1,37 @@
 .post{
+	h2.title, .entry-content{
+		margin-left: 200px;
+		@media screen and (max-width: 800px){
+			margin-left: 0;
+		}
+	}
 	.meta{
-		margin-top: 10px;
+		position: absolute;
+		top: 85px;
 		line-height: 2;
 		font-size: 0.9em;
 		color: $color-gray02;
-		//width: 170px;
-		@media screen and (max-width: 620px){
+		width: 170px;
+		@media screen and (max-width: 800px){
 			margin-top: 15px;
 			position: static;
 			width: auto;
 		}
-		a {
- 			text-decoration:none;
-			color:inherit;
-			-webkit-transition:border .25s linear;
-			-moz-transition:border .25s linear;
-			-ms-transition:border .25s linear;
-			transition:border .25s linear;
-			outline:none;
-		}
-
-		a:link,a:visited {
-			border-bottom:1px solid rgba(191,2,34,0);
-		}
-
-		a:hover {
-			border-bottom:1px solid #bf0222;
+		a{
+			@include link-colors($color-gray02, $color-gray01);
+			@include transition(0.3s);
 		}
 		.date, .tags, .comments{
 			padding-left: 30px;
-			//position: relative;
-			display: inline;
+			position: relative;
 			&:before{
-				color:inherit;
+				color: $color-gray03;
 				font: 1.3em $font-icon;
 				line-height: 1.6em;
+				position: absolute;
 				left: 0;
 			}
-	
-			@media screen and (max-width: 620px){
+			@media screen and (max-width: 800px){
 				@include inline-block;
 				margin-right: 30px;
 			}

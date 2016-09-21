@@ -1,0 +1,29 @@
+@import ../settings/vars/colors
+@import ../settings/vars/fonts
+@import ../settings/vars/emd
+
+%logo
+  font:
+    size: rem(30px)
+    family: $logo-font
+    weight: 400
+  color: $color-light
+
+%description
+  font-size: rem(70px)
+  color: $color-light
+  text:
+    shadow: 0 2px 5px $color-dark
+    align: center
+  +breakpoints("mobile")
+    font-size: rem(50px)
+
+%cover-image
+  background-image: image-url("md_cover.png", false, false)
+  background-size: 100%
+  width: 100%
+  height: $header-height
+  position: fixed
+  top: 0
+  left: 0
+  z-index: -1

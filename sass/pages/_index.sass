@@ -1,0 +1,18 @@
+#index
+  text-align: center
+  .about-author
+    @extend %about-widget
+    @extend %about-widget-centered
+  .feed-article,
+  .pagination
+    +span-columns(8)
+    +shift(2)
+    +breakpoints("mobile")
+      +span-columns(10)
+      +shift(1)
+  .feed-article
+    @extend %post-feed
+    &:first-child
+      margin-top: 76px
+  .pagination
+    @extend %pagination

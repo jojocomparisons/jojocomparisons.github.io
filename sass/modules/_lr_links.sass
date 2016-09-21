@@ -1,0 +1,30 @@
+%lr-links
+  position: relative
+  padding: 0 20px
+  height: 30px
+  line-height: 30px
+  a
+    display: block
+    font-size: rem(18px)
+    display: block
+    white-space: nowrap
+    text-overflow: ellipsis
+    overflow: hidden
+    &::before,
+    &::after
+      position: absolute
+      font-size: rem(30px)
+      color: $light-gray
+    &.prev-post
+      text-align: left
+      &::before
+        content: "«"
+        margin-left: 3px
+        left: 0
+    &.next-post
+      text-align: right
+      float: right
+      &::after
+        content: "»"
+        margin-right: 3px
+        right: 0

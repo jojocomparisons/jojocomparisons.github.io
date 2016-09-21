@@ -1,0 +1,29 @@
+<div class="about-author">
+  <img src="http://www.gravatar.com/avatar/{{ site.gravatar_hash }}?s=135" width="135" height="135" alt="{{ site.author }}" />
+  <h3>{{ site.author }}</h3>
+  {% unless page.index and site.author_description != null %}
+    <div class="author-description">{{ site.author_description }}</div>
+  {% endunless %}
+  <ul class="social-links">
+    <li>
+      <a href="https://github.com/{{ site.github_user }}" target="_blank">
+        <i class="icon-github">GitHub</i>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/{{ site.facebook_user }}" target="_blank">
+        <i class="icon-facebook">Facebook</i>
+      </a>
+    </li>
+    <li>
+      <a href="https://twitter.com/{{ site.twitter_user }}" target="_blank">
+        <i class="icon-twitter">Twitter</i>
+      </a>
+    </li>
+    <li>
+      <a href="{{ site.root_url }}{{ site.subscribe_rss }}" target="_blank">
+        <i class="icon-feed">Feed</i>
+      </a>
+    </li>
+  </ul>
+</div>

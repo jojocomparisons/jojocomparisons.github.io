@@ -1,0 +1,15 @@
+// Require imports
+@import ../settings/vars/width
+
+// Breakpoints
+=breakpoints($device)
+  @if $device == "mobile"
+    +media(max-width $max-mobile-width)
+      @content
+  @else if $device == "tablet"
+    +media(max-width $max-tablet-width)
+      @content
+  @else if $device == "desktop"
+    +media(max-width $max-desktop-width)
+      @content
+

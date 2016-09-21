@@ -1,0 +1,17 @@
+{% capture category %}{% if post %}{{ post.categories | category_links | size }}{% else %}{{ page.categories | category_links | size }}{% endif %}{% endcapture %}
+{% unless category == '0' %}
+<span class="categories">
+  {% if post %}
+    {{ post.categories | category_links }}
+  {% else %}
+    {{ page.categories | category_links }}
+  {% endif %}
+</span>
+{% endunless %}
+
+{% if site.related_posts %}
+<span class="related">
+  <h3>Related:</h3>
+  <ul>
+</span>
+{% endif %}

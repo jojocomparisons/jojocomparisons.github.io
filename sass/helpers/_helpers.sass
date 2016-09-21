@@ -1,0 +1,23 @@
+// Unstyled
+%unstyled
+  margin: 0
+  padding: 0
+  border: 0
+
+%unstyled-list
+  @extend %unstyled
+  list-style: none
+
+%unstyled-button
+  @extend %unstyled
+  +appearance(none)
+
+%unstyled-input
+  @extend %unstyled
+  display: block
+
+%reset-link
+  color: $base-color
+  text-decoration: none
+  &:hover
+    opacity: .9

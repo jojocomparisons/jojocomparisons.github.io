@@ -1,0 +1,93 @@
+@import ../settings/vars/colors
+
+#post
+  .content > article
+    +span-columns(8)
+    +shift(2)
+    @extend %post-feed
+    @extend %page-title
+    margin-bottom: 0
+    h2,
+    h3
+      margin-top: 40px
+    h2
+      font-size: rem(36px)
+      line-height: rem(40px)
+    h3
+      font-size: rem(28px)
+      line-height: rem(22px)
+    p
+      font-size: rem(20px)
+      line-height: rem(30px)
+    .gist,
+    figure,
+    blockquote
+      +span-columns(10 of 8)
+      +shift(-1.5)
+    blockquote
+      margin-bottom: 30px
+      &::before
+        @extend %separator
+        +span-columns(2 of 10)
+        margin-bottom: 20px
+      p
+        position: relative
+        font-style: italic
+        color: $gray
+        text-indent: 20px
+        &::before
+          content: "“"
+          position: absolute
+          top: 12px
+          left: -24px
+          font-size: rem(40px)
+    figure
+      @extend %unstyled
+      margin:
+        top: 10px
+        bottom: 10px
+      text-align: center
+      img
+        max-width: 100%
+    p code
+      background: #EEE
+      margin: 0 5px
+      padding: 3px 6px
+      border-radius: 5px
+      font-size: rem(13px)
+      border: 1px solid $light-gray
+      color: $base-color
+    footer
+      margin-top: 50px
+      .about-author
+        @extend %about-widget
+        @extend %about-widget-left
+      > h4
+        margin-bottom: 10px
+        font-size: rem(25px)
+        line-height: rem(28px)
+        color: $text-color
+      .others-posts
+        @extend %lr-links
+        a
+          +span-columns(4 of 8)
+
+.sharing
+  +fill-parent
+  display: table
+  &::after
+    @extend %separator
+    +span-columns(2 of 12)
+    +shift(5)
+    display: table
+    margin:
+      top: 50px
+      bottom: 20px
+
+.post-comments
+  +span-columns(8)
+  +shift(2)
+  margin-top: 50px
+  header
+    margin-bottom: 20px
+    color: $text-color
