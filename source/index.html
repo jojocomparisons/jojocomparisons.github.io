@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+{% assign index = true %}
+{% for post in paginator.posts %}
+{% assign content = post.content %}
+    <article class="post">{% include article.html %}</article>
+{% endfor %}
+{% if paginator.previous_page or paginator.next_page %}
+<nav id="pagenavi">
+    {% if paginator.previous_page %}
+        <a href="{{paginator.previous_page}}" class="prev">Prev</a>
+    {% endif %}
+    {% if paginator.next_page %}
+        <a href="{{paginator.next_page}}" class="next">Next</a>
+    {% endif %}
+</nav>
+{% endif %}

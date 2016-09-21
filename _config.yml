@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://jojocomparisons.github.io
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
 author: Your Name
@@ -20,6 +20,10 @@ subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
+
+# Added when changed theme
+default_asides: []
+sidebar: collapse
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -99,3 +103,6 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# Tentative plugin import
+gem: -octopress-video-tag
