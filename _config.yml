@@ -95,8 +95,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: "jojocomparisons"
-disqus_show_comment_count: true
+disqus_short_name:
+disqus_show_comment_count: false
 
 # Google Analytics
 google_analytics_tracking_id: UA-82720302-1
