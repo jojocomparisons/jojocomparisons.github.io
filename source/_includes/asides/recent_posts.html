@@ -1,10 +1,11 @@
 <section>
-  <h1>Recent Posts</h1>
+  <font face="CubanoRegular"><h3>- Recent Posts -</h3></font>
   <ul id="recent_posts">
     {% for post in site.posts limit: site.recent_posts %}
-      <li class="post">
+      <div align="center"><li class="post">
         <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
-      </li>
+      </li></div>
     {% endfor %}
   </ul>
+      
 </section>

@@ -1,0 +1,124 @@
+---
+layout: post
+title: "Diamond is Unbreakable #02 - Josuke Higashikata! Meets Angelo"
+date: 2016-09-24 16:15:11 +0200
+comments: true
+categories: diu
+---
+
+{% img center /images/DIU02/02-headerJP.png %}
+<!-- more -->
+
+<br>
+<br>
+
+Welcome back for Episode #02! Unfortunately I've lost the cached copies of the previous blog entries, so you'll have to excuse some differences in the way I'll talk about the frames and whatnot, since I honestly can't remember the exact phrasing I used there.
+
+The frames themselves, however, will be more or less the same, since thankfully those were safely stored on my HDD. Without further ado then, let's go! As always, top is **TV** and bottom is **Bluray**.
+
+<br>
+
+- This scene of Angelo biting the dog's face is uncensored:
+
+{% img center /images/DIU02/tv-03510.jpg %}
+{% img center /images/DIU02/bd-03510.jpg %}
+{% img center /images/DIU02/tv-03547.jpg %}
+{% img center /images/DIU02/bd-03547.jpg %}
+
+<br>
+
+- Likewise, the BD has this dude dying in all its glory:
+
+{% img center /images/DIU02/tv-04065.jpg %}
+{% img center /images/DIU02/bd-04065.jpg %}
+{% img center /images/DIU02/tv-04090.jpg %}
+{% img center /images/DIU02/bd-04090.jpg %}
+
+<br>
+
+- I'm not sure why, but in the opening, the sign behind Josuke has been changed: where it first read "Doradoradora" (ドラドラドラ) it now reads "Durara!" (ドゥララ！):
+
+{% img center /images/DIU02/tv-04950.jpg %}
+{% img center /images/DIU02/bd-04950.jpg %}
+{% img center /images/DIU02/tv-04970.jpg %}
+{% img center /images/DIU02/bd-04970.jpg %}
+
+<br>
+
+- Uncensored mom penetration:
+
+{% img center /images/DIU02/tv-08610.jpg %}
+{% img center /images/DIU02/bd-08610.jpg %}
+{% img center /images/DIU02/tv-08696.jpg %}
+{% img center /images/DIU02/bd-08696.jpg %}
+
+<br>
+
+- Josuke's score in "Oh! That's A Baseball '99" has been rebalanced:
+
+{% img center /images/DIU02/tv-09870.jpg %}
+{% img center /images/DIU02/bd-09870.jpg %}
+
+- This animation of Crazy Diamond is sharper and brighter:
+
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU02/TV%201%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+<video nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU02/BD%201%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+
+<br>
+
+- A slight animation mistake resulted in a couple of frames in which the background was visible on top of Jotaro. This has been fixed in the BDs:
+
+{% img center /images/DIU02/tv-29440.jpg %}
+{% img center /images/DIU02/bd-29440.jpg %}
+
+<br>
+
+- This horizontal pan has been slightly zoomed in:
+
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU02/TV%202%20-%20angelo%20pan.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU02/BD%202%20-%20angelo%20pan.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+
+<br>
+
+- As with all the beatdown animations, Crazy Diamond punching Angelo has been sharpened and made brighter:
+
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU02/TV%203%20-%20angelo%20beatdown.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU02/BD%203%20-%20angelo%20beatdown.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+
+<br>
+
+- Josuke's mouth flap has been slightly changed here:
+
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU02/TV%204%20-%20josuke%20talking.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU02/BD%204%20-%20josuke%20talking.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+
+<br>
+
+- 猿田涼 has been added to the end credits:
+
+{% img center /images/DIU02/tv-33400.jpg %}
+{% img center /images/DIU02/bd-33400.jpg %}
+
+<br>
+
+Alright, that's it for Episode #02! Tune in next time as we take a look at everyone's favourite dysfunctional family!
+
+Bye!
+
+{% img center /images/tobecontinued.png %}

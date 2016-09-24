@@ -1,0 +1,121 @@
+.comparison {
+  position: relative;
+  display: block;
+}
+
+.comparison img {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -o-box-shadow: none;
+  -ms-box-shadow: none;
+  border: none;
+}
+
+input[type=range].cato_inner {
+  -webkit-appearance: none;
+  background: none;
+  position: absolute;
+  margin: 7px 0 0 0;
+  cursor: pointer;
+  height: 4px;
+}
+
+input[type=range].cato_inner:focus {
+  outline: none;
+}
+
+input[type=range].cato_inner::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  background-color: #6891a1;
+  border: none;
+  border-radius: 50%;
+  height: 14px;
+  width: 14px;
+  position: relative;
+  margin-top: -4px;
+}
+
+input[type=range].cato_inner::-ms-thumb {
+  -webkit-appearance: none;
+  background-color: #6891a1;
+  border: none;
+  border-radius: 50%;
+  height: 14px;
+  width: 14px;
+  position: relative;
+  margin-top: -4px;
+}
+
+input[type=range].cato_inner::-moz-range-thumb {
+  -webkit-appearance: none;
+  background-color: #6891a1;
+  border: none;
+  border-radius: 50%;
+  height: 14px;
+  width: 14px;
+  position: relative;
+  margin-top: -4px;
+}
+
+input[type=range].cato_inner::-webkit-slider-runnable-track {
+  background: #666;
+  height: 6px;
+}
+
+input[type=range].cato_inner::-ms-track {
+  background: #666;
+  height: 6px;
+}
+
+input[type=range].cato_inner::-moz-range-track {
+  background: #666;
+  height: 6px;
+}
+
+input[type=range].cato_inner:focus::-webkit-slider-runnable-track {
+  background: #777;
+}
+
+input[type=range].cato_inner:focus::-ms-track {
+  background: #777;
+}
+
+input[type=range].cato_inner:focus::-moz-range-track {
+  background: #777;
+}
+
+.indicator_bubble {
+  display: none;
+  position: absolute;
+  left: 50%;
+  background-color: white;
+  color:#6891a1;
+  padding: 5px 10px;
+  font-size: 14px;
+  border-radius: 15px;
+  font-weight: bold;
+  transform: translateX(-25%);
+}
+
+.indicator_triangle {
+  display: none;
+  width: 0; 
+  height: 0;
+  position: absolute;
+  border-left: 5px solid transparent;
+  border-right: 5px solid transparent;  
+  border-top: 5px solid #fff;
+  transform: translateX(25%);
+}
+
+.indicator_bubble.active:after {
+  content: attr(data-range);
+}
+
+.active {
+  display: inline-block!important;
+}

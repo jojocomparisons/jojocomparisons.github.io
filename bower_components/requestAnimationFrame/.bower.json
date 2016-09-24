@@ -1,0 +1,20 @@
+{
+  "name": "requestAnimationFrame",
+  "version": "0.0.23",
+  "main": "app/requestAnimationFrame.js",
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "homepage": "https://github.com/cagosta/requestAnimationFrame",
+  "_release": "0.0.23",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.23",
+    "commit": "3437e18038e687cfab49d6741f95caa2bd6aca70"
+  },
+  "_source": "https://github.com/cagosta/requestAnimationFrame.git",
+  "_target": "~0.0.23",
+  "_originalSource": "requestAnimationFrame"
+}

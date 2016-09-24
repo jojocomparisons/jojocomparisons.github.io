@@ -1,15 +1,21 @@
 <aside class="sidebar">
-  {% if site.simple_search %}
-    <form action="{{ site.simple_search }}" method="get">
-      <fieldset role="search">
-        <input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}" />
-        <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-      </fieldset>
-    </form>
+  <div align="center">{% if site.simple_search %}
+   <form action="https://www.google.com/search" method="get">
+    <fieldset role="search">
+    <input type="hidden" name="sitesearch" value="jojocomparisons.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+    <br><br>
+    <font face="CubanoRegular"><h2>[<a href=../episodelist/>Episode List</a>]</h2></font>
+    <font face="CubanoRegular"><h2>[<a href="/blog/archives">Blog Archive</a>]</h2></font>
+    <font face="CubanoRegular"><h2>[<a href="/atom.xml">RSS Feed</a>]</h2></font>
   {% endif %}
   {% if site.blog_index_asides.size %}
     {% include_array blog_index_asides %}
   {% else %}
     {% include_array default_asides %}
   {% endif %}
+      
+      </div>
 </aside>

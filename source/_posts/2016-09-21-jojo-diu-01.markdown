@@ -3,7 +3,7 @@ layout: post
 title: "Diamond is Unbreakable #01 - Jotaro Kujo! Meets Josuke Higashikata"
 date: 2016-09-21 12:34:21 +0200
 comments: true
-categories: 
+categories: diu
 ---
 
 {% img center /images/DIU01/01-headerJP.png %}
@@ -15,21 +15,21 @@ Hi, and welcome to this blog thing!
 
 I started doing this silly job because I loved seeing what David production changed for the JoJo Bluray releases, but since there was nobody doing that same job for the Diamond is Unbreakable Blurays, I decided to take on the mantle and fill this niche myself.
 
-tl;dr: if you're here because you're looking for DiU bluray-broadcast comparisons, then you're in the right place.
+tl;dr: if you're here because you're looking for DiU BD-TV comparisons, then you're in the right place.
 
-Alright, let's kick this off with a comparison of Episode #01! Seeing as this is the first thing they've aired, it's pretty much a given that the animation was spot-on even in the broadcast version, so don't expect any major changes.
+Alright, let's kick this off with a comparison of Episode #01! Seeing as this is the first thing they've aired, it's pretty much a given that the animation was spot-on even in the broadcasted version, so don't expect any major changes.
 
-(First image is always the broadcast version, while the second is always from the Bluray.)
+(First image is always the **TV** version, while the second is always from the **Bluray**.)
 
 <br>
 
 - The egg in the intro is slightly brighter:
 
 <video class='center' nocontrols autoplay loop preload='auto'>
-  <source src='https://my.mixtape.moe/mhtcnq.webm' type='video/webm; codecs="vp8, vorbis"'>
+  <source src=/videos/DIU01/TV%201%20-%20egg.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 <video nocontrols autoplay loop preload='auto'>
-  <source src='https://my.mixtape.moe/ktpuhq.webm' type='video/webm; codecs="vp8, vorbis"'>
+  <source src=/videos/DIU01/BD%201%20-%20egg.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 
 <br>
@@ -60,10 +60,10 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - The animation of Star Platinum catching Koichi's things is sharper and has more vivid colors:
 
 <video class='center' nocontrols autoplay loop preload='auto'>
-  <source src='https://my.mixtape.moe/aebhsr.webm' type='video/webm; codecs="vp8, vorbis"'>
+  <source src=/videos/DIU01/TV%202%20-%20star%20platinum.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 <video nocontrols autoplay loop preload='auto'>
-  <source src='https://my.mixtape.moe/rpmtpy.webm' type='video/webm; codecs="vp8, vorbis"'>
+  <source src=/videos/DIU01/BD%202%20-%20star%20platinum.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 
 <br>
@@ -78,10 +78,10 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - The transition into this scene of the blonde punk grabbing the turtle is a bit longer and clearer:
 
 <video class='center' nocontrols autoplay loop preload='auto'>
-  <source src='https://my.mixtape.moe/lgsauz.webm' type='video/webm; codecs="vp8, vorbis"'>
+  <source src=/videos/DIU01/TV%203%20-%20turtle%20throw.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 <video nocontrols autoplay loop preload='auto'>
-  <source src='https://my.mixtape.moe/vraehj.webm' type='video/webm; codecs="vp8, vorbis"'>
+  <source src=/videos/DIU01/BD%203%20-%20turtle%20throw.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 
 <br>
@@ -110,10 +110,10 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - This scene has an extra noise layer on top:
 
 <video class='center' nocontrols autoplay loop preload='auto'>
-  <source src='https://my.mixtape.moe/gllnfd.webm' type='video/webm; codecs="vp8, vorbis"'>
+  <source src=/videos/DIU01/TV%204%20-%20noise.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 <video nocontrols autoplay loop preload='auto'>
-  <source src='https://my.mixtape.moe/daqqbj.webm' type='video/webm; codecs="vp8, vorbis"'>
+  <source src=/videos/DIU01/BD%204%20-%20noise.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 
 <br>
@@ -128,10 +128,10 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - This scene has brighter colors:
 
 <video class='center' nocontrols autoplay loop preload='auto'>
-  <source src='https://my.mixtape.moe/yihrcv.webm' type='video/webm; codecs="vp8, vorbis"'>
+  <source src=/videos/DIU01/TV%205%20-%20hostage.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 <video nocontrols autoplay loop preload='auto'>
-  <source src='https://my.mixtape.moe/talyuf.webm' type='video/webm; codecs="vp8, vorbis"'>
+  <source src=/videos/DIU01/BD%205%20-%20hostage.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 
 <br>
@@ -183,4 +183,4 @@ P.S.: As you might have noticed, the previous blog I used for the comparisons no
 <br>
 <br>
 
-{% img center https://i.kinja-img.com/gawker-media/image/upload/flgsb6ayx7n8wpk4cg2u.png %}
+{% img center /images/tobecontinued.png %}

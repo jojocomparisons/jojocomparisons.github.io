@@ -30,6 +30,6 @@ single: true
   </section>
 {% endif %}
 </div>
-{% unless page.sidebar == false %}
+{% unless page.sidebar == false or page.sidebar == 'collapse' or site.sidebar == 'collapse' %}
 {% include sidebar.html %}
 {% endunless %}

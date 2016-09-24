@@ -1,0 +1,29 @@
+{
+  "name": "cato.js",
+  "version": "0.0.1",
+  "description": "Small, dependency-free library for (image) comparison sliders.",
+  "main": "src/cato.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slamcode/cato.js.git"
+  },
+  "keywords": [
+    "image comparison",
+    "comparison",
+    "slider"
+  ],
+  "author": "Pascal Spiesz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/slamcode/cato.js/issues"
+  },
+  "homepage": "https://github.com/slamcode/cato.js#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "^0.12.3",
+    "grunt-contrib-uglify": "^0.9.1"
+  }
+}
