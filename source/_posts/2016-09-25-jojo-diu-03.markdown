@@ -1,0 +1,174 @@
+---
+layout: post
+title: "Diamond is Unbreakable #03 - The Nijimura Brothers - Part 1"
+date: 2016-09-25 11:01:59 +0200
+comments: true
+categories: diu
+---
+
+{% img center /images/DIU03/03-headerJP.png %}
+<!-- more -->
+<script>
+$(window).load(function(){
+  $(".twentytwenty-container").twentytwenty();
+});
+</script>
+
+<br>
+<br>
+
+What's up people! Let's cut to the chase since I doubt anyone even reads these silly blurbs I put on top of every post. It's Nijimura time, baby. Let's get right to it.
+
+<br>
+
+- The scene of Keicho shooting Angelo has got brighter whites (I'm noticing this kind of bright scenes usually get dimmed down in the broadcast version, I wonder if there are some laws regulating the brightness of broadcasts in Japan):
+
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU03/TV%201%20-%20whiteout.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU03/BD%201%20-%20whiteout.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+
+<br>
+
+- The neck bit of Angelo has been trimmed, the rock is shaded slightly differently and his hair is a couple of millimeters longer:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU03/tv-08990.jpg" />
+ <img src="/images/DIU03/bd-08990.jpg" />
+</div>
+
+<br>
+
+- Josuke has an aura in this scene:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU03/tv-09170.jpg"+ />
+ <img src="/images/DIU03/bd-09170.jpg" />
+</div>
+
+<br>
+
+- Keicho's eyes have received a snakeskin-like makeover:
+
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU03/TV%202%20-%20eyes.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU03/BD%202%20-%20eyes.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+
+<br>
+
+- Bits of Jotaro's car have been changed from blue to black:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU03/tv-18580.jpg" />
+ <img src="/images/DIU03/bd-18580.jpg" />
+</div>
+
+<br>
+
+- The zoom has been pulled slightly closer here:
+
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU03/TV%203%20-%20enyazoom.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU03/BD%203%20-%20enyazoom.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+
+<br>
+
+- Likewise, here Enya's photo has been centered:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU03/tv-19430.jpg" />
+ <img src="/images/DIU03/bd-19430.jpg" />
+</div>
+
+<br>
+
+- Koichi's neck wound has been uncensored:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU03/tv-20610.jpg" />
+ <img src="/images/DIU03/bd-20610.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU03/tv-20675.jpg" />
+ <img src="/images/DIU03/bd-20675.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU03/tv-21410.jpg" />
+ <img src="/images/DIU03/bd-21410.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU03/tv-24560.jpg" />
+ <img src="/images/DIU03/bd-24560.jpg" />
+</div>
+
+<br>
+
+- The animation of Crazy Diamond going back into Josuke is slightly smoother:
+
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU03/TV%204%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU03/BD%204%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+
+<br>
+
+- Okuyasu's right cheekbone has been redrawn:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU03/tv-26535.jpg" />
+ <img src="/images/DIU03/bd-26535.jpg" />
+</div>
+
+<br>
+
+- Josuke has an aura in this scene:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU03/tv-27900.jpg" />
+ <img src="/images/DIU03/bd-27900.jpg" />
+</div>
+
+<br>
+
+- Koichi's neck wound is uncensored again in this scene:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU03/tv-31700.jpg" />
+ <img src="/images/DIU03/bd-31700.jpg" />
+</div>
+
+<br>
+
+- In the ending credits, 仕上げ ("Finishing touches") has been corrected to 仕上; this was not an error, since it can be written both ways, but it was probably done for consistency with the same word, used further down below in the same screenshot:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU03/tv-32800.jpg" />
+ <img src="/images/DIU03/bd-32800.jpg" />
+</div>
+
+<br>
+
+Alright, this is it for Episode #03! Tune in next time as Keicho gets pummeled by Josuke and Keichi lays an egg!
+
+Bye!
+
+{% img center /images/tobecontinued.png %}

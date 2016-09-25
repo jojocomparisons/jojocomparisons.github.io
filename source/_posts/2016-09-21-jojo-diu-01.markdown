@@ -8,18 +8,22 @@ categories: diu
 
 {% img center /images/DIU01/01-headerJP.png %}
 <!-- more -->
+<script>
+$(window).load(function(){
+  $(".twentytwenty-container").twentytwenty();
+});
+</script>
+
 <br>
 <br>
 
 Hi, and welcome to this blog thing!
 
-I started doing this silly job because I loved seeing what David production changed for the JoJo Bluray releases, but since there was nobody doing that same job for the Diamond is Unbreakable Blurays, I decided to take on the mantle and fill this niche myself.
+I started doing this silly job because I loved seeing what David production changed for the JoJo Bluray releases, but since there was nobody doing that same thing for the Diamond is Unbreakable Blurays, I decided to take on the mantle and fill this niche myself.
 
 tl;dr: if you're here because you're looking for DiU BD-TV comparisons, then you're in the right place.
 
 Alright, let's kick this off with a comparison of Episode #01! Seeing as this is the first thing they've aired, it's pretty much a given that the animation was spot-on even in the broadcasted version, so don't expect any major changes.
-
-(First image is always the **TV** version, while the second is always from the **Bluray**.)
 
 <br>
 
@@ -36,24 +40,35 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 
 - Kira's victim's hand is uncensored:
 
-{% img center /images/DIU01/tv-01150.jpg %}
-{% img center /images/DIU01/bd-01150.jpg %}
-{% img center /images/DIU01/tv-01200.jpg %}
-{% img center /images/DIU01/bd-01200.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU01/tv-01150.jpg" />
+ <img src="/images/DIU01/bd-01150.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU01/tv-01200.jpg" />
+ <img src="/images/DIU01/bd-01200.jpg" />
+</div>
 
 <br>
 
 - Art director 加藤恵 (Katō Megumi) has been moved from the end credits to the opening credits:
 
-{% img center /images/DIU01/tv-01675.jpg %}
-{% img center /images/DIU01/bd-01675.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU01/tv-01675.jpg" />
+ <img src="/images/DIU01/bd-01675.jpg" />
+</div>
 
 <br>
 
 - The episode title is (very) slightly brighter:
 
-{% img center /images/DIU01/tv-02940.jpg %}
-{% img center /images/DIU01/bd-02940.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU01/tv-02940.jpg" />
+ <img src="/images/DIU01/bd-02940.jpg" />
+</div>
 
 <br>
 
@@ -70,8 +85,10 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 
 - Jotaro's coattails are redrawn to be slightly less elevated and more natural-looking:
 
-{% img center /images/DIU01/tv-04900.jpg %}
-{% img center /images/DIU01/bd-04900.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU01/tv-04900.jpg" />
+ <img src="/images/DIU01/bd-04900.jpg" />
+</div>
 
 <br>
 
@@ -88,22 +105,28 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 
 - The aforementioned blonde punk has a very very slightly darker right eyebrow:
 
-{% img center /images/DIU01/tv-09740.jpg %}
-{% img center /images/DIU01/bd-09740.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU01/tv-09740.jpg" />
+ <img src="/images/DIU01/bd-09740.jpg"/>
+</div>
 
 <br>
 
 - Koichi has a thinner outer border in this scene:
 
-{% img center /images/DIU01/tv-17300.jpg %}
-{% img center /images/DIU01/bd-17300.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU01/tv-17300.jpg" />
+ <img src="/images/DIU01/bd-17300.jpg" />
+</div>
 
 <br>
 
 - Koichi's mouth has been properly shaded here:
 
-{% img center /images/DIU01/tv-19820.jpg %}
-{% img center /images/DIU01/bd-19820.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU01/tv-19820.jpg" />
+ <img src="/images/DIU01/bd-19820.jpg" />
+</div>
 
 <br>
 
@@ -120,8 +143,10 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 
 - Josuke has a bighter and pinker aura in this scene:
 
-{% img center /images/DIU01/tv-28940.jpg %}
-{% img center /images/DIU01/bd-28940.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU01/tv-28940.jpg" />
+ <img src="/images/DIU01/bd-28940.jpg" />
+</div>
 
 <br>
 
@@ -138,35 +163,58 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 
 - Crazy Diamond's punch has been uncensored (the second censoring is a bit hard to spot):
 
-{% img center /images/DIU01/tv-29710.jpg %}
-{% img center /images/DIU01/bd-29710.jpg %}
-{% img center /images/DIU01/tv-29800.jpg %}
-{% img center /images/DIU01/bd-29800.jpg %}
-{% img center /images/DIU01/tv-29897.jpg %}
-{% img center /images/DIU01/bd-29897.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU01/tv-29710.jpg" />
+ <img src="/images/DIU01/bd-29710.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU01/tv-29800.jpg" />
+ <img src="/images/DIU01/bd-29800.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU01/tv-29897.jpg" />
+ <img src="/images/DIU01/bd-29897.jpg" />
+</div>
 
 <br>
 
 - Several people have been removed from the end credits:
 
-{% img center /images/DIU01/tv-31390.jpg %}
-{% img center /images/DIU01/bd-31390.jpg %}
-{% img center /images/DIU01/tv-31540.jpg %}
-{% img center /images/DIU01/bd-31540.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU01/tv-31390.jpg" />
+ <img src="/images/DIU01/bd-31390.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU01/tv-31540.jpg" />
+ <img src="/images/DIU01/bd-31540.jpg" />
+</div>
 
 <br>
 
 - As stated earlier, 加藤恵 (Katō Megumi) is no longer in the ending credits:
 
-{% img center /images/DIU01/tv-31750.jpg %}
-{% img center /images/DIU01/bd-31750.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU01/tv-31750.jpg" />
+ <img src="/images/DIU01/bd-31750.jpg" />
+</div>
 
 <br>
 
 - The "next time" card is slightly brighter:
 
-{% img center /images/DIU01/tv-33970.jpg %}
-{% img center /images/DIU01/bd-33970.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU01/tv-33970.jpg" />
+ <img src="/images/DIU01/bd-33970.jpg" />
+</div>
 
 <br>
 

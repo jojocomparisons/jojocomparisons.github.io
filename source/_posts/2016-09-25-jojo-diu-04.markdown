@@ -1,0 +1,127 @@
+---
+layout: post
+title: "Diamond is Unbreakable #04 - The Nijimura Brothers - Part 2"
+date: 2016-09-25 11:02:09 +0200
+comments: true
+categories: diu
+---
+
+{% img center /images/DIU04/04-headerJP.png %}
+<!-- more -->
+<script>
+$(window).load(function(){
+  $(".twentytwenty-container").twentytwenty();
+});
+</script>
+
+<br>
+<br>
+
+Hi there, and welcome back for a look at the differences in Episode #04! Nothing major this time around, just some blood added here and there, and a couple of slight changes in the end credits. Let's go!
+
+<br>
+
+- Koichi's neck wound has been uncensored again:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU04/tv-06260.jpg" />
+ <img src="/images/DIU04/bd-06260.jpg" />
+</div>
+
+<br>
+
+- This is a weird thing to write, but in this scene the blood on the ground near Okuyasu's head has been *erased*, because of consistency with the following scene:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU04/tv-06890.jpg" />
+ <img src="/images/DIU04/bd-06890.jpg" />
+</div>
+
+<br>
+
+- Koichi's neck wound again:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU04/tv-11900.jpg" />
+ <img src="/images/DIU04/bd-11900.jpg" />
+</div>
+
+<br>
+
+- There's blood on Josuke's left shoulder:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU04/tv-19275.jpg" />
+ <img src="/images/DIU04/bd-19275.jpg" />
+</div>
+
+<br>
+
+- Part of Josuke's face is covered in blood (it's more clearly visible in the second couple of screenshots):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU04/tv-19690.jpg" />
+ <img src="/images/DIU04/bd-19690.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU04/tv-20100.jpg" />
+ <img src="/images/DIU04/bd-20100.jpg" />
+</div>
+
+<br>
+
+- As usual, Crazy Diamond's beatdown is sharper and brighter:
+
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU04/TV%201%20-%20beatdown.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU04/BD%201%20-%20beatdown.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+
+<br>
+
+- Koichi now has a cut on his cheek:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU04/tv-28765.jpg" />
+ <img src="/images/DIU04/bd-28765.jpg" />
+</div>
+
+<br>
+
+- Once again, more blood on Josuke's face:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU04/tv-28900.jpg" />
+ <img src="/images/DIU04/bd-28900.jpg" />
+</div>
+
+<br>
+
+- 吉本雅一 (Yoshimoto Masakazu) has been removed from the end credits:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU04/tv-32520.jpg" />
+ <img src="/images/DIU04/bd-32520.jpg" />
+</div>
+
+<br>
+
+- And here, 暁 (Akatsuki) has been added:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU04/tv-32596.jpg" />
+ <img src="/images/DIU04/bd-32596.jpg" />
+</div>
+
+<br>
+
+Aaand that's it! Mostly blood and cuts, nothing too exciting. Tune in next time as we see what happened to Nijimura senior!
+
+Bye!
+
+{% img center /images/tobecontinued.png %}

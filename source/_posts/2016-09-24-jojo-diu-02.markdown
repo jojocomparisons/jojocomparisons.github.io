@@ -8,56 +8,93 @@ categories: diu
 
 {% img center /images/DIU02/02-headerJP.png %}
 <!-- more -->
+<script>
+$(window).load(function(){
+  $(".twentytwenty-container").twentytwenty();
+});
+</script>
 
 <br>
 <br>
 
 Welcome back for Episode #02! Unfortunately I've lost the cached copies of the previous blog entries, so you'll have to excuse some differences in the way I'll talk about the frames and whatnot, since I honestly can't remember the exact phrasing I used there.
 
-The frames themselves, however, will be more or less the same, since thankfully those were safely stored on my HDD. Without further ado then, let's go! As always, top is **TV** and bottom is **Bluray**.
+The frames themselves, however, will be more or less the same, since thankfully those were safely stored on my HDD. Without further ado then, let's go!
 
 <br>
 
 - This scene of Angelo biting the dog's face is uncensored:
 
-{% img center /images/DIU02/tv-03510.jpg %}
-{% img center /images/DIU02/bd-03510.jpg %}
-{% img center /images/DIU02/tv-03547.jpg %}
-{% img center /images/DIU02/bd-03547.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU02/tv-03510.jpg" />
+ <img src="/images/DIU02/bd-03510.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU02/tv-03547.jpg" />
+ <img src="/images/DIU02/bd-03547.jpg" />
+</div>
 
 <br>
 
 - Likewise, the BD has this dude dying in all its glory:
 
-{% img center /images/DIU02/tv-04065.jpg %}
-{% img center /images/DIU02/bd-04065.jpg %}
-{% img center /images/DIU02/tv-04090.jpg %}
-{% img center /images/DIU02/bd-04090.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU02/tv-04065.jpg" />
+ <img src="/images/DIU02/bd-04065.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU02/tv-04090.jpg" />
+ <img src="/images/DIU02/bd-04090.jpg" />
+</div>
 
 <br>
 
 - I'm not sure why, but in the opening, the sign behind Josuke has been changed: where it first read "Doradoradora" (ドラドラドラ) it now reads "Dorarara!" (ドラララ！):
 
-{% img center /images/DIU02/tv-04950.jpg %}
-{% img center /images/DIU02/bd-04950.jpg %}
-{% img center /images/DIU02/tv-04970.jpg %}
-{% img center /images/DIU02/bd-04970.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU02/tv-04950.jpg" />
+ <img src="/images/DIU02/bd-04950.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU02/tv-04970.jpg" />
+ <img src="/images/DIU02/bd-04970.jpg" />
+</div>
 
 <br>
 
 - Uncensored mom penetration:
 
-{% img center /images/DIU02/tv-08610.jpg %}
-{% img center /images/DIU02/bd-08610.jpg %}
-{% img center /images/DIU02/tv-08696.jpg %}
-{% img center /images/DIU02/bd-08696.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU02/tv-08610.jpg" />
+ <img src="/images/DIU02/bd-08610.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU02/tv-08696.jpg" />
+ <img src="/images/DIU02/bd-08696.jpg" />
+</div>
 
 <br>
 
 - Josuke's score in "Oh! That's A Baseball '99" has been rebalanced:
 
-{% img center /images/DIU02/tv-09870.jpg %}
-{% img center /images/DIU02/bd-09870.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU02/tv-09870.jpg" />
+ <img src="/images/DIU02/bd-09870.jpg" />
+</div>
+
+<br>
 
 - This animation of Crazy Diamond is sharper and brighter:
 
@@ -72,8 +109,10 @@ The frames themselves, however, will be more or less the same, since thankfully 
 
 - A slight animation mistake resulted in a couple of frames in which the background was visible on top of Jotaro. This has been fixed in the BDs:
 
-{% img center /images/DIU02/tv-29440.jpg %}
-{% img center /images/DIU02/bd-29440.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU02/tv-29440.jpg" />
+ <img src="/images/DIU02/bd-29440.jpg" />
+</div>
 
 <br>
 
@@ -112,10 +151,16 @@ The frames themselves, however, will be more or less the same, since thankfully 
 
 - 猿田涼 has been added to the end credits:
 
-{% img center /images/DIU02/tv-33400.jpg %}
-{% img center /images/DIU02/bd-33400.jpg %}
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU02/tv-33400.jpg" />
+ <img src="/images/DIU02/bd-33400.jpg" />
+</div>
 
 <br>
+
+As you might have noticed from the last frame comparison, the TV and BD versions are overall different: this is because the broadcast version of the ending they broacast in Episode #02 was still a rough, unfinished version, which was changed from Episode #03 onwards, and in the BDs as well. You can see a comparison in this video:
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/G3m5bGgxdZM" frameborder="0" allowfullscreen></iframe></center>
 
 Alright, that's it for Episode #02! Tune in next time as we take a look at everyone's favourite dysfunctional family!
 

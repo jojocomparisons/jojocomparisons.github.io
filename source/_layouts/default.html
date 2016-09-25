@@ -1,6 +1,6 @@
 {% capture root_url %}{{ site.root | strip_slash }}{% endcapture %}
 {% include head.html %}
-<body class="collapse-sidebar" {% if page.body_id %} id="{{ page.body_id }}" {% endif %} {% if page.sidebar == false %} class="no-sidebar" {% endif %} {% if page.sidebar == 'collapse' or site.sidebar == 'collapse' %} class="collapse-sidebar" {% endif %}>
+<body {% if page.body_id %} id="{{ page.body_id }}" {% endif %} {% if page.collapsed == true %} class="collapse-sidebar" {% endif %} {% if page.sidebar == false %} class="no-sidebar" {% endif %} {% if page.sidebar == 'collapse' or site.sidebar == 'collapse' %} class="collapse-sidebar" {% endif %}>
   <header role="banner">{% include header.html %}</header>
   <div id="main">
     <div id="content">

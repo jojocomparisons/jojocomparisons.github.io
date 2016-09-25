@@ -1,0 +1,148 @@
+---
+layout: post
+title: "Diamond is Unbreakable #06 - Koichi Hirose (Echoes)"
+date: 2016-09-25 11:02:22 +0200
+comments: true
+categories: diu
+---
+
+{% img center /images/DIU06/06-headerJP.png %}
+<!-- more -->
+<script>
+$(window).load(function(){
+  $(".twentytwenty-container").twentytwenty();
+});
+</script>
+
+<br>
+<br>
+
+Welcome back, everyone! Join me in finding out what hides in Koichi's egg, and if 
+
+- Throughout all the episode, the kanji on the lock (銭, which indicates small amounts of money) has a very small correction. Japanese 101: most kanji are divisibile in two parts, one that carries the on pronounciation (which is the one it's used in chinese-derived compounds) and one that gives it the meaning; in this case they are 金 and 戔 (or a simplified version of those two). The top of second one, which in this case is the one that dictates the on pronounciation of the kanji, was mistakenly drawn as if it was two different strokes, as in kanji like 羊, 美, 首, etcetera, while instead it is one straight line from the top with an extra stroke, as in kanji like 式, 武, 代, etcetera. The BDs fixed that:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU06/tv-06380.jpg" />
+ <img src="/images/DIU06/bd-06380.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU06/tv-06870.jpg" />
+ <img src="/images/DIU06/bd-06870.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU06/tv-08135.jpg" />
+ <img src="/images/DIU06/bd-08135.jpg" />
+</div>
+
+<br>
+
+- Okuyasu's right shoulder has the 億 (Million, it's also the first kanji of his name, 億泰) kanji written on it. Usually it's yellow, but in this shot it was mistakenly colored white. This has been corrected in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU06/tv-09390.jpg" />
+ <img src="/images/DIU06/bd-09390.jpg" />
+</div>
+
+<br>
+
+- In some frames of the scene where Tamami falls to the ground on purpose, his outline has been redrawn:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU06/tv-11991.jpg" />
+ <img src="/images/DIU06/bd-11991.jpg" />
+</div>
+
+<br>
+
+- In this scene, Okuyasu's collar was colored wrong and the dollar sign was missing from his chest:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU06/tv-12200.jpg" />
+ <img src="/images/DIU06/bd-12200.jpg" />
+</div>
+
+<br>
+
+- This part has it all: a different background, the usual 銭 kanji redrawn, and the zoom is pulled in closer:
+
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU06/TV%201%20-%20combo.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU06/BD%201%20-%20combo.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+
+<br>
+
+- 銭 again:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU06/tv-20690.jpg" />
+ <img src="/images/DIU06/bd-20690.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU06/tv-21100.jpg" />
+ <img src="/images/DIU06/bd-21100.jpg" />
+</div>
+
+<br>
+
+- The first frame of this animation of Echoes punching Tamami is different:
+
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU06/TV%202%20-%20echoes.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU06/BD%202%20-%20echoes.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+
+<br>
+
+- 銭 for the last time:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU06/tv-27400.jpg" />
+ <img src="/images/DIU06/bd-27400.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU06/tv-27530.jpg" />
+ <img src="/images/DIU06/bd-27530.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU06/tv-27660.jpg" />
+ <img src="/images/DIU06/bd-27660.jpg" />
+</div>
+
+<br>
+
+- Lastly, this scene has brighter colors:
+
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU06/TV%203%20-%20colors.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+<video class='center' nocontrols autoplay loop preload='auto'>
+  <source src=/videos/DIU06/BD%203%20-%20colors.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+
+<br>
+
+And that's all for Episode #06! As of writing, only BD 01 and 02 have been ripped, so you'll probably have to wait a while for the rest of the episode to be compared, but (as you can see in the <a href=/episodelist/>episode list</a>) I'm intending to do every part, so those will start coming in a while.
+
+See you then!
+
+{% img center /images/tobecontinued.png %}
