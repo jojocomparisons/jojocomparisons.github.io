@@ -6,13 +6,8 @@ comments: true
 categories: diu
 ---
 
-{% img center /images/DIU05/05-headerJP.png %}
+{% img center /images/DIU05/05-headerJP.jpg %}
 <!-- more -->
-<script>
-$(window).load(function(){
-  $(".twentytwenty-container").twentytwenty();
-});
-</script>
 
 <br>
 <br>
@@ -21,23 +16,39 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 
 - The explosion in the beginning is brighter:
 
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/TV%201%20-%20explosion.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/BD%201%20-%20explosion.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+</tr>
+</table>
 
 <br>
 
 - Nijimura Senior's regenerating arm has been uncensored (even though there was no blood in the first place):
 
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/TV%202%20-%20arm.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/BD%202%20-%20arm.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -52,12 +63,20 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 
 - This animation of RHCP punching through Keicho's chest has received the usual sharper-and-brighter treatment; moreover, RHCP's hands are shaded differently:
 
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/TV%203%20-%20RHCP.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/BD%203%20-%20RHCP.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+</tr>
+</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="/images/DIU05/tv-24170.jpg" />
@@ -75,12 +94,20 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 
 - This animation of the socket exploding is brighter:
 
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/TV%204%20-%20flashes.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/BD%204%20-%20flashes.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -95,12 +122,20 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 
 - This last animation of the phone exploding has been slightly changed:
 
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/TV%205%20-%20phone.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/BD%205%20-%20phone.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+</tr>
+</table>
 
 <br>
 

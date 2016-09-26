@@ -6,13 +6,8 @@ comments: true
 categories: diu
 ---
 
-{% img center /images/DIU02/02-headerJP.png %}
+{% img center /images/DIU02/02-headerJP.jpg %}
 <!-- more -->
-<script>
-$(window).load(function(){
-  $(".twentytwenty-container").twentytwenty();
-});
-</script>
 
 <br>
 <br>
@@ -98,12 +93,20 @@ The frames themselves, however, will be more or less the same, since thankfully 
 
 - This animation of Crazy Diamond is sharper and brighter:
 
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU02/TV%201%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU02/BD%201%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -118,34 +121,58 @@ The frames themselves, however, will be more or less the same, since thankfully 
 
 - This horizontal pan has been slightly zoomed in:
 
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU02/TV%202%20-%20angelo%20pan.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU02/BD%202%20-%20angelo%20pan.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+</tr>
+</table>
 
 <br>
 
 - As with all the beatdown animations, Crazy Diamond punching Angelo has been sharpened and made brighter:
 
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU02/TV%203%20-%20angelo%20beatdown.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU02/BD%203%20-%20angelo%20beatdown.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+</tr>
+</table>
 
 <br>
 
 - Josuke's mouth flap has been slightly changed here:
 
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU02/TV%204%20-%20josuke%20talking.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU02/BD%204%20-%20josuke%20talking.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+</tr>
+</table>
 
 <br>
 

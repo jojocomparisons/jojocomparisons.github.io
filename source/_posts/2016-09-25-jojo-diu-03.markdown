@@ -6,13 +6,8 @@ comments: true
 categories: diu
 ---
 
-{% img center /images/DIU03/03-headerJP.png %}
+{% img center /images/DIU03/03-headerJP.jpg %}
 <!-- more -->
-<script>
-$(window).load(function(){
-  $(".twentytwenty-container").twentytwenty();
-});
-</script>
 
 <br>
 <br>
@@ -23,12 +18,20 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 
 - The scene of Keicho shooting Angelo has got brighter whites (I'm noticing this kind of bright scenes usually get dimmed down in the broadcast version, I wonder if there are some laws regulating the brightness of broadcasts in Japan):
 
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU03/TV%201%20-%20whiteout.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU03/BD%201%20-%20whiteout.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -52,12 +55,20 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 
 - Keicho's eyes have received a snakeskin-like makeover:
 
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU03/TV%202%20-%20eyes.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU03/BD%202%20-%20eyes.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -72,12 +83,20 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 
 - The zoom has been pulled slightly closer here:
 
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU03/TV%203%20-%20enyazoom.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU03/BD%203%20-%20enyazoom.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -122,12 +141,20 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 
 - The animation of Crazy Diamond going back into Josuke is slightly smoother:
 
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU03/TV%204%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU03/BD%204%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+</tr>
+</table>
 
 <br>
 
