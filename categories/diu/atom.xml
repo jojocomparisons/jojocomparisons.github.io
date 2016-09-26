@@ -4,7 +4,7 @@
   <title><![CDATA[Category: diu | JoJo's Bizarre Comparisons]]></title>
   <link href="http://jojocomparisons.github.io/categories/diu/atom.xml" rel="self"/>
   <link href="http://jojocomparisons.github.io/"/>
-  <updated>2016-09-25T20:07:07+02:00</updated>
+  <updated>2016-09-27T01:30:14+02:00</updated>
   <id>http://jojocomparisons.github.io/</id>
   <author>
     <name><![CDATA[Duwang Boi]]></name>
@@ -18,22 +18,15 @@
     <link href="http://jojocomparisons.github.io/jojo-diu-06/"/>
     <updated>2016-09-25T11:02:22+02:00</updated>
     <id>http://jojocomparisons.github.io/jojo-diu-06</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/DIU06/06-headerJP.png"></p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/DIU06/06-headerJP.jpg"></p>
 
 <!-- more -->
-
-
-<script>
-$(window).load(function(){
-  $(".twentytwenty-container").twentytwenty();
-});
-</script>
 
 
 <p><br>
 <br></p>
 
-<p>Welcome back, everyone! Join me in finding out what hides in Koichi&rsquo;s egg, and if</p>
+<p>Welcome back, everyone! Join me in finding out what hides in Koichi&rsquo;s egg, and if it&rsquo;s anything better than what was in Jotaro&rsquo;s egg in that one terrible Doujin.</p>
 
 <ul>
 <li>Throughout all the episode, the kanji on the lock (銭, which indicates small amounts of money) has a very small correction. Japanese 101: most kanji are divisibile in two parts, one that carries the on pronounciation (which is the one it&rsquo;s used in chinese-derived compounds) and one that gives it the meaning; in this case they are 金 and 戔 (or a simplified version of those two). The top of second one, which in this case is the one that dictates the on pronounciation of the kanji, was mistakenly drawn as if it was two different strokes, as in kanji like 羊, 美, 首, etcetera, while instead it is one straight line from the top with an extra stroke, as in kanji like 式, 武, 代, etcetera. The BDs fixed that:</li>
@@ -108,12 +101,21 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU06/TV%201%20-%20combo.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU06/BD%201%20-%20combo.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
 
 <p><br></p>
 
@@ -143,12 +145,21 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU06/TV%202%20-%20echoes.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU06/BD%202%20-%20echoes.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
 
 <p><br></p>
 
@@ -186,12 +197,21 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU06/TV%203%20-%20colors.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU06/BD%203%20-%20colors.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
 
 <p><br></p>
 
@@ -208,16 +228,9 @@ $(window).load(function(){
     <link href="http://jojocomparisons.github.io/jojo-diu-05/"/>
     <updated>2016-09-25T11:02:15+02:00</updated>
     <id>http://jojocomparisons.github.io/jojo-diu-05</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/DIU05/05-headerJP.png"></p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/DIU05/05-headerJP.jpg"></p>
 
 <!-- more -->
-
-
-<script>
-$(window).load(function(){
-  $(".twentytwenty-container").twentytwenty();
-});
-</script>
 
 
 <p><br>
@@ -230,12 +243,21 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/TV%201%20-%20explosion.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/BD%201%20-%20explosion.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
 
 <p><br></p>
 
@@ -244,12 +266,21 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/TV%202%20-%20arm.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/BD%202%20-%20arm.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
 
 <p><br></p>
 
@@ -271,12 +302,23 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/TV%203%20-%20RHCP.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/BD%203%20-%20RHCP.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
+
+
 
 <div id="container1" class="twentytwenty-container">
  <img src="http://jojocomparisons.github.io/images/DIU05/tv-24170.jpg" />
@@ -299,12 +341,21 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/TV%204%20-%20flashes.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/BD%204%20-%20flashes.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
 
 <p><br></p>
 
@@ -326,12 +377,21 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/TV%205%20-%20phone.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU05/BD%205%20-%20phone.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
 
 <p><br></p>
 
@@ -374,16 +434,9 @@ $(window).load(function(){
     <link href="http://jojocomparisons.github.io/jojo-diu-04/"/>
     <updated>2016-09-25T11:02:09+02:00</updated>
     <id>http://jojocomparisons.github.io/jojo-diu-04</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/DIU04/04-headerJP.png"></p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/DIU04/04-headerJP.jpg"></p>
 
 <!-- more -->
-
-
-<script>
-$(window).load(function(){
-  $(".twentytwenty-container").twentytwenty();
-});
-</script>
 
 
 <p><br>
@@ -471,12 +524,21 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU04/TV%201%20-%20beatdown.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU04/BD%201%20-%20beatdown.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
 
 <p><br></p>
 
@@ -545,16 +607,9 @@ $(window).load(function(){
     <link href="http://jojocomparisons.github.io/jojo-diu-03/"/>
     <updated>2016-09-25T11:01:59+02:00</updated>
     <id>http://jojocomparisons.github.io/jojo-diu-03</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/DIU03/03-headerJP.png"></p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/DIU03/03-headerJP.jpg"></p>
 
 <!-- more -->
-
-
-<script>
-$(window).load(function(){
-  $(".twentytwenty-container").twentytwenty();
-});
-</script>
 
 
 <p><br>
@@ -569,12 +624,21 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU03/TV%201%20-%20whiteout.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU03/BD%201%20-%20whiteout.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
 
 <p><br></p>
 
@@ -609,12 +673,21 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU03/TV%202%20-%20eyes.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU03/BD%202%20-%20eyes.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
 
 <p><br></p>
 
@@ -636,12 +709,21 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU03/TV%203%20-%20enyazoom.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU03/BD%203%20-%20enyazoom.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
 
 <p><br></p>
 
@@ -700,12 +782,21 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU03/TV%204%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU03/BD%204%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
 
 <p><br></p>
 
@@ -774,16 +865,9 @@ $(window).load(function(){
     <link href="http://jojocomparisons.github.io/jojo-diu-02/"/>
     <updated>2016-09-24T16:15:11+02:00</updated>
     <id>http://jojocomparisons.github.io/jojo-diu-02</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/DIU02/02-headerJP.png"></p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/DIU02/02-headerJP.jpg"></p>
 
 <!-- more -->
-
-
-<script>
-$(window).load(function(){
-  $(".twentytwenty-container").twentytwenty();
-});
-</script>
 
 
 <p><br>
@@ -897,12 +981,21 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU02/TV%201%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU02/BD%201%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
 
 <p><br></p>
 
@@ -924,12 +1017,21 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU02/TV%202%20-%20angelo%20pan.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU02/BD%202%20-%20angelo%20pan.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
 
 <p><br></p>
 
@@ -938,12 +1040,21 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU02/TV%203%20-%20angelo%20beatdown.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU02/BD%203%20-%20angelo%20beatdown.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
 
 <p><br></p>
 
@@ -952,12 +1063,21 @@ $(window).load(function(){
 </ul>
 
 
-<p><video class='center' nocontrols autoplay loop preload='auto'>
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU02/TV%204%20-%20josuke%20talking.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
+</td>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols autoplay loop preload='auto'>
   <source src=/videos/DIU02/BD%204%20-%20josuke%20talking.webm type='video/webm; codecs="vp8, vorbis"'>
-</video></p>
+</video>
+</td>
+</tr>
+</table>
+
 
 <p><br></p>
 
