@@ -14,6 +14,8 @@ categories: diu
 
 Welcome back, everyone! Join me in finding out what hides in Koichi's egg, and if it's anything better than what was in Jotaro's egg in that one terrible Doujin.
 
+<br>
+
 - Throughout all the episode, the kanji on the lock (銭, which indicates small amounts of money) has a very small correction. Japanese 101: most kanji are divisibile in two parts, one that carries the on pronounciation (which is the one it's used in chinese-derived compounds) and one that gives it the meaning; in this case they are 金 and 戔 (or a simplified version of those two). The top of second one, which in this case is the one that dictates the on pronounciation of the kanji, was mistakenly drawn as if it was two different strokes, as in kanji like 羊, 美, 首, etcetera, while instead it is one straight line from the top with an extra stroke, as in kanji like 式, 武, 代, etcetera. The BDs fixed that:
 
 <div id="container1" class="twentytwenty-container">
@@ -65,6 +67,7 @@ Welcome back, everyone! Join me in finding out what hides in Koichi's egg, and i
 <br>
 
 - This part has it all: a different background, the usual 銭 kanji redrawn, and the zoom is pulled in closer:
+
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
