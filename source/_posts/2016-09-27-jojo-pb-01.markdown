@@ -210,7 +210,7 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 
 <br>
 
-- A couple of frames in the broadcast version of this scene have a blatant error: the previous frame (Jonathan with eyes open) was not cleared, and the new frame (Jonathan with eyes closed) was drawn on top of it. The ear was also shadowed and the outline redrawn:
+- A couple of frames in the broadcast version of this scene have a blatant error: the previous frame (Jonathan with eyes open) was not cleared, and the new frame (Jonathan with eyes closed) was drawn on top of it. This was corrected in the BDs; the ear was also shadowed and the outline redrawn:
 
 <div id="container1" class="twentytwenty-container">
  <img src="/images/PB01/tv-19242.jpg" />
@@ -359,7 +359,7 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 
 <br>
 
-- The left part has been raised up a bit, the right part has been moved slightly to the left, and "david production" has been added to the section that was previously named テクスチャーデザイン ("Texture design") and is now named デジタルワークス ("Digital works"); "david production" has also been added o the 3DCGI section:
+- The left part has been raised up a bit, the right part has been moved slightly to the left, and "david production" has been added to the section that was previously named テクスチャーデザイン ("Texture design") and is now just a general デジタルワークス ("Digital works"); "david production" has also been added to the 3DCGI section:
 
 <div id="container1" class="twentytwenty-container">
  <img src="/images/PB01/tv-32445.jpg" />
@@ -386,7 +386,7 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 
 <br>
 
-- Finally, in the "Next time" section, the background checkers have been slightly raised:
+- Finally, in the "Next time" section, the background rhombuses (rhombi?) have been slightly raised:
 
 <div id="container1" class="twentytwenty-container">
  <img src="/images/PB01/tv-33700.jpg" />
