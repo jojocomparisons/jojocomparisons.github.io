@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title><![CDATA[JoJo's Bizarre Comparisons]]></title>
-  <link href="http://jojocomparisons.github.io/atom.xml" rel="self"/>
-  <link href="http://jojocomparisons.github.io/"/>
-  <updated>2016-09-27T20:15:06+02:00</updated>
-  <id>http://jojocomparisons.github.io/</id>
+  <link href="https://jojocomparisons.github.io/atom.xml" rel="self"/>
+  <link href="https://jojocomparisons.github.io/"/>
+  <updated>2016-09-28T22:38:11+02:00</updated>
+  <id>https://jojocomparisons.github.io/</id>
   <author>
     <name><![CDATA[Duwang Boi]]></name>
     
@@ -14,10 +14,10 @@
   
   <entry>
     <title type="html"><![CDATA[Phantom Blood #01 - Dio the Invader]]></title>
-    <link href="http://jojocomparisons.github.io/jojo-pb-01/"/>
+    <link href="https://jojocomparisons.github.io/jojo-pb-01/"/>
     <updated>2016-09-27T12:18:52+02:00</updated>
-    <id>http://jojocomparisons.github.io/jojo-pb-01</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://jojocomparisons.github.io/images/PB01/01-headerJP.jpg"></p>
+    <id>https://jojocomparisons.github.io/jojo-pb-01</id>
+    <content type="html"><![CDATA[<p><img class="center" src="https://jojocomparisons.github.io/images/PB01/01-headerJP.jpg"></p>
 
 <!-- more -->
 
@@ -35,8 +35,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-00300.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-00300.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-00300.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-00300.jpg" />
 </div>
 
 
@@ -48,8 +48,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-00415.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-00415.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-00415.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-00415.jpg" />
 </div>
 
 
@@ -61,16 +61,16 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-02800.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-02800.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-02800.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-02800.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-02890.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-02890.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-02890.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-02890.jpg" />
 </div>
 
 
@@ -82,8 +82,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-08680.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-08680.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-08680.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-08680.jpg" />
 </div>
 
 
@@ -95,8 +95,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-08773.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-08773.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-08773.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-08773.jpg" />
 </div>
 
 
@@ -108,16 +108,16 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-09605.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-09605.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-09605.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-09605.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-10076.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-10076.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-10076.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-10076.jpg" />
 </div>
 
 
@@ -129,8 +129,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-10245.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-10245.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-10245.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-10245.jpg" />
 </div>
 
 
@@ -142,8 +142,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-10390.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-10390.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-10390.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-10390.jpg" />
 </div>
 
 
@@ -155,8 +155,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-10566.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-10566.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-10566.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-10566.jpg" />
 </div>
 
 
@@ -168,16 +168,16 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-11137.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-11137.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-11137.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-11137.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-11257.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-11257.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-11257.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-11257.jpg" />
 </div>
 
 
@@ -189,8 +189,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-11300.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-11300.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-11300.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-11300.jpg" />
 </div>
 
 
@@ -202,8 +202,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-11600.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-11600.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-11600.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-11600.jpg" />
 </div>
 
 
@@ -215,8 +215,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-11700.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-11700.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-11700.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-11700.jpg" />
 </div>
 
 
@@ -251,8 +251,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-12931.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-12931.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-12931.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-12931.jpg" />
 </div>
 
 
@@ -287,8 +287,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-16725.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-16725.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-16725.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-16725.jpg" />
 </div>
 
 
@@ -300,8 +300,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-19242.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-19242.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-19242.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-19242.jpg" />
 </div>
 
 
@@ -313,8 +313,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-19280.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-19280.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-19280.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-19280.jpg" />
 </div>
 
 
@@ -441,8 +441,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-31940.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-31940.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-31940.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-31940.jpg" />
 </div>
 
 
@@ -454,8 +454,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-32000.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-32000.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-32000.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-32000.jpg" />
 </div>
 
 
@@ -467,8 +467,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-32200.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-32200.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-32200.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-32200.jpg" />
 </div>
 
 
@@ -480,8 +480,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-32300.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-32300.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-32300.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-32300.jpg" />
 </div>
 
 
@@ -493,8 +493,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-32445.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-32445.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-32445.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-32445.jpg" />
 </div>
 
 
@@ -506,8 +506,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-33000.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-33000.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-33000.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-33000.jpg" />
 </div>
 
 
@@ -519,8 +519,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-33150.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-33150.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-33150.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-33150.jpg" />
 </div>
 
 
@@ -532,16 +532,16 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-33700.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-33700.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-33700.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-33700.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/PB01/tv-34000.jpg" />
- <img src="http://jojocomparisons.github.io/images/PB01/bd-34000.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/tv-34000.jpg" />
+ <img src="https://jojocomparisons.github.io/images/PB01/bd-34000.jpg" />
 </div>
 
 
@@ -551,16 +551,16 @@
 
 <p>Thanks for reading and see you next time!</p>
 
-<p><img class="center" src="http://jojocomparisons.github.io/images/tobecontinued.png"></p>
+<p><img class="center" src="https://jojocomparisons.github.io/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Diamond is Unbreakable #06 - Koichi Hirose (Echoes)]]></title>
-    <link href="http://jojocomparisons.github.io/jojo-diu-06/"/>
+    <link href="https://jojocomparisons.github.io/jojo-diu-06/"/>
     <updated>2016-09-25T11:02:22+02:00</updated>
-    <id>http://jojocomparisons.github.io/jojo-diu-06</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://jojocomparisons.github.io/images/DIU06/06-headerJP.jpg"></p>
+    <id>https://jojocomparisons.github.io/jojo-diu-06</id>
+    <content type="html"><![CDATA[<p><img class="center" src="https://jojocomparisons.github.io/images/DIU06/06-headerJP.jpg"></p>
 
 <!-- more -->
 
@@ -578,24 +578,24 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU06/tv-06380.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU06/bd-06380.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/tv-06380.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/bd-06380.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU06/tv-06870.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU06/bd-06870.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/tv-06870.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/bd-06870.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU06/tv-08135.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU06/bd-08135.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/tv-08135.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/bd-08135.jpg" />
 </div>
 
 
@@ -607,8 +607,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU06/tv-09390.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU06/bd-09390.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/tv-09390.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/bd-09390.jpg" />
 </div>
 
 
@@ -620,8 +620,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU06/tv-11991.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU06/bd-11991.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/tv-11991.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/bd-11991.jpg" />
 </div>
 
 
@@ -633,8 +633,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU06/tv-12200.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU06/bd-12200.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/tv-12200.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/bd-12200.jpg" />
 </div>
 
 
@@ -669,16 +669,16 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU06/tv-20690.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU06/bd-20690.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/tv-20690.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/bd-20690.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU06/tv-21100.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU06/bd-21100.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/tv-21100.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/bd-21100.jpg" />
 </div>
 
 
@@ -713,24 +713,24 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU06/tv-27400.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU06/bd-27400.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/tv-27400.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/bd-27400.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU06/tv-27530.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU06/bd-27530.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/tv-27530.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/bd-27530.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU06/tv-27660.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU06/bd-27660.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/tv-27660.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU06/bd-27660.jpg" />
 </div>
 
 
@@ -763,16 +763,16 @@
 
 <p>See you then!</p>
 
-<p><img class="center" src="http://jojocomparisons.github.io/images/tobecontinued.png"></p>
+<p><img class="center" src="https://jojocomparisons.github.io/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Diamond is Unbreakable #05 - The Nijimura Brothers - Part 3]]></title>
-    <link href="http://jojocomparisons.github.io/jojo-diu-05/"/>
+    <link href="https://jojocomparisons.github.io/jojo-diu-05/"/>
     <updated>2016-09-25T11:02:15+02:00</updated>
-    <id>http://jojocomparisons.github.io/jojo-diu-05</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://jojocomparisons.github.io/images/DIU05/05-headerJP.jpg"></p>
+    <id>https://jojocomparisons.github.io/jojo-diu-05</id>
+    <content type="html"><![CDATA[<p><img class="center" src="https://jojocomparisons.github.io/images/DIU05/05-headerJP.jpg"></p>
 
 <!-- more -->
 
@@ -836,8 +836,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU05/tv-24000.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU05/bd-24000.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU05/tv-24000.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU05/bd-24000.jpg" />
 </div>
 
 
@@ -867,16 +867,16 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU05/tv-24170.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU05/bd-24170.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU05/tv-24170.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU05/bd-24170.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU05/tv-24830.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU05/bd-24830.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU05/tv-24830.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU05/bd-24830.jpg" />
 </div>
 
 
@@ -911,8 +911,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU05/tv-29725.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU05/bd-29725.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU05/tv-29725.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU05/bd-29725.jpg" />
 </div>
 
 
@@ -947,8 +947,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU05/tv-32580.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU05/bd-32580.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU05/tv-32580.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU05/bd-32580.jpg" />
 </div>
 
 
@@ -960,8 +960,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU05/tv-32800.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU05/bd-32800.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU05/tv-32800.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU05/bd-32800.jpg" />
 </div>
 
 
@@ -971,16 +971,16 @@
 
 <p>Bye!</p>
 
-<p><img class="center" src="http://jojocomparisons.github.io/images/tobecontinued.png"></p>
+<p><img class="center" src="https://jojocomparisons.github.io/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Diamond is Unbreakable #04 - The Nijimura Brothers - Part 2]]></title>
-    <link href="http://jojocomparisons.github.io/jojo-diu-04/"/>
+    <link href="https://jojocomparisons.github.io/jojo-diu-04/"/>
     <updated>2016-09-25T11:02:09+02:00</updated>
-    <id>http://jojocomparisons.github.io/jojo-diu-04</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://jojocomparisons.github.io/images/DIU04/04-headerJP.jpg"></p>
+    <id>https://jojocomparisons.github.io/jojo-diu-04</id>
+    <content type="html"><![CDATA[<p><img class="center" src="https://jojocomparisons.github.io/images/DIU04/04-headerJP.jpg"></p>
 
 <!-- more -->
 
@@ -998,8 +998,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU04/tv-06260.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU04/bd-06260.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/tv-06260.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/bd-06260.jpg" />
 </div>
 
 
@@ -1011,8 +1011,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU04/tv-06890.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU04/bd-06890.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/tv-06890.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/bd-06890.jpg" />
 </div>
 
 
@@ -1024,8 +1024,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU04/tv-11900.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU04/bd-11900.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/tv-11900.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/bd-11900.jpg" />
 </div>
 
 
@@ -1037,8 +1037,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU04/tv-19275.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU04/bd-19275.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/tv-19275.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/bd-19275.jpg" />
 </div>
 
 
@@ -1050,16 +1050,16 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU04/tv-19690.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU04/bd-19690.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/tv-19690.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/bd-19690.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU04/tv-20100.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU04/bd-20100.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/tv-20100.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/bd-20100.jpg" />
 </div>
 
 
@@ -1094,8 +1094,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU04/tv-28765.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU04/bd-28765.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/tv-28765.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/bd-28765.jpg" />
 </div>
 
 
@@ -1107,8 +1107,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU04/tv-28900.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU04/bd-28900.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/tv-28900.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/bd-28900.jpg" />
 </div>
 
 
@@ -1120,8 +1120,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU04/tv-32520.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU04/bd-32520.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/tv-32520.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/bd-32520.jpg" />
 </div>
 
 
@@ -1133,8 +1133,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU04/tv-32596.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU04/bd-32596.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/tv-32596.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU04/bd-32596.jpg" />
 </div>
 
 
@@ -1144,16 +1144,16 @@
 
 <p>Bye!</p>
 
-<p><img class="center" src="http://jojocomparisons.github.io/images/tobecontinued.png"></p>
+<p><img class="center" src="https://jojocomparisons.github.io/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Diamond is Unbreakable #03 - The Nijimura Brothers - Part 1]]></title>
-    <link href="http://jojocomparisons.github.io/jojo-diu-03/"/>
+    <link href="https://jojocomparisons.github.io/jojo-diu-03/"/>
     <updated>2016-09-25T11:01:59+02:00</updated>
-    <id>http://jojocomparisons.github.io/jojo-diu-03</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://jojocomparisons.github.io/images/DIU03/03-headerJP.jpg"></p>
+    <id>https://jojocomparisons.github.io/jojo-diu-03</id>
+    <content type="html"><![CDATA[<p><img class="center" src="https://jojocomparisons.github.io/images/DIU03/03-headerJP.jpg"></p>
 
 <!-- more -->
 
@@ -1194,8 +1194,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU03/tv-08990.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU03/bd-08990.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/tv-08990.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/bd-08990.jpg" />
 </div>
 
 
@@ -1207,8 +1207,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU03/tv-09170.jpg"+ />
- <img src="http://jojocomparisons.github.io/images/DIU03/bd-09170.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/tv-09170.jpg"+ />
+ <img src="https://jojocomparisons.github.io/images/DIU03/bd-09170.jpg" />
 </div>
 
 
@@ -1243,8 +1243,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU03/tv-18580.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU03/bd-18580.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/tv-18580.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/bd-18580.jpg" />
 </div>
 
 
@@ -1279,8 +1279,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU03/tv-19430.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU03/bd-19430.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/tv-19430.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/bd-19430.jpg" />
 </div>
 
 
@@ -1292,32 +1292,32 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU03/tv-20610.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU03/bd-20610.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/tv-20610.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/bd-20610.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU03/tv-20675.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU03/bd-20675.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/tv-20675.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/bd-20675.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU03/tv-21410.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU03/bd-21410.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/tv-21410.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/bd-21410.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU03/tv-24560.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU03/bd-24560.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/tv-24560.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/bd-24560.jpg" />
 </div>
 
 
@@ -1352,8 +1352,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU03/tv-26535.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU03/bd-26535.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/tv-26535.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/bd-26535.jpg" />
 </div>
 
 
@@ -1365,8 +1365,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU03/tv-27900.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU03/bd-27900.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/tv-27900.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/bd-27900.jpg" />
 </div>
 
 
@@ -1378,8 +1378,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU03/tv-31700.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU03/bd-31700.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/tv-31700.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/bd-31700.jpg" />
 </div>
 
 
@@ -1391,8 +1391,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU03/tv-32800.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU03/bd-32800.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/tv-32800.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU03/bd-32800.jpg" />
 </div>
 
 
@@ -1402,16 +1402,16 @@
 
 <p>Bye!</p>
 
-<p><img class="center" src="http://jojocomparisons.github.io/images/tobecontinued.png"></p>
+<p><img class="center" src="https://jojocomparisons.github.io/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Diamond is Unbreakable #02 - Josuke Higashikata! Meets Angelo]]></title>
-    <link href="http://jojocomparisons.github.io/jojo-diu-02/"/>
+    <link href="https://jojocomparisons.github.io/jojo-diu-02/"/>
     <updated>2016-09-24T16:15:11+02:00</updated>
-    <id>http://jojocomparisons.github.io/jojo-diu-02</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://jojocomparisons.github.io/images/DIU02/02-headerJP.jpg"></p>
+    <id>https://jojocomparisons.github.io/jojo-diu-02</id>
+    <content type="html"><![CDATA[<p><img class="center" src="https://jojocomparisons.github.io/images/DIU02/02-headerJP.jpg"></p>
 
 <!-- more -->
 
@@ -1431,16 +1431,16 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU02/tv-03510.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU02/bd-03510.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/tv-03510.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/bd-03510.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU02/tv-03547.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU02/bd-03547.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/tv-03547.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/bd-03547.jpg" />
 </div>
 
 
@@ -1452,16 +1452,16 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU02/tv-04065.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU02/bd-04065.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/tv-04065.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/bd-04065.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU02/tv-04090.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU02/bd-04090.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/tv-04090.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/bd-04090.jpg" />
 </div>
 
 
@@ -1473,16 +1473,16 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU02/tv-04950.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU02/bd-04950.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/tv-04950.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/bd-04950.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU02/tv-04970.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU02/bd-04970.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/tv-04970.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/bd-04970.jpg" />
 </div>
 
 
@@ -1494,16 +1494,16 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU02/tv-08610.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU02/bd-08610.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/tv-08610.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/bd-08610.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU02/tv-08696.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU02/bd-08696.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/tv-08696.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/bd-08696.jpg" />
 </div>
 
 
@@ -1515,8 +1515,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU02/tv-09870.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU02/bd-09870.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/tv-09870.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/bd-09870.jpg" />
 </div>
 
 
@@ -1551,8 +1551,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU02/tv-29440.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU02/bd-29440.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/tv-29440.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/bd-29440.jpg" />
 </div>
 
 
@@ -1633,8 +1633,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU02/tv-33400.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU02/bd-33400.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/tv-33400.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU02/bd-33400.jpg" />
 </div>
 
 
@@ -1649,16 +1649,16 @@
 
 <p>Bye!</p>
 
-<p><img class="center" src="http://jojocomparisons.github.io/images/tobecontinued.png"></p>
+<p><img class="center" src="https://jojocomparisons.github.io/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Diamond is Unbreakable #01 - Jotaro Kujo! Meets Josuke Higashikata]]></title>
-    <link href="http://jojocomparisons.github.io/jojo-diu-01/"/>
+    <link href="https://jojocomparisons.github.io/jojo-diu-01/"/>
     <updated>2016-09-21T12:34:21+02:00</updated>
-    <id>http://jojocomparisons.github.io/jojo-diu-01</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://jojocomparisons.github.io/images/DIU01/01-headerJP.jpg"></p>
+    <id>https://jojocomparisons.github.io/jojo-diu-01</id>
+    <content type="html"><![CDATA[<p><img class="center" src="https://jojocomparisons.github.io/images/DIU01/01-headerJP.jpg"></p>
 
 <!-- more -->
 
@@ -1705,16 +1705,16 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU01/tv-01150.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU01/bd-01150.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/tv-01150.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/bd-01150.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU01/tv-01200.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU01/bd-01200.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/tv-01200.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/bd-01200.jpg" />
 </div>
 
 
@@ -1726,8 +1726,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU01/tv-01675.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU01/bd-01675.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/tv-01675.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/bd-01675.jpg" />
 </div>
 
 
@@ -1739,8 +1739,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU01/tv-02940.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU01/bd-02940.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/tv-02940.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/bd-02940.jpg" />
 </div>
 
 
@@ -1775,8 +1775,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU01/tv-04900.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU01/bd-04900.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/tv-04900.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/bd-04900.jpg" />
 </div>
 
 
@@ -1811,8 +1811,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU01/tv-09740.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU01/bd-09740.jpg"/>
+ <img src="https://jojocomparisons.github.io/images/DIU01/tv-09740.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/bd-09740.jpg"/>
 </div>
 
 
@@ -1824,8 +1824,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU01/tv-17300.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU01/bd-17300.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/tv-17300.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/bd-17300.jpg" />
 </div>
 
 
@@ -1837,8 +1837,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU01/tv-19820.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU01/bd-19820.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/tv-19820.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/bd-19820.jpg" />
 </div>
 
 
@@ -1873,8 +1873,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU01/tv-28940.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU01/bd-28940.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/tv-28940.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/bd-28940.jpg" />
 </div>
 
 
@@ -1909,24 +1909,24 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU01/tv-29710.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU01/bd-29710.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/tv-29710.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/bd-29710.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU01/tv-29800.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU01/bd-29800.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/tv-29800.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/bd-29800.jpg" />
 </div>
 
 
 <p><br></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU01/tv-29897.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU01/bd-29897.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/tv-29897.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/bd-29897.jpg" />
 </div>
 
 
@@ -1938,8 +1938,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU01/tv-31390.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU01/bd-31390.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/tv-31390.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/bd-31390.jpg" />
 </div>
 
 
@@ -1951,8 +1951,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU01/tv-31540.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU01/bd-31540.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/tv-31540.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/bd-31540.jpg" />
 </div>
 
 
@@ -1964,8 +1964,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU01/tv-31750.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU01/bd-31750.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/tv-31750.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/bd-31750.jpg" />
 </div>
 
 
@@ -1977,8 +1977,8 @@
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="http://jojocomparisons.github.io/images/DIU01/tv-33970.jpg" />
- <img src="http://jojocomparisons.github.io/images/DIU01/bd-33970.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/tv-33970.jpg" />
+ <img src="https://jojocomparisons.github.io/images/DIU01/bd-33970.jpg" />
 </div>
 
 
@@ -1997,7 +1997,7 @@
 <p><br>
 <br></p>
 
-<p><img class="center" src="http://jojocomparisons.github.io/images/tobecontinued.png"></p>
+<p><img class="center" src="https://jojocomparisons.github.io/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
