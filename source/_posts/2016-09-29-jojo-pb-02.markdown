@@ -429,7 +429,7 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 
 <br>
 
-- And finally, here 小松原聖 (Komatsubara Kiyoshi)'s name is spaced more evenly:
+- And finally, here 小松原聖 (Komatsubara Kiyoshi)'s name is spaced differently; since in japanese three-kanji surnames are somewhat rarer, I suppose they chose to put a clearer separation between the surname and the name, to avoid confusions:
 
 <div id="container1" class="twentytwenty-container">
  <img src="/images/PB02/tv-32850.jpg" />
