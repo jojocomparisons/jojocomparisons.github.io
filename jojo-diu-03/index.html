@@ -30,15 +30,9 @@
 <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' type='text/css'>
 <link href="/favicon.png" rel="icon">
 
-<link href="/compare/compare.css" rel="stylesheet" type="text/css">
-
 <link href="/compare/twentytwenty.css" rel="stylesheet" type="text/css">
 
-<script>
-$(window).load(function(){
-  $(".twentytwenty-container").twentytwenty();
-});
-</script>
+<script type="text/javascript" src="/compare/initiate.js"></script>
   
   <script type="text/javascript">
     var _gaq = _gaq || [];
@@ -103,12 +97,12 @@ $(window).load(function(){
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU03/TV%201%20-%20whiteout.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU03/BD%201%20-%20whiteout.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -152,12 +146,12 @@ $(window).load(function(){
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU03/TV%202%20-%20eyes.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU03/BD%202%20-%20eyes.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -188,12 +182,12 @@ $(window).load(function(){
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU03/TV%203%20-%20enyazoom.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU03/BD%203%20-%20enyazoom.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -261,12 +255,12 @@ $(window).load(function(){
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU03/TV%204%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU03/BD%204%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -432,12 +426,35 @@ $(window).load(function(){
 <!--Jquery Touch Events-->
 <script type="text/javascript" src="../../../bower_components/jquery-touch-events/src/1.0.5/jquery.mobile-events.min.js"></script>
 
-<script type="text/javascript" src="/compare/synchronize.js"></script>
-
-<script type="text/javascript" src="/compare/compare.js"></script>
-
 <script type="text/javascript" src="/compare/jquery.event.move.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+            // Get media - with autoplay disabled (audio or video)
+            var media = $('video').not("[autoplay='autoplay']");
+            var tolerancePixel = 40;
+
+            function checkMedia(){
+                // Get current browser top and bottom
+                var scrollTop = $(window).scrollTop() + tolerancePixel;
+                var scrollBottom = $(window).scrollTop() + $(window).height() - tolerancePixel;
+
+                media.each(function(index, el) {
+                    var yTopMedia = $(this).offset().top;
+                    var yBottomMedia = $(this).height() + yTopMedia;
+
+                    if(scrollTop < yBottomMedia && scrollBottom > yTopMedia){ //view explaination in `In brief` section above
+                        $(this).get(0).play();
+                    } else {
+                        $(this).get(0).pause();
+                    }
+                });
+
+                //}
+            }
+            $(document).on('scroll', checkMedia);
+        });</script>
 <script type="text/javascript" src="/compare/jquery.twentytwenty.js"></script>
+
 
 </body>
 </html>
