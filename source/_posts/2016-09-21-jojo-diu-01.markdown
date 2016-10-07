@@ -28,12 +28,12 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU01/TV%201%20-%20egg.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols autoplay loop preload='auto'>
+<video nocontrols loop preload='auto'>
   <source src=/videos/DIU01/BD%201%20-%20egg.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -81,12 +81,12 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU01/TV%202%20-%20star%20platinum.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols autoplay loop preload='auto'>
+<video nocontrols loop preload='auto'>
   <source src=/videos/DIU01/BD%202%20-%20star%20platinum.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -109,12 +109,12 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU01/TV%203%20-%20turtle%20throw.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols autoplay loop preload='auto'>
+<video nocontrols loop preload='auto'>
   <source src=/videos/DIU01/BD%203%20-%20turtle%20throw.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -155,12 +155,12 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU01/TV%204%20-%20noise.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols autoplay loop preload='auto'>
+<video nocontrols loop preload='auto'>
   <source src=/videos/DIU01/BD%204%20-%20noise.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -183,12 +183,12 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU01/TV%205%20-%20hostage.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols autoplay loop preload='auto'>
+<video nocontrols loop preload='auto'>
   <source src=/videos/DIU01/BD%205%20-%20hostage.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>

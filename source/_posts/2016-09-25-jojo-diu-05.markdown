@@ -21,12 +21,12 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU05/TV%201%20-%20explosion.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU05/BD%201%20-%20explosion.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -40,12 +40,12 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU05/TV%202%20-%20arm.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU05/BD%202%20-%20arm.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -68,12 +68,12 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU05/TV%203%20-%20RHCP.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU05/BD%203%20-%20RHCP.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -99,12 +99,12 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU05/TV%204%20-%20flashes.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU05/BD%204%20-%20flashes.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -127,12 +127,12 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU05/TV%205%20-%20phone.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU05/BD%205%20-%20phone.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>

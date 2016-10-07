@@ -21,12 +21,12 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU03/TV%201%20-%20whiteout.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU03/BD%201%20-%20whiteout.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -58,12 +58,12 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU03/TV%202%20-%20eyes.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU03/BD%202%20-%20eyes.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -86,12 +86,12 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU03/TV%203%20-%20enyazoom.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU03/BD%203%20-%20enyazoom.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -144,12 +144,12 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU03/TV%204%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU03/BD%204%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>

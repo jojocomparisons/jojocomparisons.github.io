@@ -71,12 +71,12 @@ Welcome back, everyone! Join me in finding out what hides in Koichi's egg, and i
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU06/TV%201%20-%20combo.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU06/BD%201%20-%20combo.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -106,12 +106,12 @@ Welcome back, everyone! Join me in finding out what hides in Koichi's egg, and i
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU06/TV%202%20-%20echoes.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU06/BD%202%20-%20echoes.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
@@ -148,12 +148,12 @@ Welcome back, everyone! Join me in finding out what hides in Koichi's egg, and i
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU06/TV%203%20-%20colors.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU06/BD%203%20-%20colors.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>

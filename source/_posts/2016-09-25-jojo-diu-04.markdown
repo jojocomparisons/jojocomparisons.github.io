@@ -73,12 +73,12 @@ Hi there, and welcome back for a look at the differences in Episode #04! Nothing
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU04/TV%201%20-%20beatdown.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols autoplay loop preload='auto'>
+<video class='center' nocontrols loop preload='auto'>
   <source src=/videos/DIU04/BD%201%20-%20beatdown.webm type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
