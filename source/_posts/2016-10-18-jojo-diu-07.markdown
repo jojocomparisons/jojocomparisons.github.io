@@ -1,0 +1,196 @@
+---
+layout: post
+title: "Diamond is Unbreakable #07 - Toshikazu Hazamada (Surface)"
+date: 2016-10-18 20:21:51 +0200
+comments: true
+categories: diu
+---
+
+{% img center /images/DIU07/07-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Welcome back! Today we're finally going back to Diamond is Unbreakable! I have to say it's weird covering Part 4 episodes after all this time, since the differences here are so marginal and so few, compared to Phantom Blood. This episode in particular is going to be very light on comparisons, but I hope I'll still be able to interest you in giving it a read. Let's go!
+
+<br>
+
+- In this shot, the BDs filled in some missing shadows in Tamami's cheek and neck. They also changed the shading in his earrings (see second comparison):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU07/tv-04402.jpg" />
+ <img src="/images/DIU07/bd-04402.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU07/tv-04411.jpg" />
+ <img src="/images/DIU07/bd-04411.jpg" />
+</div>
+
+<br>
+
+- Here, Koichi and the door he's laying on have been made bigger:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU07/tv-10475.jpg" />
+ <img src="/images/DIU07/bd-10475.jpg" />
+</div>
+
+<br>
+
+- Starting from this shot, they added a wound in Josuke's cheek (it was missing in the TV version):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU07/tv-15255.jpg" />
+ <img src="/images/DIU07/bd-15255.jpg" />
+</div>
+
+<br>
+
+- His profile has also been redrawn, and Koichi has been moved slightly down:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU07/tv-15297.jpg" />
+ <img src="/images/DIU07/bd-15297.jpg" />
+</div>
+
+<br>
+
+- Josuke's wonky leg has been 「fixed」, and parts of his face and hair have been redrawn:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU07/tv-15335.jpg" />
+ <img src="/images/DIU07/bd-15335.jpg" />
+</div>
+
+<br>
+
+- Some bits in Yukako's hair and face have been retouched here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU07/tv-15480.jpg" />
+ <img src="/images/DIU07/bd-15480.jpg" />
+</div>
+
+<br>
+
+- Here they added the usual cheek wound, and slightly retouched Josuke's right eye and nose:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU07/tv-17500.jpg" />
+ <img src="/images/DIU07/bd-17500.jpg" />
+</div>
+
+<br>
+
+- These transition lines are brighter in the BDs:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/DIU07/TV%201%20-%20lines.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/DIU07/BD%201%20-%20lines.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- As before, they added Josuke's cheek wound and retouched his eyes:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU07/tv-18720.jpg" />
+ <img src="/images/DIU07/bd-18720.jpg" />
+</div>
+
+<br>
+
+- Fauxsuke's chopped hand has been uncensored and made less translucent:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU07/tv-24090.jpg" />
+ <img src="/images/DIU07/bd-24090.jpg" />
+</div>
+
+<br>
+
+- This walking animation is way less static:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/DIU07/TV%202%20-%20walking.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/DIU07/BD%202%20-%20walking.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- This bit was for some reason darker in the TV version; this has been fixed in the BDs:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/DIU07/TV%203%20-%20hazamada.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/DIU07/BD%203%20-%20hazamada.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Once again they added Josuke's cheek wound:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU07/tv-26840.jpg" />
+ <img src="/images/DIU07/bd-26840.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU07/tv-27230.jpg" />
+ <img src="/images/DIU07/bd-27230.jpg" />
+</div>
+
+<br>
+
+- They closed Josuke's mouth in this part in which he steals Jotaro's pen right out of his goddamn pocket without Jotaro even batting an eyelid (the ol' cheek wound is also there):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU07/tv-27975.jpg" />
+ <img src="/images/DIU07/bd-27975.jpg" />
+</div>
+
+<br>
+
+- And one very small credit difference: BE THO and VAN BINH's names have been slightly moved to the left, so that they are in line with the others:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU07/tv-32900.jpg" />
+ <img src="/images/DIU07/bd-32900.jpg" />
+</div>
+
+<br>
+
+And that's it for Episode #07. Nothing major, I'm afraid, even though there were some scenes I thought needed some retouching... Oh well! Hopefully we'll get something more for Yukako Yamagishi is in Love Part 2. Tune in (probably) tomorrow for Episode #08!
+
+Bye!
+
+{% img center /images/tobecontinued.png %}
