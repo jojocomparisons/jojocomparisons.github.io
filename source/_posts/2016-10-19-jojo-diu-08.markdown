@@ -1,0 +1,75 @@
+---
+layout: post
+title: "Diamond is Unbreakable #08 - Yukako Yamagishi is in Love - Part 1"
+date: 2016-10-19 15:16:20 +0200
+comments: true
+categories: diu
+---
+
+{% img center /images/DIU08/08-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Welcome back to JoJo's Bizarre Comparisons! Today we'll take a look at Episode #08, which is the episode with the least changes yet. It's going to be brief and uneventful (but then again, this episode was very good as it was), which is why I'm uploading this episode analysis together with Episode #09's! Alright, let's get into it.
+
+<br>
+
+- Let's start with a very brief animation, which has been brightened in the BDs:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/DIU08/TV%201%20-%20brighter%201.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/DIU08/BD%201%20-%20brighter%201.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- In this shot Yukako's eyebrows have been moved down:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU08/tv-13570.jpg" />
+ <img src="/images/DIU08/bd-13570.jpg" />
+</div>
+
+<br>
+
+- And here we have another sharper animation:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/DIU08/TV%202%20-%20brighter%202.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/DIU08/BD%202%20-%20brighter%202.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Aaaand, to top it all off, animator 西位輝美 (Nishii Terumi) has been credited for the mid-episode eyecatch:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/DIU08/tv-31530.jpg" />
+ <img src="/images/DIU08/bd-31530.jpg" />
+</div>
+
+<br>
+
+...And that's it. Yeah, I know. But never fear, because there's another episode for you to check out! Tune in, well... Right now for Episode #09!
+
+See ya there!
+
+{% img center /images/tobecontinued.png %}
