@@ -37,7 +37,7 @@
   transition-property: opacity; }
 
 .twentytwenty-before-label:before, .twentytwenty-after-label:before {
-  color: white;
+  color: black;
   font-size: 13px;
   letter-spacing: 0.1em; }
 
@@ -127,8 +127,6 @@
   transition-property: background;
   background: rgba(0, 0, 0, 0);
   z-index: 25; }
-  .twentytwenty-overlay:hover {
-    background: rgba(0, 0, 0, 0.5); }
     .twentytwenty-overlay:hover .twentytwenty-after-label {
       opacity: 1; }
     .twentytwenty-overlay:hover .twentytwenty-before-label {
