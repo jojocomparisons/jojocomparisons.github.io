@@ -23,6 +23,7 @@ function addSidebarToggler() {
       } else {
         $('body').addClass('collapse-sidebar');
       }
+        $(window).trigger("resize.twentytwenty");
     });
   }
   var sections = $('aside.sidebar > section');
