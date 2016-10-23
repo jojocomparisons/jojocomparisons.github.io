@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Diamond is Unbreakable #12 - Red Hot Chili Pepper - Part 2"
+date: 2016-10-23 16:22:28 +0200
+comments: true
+categories: diu
+---
+
+{% img center /images/DIU12/12-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
