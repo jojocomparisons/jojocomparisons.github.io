@@ -1,0 +1,402 @@
+---
+layout: post
+title: "Phantom Blood #06 - Courage for Tomorrow"
+date: 2016-11-02 11:54:57 +0100
+comments: true
+categories: pb
+---
+
+{% img center /images/PB06/06-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom Blood, in which a noble soul is vanquished, a young boy grows into a man and an old master comes to terms with his own impending death. Without further ado, let's dive in!
+
+<br>
+
+- Very aptly, the first difference of this episode is this very brief animation, which is brighter and a bit cleaner:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/PB06/TV%201%20-%20brighter%20punch.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/PB06/BD%201%20-%20brighter%20punch.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- And in this shot, the background has been made brighter, and the glove on Jonathan's hand has been retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-05000.jpg" />
+ <img src="/images/PB06/bd-05000.jpg" />
+</div>
+
+<br>
+
+- Speedwagon has been completely redrawn in this shot (and thank goodness he was):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-05100.jpg" />
+ <img src="/images/PB06/bd-05100.jpg" />
+</div>
+
+<br>
+
+- JUST LOOK AT THIS THING! LOOK AT IT! WHAT WAS THAT FACE? WHO THOUGHT IT WAS OKAY?:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-05940.jpg" />
+ <img src="/images/PB06/bd-05940.jpg" />
+</div>
+
+<br>
+
+- This shot is also brighter in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-06040.jpg" />
+ <img src="/images/PB06/bd-06040.jpg" />
+</div>
+
+<br>
+
+- This panning shot is slightly different in the BDs, and the Hamon sparks on Bruford's sword have been redrawn:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/PB06/TV%202%20-%20bruford%20pan.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/PB06/BD%202%20-%20bruford%20pan.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- The dividing line in this split-screen shot has less of a neon-like quality to it, and both Speedwagon and Tarkus have been heavily retouched and re-shaded (also note the thicker outlines):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-06300.jpg" />
+ <img src="/images/PB06/bd-06300.jpg" />
+</div>
+
+<br>
+
+- The outlines are way thicker in this scene as well; Jonathan's eyes have also been retouched and the fire effects are better:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-06450.jpg" />
+ <img src="/images/PB06/bd-06450.jpg" />
+</div>
+
+<br>
+
+- The three following sequences have all received the usual brighter-and-sharper treatment:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/PB06/TV%203%20-%20brighter%202.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/PB06/BD%203%20-%20brighter%202.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/PB06/TV%204%20-%20brighter%203.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/PB06/BD%204%20-%20brighter%203.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/PB06/TV%205%20-%20brighter%204.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/PB06/BD%205%20-%20brighter%204.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- In this other shot, Speedwagon as been redrawn again, and the shading on Zeppeli has been retouched as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-06900.jpg" />
+ <img src="/images/PB06/bd-06900.jpg" />
+</div>
+
+<br>
+
+- Here, Bruford's pupils have been drawn in:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-07570.jpg" />
+ <img src="/images/PB06/bd-07570.jpg" />
+</div>
+
+<br>
+
+- And the scene in which his body starts to crumble because of Jonathan's Hamon has been uncensored:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/PB06/TV%206%20-%20legs.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/PB06/BD%206%20-%20legs.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Here, Jonathan has been redrawn so that he's his usual B I G self, and the shading on Bruford has been slightly retouched as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-09860.jpg" />
+ <img src="/images/PB06/bd-09860.jpg" />
+</div>
+
+<br>
+
+- (P)Luck has been moved and scaled properly in this shot:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-12200.jpg" />
+ <img src="/images/PB06/bd-12200.jpg" />
+</div>
+
+<br>
+
+- Here, Jonathan's eyes and Zeppeli's eyes have been retouched and the scene is slightly more zoomed out:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-13730.jpg" />
+ <img src="/images/PB06/bd-13730.jpg" />
+</div>
+
+<br>
+
+- In this scene, everyone's face has been redrawn and the Hamon coursing through the leaf is slightly more varied in colour:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-18061.jpg" />
+ <img src="/images/PB06/bd-18061.jpg" />
+</div>
+
+<br>
+
+- Jonathan's Big Pointy Chin has been tamed, and his mouth and ear have also been shaded:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-18100.jpg" />
+ <img src="/images/PB06/bd-18100.jpg" />
+</div>
+
+<br>
+
+- Jonathan and Zeppeli have been massively redrawn in this shot, and as a result they no longer look as if they're criticizing your poorly-chosen tie:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-18700.jpg" />
+ <img src="/images/PB06/bd-18700.jpg" />
+</div>
+
+<br>
+
+- This scene of Tarkus smashing into the tower is slightly different:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/PB06/TV%207%20-%20tarkus.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/PB06/BD%207%20-%20tarkus.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Zeppeli's eyes are different in this shot:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-19600.jpg" />
+ <img src="/images/PB06/bd-19600.jpg" />
+</div>
+
+<br>
+
+- Here, Tarkus' upper lip and nose have been shaded, and his pupils are more detailed:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-20295.jpg" />
+ <img src="/images/PB06/bd-20295.jpg" />
+</div>
+
+<br>
+
+- Just... Just look at this:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-20833.jpg" />
+ <img src="/images/PB06/bd-20833.jpg" />
+</div>
+
+<br>
+
+- And, luckily, this shot has been completely redrawn as well. If you move the slider around fast enough it looks like somebody's scrambling Zeppeli's facial features around:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-24460.jpg" />
+ <img src="/images/PB06/bd-24460.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-24540.jpg" />
+ <img src="/images/PB06/bd-24540.jpg" />
+</div>
+
+<br>
+
+- Poco has been retouched and moved up in this flashback scene:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-26280.jpg" />
+ <img src="/images/PB06/bd-26280.jpg" />
+</div>
+
+<br>
+
+- LOOK AT HIS EYES:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-26675.jpg" />
+ <img src="/images/PB06/bd-26675.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-26760.jpg" />
+ <img src="/images/PB06/bd-26760.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-26840.jpg" />
+ <img src="/images/PB06/bd-26840.jpg" />
+</div>
+
+<br>
+
+- Poco again:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-27100.jpg" />
+ <img src="/images/PB06/bd-27100.jpg" />
+</div>
+
+<br>
+
+- In this shot, both Poco and... does his sister even have a name? Anyway, they've both been retouched, the onomatopoeia at the top has an added texture and the goofy motion lines they drew in the TV version have been substituted with a more realistic wind effect:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-27220.jpg" />
+ <img src="/images/PB06/bd-27220.jpg" />
+</div>
+
+<br>
+
+- Poco has been redrawn and made taller again here, and his sister's face has been retouched as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-27310.jpg" />
+ <img src="/images/PB06/bd-27310.jpg" />
+</div>
+
+<br>
+
+- One last Poco redraw and we can go back to the real world:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-27400.jpg" />
+ <img src="/images/PB06/bd-27400.jpg" />
+</div>
+
+<br>
+
+- Zeppeli and Speedwagon's faces have been retouched here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-30000.jpg" />
+ <img src="/images/PB06/bd-30000.jpg" />
+</div>
+
+<br>
+
+- Here they retouched Speedwagon's mouth, eye and that weird line under his eye they used to draw in the TV version:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-31140.jpg" />
+ <img src="/images/PB06/bd-31140.jpg" />
+</div>
+
+<br>
+
+- Aaand a final credit difference; here, in the BDs they added CG artist 工藤かよ(Kudō Kayo) and moved everything around slightly:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/PB06/tv-32500.jpg" />
+ <img src="/images/PB06/bd-32500.jpg" />
+</div>
+
+<br>
+
+That's it for Episode #06 of Phantom Blood! I'm getting so used to doing long episodes that this seemed almost short in comparison. Huh! Anyway, see you next time for Episode #07!
+
+Take care!
+
+{% img center /images/tobecontinued.png %}
