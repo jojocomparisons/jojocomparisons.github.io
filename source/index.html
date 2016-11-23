@@ -13,12 +13,9 @@ collapsed: false
   {% endfor %}
   <div class="pagination">
     {% if paginator.next_page %}
-      <br>
       <h2><font face="CubanoRegular"><a class="prev" href="{{paginator.next_page_path}}">&xlArr; Older Posts</a></font></h2>
-      <br>
     {% endif %}
     {% if paginator.previous_page %}
-      <br>
       <h2><font face="CubanoRegular"><a class="next" href="{{paginator.previous_page_path}}">Newer Posts &xrArr;</a></font></h2>
       <br>
     {% endif %}
