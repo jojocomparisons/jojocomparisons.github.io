@@ -1,0 +1,164 @@
+---
+layout: post
+title: "Battle Tendency #10 - New York JoJo"
+date: 2016-12-03 09:23:26 +0100
+comments: true
+categories: bt
+---
+
+{% img center /images/BT10/10-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello everybody, and welcome to a new era! Today we'll take a look at Episode #10 of Battle Tendency. A quick note on the naming scheme: yes, I am aware that it is not the *tenth* episode of Battle Tendency, but the tenth of the Phantom Blood/Battle Tendency anime season. I chose to go with this naming scheme since I wanted some consistency with the numbering used in the anime itself.
+
+Now then, without further ado, let's go!
+
+<br>
+
+- Let's begin with an uncensored, mangled face:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/BT10/tv-06490.jpg" />
+ <img src="/images/BT10/bd-06490.jpg" />
+</div>
+
+<br>
+
+- And with a likewise uncensored broken finger:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/BT10/TV%201%20-%20cokefinger.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/BT10/BD%201%20-%20cokefinger.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Even old speedwagon is not safe from a couple of retouches:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/BT10/tv-11900.jpg" />
+ <img src="/images/BT10/bd-11900.jpg" />
+</div>
+
+<br>
+
+- And we have another uncensored wound here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/BT10/tv-14190.jpg" />
+ <img src="/images/BT10/bd-14190.jpg" />
+</div>
+
+<br>
+
+- Joseph's face has been redrawn here, and his ridiculously long bangs shortened:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/BT10/tv-16970.jpg" />
+ <img src="/images/BT10/bd-16970.jpg" />
+</div>
+
+<br>
+
+- In these four very boring shots, the word TAXI on the side of this... well, Taxi, has been made more visible:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/BT10/tv-17700.jpg" />
+ <img src="/images/BT10/bd-17700.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/BT10/tv-18260.jpg" />
+ <img src="/images/BT10/bd-18260.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/BT10/tv-19325.jpg" />
+ <img src="/images/BT10/bd-19325.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/BT10/tv-19800.jpg" />
+ <img src="/images/BT10/bd-19800.jpg" />
+</div>
+
+<br>
+
+- This hand wound has been uncensored and the overall shot is brighter:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="/images/BT10/tv-24130.jpg" />
+ <img src="/images/BT10/bd-24130.jpg" />
+</div>
+
+<br>
+
+- And to finish this, a couple of brighter and sharper shots as per usual:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/BT10/TV%202%20-%20tommygun.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/BT10/BD%202%20-%20tommygun.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/BT10/TV%203%20-%20joseph%20pan%201.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/BT10/BD%203%20-%20joseph%20pan%201.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/BT10/TV%204%20-%20joseph%20pan%202.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src=/videos/BT10/BD%204%20-%20joseph%20pan%202.webm type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+And that's all for this comparison! As it was the case for Phantom Blood #09, david production probably put a lot of budget into Battle Tendency's first episode; as a result, it needed less retouches for the BD release. By the way, I just wanted to mention that this past week I was not at home, so this comparison was a bit late. You can expect them to come a bit more regularly from now on!
+
+Take care and see you next time!
+
+{% img center /images/tobecontinued.png %}
