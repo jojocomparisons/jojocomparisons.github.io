@@ -179,7 +179,7 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 
 <br>
 
-- And Mickey's eyes have been retouched as well:
+- And Smokey's eyes have been retouched as well:
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/BT11/tv-14900.jpg" />
@@ -197,7 +197,7 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 
 <br>
 
-- Mickey has been completely redrawn and re-shaded in this shot:
+- Smokey has been completely redrawn and re-shaded in this shot:
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/BT11/tv-17150.jpg" />
