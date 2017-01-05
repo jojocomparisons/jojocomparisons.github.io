@@ -37,7 +37,12 @@ destination: public
 plugins: plugins
 code_dir: downloads/code
 category_dir: categories
-markdown: rdiscount
+markdown: kramdown
+kramdown:
+  use_coderay: true
+  coderay:
+    coderay_line_numbers: inline
+    coderay_css: class
 rdiscount:
   extensions:
     - autolink
@@ -106,3 +111,4 @@ facebook_like: false
 
 # Tentative plugin import
 gem: -octopress-video-tag
+  -octopress-codeblock

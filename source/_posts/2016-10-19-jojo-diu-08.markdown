@@ -72,4 +72,6 @@ Welcome back to JoJo's Bizarre Comparisons! Today we'll take a look at Episode #
 
 See ya there!
 
+<br>
+
 {% img center /images/tobecontinued.png %}

@@ -346,7 +346,7 @@ Hello, everybody, and welcome back! Today we're going to take a look at Episode 
 
 <br>
 
-- This animation of RHCP attacking Crazy Diamond is brighter as well:
+- This animation of RHCP attacking The Hand is brighter as well:
 
 <table width="100%">
 <tr>
@@ -465,6 +465,10 @@ That's it for this episode! I'm really glad David production decided to redraw m
 
 Bye!
 
+<br>
+
 P.S.: You might have noticed that the image comparisons no longer darken on mouseover. That was an in-built feature of the javascript snippet I used, but I (and other people) thought it was a bit annoying, so I took it away and set the text colour to black. Let me know what you think!
+
+<br>
 
 {% img center /images/tobecontinued.png %}

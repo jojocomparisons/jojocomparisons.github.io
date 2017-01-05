@@ -198,4 +198,6 @@ Alright, this is it for Episode #03! Tune in next time as Keicho gets pummeled b
 
 Bye!
 
+<br>
+
 {% img center /images/tobecontinued.png %}

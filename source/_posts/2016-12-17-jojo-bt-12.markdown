@@ -1242,4 +1242,6 @@ Aaaaaaaand that's it! Hooly hell, this has been a long one. At 228 images and 32
 
 See you next time!
 
+<br>
+
 {% img center /images/tobecontinued.png %}

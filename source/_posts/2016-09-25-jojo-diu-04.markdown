@@ -127,4 +127,6 @@ Aaand that's it! Mostly blood and cuts, nothing too exciting. Tune in next time 
 
 Bye!
 
+<br>
+
 {% img center /images/tobecontinued.png %}

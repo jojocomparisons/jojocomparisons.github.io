@@ -154,4 +154,6 @@ That's it for Episode #05! Some little corrections here and there, nothing too e
 
 Bye!
 
+<br>
+
 {% img center /images/tobecontinued.png %}

@@ -13,6 +13,8 @@ group :development do
   gem 'sass-globbing', '~> 1.0.0'
   gem 'rb-fsevent', '~> 0.9'
   gem 'stringex', '~> 1.4.0'
+  gem 'kramdown'
+  gem 'coderay'
 end
 
 gem 'sinatra', '~> 1.4.2'
