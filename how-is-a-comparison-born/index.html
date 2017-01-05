@@ -1,0 +1,494 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>Extra - How is a comparison born? - JoJo's Bizarre Comparisons</title>
+  <meta name="author" content="Duwang Boi">
+
+  
+  <meta name="description" content="Hello, everyone! If you’ve ever wondered “How exactly does this guy notice all those tiny differences?”, “How much time goes into every comparison &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="https://jojocomparisons.github.io/how-is-a-comparison-born/">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/javascripts/modernizr-2.0.js"></script>
+  <script src="/javascripts/ender.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="JoJo's Bizarre Comparisons" type="application/atom+xml">
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="https://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' type='text/css'>
+<link href="/favicon.png" rel="icon">
+
+<link href="/compare/twentytwenty.css" rel="stylesheet" type="text/css">
+
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-84542086-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   class="collapse-sidebar"   >
+  <header role="banner"><hgroup>
+  <img src="/images/diulogo.png" />
+  <h1><a href="/">JoJo's Bizarre Comparisons</a></h1>
+</hgroup>
+
+</header>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      <div align=center><h1 class="entry-title">Extra - How Is a Comparison Born?</h1></div>
+    
+  </header>
+
+
+<div class="entry-content"><p><img class="center" src="/images/HOWTO/header.jpg" />
+<!-- more --></p>
+
+<p><br />
+<br /></p>
+
+<p>Hello, everyone! If you’ve ever wondered <em>“How exactly does this guy notice all those tiny differences?”</em>, <em>“How much time goes into every comparison?”</em> or even <em>“How can I do the same thing, but with another show?”</em>, then you’re in luck!</p>
+
+<p><br /></p>
+
+<p>Welcome to today’s rather special post, aptly titled “How is a comparison born?”!</p>
+
+<p><br /></p>
+
+<p>As a disclaimer, the process I’m about to describe is one I discovered through trial and error; it is by no means the only way, or even the best one! If you’ve got some ideas on how to improve it, then I encourage you to weigh in, and leave your comment below.</p>
+
+<p><br /></p>
+
+<p>Without further ado, then, let’s get right to it!</p>
+
+<h2 id="requirements"><em>Requirements</em></h2>
+
+<p>For this tutorial you’ll need:</p>
+
+<ul>
+  <li>Rips for the two versions of the episode you want to compare;</li>
+  <li><a href="https://ffmpeg.zeranoe.com/builds/">ffmpeg</a>;</li>
+  <li><a href="http://www.bulkrenameutility.co.uk/Main_Intro.php">Bulk Rename Utility</a>, or another batch-rename utility;</li>
+  <li><a href="https://www.gimp.org/">GIMP</a>, or another image manipulation software (optional, see step 3b);</li>
+  <li><a href="http://www.imagemagick.org/script/index.php">ImageMagick</a>;</li>
+  <li><a href="http://www.faststone.org/">FastStone</a>, or another image viewing program;</li>
+  <li>A terminal/shell/command prompt;</li>
+  <li>At the very least 8-9gb of free hard-disk space (double that if you have to do step 3b);</li>
+  <li>A couple of days of free time.</li>
+</ul>
+
+<p>Once you make sure everything is in order, let’s dive into the first step!</p>
+
+<h2 id="acquire-the-two-versions-of-the-episode-you-wish-to-compare"><em>1) Acquire the two versions of the episode you wish to compare</em></h2>
+
+<p>The first (and probably the only) step on which every possible tutorial on this matter will <em>have</em> to agree.</p>
+
+<p>There are plenty of ways to do this, of course. You can book a ticket to Japan (be sure to select a date which is at least a month away, so you have plenty of time to get excited and plan your trip accordingly. Go visit Kyoto and Nara! They’re absolutely incredible!), and when you’re there you can track down the nearest anime-related shop (even a well-stocked bookshop will do) and buy the Blu-ray you want! You can also head to a nearby Book-off (there are a myriad of those over there) and you’ll get lower prices.</p>
+
+<p>…Or you can order them on Amazon. Your choice.</p>
+
+<h2 id="extract-every-frame-from-each-rip"><em>2) Extract every frame from each rip</em></h2>
+
+<p>Once you have both a TV and BD version of the episode you wish to compare, the next step in my workflow is to extract every frame in each one.</p>
+
+<p>To do so, I use <a href="https://ffmpeg.zeranoe.com/builds/">ffmpeg</a>, a free, open-source multimedia framework with a handy command-line utility.</p>
+
+<p>Once ffmpeg is installed on your PC/Mac/Linux machine, open up the command prompt/shell/terminal software of choice and (if ffmpeg has been installed properly), you should be able to run the following commands (substitute the values in the square brackets with the relative paths):</p>
+
+<pre><code>ffmpeg -i [BD rip path] -q:v 2 -vf fps=23.976215 -vf scale=1280:-1 "[BD folder]\bd-%%05d.jpg"
+</code></pre>
+
+<p>and</p>
+
+<pre><code>ffmpeg -i [TV rip path] -q:v 2 -vf fps=23.976215 -vf scale=1280:-1 "[TV folder]\tv-%%05d.jpg"
+</code></pre>
+
+<p>Alright, let’s break this down.</p>
+
+<ul>
+  <li><code>ffmpeg</code> is used to call the program itself;</li>
+  <li><code>-i [XX rip path]</code> indicates to ffmpeg where the input (<code>-i</code>) file is located;</li>
+  <li><code>-q:v 2</code> is an option used to tell ffmpeg the video quality (<code>-q:v</code>) level we want. The number that follows <code>-q:v</code> can range from 1 to 31, with 1 being highest quality (least compression) and 31 being worst quality (most compression). You can change this up if you prefer;</li>
+  <li><code>-vf fps=23.976215</code> tells ffmpeg which framerate the input video runs in. I think this value automatically gets rounded to 24, but it never hurts to try, I guess;</li>
+  <li><code>-vf scale=1280:-1</code> tells ffmpeg which size we want our output frames to be in. The <code>-1</code> means “adapt this value automatically so as to maintain the original width:height ratio”. You can change the <code>1280</code> value to be basically anything you like, but be sure to change the same value in the TV extraction command as well, because we’ll need two images that have the same size for a correct comparison;</li>
+  <li><code>"[BD folder]\xx-%%05d.jpg"</code> this last argument tells ffmpeg where to save the output frames. You can change the first letters of the <code>xx-%%05d.jpg</code> part around if you want; I personally like my frames to follow the <code>xx-00001.jpg</code> format. Just be sure to keep the <code>%%05d.jpg</code> part somewhere in your name, because <code>%%05d</code> tells ffmpeg that you want the frames to be named progressively with five digits, and we want the .jpg format to keep our blog post size at a minimum.</li>
+</ul>
+
+<p><br /></p>
+
+<p>I suggest you to keep the TV and BD frames in two separate folders!</p>
+
+<p><br /></p>
+
+<p><img class="center" src="/images/HOWTO/01.png" /></p>
+<div align="center"><em>(This is approximately how your terminal should look once you run either of the aforementioned commands)</em></div>
+
+<p><br /></p>
+
+<p>Once both versions of the episode have been extracted to two separate folders (for the purpose of this tutorial we’re using Episode #01 of Phantom Blood), you should end up with something that looks like this:</p>
+
+<p><br /></p>
+
+<p><img class="center" src="/images/HOWTO/02.png" /></p>
+<div align="center"><em>(Ignore the italian menus)</em></div>
+
+<p><br /></p>
+
+<p>As you can notice from either scrolling a bit through your two folders or from looking at the above screenshot, the episodes in the TV and BD versions don’t match! For example, the file called <code>tv-00083.jpg</code> is the first one from a new scene, but said scene doesn’t start until frame <code>00110</code> in the BD version.</p>
+
+<p>For the comparison process to go successfully, we need each pair of files with the same number to be the same frame. To achieve that, we need to…</p>
+
+<h2 id="remove-the-extra-frames-and-batch-rename-the-remaining-ones"><em>3) Remove the extra frames and batch-rename the remaining ones</em></h2>
+
+<p>For this step, we need a software that can batch-rename files (or you can code your own! It’s not that difficult). I’m partial to <a href="http://www.bulkrenameutility.co.uk/Main_Intro.php">Bulk Rename Utility</a>, but any program that can rename a whole bunch of files will do.</p>
+
+<p>Let’s go a few lines back: as you can see, <code>tv-00083.jpg</code> is the same frame as <code>bd-00110.jpg</code>, which means that the BD version has 27 extra black frames at the beginning. You can probably guess what this means! Let’s remove the first 27 extra black frames from the BD version, and then we’ll have to batch-rename the remaining 34k files so that the numbering is uninterrupted (<code>bd-00028.jpg</code> becomes <code>bd-00001.jpg</code>, <code>bd-00029.jpg</code> becomes <code>bd-00002.jpg</code>, and so on).</p>
+
+<p><br /></p>
+
+<p>This is how you achieve that with Bulk Rename Utility:</p>
+
+<p><br /></p>
+
+<p><img class="center" src="/images/HOWTO/03.png" /></p>
+
+<p><br /></p>
+
+<p>That takes care of the extra padding frames at the beginning. Unfortunately you’ll have to do that for every bit in which the frames don’t sync up; this will take some time, but in the end you should get the same number of frames in both folders. If you need a hint on where the TV and BD versions usually diverge, I can tell you that, generally speaking, the BD has some extra frames at the beginning, end and around the mid-episode eyecatch.</p>
+
+<p><br /></p>
+
+<p>Once this (long and boring) step is done with, we can proceed and…</p>
+
+<h2 id="b-wait-stop-first-check-how-the-two-versions-look-when-compared"><em>3b) Wait, stop! First, check how the two versions look when compared</em></h2>
+
+<p>Alright, this is an extra step I had to integrate into my existing workflow when I started doing Phantom Blood episodes. Take a look at this comparison:</p>
+
+<p><br /></p>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/HOWTO/tv-13300.jpg" />
+ <img src="./../images/HOWTO/bd-13300.jpg" />
+</div>
+<div align="center"><em>(And before you ask, no, there isn't any drawing difference in this one)</em></div>
+
+<p><br /></p>
+
+<p>Do you see how the TV version is <em>very slightly</em> more zoomed in? This could be caused by the way the episodes were ripped, or by the TV and BD versions being different broadcasts in the first place.</p>
+
+<p>This is a very minor problem, and as such you might choose to ignore it entirely; but if you’re getting this kind of discrepancy between versions, the frame comparison step could prove to be not as easy!</p>
+
+<p>Fiddling around with <a href="https://www.gimp.org/">GIMP</a>, I found out that the difference between the two frames could be rendered almost unnoticeable by:</p>
+
+<ul>
+  <li>Stretching the BD frame by 4x2 and then cropping a 1280x720 rectangle in the middle, effectively losing a border of a couple of pixels;</li>
+  <li>Cropping out the topmost row of pixels in the TV frame and then stretching the whole thing a pixel upwards.</li>
+</ul>
+
+<p>(This may vary if you’re working on another series entirely, you just have to find the right numbers that do the trick for you and then act accordingly.)</p>
+
+<p><br /></p>
+
+<p>To have this kind of change take effect on a whole whopping 34k files, we need another command-line utility: <a href="http://www.imagemagick.org/script/index.php">ImageMagick</a>.</p>
+
+<p>Once that’s properly installed, give the following commands a go:</p>
+
+<pre><code>cd [BD folder] &amp;&amp; magick mogrify -path [temp folder] -resize 1284x722! -crop 1280x720+2+2 "*.jpg"
+</code></pre>
+
+<p>and</p>
+
+<pre><code>cd [TV folder] &amp;&amp; magick mogrify -path [temp folder] -crop 1280x719+0+1 -resize 1280x720! "*.jpg"
+</code></pre>
+
+<p>I will not break these down, since they basically do as stated previously; anyway, when these two commands are done (and they’ll probably take a long time! On my dinky PC each one takes approximately 1h30min~2h to complete), you’ll have 34k (x2) new frames in your temporary folders of choice.</p>
+
+<p>The reason why I had you choose a new folder instead of just telling ImageMagick to overwrite your pre-existing .jpgs is twofold: firstly, in case anything goes wrong you won’t lose your original frames, and secondly, ImageMagick is not a very verbose program! It won’t tell you anything until it’s done, but we can circumvent that using an empty folder and keeping track of how many frames it’s done.</p>
+
+<p>For comparison, here’s how the same frames look after ImageMagick has done its work:</p>
+
+<p><br /></p>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/HOWTO/tv-13300+.jpg" />
+ <img src="./../images/HOWTO/bd-13300+.jpg" />
+</div>
+<div align="center"><em>(It's not perfect, but it's as good as I've managed to make it look!)</em></div>
+
+<p><br /></p>
+
+<p>After ImageMagick is done and you feel your frames look acceptable, you can remove the original frames and we can continue our work with the ones we just created.</p>
+
+<h2 id="compare-every-pair-of-frames"><em>4) Compare every pair of frames</em></h2>
+
+<p>Alright! Now this is what I’m talking about. What does “compare” mean?</p>
+
+<p><br /></p>
+
+<p>In this case, we want a <em>composite</em> version of each pair of frame, to hide the parts that look the same and highlight the differences. ImageMagick comes, once again, to our rescue!</p>
+
+<p>Thanks to a very useful function of the ImageMagick libraries, we can do precisely that; the only problem is that it only does so with a single pair of images, while we need it to do that for a whole folder of 34k files.</p>
+
+<p>This can be quickly solved with a <code>for</code> or a <code>foreach</code> loop; if you need a hand with this you can use the following script. Just copy that in a text file, save it as a .bat file, run it and follow the instructions!</p>
+
+<pre><code>@echo off
+setlocal enabledelayedexpansion
+cls
+echo.
+set /p blusrc=Drag the BD folder here and press Enter:
+set _blusrc=%blusrc:"=%
+set /p tvsrc=Drag the TV folder here and press Enter:
+set _tvsrc=%tvsrc:"=%
+set /p compsrc=Drag the comparison output folder here and press Enter:
+set _compsrc=%compsrc:"=%
+echo.
+for %%g in (%blusrc%\*.jpg) do (
+  set numonly=%%~nxg
+  set imgnum=!numonly:~3,11!
+  magick composite "%%g" "%_tvsrc%\tv-!imgnum!" -compose difference "%_compsrc%\compare-!imgnum!"
+  printf '\rFrame !imgnum! compared.'
+)
+echo.
+echo Frame comparison done.
+pause
+</code></pre>
+<div align="center"><em>(Poor code alert! I'm not a programmer!)</em></div>
+
+<p><br /></p>
+
+<p>This basically asks you to choose the source BD and TV folders, an output folder and then loops through each file therein, comparing them and producing a composite image. Since this is a rather rough script, it will probably spit some errors if one of the folders contain more files than the other; if that happens, go back and check if something went wrong in the previous steps.</p>
+
+<p>When that’s over (it usually takes 2h~2h30min for me), you’ll <em>finally</em> have the compared frames, neatly arranged in a folder of your choice!</p>
+
+<p><br /></p>
+
+<p>They’ll probably look mostly black, with some specks of white (generated by the difference in compression algorithms used for the TV and BD rips, or even by the different resolution of the source videos); a compared image with no differences will appear like this:</p>
+
+<p><br /></p>
+
+<p><img class="center" src="/images/HOWTO/compare-01600.jpg" /></p>
+
+<p><br /></p>
+
+<p>…while an image <em>with</em> some differences will look like this:</p>
+
+<p><br /></p>
+
+<p><img class="center" src="/images/HOWTO/compare-00400.jpg" /></p>
+<div align="center"><em>(Obviously, not all of them will be this easy to spot)</em></div>
+
+<p><br /></p>
+
+<p>If you remember, earlier I advised you to not skip the 3b) step, even if you felt that the difference was very minor; this part here is precisely why: the less different the <em>unchanged</em> frames are, and the more the frames which have been touched around by David Production will stand out!</p>
+
+<p>Now that you know what you’re looking for, all you have to do is go through them one by one! I know this sounds long and boring, but it’s actually the most enjoyable part for me (because I enjoy repetitive tasks).</p>
+
+<p>I prefer to avoid using the default image viewer program that comes pre-packaged with Windows, as it loads quite slowly and when you go through images quickly it usually defaults to a white background; as you can probably guess, looking for hours at a flashing white/black screen is not exactly my idea of fun.</p>
+
+<p>I recommend using <a href="http://www.faststone.org/">FastStone</a>, which I find makes for a much more pleasant experience. Boot that up (or whichever other software you prefer), open a blank Notepad file, maybe put some nice music on and get to it. Be sure to note on said Notepad file whenever you find some differences, of course!</p>
+
+<p><br /></p>
+
+<p>Here’s (part of) the .txt file I ended up with when I was done looking through the compared images for Phantom Blood #01, just for reference:</p>
+
+<p><br /></p>
+
+<p><img class="center" src="/images/HOWTO/04.png" /></p>
+<div align="center"><em>(As you can see, I'm not the best at explaining things, even to myself!)</em></div>
+
+<p><br /></p>
+
+<p>When you’ve finished going through all 34k frames and taking notes of all different frames (it usually takes me from 1 to 2 hours, depending on how difference-heavy the episode is), I suggest you move those to a new folder (or two! I always prefer to keep TV and BD frames separated), and then it’s time to…</p>
+
+<h2 id="do-whatever-you-want-to-do"><em>5) Do whatever you want to do!</em></h2>
+
+<p>We’ve finally come to the last part of this guide! At the end of this long and (sometimes) boring process, we’ve come out with one (or two) folders with our precious different frames, and a .txt document that illustrates more or less precisely what the differences in said frames are.</p>
+
+<p>Now it’s time to decide what you want to do with them!</p>
+
+<p><br /></p>
+
+<p>Maybe you’ll want to post them somewhere, like I do, or maybe you just want to keep them for reference; either way, what I do once I’ve got all the interesting frames in one safe location can be slightly different:</p>
+
+<ul>
+  <li>If the difference is pretty much the same across a number of frames, I just choose one which best exemplifies said difference;</li>
+  <li>If, instead, there is a different animation, or the difference can be best understood by looking at the whole sequence, I make a .webm (for the uninitiated, .webm is a highly-compressed video format, which allows for relatively high quality videos in a very small size).</li>
+</ul>
+
+<p>If you, like me, need to make a video out of a particular bunch of frames, then you’ll find ffmpeg is a valuable asset. To produce a high quality (but small size) .webm I use the following two commands:</p>
+
+<pre><code>ffmpeg -framerate 24 -start_number [first frame] -i [frame folder] -vframes [frame length] -vcodec libx264 ""[save path]\[webm name].mp4"
+</code></pre>
+
+<p>and</p>
+
+<pre><code>ffmpeg -i [mp4 path] -codec:v libvpx -quality good -cpu-used 0 -b:v 500k -qmin 10 -qmax 42 ""[save path]\[webm name].webm"
+</code></pre>
+
+<p>As you can see, you need to use two separate commands because (as far as I know) ffmpeg does not <em>directly</em> create .webms from a bunch of frames; we have to create a .mp4 file first and then convert that. You can skip the second step if you’re ok with a .mp4 file, of course!</p>
+
+<p><br /></p>
+
+<p>When you’ve got all the frames and/or .webms you need, you can either post them somewhere or just… I don’t know? Stare at them?</p>
+
+<p>If you <em>do</em> want to post them in a similar format as I do, you can use <a href="http://zurb.com/playground/twentytwenty">this</a> script, which is the one I use on my blog.</p>
+
+<h2 id="conclusions"><em>Conclusions</em></h2>
+
+<p>Anyway! This last step concludes this weird tutorial/how-to/behind-the-scenes hybrid. I hope this was informative and/or interesting! And if you read this far, then well done! I also hope I did an ok job detailing exactly what I do; I’m not the greatest at explaining things.</p>
+
+<p>If you’ve still got some questions (or if you’ve thought of some improvements!) about this whole process, please let me know!</p>
+
+<p><br /></p>
+
+<p>I’ll see you next time (with a proper comparison), and as always…</p>
+
+<p><br /></p>
+
+<p><img class="center" src="/images/tobecontinued.png" /></p>
+</div>
+<div align=center>
+<br /> <em>// tagged under:</em> <br /> <br />
+
+
+<span class="categories">
+  
+    <a class='category' href='/categories/extra/'>extra</a>
+  
+</span>
+
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+    </p>
+    
+      <div class="sharing">
+  
+  
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left" href="/jojo-diu-16/" title="Previous Post: Diamond is Unbreakable #16 - Let's Go Hunting!">&laquo; Diamond is Unbreakable #16 - Let's Go Hunting!</a>
+      
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  <div align="center">
+   <form action="https://www.google.com/search" method="get">
+    <fieldset role="search">
+    <input type="hidden" name="sitesearch" value="jojocomparisons.github.io" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+    <br><br>
+    <font face="CubanoRegular"><h2>[<a href=https://jojocomparisons.github.io>Home</a>]</h2></font>
+    <font face="CubanoRegular"><h2>[<a href=/episodelist/>Episode List</a>]</h2></font>
+    <font face="CubanoRegular"><h2>[<a href="/contact/">Contact</a>]</h2></font>
+    <font face="CubanoRegular"><h2>[<a href="/atom.xml">RSS Feed</a>]</h2></font>
+    <font face="CubanoRegular"><h2>[<a href="/donate/">Donate?</a>]</h2></font>
+    <br>
+    <br>
+  
+
+      </div>
+</aside>
+
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p><div align=center>
+  Copyright &copy; 2017 - <a href="mailto:jojocomparisons@gmail.com">Duwang Boi</a>
+  <span class="credit">// Powered by <a href="http://octopress.org">Octopress</a> // Theme by <a href="https://github.com/alexharris/octopress-flat/tree/ae15fbce56e381e41e6d1b1e37a366463ebb2a7c">Alex Harris</a></span>
+   </div> </p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'jojocomparisons-github';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'https://jojocomparisons.github.io/how-is-a-comparison-born/';
+        var disqus_url = 'https://jojocomparisons.github.io/how-is-a-comparison-born/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'https://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="/javascripts/aharris.js"></script>
+
+<!--Jquery Touch Events-->
+<script type="text/javascript" src="../../../bower_components/jquery-touch-events/src/1.0.5/jquery.mobile-events.min.js"></script>
+
+<script type="text/javascript" src="/compare/jquery.event.move.js"></script>
+
+<script type="text/javascript" src="/compare/initiate.js"></script>
+
+<script type="text/javascript" src="/compare/onlyplayifinview.js"></script>
+
+<script type="text/javascript" src="/compare/jquery.twentytwenty.js"></script>
+
+
+</body>
+</html>

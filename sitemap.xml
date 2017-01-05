@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://jojocomparisons.github.io/how-is-a-comparison-born/</loc>
+<lastmod>2017-01-04T18:42:57+01:00</lastmod>
+</url>
+<url>
+<loc>https://jojocomparisons.github.io/jojo-diu-16/</loc>
+<lastmod>2017-01-03T13:39:11+01:00</lastmod>
+</url>
+<url>
 <loc>https://jojocomparisons.github.io/jojo-diu-15/</loc>
 <lastmod>2016-12-24T15:06:30+01:00</lastmod>
 </url>
@@ -113,22 +121,25 @@
 <lastmod>2016-09-21T12:34:21+02:00</lastmod>
 </url>
 <url>
-<loc>https://jojocomparisons.github.io/blog/</loc>
+<loc>https://jojocomparisons.github.io/blog/archives/</loc>
 </url>
 <url>
 <loc>https://jojocomparisons.github.io/archives/</loc>
 </url>
 <url>
-<loc>https://jojocomparisons.github.io/blog/archives/</loc>
+<loc>https://jojocomparisons.github.io/blog/</loc>
 </url>
 <url>
-<loc>https://jojocomparisons.github.io/</loc>
+<loc>https://jojocomparisons.github.io/contact/</loc>
+</url>
+<url>
+<loc>https://jojocomparisons.github.io/donate/</loc>
 </url>
 <url>
 <loc>https://jojocomparisons.github.io/episodelist/</loc>
 </url>
 <url>
-<loc>https://jojocomparisons.github.io/contact/</loc>
+<loc>https://jojocomparisons.github.io/</loc>
 </url>
 <url>
 <loc>https://jojocomparisons.github.io/categories/diu/</loc>
@@ -138,5 +149,8 @@
 </url>
 <url>
 <loc>https://jojocomparisons.github.io/categories/bt/</loc>
+</url>
+<url>
+<loc>https://jojocomparisons.github.io/categories/extra/</loc>
 </url>
 </urlset>
