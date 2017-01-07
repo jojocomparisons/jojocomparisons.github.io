@@ -19,8 +19,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - In the pre-opening scene, the BDs give us a nice bit of introduction as to what we're seeing. 1888, London, East End:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-00150.jpg" />
- <img src="/images/PB02/bd-00150.jpg" />
+ <img src="./../images/PB02/tv-00150.jpg" />
+ <img src="./../images/PB02/bd-00150.jpg" />
 </div>
 
 <br>
@@ -28,8 +28,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Here we have the first bit of uncensored gore for this episode (they also toned down on the shadows):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-00240.jpg" />
- <img src="/images/PB02/bd-00240.jpg" />
+ <img src="./../images/PB02/tv-00240.jpg" />
+ <img src="./../images/PB02/bd-00240.jpg" />
 </div>
 
 <br>
@@ -37,8 +37,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - And here as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-00245.jpg" />
- <img src="/images/PB02/bd-00245.jpg" />
+ <img src="./../images/PB02/tv-00245.jpg" />
+ <img src="./../images/PB02/bd-00245.jpg" />
 </div>
 
 <br>
@@ -46,8 +46,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - The reflection on Jack the Ripper's blade is shorter (I know, I know, who cares):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-00338.jpg" />
- <img src="/images/PB02/bd-00338.jpg" />
+ <img src="./../images/PB02/tv-00338.jpg" />
+ <img src="./../images/PB02/bd-00338.jpg" />
 </div>
 
 <br>
@@ -55,8 +55,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - This shot of the daily newspaper has an added vignette:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-00400.jpg" />
- <img src="/images/PB02/bd-00400.jpg" />
+ <img src="./../images/PB02/tv-00400.jpg" />
+ <img src="./../images/PB02/bd-00400.jpg" />
 </div>
 
 <br>
@@ -64,8 +64,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Aaaand here come the redraws! Let's begin with Dio in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-06000.jpg" />
- <img src="/images/PB02/bd-06000.jpg" />
+ <img src="./../images/PB02/tv-06000.jpg" />
+ <img src="./../images/PB02/bd-06000.jpg" />
 </div>
 
 <br>
@@ -73,8 +73,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - WHAT'S THAT YOU SAY? YOU WANT IT TO BE MORE DRAMATIC? YOU WANT IT REDDER? AND WITH MORE THINGS ON THE SCREEN? ALRIGHT, I GUESS:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-06290.jpg" />
- <img src="/images/PB02/bd-06290.jpg" />
+ <img src="./../images/PB02/tv-06290.jpg" />
+ <img src="./../images/PB02/bd-06290.jpg" />
 </div>
 
 <br>
@@ -82,8 +82,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - The scratch pattern they've put in this scene is slightly different in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-06760.jpg" />
- <img src="/images/PB02/bd-06760.jpg" />
+ <img src="./../images/PB02/tv-06760.jpg" />
+ <img src="./../images/PB02/bd-06760.jpg" />
 </div>
 
 <br>
@@ -91,15 +91,15 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Dio has been redrawn, and the interviewers' eyeballs have been shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-06870.jpg" />
- <img src="/images/PB02/bd-06870.jpg" />
+ <img src="./../images/PB02/tv-06870.jpg" />
+ <img src="./../images/PB02/bd-06870.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-07130.jpg" />
- <img src="/images/PB02/bd-07130.jpg" />
+ <img src="./../images/PB02/tv-07130.jpg" />
+ <img src="./../images/PB02/bd-07130.jpg" />
 </div>
 
 <br>
@@ -107,8 +107,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - The strokes in this shot are way thicker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-07150.jpg" />
- <img src="/images/PB02/bd-07150.jpg" />
+ <img src="./../images/PB02/tv-07150.jpg" />
+ <img src="./../images/PB02/bd-07150.jpg" />
 </div>
 
 <br>
@@ -116,8 +116,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - "Those are some very nice arrows" "Oh, thank you" "Why though?" "I'm not sure":
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-07200.jpg" />
- <img src="/images/PB02/bd-07200.jpg" />
+ <img src="./../images/PB02/tv-07200.jpg" />
+ <img src="./../images/PB02/bd-07200.jpg" />
 </div>
 
 <br>
@@ -125,15 +125,15 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Dio and Jonathan are both redrawn in these shots:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-08190.jpg" />
- <img src="/images/PB02/bd-08190.jpg" />
+ <img src="./../images/PB02/tv-08190.jpg" />
+ <img src="./../images/PB02/bd-08190.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-08480.jpg" />
- <img src="/images/PB02/bd-08480.jpg" />
+ <img src="./../images/PB02/tv-08480.jpg" />
+ <img src="./../images/PB02/bd-08480.jpg" />
 </div>
 
 <br>
@@ -141,8 +141,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - George is not immune to the redrawings. If you look close enough even the bed has a thicker outline:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-08840.jpg" />
- <img src="/images/PB02/bd-08840.jpg" />
+ <img src="./../images/PB02/tv-08840.jpg" />
+ <img src="./../images/PB02/bd-08840.jpg" />
 </div>
 
 <br>
@@ -150,8 +150,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Sneaky Dio is not sneaky enough to get past David pro's redrawing pencils:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-11440.jpg" />
- <img src="/images/PB02/bd-11440.jpg" />
+ <img src="./../images/PB02/tv-11440.jpg" />
+ <img src="./../images/PB02/bd-11440.jpg" />
 </div>
 
 <br>
@@ -159,43 +159,43 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - The BDs give Jonathan a sharper shade of surprise:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-11470.jpg" />
- <img src="/images/PB02/bd-11470.jpg" />
+ <img src="./../images/PB02/tv-11470.jpg" />
+ <img src="./../images/PB02/bd-11470.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-11500.jpg" />
- <img src="/images/PB02/bd-11500.jpg" />
+ <img src="./../images/PB02/tv-11500.jpg" />
+ <img src="./../images/PB02/bd-11500.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-12790.jpg" />
- <img src="/images/PB02/bd-12790.jpg" />
+ <img src="./../images/PB02/tv-12790.jpg" />
+ <img src="./../images/PB02/bd-12790.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-13216.jpg" />
- <img src="/images/PB02/bd-13216.jpg" />
+ <img src="./../images/PB02/tv-13216.jpg" />
+ <img src="./../images/PB02/bd-13216.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-13218.jpg" />
- <img src="/images/PB02/bd-13218.jpg" />
+ <img src="./../images/PB02/tv-13218.jpg" />
+ <img src="./../images/PB02/bd-13218.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-13260.jpg" />
- <img src="/images/PB02/bd-13260.jpg" />
+ <img src="./../images/PB02/tv-13260.jpg" />
+ <img src="./../images/PB02/bd-13260.jpg" />
 </div>
 
 <br>
@@ -203,8 +203,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Dio no longer looks as if he has no idea what's going on:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-13400.jpg" />
- <img src="/images/PB02/bd-13400.jpg" />
+ <img src="./../images/PB02/tv-13400.jpg" />
+ <img src="./../images/PB02/bd-13400.jpg" />
 </div>
 
 <br>
@@ -215,22 +215,20 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB02/TV%201%20-%20objection.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/TV 01 - objection.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB02/BD%201%20-%20objection.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB02/BD 01 - objection.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
-<br>
-
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-15150.jpg" />
- <img src="/images/PB02/bd-15150.jpg" />
+ <img src="./../images/PB02/tv-15150.jpg" />
+ <img src="./../images/PB02/bd-15150.jpg" />
 </div>
 
 <br>
@@ -238,8 +236,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Dio has been redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-17750.jpg" />
- <img src="/images/PB02/bd-17750.jpg" />
+ <img src="./../images/PB02/tv-17750.jpg" />
+ <img src="./../images/PB02/bd-17750.jpg" />
 </div>
 
 <br>
@@ -247,8 +245,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - The BD tells us that this was "Two days later, London":
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-17990.jpg" />
- <img src="/images/PB02/bd-17990.jpg" />
+ <img src="./../images/PB02/tv-17990.jpg" />
+ <img src="./../images/PB02/bd-17990.jpg" />
 </div>
 
 <br>
@@ -256,37 +254,35 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Thankfully Jonathan's face in this scene was redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-18600.jpg" />
- <img src="/images/PB02/bd-18600.jpg" />
+ <img src="./../images/PB02/tv-18600.jpg" />
+ <img src="./../images/PB02/bd-18600.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-18680.jpg" />
- <img src="/images/PB02/bd-18680.jpg" />
+ <img src="./../images/PB02/tv-18680.jpg" />
+ <img src="./../images/PB02/bd-18680.jpg" />
 </div>
 
 <br>
 
 - This animation is slightly brighter and uncensored:
-
+-
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB02/TV%202%20-%20speedhat.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/TV 02 - speedhat.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB02/BD%202%20-%20speedhat.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB02/BD 02 - speedhat.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
-
-<br>
 
 - This other one has been uncensored (and I honestly don't get why it was in the first place):
 
@@ -294,18 +290,16 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB02/TV%203%20-%20bottle.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/TV 03 - bottle.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB02/BD%203%20-%20bottle.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB02/BD 03 - bottle.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
-
-<br>
 
 - As was this other animation (if you look closely, you can see that the dude walking in the foreground has also been moved slightly to the left):
 
@@ -313,18 +307,16 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB02/TV%204%20-%20smashmouth.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/TV 04 - smashmouth.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB02/BD%204%20-%20smashmouth.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB02/BD 04 - smashmouth.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
-
-<br>
 
 - And another one:
 
@@ -332,24 +324,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB02/TV%205%20-%20dagger.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/TV 05 - dagger.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB02/BD%205%20-%20dagger.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB02/BD 05 - dagger.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
-<br>
-
 - We interrupt this stream of gory uncensored animations to bring you some breaking news! The shoe in the bottom left corner is for some reason brighter (riveting, huh?):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-28350.jpg" />
- <img src="/images/PB02/bd-28350.jpg" />
+ <img src="./../images/PB02/tv-28350.jpg" />
+ <img src="./../images/PB02/bd-28350.jpg" />
 </div>
 
 <br>
@@ -360,18 +350,16 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB02/TV%206%20-%20gimmethat.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/TV 06 - gimmethat.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB02/BD%206%20-%20gimmethat.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB02/BD 06 - gimmethat.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
-
-<br>
 
 - Now you can see this dude's messed up hand in all its g(l)ory:
 
@@ -379,18 +367,16 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB02/TV%207%20-%20hand.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/TV 07 - hand.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB02/BD%207%20-%20hand.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB02/BD 07 - hand.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
-
-<br>
 
 - The thunders in this scene are brighter:
 
@@ -398,24 +384,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB02/TV%208%20-%20thunder.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/TV 08 - thunder.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB02/BD%208%20-%20thunder.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB02/BD 08 - thunder.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
-<br>
-
 - And now for some good ol' credit mistakes! Speedweed's voice actor (Ueda Yōji) was previously misspelled as 上田耀司, while instead it's 上田燿司; if you don't see anything different, here it is: the second to last kanji is not 耀, but 燿. Small difference, but still:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-31560.jpg" />
- <img src="/images/PB02/bd-31560.jpg" />
+ <img src="./../images/PB02/tv-31560.jpg" />
+ <img src="./../images/PB02/bd-31560.jpg" />
 </div>
 
 <br>
@@ -423,8 +407,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Not one, but two misspelled names: both 辻秀一 (Tsuji Shūichi) and 辻健志 (Tsuji Kenji)'s surnames (辻) apparently only have one "drop" on the left side:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-32270.jpg" />
- <img src="/images/PB02/bd-32270.jpg" />
+ <img src="./../images/PB02/tv-32270.jpg" />
+ <img src="./../images/PB02/bd-32270.jpg" />
 </div>
 
 <br>
@@ -432,8 +416,8 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - And finally, here 小松原聖 (Komatsubara Kiyoshi)'s name is spaced differently; since in japanese three-kanji surnames are somewhat rarer, I suppose they chose to put a clearer separation between the surname and the name, to avoid confusions:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB02/tv-32850.jpg" />
- <img src="/images/PB02/bd-32850.jpg" />
+ <img src="./../images/PB02/tv-32850.jpg" />
+ <img src="./../images/PB02/bd-32850.jpg" />
 </div>
 
 <br>

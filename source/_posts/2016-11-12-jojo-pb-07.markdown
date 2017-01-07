@@ -19,8 +19,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Let's begin with a redrawn Tompeti! In this shot his ears have been recoloured and his eyes, mouth and forehead have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-02200.jpg" />
- <img src="/images/PB07/bd-02200.jpg" />
+ <img src="./../images/PB07/tv-02200.jpg" />
+ <img src="./../images/PB07/bd-02200.jpg" />
 </div>
 
 <br>
@@ -28,22 +28,22 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Zeppeli's gruesome demise has been uncensored:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-08470.jpg" />
- <img src="/images/PB07/bd-08470.jpg" />
+ <img src="./../images/PB07/tv-08470.jpg" />
+ <img src="./../images/PB07/bd-08470.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-08750.jpg" />
- <img src="/images/PB07/bd-08750.jpg" />
+ <img src="./../images/PB07/tv-08750.jpg" />
+ <img src="./../images/PB07/bd-08750.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-09070.jpg" />
- <img src="/images/PB07/bd-09070.jpg" />
+ <img src="./../images/PB07/tv-09070.jpg" />
+ <img src="./../images/PB07/bd-09070.jpg" />
 </div>
 
 <br>
@@ -54,20 +54,20 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB07/TV%201%20-%20zepweed.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB07/TV 01 - zepweed.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB07/BD%201%20-%20zepweed.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB07/BD 01 - zepweed.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-09300.jpg" />
- <img src="/images/PB07/bd-09300.jpg" />
+ <img src="./../images/PB07/tv-09300.jpg" />
+ <img src="./../images/PB07/bd-09300.jpg" />
 </div>
 
 <br>
@@ -75,8 +75,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Once again, an uncensored Zeppeli:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-09445.jpg" />
- <img src="/images/PB07/bd-09445.jpg" />
+ <img src="./../images/PB07/tv-09445.jpg" />
+ <img src="./../images/PB07/bd-09445.jpg" />
 </div>
 
 <br>
@@ -84,8 +84,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - And a slightly retouched Jonathan (note his lil stubby fingers in the TV version):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-09560.jpg" />
- <img src="/images/PB07/bd-09560.jpg" />
+ <img src="./../images/PB07/tv-09560.jpg" />
+ <img src="./../images/PB07/bd-09560.jpg" />
 </div>
 
 <br>
@@ -96,27 +96,12 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB07/TV%202%20-%20brighter%201.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB07/TV 02 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB07/BD%202%20-%20brighter%201.webm type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB07/TV%203%20-%20brighter%202.webm type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB07/BD%203%20-%20brighter%202.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB07/BD 02 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -126,12 +111,27 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB07/TV%204%20-%20brighter%203.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB07/TV 03 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB07/BD 03 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB07/BD%204%20-%20brighter%203.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB07/TV 04 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB07/BD 04 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -140,8 +140,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - In this shot, both Speedwagon and Poco have been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-12250.jpg" />
- <img src="/images/PB07/bd-12250.jpg" />
+ <img src="./../images/PB07/tv-12250.jpg" />
+ <img src="./../images/PB07/bd-12250.jpg" />
 </div>
 
 <br>
@@ -149,8 +149,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - The more I look at Zeppeli in this state and the sadder I get:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-12450.jpg" />
- <img src="/images/PB07/bd-12450.jpg" />
+ <img src="./../images/PB07/tv-12450.jpg" />
+ <img src="./../images/PB07/bd-12450.jpg" />
 </div>
 
 <br>
@@ -158,8 +158,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - A New Weed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-12535.jpg" />
- <img src="/images/PB07/bd-12535.jpg" />
+ <img src="./../images/PB07/tv-12535.jpg" />
+ <img src="./../images/PB07/bd-12535.jpg" />
 </div>
 
 <br>
@@ -167,8 +167,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Jonathan has been completely redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-13220.jpg" />
- <img src="/images/PB07/bd-13220.jpg" />
+ <img src="./../images/PB07/tv-13220.jpg" />
+ <img src="./../images/PB07/bd-13220.jpg" />
 </div>
 
 <br>
@@ -179,12 +179,12 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB07/TV%205%20-%20jonathan.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB07/TV 05 - jonathan.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB07/BD%205%20-%20jonathan.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB07/BD 05 - jonathan.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -193,15 +193,15 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - In this shot, Jonathan has been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-14092.jpg" />
- <img src="/images/PB07/bd-14092.jpg" />
+ <img src="./../images/PB07/tv-14092.jpg" />
+ <img src="./../images/PB07/bd-14092.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-14142.jpg" />
- <img src="/images/PB07/bd-14142.jpg" />
+ <img src="./../images/PB07/tv-14142.jpg" />
+ <img src="./../images/PB07/bd-14142.jpg" />
 </div>
 
 <br>
@@ -209,8 +209,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - ...Yeah:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-14394.jpg" />
- <img src="/images/PB07/bd-14394.jpg" />
+ <img src="./../images/PB07/tv-14394.jpg" />
+ <img src="./../images/PB07/bd-14394.jpg" />
 </div>
 
 <br>
@@ -218,15 +218,15 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - JONATHAN IS WAY MORE UPSET IN THE BDS:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-15000.jpg" />
- <img src="/images/PB07/bd-15000.jpg" />
+ <img src="./../images/PB07/tv-15000.jpg" />
+ <img src="./../images/PB07/bd-15000.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-15030.jpg" />
- <img src="/images/PB07/bd-15030.jpg" />
+ <img src="./../images/PB07/tv-15030.jpg" />
+ <img src="./../images/PB07/bd-15030.jpg" />
 </div>
 
 <br>
@@ -234,8 +234,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - And he's been retouched again here; the onomatopoeia's outline is also wavier:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-15230.jpg" />
- <img src="/images/PB07/bd-15230.jpg" />
+ <img src="./../images/PB07/tv-15230.jpg" />
+ <img src="./../images/PB07/bd-15230.jpg" />
 </div>
 
 <br>
@@ -243,15 +243,15 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Another couple of brighter and sharper shots:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-15270.jpg" />
- <img src="/images/PB07/bd-15270.jpg" />
+ <img src="./../images/PB07/tv-15270.jpg" />
+ <img src="./../images/PB07/bd-15270.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-15300.jpg" />
- <img src="/images/PB07/bd-15300.jpg" />
+ <img src="./../images/PB07/tv-15300.jpg" />
+ <img src="./../images/PB07/bd-15300.jpg" />
 </div>
 
 <br>
@@ -259,8 +259,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Jonathan's body and Zeppeli's face are now in HD:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-16400.jpg" />
- <img src="/images/PB07/bd-16400.jpg" />
+ <img src="./../images/PB07/tv-16400.jpg" />
+ <img src="./../images/PB07/bd-16400.jpg" />
 </div>
 
 <br>
@@ -268,8 +268,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Jonathan is less pouty and has better eyes here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-17350.jpg" />
- <img src="/images/PB07/bd-17350.jpg" />
+ <img src="./../images/PB07/tv-17350.jpg" />
+ <img src="./../images/PB07/bd-17350.jpg" />
 </div>
 
 <br>
@@ -277,8 +277,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Speedwagon's eyes and mouth have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-17500.jpg" />
- <img src="/images/PB07/bd-17500.jpg" />
+ <img src="./../images/PB07/tv-17500.jpg" />
+ <img src="./../images/PB07/bd-17500.jpg" />
 </div>
 
 <br>
@@ -286,8 +286,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Here David production redrew Jonathan's face and retouched Zeppeli's mouth:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-19000.jpg" />
- <img src="/images/PB07/bd-19000.jpg" />
+ <img src="./../images/PB07/tv-19000.jpg" />
+ <img src="./../images/PB07/bd-19000.jpg" />
 </div>
 
 <br>
@@ -295,8 +295,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Another Speedwagon redraw here; Poco's ear has also been shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-19280.jpg" />
- <img src="/images/PB07/bd-19280.jpg" />
+ <img src="./../images/PB07/tv-19280.jpg" />
+ <img src="./../images/PB07/bd-19280.jpg" />
 </div>
 
 <br>
@@ -304,8 +304,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Another Jonathan and Zeppeli redraw, as in the previous shot (the lower right corner is also brighter):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-19600.jpg" />
- <img src="/images/PB07/bd-19600.jpg" />
+ <img src="./../images/PB07/tv-19600.jpg" />
+ <img src="./../images/PB07/bd-19600.jpg" />
 </div>
 
 <br>
@@ -313,8 +313,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Dio's head is slightly... Larger? This one is a bit weird:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-21740.jpg" />
- <img src="/images/PB07/bd-21740.jpg" />
+ <img src="./../images/PB07/tv-21740.jpg" />
+ <img src="./../images/PB07/bd-21740.jpg" />
 </div>
 
 <br>
@@ -325,12 +325,12 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB07/TV%206%20-%20shadow.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB07/TV 06 - shadow.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB07/BD%206%20-%20shadow.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB07/BD 06 - shadow.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -339,8 +339,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Everyone's face is more shaded in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-23279.jpg" />
- <img src="/images/PB07/bd-23279.jpg" />
+ <img src="./../images/PB07/tv-23279.jpg" />
+ <img src="./../images/PB07/bd-23279.jpg" />
 </div>
 
 <br>
@@ -348,15 +348,15 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Another couple of completely redrawn shots here (and for once, in the second shot I preferred the TV version of Jonathan):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-23300.jpg" />
- <img src="/images/PB07/bd-23300.jpg" />
+ <img src="./../images/PB07/tv-23300.jpg" />
+ <img src="./../images/PB07/bd-23300.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-24085.jpg" />
- <img src="/images/PB07/bd-24085.jpg" />
+ <img src="./../images/PB07/tv-24085.jpg" />
+ <img src="./../images/PB07/bd-24085.jpg" />
 </div>
 
 <br>
@@ -367,12 +367,12 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB07/TV%207%20-%20jowalk.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB07/TV 07 - jowalk.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB07/BD%207%20-%20jowalk.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB07/BD 07 - jowalk.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -381,8 +381,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - upgrade_button_meme.jpg:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-25200.jpg" />
- <img src="/images/PB07/bd-25200.jpg" />
+ <img src="./../images/PB07/tv-25200.jpg" />
+ <img src="./../images/PB07/bd-25200.jpg" />
 </div>
 
 <br>
@@ -390,8 +390,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Here, Dire's head has been redrawn and the two straps at the bottom of Jonathan's backpack have been removed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-26785.jpg" />
- <img src="/images/PB07/bd-26785.jpg" />
+ <img src="./../images/PB07/tv-26785.jpg" />
+ <img src="./../images/PB07/bd-26785.jpg" />
 </div>
 
 <br>
@@ -399,15 +399,15 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Dire's face has been redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-27275.jpg" />
- <img src="/images/PB07/bd-27275.jpg" />
+ <img src="./../images/PB07/tv-27275.jpg" />
+ <img src="./../images/PB07/bd-27275.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-27370.jpg" />
- <img src="/images/PB07/bd-27370.jpg" />
+ <img src="./../images/PB07/tv-27370.jpg" />
+ <img src="./../images/PB07/bd-27370.jpg" />
 </div>
 
 <br>
@@ -415,8 +415,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Another "just see for yourself" comparison here, folks:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-27630.jpg" />
- <img src="/images/PB07/bd-27630.jpg" />
+ <img src="./../images/PB07/tv-27630.jpg" />
+ <img src="./../images/PB07/bd-27630.jpg" />
 </div>
 
 <br>
@@ -424,8 +424,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Again, pretty much everything has been redrawn or retouched in this shot; they even added Poco in a bunch of frames in which he was not visible:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-28275.jpg" />
- <img src="/images/PB07/bd-28275.jpg" />
+ <img src="./../images/PB07/tv-28275.jpg" />
+ <img src="./../images/PB07/bd-28275.jpg" />
 </div>
 
 <br>
@@ -433,8 +433,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Everyone has a slightly retouched face in this shot; Poco and Dire have also been shaded better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-28500.jpg" />
- <img src="/images/PB07/bd-28500.jpg" />
+ <img src="./../images/PB07/tv-28500.jpg" />
+ <img src="./../images/PB07/bd-28500.jpg" />
 </div>
 
 <br>
@@ -442,8 +442,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Another difference-heavy comparison! Even the background has been tilted slightly:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-28730.jpg" />
- <img src="/images/PB07/bd-28730.jpg" />
+ <img src="./../images/PB07/tv-28730.jpg" />
+ <img src="./../images/PB07/bd-28730.jpg" />
 </div>
 
 <br>
@@ -451,15 +451,15 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Everyone is drawn better here, and the camera is placed differently:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-30456.jpg" />
- <img src="/images/PB07/bd-30456.jpg" />
+ <img src="./../images/PB07/tv-30456.jpg" />
+ <img src="./../images/PB07/bd-30456.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-30635.jpg" />
- <img src="/images/PB07/bd-30635.jpg" />
+ <img src="./../images/PB07/tv-30635.jpg" />
+ <img src="./../images/PB07/bd-30635.jpg" />
 </div>
 
 <br>
@@ -467,8 +467,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - Tompeti's eyes are less kawaii uguu:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-30650.jpg" />
- <img src="/images/PB07/bd-30650.jpg" />
+ <img src="./../images/PB07/tv-30650.jpg" />
+ <img src="./../images/PB07/bd-30650.jpg" />
 </div>
 
 <br>
@@ -476,8 +476,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - And now for a couple of good ol' credits differences! First off, they added animation supervisor 亀井眞也 (Kamei Shin'ya) to the credits:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-33500.jpg" />
- <img src="/images/PB07/bd-33500.jpg" />
+ <img src="./../images/PB07/tv-33500.jpg" />
+ <img src="./../images/PB07/bd-33500.jpg" />
 </div>
 
 <br>
@@ -485,8 +485,8 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 - And in the next episode card, the title has been spaced a bit differently:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB07/tv-34000.jpg" />
- <img src="/images/PB07/bd-34000.jpg" />
+ <img src="./../images/PB07/tv-34000.jpg" />
+ <img src="./../images/PB07/bd-34000.jpg" />
 </div>
 
 <br>

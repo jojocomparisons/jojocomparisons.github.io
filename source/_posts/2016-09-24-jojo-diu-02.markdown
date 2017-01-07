@@ -21,15 +21,15 @@ The frames themselves, however, will be more or less the same, since thankfully 
 - This scene of Angelo biting the dog's face is uncensored:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU02/tv-03510.jpg" />
- <img src="/images/DIU02/bd-03510.jpg" />
+ <img src="./../images/DIU02/tv-03510.jpg" />
+ <img src="./../images/DIU02/bd-03510.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU02/tv-03547.jpg" />
- <img src="/images/DIU02/bd-03547.jpg" />
+ <img src="./../images/DIU02/tv-03547.jpg" />
+ <img src="./../images/DIU02/bd-03547.jpg" />
 </div>
 
 <br>
@@ -37,15 +37,15 @@ The frames themselves, however, will be more or less the same, since thankfully 
 - Likewise, the BD has this dude dying in all its glory:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU02/tv-04065.jpg" />
- <img src="/images/DIU02/bd-04065.jpg" />
+ <img src="./../images/DIU02/tv-04065.jpg" />
+ <img src="./../images/DIU02/bd-04065.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU02/tv-04090.jpg" />
- <img src="/images/DIU02/bd-04090.jpg" />
+ <img src="./../images/DIU02/tv-04090.jpg" />
+ <img src="./../images/DIU02/bd-04090.jpg" />
 </div>
 
 <br>
@@ -53,15 +53,15 @@ The frames themselves, however, will be more or less the same, since thankfully 
 - I'm not sure why, but in the opening, the sign behind Josuke has been changed (it was changed in the TV version as well, from Episode #07 onwards): where it first read "Doradoradora" (ドラドラドラ) it now reads "Dorarara!" (ドラララ！):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU02/tv-04950.jpg" />
- <img src="/images/DIU02/bd-04950.jpg" />
+ <img src="./../images/DIU02/tv-04950.jpg" />
+ <img src="./../images/DIU02/bd-04950.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU02/tv-04970.jpg" />
- <img src="/images/DIU02/bd-04970.jpg" />
+ <img src="./../images/DIU02/tv-04970.jpg" />
+ <img src="./../images/DIU02/bd-04970.jpg" />
 </div>
 
 <br>
@@ -69,15 +69,15 @@ The frames themselves, however, will be more or less the same, since thankfully 
 - Uncensored mom penetration:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU02/tv-08610.jpg" />
- <img src="/images/DIU02/bd-08610.jpg" />
+ <img src="./../images/DIU02/tv-08610.jpg" />
+ <img src="./../images/DIU02/bd-08610.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU02/tv-08696.jpg" />
- <img src="/images/DIU02/bd-08696.jpg" />
+ <img src="./../images/DIU02/tv-08696.jpg" />
+ <img src="./../images/DIU02/bd-08696.jpg" />
 </div>
 
 <br>
@@ -85,8 +85,8 @@ The frames themselves, however, will be more or less the same, since thankfully 
 - Josuke's score in "Oh! That's A Baseball '99" has been rebalanced:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU02/tv-09870.jpg" />
- <img src="/images/DIU02/bd-09870.jpg" />
+ <img src="./../images/DIU02/tv-09870.jpg" />
+ <img src="./../images/DIU02/bd-09870.jpg" />
 </div>
 
 <br>
@@ -97,24 +97,22 @@ The frames themselves, however, will be more or less the same, since thankfully 
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU02/TV%201%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU02/TV 01 - crazy diamond.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
 <video nocontrols loop preload='auto'>
-  <source src=/videos/DIU02/BD%201%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU02/BD 01 - crazy diamond.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
-<br>
-
 - A slight animation mistake resulted in a couple of frames in which the background was visible on top of Jotaro. This has been fixed in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU02/tv-29440.jpg" />
- <img src="/images/DIU02/bd-29440.jpg" />
+ <img src="./../images/DIU02/tv-29440.jpg" />
+ <img src="./../images/DIU02/bd-29440.jpg" />
 </div>
 
 <br>
@@ -125,18 +123,16 @@ The frames themselves, however, will be more or less the same, since thankfully 
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU02/TV%202%20-%20angelo%20pan.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU02/TV 02 - angelo pan.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU02/BD%202%20-%20angelo%20pan.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU02/BD 02 - angelo pan.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
-
-<br>
 
 - As with all the beatdown animations, Crazy Diamond punching Angelo has been sharpened and made brighter:
 
@@ -144,18 +140,16 @@ The frames themselves, however, will be more or less the same, since thankfully 
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU02/TV%203%20-%20angelo%20beatdown.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU02/TV 03 - angelo beatdown.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU02/BD%203%20-%20angelo%20beatdown.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU02/BD 03 - angelo beatdown.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
-
-<br>
 
 - Josuke's mouth flap has been slightly changed here:
 
@@ -163,31 +157,35 @@ The frames themselves, however, will be more or less the same, since thankfully 
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU02/TV%204%20-%20josuke%20talking.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU02/TV 04 - josuke talking.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU02/BD%204%20-%20josuke%20talking.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU02/BD 04 - josuke talking.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
-<br>
-
 - 猿田涼 has been added to the end credits:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU02/tv-33400.jpg" />
- <img src="/images/DIU02/bd-33400.jpg" />
+ <img src="./../images/DIU02/tv-33400.jpg" />
+ <img src="./../images/DIU02/bd-33400.jpg" />
 </div>
 
 <br>
 
 As you might have noticed from the last frame comparison, the TV and BD versions are overall different: this is because the broadcast version of the ending they broacast in Episode #02 was still a rough, unfinished version, which was changed from Episode #03 onwards, and in the BDs as well. You can see a comparison in this video:
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/G3m5bGgxdZM" frameborder="0" allowfullscreen></iframe></center>
+<br>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G3m5bGgxdZM" frameborder="0" allowfullscreen></iframe>
+</center>
+
+<br>
 
 Alright, that's it for Episode #02! Tune in next time as we take a look at everyone's favourite dysfunctional family!
 

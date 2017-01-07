@@ -31,31 +31,29 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU01/TV%201%20-%20egg.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU01/TV 01 - egg.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
 <video nocontrols loop preload='auto'>
-  <source src=/videos/DIU01/BD%201%20-%20egg.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU01/BD 01 - egg.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
-<br>
-
 - Kira's victim's hand is uncensored:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU01/tv-01150.jpg" />
- <img src="/images/DIU01/bd-01150.jpg" />
+ <img src="./../images/DIU01/tv-01150.jpg" />
+ <img src="./../images/DIU01/bd-01150.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU01/tv-01200.jpg" />
- <img src="/images/DIU01/bd-01200.jpg" />
+ <img src="./../images/DIU01/tv-01200.jpg" />
+ <img src="./../images/DIU01/bd-01200.jpg" />
 </div>
 
 <br>
@@ -63,8 +61,8 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - Art director 加藤恵 (Katō Megumi) has been moved from the end credits to the opening credits:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU01/tv-01675.jpg" />
- <img src="/images/DIU01/bd-01675.jpg" />
+ <img src="./../images/DIU01/tv-01675.jpg" />
+ <img src="./../images/DIU01/bd-01675.jpg" />
 </div>
 
 <br>
@@ -72,8 +70,8 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - The episode title is (very) slightly brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU01/tv-02940.jpg" />
- <img src="/images/DIU01/bd-02940.jpg" />
+ <img src="./../images/DIU01/tv-02940.jpg" />
+ <img src="./../images/DIU01/bd-02940.jpg" />
 </div>
 
 <br>
@@ -84,24 +82,22 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU01/TV%202%20-%20star%20platinum.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU01/TV 02 - star platinum.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
 <video nocontrols loop preload='auto'>
-  <source src=/videos/DIU01/BD%202%20-%20star%20platinum.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU01/BD 02 - star platinum.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
-<br>
-
 - Jotaro's coattails are redrawn to be slightly less elevated and more natural-looking:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU01/tv-04900.jpg" />
- <img src="/images/DIU01/bd-04900.jpg" />
+ <img src="./../images/DIU01/tv-04900.jpg" />
+ <img src="./../images/DIU01/bd-04900.jpg" />
 </div>
 
 <br>
@@ -112,24 +108,22 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU01/TV%203%20-%20turtle%20throw.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU01/TV 03 - turtle throw.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
 <video nocontrols loop preload='auto'>
-  <source src=/videos/DIU01/BD%203%20-%20turtle%20throw.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU01/BD 03 - turtle throw.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
-<br>
-
 - The aforementioned blonde punk has a very very slightly darker right eyebrow:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU01/tv-09740.jpg" />
- <img src="/images/DIU01/bd-09740.jpg"/>
+ <img src="./../images/DIU01/tv-09740.jpg" />
+ <img src="./../images/DIU01/bd-09740.jpg"/>
 </div>
 
 <br>
@@ -137,8 +131,8 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - Koichi has a thinner outer border in this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU01/tv-17300.jpg" />
- <img src="/images/DIU01/bd-17300.jpg" />
+ <img src="./../images/DIU01/tv-17300.jpg" />
+ <img src="./../images/DIU01/bd-17300.jpg" />
 </div>
 
 <br>
@@ -146,8 +140,8 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - Koichi's mouth has been properly shaded here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU01/tv-19820.jpg" />
- <img src="/images/DIU01/bd-19820.jpg" />
+ <img src="./../images/DIU01/tv-19820.jpg" />
+ <img src="./../images/DIU01/bd-19820.jpg" />
 </div>
 
 <br>
@@ -158,24 +152,22 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU01/TV%204%20-%20noise.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU01/TV 04 - noise.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
 <video nocontrols loop preload='auto'>
-  <source src=/videos/DIU01/BD%204%20-%20noise.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU01/BD 04 - noise.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
-<br>
-
 - Josuke has a bighter and pinker aura in this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU01/tv-28940.jpg" />
- <img src="/images/DIU01/bd-28940.jpg" />
+ <img src="./../images/DIU01/tv-28940.jpg" />
+ <img src="./../images/DIU01/bd-28940.jpg" />
 </div>
 
 <br>
@@ -186,38 +178,36 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU01/TV%205%20-%20hostage.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU01/TV 05 - hostage.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
 <video nocontrols loop preload='auto'>
-  <source src=/videos/DIU01/BD%205%20-%20hostage.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU01/BD 05 - hostage.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
-<br>
-
 - Crazy Diamond's punch has been uncensored (the second censoring is a bit hard to spot):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU01/tv-29710.jpg" />
- <img src="/images/DIU01/bd-29710.jpg" />
+ <img src="./../images/DIU01/tv-29710.jpg" />
+ <img src="./../images/DIU01/bd-29710.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU01/tv-29800.jpg" />
- <img src="/images/DIU01/bd-29800.jpg" />
+ <img src="./../images/DIU01/tv-29800.jpg" />
+ <img src="./../images/DIU01/bd-29800.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU01/tv-29897.jpg" />
- <img src="/images/DIU01/bd-29897.jpg" />
+ <img src="./../images/DIU01/tv-29897.jpg" />
+ <img src="./../images/DIU01/bd-29897.jpg" />
 </div>
 
 <br>
@@ -225,8 +215,8 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - Several people have been removed from the end credits:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU01/tv-31390.jpg" />
- <img src="/images/DIU01/bd-31390.jpg" />
+ <img src="./../images/DIU01/tv-31390.jpg" />
+ <img src="./../images/DIU01/bd-31390.jpg" />
 </div>
 
 <br>
@@ -234,8 +224,8 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - Same as before here, plus they rewrote 仕上げ (Finishing touches) as 仕上; it's not really a spelling mistake but more of a consistency thing, since it can be written both ways and further on they settle on the latter spelling:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU01/tv-31540.jpg" />
- <img src="/images/DIU01/bd-31540.jpg" />
+ <img src="./../images/DIU01/tv-31540.jpg" />
+ <img src="./../images/DIU01/bd-31540.jpg" />
 </div>
 
 <br>
@@ -243,8 +233,8 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - As stated earlier, 加藤恵 (Katō Megumi) is no longer in the ending credits:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU01/tv-31750.jpg" />
- <img src="/images/DIU01/bd-31750.jpg" />
+ <img src="./../images/DIU01/tv-31750.jpg" />
+ <img src="./../images/DIU01/bd-31750.jpg" />
 </div>
 
 <br>
@@ -252,8 +242,8 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - The "next time" card is slightly brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU01/tv-33970.jpg" />
- <img src="/images/DIU01/bd-33970.jpg" />
+ <img src="./../images/DIU01/tv-33970.jpg" />
+ <img src="./../images/DIU01/bd-33970.jpg" />
 </div>
 
 <br>
@@ -265,6 +255,8 @@ Tune in next time for the Dog Eating Extravaganza, as we delve into the Episode 
 <br>
 
 Bye!
+
+<br>
 
 P.S.: As you might have noticed, the previous blog I used for the comparisons no longer exists. I'm afraid it is completely my bad, since I misread the hosting prices and I assumed that it would be free! Hopefully this is the last time I have to migrate to a new hosting service!
 

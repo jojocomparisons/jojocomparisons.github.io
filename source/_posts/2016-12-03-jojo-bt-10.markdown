@@ -21,8 +21,8 @@ Now then, without further ado, let's go!
 - Let's begin with an uncensored, mangled face:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/BT10/tv-06490.jpg" />
- <img src="/images/BT10/bd-06490.jpg" />
+ <img src="./../images/BT10/tv-06490.jpg" />
+ <img src="./../images/BT10/bd-06490.jpg" />
 </div>
 
 <br>
@@ -33,12 +33,12 @@ Now then, without further ado, let's go!
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/BT10/TV%201%20-%20cokefinger.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT10/TV 01 - cokefinger.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/BT10/BD%201%20-%20cokefinger.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/BT10/BD 01 - cokefinger.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -47,8 +47,8 @@ Now then, without further ado, let's go!
 - Even old speedwagon is not safe from a couple of retouches:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/BT10/tv-11900.jpg" />
- <img src="/images/BT10/bd-11900.jpg" />
+ <img src="./../images/BT10/tv-11900.jpg" />
+ <img src="./../images/BT10/bd-11900.jpg" />
 </div>
 
 <br>
@@ -56,8 +56,8 @@ Now then, without further ado, let's go!
 - And we have another uncensored wound here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/BT10/tv-14190.jpg" />
- <img src="/images/BT10/bd-14190.jpg" />
+ <img src="./../images/BT10/tv-14190.jpg" />
+ <img src="./../images/BT10/bd-14190.jpg" />
 </div>
 
 <br>
@@ -65,8 +65,8 @@ Now then, without further ado, let's go!
 - Joseph's face has been redrawn here, and his ridiculously long bangs shortened:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/BT10/tv-16970.jpg" />
- <img src="/images/BT10/bd-16970.jpg" />
+ <img src="./../images/BT10/tv-16970.jpg" />
+ <img src="./../images/BT10/bd-16970.jpg" />
 </div>
 
 <br>
@@ -74,29 +74,29 @@ Now then, without further ado, let's go!
 - In these four very boring shots, the word TAXI on the side of this... well, Taxi, has been made more visible:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/BT10/tv-17700.jpg" />
- <img src="/images/BT10/bd-17700.jpg" />
+ <img src="./../images/BT10/tv-17700.jpg" />
+ <img src="./../images/BT10/bd-17700.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/BT10/tv-18260.jpg" />
- <img src="/images/BT10/bd-18260.jpg" />
+ <img src="./../images/BT10/tv-18260.jpg" />
+ <img src="./../images/BT10/bd-18260.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/BT10/tv-19325.jpg" />
- <img src="/images/BT10/bd-19325.jpg" />
+ <img src="./../images/BT10/tv-19325.jpg" />
+ <img src="./../images/BT10/bd-19325.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/BT10/tv-19800.jpg" />
- <img src="/images/BT10/bd-19800.jpg" />
+ <img src="./../images/BT10/tv-19800.jpg" />
+ <img src="./../images/BT10/bd-19800.jpg" />
 </div>
 
 <br>
@@ -104,8 +104,8 @@ Now then, without further ado, let's go!
 - This hand wound has been uncensored and the overall shot is brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/BT10/tv-24130.jpg" />
- <img src="/images/BT10/bd-24130.jpg" />
+ <img src="./../images/BT10/tv-24130.jpg" />
+ <img src="./../images/BT10/bd-24130.jpg" />
 </div>
 
 <br>
@@ -116,27 +116,12 @@ Now then, without further ado, let's go!
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/BT10/TV%202%20-%20tommygun.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT10/TV 02 - tommygun.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/BT10/BD%202%20-%20tommygun.webm type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/BT10/TV%203%20-%20joseph%20pan%201.webm type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/BT10/BD%203%20-%20joseph%20pan%201.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/BT10/BD 02 - tommygun.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -146,12 +131,27 @@ Now then, without further ado, let's go!
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/BT10/TV%204%20-%20joseph%20pan%202.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT10/TV 03 - joseph pan 1.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/BT10/BD 03 - joseph pan 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/BT10/BD%204%20-%20joseph%20pan%202.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT10/TV 04 - joseph pan 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/BT10/BD 04 - joseph pan 2.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>

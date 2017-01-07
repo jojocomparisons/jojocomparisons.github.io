@@ -19,8 +19,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Let's start with a minor difference. In this transition, they changed the cloud pattern behind the plane:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-02531.jpg" />
- <img src="/images/DIU12/bd-02531.jpg" />
+ <img src="./../images/DIU12/tv-02531.jpg" />
+ <img src="./../images/DIU12/bd-02531.jpg" />
 </div>
 
 <br>
@@ -28,8 +28,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Here, Jotaro's neck has been darkened a bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-02695.jpg" />
- <img src="/images/DIU12/bd-02695.jpg" />
+ <img src="./../images/DIU12/tv-02695.jpg" />
+ <img src="./../images/DIU12/bd-02695.jpg" />
 </div>
 
 <br>
@@ -37,8 +37,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - And here, as with episode one, they moved その２ ("Part 2") slightly to the right; they also shaded... those things in the background (are they windows? Holes? We'll never know):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-05180.jpg" />
- <img src="/images/DIU12/bd-05180.jpg" />
+ <img src="./../images/DIU12/tv-05180.jpg" />
+ <img src="./../images/DIU12/bd-05180.jpg" />
 </div>
 
 <br>
@@ -46,8 +46,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Josuke and Koichi have been scaled down to a more reasonable size here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-05450.jpg" />
- <img src="/images/DIU12/bd-05450.jpg" />
+ <img src="./../images/DIU12/tv-05450.jpg" />
+ <img src="./../images/DIU12/bd-05450.jpg" />
 </div>
 
 <br>
@@ -58,12 +58,12 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/TV%201%20-%20brighter.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/TV 01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/BD%201%20-%20brighter.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU12/BD 01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -75,12 +75,12 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/TV%202%20-%20brighter%202.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/TV 02 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/BD%202%20-%20brighter%202.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU12/BD 02 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -89,8 +89,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Here, the BDs corrected a slight error that was present in the TV version (when moving Akira's jaw, a couple of frames had parts of his cheek overlapping his hair and ear):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-09095.jpg" />
- <img src="/images/DIU12/bd-09095.jpg" />
+ <img src="./../images/DIU12/tv-09095.jpg" />
+ <img src="./../images/DIU12/bd-09095.jpg" />
 </div>
 
 <br>
@@ -101,27 +101,27 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/TV%203%20-%20akira.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/TV 03 - akira.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/BD%203%20-%20akira.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU12/BD 03 - akira.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-09230.jpg" />
- <img src="/images/DIU12/bd-09230.jpg" />
+ <img src="./../images/DIU12/tv-09230.jpg" />
+ <img src="./../images/DIU12/bd-09230.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-09250.jpg" />
- <img src="/images/DIU12/bd-09250.jpg" />
+ <img src="./../images/DIU12/tv-09250.jpg" />
+ <img src="./../images/DIU12/bd-09250.jpg" />
 </div>
 
 <br>
@@ -132,12 +132,12 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/TV%204%20-%20rhcp.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/TV 04 - rhcp.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/BD%204%20-%20rhcp.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU12/BD 04 - rhcp.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -146,8 +146,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - In this shot, both Akira and Josuke have been moved a bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-12440.jpg" />
- <img src="/images/DIU12/bd-12440.jpg" />
+ <img src="./../images/DIU12/tv-12440.jpg" />
+ <img src="./../images/DIU12/bd-12440.jpg" />
 </div>
 
 <br>
@@ -158,12 +158,12 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/TV%205%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/TV 05 - crazy diamond.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/BD%205%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU12/BD 05 - crazy diamond.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -172,15 +172,15 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - In these shots, the background has been moved:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-13250.jpg" />
- <img src="/images/DIU12/bd-13250.jpg" />
+ <img src="./../images/DIU12/tv-13250.jpg" />
+ <img src="./../images/DIU12/bd-13250.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-13310.jpg" />
- <img src="/images/DIU12/bd-13310.jpg" />
+ <img src="./../images/DIU12/tv-13310.jpg" />
+ <img src="./../images/DIU12/bd-13310.jpg" />
 </div>
 
 <br>
@@ -188,8 +188,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - And here, the zoom has been pulled slightly out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-13865.jpg" />
- <img src="/images/DIU12/bd-13865.jpg" />
+ <img src="./../images/DIU12/tv-13865.jpg" />
+ <img src="./../images/DIU12/bd-13865.jpg" />
 </div>
 
 <br>
@@ -197,15 +197,15 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Thankfully, both Crazy Diamond and Josuke's faces have been completely redrawn in this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-13930.jpg" />
- <img src="/images/DIU12/bd-13930.jpg" />
+ <img src="./../images/DIU12/tv-13930.jpg" />
+ <img src="./../images/DIU12/bd-13930.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-13950.jpg" />
- <img src="/images/DIU12/bd-13950.jpg" />
+ <img src="./../images/DIU12/tv-13950.jpg" />
+ <img src="./../images/DIU12/bd-13950.jpg" />
 </div>
 
 <br>
@@ -213,8 +213,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - The speed lines in this animation of Crazy Diamond trying to kick RHCP are different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-13965.jpg" />
- <img src="/images/DIU12/bd-13965.jpg" />
+ <img src="./../images/DIU12/tv-13965.jpg" />
+ <img src="./../images/DIU12/bd-13965.jpg" />
 </div>
 
 <br>
@@ -225,12 +225,12 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/TV%206%20-%20blur.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/TV 06 - blur.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/BD%206%20-%20blur.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU12/BD 06 - blur.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -239,8 +239,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - And here, the image has been moved up by like ten pixels. Yeah, no, I don't get it either:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-14107.jpg" />
- <img src="/images/DIU12/bd-14107.jpg" />
+ <img src="./../images/DIU12/tv-14107.jpg" />
+ <img src="./../images/DIU12/bd-14107.jpg" />
 </div>
 
 <br>
@@ -251,12 +251,12 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/TV%207%20-%20transition.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/TV 07 - transition.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/BD%207%20-%20transition.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU12/BD 07 - transition.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -265,15 +265,15 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - RHCP is tinier in these two shots:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-14690.jpg" />
- <img src="/images/DIU12/bd-14690.jpg" />
+ <img src="./../images/DIU12/tv-14690.jpg" />
+ <img src="./../images/DIU12/bd-14690.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-14720.jpg" />
- <img src="/images/DIU12/bd-14720.jpg" />
+ <img src="./../images/DIU12/tv-14720.jpg" />
+ <img src="./../images/DIU12/bd-14720.jpg" />
 </div>
 
 <br>
@@ -281,8 +281,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - And here he's been moved down:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-14816.jpg" />
- <img src="/images/DIU12/bd-14816.jpg" />
+ <img src="./../images/DIU12/tv-14816.jpg" />
+ <img src="./../images/DIU12/bd-14816.jpg" />
 </div>
 
 <br>
@@ -290,8 +290,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Here, the sparks at the far right of this shot are different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-14843.jpg" />
- <img src="/images/DIU12/bd-14843.jpg" />
+ <img src="./../images/DIU12/tv-14843.jpg" />
+ <img src="./../images/DIU12/bd-14843.jpg" />
 </div>
 
 <br>
@@ -299,8 +299,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - RHCP has been moved again here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-14880.jpg" />
- <img src="/images/DIU12/bd-14880.jpg" />
+ <img src="./../images/DIU12/tv-14880.jpg" />
+ <img src="./../images/DIU12/bd-14880.jpg" />
 </div>
 
 <br>
@@ -308,8 +308,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - JOSUKE! YOU FORGOT YOUR TEETH:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-15200.jpg" />
- <img src="/images/DIU12/bd-15200.jpg" />
+ <img src="./../images/DIU12/tv-15200.jpg" />
+ <img src="./../images/DIU12/bd-15200.jpg" />
 </div>
 
 <br>
@@ -317,22 +317,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - "And then, Okuyasu suddenly realized that he was not on a magical boat trip":
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-17272.jpg" />
- <img src="/images/DIU12/bd-17272.jpg" />
+ <img src="./../images/DIU12/tv-17272.jpg" />
+ <img src="./../images/DIU12/bd-17272.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-17280.jpg" />
- <img src="/images/DIU12/bd-17280.jpg" />
+ <img src="./../images/DIU12/tv-17280.jpg" />
+ <img src="./../images/DIU12/bd-17280.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-17360.jpg" />
- <img src="/images/DIU12/bd-17360.jpg" />
+ <img src="./../images/DIU12/tv-17360.jpg" />
+ <img src="./../images/DIU12/bd-17360.jpg" />
 </div>
 
 <br>
@@ -340,8 +340,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - They added some nice lighting effects in this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-17400.jpg" />
- <img src="/images/DIU12/bd-17400.jpg" />
+ <img src="./../images/DIU12/tv-17400.jpg" />
+ <img src="./../images/DIU12/bd-17400.jpg" />
 </div>
 
 <br>
@@ -349,15 +349,15 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - In these two shots, they added a wristwatch on Akira's wrist, and moved his pupil so that he's looking at it (the TV version does look a bit weird in retrospective); in the first one RHCP has also been moved down:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-17759.jpg" />
- <img src="/images/DIU12/bd-17759.jpg" />
+ <img src="./../images/DIU12/tv-17759.jpg" />
+ <img src="./../images/DIU12/bd-17759.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-17780.jpg" />
- <img src="/images/DIU12/bd-17780.jpg" />
+ <img src="./../images/DIU12/tv-17780.jpg" />
+ <img src="./../images/DIU12/bd-17780.jpg" />
 </div>
 
 <br>
@@ -365,8 +365,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - This shot has been shaded better and the two students in the foreground have been blurred:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-18230.jpg" />
- <img src="/images/DIU12/bd-18230.jpg" />
+ <img src="./../images/DIU12/tv-18230.jpg" />
+ <img src="./../images/DIU12/bd-18230.jpg" />
 </div>
 
 <br>
@@ -374,8 +374,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Here they added some dust effects:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-19280.jpg" />
- <img src="/images/DIU12/bd-19280.jpg" />
+ <img src="./../images/DIU12/tv-19280.jpg" />
+ <img src="./../images/DIU12/bd-19280.jpg" />
 </div>
 
 <br>
@@ -386,12 +386,12 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/TV%208%20-%20akira.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/TV 08 - akira.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/BD%208%20-%20akira.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU12/BD 08 - akira.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -400,8 +400,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - RHCP has been moved again here (man, they really were not happy with *any* of RHCP's original positions, were they):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-19630.jpg" />
- <img src="/images/DIU12/bd-19630.jpg" />
+ <img src="./../images/DIU12/tv-19630.jpg" />
+ <img src="./../images/DIU12/bd-19630.jpg" />
 </div>
 
 <br>
@@ -409,8 +409,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - The tire in the background has been removed, as in all likelihood it was precisely the one Josuke used to trap RHCP:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-19900.jpg" />
- <img src="/images/DIU12/bd-19900.jpg" />
+ <img src="./../images/DIU12/tv-19900.jpg" />
+ <img src="./../images/DIU12/bd-19900.jpg" />
 </div>
 
 <br>
@@ -418,8 +418,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Another very slight camera change:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-20140.jpg" />
- <img src="/images/DIU12/bd-20140.jpg" />
+ <img src="./../images/DIU12/tv-20140.jpg" />
+ <img src="./../images/DIU12/bd-20140.jpg" />
 </div>
 
 <br>
@@ -430,12 +430,12 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/TV%209%20-%20koichi.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/TV 09 - koichi.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/BD%209%20-%20koichi.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU12/BD 09 - koichi.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -444,8 +444,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Akira's guitar jack is now steel-coloured:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-21010.jpg" />
- <img src="/images/DIU12/bd-21010.jpg" />
+ <img src="./../images/DIU12/tv-21010.jpg" />
+ <img src="./../images/DIU12/bd-21010.jpg" />
 </div>
 
 <br>
@@ -453,8 +453,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - In this shot, the shading on Josuke's temple and cheek has been slightly retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-21095.jpg" />
- <img src="/images/DIU12/bd-21095.jpg" />
+ <img src="./../images/DIU12/tv-21095.jpg" />
+ <img src="./../images/DIU12/bd-21095.jpg" />
 </div>
 
 <br>
@@ -462,8 +462,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Yet another camera change:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-21905.jpg" />
- <img src="/images/DIU12/bd-21905.jpg" />
+ <img src="./../images/DIU12/tv-21905.jpg" />
+ <img src="./../images/DIU12/bd-21905.jpg" />
 </div>
 
 <br>
@@ -474,12 +474,12 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/TV%2010%20-%20echoes.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/TV 10 - echoes.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/BD%2010%20-%20echoes.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU12/BD 10 - echoes.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -488,8 +488,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Joseph's face has been slightly retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-23190.jpg" />
- <img src="/images/DIU12/bd-23190.jpg" />
+ <img src="./../images/DIU12/tv-23190.jpg" />
+ <img src="./../images/DIU12/bd-23190.jpg" />
 </div>
 
 <br>
@@ -497,8 +497,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - And his mouth is a bit more closed in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-23385.jpg" />
- <img src="/images/DIU12/bd-23385.jpg" />
+ <img src="./../images/DIU12/tv-23385.jpg" />
+ <img src="./../images/DIU12/bd-23385.jpg" />
 </div>
 
 <br>
@@ -506,8 +506,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - The lower bit of Okuyasu's shirt has also been re-shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-23390.jpg" />
- <img src="/images/DIU12/bd-23390.jpg" />
+ <img src="./../images/DIU12/tv-23390.jpg" />
+ <img src="./../images/DIU12/bd-23390.jpg" />
 </div>
 
 <br>
@@ -515,8 +515,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - We can see the pier and the lighthouse through the window boat here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-24331.jpg" />
- <img src="/images/DIU12/bd-24331.jpg" />
+ <img src="./../images/DIU12/tv-24331.jpg" />
+ <img src="./../images/DIU12/bd-24331.jpg" />
 </div>
 
 <br>
@@ -527,12 +527,12 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/TV%2011%20-%20boat.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/TV 11 - boat.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/BD%2011%20-%20boat.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU12/BD 11 - boat.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -541,8 +541,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - A tiny bit of outline on Josuke's lapel has been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-25245.jpg" />
- <img src="/images/DIU12/bd-25245.jpg" />
+ <img src="./../images/DIU12/tv-25245.jpg" />
+ <img src="./../images/DIU12/bd-25245.jpg" />
 </div>
 
 <br>
@@ -553,12 +553,12 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/TV%2012%20-%20josuke.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/TV 12 - josuke.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/BD%2012%20-%20josuke.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU12/BD 12 - josuke.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -567,8 +567,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - This floor is slightly more slanted in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-26260.jpg" />
- <img src="/images/DIU12/bd-26260.jpg" />
+ <img src="./../images/DIU12/tv-26260.jpg" />
+ <img src="./../images/DIU12/bd-26260.jpg" />
 </div>
 
 <br>
@@ -576,17 +576,17 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - The transition into Josuke's eyes has been centered better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-26326.jpg" />
- <img src="/images/DIU12/bd-26326.jpg" />
+ <img src="./../images/DIU12/tv-26326.jpg" />
+ <img src="./../images/DIU12/bd-26326.jpg" />
 </div>
 
 <br>
 
-- Initially I thought this correction was a simple sweat drop being recoloured from purple to white, but as one commenter (<a href=https://jojocomparisons.github.io/jojo-diu-12/#comment-3032675623>MANDUCK</a>) pointed out, the BDs actually made a *mistake* in correcting this, since it was supposed to be part of Akira's face tattoo:
+- Initially I thought this correction was a simple sweat drop being recoloured from purple to white, but as one commenter (<a href="https://jojocomparisons.github.io/jojo-diu-12/#comment-3032675623">MANDUCK</a>) pointed out, the BDs actually made a *mistake* in correcting this, since it was supposed to be part of Akira's face tattoo:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-27390.jpg" />
- <img src="/images/DIU12/bd-27390.jpg" />
+ <img src="./../images/DIU12/tv-27390.jpg" />
+ <img src="./../images/DIU12/bd-27390.jpg" />
 </div>
 
 <br>
@@ -594,8 +594,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - In the TV version, Okuyasu just stands there with his mouth agape for a bunch of frames; this has been corrected in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-27400.jpg" />
- <img src="/images/DIU12/bd-27400.jpg" />
+ <img src="./../images/DIU12/tv-27400.jpg" />
+ <img src="./../images/DIU12/bd-27400.jpg" />
 </div>
 
 <br>
@@ -603,8 +603,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - In this shot, Joseph has been completely redrawn. He no longer looks like a frail old man, but we can see that he's still the Huge McLargestein he was in his youth:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-28020.jpg" />
- <img src="/images/DIU12/bd-28020.jpg" />
+ <img src="./../images/DIU12/tv-28020.jpg" />
+ <img src="./../images/DIU12/bd-28020.jpg" />
 </div>
 
 <br>
@@ -615,12 +615,12 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/TV%2013%20-%20RHCP%20zoom.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/TV 13 - RHCP zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/BD%2013%20-%20RHCP%20zoom.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU12/BD 13 - RHCP zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -629,8 +629,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - As is the framing of this other scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-28340.jpg" />
- <img src="/images/DIU12/bd-28340.jpg" />
+ <img src="./../images/DIU12/tv-28340.jpg" />
+ <img src="./../images/DIU12/bd-28340.jpg" />
 </div>
 
 <br>
@@ -638,8 +638,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - And here, the zombified RHCP has been completely redrawn and it is ABSOLUTELY TERRIFYING:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-28565.jpg" />
- <img src="/images/DIU12/bd-28565.jpg" />
+ <img src="./../images/DIU12/tv-28565.jpg" />
+ <img src="./../images/DIU12/bd-28565.jpg" />
 </div>
 
 <br>
@@ -650,12 +650,12 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/TV%2014%20-%20akira%20punch.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/TV 14 - akira punch.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU12/BD%2014%20-%20akira%20punch.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU12/BD 14 - akira punch.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -664,8 +664,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - In this scene, Akira's eyes and the Speedwagon patch on his arm have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-29095.jpg" />
- <img src="/images/DIU12/bd-29095.jpg" />
+ <img src="./../images/DIU12/tv-29095.jpg" />
+ <img src="./../images/DIU12/bd-29095.jpg" />
 </div>
 
 <br>
@@ -673,22 +673,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - In this scene, Joseph's eyes have been redrawn, and as a results he looks more focused and less senile:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-29717.jpg" />
- <img src="/images/DIU12/bd-29717.jpg" />
+ <img src="./../images/DIU12/tv-29717.jpg" />
+ <img src="./../images/DIU12/bd-29717.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-29730.jpg" />
- <img src="/images/DIU12/bd-29730.jpg" />
+ <img src="./../images/DIU12/tv-29730.jpg" />
+ <img src="./../images/DIU12/bd-29730.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-29750.jpg" />
- <img src="/images/DIU12/bd-29750.jpg" />
+ <img src="./../images/DIU12/tv-29750.jpg" />
+ <img src="./../images/DIU12/bd-29750.jpg" />
 </div>
 
 <br>
@@ -696,8 +696,8 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - For some reason, this red container is slightly darker in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-29800.jpg" />
- <img src="/images/DIU12/bd-29800.jpg" />
+ <img src="./../images/DIU12/tv-29800.jpg" />
+ <img src="./../images/DIU12/bd-29800.jpg" />
 </div>
 
 <br>
@@ -705,15 +705,15 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - And to finish this whole analysis, a quick look at a better shaded and uncensored chopped hand:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-32080.jpg" />
- <img src="/images/DIU12/bd-32080.jpg" />
+ <img src="./../images/DIU12/tv-32080.jpg" />
+ <img src="./../images/DIU12/bd-32080.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU12/tv-32135.jpg" />
- <img src="/images/DIU12/bd-32135.jpg" />
+ <img src="./../images/DIU12/tv-32135.jpg" />
+ <img src="./../images/DIU12/bd-32135.jpg" />
 </div>
 
 <br>

@@ -19,15 +19,15 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Let's begin with a minor redraw in Jonathan and Erina's faces:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-10900.jpg" />
- <img src="/images/PB04/bd-10900.jpg" />
+ <img src="./../images/PB04/tv-10900.jpg" />
+ <img src="./../images/PB04/bd-10900.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-13030.jpg" />
- <img src="/images/PB04/bd-13030.jpg" />
+ <img src="./../images/PB04/tv-13030.jpg" />
+ <img src="./../images/PB04/bd-13030.jpg" />
 </div>
 
 <br>
@@ -35,15 +35,15 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Thankfully Jonathan was completely redrawn in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-14000.jpg" />
- <img src="/images/PB04/bd-14000.jpg" />
+ <img src="./../images/PB04/tv-14000.jpg" />
+ <img src="./../images/PB04/bd-14000.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-14355.jpg" />
- <img src="/images/PB04/bd-14355.jpg" />
+ <img src="./../images/PB04/tv-14355.jpg" />
+ <img src="./../images/PB04/bd-14355.jpg" />
 </div>
 
 <br>
@@ -51,15 +51,15 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - This scene is shaded differently and has the usual additional texture layer:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-14580.jpg" />
- <img src="/images/PB04/bd-14580.jpg" />
+ <img src="./../images/PB04/tv-14580.jpg" />
+ <img src="./../images/PB04/bd-14580.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-14670.jpg" />
- <img src="/images/PB04/bd-14670.jpg" />
+ <img src="./../images/PB04/tv-14670.jpg" />
+ <img src="./../images/PB04/bd-14670.jpg" />
 </div>
 
 <br>
@@ -67,8 +67,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Same as the above here, plus a healthy dose of uncensored gore:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-14700.jpg" />
- <img src="/images/PB04/bd-14700.jpg" />
+ <img src="./../images/PB04/tv-14700.jpg" />
+ <img src="./../images/PB04/bd-14700.jpg" />
 </div>
 
 <br>
@@ -77,12 +77,12 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/TV%201%20-%20lady1.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/TV 01 - lady.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/BD%201%20-%20lady1.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB04/BD 01 - lady.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -92,20 +92,20 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/TV%202%20-%20lady2.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/TV 02 - lady.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/BD%202%20-%20lady2.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB04/BD 02 - lady.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-15100.jpg" />
- <img src="/images/PB04/bd-15100.jpg" />
+ <img src="./../images/PB04/tv-15100.jpg" />
+ <img src="./../images/PB04/bd-15100.jpg" />
 </div>
 
 <br>
@@ -113,8 +113,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Again as before, darker shadows and texture here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-15235.jpg" />
- <img src="/images/PB04/bd-15235.jpg" />
+ <img src="./../images/PB04/tv-15235.jpg" />
+ <img src="./../images/PB04/bd-15235.jpg" />
 </div>
 
 <br>
@@ -122,8 +122,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Zeppeli and Jonathan have been redrawn and Zeppeli is no longer a tiny man:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-15580.jpg" />
- <img src="/images/PB04/bd-15580.jpg" />
+ <img src="./../images/PB04/tv-15580.jpg" />
+ <img src="./../images/PB04/bd-15580.jpg" />
 </div>
 
 <br>
@@ -131,8 +131,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - And their faces have more details:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-15850.jpg" />
- <img src="/images/PB04/bd-15850.jpg" />
+ <img src="./../images/PB04/tv-15850.jpg" />
+ <img src="./../images/PB04/bd-15850.jpg" />
 </div>
 
 <br>
@@ -140,8 +140,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - The sea in Zeppeli's flashback has been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-16180.jpg" />
- <img src="/images/PB04/bd-16180.jpg" />
+ <img src="./../images/PB04/tv-16180.jpg" />
+ <img src="./../images/PB04/bd-16180.jpg" />
 </div>
 
 <br>
@@ -149,15 +149,15 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Again Zeppeli and Jonathan have been redrawn and... Seriously, look at that tiny Zeppeli. Look at him. He's adorable:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-18155.jpg" />
- <img src="/images/PB04/bd-18155.jpg" />
+ <img src="./../images/PB04/tv-18155.jpg" />
+ <img src="./../images/PB04/bd-18155.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-18370.jpg" />
- <img src="/images/PB04/bd-18370.jpg" />
+ <img src="./../images/PB04/tv-18370.jpg" />
+ <img src="./../images/PB04/bd-18370.jpg" />
 </div>
 
 <br>
@@ -165,8 +165,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Zeppeli's face has been redrawn to be less pouty:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-18680.jpg" />
- <img src="/images/PB04/bd-18680.jpg" />
+ <img src="./../images/PB04/tv-18680.jpg" />
+ <img src="./../images/PB04/bd-18680.jpg" />
 </div>
 
 <br>
@@ -174,8 +174,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - And here practically everything has been redrawn (notice the added particles to the Hamon):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-18735.jpg" />
- <img src="/images/PB04/bd-18735.jpg" />
+ <img src="./../images/PB04/tv-18735.jpg" />
+ <img src="./../images/PB04/bd-18735.jpg" />
 </div>
 
 <br>
@@ -186,12 +186,12 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/TV%203%20-%20zeppelipoint.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/TV 03 - zeppelipoint.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/BD%203%20-%20zeppelipoint.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB04/BD 03 - zeppelipoint.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -200,8 +200,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Zep and Jo have once again been redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-19580.jpg" />
- <img src="/images/PB04/bd-19580.jpg" />
+ <img src="./../images/PB04/tv-19580.jpg" />
+ <img src="./../images/PB04/bd-19580.jpg" />
 </div>
 
 <br>
@@ -209,15 +209,15 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - These actual pictures of a giant baby deer about to be ran over by a truck have received a slightly better shading in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-20240.jpg" />
- <img src="/images/PB04/bd-20240.jpg" />
+ <img src="./../images/PB04/tv-20240.jpg" />
+ <img src="./../images/PB04/bd-20240.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-20320.jpg" />
- <img src="/images/PB04/bd-20320.jpg" />
+ <img src="./../images/PB04/tv-20320.jpg" />
+ <img src="./../images/PB04/bd-20320.jpg" />
 </div>
 
 <br>
@@ -225,15 +225,15 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Jonathan and Uncle Weedspagon have been completely redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-20470.jpg" />
- <img src="/images/PB04/bd-20470.jpg" />
+ <img src="./../images/PB04/tv-20470.jpg" />
+ <img src="./../images/PB04/bd-20470.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-20550.jpg" />
- <img src="/images/PB04/bd-20550.jpg" />
+ <img src="./../images/PB04/tv-20550.jpg" />
+ <img src="./../images/PB04/bd-20550.jpg" />
 </div>
 
 <br>
@@ -241,8 +241,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Here they removed the shade on Jonathan's cheek, recoloured part of his hat and opened his mouth way more when he talks (and of course, his jaw and neck are slightly redrawn as well):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-21003.jpg" />
- <img src="/images/PB04/bd-21003.jpg" />
+ <img src="./../images/PB04/tv-21003.jpg" />
+ <img src="./../images/PB04/bd-21003.jpg" />
 </div>
 
 <br>
@@ -250,8 +250,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Everything. Just everything:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-21035.jpg" />
- <img src="/images/PB04/bd-21035.jpg" />
+ <img src="./../images/PB04/tv-21035.jpg" />
+ <img src="./../images/PB04/bd-21035.jpg" />
 </div>
 
 <br>
@@ -259,8 +259,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - The lighting is so much more dramatic in this shot, there's the usual added texture and the horse necks are very slightly uncensored:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-22095.jpg" />
- <img src="/images/PB04/bd-22095.jpg" />
+ <img src="./../images/PB04/tv-22095.jpg" />
+ <img src="./../images/PB04/bd-22095.jpg" />
 </div>
 
 <br>
@@ -271,12 +271,12 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/TV%204%20-%20coachdriver.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/TV 04 - coachdriver.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/BD%204%20-%20coachdriver.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB04/BD 04 - coachdriver.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -285,15 +285,15 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - From here onwards, we have something similar to last episode's fire scenes; everything that happens in this tunnel has a different lighting and shading, different colours and more contrast (and sometimes the usual texture layer); I'm not gonna repeat what's different for each case, just refer to the description I've given here. Here's the first occurrence:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-22200.jpg" />
- <img src="/images/PB04/bd-22200.jpg" />
+ <img src="./../images/PB04/tv-22200.jpg" />
+ <img src="./../images/PB04/bd-22200.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-22300.jpg" />
- <img src="/images/PB04/bd-22300.jpg" />
+ <img src="./../images/PB04/tv-22300.jpg" />
+ <img src="./../images/PB04/bd-22300.jpg" />
 </div>
 
 <br>
@@ -304,20 +304,20 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/TV%205%20-%20horseneck.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/TV 05 - horseneck.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/BD%205%20-%20horseneck.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB04/BD 05 - horseneck.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-22415.jpg" />
- <img src="/images/PB04/bd-22415.jpg" />
+ <img src="./../images/PB04/tv-22415.jpg" />
+ <img src="./../images/PB04/bd-22415.jpg" />
 </div>
 
 <br>
@@ -325,8 +325,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Same business here, plus Jonathan has been slightly redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-22480.jpg" />
- <img src="/images/PB04/bd-22480.jpg" />
+ <img src="./../images/PB04/tv-22480.jpg" />
+ <img src="./../images/PB04/bd-22480.jpg" />
 </div>
 
 <br>
@@ -337,20 +337,20 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/TV%206%20-%20jack.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/TV 06 - jack.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/BD%206%20-%20jack.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB04/BD 06 - jack.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-22670.jpg" />
- <img src="/images/PB04/bd-22670.jpg" />
+ <img src="./../images/PB04/tv-22670.jpg" />
+ <img src="./../images/PB04/bd-22670.jpg" />
 </div>
 
 <br>
@@ -358,22 +358,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Another case of tunnel syndrome:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-22830.jpg" />
- <img src="/images/PB04/bd-22830.jpg" />
+ <img src="./../images/PB04/tv-22830.jpg" />
+ <img src="./../images/PB04/bd-22830.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-22960.jpg" />
- <img src="/images/PB04/bd-22960.jpg" />
+ <img src="./../images/PB04/tv-22960.jpg" />
+ <img src="./../images/PB04/bd-22960.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-23040.jpg" />
- <img src="/images/PB04/bd-23040.jpg" />
+ <img src="./../images/PB04/tv-23040.jpg" />
+ <img src="./../images/PB04/bd-23040.jpg" />
 </div>
 
 <br>
@@ -384,12 +384,12 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/TV%207%20-%20jack%20knife.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/TV 07 - jack knife.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/BD%207%20-%20jack%20knife.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB04/BD 07 - jack knife.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -398,15 +398,15 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Tunnel lighting tunnel lighting:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-23170.jpg" />
- <img src="/images/PB04/bd-23170.jpg" />
+ <img src="./../images/PB04/tv-23170.jpg" />
+ <img src="./../images/PB04/bd-23170.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-23330.jpg" />
- <img src="/images/PB04/bd-23330.jpg" />
+ <img src="./../images/PB04/tv-23330.jpg" />
+ <img src="./../images/PB04/bd-23330.jpg" />
 </div>
 
 <br>
@@ -414,8 +414,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Most of this scene of Jack stabbing himself in the cheek has been redrawn, uncensored, re-positioned and re-shadowed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-23550.jpg" />
- <img src="/images/PB04/bd-23550.jpg" />
+ <img src="./../images/PB04/tv-23550.jpg" />
+ <img src="./../images/PB04/bd-23550.jpg" />
 </div>
 
 <br>
@@ -423,8 +423,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Welcome to the Darkest Dungeon:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-23580.jpg" />
- <img src="/images/PB04/bd-23580.jpg" />
+ <img src="./../images/PB04/tv-23580.jpg" />
+ <img src="./../images/PB04/bd-23580.jpg" />
 </div>
 
 <br>
@@ -432,8 +432,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Uncensored, but still very dark:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-23595.jpg" />
- <img src="/images/PB04/bd-23595.jpg" />
+ <img src="./../images/PB04/tv-23595.jpg" />
+ <img src="./../images/PB04/bd-23595.jpg" />
 </div>
 
 <br>
@@ -441,8 +441,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Again, the horse neck has been uncensored and this whole scene has received tunnel shading:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-23705.jpg" />
- <img src="/images/PB04/bd-23705.jpg" />
+ <img src="./../images/PB04/tv-23705.jpg" />
+ <img src="./../images/PB04/bd-23705.jpg" />
 </div>
 
 <br>
@@ -450,8 +450,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - And here the same thing, plus a very small drawing error (Jonathan's mouth) has been fixed. Zeppeli's cheek is also slightly retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-23970.jpg" />
- <img src="/images/PB04/bd-23970.jpg" />
+ <img src="./../images/PB04/tv-23970.jpg" />
+ <img src="./../images/PB04/bd-23970.jpg" />
 </div>
 
 <br>
@@ -462,12 +462,12 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/TV%208%20-%20carriage.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/TV 08 - carriage.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/BD%208%20-%20carriage.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB04/BD 08 - carriage.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -476,29 +476,29 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - A smattering of different shading for you:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-24400.jpg" />
- <img src="/images/PB04/bd-24400.jpg" />
+ <img src="./../images/PB04/tv-24400.jpg" />
+ <img src="./../images/PB04/bd-24400.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-24530.jpg" />
- <img src="/images/PB04/bd-24530.jpg" />
+ <img src="./../images/PB04/tv-24530.jpg" />
+ <img src="./../images/PB04/bd-24530.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-24690.jpg" />
- <img src="/images/PB04/bd-24690.jpg" />
+ <img src="./../images/PB04/tv-24690.jpg" />
+ <img src="./../images/PB04/bd-24690.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-24710.jpg" />
- <img src="/images/PB04/bd-24710.jpg" />
+ <img src="./../images/PB04/tv-24710.jpg" />
+ <img src="./../images/PB04/bd-24710.jpg" />
 </div>
 
 <br>
@@ -506,15 +506,15 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Jack has been redrawn here, and the background has been moved slightly:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-24757.jpg" />
- <img src="/images/PB04/bd-24757.jpg" />
+ <img src="./../images/PB04/tv-24757.jpg" />
+ <img src="./../images/PB04/bd-24757.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-24865.jpg" />
- <img src="/images/PB04/bd-24865.jpg" />
+ <img src="./../images/PB04/tv-24865.jpg" />
+ <img src="./../images/PB04/bd-24865.jpg" />
 </div>
 
 <br>
@@ -522,8 +522,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Jonathan is completely redrawn here (look at those lips!):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-24935.jpg" />
- <img src="/images/PB04/bd-24935.jpg" />
+ <img src="./../images/PB04/tv-24935.jpg" />
+ <img src="./../images/PB04/bd-24935.jpg" />
 </div>
 
 <br>
@@ -531,8 +531,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Dramatic shadows again!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-25005.jpg" />
- <img src="/images/PB04/bd-25005.jpg" />
+ <img src="./../images/PB04/tv-25005.jpg" />
+ <img src="./../images/PB04/bd-25005.jpg" />
 </div>
 
 <br>
@@ -540,8 +540,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - A Brand New Jack™:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-25055.jpg" />
- <img src="/images/PB04/bd-25055.jpg" />
+ <img src="./../images/PB04/tv-25055.jpg" />
+ <img src="./../images/PB04/bd-25055.jpg" />
 </div>
 
 <br>
@@ -549,8 +549,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - This beautiful knife ballerina has received the tunnel treatment; plus there's slightly more blood:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-25080.jpg" />
- <img src="/images/PB04/bd-25080.jpg" />
+ <img src="./../images/PB04/tv-25080.jpg" />
+ <img src="./../images/PB04/bd-25080.jpg" />
 </div>
 
 <br>
@@ -558,15 +558,15 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - But this Zeppeli is not afraid:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-25095.jpg" />
- <img src="/images/PB04/bd-25095.jpg" />
+ <img src="./../images/PB04/tv-25095.jpg" />
+ <img src="./../images/PB04/bd-25095.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-25130.jpg" />
- <img src="/images/PB04/bd-25130.jpg" />
+ <img src="./../images/PB04/tv-25130.jpg" />
+ <img src="./../images/PB04/bd-25130.jpg" />
 </div>
 
 <br>
@@ -574,15 +574,15 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - His wine Hamon Cutters have been completely redrawn and are now way flashier (in the second comparison Jack's knife pieces have also been moved):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-25175.jpg" />
- <img src="/images/PB04/bd-25175.jpg" />
+ <img src="./../images/PB04/tv-25175.jpg" />
+ <img src="./../images/PB04/bd-25175.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-25199.jpg" />
- <img src="/images/PB04/bd-25199.jpg" />
+ <img src="./../images/PB04/tv-25199.jpg" />
+ <img src="./../images/PB04/bd-25199.jpg" />
 </div>
 
 <br>
@@ -590,8 +590,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Here Jonathan and Speedwagon no longer make the D: face; Zeppeli's also been slightly redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-25340.jpg" />
- <img src="/images/PB04/bd-25340.jpg" />
+ <img src="./../images/PB04/tv-25340.jpg" />
+ <img src="./../images/PB04/bd-25340.jpg" />
 </div>
 
 <br>
@@ -599,8 +599,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Every single eye in this shot has been redrawn; Zeppeli's nose and mouth have been retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-25370.jpg" />
- <img src="/images/PB04/bd-25370.jpg" />
+ <img src="./../images/PB04/tv-25370.jpg" />
+ <img src="./../images/PB04/bd-25370.jpg" />
 </div>
 
 <br>
@@ -611,12 +611,12 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/TV%209%20-%20addedzoom.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/TV 09 - addedzoom.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/BD%209%20-%20addedzoom.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB04/BD 09 - addedzoom.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -626,12 +626,12 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/TV%2010%20-%20addedzoom2.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/TV 10 - addedzoom2.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/BD%2010%20-%20addedzoom2.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB04/BD 10 - addedzoom2.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -640,29 +640,29 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Usual shading/color/contrast treatment here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-25890.jpg" />
- <img src="/images/PB04/bd-25890.jpg" />
+ <img src="./../images/PB04/tv-25890.jpg" />
+ <img src="./../images/PB04/bd-25890.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-25995.jpg" />
- <img src="/images/PB04/bd-25995.jpg" />
+ <img src="./../images/PB04/tv-25995.jpg" />
+ <img src="./../images/PB04/bd-25995.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-26090.jpg" />
- <img src="/images/PB04/bd-26090.jpg" />
+ <img src="./../images/PB04/tv-26090.jpg" />
+ <img src="./../images/PB04/bd-26090.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-26130.jpg" />
- <img src="/images/PB04/bd-26130.jpg" />
+ <img src="./../images/PB04/tv-26130.jpg" />
+ <img src="./../images/PB04/bd-26130.jpg" />
 </div>
 
 <br>
@@ -670,15 +670,15 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Here, Zeppeli and the background have been moved:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-26280.jpg" />
- <img src="/images/PB04/bd-26280.jpg" />
+ <img src="./../images/PB04/tv-26280.jpg" />
+ <img src="./../images/PB04/bd-26280.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-26450.jpg" />
- <img src="/images/PB04/bd-26450.jpg" />
+ <img src="./../images/PB04/tv-26450.jpg" />
+ <img src="./../images/PB04/bd-26450.jpg" />
 </div>
 
 <br>
@@ -686,8 +686,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - The usual shading thing:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-26490.jpg" />
- <img src="/images/PB04/bd-26490.jpg" />
+ <img src="./../images/PB04/tv-26490.jpg" />
+ <img src="./../images/PB04/bd-26490.jpg" />
 </div>
 
 <br>
@@ -695,8 +695,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Zeppeli and Jack both have been slightly redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-26511.jpg" />
- <img src="/images/PB04/bd-26511.jpg" />
+ <img src="./../images/PB04/tv-26511.jpg" />
+ <img src="./../images/PB04/bd-26511.jpg" />
 </div>
 
 <br>
@@ -704,50 +704,50 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Tunnel Vision Engaged:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-26571.jpg" />
- <img src="/images/PB04/bd-26571.jpg" />
+ <img src="./../images/PB04/tv-26571.jpg" />
+ <img src="./../images/PB04/bd-26571.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-27070.jpg" />
- <img src="/images/PB04/bd-27070.jpg" />
+ <img src="./../images/PB04/tv-27070.jpg" />
+ <img src="./../images/PB04/bd-27070.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-27150.jpg" />
- <img src="/images/PB04/bd-27150.jpg" />
+ <img src="./../images/PB04/tv-27150.jpg" />
+ <img src="./../images/PB04/bd-27150.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-27190.jpg" />
- <img src="/images/PB04/bd-27190.jpg" />
+ <img src="./../images/PB04/tv-27190.jpg" />
+ <img src="./../images/PB04/bd-27190.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-27220.jpg" />
- <img src="/images/PB04/bd-27220.jpg" />
+ <img src="./../images/PB04/tv-27220.jpg" />
+ <img src="./../images/PB04/bd-27220.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-28820.jpg" />
- <img src="/images/PB04/bd-28820.jpg" />
+ <img src="./../images/PB04/tv-28820.jpg" />
+ <img src="./../images/PB04/bd-28820.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-28870.jpg" />
- <img src="/images/PB04/bd-28870.jpg" />
+ <img src="./../images/PB04/tv-28870.jpg" />
+ <img src="./../images/PB04/bd-28870.jpg" />
 </div>
 
 <br>
@@ -755,8 +755,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - They really amped up that knife flash in the BDs!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-29429.jpg" />
- <img src="/images/PB04/bd-29429.jpg" />
+ <img src="./../images/PB04/tv-29429.jpg" />
+ <img src="./../images/PB04/bd-29429.jpg" />
 </div>
 
 <br>
@@ -764,8 +764,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Here the zoom has been pulled out (and they drew that distinctive cheek line):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-29490.jpg" />
- <img src="/images/PB04/bd-29490.jpg" />
+ <img src="./../images/PB04/tv-29490.jpg" />
+ <img src="./../images/PB04/bd-29490.jpg" />
 </div>
 
 <br>
@@ -773,8 +773,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - And here he's been completely redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-29610.jpg" />
- <img src="/images/PB04/bd-29610.jpg" />
+ <img src="./../images/PB04/tv-29610.jpg" />
+ <img src="./../images/PB04/bd-29610.jpg" />
 </div>
 
 <br>
@@ -782,8 +782,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Here Zeppeli and Speedwagon's faces have been slightly retouched, and the wall colour is more muted:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-30170.jpg" />
- <img src="/images/PB04/bd-30170.jpg" />
+ <img src="./../images/PB04/tv-30170.jpg" />
+ <img src="./../images/PB04/bd-30170.jpg" />
 </div>
 
 <br>
@@ -791,15 +791,15 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - In the BDs the effect for the Hamon has been redrawn, and it's subtler and a bit cooler (in my opinion); the framing in the second comparison is also a bit different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-30526.jpg" />
- <img src="/images/PB04/bd-30526.jpg" />
+ <img src="./../images/PB04/tv-30526.jpg" />
+ <img src="./../images/PB04/bd-30526.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-30575.jpg" />
- <img src="/images/PB04/bd-30575.jpg" />
+ <img src="./../images/PB04/tv-30575.jpg" />
+ <img src="./../images/PB04/bd-30575.jpg" />
 </div>
 
 <br>
@@ -810,12 +810,12 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/TV%2011%20-%20jackdeath.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/TV 11 - jackdeath.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB04/BD%2011%20-%20jackdeath.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB04/BD 11 - jackdeath.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -824,8 +824,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - And now for some credits differences! Let's begin with a minor one; in the BDs they added Erina's surname (Full name in katakana: エリナ・ペンドルトン):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-31600.jpg" />
- <img src="/images/PB04/bd-31600.jpg" />
+ <img src="./../images/PB04/tv-31600.jpg" />
+ <img src="./../images/PB04/bd-31600.jpg" />
 </div>
 
 <br>
@@ -833,8 +833,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Here the "modeling" in "3D modeling" (3Dモデリング) has been scaled down, and the last line has been placed slightly lower:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-32500.jpg" />
- <img src="/images/PB04/bd-32500.jpg" />
+ <img src="./../images/PB04/tv-32500.jpg" />
+ <img src="./../images/PB04/bd-32500.jpg" />
 </div>
 
 <br>
@@ -842,8 +842,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Production manager 熊田圭介 (Kumada Keisuke) has been added to the credits:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-33300.jpg" />
- <img src="/images/PB04/bd-33300.jpg" />
+ <img src="./../images/PB04/tv-33300.jpg" />
+ <img src="./../images/PB04/bd-33300.jpg" />
 </div>
 
 <br>
@@ -851,8 +851,8 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - And finally, Animators 糸井恵 (Itoi Megumi), 宝谷幸稔 (Hōtani Yukitoshi), 横山謙次 (Yokoyama Kenji) and 亀井隆広 (Kamei Takahiro) have been added to the credits, and the rest have been rearranged accordingly:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB04/tv-33500.jpg" />
- <img src="/images/PB04/bd-33500.jpg" />
+ <img src="./../images/PB04/tv-33500.jpg" />
+ <img src="./../images/PB04/bd-33500.jpg" />
 </div>
 
 <br>

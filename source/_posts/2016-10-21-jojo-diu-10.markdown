@@ -19,22 +19,22 @@ Hey, everybody! Welcome back to JoJo's Bizarre Comparisons. Today we're going to
 - In the scene where Tonio is talking about all the Italian tomato-based recipes, almost all the dishes have been either redrawn or re-shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-10152.jpg" />
- <img src="/images/DIU10/bd-10152.jpg" />
+ <img src="./../images/DIU10/tv-10152.jpg" />
+ <img src="./../images/DIU10/bd-10152.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-10207.jpg" />
- <img src="/images/DIU10/bd-10207.jpg" />
+ <img src="./../images/DIU10/tv-10207.jpg" />
+ <img src="./../images/DIU10/bd-10207.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-10270.jpg" />
- <img src="/images/DIU10/bd-10270.jpg" />
+ <img src="./../images/DIU10/tv-10270.jpg" />
+ <img src="./../images/DIU10/bd-10270.jpg" />
 </div>
 
 <br>
@@ -42,8 +42,8 @@ Hey, everybody! Welcome back to JoJo's Bizarre Comparisons. Today we're going to
 - And here, the "stripes" that divide Okuyasu from the rest of the screen have been toned down (they're no longer as neon bright as they were in the TV version), and so was the slight aura around Okuyasu:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-11910.jpg" />
- <img src="/images/DIU10/bd-11910.jpg" />
+ <img src="./../images/DIU10/tv-11910.jpg" />
+ <img src="./../images/DIU10/bd-11910.jpg" />
 </div>
 
 <br>
@@ -51,15 +51,15 @@ Hey, everybody! Welcome back to JoJo's Bizarre Comparisons. Today we're going to
 - In this scene here, a very small bit on Josuke's armband has been recoloured to be darker in a couple of frames; the fork on Okuyasu's side of the table has also been moved from his right to his left:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-12380.jpg" />
- <img src="/images/DIU10/bd-12380.jpg" />
+ <img src="./../images/DIU10/tv-12380.jpg" />
+ <img src="./../images/DIU10/bd-12380.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-12430.jpg" />
- <img src="/images/DIU10/bd-12430.jpg" />
+ <img src="./../images/DIU10/tv-12430.jpg" />
+ <img src="./../images/DIU10/bd-12430.jpg" />
 </div>
 
 <br>
@@ -67,29 +67,29 @@ Hey, everybody! Welcome back to JoJo's Bizarre Comparisons. Today we're going to
 - This scene of Okuyasu scratching his shoulder away has been uncensored (and the lines are slightly sharper, but that might just be an encoding issue):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-13840.jpg" />
- <img src="/images/DIU10/bd-13840.jpg" />
+ <img src="./../images/DIU10/tv-13840.jpg" />
+ <img src="./../images/DIU10/bd-13840.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-14785.jpg" />
- <img src="/images/DIU10/bd-14785.jpg" />
+ <img src="./../images/DIU10/tv-14785.jpg" />
+ <img src="./../images/DIU10/bd-14785.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-14840.jpg" />
- <img src="/images/DIU10/bd-14840.jpg" />
+ <img src="./../images/DIU10/tv-14840.jpg" />
+ <img src="./../images/DIU10/bd-14840.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-15005.jpg" />
- <img src="/images/DIU10/bd-15005.jpg" />
+ <img src="./../images/DIU10/tv-15005.jpg" />
+ <img src="./../images/DIU10/bd-15005.jpg" />
 </div>
 
 <br>
@@ -97,15 +97,15 @@ Hey, everybody! Welcome back to JoJo's Bizarre Comparisons. Today we're going to
 - Here we can have an uncensored look at the doggo exploding his guts out; the aforementioned stripes have also been toned down again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-25370.jpg" />
- <img src="/images/DIU10/bd-25370.jpg" />
+ <img src="./../images/DIU10/tv-25370.jpg" />
+ <img src="./../images/DIU10/bd-25370.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-25380.jpg" />
- <img src="/images/DIU10/bd-25380.jpg" />
+ <img src="./../images/DIU10/tv-25380.jpg" />
+ <img src="./../images/DIU10/bd-25380.jpg" />
 </div>
 
 <br>
@@ -114,12 +114,12 @@ Hey, everybody! Welcome back to JoJo's Bizarre Comparisons. Today we're going to
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU10/TV%201%20-%20doggo.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU10/TV 01 - doggo.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU10/BD%201%20-%20doggo.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU10/BD 01 - doggo.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
@@ -128,36 +128,36 @@ Hey, everybody! Welcome back to JoJo's Bizarre Comparisons. Today we're going to
 - And here, it is Okuyasu whose uncensored innards we can finally take a look at:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-26950.jpg" />
- <img src="/images/DIU10/bd-26950.jpg" />
+ <img src="./../images/DIU10/tv-26950.jpg" />
+ <img src="./../images/DIU10/bd-26950.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-26980.jpg" />
- <img src="/images/DIU10/bd-26980.jpg" />
+ <img src="./../images/DIU10/tv-26980.jpg" />
+ <img src="./../images/DIU10/bd-26980.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-27015.jpg" />
- <img src="/images/DIU10/bd-27015.jpg" />
+ <img src="./../images/DIU10/tv-27015.jpg" />
+ <img src="./../images/DIU10/bd-27015.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-27170.jpg" />
- <img src="/images/DIU10/bd-27170.jpg" />
+ <img src="./../images/DIU10/tv-27170.jpg" />
+ <img src="./../images/DIU10/bd-27170.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU10/tv-27320.jpg" />
- <img src="/images/DIU10/bd-27320.jpg" />
+ <img src="./../images/DIU10/tv-27320.jpg" />
+ <img src="./../images/DIU10/bd-27320.jpg" />
 </div>
 
 <br>

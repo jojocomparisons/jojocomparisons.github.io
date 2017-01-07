@@ -22,18 +22,16 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU05/TV%201%20-%20explosion.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/TV 01 - explosion.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU05/BD%201%20-%20explosion.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU05/BD 01 - explosion.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
-
-<br>
 
 - Nijimura Senior's regenerating arm has been uncensored (even though there was no blood in the first place):
 
@@ -41,24 +39,22 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU05/TV%202%20-%20arm.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/TV 02 - arm.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU05/BD%202%20-%20arm.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU05/BD 02 - arm.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
-<br>
-
 - The movement lines in the background are sharper:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU05/tv-24000.jpg" />
- <img src="/images/DIU05/bd-24000.jpg" />
+ <img src="./../images/DIU05/tv-24000.jpg" />
+ <img src="./../images/DIU05/bd-24000.jpg" />
 </div>
 
 <br>
@@ -69,27 +65,27 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU05/TV%203%20-%20RHCP.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/TV 03 - RHCP.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU05/BD%203%20-%20RHCP.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU05/BD 03 - RHCP.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU05/tv-24170.jpg" />
- <img src="/images/DIU05/bd-24170.jpg" />
+ <img src="./../images/DIU05/tv-24170.jpg" />
+ <img src="./../images/DIU05/bd-24170.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU05/tv-24830.jpg" />
- <img src="/images/DIU05/bd-24830.jpg" />
+ <img src="./../images/DIU05/tv-24830.jpg" />
+ <img src="./../images/DIU05/bd-24830.jpg" />
 </div>
 
 <br>
@@ -100,24 +96,22 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU05/TV%204%20-%20flashes.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/TV 04 - flashes.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU05/BD%204%20-%20flashes.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU05/BD 04 - flashes.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
-<br>
-
 - The hand on Jotaro's hat was slightly off-color for two frames, this has been corrected:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU05/tv-29725.jpg" />
- <img src="/images/DIU05/bd-29725.jpg" />
+ <img src="./../images/DIU05/tv-29725.jpg" />
+ <img src="./../images/DIU05/bd-29725.jpg" />
 </div>
 
 <br>
@@ -128,24 +122,22 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU05/TV%205%20-%20phone.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/TV 05 - phone.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/DIU05/BD%205%20-%20phone.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/DIU05/BD 05 - phone.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
-<br>
-
 - In the ending credits, うすいこうぢ (Usui Kōji)'s name was previously misspelled as こうじ. By the way じ and ぢ are both pronounced "ji":
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/DIU05/tv-32800.jpg" />
- <img src="/images/DIU05/bd-32800.jpg" />
+ <img src="./../images/DIU05/tv-32800.jpg" />
+ <img src="./../images/DIU05/bd-32800.jpg" />
 </div>
 
 <br>

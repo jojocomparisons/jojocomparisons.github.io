@@ -19,8 +19,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Let's cut to the chase and begin with a rather crude image! This dude has definitely met with a terrible fate:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-00300.jpg" />
- <img src="/images/PB01/bd-00300.jpg" />
+ <img src="./../images/PB01/tv-00300.jpg" />
+ <img src="./../images/PB01/bd-00300.jpg" />
 </div>
 
 <br>
@@ -28,8 +28,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - We're given a more general look of the wreck in this shot, which also has a slightly different shading for George, Dario and (presumably?) Madame Brando's clothes:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-00415.jpg" />
- <img src="/images/PB01/bd-00415.jpg" />
+ <img src="./../images/PB01/tv-00415.jpg" />
+ <img src="./../images/PB01/bd-00415.jpg" />
 </div>
 
 <br>
@@ -37,15 +37,15 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - And, once again, this poor dude (how the hell did he even manage to end up like that anyway?) has been uncensored and moved a bit to the right:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-02800.jpg" />
- <img src="/images/PB01/bd-02800.jpg" />
+ <img src="./../images/PB01/tv-02800.jpg" />
+ <img src="./../images/PB01/bd-02800.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-02890.jpg" />
- <img src="/images/PB01/bd-02890.jpg" />
+ <img src="./../images/PB01/tv-02890.jpg" />
+ <img src="./../images/PB01/bd-02890.jpg" />
 </div>
 
 <br>
@@ -53,8 +53,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - In the opening credits, ディレクター ("Director") has been slightly moved to the right:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-08680.jpg" />
- <img src="/images/PB01/bd-08680.jpg" />
+ <img src="./../images/PB01/tv-08680.jpg" />
+ <img src="./../images/PB01/bd-08680.jpg" />
 </div>
 
 <br>
@@ -62,8 +62,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - ...And the secon kanji in 製作 ("Production") has instead been slightly moved to the left (look, I know nobody cares about these things, but I've gotta include everything for completeness' sake!):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-08773.jpg" />
- <img src="/images/PB01/bd-08773.jpg" />
+ <img src="./../images/PB01/tv-08773.jpg" />
+ <img src="./../images/PB01/bd-08773.jpg" />
 </div>
 
 <br>
@@ -71,15 +71,15 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Now, finally, we have some serious differences! Jonathan and Dio have been completely redrawn in most scenes. Here is the first of them. The clouds in the background have also been moved slightly upwards:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-09605.jpg" />
- <img src="/images/PB01/bd-09605.jpg" />
+ <img src="./../images/PB01/tv-09605.jpg" />
+ <img src="./../images/PB01/bd-09605.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-10076.jpg" />
- <img src="/images/PB01/bd-10076.jpg" />
+ <img src="./../images/PB01/tv-10076.jpg" />
+ <img src="./../images/PB01/bd-10076.jpg" />
 </div>
 
 <br>
@@ -87,8 +87,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Dio joins our little redrawing party and shows up in all his BD glory:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-10245.jpg" />
- <img src="/images/PB01/bd-10245.jpg" />
+ <img src="./../images/PB01/tv-10245.jpg" />
+ <img src="./../images/PB01/bd-10245.jpg" />
 </div>
 
 <br>
@@ -96,8 +96,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Jonathan has been gifted with a more intelligent expression:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-10390.jpg" />
- <img src="/images/PB01/bd-10390.jpg" />
+ <img src="./../images/PB01/tv-10390.jpg" />
+ <img src="./../images/PB01/bd-10390.jpg" />
 </div>
 
 <br>
@@ -105,8 +105,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Here, both Jonathan and Danny's face have been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-10566.jpg" />
- <img src="/images/PB01/bd-10566.jpg" />
+ <img src="./../images/PB01/tv-10566.jpg" />
+ <img src="./../images/PB01/bd-10566.jpg" />
 </div>
 
 <br>
@@ -114,15 +114,15 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Pretty much everything except the background has been polished here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-11137.jpg" />
- <img src="/images/PB01/bd-11137.jpg" />
+ <img src="./../images/PB01/tv-11137.jpg" />
+ <img src="./../images/PB01/bd-11137.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-11257.jpg" />
- <img src="/images/PB01/bd-11257.jpg" />
+ <img src="./../images/PB01/tv-11257.jpg" />
+ <img src="./../images/PB01/bd-11257.jpg" />
 </div>
 
 <br>
@@ -130,8 +130,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Dio has a more ominous shading, and has been moved slightly downwards:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-11300.jpg" />
- <img src="/images/PB01/bd-11300.jpg" />
+ <img src="./../images/PB01/tv-11300.jpg" />
+ <img src="./../images/PB01/bd-11300.jpg" />
 </div>
 
 <br>
@@ -139,8 +139,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Both Dio and George have been drastically redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-11600.jpg" />
- <img src="/images/PB01/bd-11600.jpg" />
+ <img src="./../images/PB01/tv-11600.jpg" />
+ <img src="./../images/PB01/bd-11600.jpg" />
 </div>
 
 <br>
@@ -148,8 +148,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - I didn't think it could have been possible to make Dio even more smug, but David pro actually did it:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-11700.jpg" />
- <img src="/images/PB01/bd-11700.jpg" />
+ <img src="./../images/PB01/tv-11700.jpg" />
+ <img src="./../images/PB01/bd-11700.jpg" />
 </div>
 
 <br>
@@ -160,24 +160,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB01/TV%201%20-%20armgrab.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/TV 01 - armgrab.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB01/BD%201%20-%20armgrab.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB01/BD 01 - armgrab.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
-<br>
-
 - ...As have the subsequent frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-12931.jpg" />
- <img src="/images/PB01/bd-12931.jpg" />
+ <img src="./../images/PB01/tv-12931.jpg" />
+ <img src="./../images/PB01/bd-12931.jpg" />
 </div>
 
 <br>
@@ -188,24 +186,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB01/TV%202%20-%20punch.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/TV 02 - punch.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB01/BD%202%20-%20punch.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB01/BD 02 - punch.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
-<br>
-
 - In the BDs the shading here has been brightened a bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-16725.jpg" />
- <img src="/images/PB01/bd-16725.jpg" />
+ <img src="./../images/PB01/tv-16725.jpg" />
+ <img src="./../images/PB01/bd-16725.jpg" />
 </div>
 
 <br>
@@ -213,8 +209,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - A couple of frames in the broadcast version of this scene have a blatant error: the previous frame (Jonathan with eyes open) was not cleared, and the new frame (Jonathan with eyes closed) was drawn on top of it. This was corrected in the BDs; the ear was also shadowed and the outline redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-19242.jpg" />
- <img src="/images/PB01/bd-19242.jpg" />
+ <img src="./../images/PB01/tv-19242.jpg" />
+ <img src="./../images/PB01/bd-19242.jpg" />
 </div>
 
 <br>
@@ -222,8 +218,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - The ear again, and the fists have also been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-19280.jpg" />
- <img src="/images/PB01/bd-19280.jpg" />
+ <img src="./../images/PB01/tv-19280.jpg" />
+ <img src="./../images/PB01/bd-19280.jpg" />
 </div>
 
 <br>
@@ -234,18 +230,16 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB01/TV%203%20-%20fire.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/TV 03 - fire.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB01/BD%203%20-%20fire.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB01/BD 03 - fire.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
-
-<br>
 
 - As is this other brief animation...
 
@@ -253,18 +247,16 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB01/TV%204%20-%20standup.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/TV 04 - standup.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB01/BD%204%20-%20standup.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB01/BD 04 - standup.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
-
-<br>
 
 - ...And this (very majestic) jacket floating down:
 
@@ -272,18 +264,16 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB01/TV%205%20-%20coat.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/TV 05 - coat.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB01/BD%205%20-%20coat.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB01/BD 05 - coat.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
-
-<br>
 
 - This flashback sequence has also been brightened and sharpened:
 
@@ -291,18 +281,16 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB01/TV%206%20-%20flashback.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/TV 06 - flashback.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB01/BD%206%20-%20flashback.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB01/BD 06 - flashback.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
-
-<br>
 
 - And this punch has been cleaned and slightly redrawn towards the end:
 
@@ -310,24 +298,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 <tr>
 <td align="left" valign="top" width="50%">
 <video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB01/TV%207%20-%20punch.webm type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/TV 07 - punch.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src=/videos/PB01/BD%207%20-%20punch.webm type='video/webm; codecs="vp8, vorbis"'>
+<video nocontrols loop preload='auto'>
+  <source src="./../videos/PB01/BD 07 - punch.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 </tr>
 </table>
 
-<br>
-
 - Now for a lot of ending credit differences nobody really cares about! In this part here, the left half of the credits have been spaced a bit more:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-31940.jpg" />
- <img src="/images/PB01/bd-31940.jpg" />
+ <img src="./../images/PB01/tv-31940.jpg" />
+ <img src="./../images/PB01/bd-31940.jpg" />
 </div>
 
 <br>
@@ -335,8 +321,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - They added "david production" to the top here, under 動画検査 ("In-between animation check"):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-32000.jpg" />
- <img src="/images/PB01/bd-32000.jpg" />
+ <img src="./../images/PB01/tv-32000.jpg" />
+ <img src="./../images/PB01/bd-32000.jpg" />
 </div>
 
 <br>
@@ -344,8 +330,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - The second kanji of 仕上 ("Finishing touches") has been moved slightly farther to the right:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-32200.jpg" />
- <img src="/images/PB01/bd-32200.jpg" />
+ <img src="./../images/PB01/tv-32200.jpg" />
+ <img src="./../images/PB01/bd-32200.jpg" />
 </div>
 
 <br>
@@ -353,8 +339,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Here the credits have been moved to the left:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-32300.jpg" />
- <img src="/images/PB01/bd-32300.jpg" />
+ <img src="./../images/PB01/tv-32300.jpg" />
+ <img src="./../images/PB01/bd-32300.jpg" />
 </div>
 
 <br>
@@ -362,8 +348,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - The left part has been raised up a bit, the right part has been moved slightly to the left, and "david production" has been added to the section that was previously named テクスチャーデザイン ("Texture design") and is now just a general デジタルワークス ("Digital works"); "david production" has also been added to the 3DCGI section:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-32445.jpg" />
- <img src="/images/PB01/bd-32445.jpg" />
+ <img src="./../images/PB01/tv-32445.jpg" />
+ <img src="./../images/PB01/bd-32445.jpg" />
 </div>
 
 <br>
@@ -371,8 +357,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Assistant producer 高野貴志 (Takano Takeshi) has been added to the credits:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-33000.jpg" />
- <img src="/images/PB01/bd-33000.jpg" />
+ <img src="./../images/PB01/tv-33000.jpg" />
+ <img src="./../images/PB01/bd-33000.jpg" />
 </div>
 
 <br>
@@ -380,8 +366,8 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - ...As was also 山口貴也 (Yamaguchi Takaya):
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-33150.jpg" />
- <img src="/images/PB01/bd-33150.jpg" />
+ <img src="./../images/PB01/tv-33150.jpg" />
+ <img src="./../images/PB01/bd-33150.jpg" />
 </div>
 
 <br>
@@ -389,15 +375,15 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Finally, in the "Next time" section, the background rhombuses (rhombi?) have been slightly raised:
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-33700.jpg" />
- <img src="/images/PB01/bd-33700.jpg" />
+ <img src="./../images/PB01/tv-33700.jpg" />
+ <img src="./../images/PB01/bd-33700.jpg" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="/images/PB01/tv-34000.jpg" />
- <img src="/images/PB01/bd-34000.jpg" />
+ <img src="./../images/PB01/tv-34000.jpg" />
+ <img src="./../images/PB01/bd-34000.jpg" />
 </div>
 
 <br>
