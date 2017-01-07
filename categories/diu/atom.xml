@@ -4,7 +4,7 @@
   <title><![CDATA[Category: diu | JoJo's Bizarre Comparisons]]></title>
   <link href="https://jojocomparisons.github.io/categories/diu/atom.xml" rel="self"/>
   <link href="https://jojocomparisons.github.io/"/>
-  <updated>2017-01-05T19:15:14+01:00</updated>
+  <updated>2017-01-07T12:47:17+01:00</updated>
   <id>https://jojocomparisons.github.io/</id>
   <author>
     <name><![CDATA[Duwang Boi]]></name>
@@ -1066,8 +1066,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-02531.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-02531.jpg" />
+ <img src="./../images/DIU12/tv-02531.jpg" />
+ <img src="./../images/DIU12/bd-02531.jpg" />
 </div>
 
 <p><br /></p>
@@ -1077,8 +1077,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-02695.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-02695.jpg" />
+ <img src="./../images/DIU12/tv-02695.jpg" />
+ <img src="./../images/DIU12/bd-02695.jpg" />
 </div>
 
 <p><br /></p>
@@ -1088,8 +1088,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-05180.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-05180.jpg" />
+ <img src="./../images/DIU12/tv-05180.jpg" />
+ <img src="./../images/DIU12/bd-05180.jpg" />
 </div>
 
 <p><br /></p>
@@ -1099,8 +1099,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-05450.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-05450.jpg" />
+ <img src="./../images/DIU12/tv-05450.jpg" />
+ <img src="./../images/DIU12/bd-05450.jpg" />
 </div>
 
 <p><br /></p>
@@ -1113,12 +1113,12 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/TV%201%20-%20brighter.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/DIU12/TV 01 - brighter.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/BD%201%20-%20brighter.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/DIU12/BD 01 - brighter.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
@@ -1132,12 +1132,12 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/TV%202%20-%20brighter%202.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/DIU12/TV 02 - brighter 2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/BD%202%20-%20brighter%202.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/DIU12/BD 02 - brighter 2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
@@ -1148,8 +1148,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-09095.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-09095.jpg" />
+ <img src="./../images/DIU12/tv-09095.jpg" />
+ <img src="./../images/DIU12/bd-09095.jpg" />
 </div>
 
 <p><br /></p>
@@ -1162,27 +1162,27 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/TV%203%20-%20akira.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/DIU12/TV 03 - akira.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/BD%203%20-%20akira.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/DIU12/BD 03 - akira.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
 </table>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-09230.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-09230.jpg" />
+ <img src="./../images/DIU12/tv-09230.jpg" />
+ <img src="./../images/DIU12/bd-09230.jpg" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-09250.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-09250.jpg" />
+ <img src="./../images/DIU12/tv-09250.jpg" />
+ <img src="./../images/DIU12/bd-09250.jpg" />
 </div>
 
 <p><br /></p>
@@ -1195,12 +1195,12 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/TV%204%20-%20rhcp.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/DIU12/TV 04 - rhcp.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/BD%204%20-%20rhcp.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/DIU12/BD 04 - rhcp.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
@@ -1211,8 +1211,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-12440.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-12440.jpg" />
+ <img src="./../images/DIU12/tv-12440.jpg" />
+ <img src="./../images/DIU12/bd-12440.jpg" />
 </div>
 
 <p><br /></p>
@@ -1225,12 +1225,12 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/TV%205%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/DIU12/TV 05 - crazy diamond.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/BD%205%20-%20crazy%20diamond.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/DIU12/BD 05 - crazy diamond.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
@@ -1241,15 +1241,15 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-13250.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-13250.jpg" />
+ <img src="./../images/DIU12/tv-13250.jpg" />
+ <img src="./../images/DIU12/bd-13250.jpg" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-13310.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-13310.jpg" />
+ <img src="./../images/DIU12/tv-13310.jpg" />
+ <img src="./../images/DIU12/bd-13310.jpg" />
 </div>
 
 <p><br /></p>
@@ -1259,8 +1259,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-13865.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-13865.jpg" />
+ <img src="./../images/DIU12/tv-13865.jpg" />
+ <img src="./../images/DIU12/bd-13865.jpg" />
 </div>
 
 <p><br /></p>
@@ -1270,15 +1270,15 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-13930.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-13930.jpg" />
+ <img src="./../images/DIU12/tv-13930.jpg" />
+ <img src="./../images/DIU12/bd-13930.jpg" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-13950.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-13950.jpg" />
+ <img src="./../images/DIU12/tv-13950.jpg" />
+ <img src="./../images/DIU12/bd-13950.jpg" />
 </div>
 
 <p><br /></p>
@@ -1288,8 +1288,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-13965.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-13965.jpg" />
+ <img src="./../images/DIU12/tv-13965.jpg" />
+ <img src="./../images/DIU12/bd-13965.jpg" />
 </div>
 
 <p><br /></p>
@@ -1302,12 +1302,12 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/TV%206%20-%20blur.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/DIU12/TV 06 - blur.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/BD%206%20-%20blur.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/DIU12/BD 06 - blur.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
@@ -1318,8 +1318,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-14107.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-14107.jpg" />
+ <img src="./../images/DIU12/tv-14107.jpg" />
+ <img src="./../images/DIU12/bd-14107.jpg" />
 </div>
 
 <p><br /></p>
@@ -1332,12 +1332,12 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/TV%207%20-%20transition.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/DIU12/TV 07 - transition.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/BD%207%20-%20transition.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/DIU12/BD 07 - transition.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
@@ -1348,15 +1348,15 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-14690.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-14690.jpg" />
+ <img src="./../images/DIU12/tv-14690.jpg" />
+ <img src="./../images/DIU12/bd-14690.jpg" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-14720.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-14720.jpg" />
+ <img src="./../images/DIU12/tv-14720.jpg" />
+ <img src="./../images/DIU12/bd-14720.jpg" />
 </div>
 
 <p><br /></p>
@@ -1366,8 +1366,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-14816.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-14816.jpg" />
+ <img src="./../images/DIU12/tv-14816.jpg" />
+ <img src="./../images/DIU12/bd-14816.jpg" />
 </div>
 
 <p><br /></p>
@@ -1377,8 +1377,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-14843.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-14843.jpg" />
+ <img src="./../images/DIU12/tv-14843.jpg" />
+ <img src="./../images/DIU12/bd-14843.jpg" />
 </div>
 
 <p><br /></p>
@@ -1388,8 +1388,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-14880.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-14880.jpg" />
+ <img src="./../images/DIU12/tv-14880.jpg" />
+ <img src="./../images/DIU12/bd-14880.jpg" />
 </div>
 
 <p><br /></p>
@@ -1399,8 +1399,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-15200.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-15200.jpg" />
+ <img src="./../images/DIU12/tv-15200.jpg" />
+ <img src="./../images/DIU12/bd-15200.jpg" />
 </div>
 
 <p><br /></p>
@@ -1410,22 +1410,22 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-17272.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-17272.jpg" />
+ <img src="./../images/DIU12/tv-17272.jpg" />
+ <img src="./../images/DIU12/bd-17272.jpg" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-17280.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-17280.jpg" />
+ <img src="./../images/DIU12/tv-17280.jpg" />
+ <img src="./../images/DIU12/bd-17280.jpg" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-17360.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-17360.jpg" />
+ <img src="./../images/DIU12/tv-17360.jpg" />
+ <img src="./../images/DIU12/bd-17360.jpg" />
 </div>
 
 <p><br /></p>
@@ -1435,8 +1435,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-17400.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-17400.jpg" />
+ <img src="./../images/DIU12/tv-17400.jpg" />
+ <img src="./../images/DIU12/bd-17400.jpg" />
 </div>
 
 <p><br /></p>
@@ -1446,15 +1446,15 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-17759.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-17759.jpg" />
+ <img src="./../images/DIU12/tv-17759.jpg" />
+ <img src="./../images/DIU12/bd-17759.jpg" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-17780.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-17780.jpg" />
+ <img src="./../images/DIU12/tv-17780.jpg" />
+ <img src="./../images/DIU12/bd-17780.jpg" />
 </div>
 
 <p><br /></p>
@@ -1464,8 +1464,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-18230.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-18230.jpg" />
+ <img src="./../images/DIU12/tv-18230.jpg" />
+ <img src="./../images/DIU12/bd-18230.jpg" />
 </div>
 
 <p><br /></p>
@@ -1475,8 +1475,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-19280.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-19280.jpg" />
+ <img src="./../images/DIU12/tv-19280.jpg" />
+ <img src="./../images/DIU12/bd-19280.jpg" />
 </div>
 
 <p><br /></p>
@@ -1489,12 +1489,12 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/TV%208%20-%20akira.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/DIU12/TV 08 - akira.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/BD%208%20-%20akira.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/DIU12/BD 08 - akira.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
@@ -1505,8 +1505,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-19630.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-19630.jpg" />
+ <img src="./../images/DIU12/tv-19630.jpg" />
+ <img src="./../images/DIU12/bd-19630.jpg" />
 </div>
 
 <p><br /></p>
@@ -1516,8 +1516,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-19900.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-19900.jpg" />
+ <img src="./../images/DIU12/tv-19900.jpg" />
+ <img src="./../images/DIU12/bd-19900.jpg" />
 </div>
 
 <p><br /></p>
@@ -1527,8 +1527,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-20140.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-20140.jpg" />
+ <img src="./../images/DIU12/tv-20140.jpg" />
+ <img src="./../images/DIU12/bd-20140.jpg" />
 </div>
 
 <p><br /></p>
@@ -1541,12 +1541,12 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/TV%209%20-%20koichi.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/DIU12/TV 09 - koichi.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/BD%209%20-%20koichi.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/DIU12/BD 09 - koichi.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
@@ -1557,8 +1557,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-21010.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-21010.jpg" />
+ <img src="./../images/DIU12/tv-21010.jpg" />
+ <img src="./../images/DIU12/bd-21010.jpg" />
 </div>
 
 <p><br /></p>
@@ -1568,8 +1568,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-21095.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-21095.jpg" />
+ <img src="./../images/DIU12/tv-21095.jpg" />
+ <img src="./../images/DIU12/bd-21095.jpg" />
 </div>
 
 <p><br /></p>
@@ -1579,8 +1579,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-21905.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-21905.jpg" />
+ <img src="./../images/DIU12/tv-21905.jpg" />
+ <img src="./../images/DIU12/bd-21905.jpg" />
 </div>
 
 <p><br /></p>
@@ -1593,12 +1593,12 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/TV%2010%20-%20echoes.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/DIU12/TV 10 - echoes.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/BD%2010%20-%20echoes.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/DIU12/BD 10 - echoes.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
@@ -1609,8 +1609,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-23190.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-23190.jpg" />
+ <img src="./../images/DIU12/tv-23190.jpg" />
+ <img src="./../images/DIU12/bd-23190.jpg" />
 </div>
 
 <p><br /></p>
@@ -1620,8 +1620,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-23385.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-23385.jpg" />
+ <img src="./../images/DIU12/tv-23385.jpg" />
+ <img src="./../images/DIU12/bd-23385.jpg" />
 </div>
 
 <p><br /></p>
@@ -1631,8 +1631,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-23390.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-23390.jpg" />
+ <img src="./../images/DIU12/tv-23390.jpg" />
+ <img src="./../images/DIU12/bd-23390.jpg" />
 </div>
 
 <p><br /></p>
@@ -1642,8 +1642,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-24331.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-24331.jpg" />
+ <img src="./../images/DIU12/tv-24331.jpg" />
+ <img src="./../images/DIU12/bd-24331.jpg" />
 </div>
 
 <p><br /></p>
@@ -1656,12 +1656,12 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/TV%2011%20-%20boat.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/DIU12/TV 11 - boat.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/BD%2011%20-%20boat.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/DIU12/BD 11 - boat.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
@@ -1672,8 +1672,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-25245.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-25245.jpg" />
+ <img src="./../images/DIU12/tv-25245.jpg" />
+ <img src="./../images/DIU12/bd-25245.jpg" />
 </div>
 
 <p><br /></p>
@@ -1686,12 +1686,12 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/TV%2012%20-%20josuke.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/DIU12/TV 12 - josuke.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/BD%2012%20-%20josuke.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/DIU12/BD 12 - josuke.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
@@ -1702,8 +1702,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-26260.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-26260.jpg" />
+ <img src="./../images/DIU12/tv-26260.jpg" />
+ <img src="./../images/DIU12/bd-26260.jpg" />
 </div>
 
 <p><br /></p>
@@ -1713,19 +1713,19 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-26326.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-26326.jpg" />
+ <img src="./../images/DIU12/tv-26326.jpg" />
+ <img src="./../images/DIU12/bd-26326.jpg" />
 </div>
 
 <p><br /></p>
 
 <ul>
-  <li>Initially I thought this correction was a simple sweat drop being recoloured from purple to white, but as one commenter (&lt;a href=https://jojocomparisons.github.io/jojo-diu-12/#comment-3032675623&gt;MANDUCK&lt;/a&gt;) pointed out, the BDs actually made a <em>mistake</em> in correcting this, since it was supposed to be part of Akira’s face tattoo:</li>
+  <li>Initially I thought this correction was a simple sweat drop being recoloured from purple to white, but as one commenter (<a href="https://jojocomparisons.github.io/jojo-diu-12/#comment-3032675623">MANDUCK</a>) pointed out, the BDs actually made a <em>mistake</em> in correcting this, since it was supposed to be part of Akira’s face tattoo:</li>
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-27390.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-27390.jpg" />
+ <img src="./../images/DIU12/tv-27390.jpg" />
+ <img src="./../images/DIU12/bd-27390.jpg" />
 </div>
 
 <p><br /></p>
@@ -1735,8 +1735,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-27400.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-27400.jpg" />
+ <img src="./../images/DIU12/tv-27400.jpg" />
+ <img src="./../images/DIU12/bd-27400.jpg" />
 </div>
 
 <p><br /></p>
@@ -1746,8 +1746,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-28020.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-28020.jpg" />
+ <img src="./../images/DIU12/tv-28020.jpg" />
+ <img src="./../images/DIU12/bd-28020.jpg" />
 </div>
 
 <p><br /></p>
@@ -1760,12 +1760,12 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/TV%2013%20-%20RHCP%20zoom.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/DIU12/TV 13 - RHCP zoom.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/BD%2013%20-%20RHCP%20zoom.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/DIU12/BD 13 - RHCP zoom.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
@@ -1776,8 +1776,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-28340.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-28340.jpg" />
+ <img src="./../images/DIU12/tv-28340.jpg" />
+ <img src="./../images/DIU12/bd-28340.jpg" />
 </div>
 
 <p><br /></p>
@@ -1787,8 +1787,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-28565.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-28565.jpg" />
+ <img src="./../images/DIU12/tv-28565.jpg" />
+ <img src="./../images/DIU12/bd-28565.jpg" />
 </div>
 
 <p><br /></p>
@@ -1801,12 +1801,12 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/TV%2014%20-%20akira%20punch.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/DIU12/TV 14 - akira punch.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/DIU12/BD%2014%20-%20akira%20punch.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/DIU12/BD 14 - akira punch.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
@@ -1817,8 +1817,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-29095.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-29095.jpg" />
+ <img src="./../images/DIU12/tv-29095.jpg" />
+ <img src="./../images/DIU12/bd-29095.jpg" />
 </div>
 
 <p><br /></p>
@@ -1828,22 +1828,22 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-29717.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-29717.jpg" />
+ <img src="./../images/DIU12/tv-29717.jpg" />
+ <img src="./../images/DIU12/bd-29717.jpg" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-29730.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-29730.jpg" />
+ <img src="./../images/DIU12/tv-29730.jpg" />
+ <img src="./../images/DIU12/bd-29730.jpg" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-29750.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-29750.jpg" />
+ <img src="./../images/DIU12/tv-29750.jpg" />
+ <img src="./../images/DIU12/bd-29750.jpg" />
 </div>
 
 <p><br /></p>
@@ -1853,8 +1853,8 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-29800.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-29800.jpg" />
+ <img src="./../images/DIU12/tv-29800.jpg" />
+ <img src="./../images/DIU12/bd-29800.jpg" />
 </div>
 
 <p><br /></p>
@@ -1864,15 +1864,15 @@ As a side note, for the next two weeks or so I’ll be on vacation; I don’t kn
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-32080.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-32080.jpg" />
+ <img src="./../images/DIU12/tv-32080.jpg" />
+ <img src="./../images/DIU12/bd-32080.jpg" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/DIU12/tv-32135.jpg" />
- <img src="https://jojocomparisons.github.io/images/DIU12/bd-32135.jpg" />
+ <img src="./../images/DIU12/tv-32135.jpg" />
+ <img src="./../images/DIU12/bd-32135.jpg" />
 </div>
 
 <p><br /></p>

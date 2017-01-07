@@ -4,7 +4,7 @@
   <title><![CDATA[Category: bt | JoJo's Bizarre Comparisons]]></title>
   <link href="https://jojocomparisons.github.io/categories/bt/atom.xml" rel="self"/>
   <link href="https://jojocomparisons.github.io/"/>
-  <updated>2017-01-05T19:15:14+01:00</updated>
+  <updated>2017-01-07T12:47:17+01:00</updated>
   <id>https://jojocomparisons.github.io/</id>
   <author>
     <name><![CDATA[Duwang Boi]]></name>
@@ -2744,8 +2744,8 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/BT10/tv-06490.jpg" />
- <img src="https://jojocomparisons.github.io/images/BT10/bd-06490.jpg" />
+ <img src="./../images/BT10/tv-06490.jpg" />
+ <img src="./../images/BT10/bd-06490.jpg" />
 </div>
 
 <p><br /></p>
@@ -2758,12 +2758,12 @@
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/BT10/TV%201%20-%20cokefinger.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/BT10/TV 01 - cokefinger.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/BT10/BD%201%20-%20cokefinger.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/BT10/BD 01 - cokefinger.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
@@ -2774,8 +2774,8 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/BT10/tv-11900.jpg" />
- <img src="https://jojocomparisons.github.io/images/BT10/bd-11900.jpg" />
+ <img src="./../images/BT10/tv-11900.jpg" />
+ <img src="./../images/BT10/bd-11900.jpg" />
 </div>
 
 <p><br /></p>
@@ -2785,8 +2785,8 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/BT10/tv-14190.jpg" />
- <img src="https://jojocomparisons.github.io/images/BT10/bd-14190.jpg" />
+ <img src="./../images/BT10/tv-14190.jpg" />
+ <img src="./../images/BT10/bd-14190.jpg" />
 </div>
 
 <p><br /></p>
@@ -2796,8 +2796,8 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/BT10/tv-16970.jpg" />
- <img src="https://jojocomparisons.github.io/images/BT10/bd-16970.jpg" />
+ <img src="./../images/BT10/tv-16970.jpg" />
+ <img src="./../images/BT10/bd-16970.jpg" />
 </div>
 
 <p><br /></p>
@@ -2807,29 +2807,29 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/BT10/tv-17700.jpg" />
- <img src="https://jojocomparisons.github.io/images/BT10/bd-17700.jpg" />
+ <img src="./../images/BT10/tv-17700.jpg" />
+ <img src="./../images/BT10/bd-17700.jpg" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/BT10/tv-18260.jpg" />
- <img src="https://jojocomparisons.github.io/images/BT10/bd-18260.jpg" />
+ <img src="./../images/BT10/tv-18260.jpg" />
+ <img src="./../images/BT10/bd-18260.jpg" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/BT10/tv-19325.jpg" />
- <img src="https://jojocomparisons.github.io/images/BT10/bd-19325.jpg" />
+ <img src="./../images/BT10/tv-19325.jpg" />
+ <img src="./../images/BT10/bd-19325.jpg" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/BT10/tv-19800.jpg" />
- <img src="https://jojocomparisons.github.io/images/BT10/bd-19800.jpg" />
+ <img src="./../images/BT10/tv-19800.jpg" />
+ <img src="./../images/BT10/bd-19800.jpg" />
 </div>
 
 <p><br /></p>
@@ -2839,8 +2839,8 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="https://jojocomparisons.github.io/images/BT10/tv-24130.jpg" />
- <img src="https://jojocomparisons.github.io/images/BT10/bd-24130.jpg" />
+ <img src="./../images/BT10/tv-24130.jpg" />
+ <img src="./../images/BT10/bd-24130.jpg" />
 </div>
 
 <p><br /></p>
@@ -2853,27 +2853,12 @@
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/BT10/TV%202%20-%20tommygun.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/BT10/TV 02 - tommygun.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/BT10/BD%202%20-%20tommygun.webm type='video/webm; codecs="vp8, vorbis"'&gt;
-</video>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/BT10/TV%203%20-%20joseph%20pan%201.webm type='video/webm; codecs="vp8, vorbis"'&gt;
-</video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/BT10/BD%203%20-%20joseph%20pan%201.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/BT10/BD 02 - tommygun.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
@@ -2883,12 +2868,27 @@
 <tr>
 <td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/BT10/TV%204%20-%20joseph%20pan%202.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/BT10/TV 03 - joseph pan 1.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 <td align="left" valign="top" width="50%">
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/BT10/BD 03 - joseph pan 1.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
 <video class="center" nocontrols="" loop="" preload="auto">
-  &lt;source src=/videos/BT10/BD%204%20-%20joseph%20pan%202.webm type='video/webm; codecs="vp8, vorbis"'&gt;
+  <source src="./../videos/BT10/TV 04 - joseph pan 2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video nocontrols="" loop="" preload="auto">
+  <source src="./../videos/BT10/BD 04 - joseph pan 2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
 </video>
 </td>
 </tr>
