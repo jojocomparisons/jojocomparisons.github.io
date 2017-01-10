@@ -1,0 +1,96 @@
+---
+layout: post
+title: "Diamond is Unbreakable #18 - Shigechi's Harvest - Part 1"
+date: 2017-01-10 10:32:50 +0100
+comments: true
+categories: diu
+---
+
+{% img center /images/DIU18/18-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello, everybody, welcome back! Today we'll take a look at Episode #18 of DiU, although... It's gonna be a short one, so don't get your hopes up! Well, to be fair this is a pretty tame episode: no fight scenes, nothing in need of uncensoring, and no particularly bad shots.
+
+<br>
+
+Let's get to it, then!
+
+- To start off this very brief comparison, both Okuyasu and Josuke's face have been retouched in this shot:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU18/tv-07765.jpg" />
+ <img src="./../images/DIU18/bd-07765.jpg" />
+</div>
+
+<br>
+
+- This animation is... Yeah, yeah, you guessed it. Brighter & Sharper! In the TV version, the upper half of Okuyasu and Shigechi's heads were also slightly blurred; this has been fixed in the BDs:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU18/TV 01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU18/BD 01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU18/tv-18300.jpg" />
+ <img src="./../images/DIU18/bd-18300.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU18/tv-18440.jpg" />
+ <img src="./../images/DIU18/bd-18440.jpg" />
+</div>
+
+<br>
+
+- Here we have an exclusive look at the invincible trio, enjoying one moment of rest. If you look on the front of the booklet Okuyasu's holding, you'll see that the ー in バンゴー (a katakana rendition of 番号, "number") has been coloured white:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU18/tv-28260.jpg" />
+ <img src="./../images/DIU18/bd-28260.jpg" />
+</div>
+
+<br>
+
+- And then we have a couple of credits differences... Yeah, the episode itself is already over! In this first one, the グラフィックモデル制作協力 (Graphic Model Work Assistance) in the middle has been spaced differently:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU18/tv-32990.jpg" />
+ <img src="./../images/DIU18/bd-32990.jpg" />
+</div>
+
+<br>
+
+- And here, the last kanji in animation director 渡邊葉瑠 (Watanabe Haru)'s name (on the right, bottom name on the left column) was previously mistakenly written as 溜 instead of 瑠 (the radical is 氵instead of 王). This was fixed in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU18/tv-33770.jpg" />
+ <img src="./../images/DIU18/bd-33770.jpg" />
+</div>
+
+<br>
+
+And that's it for this episode, I'm afraid! Sorry for the brief comparison, but at least with this analysis we have knocked out BD 6! As soon as I'll get BD 7, you know what's awaiting us there! Yoshikage Kira Just Wants a Quiet Life Part 1, baby! Alright, see you next time.
+
+<br>
+
+Bye!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
