@@ -3,7 +3,7 @@ layout: post
 title: "Diamond is Unbreakable #21 - Yoshikage Kira Just Wants a Quiet Life - Part 1"
 date: 2017-01-24 09:49:44 +0100
 comments: true
-categories:
+categories: diu
 ---
 
 {% img center /images/DIU21/21-headerJP.jpg %}
@@ -454,7 +454,7 @@ Let's get right to it!
 
 <br>
 
-- These two shots are more zoomed out in the BDs:
+- These two shots are more zoomed out in the BDs, and Kira has been retouched, especially in the eye area (thanks, Patrick Falcon!):
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/DIU21/tv-30000.jpg" />
@@ -479,7 +479,7 @@ Let's get right to it!
 
 <br>
 
-- And, finally! Finally, here we are! Let's take a look at how Killer Queen looks in the BDs. First of all, the cat skull emblems on his fists and shoulder look waaay better, and even in this first comparison, you can see they retouched his eyes. The aura is also less transparent:
+- And, finally! Finally, here we are! Let's take a look at how Killer Queen looks in the BDs. First of all, the cat skull emblems on his fists and shoulder look waaay better, and even in this first comparison, you can see they retouched his eyes. The aura is also less transparent and the sky is brighter:
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/DIU21/tv-31833.jpg" />
