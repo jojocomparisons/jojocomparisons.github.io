@@ -227,7 +227,7 @@
 <pre><code>cd [TV folder] &amp;&amp; magick mogrify -path [temp folder] -crop 1280x719+0+1 -resize 1280x720! "*.jpg"
 </code></pre>
 
-<p>I will not break these down, since they basically do as stated previously; anyway, when these two commands are done (and they’ll probably take a long time! On my dinky PC each one takes approximately 1h30min~2h to complete), you’ll have 34k (x2) new frames in your temporary folders of choice.</p>
+<p>I will not break these down, since they basically do as stated previously; anyway, when these two commands are done (and they’ll probably take a long time! On my dinky PC each one takes approximately 1h30~2h to complete), you’ll have 34k (x2) new frames in your temporary folders of choice.</p>
 
 <p>The reason why I had you choose a new folder instead of just telling ImageMagick to overwrite your pre-existing .jpgs is twofold: firstly, in case anything goes wrong you won’t lose your original frames, and secondly, ImageMagick is not a very verbose program! It won’t tell you anything until it’s done, but we can circumvent that using an empty folder and keeping track of how many frames it’s done.</p>
 
@@ -251,7 +251,7 @@
 
 <p><br /></p>
 
-<p>In this case, we want a <em>composite</em> version of each pair of frame, to hide the parts that look the same and highlight the differences. ImageMagick comes, once again, to our rescue!</p>
+<p>In this case, we want a <em>composite</em> version of each pair of frames, to hide the parts that look the same and highlight the differences. ImageMagick comes, once again, to our rescue!</p>
 
 <p>Thanks to a very useful function of the ImageMagick libraries, we can do precisely that; the only problem is that it only does so with a single pair of images, while we need it to do that for a whole folder of 34k files.</p>
 
@@ -284,7 +284,7 @@ pause
 
 <p>This basically asks you to choose the source BD and TV folders, an output folder and then loops through each file therein, comparing them and producing a composite image. Since this is a rather rough script, it will probably spit some errors if one of the folders contain more files than the other; if that happens, go back and check if something went wrong in the previous steps.</p>
 
-<p>When that’s over (it usually takes 2h~2h30min for me), you’ll <em>finally</em> have the compared frames, neatly arranged in a folder of your choice!</p>
+<p>When that’s over (it usually takes 2h~2h30 for me), you’ll <em>finally</em> have the compared frames, neatly arranged in a folder of your choice!</p>
 
 <p><br /></p>
 
@@ -305,9 +305,9 @@ pause
 
 <p><br /></p>
 
-<p>If you remember, earlier I advised you to not skip the 3b) step, even if you felt that the difference was very minor; this part here is precisely why: the less different the <em>unchanged</em> frames are, and the more the frames which have been touched around by David Production will stand out!</p>
+<p>If you remember, earlier I advised you to not skip step 3b, even if you felt that the difference was very minor; this part here is precisely why: the less different the <em>unchanged</em> frames are, and the more the frames which have been retouched by David Production will stand out!</p>
 
-<p>Now that you know what you’re looking for, all you have to do is go through them one by one! I know this sounds long and boring, but it’s actually the most enjoyable part for me (because I enjoy repetitive tasks).</p>
+<p>Now that you know what you’re looking for, all you have to do is go through them one by one! I know this sounds long and boring, but it’s actually the most enjoyable part for me (but that might just be because I enjoy repetitive tasks).</p>
 
 <p>I prefer to avoid using the default image viewer program that comes pre-packaged with Windows, as it loads quite slowly and when you go through images quickly it usually defaults to a white background; as you can probably guess, looking for hours at a flashing white/black screen is not exactly my idea of fun.</p>
 
@@ -341,7 +341,7 @@ pause
   <li>If, instead, there is a different animation, or the difference can be best understood by looking at the whole sequence, I make a .webm (for the uninitiated, .webm is a highly-compressed video format, which allows for relatively high quality videos in a very small size).</li>
 </ul>
 
-<p>If you, like me, need to make a video out of a particular bunch of frames, then you’ll find ffmpeg is a valuable asset. To produce a high quality (but small size) .webm I use the following two commands:</p>
+<p>If, like me, you need to make a video out of a particular bunch of frames, then you’ll find ffmpeg is a valuable asset. To produce a high quality (but small size) .webm I use the following two commands:</p>
 
 <pre><code>ffmpeg -framerate 24 -start_number [first frame] -i [frame folder] -vframes [frame length] -vcodec libx264 ""[save path]\[webm name].mp4"
 </code></pre>
@@ -357,7 +357,7 @@ pause
 
 <p>When you’ve got all the frames and/or .webms you need, you can either post them somewhere or just… I don’t know? Stare at them?</p>
 
-<p>If you <em>do</em> want to post them in a similar format as I do, you can use <a href="http://zurb.com/playground/twentytwenty">this</a> script, which is the one I use on my blog.</p>
+<p>If you <em>do</em> want to post them in a similar format as I do, you can use <a href="http://zurb.com/playground/twentytwenty">this</a> script, which is the one I use for the image comparisons on my blog.</p>
 
 <h2 id="conclusions"><em>Conclusions</em></h2>
 
