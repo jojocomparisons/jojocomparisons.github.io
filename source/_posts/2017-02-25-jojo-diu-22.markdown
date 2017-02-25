@@ -1,0 +1,436 @@
+---
+layout: post
+title: "Diamond is Unbreakable #22 - Yoshikage Kira Just Wants a Quiet Life - Part 2"
+date: 2017-02-25 10:58:44 +0100
+comments: true
+categories:
+---
+
+{% img center /images/DIU22/22-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello, everyone! First of all, I want to apologize for the very long absence. As I mentioned in the previous post (and as you know if you're following me on my <a href="https://twitter.com/seekerofthevoid">twitter</a> account), I have been busy with my master's thesis. Good news: said thesis is now done, submitted, uploaded, it's over, I'm free, hooray! Bad news (for this blog! For me it's an amazing news): tomorrow I'll be leaving for London, where I'll be starting a new exciting job, which will last for approximately two months.
+
+<br>
+
+I'm not sure how much I'll be able to keep this blog updated over that period, but I'll try my best to put out at least one comparison a week. But enough about me! You're not here to read about my life story. You're here for today's comparison: "Yoshikage Kira Just Wants a Quiet Life - Part 2"!
+
+<br>
+
+Let's get right to it!
+
+<br>
+
+- The first comparison for today is of Kira's uncensored girlfriend, in this shot right here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-02970.jpg" />
+ <img src="./../images/DIU22/bd-02970.jpg" />
+</div>
+
+<br>
+
+- And here we have a couple of different things: the hand is, as usual, uncensored, the lines in the pavement texture are slightly lighter, and finally the very slight fisheye-like distortion around the edges that was present in the TV version is less prominent in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-03090.jpg" />
+ <img src="./../images/DIU22/bd-03090.jpg" />
+</div>
+
+<br>
+
+- The shadows under Harvest (the less-known sequel to H.P. Lovecraft's masterpiece) are darker in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-09750.jpg" />
+ <img src="./../images/DIU22/bd-09750.jpg" />
+</div>
+
+<br>
+
+- There's more blood on Shigechi's face in this shot, and there's also a more prominent fisheye-like distortion around the edges:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-09780.jpg" />
+ <img src="./../images/DIU22/bd-09780.jpg" />
+</div>
+
+<br>
+
+- A bit in Kira's tie was mistakenly coloured green (or missing entirely); this has been fixed:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-10210.jpg" />
+ <img src="./../images/DIU22/bd-10210.jpg" />
+</div>
+
+<br>
+
+- Shigechi's explosion has been, of course, uncensored, as you can see here:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU22/TV 01 - shigechi.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU22/BD 01 - shigechi.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-12780.jpg" />
+ <img src="./../images/DIU22/bd-12780.jpg" />
+</div>
+
+<br>
+
+- That button on Kira's jacket has been coloured properly:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-14440.jpg" />
+ <img src="./../images/DIU22/bd-14440.jpg" />
+</div>
+
+<br>
+
+- Do you think Arnold just keeps endlessly dripping blood from that wound? Is that *ghost* blood?:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-14600.jpg" />
+ <img src="./../images/DIU22/bd-14600.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-14640.jpg" />
+ <img src="./../images/DIU22/bd-14640.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-15230.jpg" />
+ <img src="./../images/DIU22/bd-15230.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-15820.jpg" />
+ <img src="./../images/DIU22/bd-15820.jpg" />
+</div>
+
+<br>
+
+- Reimi has been retouched in this shot, and that weird line on Arnold's forehead has been removed:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-15995.jpg" />
+ <img src="./../images/DIU22/bd-15995.jpg" />
+</div>
+
+<br>
+
+- Does ghost blood contain ghost plasma? Ghost blood cells?:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-17255.jpg" />
+ <img src="./../images/DIU22/bd-17255.jpg" />
+</div>
+
+<br>
+
+- Kira's torn button has been textured properly:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-17820.jpg" />
+ <img src="./../images/DIU22/bd-17820.jpg" />
+</div>
+
+<br>
+
+- Can ghosts get *ghost* anemia? Do ghosts have different blood types?:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-18675.jpg" />
+ <img src="./../images/DIU22/bd-18675.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-18760.jpg" />
+ <img src="./../images/DIU22/bd-18760.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-19750.jpg" />
+ <img src="./../images/DIU22/bd-19750.jpg" />
+</div>
+
+<br>
+
+- In this shot, Rohan's head has been retouched, his bag has been recoloured, Yukako has her usual rose on the shoulder of her uniform and... Well, she's been retouched as well, but... She looks worse, in my opinion:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-20200.jpg" />
+ <img src="./../images/DIU22/bd-20200.jpg" />
+</div>
+
+<br>
+
+- Kira has an extra Killer Queen skull on his tie:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-20730.jpg" />
+ <img src="./../images/DIU22/bd-20730.jpg" />
+</div>
+
+<br>
+
+- That soon-to-be dead lady's hand has been redrawn to be less fat:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-20855.jpg" />
+ <img src="./../images/DIU22/bd-20855.jpg" />
+</div>
+
+<br>
+
+- Oh, and what a lovely couple they make!:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-23030.jpg" />
+ <img src="./../images/DIU22/bd-23030.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-23165.jpg" />
+ <img src="./../images/DIU22/bd-23165.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-23420.jpg" />
+ <img src="./../images/DIU22/bd-23420.jpg" />
+</div>
+
+<br>
+
+- The neck part of Jotaro's turtleneck was mistakenly coloured yellow for a few frames; this has been fixed, and the lines are a bit thicker in this scene:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-24968.jpg" />
+ <img src="./../images/DIU22/bd-24968.jpg" />
+</div>
+
+<br>
+
+- Koichi has been scaled up in this scene so that he looks almost freakishly big, for his standards; there's also a plate on the table, near his hands:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-26680.jpg" />
+ <img src="./../images/DIU22/bd-26680.jpg" />
+</div>
+
+<br>
+
+- That very same plate was slightly moved in this shot here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-26860.jpg" />
+ <img src="./../images/DIU22/bd-26860.jpg" />
+</div>
+
+<br>
+
+- In this scene the missing green surface was restored, the plate was once again slightly moved, the box of animal biscuits now has a shadow and the cup has a thinner outline:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-27400.jpg" />
+ <img src="./../images/DIU22/bd-27400.jpg" />
+</div>
+
+<br>
+
+- Both dude and plate have been moved a bit to the right here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-28700.jpg" />
+ <img src="./../images/DIU22/bd-28700.jpg" />
+</div>
+
+<br>
+
+- That poor dude's hand has been uncensored:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU22/TV 02 - SHA.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU22/BD 02 - SHA.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- And once again here, plus the Koichi in the background has a less prominent texture overlay:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-29445.jpg" />
+ <img src="./../images/DIU22/bd-29445.jpg" />
+</div>
+
+<br>
+
+- Man, Kira loves women's hands but he really has no respect for men's, huh:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU22/TV 03 - finger.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU22/BD 03 - finger.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-29600.jpg" />
+ <img src="./../images/DIU22/bd-29600.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-29680.jpg" />
+ <img src="./../images/DIU22/bd-29680.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-29820.jpg" />
+ <img src="./../images/DIU22/bd-29820.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-29900.jpg" />
+ <img src="./../images/DIU22/bd-29900.jpg" />
+</div>
+
+<br>
+
+- Weirdly enough, I never noticed the dude's eye in the foreground when I watched the episode. Huh. Anyways, his shirt has been correctly recoloured purple in the BDs here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-30320.jpg" />
+ <img src="./../images/DIU22/bd-30320.jpg" />
+</div>
+
+<br>
+
+- In this rare photograph of Jotaro's hat-hair seen from the back, we also see that poor dude's mangled hand for one last time:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-30645.jpg" />
+ <img src="./../images/DIU22/bd-30645.jpg" />
+</div>
+
+<br>
+
+- Since the label had already been taken from Kira's jacket in a previous scene, the BDs have removed it in these three shots:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-30680.jpg" />
+ <img src="./../images/DIU22/bd-30680.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-30740.jpg" />
+ <img src="./../images/DIU22/bd-30740.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-31810.jpg" />
+ <img src="./../images/DIU22/bd-31810.jpg" />
+</div>
+
+<br>
+
+- The BDs have added that dude's missing earring:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-31885.jpg" />
+ <img src="./../images/DIU22/bd-31885.jpg" />
+</div>
+
+<br>
+
+- Jotaro's eye area has been retouched in the BDs, and he now has that weird thing under his belt. I wonder what that's for! Does he keep a tiny notebook where he writes down all the sick burns he comes up with?:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-32000.jpg" />
+ <img src="./../images/DIU22/bd-32000.jpg" />
+</div>
+
+<br>
+
+- The animation of Sheer Heart Attack exploding is brighter, but it's too short to make a video out of it and not make it come out like a seizure-inducing mess, so you'll have to make do with this frame:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-32173.jpg" />
+ <img src="./../images/DIU22/bd-32173.jpg" />
+</div>
+
+<br>
+
+- And one final credits difference! As with Diamond is Unbreakable #15, this episode too was mistakenly credited as being written by scriptwriter ヤスカワショウゴ (Yasukawa Shōgo), when it was written instead by 小林靖子 (Kobayashi Yasuko). This was fixed in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU22/tv-33815.jpg" />
+ <img src="./../images/DIU22/bd-33815.jpg" />
+</div>
+
+<br>
+
+And with that, Episode #22 is a wrap! Once again, I apologize for the long silence, but I hope to make up for it in the future with a (slow, but) steady stream of comparisons. I hope you enjoyed today's analysis nonetheless!
+
+<br>
+
+Take care, and I'll see you next time with Episode #23!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
