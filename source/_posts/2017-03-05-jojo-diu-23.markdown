@@ -3,7 +3,7 @@ layout: post
 title: "Diamond is Unbreakable #23 - Sheer Heart Attack - Part 1"
 date: 2017-03-05 21:24:10 +0000
 comments: true
-categories:
+categories: diu
 ---
 
 {% img center /images/DIU23/23-headerJP.jpg %}

@@ -3,7 +3,7 @@ layout: post
 title: "Diamond is Unbreakable #22 - Yoshikage Kira Just Wants a Quiet Life - Part 2"
 date: 2017-02-25 10:58:44 +0100
 comments: true
-categories:
+categories: diu
 ---
 
 {% img center /images/DIU22/22-headerJP.jpg %}
