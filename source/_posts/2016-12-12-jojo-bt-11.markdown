@@ -282,7 +282,7 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 
 <br>
 
-- Oh, my! What is that pesky hand doing there in the top right corner? That's not good! We gotta censor that for the TV broadcast!:
+- Oh, my! What is that pesky hand doing there in the top left corner? That's not good! We gotta censor that for the TV broadcast!:
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/BT11/tv-23370.jpg" />
