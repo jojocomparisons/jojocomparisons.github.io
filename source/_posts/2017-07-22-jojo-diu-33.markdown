@@ -1,0 +1,448 @@
+---
+layout: post
+title: "Diamond is Unbreakable #33 - July 15th (Th.) - Part 3"
+date: 2017-07-22 11:00:54 +0100
+comments: true
+categories: diu
+---
+
+{% img center /images/DIU33/33-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hey hey hey! Welcome back! You might have noticed that something was... a bit wrong with this site in the last two weeks! Well, my dear readers, the truth of the matter is that I was a bit of an idiot, and messed up the CSS layout; while trying to fix that I somehow *also* managed to create a merge conflict with my github repository, which meant that I could basically no longer commit anything to the site. Well, after two solid weeks of poking, prodding and desperation I managed (thanks to a very dear friend of mine) to restore everything to the way it was always supposed to be. Hurray! Happy days!
+
+<br>
+
+So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's head right into this week's episode, "July 15th (Th.) - Part 3"!
+
+<br>
+
+- Let's begin with basically the same difference as the last one from the last comparison. I quote: "Josuke's eyes have been retouched, you can sort of see one of the holes in his uniform, the hand gash is back again and Tomoko has been shaded a little bit better". Plus, Josuke's chin has also been slightly cleaned up:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-00205.jpg" />
+ <img src="./../images/DIU33/bd-00205.jpg" />
+</div>
+
+<br>
+
+- Here, Josuke's face shape is slightly different (and the shade on his neck has also been moved slightly down), his eye area has been retouched and the symbols on his collar are looking better:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-00420.jpg" />
+ <img src="./../images/DIU33/bd-00420.jpg" />
+</div>
+
+<br>
+
+- In this shot, Josuke's face shape is different again, his eye is looking much better, there's a shadow in his ear and the line in his neck is slightly longer:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-00545.jpg" />
+ <img src="./../images/DIU33/bd-00545.jpg" />
+</div>
+
+<br>
+
+- Let's go back to our nasty boy Rohan! Here we have a... sort of uncensored couple of frames:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-01990.jpg" />
+ <img src="./../images/DIU33/bd-01990.jpg" />
+</div>
+
+<br>
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-02065.jpg" />
+ <img src="./../images/DIU33/bd-02065.jpg" />
+</div>
+
+<br>
+
+- And again, this poor dude's back is slightly redder here, and the background has been shaded differently:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-02200.jpg" />
+ <img src="./../images/DIU33/bd-02200.jpg" />
+</div>
+
+<br>
+
+- Here, have two other uncensored frames:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-02400.jpg" />
+ <img src="./../images/DIU33/bd-02400.jpg" />
+</div>
+
+<br>
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-02660.jpg" />
+ <img src="./../images/DIU33/bd-02660.jpg" />
+</div>
+
+<br>
+
+- In this frame, they remembered to draw a couple of Rohan's shirt holes:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-02690.jpg" />
+ <img src="./../images/DIU33/bd-02690.jpg" />
+</div>
+
+<br>
+
+- ...and his collar is slightly different in a couple of frames:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-02741.jpg" />
+ <img src="./../images/DIU33/bd-02741.jpg" />
+</div>
+
+<br>
+
+- Here we have another *sort of* uncensored back, plus the shading is different on a few things. There's also the usual distortion around the edges, plus a slight blur to accompany it:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-02835.jpg" />
+ <img src="./../images/DIU33/bd-02835.jpg" />
+</div>
+
+<br>
+
+- Minako is 10 years younger here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-05790.jpg" />
+ <img src="./../images/DIU33/bd-05790.jpg" />
+</div>
+
+<br>
+
+- In this shot Cheap Trick's chin area is darker:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-06700.jpg" />
+ <img src="./../images/DIU33/bd-06700.jpg" />
+</div>
+
+<br>
+
+- And here, a couple of Rohan's shirt holes have been moved around:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-07260.jpg" />
+ <img src="./../images/DIU33/bd-07260.jpg" />
+</div>
+
+<br>
+
+- In this shot (look, I know I always start these as "In this shot" or with "Here", but I have no idea what to do to give this a bit of variety!) Cheap Trick's chin and mouth have been shaded differently, and the background is different as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-08005.jpg" />
+ <img src="./../images/DIU33/bd-08005.jpg" />
+</div>
+
+<br>
+
+- Rohan's cheekbone line and nose have been redrawn here, one of his sweat drops now has a shadow (IMPORTANT), Cheap Trick has some bits which are blacker and its eyes have been veeery slightly retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-09430.jpg" />
+ <img src="./../images/DIU33/bd-09430.jpg" />
+</div>
+
+<br>
+
+- Oh, an animation! Back to Josuke, have a brighter & sharper bit:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU33/TV 01 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU33/BD 01 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- In this very zoomed-in frame, the gash on Josuke's hand is back, and his eye has been retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-10254.jpg" />
+ <img src="./../images/DIU33/bd-10254.jpg" />
+</div>
+
+<br>
+
+- Here we have... *less* distortion, Josuke's pupil has been retouched and his collar is no longer missing half an anchor:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-10670.jpg" />
+ <img src="./../images/DIU33/bd-10670.jpg" />
+</div>
+
+<br>
+
+- In this scene, both the silhouettes and their actual faces have been retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-10800.jpg" />
+ <img src="./../images/DIU33/bd-10800.jpg" />
+</div>
+
+<br>
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-11100.jpg" />
+ <img src="./../images/DIU33/bd-11100.jpg" />
+</div>
+
+<br>
+
+- The camera has been positioned differently here (well, ok, there is no *actual* camera, but you get what I mean); Terunosuke also looks slightly less like a Yu-gi-oh character:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-11450.jpg" />
+ <img src="./../images/DIU33/bd-11450.jpg" />
+</div>
+
+<br>
+
+- Both face have been redrawn here, Josuke's hand also looks better and the zoom is different:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-12400.jpg" />
+ <img src="./../images/DIU33/bd-12400.jpg" />
+</div>
+
+<br>
+
+- This very nice shot has been slightly zoomed in:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-12500.jpg" />
+ <img src="./../images/DIU33/bd-12500.jpg" />
+</div>
+
+<br>
+
+- There's a ton of differences here, but mostly CRAZY DIAMOND! Look at that face:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-14000.jpg" />
+ <img src="./../images/DIU33/bd-14000.jpg" />
+</div>
+
+<br>
+
+- Rohan's shirt has waaay more details in the BDs, and his left hand is no longer separated from his arm by a line:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-18905.jpg" />
+ <img src="./../images/DIU33/bd-18905.jpg" />
+</div>
+
+<br>
+
+- Yuuya is more handsome here, and the S on his dumb baby tie is thinner:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-21170.jpg" />
+ <img src="./../images/DIU33/bd-21170.jpg" />
+</div>
+
+<br>
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-21220.jpg" />
+ <img src="./../images/DIU33/bd-21220.jpg" />
+</div>
+
+<br>
+
+- Here, Yuuya's eyes, and Highway Star's facial features have been rearranged a bit:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-22360.jpg" />
+ <img src="./../images/DIU33/bd-22360.jpg" />
+</div>
+
+<br>
+
+- Yuuya's face no longer shivers when he's sniffing around:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU33/TV 02 - yuuya sniffing.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU33/BD 02 - yuuya sniffing.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Again, his face has been retouched here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-23415.jpg" />
+ <img src="./../images/DIU33/bd-23415.jpg" />
+</div>
+
+<br>
+
+- The car is no longer mysteriously invisible here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-23850.jpg" />
+ <img src="./../images/DIU33/bd-23850.jpg" />
+</div>
+
+<br>
+
+- Boy, Yuuya's face has been retouched quite a bit in this episode, huh:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-24000.jpg" />
+ <img src="./../images/DIU33/bd-24000.jpg" />
+</div>
+
+<br>
+
+- This explosion is way brighter:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-26036.jpg" />
+ <img src="./../images/DIU33/bd-26036.jpg" />
+</div>
+
+<br>
+
+- Here, Yuuya has legs...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-26670.jpg" />
+ <img src="./../images/DIU33/bd-26670.jpg" />
+</div>
+
+<br>
+
+- ...and the piece of paper he's in flutters more in the BDs:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU33/TV 03 - paper flutter.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU33/BD 03 - paper flutter.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Here, Terunosuke has received a makeover in the head-neck area:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-27600.jpg" />
+ <img src="./../images/DIU33/bd-27600.jpg" />
+</div>
+
+<br>
+
+- The holes on Josuke's uniform are back again here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-27650.jpg" />
+ <img src="./../images/DIU33/bd-27650.jpg" />
+</div>
+
+<br>
+
+- Here we have a big'un! First of all, the sky is slightly differently shaded, then Terunosuke's eye has been slightly retouched, Josuke's entire face is looking better and MAH BOY KOICHI is looking even baller:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-28250.jpg" />
+ <img src="./../images/DIU33/bd-28250.jpg" />
+</div>
+
+<br>
+
+- Here, while Josuke shows us what he learned from his nephew, we can see that the shading on his left cheek is slightly different, and the bandage has been moved:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-28615.jpg" />
+ <img src="./../images/DIU33/bd-28615.jpg" />
+</div>
+
+<br>
+
+- The crew is back, and it's looking even more smug than it used to! Every face has been retouched, and Josuke's collar has also been recoloured, his anchor symbol is looking better and the clouds in the background have slightly different shading:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-29835.jpg" />
+ <img src="./../images/DIU33/bd-29835.jpg" />
+</div>
+
+<br>
+
+- Here, Josuke's nails look slightly less weird:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-30620.jpg" />
+ <img src="./../images/DIU33/bd-30620.jpg" />
+</div>
+
+<br>
+
+- In this shot, Josuke's eyes have been slightly retouched, and you can see the tiniest tip of his hand gash:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-30750.jpg" />
+ <img src="./../images/DIU33/bd-30750.jpg" />
+</div>
+
+<br>
+
+- Back to Rohan! Cheap Trick's black bits are back here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-31300.jpg" />
+ <img src="./../images/DIU33/bd-31300.jpg" />
+</div>
+
+<br>
+
+- Let's go to the credits for a last quick difference! Here, as you can see on the right, the third row from the bottom is missing the last character: 制作進行 is "Production advance" (no, I don't know what that means either), the extra 佐 at the end can mean "assistance", but I've never seen it used in credits on its own, maybe sometimes like 補佐 (*hosa* - "assistant, aid"), so I'm assuming that was just a typo:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU33/tv-33670.jpg" />
+ <img src="./../images/DIU33/bd-33670.jpg" />
+</div>
+
+<br>
+
+Aaand that's it for this week's comparison! I'm so, so glad that everything is back on track again and I can go back to posting my comparisons to this blog! I hope you had a good time reading through these differences, and I'll see you next week for the last part in the July 15th (Th.) tetralogy.
+
+<br>
+
+Bye!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
