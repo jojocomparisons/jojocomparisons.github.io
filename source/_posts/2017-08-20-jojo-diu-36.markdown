@@ -1,0 +1,499 @@
+---
+layout: post
+title: "Diamond is Unbreakable #36 - Another One Bites the Dust - Part 2"
+date: 2017-08-20 09:18:43 +0100
+comments: true
+categories: diu
+---
+
+{% img center /images/DIU36/36-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor was on the fritz and I had to look for a replacement software. Here we are, though, so let's dive right into this week's episode, "Another One Bites the Dust - Part 2"!
+
+<br>
+
+- Today's first comparison is this couple of shots in which Kira's face and hair have been retouched and reshaded:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-00600.jpg" />
+ <img src="./../images/DIU36/bd-00600.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-00740.jpg" />
+ <img src="./../images/DIU36/bd-00740.jpg" />
+</div>
+
+<br>
+
+- You vs. the son your mother tells you not to worry about:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-01650.jpg" />
+ <img src="./../images/DIU36/bd-01650.jpg" />
+</div>
+
+<br>
+
+- The clock face and numbers have been retouched again here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-02850.jpg" />
+ <img src="./../images/DIU36/bd-02850.jpg" />
+</div>
+
+<br>
+
+- Here we have a shot of Hayato with a whole bunch of differences. In random order: his book half has been re-shaded, the shade below his neck is different, the inside of his mouth is a flat colour instead of being shaded, his eyes have been re-shaded, the onomatopoeia has bigger, more jagged borders and the colour gradient on it is different. Oh, and his mouth also moves in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-03340.jpg" />
+ <img src="./../images/DIU36/bd-03340.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-03383.jpg" />
+ <img src="./../images/DIU36/bd-03383.jpg" />
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU36/TV 01 - hayato mouth.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU36/BD 01 - hayato mouth.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Hayato's mouth has been animated again here, and the shade around his mouth and eye are different:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-03490.jpg" />
+ <img src="./../images/DIU36/bd-03490.jpg" />
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU36/TV 02 - hayato mouth flap 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU36/BD 02 - hayato mouth flap 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Here, the book half of Hayato's face has way less lines on it:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-03810.jpg" />
+ <img src="./../images/DIU36/bd-03810.jpg" />
+</div>
+
+<br>
+
+- Kira's tie is darker here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-06290.jpg" />
+ <img src="./../images/DIU36/bd-06290.jpg" />
+</div>
+
+<br>
+
+- In this shot Kira's chin has been shaded properly, and the insides of his mouth are darker:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-06580.jpg" />
+ <img src="./../images/DIU36/bd-06580.jpg" />
+</div>
+
+<br>
+
+- Hayato's face has been redrawn here, and in the last couple of frames the shading on his backpack's left shoulder strap has been inverted:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-06800.jpg" />
+ <img src="./../images/DIU36/bd-06800.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-06945.jpg" />
+ <img src="./../images/DIU36/bd-06945.jpg" />
+</div>
+
+<br>
+
+- Here we have two spots which have a slightly darker shade in the BDs: one is near Hayato's nose, and the other is on the left side of Kira's head:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-07000.jpg" />
+ <img src="./../images/DIU36/bd-07000.jpg" />
+</div>
+
+<br>
+
+- And here we can see that background Kira has been shaded slightly darker as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-07165.jpg" />
+ <img src="./../images/DIU36/bd-07165.jpg" />
+</div>
+
+<br>
+
+- David pro chose to show you the scene of Rohan dying twice in the anime, so who am I to act different?:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU36/TV 03 - rohan dies again.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU36/BD 03 - rohan dies again.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Rohan has no right earring in these two shots (because it fell off during the explosion):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-08460.jpg" />
+ <img src="./../images/DIU36/bd-08460.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-08470.jpg" />
+ <img src="./../images/DIU36/bd-08470.jpg" />
+</div>
+
+<br>
+
+- Did someone order a dead dog? Did I already say this exact same thing on this blog before? We will never know:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-08530.jpg" />
+ <img src="./../images/DIU36/bd-08530.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-08605.jpg" />
+ <img src="./../images/DIU36/bd-08605.jpg" />
+</div>
+
+<br>
+
+- Rohan's earring has once again disappeared from the BDs, and when the camera pulls away his face has been very very slightly retouched as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-08635.jpg" />
+ <img src="./../images/DIU36/bd-08635.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-08702.jpg" />
+ <img src="./../images/DIU36/bd-08702.jpg" />
+</div>
+
+<br>
+
+- In this shot Hayato has a retouched face, and the BDs have removed that thing from Josuke's uniform. I like to imagine that it's a big yellow button that says HONK IF YOU LOVE MY HAIR:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-12970.jpg" />
+ <img src="./../images/DIU36/bd-12970.jpg" />
+</div>
+
+<br>
+
+- Here, Hayato has a new shade on his neck, and his waistcoat has an extra line running along its inner edges (there's probably a fancy sartorial word to refer to that, but I have no idea what it is):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-13060.jpg" />
+ <img src="./../images/DIU36/bd-13060.jpg" />
+</div>
+
+<br>
+
+- Josuke is plain looking better here, and his Pomp Has Been Enlarged:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-13285.jpg" />
+ <img src="./../images/DIU36/bd-13285.jpg" />
+</div>
+
+<br>
+
+- Hayato doesn't seem too pleased with the fact that God has cast one of His most potent tractor beams on his ass, and his name tag has also been drawn on his backpack:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-13870.jpg" />
+ <img src="./../images/DIU36/bd-13870.jpg" />
+</div>
+
+<br>
+
+- Here the BDs corrected a goof in the TV animation: in the broadcast version, Hayato's face briefly flashed during the transition to his eyes (it's a matter of a couple of frames):
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU36/TV 04 - no hayato.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU36/BD 04 - no hayato.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Hayato's face is looking slightly better here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-17000.jpg" />
+ <img src="./../images/DIU36/bd-17000.jpg" />
+</div>
+
+<br>
+
+- In these two shots here, the blanket Stray Cat's sleeping on has received a healthy amount of highlights, poor Stray Cat has its leaves back and his eyes have been retouched as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-23070.jpg" />
+ <img src="./../images/DIU36/bd-23070.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-23100.jpg" />
+ <img src="./../images/DIU36/bd-23100.jpg" />
+</div>
+
+<br>
+
+- Kira's face is looking better here, and his tie and buttons have both been retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-24105.jpg" />
+ <img src="./../images/DIU36/bd-24105.jpg" />
+</div>
+
+<br>
+
+- Kira's eyes have been retouched here, and the top of Shinobu's head has a slightly darker shade:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-25400.jpg" />
+ <img src="./../images/DIU36/bd-25400.jpg" />
+</div>
+
+<br>
+
+- For some reason in the BDs Hayato has not yet finished putting his backpack on, so his right shoulder strap is still hanging:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-26120.jpg" />
+ <img src="./../images/DIU36/bd-26120.jpg" />
+</div>
+
+<br>
+
+- Both Kira and Shinobu's faces have been retouched here, and Kira's tie is looking better as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-26285.jpg" />
+ <img src="./../images/DIU36/bd-26285.jpg" />
+</div>
+
+<br>
+
+- The right strap is, once again, no longer on Hayato's shoulder, and for some reason he's wearing A shoe now. Yes, only one. He's still wearing just a sock on his other foot. Apologies for the uninteresting frame, but it's the only one in which both differences can be seen at once:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-26295.jpg" />
+ <img src="./../images/DIU36/bd-26295.jpg" />
+</div>
+
+<br>
+
+- This scene here is more zoomed out:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-26475.jpg" />
+ <img src="./../images/DIU36/bd-26475.jpg" />
+</div>
+
+<br>
+
+- In this shot, Hayato's eyes have been moved so that he's looking more to the left, Kira is no longer holding his bag but instead has Hayato's hat (in the opposite hand):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-29000.jpg" />
+ <img src="./../images/DIU36/bd-29000.jpg" />
+</div>
+
+<br>
+
+- Rohan no longer looks 100% disgusted with everything here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-29100.jpg" />
+ <img src="./../images/DIU36/bd-29100.jpg" />
+</div>
+
+<br>
+
+- Hayato's eyes and nose have been redrawn here, Kira's face looks a bit better and Hayato's hat has swapped hands:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-29120.jpg" />
+ <img src="./../images/DIU36/bd-29120.jpg" />
+</div>
+
+<br>
+
+- Hayato's left eye is now encircled by what will become the eye hole of his book:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-29230.jpg" />
+ <img src="./../images/DIU36/bd-29230.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-29300.jpg" />
+ <img src="./../images/DIU36/bd-29300.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-31250.jpg" />
+ <img src="./../images/DIU36/bd-31250.jpg" />
+</div>
+
+<br>
+
+- Kira now opens his mouth while talking, in this bit here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-31325.jpg" />
+ <img src="./../images/DIU36/bd-31325.jpg" />
+</div>
+
+<br>
+
+- His tie, belt and mouth have also been retouched, here...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-31390.jpg" />
+ <img src="./../images/DIU36/bd-31390.jpg" />
+</div>
+
+<br>
+
+- The hole Stray Cat made has no longer disappeared in thin air:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-32075.jpg" />
+ <img src="./../images/DIU36/bd-32075.jpg" />
+</div>
+
+<br>
+
+- Here, Hayato's mouth has been closed, his eyes have been retouched and Killer Queen looks overall better:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-32602.jpg" />
+ <img src="./../images/DIU36/bd-32602.jpg" />
+</div>
+
+<br>
+
+- HE TALKS:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU36/TV 05 - talking head.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU36/BD 05 - talking head.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Here, the big shade on Kira's hand has been turned into a highlight; they also drew the hole in his suit and removed a line on the left side of his pocket:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-33060.jpg" />
+ <img src="./../images/DIU36/bd-33060.jpg" />
+</div>
+
+<br>
+
+- Here, Kira's shirt and tie have been redrawn, his neck has been shaded more and one of the lines on his eyes is a bit thicker:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU36/tv-33450.jpg" />
+ <img src="./../images/DIU36/bd-33450.jpg" />
+</div>
+
+<br>
+
+Aaand that's it for today's comparison! How was it? Short? Yeah, perhaps. But I thought the whole finale five-parter didn't need any big redrawing (apart maybe from some distance issues on Crazy Diamond is Unbreakable - Part 1). Let's hope next week's comparison is a bit more eventful!
+
+<br>
+
+See you next time!
+
+<br>
+
+Bye!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
