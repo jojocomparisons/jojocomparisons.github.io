@@ -1,0 +1,674 @@
+---
+layout: post
+title: "Diamond is Unbreakable #37 - Crazy Diamond is Unbreakable - Part 1"
+date: 2017-08-28 10:08:25 +0100
+comments: true
+categories: diu
+---
+
+{% img center /images/DIU37/37-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hey there, people, and welcome back to this blog. Today we're going to take a look at Episode #37, "Crazy Diamond is Unbreakable - Part 1"! Josuke and Kira are face to face, and the stakes are getting higher and higher! But let's not waste any more time and let's dive right into it!
+
+<br>
+
+- Let's begin this comparison with a video! Here, apart from the changes we saw in the last episode (I quote: "Here, Kira's shirt and tie have been redrawn, his neck has been shaded more and one of the lines on his eyes is a bit thicker"), we have a clock overlay, and Hayato's mouth now moves while he's talking:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU37/TV 01 - mouth flap.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU37/BD 01 - mouth flap.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- In the BD, the clock is some seconds ahead:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-00820.jpg" />
+ <img src="./../images/DIU37/bd-00820.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-00940.jpg" />
+ <img src="./../images/DIU37/bd-00940.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-01609.jpg" />
+ <img src="./../images/DIU37/bd-01609.jpg" />
+</div>
+
+<br>
+
+- And again here. Hayato's backpack has also been drawn lying on the ground next to him:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-01700.jpg" />
+ <img src="./../images/DIU37/bd-01700.jpg" />
+</div>
+
+<br>
+
+- Here, Kira's face has been retouched, Hayato's head has been turned so he's looking at his fake dad, and the backpack is back(pack):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-02600.jpg" />
+ <img src="./../images/DIU37/bd-02600.jpg" />
+</div>
+
+<br>
+
+- Here, Kira's right shirt sleeve has been striped, and that pesky backpack has been drawn once again:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-03100.jpg" />
+ <img src="./../images/DIU37/bd-03100.jpg" />
+</div>
+
+<br>
+
+- He attacc... He protecc... But most importantly... He baccpacc:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-06430.jpg" />
+ <img src="./../images/DIU37/bd-06430.jpg" />
+</div>
+
+<br>
+
+- Here Okuyasu starts further away but actually moves towards the viewer. He also ends up a bit more to the left, and the 億 kanji has been drawn on his shoulder:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU37/TV 02 - okuwalk.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU37/BD 02 - okuwalk.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-06620.jpg" />
+ <img src="./../images/DIU37/bd-06620.jpg" />
+</div>
+
+<br>
+
+- Here, the white speed lines have been aligned to the black ones, and the backpack strikes again:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-06930.jpg" />
+ <img src="./../images/DIU37/bd-06930.jpg" />
+</div>
+
+<br>
+
+- Both Kira and Hayato's faces have been retouched here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-07386.jpg" />
+ <img src="./../images/DIU37/bd-07386.jpg" />
+</div>
+
+<br>
+
+- Take a wild guess homie:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-07550.jpg" />
+ <img src="./../images/DIU37/bd-07550.jpg" />
+</div>
+
+<br>
+
+- The overlay texture is slightly different here, Kira's shirt stripes are a bit thicker and his missing right sleeve has been drawn:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-07900.jpg" />
+ <img src="./../images/DIU37/bd-07900.jpg" />
+</div>
+
+<br>
+
+- Here we have one of them brighter and sharper beatdown sequences:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU37/TV 03 - bns1.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU37/BD 03 - bns1.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Hayato's face has been retouched in this bunch of frames:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-09100.jpg" />
+ <img src="./../images/DIU37/bd-09100.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-09165.jpg" />
+ <img src="./../images/DIU37/bd-09165.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-09175.jpg" />
+ <img src="./../images/DIU37/bd-09175.jpg" />
+</div>
+
+<br>
+
+- Here, Josuke's aura has a different shape, Okuyasu's eyes have been retouched and most of the symbols on his uniform have been redrawn (or drawn in. I'm looking at you, 億):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-09580.jpg" />
+ <img src="./../images/DIU37/bd-09580.jpg" />
+</div>
+
+<br>
+
+- In this shot, Kosaku has been retouched as usual, the background is darker along the bottom of the frame, and the photo itself is... Slightly zoomed out? I mean the inside of the photo:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-09600.jpg" />
+ <img src="./../images/DIU37/bd-09600.jpg" />
+</div>
+
+<br>
+
+- David pro remembered to draw the hole in Kira's chest here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-11315.jpg" />
+ <img src="./../images/DIU37/bd-11315.jpg" />
+</div>
+
+<br>
+
+- Here, Killer Queen's face has been redrawn, Kira also looks much better and Okuyasu's face has been retouched. 億 and BILLION have also been swapped, and Killer Queen's crotch area is slightly less visible:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-11370.jpg" />
+ <img src="./../images/DIU37/bd-11370.jpg" />
+</div>
+
+<br>
+
+- In this shot, Josuke has gotten back the second heart on his collar:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-12000.jpg" />
+ <img src="./../images/DIU37/bd-12000.jpg" />
+</div>
+
+<br>
+
+- Another brighter and sharper beatdown here:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU37/TV 04 - bns2.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU37/BD 04 - bns2.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Poor (uncensored) sweet boy...
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU37/TV 05 - uncensored.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU37/BD 05 - uncensored.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- In this shot, Killer Queen's upper body has been redrawn and Kira's face has been retouched as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-14140.jpg" />
+ <img src="./../images/DIU37/bd-14140.jpg" />
+</div>
+
+<br>
+
+- Okuyasu has been (sort of) uncensored again here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-14230.jpg" />
+ <img src="./../images/DIU37/bd-14230.jpg" />
+</div>
+
+<br>
+
+- The shadow on Hayato's eyes extends up to his forehead in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-14450.jpg" />
+ <img src="./../images/DIU37/bd-14450.jpg" />
+</div>
+
+<br>
+
+- Stray Cat, Killer Queen and Kira's faces have all been retouched in this iconic frame:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-15000.jpg" />
+ <img src="./../images/DIU37/bd-15000.jpg" />
+</div>
+
+<br>
+
+- It's amazing what a few retouches can do to make a scene better. Here, Josuke, Kira, Killer Queen and Stray Cat have all been retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-15350.jpg" />
+ <img src="./../images/DIU37/bd-15350.jpg" />
+</div>
+
+<br>
+
+- Rohan has his arms crossed in this shot:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-16100.jpg" />
+ <img src="./../images/DIU37/bd-16100.jpg" />
+</div>
+
+<br>
+
+- Here we can see once again Okuyasu's uncensored-ish wound, and some stray bits off Killer Queen's aura have been removed:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-16485.jpg" />
+ <img src="./../images/DIU37/bd-16485.jpg" />
+</div>
+
+<br>
+
+- Our boy looks much better here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-16540.jpg" />
+ <img src="./../images/DIU37/bd-16540.jpg" />
+</div>
+
+<br>
+
+- Both Josuke and Hayato's faces have been retouched here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-17000.jpg" />
+ <img src="./../images/DIU37/bd-17000.jpg" />
+</div>
+
+<br>
+
+- In this shot, Kira's got a dramatic anime shade on his eyes and forehead, his tie looks much better and his jacket now has buttons; Killer Queen has also been retouched here and there:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-19100.jpg" />
+ <img src="./../images/DIU37/bd-19100.jpg" />
+</div>
+
+<br>
+
+- Here, Killer Queen and Stray Cat's heads have both been redrawn; the emblems on KQ's shoulders (and crotch?) also look better:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-19160.jpg" />
+ <img src="./../images/DIU37/bd-19160.jpg" />
+</div>
+
+<br>
+
+- And here, panning away, Hayato's eyes and nose have been retouched and... Oh god, that right hand, thank goodness:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-19225.jpg" />
+ <img src="./../images/DIU37/bd-19225.jpg" />
+</div>
+
+<br>
+
+- In these shots, Kira's face has been completely redrawn, and his tie is looking better too:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-19710.jpg" />
+ <img src="./../images/DIU37/bd-19710.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-20035.jpg" />
+ <img src="./../images/DIU37/bd-20035.jpg" />
+</div>
+
+<br>
+
+- Here, the anime shade is back on Kira's forehead; Josuke's face has also been retouched and is more bloodied, and the symbols on his uniform are also looking better:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-20096.jpg" />
+ <img src="./../images/DIU37/bd-20096.jpg" />
+</div>
+
+<br>
+
+- In this shot of Okuyasu reenacting Ophelia's death without the water, we can once again take a peek at his chewed-up sides, and we can also see BILLION on his left arm:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-20235.jpg" />
+ <img src="./../images/DIU37/bd-20235.jpg" />
+</div>
+
+<br>
+
+- And again here, plus a different shading on Okuyasu:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-20405.jpg" />
+ <img src="./../images/DIU37/bd-20405.jpg" />
+</div>
+
+<br>
+
+- The End of Evangelion (1997), Hideaki Anno:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-20640.jpg" />
+ <img src="./../images/DIU37/bd-20640.jpg" />
+</div>
+
+<br>
+
+- For some reason, Josuke's face is _less_ bloodied here, and it looks a bit worse. Okuyasu has also been uncensored and re-shaded:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-20715.jpg" />
+ <img src="./../images/DIU37/bd-20715.jpg" />
+</div>
+
+<br>
+
+- Ok, this is the first uncensored Okuyasu that's at least a little gross:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-21550.jpg" />
+ <img src="./../images/DIU37/bd-21550.jpg" />
+</div>
+
+<br>
+
+- Killer Queen's head and neck have been redrawn here; Kira's face has also been retouched, his jacket has his hole back, and Killer Queen's skull emblems are looking better:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-21780.jpg" />
+ <img src="./../images/DIU37/bd-21780.jpg" />
+</div>
+
+<br>
+
+- Another mangled Okuyasu, another missing BILLION redrawn:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-22770.jpg" />
+ <img src="./../images/DIU37/bd-22770.jpg" />
+</div>
+
+<br>
+
+- Killer Queen is looking much better here, and so is Kira's face! Ah, the hole in his jacket is also back:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-23190.jpg" />
+ <img src="./../images/DIU37/bd-23190.jpg" />
+</div>
+
+<br>
+
+- This very brief animation is actually _less_ sharp! But it works to create tension, I think:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU37/TV 06 - click.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU37/BD 06 - click.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Josuke has an aura in this scene:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-24392.jpg" />
+ <img src="./../images/DIU37/bd-24392.jpg" />
+</div>
+
+<br>
+
+- In this bit of Hayato doing the most badass thing he's ever done in the series, the camera has been moved a tiny bit, and the pavement in the background is blurrier:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-24490.jpg" />
+ <img src="./../images/DIU37/bd-24490.jpg" />
+</div>
+
+<br>
+
+- The shading is a bit less flat here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-24520.jpg" />
+ <img src="./../images/DIU37/bd-24520.jpg" />
+</div>
+
+<br>
+
+- One last uncensored Okuyasu, for the road! Oh, and the houses in the background have also been shaded slightly differently:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-24860.jpg" />
+ <img src="./../images/DIU37/bd-24860.jpg" />
+</div>
+
+<br>
+
+- Killer Queen and Stray Cat's heads have, once again, been redrawn, and all the emblems are looking better here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-26000.jpg" />
+ <img src="./../images/DIU37/bd-26000.jpg" />
+</div>
+
+<br>
+
+- There's a slight vignette around the edges of this scene, and Josuke's aura is much bigger:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-26045.jpg" />
+ <img src="./../images/DIU37/bd-26045.jpg" />
+</div>
+
+<br>
+
+- Kira's face and Killer Queen's upper body have both been retouched here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-26900.jpg" />
+ <img src="./../images/DIU37/bd-26900.jpg" />
+</div>
+
+<br>
+
+- Both Josuke and Hayato's eye areas have been retouched in this shot:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-26930.jpg" />
+ <img src="./../images/DIU37/bd-26930.jpg" />
+</div>
+
+<br>
+
+- Kira's eyebrows are darker here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-28530.jpg" />
+ <img src="./../images/DIU37/bd-28530.jpg" />
+</div>
+
+<br>
+
+- Both Kira and Killer Queen's faces have been retouched here, and Kira's tie skulls are also looking a bit better:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-29230.jpg" />
+ <img src="./../images/DIU37/bd-29230.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-29260.jpg" />
+ <img src="./../images/DIU37/bd-29260.jpg" />
+</div>
+
+<br>
+
+- Here, 億 is back on Okuyasu's shoulder, and the cross over his face has been retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-30430.jpg" />
+ <img src="./../images/DIU37/bd-30430.jpg" />
+</div>
+
+<br>
+
+- And again here, and Hayato actually moves his mouth now:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU37/TV 07 - hayatalk.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU37/BD 07 - hayatalk.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- This bit here has a slight vignette, less flat colours, a slight distortion around the edges, more light and brighter godrays:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU37/TV 08 - clouds.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU37/BD 08 - clouds.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-32080.jpg" />
+ <img src="./../images/DIU37/bd-32080.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-32150.jpg" />
+ <img src="./../images/DIU37/bd-32150.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-32166.jpg" />
+ <img src="./../images/DIU37/bd-32166.jpg" />
+</div>
+
+<br>
+
+- Let's have ourselves one last credit difference, before we put this episode to rest! Here, the last character in the third line from the bottom (テディ―, "Teddy") was changed from a ー to a ―. They might look similar, but they have different functions! The first one is just a normal dash, while the second one indicates that the last syllable's vowel needs to be elongated. It was probably just a typo:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU37/tv-32640.jpg" />
+ <img src="./../images/DIU37/bd-32640.jpg" />
+</div>
+
+<br>
+
+Aaand that's it for Episode #37! Two episodes to go... We're almost done with Diamond is Unbreakable! I almost can't believe it. Well, I hope you had fun reading this, and I'll see you next week for Episode #38, "Crazy Diamond is Unbreakable - Part 2"!
+
+<br>
+
+Bye!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
