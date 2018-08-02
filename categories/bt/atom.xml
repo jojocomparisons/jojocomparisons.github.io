@@ -4,7 +4,7 @@
   <title><![CDATA[Category: bt | JoJo's Bizarre Comparisons]]></title>
   <link href="https://jojocomparisons.github.io/categories/bt/atom.xml" rel="self"/>
   <link href="https://jojocomparisons.github.io/"/>
-  <updated>2018-08-02T23:16:03+01:00</updated>
+  <updated>2018-08-02T23:41:32+01:00</updated>
   <id>https://jojocomparisons.github.io/</id>
   <author>
     <name><![CDATA[Duwang Boi]]></name>
@@ -16,9 +16,9 @@
   <entry>
     <title type="html"><![CDATA[Battle Tendency #17 - Weave an Intricate Trap!]]></title>
     <link href="https://jojocomparisons.github.io/jojo-bt-17/"/>
-    <updated>2018-07-21T19:43:40+01:00</updated>
+    <updated>2018-08-02T23:17:40+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-bt-17</id>
-    <content type="html"><![CDATA[<p>{% img center /images/BT17/17-headerJP.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/BT17/17-headerJP.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -1200,7 +1200,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
@@ -1209,7 +1209,7 @@
     <link href="https://jojocomparisons.github.io/jojo-bt-16/"/>
     <updated>2018-07-15T14:54:13+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-bt-16</id>
-    <content type="html"><![CDATA[<p>{% img center /images/BT16/16-headerJP.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/BT16/16-headerJP.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -2120,7 +2120,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
@@ -2129,7 +2129,7 @@
     <link href="https://jojocomparisons.github.io/jojo-bt-15/"/>
     <updated>2017-02-05T11:55:05+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-bt-15</id>
-    <content type="html"><![CDATA[<p>{% img center /images/BT15/15-headerJP.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/BT15/15-headerJP.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -2937,7 +2937,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
@@ -2946,7 +2946,7 @@
     <link href="https://jojocomparisons.github.io/jojo-bt-14/"/>
     <updated>2017-01-15T13:05:04+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-bt-14</id>
-    <content type="html"><![CDATA[<p>{% img center /images/BT14/14-headerJP.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/BT14/14-headerJP.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -3633,7 +3633,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
@@ -3642,7 +3642,7 @@
     <link href="https://jojocomparisons.github.io/jojo-bt-13/"/>
     <updated>2016-12-19T22:49:07+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-bt-13</id>
-    <content type="html"><![CDATA[<p>{% img center /images/BT13/13-headerJP.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/BT13/13-headerJP.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -4477,7 +4477,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
