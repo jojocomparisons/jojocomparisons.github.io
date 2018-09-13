@@ -1,0 +1,842 @@
+---
+layout: post
+title: "Battle Tendency #20 - Caesar's Lonely Youth"
+date: 2018-09-13 23:24:00 +0100
+comments: true
+categories: bt
+---
+
+{% img center /images/BT20/20-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello, ladles and jellyspoons! Welcome back to this quaint little blog where we analyze and scrutinize and pick apart our favourite Chinese cartoon! Today we're going to take a look at Episode #20, "Caesar's Lonely Youth"! I hope you're ready for some drama.
+
+<br>
+
+Let's get going!
+
+<br>
+
+- Today's first comparison is a video of this dude getting stepped on, which is now animated in the BD version:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/TV 01 - stomach step.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/BD 01 - stomach step.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Here, this dude's face has been shaded differently:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-01300.jpg" />
+ <img src="./../images/BT20/bd-01300.jpg" />
+</div>
+
+<br>
+
+- The colouring on the same dude is looking smoother here (and a tiny teensy bit of his nose has also been retouched):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-01405.jpg" />
+ <img src="./../images/BT20/bd-01405.jpg" />
+</div>
+
+<br>
+
+- Here we have a brighter and sharper animation:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/TV 02 - brighter and sharper 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/BD 02 - brighter and sharper 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Caesar has been moved to the right by like... one pixel:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-07900.jpg" />
+ <img src="./../images/BT20/bd-07900.jpg" />
+</div>
+
+<br>
+
+- Another brighter and sharper animation here...:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/TV 03 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/BD 03 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Caesar is looking much smaller here! How cute:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-08710.jpg" />
+ <img src="./../images/BT20/bd-08710.jpg" />
+</div>
+
+<br>
+
+- In this frame, Messina's arm is uncensored, and there's more blood too:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-10235.jpg" />
+ <img src="./../images/BT20/bd-10235.jpg" />
+</div>
+
+<br>
+
+- Here, a tiny bit on Caesar's head has been properly recoloured, and the gash on his right arm is darker:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-10405.jpg" />
+ <img src="./../images/BT20/bd-10405.jpg" />
+</div>
+
+<br>
+
+- Another brighter and sharper bit... Sort of:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/TV 04 - brighter and sharper 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/BD 04 - brighter and sharper 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Caesar's face has been retouched here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-11525.jpg" />
+ <img src="./../images/BT20/bd-11525.jpg" />
+</div>
+
+<br>
+
+- Wham has been pretty much uniformly retouched, reshaded and recoloured here, and most lines are also thicker:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-12365.jpg" />
+ <img src="./../images/BT20/bd-12365.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-12410.jpg" />
+ <img src="./../images/BT20/bd-12410.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-12420.jpg" />
+ <img src="./../images/BT20/bd-12420.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-12450.jpg" />
+ <img src="./../images/BT20/bd-12450.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-12480.jpg" />
+ <img src="./../images/BT20/bd-12480.jpg" />
+</div>
+
+<br>
+
+- The same differences apply here, and this transition is also way sharper:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/TV 05 - sharper 4.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/BD 05 - sharper 4.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- And another one here...:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/TV 06 - brighter and sharper 5.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/BD 06 - brighter and sharper 5.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- The tracks in the snow have been reshaded:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-12845.jpg" />
+ <img src="./../images/BT20/bd-12845.jpg" />
+</div>
+
+<br>
+
+- A bunch of things have been reshaped, retouched, recoloured, reshaded, and several other words that start with "re":
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-13143.jpg" />
+ <img src="./../images/BT20/bd-13143.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-13145.jpg" />
+ <img src="./../images/BT20/bd-13145.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-13168.jpg" />
+ <img src="./../images/BT20/bd-13168.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-13170.jpg" />
+ <img src="./../images/BT20/bd-13170.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-13172.jpg" />
+ <img src="./../images/BT20/bd-13172.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-13175.jpg" />
+ <img src="./../images/BT20/bd-13175.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-13179.jpg" />
+ <img src="./../images/BT20/bd-13179.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-13185.jpg" />
+ <img src="./../images/BT20/bd-13185.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-13188.jpg" />
+ <img src="./../images/BT20/bd-13188.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-13189.jpg" />
+ <img src="./../images/BT20/bd-13189.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-13191.jpg" />
+ <img src="./../images/BT20/bd-13191.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-13195.jpg" />
+ <img src="./../images/BT20/bd-13195.jpg" />
+</div>
+
+<br>
+
+- Whew! That was a long series of frames. Alright, let's move on! Here's a brigher bit...:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/TV 07 - brighter 6.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/BD 07 - brighter 6.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- And another brighter and sharper animation...:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/TV 08 - brighter and sharper 7.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/BD 08 - brighter and sharper 7.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Aaand another one here:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/TV 09 - brighter and sharper 8.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/BD 09 - brighter and sharper 8.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Here, Caesar's eyes have been retouched, and now he's casting a shadow on the snow:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-14820.jpg" />
+ <img src="./../images/BT20/bd-14820.jpg" />
+</div>
+
+<br>
+
+- And here, Caesar has once again been made way smaller, via the size of his shadow:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-15365.jpg" />
+ <img src="./../images/BT20/bd-15365.jpg" />
+</div>
+
+<br>
+
+- The back part of Caesar's jacket has been recoloured here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-16110.jpg" />
+ <img src="./../images/BT20/bd-16110.jpg" />
+</div>
+
+<br>
+
+- Messina's arm has been uncensored once again here, and the bottom scrolling text is no longer present (as is generally the case in all BDs):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-16745.jpg" />
+ <img src="./../images/BT20/bd-16745.jpg" />
+</div>
+
+<br>
+
+- Oh man, I just adore when frames get *completely* redrawn! Look at this:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-16750.jpg" />
+ <img src="./../images/BT20/bd-16750.jpg" />
+</div>
+
+<br>
+
+- Alright, I'm not going to claim I know what that thing was in the TV version, that pink and brown thing on the right, but they removed it in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-17065.jpg" />
+ <img src="./../images/BT20/bd-17065.jpg" />
+</div>
+
+<br>
+
+- The camera is more zoomed out here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-17740.jpg" />
+ <img src="./../images/BT20/bd-17740.jpg" />
+</div>
+
+<br>
+
+- In this beautiful bit, the highlights are whiter and the dark parts are blacker, resulting in an even more dramatic scene:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-18860.jpg" />
+ <img src="./../images/BT20/bd-18860.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-18935.jpg" />
+ <img src="./../images/BT20/bd-18935.jpg" />
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/TV 10 - disco dancing.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/BD 10 - disco dancing.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- And here, the lights are way less bright at first, but then they get waay brighter and blurrier:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-19555.jpg" />
+ <img src="./../images/BT20/bd-19555.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-19625.jpg" />
+ <img src="./../images/BT20/bd-19625.jpg" />
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/TV 11 - disco dancing 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/BD 11 - disco dancing 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Here, the distortion from Wham's Divine Sandstorm is stronger:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-20028.jpg" />
+ <img src="./../images/BT20/bd-20028.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-20034.jpg" />
+ <img src="./../images/BT20/bd-20034.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-20040.jpg" />
+ <img src="./../images/BT20/bd-20040.jpg" />
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/TV 12 - stronger distortion.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/BD 12 - stronger distortion.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Both Joseph and Lisa Lisa have been moved in this shot:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-20360.jpg" />
+ <img src="./../images/BT20/bd-20360.jpg" />
+</div>
+
+<br>
+
+- The shading on Wham is less dramatic here, the scratch texture overlay is a little weaker, and the two wounds on his chest no longer glow with a mysterious, overworldly glow:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-20805.jpg" />
+ <img src="./../images/BT20/bd-20805.jpg" />
+</div>
+
+<br>
+
+- Here, have a bunch of different lines and shades:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-22010.jpg" />
+ <img src="./../images/BT20/bd-22010.jpg" />
+</div>
+
+<br>
+
+- Here, Wham's arms have been retouched, the lava in his wounds is different and the steam coming off from his body has also been redrawn:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-22575.jpg" />
+ <img src="./../images/BT20/bd-22575.jpg" />
+</div>
+
+<br>
+
+- And here, pretty much everything has been very subtly retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-23280.jpg" />
+ <img src="./../images/BT20/bd-23280.jpg" />
+</div>
+
+<br>
+
+- Wham has an extra armband/strap thingie in this part here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-23285.jpg" />
+ <img src="./../images/BT20/bd-23285.jpg" />
+</div>
+
+<br>
+
+- And here, a small bit on his nose has been retouched, his eyes have been shaded a little bit better, and the horn hole... thing he's got on his forehead no longer has an outer edge:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-23760.jpg" />
+ <img src="./../images/BT20/bd-23760.jpg" />
+</div>
+
+<br>
+
+- In this flashback scene, everything is a little brighter and sharper, old man Zeppeli's body is uncensored and the texture on the onomatopoeia is also a little different:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-23980.jpg" />
+ <img src="./../images/BT20/bd-23980.jpg" />
+</div>
+
+<br>
+
+- The background here has a little more contrast in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-24150.jpg" />
+ <img src="./../images/BT20/bd-24150.jpg" />
+</div>
+
+<br>
+
+- And again here, plus a softer texture on Caesar...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-24290.jpg" />
+ <img src="./../images/BT20/bd-24290.jpg" />
+</div>
+
+<br>
+
+- And, when he looks up, the background is less stylized:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-24420.jpg" />
+ <img src="./../images/BT20/bd-24420.jpg" />
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/TV 13 - less stylized bg.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/BD 13 - less stylized bg.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Caesar's upper lip has been shaded here...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-24605.jpg" />
+ <img src="./../images/BT20/bd-24605.jpg" />
+</div>
+
+<br>
+
+- The colours on Joseph are softer here, and Lisa Lisa has been redrawn:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-25130.jpg" />
+ <img src="./../images/BT20/bd-25130.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-25285.jpg" />
+ <img src="./../images/BT20/bd-25285.jpg" />
+</div>
+
+<br>
+
+- The camera is more zoomed out here, Wham has been retouched and reshaded in several places, his eyes are now glinting with the spark of life, the background is different, the two wounds have been added back to his chest and the spike on his left shoulder is now correctly over the shawl and no longer behind it:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-25660.jpg" />
+ <img src="./../images/BT20/bd-25660.jpg" />
+</div>
+
+<br>
+
+- Here, the shading on one of Wham's little braid thingies is slightly different, and the border of his shawl has been drawn in behind the very same little braid thingie:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-26515.jpg" />
+ <img src="./../images/BT20/bd-26515.jpg" />
+</div>
+
+<br>
+
+- Joseph and Lisa Lisa are both a little taller and have been retouched, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-27335.jpg" />
+ <img src="./../images/BT20/bd-27335.jpg" />
+</div>
+
+<br>
+
+- Joseph now has his top teeth back:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-27605.jpg" />
+ <img src="./../images/BT20/bd-27605.jpg" />
+</div>
+
+<br>
+
+- This scene is brighter, sharper and has better colours:- 
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-27790.jpg" />
+ <img src="./../images/BT20/bd-27790.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-27820.jpg" />
+ <img src="./../images/BT20/bd-27820.jpg" />
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/TV 14 - brighter and sharper 9.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/BD 14 - brighter and sharper 9.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- In this scene, the camera has been moved a little and both characters have been retouched pretty intensively:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-28315.jpg" />
+ <img src="./../images/BT20/bd-28315.jpg" />
+</div>
+
+<br>
+
+- And Joseph's eyes tremble as well:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/TV 15 - trembling eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT20/BD 15 - trembling eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- And, from here on, there will be no credits, since the BD adds a separate ending section:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-28650.jpg" />
+ <img src="./../images/BT20/bd-28650.jpg" />
+</div>
+
+<br>
+
+- Lisa Lisa has been redrawn here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-29105.jpg" />
+ <img src="./../images/BT20/bd-29105.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-29692.jpg" />
+ <img src="./../images/BT20/bd-29692.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-29695.jpg" />
+ <img src="./../images/BT20/bd-29695.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-29700.jpg" />
+ <img src="./../images/BT20/bd-29700.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-29800.jpg" />
+ <img src="./../images/BT20/bd-29800.jpg" />
+</div>
+
+<br>
+
+- And Joseph has been moved a little bit to the right here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-30085.jpg" />
+ <img src="./../images/BT20/bd-30085.jpg" />
+</div>
+
+<br>
+
+- Caesar's blood has been moved too, here... What a sad ending to today's comparison:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT20/tv-32020.jpg" />
+ <img src="./../images/BT20/bd-32020.jpg" />
+</div>
+
+<br>
+
+Alright, that was it for today! There wasn't anything too major this time around, but what can you do? I hope you enjoyed the experience nonetheless!
+
+<br>
+
+Catch you next time for Episode #21, "The 2 vs. 100 Strategy"!
+
+<br>
+
+Bye!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
