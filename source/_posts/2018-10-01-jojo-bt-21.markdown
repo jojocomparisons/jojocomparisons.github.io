@@ -1,0 +1,680 @@
+---
+layout: post
+title: "Battle Tendency #21 - The 2 vs. 100 Strategy"
+date: 2018-10-01 23:04:58 +0100
+comments: true
+categories: bt
+---
+
+{% img center /images/BT21/21-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello hello, lovely people! Welcome to yet another (slightly late) comparison! I hope you've had a good two-weeks-and-something in the meantime, and I trust you're ready to plunge into episode #21, "The 2 vs. 100 Strategy", or "the one where not much happens at all"!
+
+<br>
+
+Let's get this party started!
+
+<br>
+
+- For today's exhibit A, feast your peepers on this here frame, in which we can see that Lisa Lisa's face has been redrawn, and Joseph's cheek lines and eyes are have also been retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-02850.jpg" />
+ <img src="./../images/BT21/bd-02850.jpg" />
+</div>
+
+<br>
+
+- Here, the shading on Joseph's left shoulder has been retouched, and the background (hand included!) is more zoomed in:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-03950.jpg" />
+ <img src="./../images/BT21/bd-03950.jpg" />
+</div>
+
+<br>
+
+- Aaah, take a long look! Take a hard whiff! Can you feel it? Everything has been redrawn here... How majestic:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-04040.jpg" />
+ <img src="./../images/BT21/bd-04040.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-04080.jpg" />
+ <img src="./../images/BT21/bd-04080.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-04165.jpg" />
+ <img src="./../images/BT21/bd-04165.jpg" />
+</div>
+
+<br>
+
+- Here, Lisa Lisa has been completely redrawn and... "Wired Beck" (yes, I had to google that) has been shaded differently:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-05735.jpg" />
+ <img src="./../images/BT21/bd-05735.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-06000.jpg" />
+ <img src="./../images/BT21/bd-06000.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-06215.jpg" />
+ <img src="./../images/BT21/bd-06215.jpg" />
+</div>
+
+<br>
+
+- And, at the very end of this bit, she no longer turns around to face him:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT21/TV 01 - wired beck.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT21/BD 01 - wired beck.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Here, Lisa Lisa has been very heavily retouched, and the scratch texture overlay is much less visible. I hope you like to look at redrawn frames of Lisa Lisa, because hoo boy, you're about to see a handful:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-06245.jpg" />
+ <img src="./../images/BT21/bd-06245.jpg" />
+</div>
+
+<br>
+
+- Later on in the same scene, when... "Wired Beck" shows up on the left part of the screen, his forehead is significantly darker:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-06349.jpg" />
+ <img src="./../images/BT21/bd-06349.jpg" />
+</div>
+
+<br>
+
+- Here, Joseph's face slides to the right waaay more slowly:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT21/TV 02 - joseph slide.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT21/BD 02 - joseph slide.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- "Wired Beck" here has a new scratch texture overlay:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-06740.jpg" />
+ <img src="./../images/BT21/bd-06740.jpg" />
+</div>
+
+<br>
+
+- Lisa Lisa is back at it once again:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-06896.jpg" />
+ <img src="./../images/BT21/bd-06896.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-06929.jpg" />
+ <img src="./../images/BT21/bd-06929.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-06956.jpg" />
+ <img src="./../images/BT21/bd-06956.jpg" />
+</div>
+
+<br>
+
+- Here, "Wired Beck"'s left shoulder has been retouched...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-07665.jpg" />
+ <img src="./../images/BT21/bd-07665.jpg" />
+</div>
+
+<br>
+
+- And here, he's got an extra thorn on his forehead, his upper lip is darker and a bunch of lines between his pecs have been retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-07675.jpg" />
+ <img src="./../images/BT21/bd-07675.jpg" />
+</div>
+
+<br>
+
+- The shading on Lisa Lisa is a little flatter here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-09115.jpg" />
+ <img src="./../images/BT21/bd-09115.jpg" />
+</div>
+
+<br>
+
+- And here, the foreground is shaded a little differently, and Lisa Lisa has been redrawn in the background:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-09715.jpg" />
+ <img src="./../images/BT21/bd-09715.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-09895.jpg" />
+ <img src="./../images/BT21/bd-09895.jpg" />
+</div>
+
+<br>
+
+- Here, Lisa Lisa's neck has been properly shaded, and her shades correctly cast a shadow on her face (you'll start to notice this coming up a few more times in today's comparison):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-10805.jpg" />
+ <img src="./../images/BT21/bd-10805.jpg" />
+</div>
+
+<br>
+
+- ...one such example coming right up! In addition to the added shades shade (ho ho), the shading on both is slightly different here, a few lines on Lisa Lisa's side are a little thicker and the scratch texture overlay is lighter:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-10835.jpg" />
+ <img src="./../images/BT21/bd-10835.jpg" />
+</div>
+
+<br>
+
+- The steps in this scene are completely different and make more sense:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-11290.jpg" />
+ <img src="./../images/BT21/bd-11290.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-11420.jpg" />
+ <img src="./../images/BT21/bd-11420.jpg" />
+</div>
+
+<br>
+
+- Here, the colours on Joseph are a little flatter, and Lisa Lisa's head has been redrawn once again:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-13600.jpg" />
+ <img src="./../images/BT21/bd-13600.jpg" />
+</div>
+
+<br>
+
+- The colours on Joseph are again a little flatter, and Kars has been retouched too:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-15186.jpg" />
+ <img src="./../images/BT21/bd-15186.jpg" />
+</div>
+
+<br>
+
+- Here, a bunch of lines on Wham's side of the screen are thicker, and Kars is wearing a little less make-up:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-15510.jpg" />
+ <img src="./../images/BT21/bd-15510.jpg" />
+</div>
+
+<br>
+
+- Both Lisa Lisa and the Super Aja stone have been retouched here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-16655.jpg" />
+ <img src="./../images/BT21/bd-16655.jpg" />
+</div>
+
+<br>
+
+- Yes! Everything is better!:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-16730.jpg" />
+ <img src="./../images/BT21/bd-16730.jpg" />
+</div>
+
+<br>
+
+- Lisa Lisa again here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-16985.jpg" />
+ <img src="./../images/BT21/bd-16985.jpg" />
+</div>
+
+<br>
+
+- The shades shade now make actual sense...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-17000.jpg" />
+ <img src="./../images/BT21/bd-17000.jpg" />
+</div>
+
+<br>
+
+- And here, the scratch texture overlay is lighter in some areas, Kars' pupil is slightly bigger and brighter, he's wearing less make-up, a line on Wham's nose is thicker and one of his eyes is brighter:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-17145.jpg" />
+ <img src="./../images/BT21/bd-17145.jpg" />
+</div>
+
+<br>
+
+- The shadow again:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-20330.jpg" />
+ <img src="./../images/BT21/bd-20330.jpg" />
+</div>
+
+<br>
+
+- Joseph is shorter, buffer and significantly redrawn here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-20600.jpg" />
+ <img src="./../images/BT21/bd-20600.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-20610.jpg" />
+ <img src="./../images/BT21/bd-20610.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-20625.jpg" />
+ <img src="./../images/BT21/bd-20625.jpg" />
+</div>
+
+<br>
+
+- Joseph's been redrawn again, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-21575.jpg" />
+ <img src="./../images/BT21/bd-21575.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-21615.jpg" />
+ <img src="./../images/BT21/bd-21615.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-21740.jpg" />
+ <img src="./../images/BT21/bd-21740.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-21785.jpg" />
+ <img src="./../images/BT21/bd-21785.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-22690.jpg" />
+ <img src="./../images/BT21/bd-22690.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-22920.jpg" />
+ <img src="./../images/BT21/bd-22920.jpg" />
+</div>
+
+<br>
+
+- Everything has been moved! Everything has been redrawn! The lines are thinner!:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-23640.jpg" />
+ <img src="./../images/BT21/bd-23640.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-23690.jpg" />
+ <img src="./../images/BT21/bd-23690.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-23710.jpg" />
+ <img src="./../images/BT21/bd-23710.jpg" />
+</div>
+
+<br>
+
+- Joseph's nose tip and mouth have migrated south by a little bit, and his cheek line is also longer here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-23745.jpg" />
+ <img src="./../images/BT21/bd-23745.jpg" />
+</div>
+
+<br>
+
+- Another Lisa Lisa redraw for your expert eyes, kind ladies and sirs:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-23790.jpg" />
+ <img src="./../images/BT21/bd-23790.jpg" />
+</div>
+
+<br>
+
+- The colours are looking a little brighter here...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-23920.jpg" />
+ <img src="./../images/BT21/bd-23920.jpg" />
+</div>
+
+<br>
+
+- Lisa Lisa has been redrawn here too, and she's taller to boot:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-24365.jpg" />
+ <img src="./../images/BT21/bd-24365.jpg" />
+</div>
+
+<br>
+
+- Here, the camera has been moved up a little bit, both hands have been recoloured and reshaded, and the Super Aja stone has also been retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-24400.jpg" />
+ <img src="./../images/BT21/bd-24400.jpg" />
+</div>
+
+<br>
+
+- And the book/picture album actually pushes Lisa Lisa's hand closed, in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-24480.jpg" />
+ <img src="./../images/BT21/bd-24480.jpg" />
+</div>
+
+<br>
+
+- Lisa Lisa has been redrawn prettier and taller here once again:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-24535.jpg" />
+ <img src="./../images/BT21/bd-24535.jpg" />
+</div>
+
+<br>
+
+- Joseph's forehead shadow is darker here, and his hair has a more interesting shading going on:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-24815.jpg" />
+ <img src="./../images/BT21/bd-24815.jpg" />
+</div>
+
+<br>
+
+- Have some more Lisa Lisa, who is now... Holding the book in a very strange manner (from the second frame on):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-24820.jpg" />
+ <img src="./../images/BT21/bd-24820.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-24850.jpg" />
+ <img src="./../images/BT21/bd-24850.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-24880.jpg" />
+ <img src="./../images/BT21/bd-24880.jpg" />
+</div>
+
+<br>
+
+- HAVE SOME MORE LISA LISA I SAID:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-26321.jpg" />
+ <img src="./../images/BT21/bd-26321.jpg" />
+</div>
+
+<br>
+
+- This fire is a little brighter...:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT21/TV 03 - brighter fire.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/BT21/BD 03 - brighter fire.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- ...While this one is completely different:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-26720.jpg" />
+ <img src="./../images/BT21/bd-26720.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-26825.jpg" />
+ <img src="./../images/BT21/bd-26825.jpg" />
+</div>
+
+<br>
+
+- Both Lisa Lisa and Joseph have been retouched here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-27770.jpg" />
+ <img src="./../images/BT21/bd-27770.jpg" />
+</div>
+
+<br>
+
+- L I S A L I S A:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-28050.jpg" />
+ <img src="./../images/BT21/bd-28050.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-28405.jpg" />
+ <img src="./../images/BT21/bd-28405.jpg" />
+</div>
+
+<br>
+
+- And another wildly redrawn scene! I love these:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-28530.jpg" />
+ <img src="./../images/BT21/bd-28530.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-28650.jpg" />
+ <img src="./../images/BT21/bd-28650.jpg" />
+</div>
+
+<br>
+
+- And again here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-30035.jpg" />
+ <img src="./../images/BT21/bd-30035.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-30215.jpg" />
+ <img src="./../images/BT21/bd-30215.jpg" />
+</div>
+
+<br>
+
+- Kars has been redrawn here, and when Wham shows up, there's a slightly darker shading at the bottom of the frame:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-30260.jpg" />
+ <img src="./../images/BT21/bd-30260.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-30265.jpg" />
+ <img src="./../images/BT21/bd-30265.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-30276.jpg" />
+ <img src="./../images/BT21/bd-30276.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-30347.jpg" />
+ <img src="./../images/BT21/bd-30347.jpg" />
+</div>
+
+<br>
+
+- Here all the fires are different, all the vampires have better colours and there's more of a distortion around the edges of the frame:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-30425.jpg" />
+ <img src="./../images/BT21/bd-30425.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-30480.jpg" />
+ <img src="./../images/BT21/bd-30480.jpg" />
+</div>
+
+<br>
+
+- And, for today's last difference, the credits have been removed to this episode too, because... You guessed it! The BDs have added the regular ending at the end of the episode:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT21/tv-30535.jpg" />
+ <img src="./../images/BT21/bd-30535.jpg" />
+</div>
+
+<br>
+
+Whew! And with that, today's comparison comes to a close. Thank you all for taking some time out of your days to visit this silly blog! I hope you enjoyed it, and I'll see you all next time for the first part of the showdown against Wham, Battle Tendency #22 - A True Warrior!
+
+<br>
+
+Bye!
+
+<br>
+
+P.S.: IT'S ALMOST VENTO AUREO DAY BOIS
+
+<br>
+
+{% img center /images/tobecontinued.png %}
