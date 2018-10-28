@@ -95,7 +95,371 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 
 <br>
 
-- In this shot, Jotaro is no longer holding a blank piece of paper and the book on the table has a proper cover:
+- Alright, so! This is this site's first BIG EDIT: when I first wrote this post, I dismissed all the differences in the opening because, at the time, it was well known that the version that aired on TV was half-finished, and most things were changed by episode #28, but I no longer think that's an acceptable thing to do! So, here you go, here's a detailed comparison of the opening as well! For the first different thing, you can see that the writing in the center has been moved down a little bit:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-01350.jpg" />
+ <img src="./../images/DIU27/bd-01350.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-01375.jpg" />
+ <img src="./../images/DIU27/bd-01375.jpg" />
+</div>
+
+<br>
+
+- Kosaku's jacket has also been retouched in a couple of frames, and if you move the separator left and right very quickly it looks like he's subtly dancing a very polite boogie:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-01420.jpg" />
+ <img src="./../images/DIU27/bd-01420.jpg" />
+</div>
+
+<br>
+
+- Here, Kosaku's more distant from the camera, and _everybody else_ in the background has also been moved around (Koichi's particularly humorous):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-01505.jpg" />
+ <img src="./../images/DIU27/bd-01505.jpg" />
+</div>
+
+<br>
+
+- Here, the justice sun-clock thingy in the background has a much softer lighting, the sky in the background is black instead of blue, the sea is also looking different, Josuke's silhouettes now have a reflection and have also been moved up (as has been the camera itself, although by much less):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-01570.jpg" />
+ <img src="./../images/DIU27/bd-01570.jpg" />
+</div>
+
+<br>
+
+- As you can see here, the background continues to be darker and there's an additional... "gritty" texture overlay here and there:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-01670.jpg" />
+ <img src="./../images/DIU27/bd-01670.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-01780.jpg" />
+ <img src="./../images/DIU27/bd-01780.jpg" />
+</div>
+
+<br>
+
+- The camera also moves differently towards the end (this is the final frame of the sequence):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-01825.jpg" />
+ <img src="./../images/DIU27/bd-01825.jpg" />
+</div>
+
+<br>
+
+- The distortion in this sequence is way way different, there's a slightly dark vignette around the edges, the banister to the right has been redrawn, the door has a different shading and a different knob too:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-01826.jpg" />
+ <img src="./../images/DIU27/bd-01826.jpg" />
+</div>
+
+<br>
+
+- Rohan has also been redrawn:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-01850.jpg" />
+ <img src="./../images/DIU27/bd-01850.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-01860.jpg" />
+ <img src="./../images/DIU27/bd-01860.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-01870.jpg" />
+ <img src="./../images/DIU27/bd-01870.jpg" />
+</div>
+
+<br>
+
+- In the TV version of this bit here, the chair was sort of... vibrating:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU27/TV 05 - vibrating chair.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU27/BD 05 - vibrating chair.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- And in addition to that, this frame where half of the chair mysteriously vanished in thin air (taking with it the banister too) has also been fixed:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-01943.jpg" />
+ <img src="./../images/DIU27/bd-01943.jpg" />
+</div>
+
+<br>
+
+- The sun is inverted in this bit here, and the camera is also a little different:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-01975.jpg" />
+ <img src="./../images/DIU27/bd-01975.jpg" />
+</div>
+
+<br>
+
+- The definitive version of the opening also has a fade transition between this sequence and the following one, instead of just cutting to it:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU27/TV 11 - fade transition.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU27/BD 11 - fade transition.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Both Shinobu and the background have slightly different colours here, and the red on the credits is not as vibrant:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-02090.jpg" />
+ <img src="./../images/DIU27/bd-02090.jpg" />
+</div>
+
+<br>
+
+- The bit where Shinobu splits into multiple copies is different:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU27/TV 06 - shinobu split.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU27/BD 06 - shinobu split.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Apart from all the Kosakus and Shinobus being lit differently and the credits being at different stages of fade-in, you'll see how all the Kosaku's left shoulders are no longer see-through but are instead completely absent:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-02167.jpg" />
+ <img src="./../images/DIU27/bd-02167.jpg" />
+</div>
+
+<br>
+
+- Here, all the green bits at the left of the credits have been moved down a little bit, and the names of the two singers (青木カレン - Aoki Karen and ハセガワダイスケ - Hasegawa Daisuke) are more compact:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-02190.jpg" />
+ <img src="./../images/DIU27/bd-02190.jpg" />
+</div>
+
+<br>
+
+- As you can see from this frame, some of the floating Kawajiris fade in more slowly in the BD version, and the credits are also a little different. The right side of the credits has been properly aligned to the right and, in addition to that, Action Animation Director 三室健太 (Mimuro Kenta) has been added on the left side and 小谷聖悟 (Kotani Seigo) has been added to the right, under the Motion Graphics section:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-02305.jpg" />
+ <img src="./../images/DIU27/bd-02305.jpg" />
+</div>
+
+<br>
+
+- In this section of the opening, the background is looking very different (more filters, that same "gritty" overlay on most things), and in addition to that the camera is different and there are no Rohan and Yukako silhouettes...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-02425.jpg" />
+ <img src="./../images/DIU27/bd-02425.jpg" />
+</div>
+
+<br>
+
+- ...that's because the animation itself is completely different! Check it out:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU27/TV 07 - GYAAN!.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU27/BD 07 - GYAAN!.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Compare the last frame of the previous animation for a quick look at how completely different it all is:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-02500.jpg" />
+ <img src="./../images/DIU27/bd-02500.jpg" />
+</div>
+
+<br>
+
+- This bit is also completely different:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU27/TV 08 - ZGYUN.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU27/BD 08 - ZGYUN.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Here, have a couple of frames from the previous bit, just to take a closer look at the differences (I personally think that the first TV frame was very, very cool):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-02525.jpg" />
+ <img src="./../images/DIU27/bd-02525.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-02556.jpg" />
+ <img src="./../images/DIU27/bd-02556.jpg" />
+</div>
+
+<br>
+
+- The background has been slightly moved, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-02620.jpg" />
+ <img src="./../images/DIU27/bd-02620.jpg" />
+</div>
+
+<br>
+
+- The Morioh logo's colours are more vibrant, and the background (when visible) is less dark here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-02625.jpg" />
+ <img src="./../images/DIU27/bd-02625.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-02660.jpg" />
+ <img src="./../images/DIU27/bd-02660.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-02700.jpg" />
+ <img src="./../images/DIU27/bd-02700.jpg" />
+</div>
+
+<br>
+
+- Here, most colours are different and everything just looks... Better:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-02777.jpg" />
+ <img src="./../images/DIU27/bd-02777.jpg" />
+</div>
+
+<br>
+
+- Here, the camera is a little more zoomed in, and the numbers now have properly cut-out holes:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-02827.jpg" />
+ <img src="./../images/DIU27/bd-02827.jpg" />
+</div>
+
+<br>
+
+- Well... Everything is different, at the end! The temporary TV version re-used some bits from episode #25, while the BD version has newly drawn sequences:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU27/TV 09 - all new 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU27/BD 09 - all new 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU27/TV 10 - all new 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/DIU27/BD 10 - all new 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- And, in this final shot, most faces have been retouched, and a bunch of clothes have received the same treatment! In addition to that, the bottom line of the credits is now a little bigger and has the same pink aura as the one above it, and if you look at the right, just behind Tonio, you'll see that there is a new stand there! But... I'm not 100% sure who that is supposed to be! Is it Earth, Wind & Water? Yuuya? Highway Star? Let me know, because I've squinted at this frame for at least five minutes without really getting it:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/DIU27/tv-03174.jpg" />
+ <img src="./../images/DIU27/bd-03174.jpg" />
+</div>
+
+<br>
+
+- Whew! Let's go back to the main episode! In this shot, Jotaro is no longer holding a blank piece of paper and the book on the table has a proper cover:
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/DIU27/tv-03660.jpg" />
