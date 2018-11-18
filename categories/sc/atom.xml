@@ -18,7 +18,7 @@
     <link href="https://jojocomparisons.github.io/jojo-sc-04/"/>
     <updated>2018-11-18T17:32:15+00:00</updated>
     <id>https://jojocomparisons.github.io/jojo-sc-04</id>
-    <content type="html"><![CDATA[<p>{% img center /images/SC04/04-headerJP.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/SC04/04-headerJP.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -460,7 +460,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
@@ -469,7 +469,7 @@
     <link href="https://jojocomparisons.github.io/jojo-sc-03/"/>
     <updated>2018-11-10T19:18:07+00:00</updated>
     <id>https://jojocomparisons.github.io/jojo-sc-03</id>
-    <content type="html"><![CDATA[<p>{% img center /images/SC03/03-headerJP.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/SC03/03-headerJP.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -605,7 +605,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
@@ -614,7 +614,7 @@
     <link href="https://jojocomparisons.github.io/jojo-sc-02/"/>
     <updated>2018-11-03T20:34:17+00:00</updated>
     <id>https://jojocomparisons.github.io/jojo-sc-02</id>
-    <content type="html"><![CDATA[<p>{% img center /images/SC02/02-headerJP.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/SC02/02-headerJP.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -797,7 +797,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
@@ -806,7 +806,7 @@
     <link href="https://jojocomparisons.github.io/jojo-sc-01/"/>
     <updated>2018-10-28T18:08:27+00:00</updated>
     <id>https://jojocomparisons.github.io/jojo-sc-01</id>
-    <content type="html"><![CDATA[<p>{% img center /images/SC01/01-headerJP.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/SC01/01-headerJP.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -1160,7 +1160,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   

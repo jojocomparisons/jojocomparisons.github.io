@@ -18,7 +18,7 @@
     <link href="https://jojocomparisons.github.io/how-is-a-comparison-born/"/>
     <updated>2017-01-04T18:42:57+01:00</updated>
     <id>https://jojocomparisons.github.io/how-is-a-comparison-born</id>
-    <content type="html"><![CDATA[<p>{% img center /images/HOWTO/header.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/HOWTO/header.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -97,7 +97,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/HOWTO/01.png %}</p>
+<p><img class="center" src="/images/HOWTO/01.png"></p>
 <div align="center"><em>(This is approximately how your terminal should look once you run either of the aforementioned commands)</em></div>
 
 <p><br /></p>
@@ -106,7 +106,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/HOWTO/02.png %}</p>
+<p><img class="center" src="/images/HOWTO/02.png"></p>
 <div align="center"><em>(Ignore the italian menus)</em></div>
 
 <p><br /></p>
@@ -127,7 +127,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/HOWTO/03.png %}</p>
+<p><img class="center" src="/images/HOWTO/03.png"></p>
 
 <p><br /></p>
 
@@ -243,7 +243,7 @@ pause
 
 <p><br /></p>
 
-<p>{% img center /images/HOWTO/compare-01600.jpg %}</p>
+<p><img class="center" src="/images/HOWTO/compare-01600.jpg"></p>
 
 <p><br /></p>
 
@@ -251,7 +251,7 @@ pause
 
 <p><br /></p>
 
-<p>{% img center /images/HOWTO/compare-00400.jpg %}</p>
+<p><img class="center" src="/images/HOWTO/compare-00400.jpg"></p>
 <div align="center"><em>(Obviously, not all of them will be this easy to spot)</em></div>
 
 <p><br /></p>
@@ -270,7 +270,7 @@ pause
 
 <p><br /></p>
 
-<p>{% img center /images/HOWTO/04.png %}</p>
+<p><img class="center" src="/images/HOWTO/04.png"></p>
 <div align="center"><em>(As you can see, I'm not the best at explaining things, even to myself!)</em></div>
 
 <p><br /></p>
@@ -322,7 +322,7 @@ pause
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
