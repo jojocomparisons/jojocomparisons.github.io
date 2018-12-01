@@ -1,0 +1,308 @@
+---
+layout: post
+title: "Stardust Crusaders #05 - Silver Chariot"
+date: 2018-12-01 19:24:54 +0000
+comments: true
+categories: sc
+---
+
+{% img center /images/SC05/05-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello, good people, and welcome back to this humble blog! Today we're going to take a look at Stardust Crusaders #05, "Silver Chariot"! As somebody correctly foresaw at the end of the previous comparison, today's post will contain a ton of the "brighter and sharper" scenes we all know and love, so strap in, get a pair of sunglasses and, just in case, be aware of that fact if you suffer from some kind of epilepsy!
+
+<br>
+
+Alright, let's begin...
+
+<br>
+
+- Let's start the post with four little brighter and sharper animations! Here you go:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/TV 01 - bs1.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/BD 01 - bs1.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/TV 02 - bs2.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/BD 02 - bs2.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/TV 03 - bs3.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/BD 03 - bs3.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/TV 04 - bs4.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/BD 04 - bs4.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Alright, let's take a little break from all that BS (Brighter 'n' Sharper)! Here, Polnareff's mouth flap is slightly different, resulting in a couple of frames where his mouth is a little more closed:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC05/tv-09817.jpg" />
+ <img src="./../images/SC05/bd-09817.jpg" />
+</div>
+
+<br>
+
+- For some reason, the TV version of this bit here has a black bar at the top in the first few frames; this has been corrected in the BDs:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/TV 05 - black bar.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/BD 05 - black bar.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC05/tv-09960.jpg" />
+ <img src="./../images/SC05/bd-09960.jpg" />
+</div>
+
+<br>
+
+- Both Polpol and Silver Chariot have been retouched in this bit here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC05/tv-10960.jpg" />
+ <img src="./../images/SC05/bd-10960.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC05/tv-10965.jpg" />
+ <img src="./../images/SC05/bd-10965.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC05/tv-10980.jpg" />
+ <img src="./../images/SC05/bd-10980.jpg" />
+</div>
+
+<br>
+
+- Alright, have another very brief brighter and sharper bit:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/TV 06 - bs5.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/BD 06 - bs5.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- A teeny tiny bit on Polnareff's brow has been retouched, here...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC05/tv-13665.jpg" />
+ <img src="./../images/SC05/bd-13665.jpg" />
+</div>
+
+<br>
+
+- Here, have another bunch of BS:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/TV 07 - bs6.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/BD 07 - bs6.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/TV 08 - bs7.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/BD 08 - bs7.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/TV 09 - bs8.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/BD 09 - bs8.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/TV 10 - bs9.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/BD 10 - bs9.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- These couple of frames are, instead... darker:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC05/tv-19028.jpg" />
+ <img src="./../images/SC05/bd-19028.jpg" />
+</div>
+
+<br>
+
+- Have another last serving of BS:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/TV 11 - bs10.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/SC05/BD 11 - bs10.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Phew! Here, Joseph has received a bunch of retouches here and there:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC05/tv-24465.jpg" />
+ <img src="./../images/SC05/bd-24465.jpg" />
+</div>
+
+<br>
+
+- In this tragic flashback about the man with two right hands, the rain effect is different around his left hand (probably precisely to make the fact that it's actually another second right hand easier to see):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC05/tv-25500.jpg" />
+ <img src="./../images/SC05/bd-25500.jpg" />
+</div>
+
+<br>
+
+- Alright, let's tackle some credit differences! Here, on the left, the first name (Animator 片山貴仁 - Katayama Takahito) has been removed, the three names below that have been moved up and there's a new name of the bottom (ソエジマヤスフミ - Soejima Yasufumi):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC05/tv-32060.jpg" />
+ <img src="./../images/SC05/bd-32060.jpg" />
+</div>
+
+<br>
+
+- Here, a name on the right (Animator 浜友里恵 - Hama Yurie) has been removed, and the rest has been moved around accordingly:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC05/tv-32250.jpg" />
+ <img src="./../images/SC05/bd-32250.jpg" />
+</div>
+
+<br>
+
+- The "3D Modeling" section has once again been removed here (as it was in episode #01):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC05/tv-32585.jpg" />
+ <img src="./../images/SC05/bd-32585.jpg" />
+</div>
+
+<br>
+
+And that's it for today's comparison, good folks from all over the world! I hope you had fun, and you and I will see each other again soon! Meet you here, same place, same time (give or take a week) for Stardust Crusaders #06, "Dark Blue Moon"!
+
+<br>
+
+Arrivederci!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
