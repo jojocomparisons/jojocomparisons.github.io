@@ -1,0 +1,286 @@
+---
+layout: post
+title: "Vento Aureo - #01 - Gold Experience"
+date: 2019-01-19 18:45:08 +0000
+comments: true
+categories: va
+---
+
+{% img center /images/VA01/01-header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Well, well, well... What do we have here? And they said it couldn't be done... They said this day would never come! (I'm just kidding, nobody actually said that.)
+
+<br>
+
+Welcome, welcome back to this humble blog! Welcome to the start of a new era! I hope you're ready for some BRIGHTER animations, because today we're going to take a look at Vento Aureo #01, "Gold Experience!" Let's dive in!
+
+<br>
+
+- Vento Aureo's first differenced are these two animations, which are brighter in the BDs:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/VA01/TV 01 - brighter gold experience.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/VA01/BD 01 - brighter gold experience.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/VA01/TV 02 - brighter plant.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/VA01/BD 02 - brighter plant.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- These few frames have better contrast and deeper blacks:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-21385.jpg" />
+ <img src="./../images/VA01/bd-21385.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-21391.jpg" />
+ <img src="./../images/VA01/bd-21391.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-21405.jpg" />
+ <img src="./../images/VA01/bd-21405.jpg" />
+</div>
+
+<br>
+
+- Here, have a brighter Koichi:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/VA01/TV 03 - brighter koichi.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/VA01/BD 03 - brighter koichi.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Let's take a closer look at the previous animation... As you can see from this selected frame, it appears that this time around, the scenes that needed to be made dimmer aren't _dimmer_ overall! All the mid-range colours are still there (as you can see from Koichi's trousers or the rubble in the front), it's just the brighter bits who have been toned down. Interesting...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-21464.jpg" />
+ <img src="./../images/VA01/bd-21464.jpg" />
+</div>
+
+<br>
+
+- The mid-episode eyecatch is looking much better! Sharper, brighter and with overall better contrast:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/VA01/TV 04 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/VA01/BD 04 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- This DiU flashback sequence is brighter and uncensored:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/VA01/TV 05 - flashbacks.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/VA01/BD 05 - flashbacks.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Here, our friend 片山貴仁 (Katayama Takahito)'s job title has been changed from アクション作画監督 to アクションディレクター. They both meen pretty much the same thing, though (Action Director):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-31170.jpg" />
+ <img src="./../images/VA01/bd-31170.jpg" />
+</div>
+
+<br>
+
+- The lines on this Giorno are... very slightly thicker?:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-31730.jpg" />
+ <img src="./../images/VA01/bd-31730.jpg" />
+</div>
+
+<br>
+
+- Leaky-eye Luca's fingers are brighter, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-31770.jpg" />
+ <img src="./../images/VA01/bd-31770.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-31785.jpg" />
+ <img src="./../images/VA01/bd-31785.jpg" />
+</div>
+
+<br>
+
+- Alright, this difference needs a deep dive! Let's begin with the first frame, in which they added the chopped fingers in mid-air:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-31827.jpg" />
+ <img src="./../images/VA01/bd-31827.jpg" />
+</div>
+
+<br>
+
+- One frame later, you can see that they were there in the TV version's second frame; they're now uncensored, and blurrier too:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-31828.jpg" />
+ <img src="./../images/VA01/bd-31828.jpg" />
+</div>
+
+<br>
+
+- The fingers move towards the camera one frame earlier, in the BD version:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-31830.jpg" />
+ <img src="./../images/VA01/bd-31830.jpg" />
+</div>
+
+<br>
+
+- Again, you can see how they've been uncensored and made blurrier here, when the TV version's fingers catch up:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-31832.jpg" />
+ <img src="./../images/VA01/bd-31832.jpg" />
+</div>
+
+<br>
+
+- Once again, the fingers move one frame earlier in the BD...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-31833.jpg" />
+ <img src="./../images/VA01/bd-31833.jpg" />
+</div>
+
+<br>
+
+- And one last frame to showcase the blurriness and uncensored...ness:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-31835.jpg" />
+ <img src="./../images/VA01/bd-31835.jpg" />
+</div>
+
+<br>
+
+- This whole scene, however, is so short that I can barely tell the difference! See for yourself:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/VA01/TV 06 - fingerspit.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/VA01/BD 06 - fingerspit.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+- Yeah, I told you... Let's move on! Here, the fingers have been uncensored once again:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-31934.jpg" />
+ <img src="./../images/VA01/bd-31934.jpg" />
+</div>
+
+<br>
+
+- Here, we can see a new name in the credits: it's 檜垣隆幸 (Higaki Takayuki), apparently responsible for promotion:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-32690.jpg" />
+ <img src="./../images/VA01/bd-32690.jpg" />
+</div>
+
+<br>
+
+- And we have come to the last difference for today! It's our B.B.B.B., Best Boy Bruno Buccellati, with a brighter and sharper animation just for our lucky eyes:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/VA01/TV 07 - BBBB.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' nocontrols loop preload='auto'>
+  <source src="./../videos/VA01/BD 07 - BBBB.webm" type='video/webm; codecs="vp8, vorbis"'>
+</video>
+</td>
+</tr>
+</table>
+
+And that's it for today! Pretty lengthy for a first episode, but no real redraws to write home about. Pretty much what I expected, to be honest! I hope you had a good time reading this one, my good people. I'll see you next time for Vento Aureo #02, "Buccellati's Coming"!
+
+<br>
+
+Ciao!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
