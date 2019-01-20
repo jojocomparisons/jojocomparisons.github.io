@@ -118,6 +118,13 @@ Welcome, welcome back to this humble blog! Welcome to the start of a new era! I 
 </tr>
 </table>
 
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA01/tv-22396.jpg" />
+ <img src="./../images/VA01/bd-22396.jpg" />
+</div>
+
+<br>
+
 - This DiU flashback sequence is brighter and uncensored:
 
 <table width="100%">
