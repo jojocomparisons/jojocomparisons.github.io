@@ -30,12 +30,12 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' controls="true" loop preload='auto' playsinline>
+<video class='center' controls="false" loop preload='auto' autoplay>
   <source src="./../videos/DIU01/TV 01 - egg.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' controls="true" loop preload='auto' playsinline>
+<video class='center' controls="false" loop preload='auto' playsinline>
   <source src="./../videos/DIU01/BD 01 - egg.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
@@ -81,12 +81,12 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' controls="true" playsinline loop preload='auto'>
+<video class='center' controls="false" autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU01/TV 02 - star platinum.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' controls="true" playsinline loop preload='auto'>
+<video class='center' controls="false" autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU01/BD 02 - star platinum.webm" type='video/webm; codecs="vp8, vorbis"'>
 </video>
 </td>
