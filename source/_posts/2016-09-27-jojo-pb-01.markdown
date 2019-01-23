@@ -159,13 +159,15 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB01/TV 01 - armgrab.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/TV 01 - armgrab.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB01/BD 01 - armgrab.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/BD 01 - armgrab.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -185,13 +187,15 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB01/TV 02 - punch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/TV 02 - punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB01/BD 02 - punch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/BD 02 - punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -229,13 +233,15 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB01/TV 03 - fire.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/TV 03 - fire.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB01/BD 03 - fire.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/BD 03 - fire.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -246,13 +252,15 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB01/TV 04 - standup.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/TV 04 - standup.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB01/BD 04 - standup.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/BD 04 - standup.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -263,13 +271,15 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB01/TV 05 - coat.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/TV 05 - coat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB01/BD 05 - coat.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/BD 05 - coat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -280,13 +290,15 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB01/TV 06 - flashback.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/TV 06 - flashback.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB01/BD 06 - flashback.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/BD 06 - flashback.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -297,13 +309,15 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB01/TV 07 - punch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/TV 07 - punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB01/BD 07 - punch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB01/BD 07 - punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>

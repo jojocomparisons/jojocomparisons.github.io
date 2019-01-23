@@ -21,13 +21,15 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU03/TV 01 - whiteout.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU03/TV 01 - whiteout.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU03/BD 01 - whiteout.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU03/BD 01 - whiteout.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -56,13 +58,15 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU03/TV 02 - eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU03/TV 02 - eyes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU03/BD 02 - eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU03/BD 02 - eyes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -82,13 +86,15 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU03/TV 03 - enyazoom.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU03/TV 03 - enyazoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU03/BD 03 - enyazoom.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU03/BD 03 - enyazoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -138,13 +144,15 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU03/TV 04 - crazy diamond.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU03/TV 04 - crazy diamond.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU03/BD 04 - crazy diamond.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU03/BD 04 - crazy diamond.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>

@@ -214,13 +214,15 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB02/TV 01 - objection.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/TV 01 - objection.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB02/BD 01 - objection.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/BD 01 - objection.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -272,13 +274,15 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB02/TV 02 - speedhat.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/TV 02 - speedhat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB02/BD 02 - speedhat.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/BD 02 - speedhat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -289,13 +293,15 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB02/TV 03 - bottle.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/TV 03 - bottle.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB02/BD 03 - bottle.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/BD 03 - bottle.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -306,13 +312,15 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB02/TV 04 - smashmouth.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/TV 04 - smashmouth.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB02/BD 04 - smashmouth.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/BD 04 - smashmouth.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -323,13 +331,15 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB02/TV 05 - dagger.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/TV 05 - dagger.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB02/BD 05 - dagger.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/BD 05 - dagger.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -349,13 +359,15 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB02/TV 06 - gimmethat.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/TV 06 - gimmethat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB02/BD 06 - gimmethat.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/BD 06 - gimmethat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -366,13 +378,15 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB02/TV 07 - hand.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/TV 07 - hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB02/BD 07 - hand.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/BD 07 - hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -383,13 +397,15 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB02/TV 08 - thunder.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/TV 08 - thunder.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB02/BD 08 - thunder.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/BD 08 - thunder.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>

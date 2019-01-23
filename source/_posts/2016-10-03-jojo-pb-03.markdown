@@ -111,13 +111,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 01 - knife.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 01 - knife.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 01 - knife.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 01 - knife.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -128,13 +130,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 02 - georgestab.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 02 - georgestab.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 02 - georgestab.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 02 - georgestab.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -152,13 +156,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 03 - stonemask.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 03 - stonemask.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 03 - stonemask.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 03 - stonemask.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -239,13 +245,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 04 - head.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 04 - head.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 04 - head.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 04 - head.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -254,13 +262,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 05 - pavement.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 05 - pavement.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 05 - pavement.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 05 - pavement.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -278,13 +288,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 06 - lightning.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 06 - lightning.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 06 - lightning.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 06 - lightning.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -340,13 +352,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 07 - policeman.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 07 - policeman.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 07 - policeman.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 07 - policeman.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -373,13 +387,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 08 - crowd.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 08 - crowd.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 08 - crowd.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 08 - crowd.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -388,13 +404,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 09 - speedfraid.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 09 - speedfraid.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 09 - speedfraid.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 09 - speedfraid.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -471,13 +489,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 10 - lance.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 10 - lance.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 10 - lance.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 10 - lance.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -495,13 +515,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 11 - speedzombie.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 11 - speedzombie.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 11 - speedzombie.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 11 - speedzombie.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -512,13 +534,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 12 - diohand.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 12 - diohand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 12 - diohand.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 12 - diohand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -617,13 +641,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 13 - dioburning.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 13 - dioburning.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 13 - dioburning.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 13 - dioburning.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -778,13 +804,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 14 - speedfire.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 14 - speedfire.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 14 - speedfire.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 14 - speedfire.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -793,13 +821,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 15 - explosion.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 15 - explosion.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 15 - explosion.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 15 - explosion.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -835,13 +865,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 16 - flashback.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 16 - flashback.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 16 - flashback.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 16 - flashback.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -965,13 +997,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 17 - diostab.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 17 - diostab.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 17 - diostab.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 17 - diostab.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -1043,13 +1077,15 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/TV 18 - statue.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/TV 18 - statue.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/PB03/BD 18 - statue.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB03/BD 18 - statue.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>

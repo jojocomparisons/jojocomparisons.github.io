@@ -21,13 +21,15 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU05/TV 01 - explosion.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/TV 01 - explosion.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU05/BD 01 - explosion.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/BD 01 - explosion.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -38,13 +40,15 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU05/TV 02 - arm.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/TV 02 - arm.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU05/BD 02 - arm.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/BD 02 - arm.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -64,13 +68,15 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU05/TV 03 - RHCP.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/TV 03 - RHCP.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU05/BD 03 - RHCP.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/BD 03 - RHCP.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -95,13 +101,15 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU05/TV 04 - flashes.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/TV 04 - flashes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU05/BD 04 - flashes.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/BD 04 - flashes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -121,13 +129,15 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU05/TV 05 - phone.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/TV 05 - phone.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU05/BD 05 - phone.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/BD 05 - phone.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>

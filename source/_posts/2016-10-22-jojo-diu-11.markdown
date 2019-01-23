@@ -247,13 +247,15 @@ Hello, everybody, and welcome back! Today we're going to take a look at Episode 
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU11/TV 01 - the hand.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU11/TV 01 - the hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU11/BD 01 - the hand.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU11/BD 01 - the hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -294,13 +296,15 @@ Hello, everybody, and welcome back! Today we're going to take a look at Episode 
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU11/TV 02 - everything.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU11/TV 02 - everything.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU11/BD 02 - everything.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU11/BD 02 - everything.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -318,13 +322,15 @@ Hello, everybody, and welcome back! Today we're going to take a look at Episode 
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU11/TV 03 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU11/TV 03 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU11/BD 03 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU11/BD 03 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -351,13 +357,15 @@ Hello, everybody, and welcome back! Today we're going to take a look at Episode 
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU11/TV 04 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU11/TV 04 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU11/BD 04 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU11/BD 04 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -377,13 +385,15 @@ Hello, everybody, and welcome back! Today we're going to take a look at Episode 
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU11/TV 05 - arm.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU11/TV 05 - arm.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/DIU11/BD 05 - arm.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU11/BD 05 - arm.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
