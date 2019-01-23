@@ -25,13 +25,15 @@ Welcome, welcome back to this humble blog! Welcome to the start of a new era! I 
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/VA01/TV 01 - brighter gold experience.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA01/TV 01 - brighter gold experience.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/VA01/BD 01 - brighter gold experience.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA01/BD 01 - brighter gold experience.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -40,13 +42,15 @@ Welcome, welcome back to this humble blog! Welcome to the start of a new era! I 
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/VA01/TV 02 - brighter plant.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA01/TV 02 - brighter plant.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/VA01/BD 02 - brighter plant.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA01/BD 02 - brighter plant.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -80,13 +84,15 @@ Welcome, welcome back to this humble blog! Welcome to the start of a new era! I 
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/VA01/TV 03 - brighter koichi.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA01/TV 03 - brighter koichi.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/VA01/BD 03 - brighter koichi.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA01/BD 03 - brighter koichi.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -106,13 +112,15 @@ Welcome, welcome back to this humble blog! Welcome to the start of a new era! I 
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/VA01/TV 04 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA01/TV 04 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/VA01/BD 04 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA01/BD 04 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -130,13 +138,15 @@ Welcome, welcome back to this humble blog! Welcome to the start of a new era! I 
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/VA01/TV 05 - flashbacks.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA01/TV 05 - flashbacks.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/VA01/BD 05 - flashbacks.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA01/BD 05 - flashbacks.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -235,13 +245,15 @@ Welcome, welcome back to this humble blog! Welcome to the start of a new era! I 
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/VA01/TV 06 - fingerspit.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA01/TV 06 - fingerspit.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/VA01/BD 06 - fingerspit.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA01/BD 06 - fingerspit.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
@@ -270,13 +282,15 @@ Welcome, welcome back to this humble blog! Welcome to the start of a new era! I 
 <table width="100%">
 <tr>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/VA01/TV 07 - BBBB.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA01/TV 07 - BBBB.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 <td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/VA01/BD 07 - BBBB.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA01/BD 07 - BBBB.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 </td>
 </tr>
