@@ -1,0 +1,400 @@
+---
+layout: post
+title: "Vento Aureo #02 - Buccellati's Coming"
+date: 2019-01-27 16:28:11 +0000
+comments: true
+categories: va
+---
+
+{% img center /images/VA02/02-header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready to delve straight into today's comparison? Let's take a look at Vento Aureo #02, "Buccellati's Coming"!
+
+<br>
+
+- The first order of the day is the opening, which has some brighter bits:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/TV 01 - brighter fighting gold 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/TV 01 - brighter fighting gold 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/BD 01 - brighter fighting gold 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/BD 01 - brighter fighting gold 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/TV 02 - brighter fighting gold 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/TV 02 - brighter fighting gold 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/BD 02 - brighter fighting gold 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/BD 02 - brighter fighting gold 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+</tr>
+</table>
+
+- The first version of Fighting Gold had a few little things that were fixed from episode #04 onwards. For example, the lines on Abbacchio's fingers and his left tiddie have been slightly retouched here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA02/tv-00773.jpg" />
+ <img src="./../images/VA02/bd-00773.jpg" />
+</div>
+
+<br>
+
+- The sand around his ring finger has also been retouched...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA02/tv-00775.jpg" />
+ <img src="./../images/VA02/bd-00775.jpg" />
+</div>
+
+<br>
+
+- And, from a certain point onwards, the sand in the TV version was mistakenly drawn running out from between his middle and ring fingers, instead of how it was before; this has been fixed as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA02/tv-00780.jpg" />
+ <img src="./../images/VA02/bd-00780.jpg" />
+</div>
+
+<br>
+
+- Abbacchio's also been moved up a little bit, later on, but for some reason the sand near his left hand hasn't been redrawn correctly. It's not too bad, since it's not that noticeable, but it still bothers me a little bit:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA02/tv-00791.jpg" />
+ <img src="./../images/VA02/bd-00791.jpg" />
+</div>
+
+<br>
+
+- His right tiddie has also been fixed here, and the missing hand lines have been drawn in:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA02/tv-00792.jpg" />
+ <img src="./../images/VA02/bd-00792.jpg" />
+</div>
+
+<br>
+
+- Let's move on from Abbacchio to our holey fromagey boy Fugo! Here, the background is a different colour, and the silhouette of his thumb has been retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA02/tv-01270.jpg" />
+ <img src="./../images/VA02/bd-01270.jpg" />
+</div>
+
+<br>
+
+- And here, EVERYTHING is looking better:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA02/tv-01275.jpg" />
+ <img src="./../images/VA02/bd-01275.jpg" />
+</div>
+
+<br>
+
+- These two scenes are also brighter:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/TV 03 - fighting gold brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/TV 03 - fighting gold brighter 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/BD 03 - fighting gold brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/BD 03 - fighting gold brighter 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/TV 04 - fighting gold brighter 4.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/TV 04 - fighting gold brighter 4.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/BD 04 - fighting gold brighter 4.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/BD 04 - fighting gold brighter 4.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+</tr>
+</table>
+
+- Aerosmith's smoke has been changed a little bit, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA02/tv-01513.jpg" />
+ <img src="./../images/VA02/bd-01513.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA02/tv-01515.jpg" />
+ <img src="./../images/VA02/bd-01515.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA02/tv-01520.jpg" />
+ <img src="./../images/VA02/bd-01520.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA02/tv-01530.jpg" />
+ <img src="./../images/VA02/bd-01530.jpg" />
+</div>
+
+<br>
+
+- Ok, enough with the opening! Let's move on to the actual episode for something completely different... Brighter scenes! Here, take two:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/TV 05 - brighter gold experience.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/TV 05 - brighter gold experience.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/BD 05 - brighter gold experience.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/BD 05 - brighter gold experience.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/TV 06 - brighter buccellati.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/TV 06 - brighter buccellati.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/BD 06 - brighter buccellati.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/BD 06 - brighter buccellati.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+</tr>
+</table>
+
+- It's tiiiime for the eyecatch! Take a look at this bright mysterious zipper boy:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/TV 07 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/TV 07 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/BD 07 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/BD 07 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+</tr>
+</table>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA02/tv-17598.jpg" />
+ <img src="./../images/VA02/bd-17598.jpg" />
+</div>
+
+<br>
+
+- The way the question marks pop up on the stat hexagon is also a little different:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/TV 08 - question mark pop up.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/TV 08 - question mark pop up.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/BD 08 - question mark pop up.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/BD 08 - question mark pop up.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+</tr>
+</table>
+
+- And now for something unexpected... Brighter... AND sharper animations! Take a peek:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/TV 09 - sticky fingers.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/TV 09 - sticky fingers.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/BD 09 - sticky fingers.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/BD 09 - sticky fingers.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/TV 10 - stand battle.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/TV 10 - stand battle.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/BD 10 - stand battle.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/BD 10 - stand battle.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/TV 11 - train.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/TV 11 - train.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/BD 11 - train.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/BD 11 - train.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+</tr>
+</table>
+
+- In this flashback bit here, Luca's chopped fingers have been made brighter once more:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA02/tv-22045.jpg" />
+ <img src="./../images/VA02/bd-22045.jpg" />
+</div>
+
+<br>
+
+- While this other bit has better contrast...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA02/tv-22062.jpg" />
+ <img src="./../images/VA02/bd-22062.jpg" />
+</div>
+
+<br>
+
+- ... and this one has the same uncensoring we saw in the last episode:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA02/tv-22065.jpg" />
+ <img src="./../images/VA02/bd-22065.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA02/tv-22100.jpg" />
+ <img src="./../images/VA02/bd-22100.jpg" />
+</div>
+
+<br>
+
+- I'll leave you with two last brighter and sharper bits, to conclude this comparison in a grand manner:
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/TV 12 - brighter and sharper beatdown 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/TV 12 - brighter and sharper beatdown 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/BD 12 - brighter and sharper beatdown 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/BD 12 - brighter and sharper beatdown 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/TV 13 - brighter and sharper FEAR.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/TV 13 - brighter and sharper FEAR.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+<td align="left" valign="top" width="50%">
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA02/BD 13 - brighter and sharper FEAR.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA02/BD 13 - brighter and sharper FEAR.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+</td>
+</tr>
+</table>
+
+And that concludes it for today's episode! That was a little meatier, but still no BIG REDRAW moment so far. Not that we needed any! Well, I hope you had a good time reading through, and I'll see you next time for Vento Aureo #03, "Meet the Gangster Behind the Wall"!
+
+<br>
+
+ARIARIARIARIARIARIARIARIARIARIARIARI...
+
+<br>
+
+_ARRIVEDERCI!_
+
+<br>
+
+{% img center /images/tobecontinued.png %}
