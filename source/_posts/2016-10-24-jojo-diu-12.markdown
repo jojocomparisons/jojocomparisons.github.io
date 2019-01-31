@@ -54,41 +54,17 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 
 - Since this is a RHCP episode, you know there's bound to be at least a couple of scenes which had been darkened for the TV version. This is one of them (the camera has also been moved slightly down):
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/TV 01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/TV 01 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU12/01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/01 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/BD 01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/BD 01 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - And this is another:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/TV 02 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/TV 02 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU12/02 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/02 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/BD 02 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/BD 02 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here, the BDs corrected a slight error that was present in the TV version (when moving Akira's jaw, a couple of frames had parts of his cheek overlapping his hair and ear):
 
@@ -101,22 +77,10 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 
 - In this animation of Akira Rocking Out™ has a couple of extra frames at the start, and his hands and face have been redrawn in a couple of places:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/TV 03 - akira.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/TV 03 - akira.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU12/03 - akira.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/03 - akira.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/BD 03 - akira.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/BD 03 - akira.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/DIU12/tv-09230.jpg" />
@@ -134,22 +98,10 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 
 - Akira whipping out his RHCP has been redrawn as well:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/TV 04 - rhcp.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/TV 04 - rhcp.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU12/04 - rhcp.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/04 - rhcp.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/BD 04 - rhcp.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/BD 04 - rhcp.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - In this shot, both Akira and Josuke have been moved a bit:
 
@@ -162,22 +114,10 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 
 - In this animation, the camera moves down slightly more:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/TV 05 - crazy diamond.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/TV 05 - crazy diamond.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU12/05 - crazy diamond.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/05 - crazy diamond.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/BD 05 - crazy diamond.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/BD 05 - crazy diamond.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - In these shots, the background has been moved:
 
@@ -231,22 +171,10 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 
 - And in this transition, Josuke has been blurred:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/TV 06 - blur.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/TV 06 - blur.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU12/06 - blur.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/06 - blur.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/BD 06 - blur.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/BD 06 - blur.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - And here, the image has been moved up by like ten pixels. Yeah, no, I don't get it either:
 
@@ -259,22 +187,10 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 
 - This transition is different as well: Josuke is there in the beginning and then disappears, resulting in a more MENACING shot:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/TV 07 - transition.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/TV 07 - transition.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU12/07 - transition.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/07 - transition.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/BD 07 - transition.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/BD 07 - transition.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - RHCP is tinier in these two shots:
 
@@ -396,22 +312,10 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 
 - And Akira no longer just *appears* there, but he slides his way in:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/TV 08 - akira.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/TV 08 - akira.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU12/08 - akira.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/08 - akira.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/BD 08 - akira.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/BD 08 - akira.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - RHCP has been moved again here (man, they really were not happy with *any* of RHCP's original positions, were they):
 
@@ -442,22 +346,10 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 
 - And Koichi, who has been taking some notes from Akira, shows up:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/TV 09 - koichi.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/TV 09 - koichi.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU12/09 - koichi.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/09 - koichi.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/BD 09 - koichi.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/BD 09 - koichi.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Akira's guitar jack is now steel-coloured:
 
@@ -488,22 +380,10 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 
 - The BDs added Echoes Act 1 scouting the area in this scene:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/TV 10 - echoes.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/TV 10 - echoes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU12/10 - echoes.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/10 - echoes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/BD 10 - echoes.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/BD 10 - echoes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Joseph's face has been slightly retouched here:
 
@@ -543,22 +423,10 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 
 - The *Traffic* moves way less in this shot:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/TV 11 - boat.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/TV 11 - boat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU12/11 - boat.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/11 - boat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/BD 11 - boat.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/BD 11 - boat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - A tiny bit of outline on Josuke's lapel has been redrawn:
 
@@ -571,22 +439,10 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 
 - Josuke no longer moves his body while turning his head to talk to Koichi:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/TV 12 - josuke.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/TV 12 - josuke.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU12/12 - josuke.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/12 - josuke.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/BD 12 - josuke.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/BD 12 - josuke.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - This floor is slightly more slanted in this shot:
 
@@ -635,22 +491,10 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 
 - The camera movement that frames the dying RHCP is different:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/TV 13 - RHCP zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/TV 13 - RHCP zoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU12/13 - RHCP zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/13 - RHCP zoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/BD 13 - RHCP zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/BD 13 - RHCP zoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - As is the framing of this other scene:
 
@@ -672,22 +516,10 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 
 - Okuyasu punching Akira in the bracket is more DYNAMIC:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/TV 14 - akira punch.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/TV 14 - akira punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU12/14 - akira punch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU12/14 - akira punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU12/BD 14 - akira punch.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU12/BD 14 - akira punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - In this scene, Akira's eyes and the Speedwagon patch on his arm have been retouched:
 

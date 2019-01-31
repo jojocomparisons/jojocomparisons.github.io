@@ -70,22 +70,10 @@ Hi there, and welcome back for a look at the differences in Episode #04! Nothing
 
 - As usual, Crazy Diamond's beatdown is sharper and brighter:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU04/TV 01 - beatdown.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU04/TV 01 - beatdown.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU04/01 - beatdown.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU04/01 - beatdown.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU04/BD 01 - beatdown.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU04/BD 01 - beatdown.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Koichi now has a cut on his cheek:
 

@@ -88,22 +88,10 @@ Welcome back! Today we're finally going back to Diamond is Unbreakable! I have t
 
 - These transition lines are brighter in the BDs:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU07/TV 01 - lines.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU07/TV 01 - lines.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU07/01 - lines.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU07/01 - lines.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU07/BD 01 - lines.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU07/BD 01 - lines.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - As before, they added Josuke's cheek wound and retouched his eyes:
 
@@ -125,41 +113,17 @@ Welcome back! Today we're finally going back to Diamond is Unbreakable! I have t
 
 - This walking animation is way less static:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU07/TV 02 - walking.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU07/TV 02 - walking.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU07/02 - walking.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU07/02 - walking.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU07/BD 02 - walking.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU07/BD 02 - walking.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - This bit was for some reason darker in the TV version; this has been fixed in the BDs:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU07/TV 03 - hazamada.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU07/TV 03 - hazamada.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU07/03 - hazamada.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU07/03 - hazamada.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU07/BD 03 - hazamada.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU07/BD 03 - hazamada.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Once again they added Josuke's cheek wound:
 

@@ -73,39 +73,15 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/TV 01 - lady.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/TV 01 - lady.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB04/01 - lady.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/01 - lady.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/BD 01 - lady.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/BD 01 - lady.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/TV 02 - lady.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/TV 02 - lady.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB04/02 - lady.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/02 - lady.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/BD 02 - lady.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/BD 02 - lady.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/PB04/tv-15100.jpg" />
@@ -186,22 +162,10 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 - This animation has more light effects and a vignette:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/TV 03 - zeppelipoint.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/TV 03 - zeppelipoint.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB04/03 - zeppelipoint.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/03 - zeppelipoint.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/BD 03 - zeppelipoint.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/BD 03 - zeppelipoint.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Zep and Jo have once again been redrawn here:
 
@@ -273,22 +237,10 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 - And again here as before, but the uncensoring is more prominent, and the background is more vivid:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/TV 04 - coachdriver.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/TV 04 - coachdriver.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB04/04 - coachdriver.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/04 - coachdriver.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/BD 04 - coachdriver.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/BD 04 - coachdriver.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - From here onwards, we have something similar to last episode's fire scenes; everything that happens in this tunnel has a different lighting and shading, different colours and more contrast (and sometimes the usual texture layer); I'm not gonna repeat what's different for each case, just refer to the description I've given here. Here's the first occurrence:
 
@@ -308,22 +260,10 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 - This scene is uncensored and has the usual tunnel effects:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/TV 05 - horseneck.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/TV 05 - horseneck.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB04/05 - horseneck.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/05 - horseneck.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/BD 05 - horseneck.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/BD 05 - horseneck.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/PB04/tv-22415.jpg" />
@@ -343,22 +283,10 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 - And another uncensored animation here, as Jack the Ripper crawls out of that poor horse's neck (in the still you can see that the background has also been slightly shifted):
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/TV 06 - jack.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/TV 06 - jack.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB04/06 - jack.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/06 - jack.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/BD 06 - jack.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/BD 06 - jack.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/PB04/tv-22670.jpg" />
@@ -392,22 +320,10 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 - Here (other than the usual tunnel lighting differences) the zoom is pulled a little closer and Jack's positioning is slightly different:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/TV 07 - jack knife.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/TV 07 - jack knife.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB04/07 - jack knife.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/07 - jack knife.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/BD 07 - jack knife.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/BD 07 - jack knife.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Tunnel lighting tunnel lighting:
 
@@ -472,22 +388,10 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 - This bit has the usual shading difference, and the horse corpses have been uncensored:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/TV 08 - carriage.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/TV 08 - carriage.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB04/08 - carriage.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/08 - carriage.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/BD 08 - carriage.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/BD 08 - carriage.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - A smattering of different shading for you:
 
@@ -623,39 +527,15 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 - These two scenes are static in the TV version, but in the BDs have a slight zoom in:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/TV 09 - addedzoom.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/TV 09 - addedzoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB04/09 - addedzoom.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/09 - addedzoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/BD 09 - addedzoom.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/BD 09 - addedzoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/TV 10 - addedzoom2.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/TV 10 - addedzoom2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB04/10 - addedzoom2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/10 - addedzoom2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/BD 10 - addedzoom2.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/BD 10 - addedzoom2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Usual shading/color/contrast treatment here:
 
@@ -826,22 +706,10 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 - Jack's death is... Yeah. Different:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/TV 11 - jackdeath.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/TV 11 - jackdeath.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB04/11 - jackdeath.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB04/11 - jackdeath.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB04/BD 11 - jackdeath.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB04/BD 11 - jackdeath.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - And now for some credits differences! Let's begin with a minor one; in the BDs they added Erina's surname (Full name in katakana: エリナ・ペンドルトン):
 

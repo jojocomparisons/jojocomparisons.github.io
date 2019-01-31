@@ -27,22 +27,10 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 
 - The egg in the intro is slightly brighter:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU01/TV 01 - egg.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU01/TV 01 - egg.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU01/01 - egg.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU01/01 - egg.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU01/BD 01 - egg.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU01/BD 01 - egg.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Kira's victim's hand is uncensored:
 
@@ -80,22 +68,10 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 
 - The animation of Star Platinum catching Koichi's things is sharper and has more vivid colors:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU01/TV 02 - star platinum.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU01/TV 02 - star platinum.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU01/02 - star platinum.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU01/02 - star platinum.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU01/BD 02 - star platinum.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU01/BD 02 - star platinum.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Jotaro's coattails are redrawn to be slightly less elevated and more natural-looking:
 
@@ -108,22 +84,10 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 
 - The transition into this scene of the blonde punk grabbing the turtle is a bit longer and clearer:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU01/TV 03 - turtle throw.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU01/TV 03 - turtle throw.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU01/03 - turtle throw.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU01/03 - turtle throw.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU01/BD 03 - turtle throw.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU01/BD 03 - turtle throw.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - The aforementioned blonde punk has a very very slightly darker right eyebrow:
 
@@ -154,22 +118,10 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 
 - This scene has an extra noise layer on top:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU01/TV 04 - noise.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU01/TV 04 - noise.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU01/04 - noise.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU01/04 - noise.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU01/BD 04 - noise.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU01/BD 04 - noise.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Josuke has a bighter and pinker aura in this scene:
 
@@ -182,22 +134,10 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 
 - This scene has brighter colors:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU01/TV 05 - hostage.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU01/TV 05 - hostage.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU01/05 - hostage.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU01/05 - hostage.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU01/BD 05 - hostage.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU01/BD 05 - hostage.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Crazy Diamond's punch has been uncensored (the second censoring is a bit hard to spot):
 

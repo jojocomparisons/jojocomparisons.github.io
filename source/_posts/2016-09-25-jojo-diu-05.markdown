@@ -18,41 +18,17 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 
 - The explosion in the beginning is brighter:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU05/TV 01 - explosion.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU05/TV 01 - explosion.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU05/01 - explosion.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/01 - explosion.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU05/BD 01 - explosion.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU05/BD 01 - explosion.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Nijimura Senior's regenerating arm has been uncensored (even though there was no blood in the first place):
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU05/TV 02 - arm.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU05/TV 02 - arm.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU05/02 - arm.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/02 - arm.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU05/BD 02 - arm.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU05/BD 02 - arm.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - The movement lines in the background are sharper:
 
@@ -65,22 +41,10 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 
 - This animation of RHCP punching through Keicho's chest has received the usual sharper-and-brighter treatment; moreover, RHCP's hands are shaded differently:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU05/TV 03 - RHCP.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU05/TV 03 - RHCP.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU05/03 - RHCP.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/03 - RHCP.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU05/BD 03 - RHCP.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU05/BD 03 - RHCP.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/DIU05/tv-24170.jpg" />
@@ -98,22 +62,10 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 
 - This animation of the socket exploding is brighter:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU05/TV 04 - flashes.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU05/TV 04 - flashes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU05/04 - flashes.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/04 - flashes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU05/BD 04 - flashes.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU05/BD 04 - flashes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - The hand on Jotaro's hat was slightly off-color for two frames, this has been corrected:
 
@@ -126,22 +78,10 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 
 - This last animation of the phone exploding has been slightly changed:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU05/TV 05 - phone.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU05/TV 05 - phone.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU05/05 - phone.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU05/05 - phone.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU05/BD 05 - phone.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU05/BD 05 - phone.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - In the ending credits, うすいこうぢ (Usui Kōji)'s name was previously misspelled as こうじ. By the way じ and ぢ are both pronounced "ji":
 

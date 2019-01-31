@@ -244,22 +244,10 @@ Hello, everybody, and welcome back! Today we're going to take a look at Episode 
 
 - This animation is faster, and they've added an extra bit in the middle:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU11/TV 01 - the hand.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU11/TV 01 - the hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU11/01 - the hand.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU11/01 - the hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU11/BD 01 - the hand.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU11/BD 01 - the hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Almost every frame of Okuyasu turning in this scene has been redrawn:
 
@@ -293,22 +281,10 @@ Hello, everybody, and welcome back! Today we're going to take a look at Episode 
 
 - Most things have been redrawn in this shot, really:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU11/TV 02 - everything.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU11/TV 02 - everything.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU11/02 - everything.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU11/02 - everything.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU11/BD 02 - everything.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU11/BD 02 - everything.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/DIU11/tv-25710.jpg" />
@@ -319,22 +295,10 @@ Hello, everybody, and welcome back! Today we're going to take a look at Episode 
 
 - This bit here is brighter:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU11/TV 03 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU11/TV 03 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU11/03 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU11/03 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU11/BD 03 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU11/BD 03 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - And this scene is more zoomed in in the BDs:
 
@@ -354,22 +318,10 @@ Hello, everybody, and welcome back! Today we're going to take a look at Episode 
 
 - This animation of RHCP attacking The Hand is brighter as well:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU11/TV 04 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU11/TV 04 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU11/04 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU11/04 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU11/BD 04 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU11/BD 04 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here RHCP's head and aura have been resized and redrawn; its aura has also been slightly retouched:
 
@@ -382,22 +334,10 @@ Hello, everybody, and welcome back! Today we're going to take a look at Episode 
 
 - Okuyasu's chopped off arm has been uncensored:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU11/TV 05 - arm.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU11/TV 05 - arm.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU11/05 - arm.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU11/05 - arm.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU11/BD 05 - arm.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU11/BD 05 - arm.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Jotaro and Josuke's foreheads are darker in this scene:
 

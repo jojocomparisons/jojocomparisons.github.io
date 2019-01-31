@@ -211,22 +211,10 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 
 - This whole animation has been redrawn, and the background is blurrier (I've also added an image comparison because this is a particularly huge redraw):
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB02/TV 01 - objection.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB02/TV 01 - objection.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB02/01 - objection.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/01 - objection.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB02/BD 01 - objection.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB02/BD 01 - objection.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/PB02/tv-15150.jpg" />
@@ -270,80 +258,32 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 <br>
 
 - This animation is slightly brighter and uncensored:
--
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
+
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB02/TV 02 - speedhat.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB02/TV 02 - speedhat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB02/02 - speedhat.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/02 - speedhat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB02/BD 02 - speedhat.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB02/BD 02 - speedhat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - This other one has been uncensored (and I honestly don't get why it was in the first place):
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB02/TV 03 - bottle.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB02/TV 03 - bottle.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB02/03 - bottle.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/03 - bottle.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB02/BD 03 - bottle.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB02/BD 03 - bottle.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - As was this other animation (if you look closely, you can see that the dude walking in the foreground has also been moved slightly to the left):
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB02/TV 04 - smashmouth.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB02/TV 04 - smashmouth.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB02/04 - smashmouth.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/04 - smashmouth.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB02/BD 04 - smashmouth.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB02/BD 04 - smashmouth.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - And another one:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB02/TV 05 - dagger.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB02/TV 05 - dagger.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB02/05 - dagger.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/05 - dagger.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB02/BD 05 - dagger.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB02/BD 05 - dagger.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - We interrupt this stream of gory uncensored animations to bring you some breaking news! The shoe in the bottom left corner is for some reason brighter (riveting, huh?):
 
@@ -356,60 +296,24 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 
 - Alright, let's go back to the interesting stuff:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB02/TV 06 - gimmethat.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB02/TV 06 - gimmethat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB02/06 - gimmethat.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/06 - gimmethat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB02/BD 06 - gimmethat.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB02/BD 06 - gimmethat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Now you can see this dude's messed up hand in all its g(l)ory:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB02/TV 07 - hand.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB02/TV 07 - hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB02/07 - hand.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/07 - hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB02/BD 07 - hand.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB02/BD 07 - hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - The thunders in this scene are brighter:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB02/TV 08 - thunder.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB02/TV 08 - thunder.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/PB02/08 - thunder.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB02/08 - thunder.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/PB02/BD 08 - thunder.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/PB02/BD 08 - thunder.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - And now for some good ol' credit mistakes! Speedweed's voice actor (Ueda Yōji) was previously misspelled as 上田耀司, while instead it's 上田燿司; if you don't see anything different, here it is: the second to last kanji is not 耀, but 燿. Small difference, but still:
 

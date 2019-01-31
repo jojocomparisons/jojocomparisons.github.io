@@ -18,22 +18,10 @@ Welcome back to JoJo's Bizarre Comparisons! Today we'll take a look at Episode #
 
 - Let's start with a very brief animation, which has been brightened in the BDs:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU08/TV 01 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU08/TV 01 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU08/01 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU08/01 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU08/BD 01 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU08/BD 01 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - In this shot Yukako's eyebrows have been moved down:
 
@@ -46,22 +34,10 @@ Welcome back to JoJo's Bizarre Comparisons! Today we'll take a look at Episode #
 
 - And here we have another sharper animation:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU08/TV 02 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU08/TV 02 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/DIU08/02 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU08/02 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
-  <source src="./../videos/DIU08/BD 02 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/DIU08/BD 02 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
-</video>
-</td>
-</tr>
-</table>
 
 - Aaaand, to top it all off, animator and character designer 西位輝実 (Nishii Terumi) has been credited for the mid-episode eyecatch:
 
