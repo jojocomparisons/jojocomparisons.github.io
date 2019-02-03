@@ -1,0 +1,103 @@
+---
+layout: post
+title: "Vento Aureo #04 - Gang Enrollment"
+date: 2019-02-03 16:15:54 +0000
+comments: true
+categories: va
+---
+
+{% img center /images/VA04/04-header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello again! Fancy seeing you here, huh? Well, let's continue where we left off, and let's dive right into Vento Aureo #04, "Gang Enrollment"!
+
+<br>
+
+- Today's first difference is... Something new from the opening? Huh! As I mentioned before, The OP they used in episodes #02 and #03 was temporary, and it had a couple of things that were fixed in the "final" version from episode #04 onwards. Well, the final version also dimmed another sequence that was brighter in the preliminary version; this has, of course, been made brighter again in the BD:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA04/01 - brighter op.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA04/01 - brighter op.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Let's move on to the actual episode! For exactly _one frame_, this shaking animation of Black Sabbath was shaken... too much! You can see it from the top of the frame, in which the smoke effects coming off of Black Sabbath only reached a certain bit. The BD version fixes that, by zooming in just the right amount:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA04/tv-10250.jpg" />
+ <img src="./../images/VA04/bd-10250.jpg" />
+</div>
+
+<br>
+
+- This bit of Gold Experience mudakicking Black Sabbath has been made satisfyingly brighter and sharper:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA04/02 - mudakick.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA04/02 - mudakick.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- As has this one (even more satisfying):
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA04/03 - sketchymuda.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA04/03 - sketchymuda.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Nice! Let's take a look at the eyecatch, now:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA04/04 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA04/04 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA04/tv-19275.jpg" />
+ <img src="./../images/VA04/bd-19275.jpg" />
+</div>
+
+<br>
+
+- This scene of Giorno bullying Koichi is now slightly more zoomed in:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA04/tv-20500.jpg" />
+ <img src="./../images/VA04/bd-20500.jpg" />
+</div>
+
+<br>
+
+- The zoom in this scene is much smoother (it was only one frame in the TV version!):
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA04/05 - smoothzoom.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA04/05 - smoothzoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- The second-to-last kanji in Animator 村木麻保良 (Muraki Mahora)'s name has been fixed (帆⇒保):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA04/tv-32375.jpg" />
+ <img src="./../images/VA04/bd-32375.jpg" />
+</div>
+
+<br>
+
+- Here,うすいこうぢ (Usui Kо̄ji)'s name has been fixed _twice_! (こうじ⇒こうぢ) He was responsible both for Colour Setting and FInishing Animation:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA04/tv-32550.jpg" />
+ <img src="./../images/VA04/bd-32550.jpg" />
+</div>
+
+<br>
+
+And that's it for episode #04 as well! Both episode #03 and this one were very quick, but I still hope you had a good time. See you next week for... Stardust Crusaders #11, probably!
+
+<br>
+
+See ya!
+
+{% img center /images/tobecontinued.png %}
