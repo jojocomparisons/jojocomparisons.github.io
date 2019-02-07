@@ -18,37 +18,17 @@ Hey everyone! Welcome back for an (early) Phantom Blood #09! This one was probab
 
 - This pan in the beginning is slightly different in the BDs:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/TV 01 - pan.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/PB09/01 - pan.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB09/01 - pan.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/BD 01 - pan.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Dio chopping his own neck (the absolute madman) has been uncensored:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/TV 02 - dio neck.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/PB09/02 - dio neck.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB09/02 - dio neck.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/BD 02 - dio neck.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - In a bunch of frames, the top part of Erina's hat was a little wonky in the TV version; this has been corrected:
 
@@ -61,69 +41,29 @@ Hey everyone! Welcome back for an (early) Phantom Blood #09! This one was probab
 
 - Father Styx's gruesome death has been uncensored:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/TV 03 - styx.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/PB09/03 - styx.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB09/03 - styx.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/BD 03 - styx.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - These two scenes are brighter and sharper:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/TV 04 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/PB09/04 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB09/04 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/BD 04 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/TV 05 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/PB09/05 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB09/05 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/BD 05 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And this poor dude getting the world's hardest life-preserver to the head has been uncensored as well:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/TV 06 - head.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/PB09/06 - head.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB09/06 - head.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/BD 06 - head.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/PB09/tv-16745.jpg" />
@@ -141,125 +81,45 @@ Hey everyone! Welcome back for an (early) Phantom Blood #09! This one was probab
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/TV 07 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/PB09/07 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB09/07 - brighter 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/BD 07 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/TV 08 - brighter 4.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/PB09/08 - brighter 4.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB09/08 - brighter 4.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/BD 08 - brighter 4.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/TV 09 - brighter 5.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/PB09/09 - brighter 5.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB09/09 - brighter 5.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/BD 09 - brighter 5.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/TV 10 - brighter 6.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/PB09/10 - brighter 6.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB09/10 - brighter 6.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/BD 10 - brighter 6.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/TV 11 - brighter 7.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/PB09/11 - brighter 7.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB09/11 - brighter 7.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/BD 11 - brighter 7.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/TV 12 - brighter 8.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/PB09/12 - brighter 8.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB09/12 - brighter 8.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/BD 12 - brighter 8.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/TV 13 - brighter 9.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/PB09/13 - brighter 9.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB09/13 - brighter 9.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/BD 13 - brighter 9.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/TV 14 - brighter 10.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/PB09/14 - brighter 10.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/PB09/14 - brighter 10.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/PB09/BD 14 - brighter 10.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And to top it all off, a final difference in the very last frame of Phantom Blood: Speedwagon's chin, Jonathan's eyes and his mouth have all been retouched:
 
