@@ -352,7 +352,7 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 
 <video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
   <source src="./../videos/SC04/03 - silver chariot.webm" type='video/webm; codecs="vp8, vorbis"'>
-  <source src="./../videos/SC04/03 - silver  chariot.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+  <source src="./../videos/SC04/03 - silver chariot.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Here, Gray Fly's voice actor's name has been corrected: 長克巳 (Chō Katsumi)'s last character was mistakenly written as 己 in the TV version, and has been corrected to 巳 in the BD:
