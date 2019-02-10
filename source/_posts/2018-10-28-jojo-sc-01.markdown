@@ -87,86 +87,36 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 
 - This whole sequence is brighter and much sharper:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/TV 01 - run holly run.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC01/01 - run holly run.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC01/01 - run holly run.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/BD 01 - run holly run.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - While this is _much_ brighter:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/TV 02 - good memories.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC01/02 - good memories.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC01/02 - good memories.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/BD 02 - good memories.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Another two brighter and sharper sequences of this good mom running, for your eyes only:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/TV 03 - run holly run 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC01/03 - run holly run 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC01/03 - run holly run 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/BD 03 - run holly run 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/TV 04 - run holly run 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC01/04 - run holly run 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC01/04 - run holly run 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/BD 04 - run holly run 3.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And now for a very insignificant change! The title of the episode fades out more... smoothly in the BDs. Have a very brief video and a comparison frame (because I doubt many of you will be able to actually see the difference in the video):
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/TV 05 - quicker fade.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC01/05 - quicker fade.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC01/05 - quicker fade.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/BD 05 - quicker fade.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/SC01/tv-06412.jpg" />
@@ -177,35 +127,15 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 
 - Have another couple of brighter and sharper animations here, this time of Avdol whipping out his charred bird:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/TV 06 - charred bird 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC01/06 - charred bird 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC01/06 - charred bird 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/BD 06 - charred bird 1.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/TV 07 - charred bird 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC01/07 - charred bird 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC01/07 - charred bird 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/BD 07 - charred bird 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Magician's Red spouts slightly brighter flames in this scene:
 
@@ -225,35 +155,15 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 
 - Moving on, these two clips of Joseph showing off his incredibly overpowered Stand are also brighter and sharper:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/TV 08 - camera smash 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC01/08 - camera smash 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC01/08 - camera smash 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/BD 08 - camera smash 1.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/TV 09 - camera crash 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC01/09 - camera crash 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC01/09 - camera crash 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC01/BD 09 - camera crash 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - The first frames _after_ the crash are also brighter:
 

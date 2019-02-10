@@ -107,54 +107,24 @@ Hello again, dear readers! Welcome back, welcome back. Today we're going to take
 
 - In addition to that, Polnareff has received an additional animation in this particular bit here...:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/TV 01 - arm wipe.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC10/01 - arm wipe.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC10/01 - arm wipe.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/BD 01 - arm wipe.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - ...and the camera movement in general is slightly different:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/TV 02 - camera movement.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC10/02 - camera movement.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC10/02 - camera movement.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/BD 02 - camera movement.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - This animation is slightly brighter:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/TV 03 - brighter stab.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC10/03 - brighter stab.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC10/03 - brighter stab.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/BD 03 - brighter stab.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - The rain effect in the superimposed flashback has been changed here as well (as it was in Episode #06):
 
@@ -183,20 +153,10 @@ Hello again, dear readers! Welcome back, welcome back. Today we're going to take
 
 - This animation of Hol Horse whipping out his Emperor is also a little brighter:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/TV 04 - brighter emperor.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC10/04 - brighter emperor.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC10/04 - brighter emperor.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/BD 04 - brighter emperor.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - This scene has better contrasts and darker blacks:
 
@@ -246,20 +206,10 @@ Hello again, dear readers! Welcome back, welcome back. Today we're going to take
 
 - Here, have another brighter animation...:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/TV 05 - brightsnake.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC10/05 - brightsnake.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC10/05 - brightsnake.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/BD 05 - brightsnake.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - As in other episodes, the BD version removed the on-screen credits and included a separate ending, as you can see here:
 
@@ -272,20 +222,10 @@ Hello again, dear readers! Welcome back, welcome back. Today we're going to take
 
 - This animation has been made brighter and sharper:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/TV 06 - b&s emperor.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC10/06 - b&s emperor.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC10/06 - b&s emperor.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/BD 06 - b&s emperor.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Once again, Emperor's smoke effects have been recoloured here:
 
@@ -312,52 +252,22 @@ Hello again, dear readers! Welcome back, welcome back. Today we're going to take
 
 - Here you have another two brighter and sharper animations:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/TV 07 - b&s1.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC10/07 - b&s1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC10/07 - b&s1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/BD 07 - b&s1.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/TV 08 - b&s2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC10/08 - b&s2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC10/08 - b&s2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/BD 08 - b&s2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And a last one, this time just brighter:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/TV 09 - bright avdol.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC10/09 - bright avdol.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC10/09 - bright avdol.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC10/BD 09 - bright avdol.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Let's have one last difference for the road, one last retouched Polnareff, for your eyes only:
 

@@ -83,20 +83,10 @@ Let's go!
 
 - This scene is darker in the top left corner, and it's also uncensored:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC09/TV 01 - jawbreaker.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC09/01 - jawbreaker.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC09/01 - jawbreaker.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC09/BD 01 - jawbreaker.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/SC09/tv-11320.jpg" />
@@ -174,20 +164,10 @@ Let's go!
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC09/TV 02 - RERORERORERO.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC09/02 - RERORERORERO.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC09/02 - RERORERORERO.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC09/BD 02 - RERORERORERO.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Jotaro has been retouched again, here:
 
@@ -234,35 +214,15 @@ Let's go!
 
 - ARAKI DOING WHAT HE DOES BEST:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC09/TV 03 - DOG SLURRY.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC09/03 - DOG SLURRY.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC09/03 - DOG SLURRY.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC09/BD 03 - DOG SLURRY.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC09/TV 04 - DOG FRISBEE.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC09/04 - DOG FRISBEE.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC09/04 - DOG FRISBEE.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC09/BD 04 - DOG FRISBEE.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - The water effects are brighter and a little blurrier here...:
 
@@ -282,20 +242,10 @@ Let's go!
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC09/TV 05 - yellow temperance.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC09/05 - yellow temperance.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC09/05 - yellow temperance.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC09/BD 05 - yellow temperance.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Jotaro has been retouched quite substantially here:
 
@@ -322,50 +272,20 @@ Let's go!
 
 - And here we have three obligatory brighter and sharper bits:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC09/TV 06 - brighter and sharper 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC09/06 - brighter and sharper 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC09/06 - brighter and sharper 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC09/BD 06 - brighter and sharper 1.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC09/TV 07 - brighter and sharper 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC09/07 - brighter and sharper 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC09/07 - brighter and sharper 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC09/BD 07 - brighter and sharper 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC09/TV 08 - brighter and sharper 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC09/08 - brighter and sharper 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC09/08 - brighter and sharper 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC09/BD 08 - brighter and sharper 3.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Rubber Soul has been retouched here, and the waist of Jotaro's pants has been shaded a little brighter:
 

@@ -45,20 +45,10 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 
 - Have a look at it in motion, just because:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC04/TV 01 - tongue twister.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC04/01 - tongue twister.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC04/01 - tongue twister.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC04/BD 01 - tongue twister.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - I hope you came here today expecting to see a whole bunch of uncensored frames, because that's precisely what you will get:
 
@@ -198,20 +188,10 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 
 - Let's take a quick break for an _animated_ uncensoring! You need to see all the frames on this baby. The cut tongue is kinda humorous to me, because it kinda ends up looking like a pink mustache:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC04/TV 02 - two tongues.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC04/02 - two tongues.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC04/02 - two tongues.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC04/BD 02 - two tongues.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Another quick uncensored bit here...:
 
@@ -370,20 +350,10 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 
 - This scene of Silver Chariot cutting through flames has been made sharper and brighter:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC04/TV 03 - silver chariot.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC04/03 - silver chariot.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC04/03 - silver  chariot.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/SC04/BD 03 - silver chariot.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here, Gray Fly's voice actor's name has been corrected: 長克巳 (Chō Katsumi)'s last character was mistakenly written as 己 in the TV version, and has been corrected to 巳 in the BD:
 
