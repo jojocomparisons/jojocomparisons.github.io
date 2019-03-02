@@ -1,0 +1,106 @@
+---
+layout: post
+title: "Vento Aureo #05 - Find Polpo's Hidden Treasure!"
+date: 2019-03-02 16:31:24 +0000
+comments: true
+categories: va
+---
+
+{% img center /images/VA05/05-header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello hello, good friends! Are you doing okay? I wonder how many people even read these dumb things I write at the top! Today we're going to take a quick look at episode #05, "Find Polpo's Hidden Treasure!"
+
+<br>
+
+Let's get going!
+
+<br>
+
+- Today's first difference is a very brief brighter bit, but it's so brief that it's better shown with a single frame:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA05/tv-08425.jpg" />
+ <img src="./../images/VA05/bd-08425.jpg" />
+</div>
+
+<br>
+
+- Let's move on to this other seminal scene, which will have a bunch of different aspects to compare. First off, Abbacchio's "A" medallion thingie he has on his waist has been slightly retouched, and Mista is looking a little better in a lot of places:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA05/tv-11423.jpg" />
+ <img src="./../images/VA05/bd-11423.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA05/tv-11425.jpg" />
+ <img src="./../images/VA05/bd-11425.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA05/tv-11445.jpg" />
+ <img src="./../images/VA05/bd-11445.jpg" />
+</div>
+
+<br>
+
+- Abbacchio now *actually* drinks his tea instead of just sitting there looking catatonic:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA05/01 - abbacchio.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA05/01 - abbacchio.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And Fugo's mouth has also been retouched here and there:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA05/tv-11545.jpg" />
+ <img src="./../images/VA05/bd-11545.jpg" />
+</div>
+
+<br>
+
+- The teapot lid has been removed here, to facilitate the preparation of the world-famous Abbacchio Tea:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA05/tv-14375.jpg" />
+ <img src="./../images/VA05/bd-14375.jpg" />
+</div>
+
+<br>
+
+- Fugo's tie has been actually coloured in here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA05/tv-26185.jpg" />
+ <img src="./../images/VA05/bd-26185.jpg" />
+</div>
+
+<br>
+
+- Giorno's nose no longer sports a pink line throughout, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA05/tv-30140.jpg" />
+ <img src="./../images/VA05/bd-30140.jpg" />
+</div>
+
+<br>
+
+And that's it for today, unfortunately! Another strong episode, inevitably resulting in a shorter comparison. I hope you'll join me next week for episode #06, "Moody Blues' Counterattack"!
+
+<br>
+
+Arrivederci!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
