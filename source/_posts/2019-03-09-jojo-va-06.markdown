@@ -1,0 +1,118 @@
+---
+layout: post
+title: "Vento Aureo #06 - Moody Blues' Counterattack"
+date: 2019-03-09 13:50:49 +0000
+comments: true
+categories: va
+---
+
+{% img center /images/VA06/06-header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Howdy, folks! What's good? I hope the absence of a JoJo episode this week didn't get you too down, my friends. I'm super pumped to see what they're gonna do with the Clash/Talking Head fight! But that's not why you're here today... You came to see some comparisons, and that you will have!
+
+<br>
+
+Let's take a look at Vento Aureo #06, "Moody Blues' Counterattack"!
+
+<br>
+
+- The first difference of today is this scene, which is slightly brighter and... redder:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA06/tv-14590.jpg" />
+ <img src="./../images/VA06/bd-14590.jpg" />
+</div>
+
+<br>
+
+- Next... Let's jump straight to the eyecatch! Sudden, I know:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA06/01 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA06/01 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA06/tv-15010.jpg" />
+ <img src="./../images/VA06/bd-15010.jpg" />
+</div>
+
+<br>
+
+- Here, Abbacchio has been moved slightly to the left:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA06/tv-16810.jpg" />
+ <img src="./../images/VA06/bd-16810.jpg" />
+</div>
+
+<br>
+
+- While here, some bits of his clothes have been made less neon-bright:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA06/tv-21410.jpg" />
+ <img src="./../images/VA06/bd-21410.jpg" />
+</div>
+
+<br>
+
+- This long scene is brighter and has better contrast overall:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA06/02 - brighter and better.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA06/02 - brighter and better.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA06/tv-24970.jpg" />
+ <img src="./../images/VA06/bd-24970.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA06/tv-25025.jpg" />
+ <img src="./../images/VA06/bd-25025.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA06/tv-25155.jpg" />
+ <img src="./../images/VA06/bd-25155.jpg" />
+</div>
+
+<br>
+
+- Abbacchio's clothing has been toned down again in this flashback:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA06/tv-27250.jpg" />
+ <img src="./../images/VA06/bd-27250.jpg" />
+</div>
+
+<br>
+
+- Let's move straight to the end credits! Here, 荒川理恵 (Arakawa Rie)'s name has been added to the list (row 3, column 3), and the rest of the names have been moved accordingly:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA06/tv-31065.jpg" />
+ <img src="./../images/VA06/bd-31065.jpg" />
+</div>
+
+<br>
+
+And that's it for this week's quick comparison! Another testament to David Pro's amazing work with the Part 5 adaptation. But I cannot deny that my soul yearns for some serious redraws! I wonder if we'll be so lucky, sooner or later... Well, anyway, I'll see you next week for Vento Aureo #07, "Sex Pistols Appears - Part 1"!
+
+<br>
+
+See ya!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
