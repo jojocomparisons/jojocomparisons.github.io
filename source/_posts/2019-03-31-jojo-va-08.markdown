@@ -28,8 +28,8 @@ Let's start, shall we?
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA08/tv-20213.jpg" />
- <img src="./../images/VA08/bd-20213.jpg" />
+ <img src="./../images/VA08/tv-15610.jpg" />
+ <img src="./../images/VA08/bd-15610.jpg" />
 </div>
 
 <br>
