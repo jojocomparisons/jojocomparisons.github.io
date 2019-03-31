@@ -1,0 +1,69 @@
+---
+layout: post
+title: "Vento Aureo #08 - Sex Pistols Appears - Part 2"
+date: 2019-03-31 18:54:06 +0100
+comments: true
+categories: va
+---
+
+{% img center /images/VA08/08-header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello, friends! Welcome back. Sorry if I missed the last week's comparison, but I had some people over and I didn't have any time to work on the blog. But I'm back, and I'm ready to tackle today's very short comparison, Vento Aureo #08, "Sex Pistols Appears - Part 2"!
+
+<br>
+
+Let's start, shall we?
+
+<br>
+
+- Today's first difference is the eyecatch already, a testament to the shortness of today's post:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA08/01 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA08/01 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA08/tv-20213.jpg" />
+ <img src="./../images/VA08/bd-20213.jpg" />
+</div>
+
+<br>
+
+- Moving on! This shot of Mista is also a little brighter and sharper:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA08/02 - mista.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA08/02 - mista.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And here's a small collection of scenes with a better contrast:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA08/03 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA08/03 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video> 
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA08/04 - better contrast.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA08/04 - better contrast.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA08/05 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA08/05 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+And that's it for this week, I'm afraid! Very brief, very uneventful. Sorry about that! I hope you'll join me next week as I go back to Stardust Crusaders for a little while.
+
+<br>
+
+See you!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
