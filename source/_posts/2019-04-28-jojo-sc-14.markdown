@@ -1,0 +1,295 @@
+---
+layout: post
+title: "Stardust Crusaders #14 - Justice - Part 1"
+date: 2019-04-28 18:15:28 +0100
+comments: true
+categories: sc
+---
+
+{% img center /images/SC14/14-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hey, good folks! Welcome back to this humble blog. I hope you'll accept my sincere aplogies for this late comparison, but I was on vacation and all that. I also have to live my life, ya know! Anyhow, today we're going to take a look at Stardust Crusaders #14, "Justice - Part 1"!
+
+<br>
+
+Shall we start?
+
+<br>
+
+- Let's begin with a re-positioned and slightly retouched Jotaro, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-02450.jpg" />
+ <img src="./../images/SC14/bd-02450.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-02515.jpg" />
+ <img src="./../images/SC14/bd-02515.jpg" />
+</div>
+
+<br>
+
+- Let's move on! As you all well know, you can't really have a Jojo episode without butchering a couple of dogs at the very least. So, on that note, here we have a poor uncensored impaled mutt (and a sliiightly different fog effect too):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-06520.jpg" />
+ <img src="./../images/SC14/bd-06520.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-06558.jpg" />
+ <img src="./../images/SC14/bd-06558.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-06559.jpg" />
+ <img src="./../images/SC14/bd-06559.jpg" />
+</div>
+
+<br>
+
+- And again here! But this bit is also interesting because the background has been completely changed as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-06580.jpg" />
+ <img src="./../images/SC14/bd-06580.jpg" />
+</div>
+
+<br>
+
+- These scenes have been zoomed out a little:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-09450.jpg" />
+ <img src="./../images/SC14/bd-09450.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-09610.jpg" />
+ <img src="./../images/SC14/bd-09610.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-12515.jpg" />
+ <img src="./../images/SC14/bd-12515.jpg" />
+</div>
+
+<br>
+
+- The dog and fog come back here, in this flashback scene:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-13700.jpg" />
+ <img src="./../images/SC14/bd-13700.jpg" />
+</div>
+
+<br>
+
+- Alright, this is quite huge, I'd say. The BD version of Justice's first scene is massively different, as it... actually contains the town itself, instead of being shot in an abstract sandstorm:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC14/01 - justice 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC14/01 - justice 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-14075.jpg" />
+ <img src="./../images/SC14/bd-14075.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-14085.jpg" />
+ <img src="./../images/SC14/bd-14085.jpg" />
+</div>
+
+<br>
+
+- And again here, plus some brighter and sharper lightning effects:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC14/02 - justice 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC14/02 - justice 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-14220.jpg" />
+ <img src="./../images/SC14/bd-14220.jpg" />
+</div>
+
+<br>
+
+- And, once again, here...:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC14/03 - justice 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC14/03 - justice 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-14385.jpg" />
+ <img src="./../images/SC14/bd-14385.jpg" />
+</div>
+
+<br>
+
+- Here, the top of the frame is significantly less foggy:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-14555.jpg" />
+ <img src="./../images/SC14/bd-14555.jpg" />
+</div>
+
+<br>
+
+- And here we have another slightly zoomed-out shot...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-16660.jpg" />
+ <img src="./../images/SC14/bd-16660.jpg" />
+</div>
+
+<br>
+
+- And this whole sequence of Joseph doing perhaps what is his stupidest and most necessary stunt ever in the history of Jojo has also been made brighter and sharper. We can now appreciate this idiot man in full crisp 4K HD:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC14/04 - idiot joseph.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC14/04 - idiot joseph.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Moving on, here we have another boring zoomed-out bit:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-19510.jpg" />
+ <img src="./../images/SC14/bd-19510.jpg" />
+</div>
+
+<br>
+
+- Hold your whole horses, fellas! Here is the most important change you'll ever see: a very, very, very, very minute spot on Hol Horse's jaw has been coloured pink instead of brown. INCREDIBLE:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-25205.jpg" />
+ <img src="./../images/SC14/bd-25205.jpg" />
+</div>
+
+<br>
+
+- Shocking, I know! Now, continuing with our favourite cowboy idiot: here, the shading line on his right cheek has been adjusted and now actually makes sense:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-26520.jpg" />
+ <img src="./../images/SC14/bd-26520.jpg" />
+</div>
+
+<br>
+
+- And again here; on top of that, the missing highlight on his cheek has been added in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-26635.jpg" />
+ <img src="./../images/SC14/bd-26635.jpg" />
+</div>
+
+<br>
+
+- Here, have a couple of brighter and sharper animations! They're always fun:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC14/05 - scissor sisters.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC14/05 - scissor sisters.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC14/06 - scissor sisters 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC14/06 - scissor sisters 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, Hol Horse's middle finger is no longer affected by the ｓｕｃｃ effect emanated by Justice's hole, and the blood is also lighter in some points:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-28930.jpg" />
+ <img src="./../images/SC14/bd-28930.jpg" />
+</div>
+
+<br>
+
+- This animation now has a much better contrast and is also sharper:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC14/07 - hol horse 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC14/07 - hol horse 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- The contrast in these two scenes is also looking much better:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-30295.jpg" />
+ <img src="./../images/SC14/bd-30295.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-30316.jpg" />
+ <img src="./../images/SC14/bd-30316.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-30419.jpg" />
+ <img src="./../images/SC14/bd-30419.jpg" />
+</div>
+
+<br>
+
+- Let's move on to the credits! This time around, it's "Big Owl"'s time to get corrected, son. Their name now has a space in between:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-32200.jpg" />
+ <img src="./../images/SC14/bd-32200.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-32335.jpg" />
+ <img src="./../images/SC14/bd-32335.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC14/tv-32450.jpg" />
+ <img src="./../images/SC14/bd-32450.jpg" />
+</div>
+
+<br>
+
+And that's it for today's comparison! I hope you had a good time, and I'll see you next time for... probably still Stardust Crusaders, Episode #15, "Justice - Part 2"! We'll go back to the Vento Aureo a little later, friends.
+
+<br>
+
+See you next time!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
