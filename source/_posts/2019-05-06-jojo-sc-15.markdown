@@ -1,0 +1,60 @@
+---
+layout: post
+title: "Stardust Crusaders #15 - Justice - Part 2"
+date: 2019-05-06 17:26:10 +0100
+comments: true
+categories: sc
+---
+
+{% img center /images/SC15/15-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello, good folks! Welcome back to this blog. Today we're going to take a very brief look at Stardust Crusaders #15, "Justice - Part 2"! Not many differences today, but let's get to it nonetheless.
+
+<br>
+
+- Today's first difference is this brighter bit of Hol Horse shooting himself right in the face:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC15/01 - hol horse.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC15/01 - hol horse.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And let's quickly move to two brighter and sharper animations:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC15/02 - bns1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC15/02 - bns1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC15/03 - bns2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC15/03 - bns2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Aaand let's close today's incredibly quick thing with this bit of Jotaro, whose mouth flap has been changed in the BD, and he now no longer opens his mouth during this part here:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC15/04 - mouth flap.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC15/04 - mouth flap.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC15/tv-27280.jpg" />
+ <img src="./../images/SC15/bd-27280.jpg" />
+</div>
+
+<br>
+
+That's it for today's comparison, I'm afraid! Sorry for the brief and uneventful post, but that's just what happens sometimes. See you next week for Stardust Crusaders #16, "The Lovers - Part 1"!
+
+<br>
+
+Ciao!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
