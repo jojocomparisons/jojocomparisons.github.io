@@ -3,7 +3,7 @@
   <title><![CDATA[JoJo's Bizarre Comparisons]]></title>
   <link href="https://jojocomparisons.github.io/atom.xml" rel="self"/>
   <link href="https://jojocomparisons.github.io/"/>
-  <updated>2019-05-17T21:42:22+01:00</updated>
+  <updated>2019-05-17T21:55:57+01:00</updated>
   <id>https://jojocomparisons.github.io/</id>
   <author>
     <name><![CDATA[Duwang Boi]]></name>
@@ -15,7 +15,7 @@
   <entry>
     <title type="html"><![CDATA[Stardust Crusaders #16 - The Lovers - Part 1]]></title>
     <link href="https://jojocomparisons.github.io/jojo-sc-16/"/>
-    <updated>2019-05-17T21:09:39+01:00</updated>
+    <updated>2019-05-17T21:50:39+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-sc-16</id>
     <content type="html"><![CDATA[<p><img class="center" src="https://jojocomparisons.github.io/images/SC16/16-headerJP.jpg" />
 <!-- more --></p>
@@ -83,7 +83,7 @@
 <p><br /></p>
 
 <ul>
-  <li>This animation of Steely Dan smashing Jotaro on the face with a rock (?!) has been made sharper and brighter:</li>
+  <li>This animation of Steely Dan smashing Jotaro on the shoulder with a rock (?!) has been made sharper and brighter:</li>
 </ul>
 
 <video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
@@ -143,14 +143,9 @@
   <li>And here, like last episode, there is a slightly tweaked mouthflap. It’s nothing major, just something to adjust the animation to better match Kakyoin’s speech:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
-  <source src="./../videos/SC16/05 - mouthflap.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
-  <source src="./../videos/SC16/05 - mouthflap.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
-</video>
-
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC16/tv-30449.jpg" />
- <img src="./../images/SC16/bd-30449.jpg" />
+ <img src="./../images/SC16/tv-30447.jpg" />
+ <img src="./../images/SC16/bd-30447.jpg" />
 </div>
 
 <p><br /></p>
