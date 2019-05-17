@@ -1,0 +1,132 @@
+---
+layout: post
+title: "Stardust Crusaders #16 - The Lovers - Part 1"
+date: 2019-05-17 21:50:39 +0100
+comments: true
+categories: sc
+---
+
+{% img center /images/SC16/16-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello, good peeps! Welcome back. Today we're going to take a look at the differences in Stardust Crusaders #16, "The Lovers - Part 1". I kinda liked this fight when I read it in the manga, but for some reason I didn't really... think it was anything special in the anime. I'm not sure why! Maybe it didn't need two whole episodes. Anyway!
+
+<br>
+
+Let's begin!
+
+<br>
+
+- Here, Joseph's beard is no longer separated from his face by a sharp black line, and the shading on his face itself has changed a little bit:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC16/tv-04220.jpg" />
+ <img src="./../images/SC16/bd-04220.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC16/tv-04335.jpg" />
+ <img src="./../images/SC16/bd-04335.jpg" />
+</div>
+
+<br>
+
+- Here, there is one line less on Steely Dan's face, and his left eye has also been redrawn:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC16/tv-08550.jpg" />
+ <img src="./../images/SC16/bd-08550.jpg" />
+</div>
+
+<br>
+
+- Joseph's ear and pupils have been redrawn here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC16/tv-16245.jpg" />
+ <img src="./../images/SC16/bd-16245.jpg" />
+</div>
+
+<br>
+
+- The shade under Steely Dan's lower lips is a tad darker here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC16/tv-18760.jpg" />
+ <img src="./../images/SC16/bd-18760.jpg" />
+</div>
+
+<br>
+
+- This animation of Steely Dan smashing Jotaro on the shoulder with a rock (?!) has been made sharper and brighter:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC16/01 - rock n roll.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC16/01 - rock n roll.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, there are a bunch of different details on Steely Dan's face:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC16/tv-24480.jpg" />
+ <img src="./../images/SC16/bd-24480.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC16/tv-24520.jpg" />
+ <img src="./../images/SC16/bd-24520.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC16/tv-24665.jpg" />
+ <img src="./../images/SC16/bd-24665.jpg" />
+</div>
+
+<br>
+
+- These two brief animations are now brighter...:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC16/02 - hermit purple.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC16/02 - hermit purple.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC16/03 - polnareff.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC16/03 - polnareff.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- While this is brighter _and_ sharper! Lo and behold:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/SC16/04 - micro stands.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC16/04 - micro stands.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And here, like last episode, there is a slightly tweaked mouthflap. It's nothing major, just something to adjust the animation to better match Kakyoin's speech:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/SC16/tv-30447.jpg" />
+ <img src="./../images/SC16/bd-30447.jpg" />
+</div>
+
+<br>
+
+And that's it for today! Not much to show, but we gotta get through this to get to the juicier episodes! I'll see you next week (or the one after that - unfortunately I'm going to have to send my laptop in for repairs and I'm not entirely sure when I'll have it back) for Stardust Crusaders #17, "The Lovers - Part 2"! I know you're all disappointed that I'm not covering Vento Aureo right now, but I'm trying to not spend too much money on BDs as of late. I'll be back on them eventually, though. I'll let you know when, don't worry! Until then... We're in this crusade together!
+
+<br>
+
+See ya!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
