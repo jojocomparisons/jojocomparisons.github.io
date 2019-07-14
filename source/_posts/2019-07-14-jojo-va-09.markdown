@@ -1,0 +1,105 @@
+---
+layout: post
+title: "Vento Aureo #09 - The First Orders from the Boss"
+date: 2019-07-14 21:42:38 +0100
+comments: true
+categories: va
+---
+
+{% img center /images/VA09/09-header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello hello, good people, and welcome back! I apologize for the long wait but, as you'll know if you're following me on Twitter, I had to send my laptop in for some lengthy repairs. Luckily, my little baby is back and feeling much healthier - and, even better, I have new Vento Aureo episodes for you to take a look at! So, in other words... Strap in and get ready to take a (brief) dive into Vento Aureo #09, "The First Orders from the Boss"!
+
+<br>
+
+Let's begin, shall we?
+
+- Today's brief comparison starts with this scene here, in which the shoulders on Buccellati's suit no longer have his trademark black dot pattern:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA09/tv-13570.jpg" />
+ <img src="./../images/VA09/bd-13570.jpg" />
+</div>
+
+<br>
+
+- Here, Pericolo's walking animation has been redrawn a little bit, and some shades on his arms and back have been retouched as well:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA09/01 - do the pericolo.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA09/01 - do the pericolo.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA09/tv-16385.jpg" />
+ <img src="./../images/VA09/bd-16385.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA09/tv-16405.jpg" />
+ <img src="./../images/VA09/bd-16405.jpg" />
+</div>
+
+<br>
+
+- And here... Well, it's really nothing to write home about, but apparently enough to write _here_ about... A couple of lines on Pericolo have been tweaked in the BD; see if you can spot them:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA09/tv-17005.jpg" />
+ <img src="./../images/VA09/bd-17005.jpg" />
+</div>
+
+<br>
+
+- Here, Trish's eyes and lashes have been retouched and are looking better:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA09/tv-19300.jpg" />
+ <img src="./../images/VA09/bd-19300.jpg" />
+</div>
+
+<br>
+
+- Let's have a good look at this brighter and sharper Aerosmith:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA09/02 - aerosmith.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA09/02 - aerosmith.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And here, this explosion is much brighter:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA09/03 - explosion 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA09/03 - explosion 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA09/04 - explosion 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA09/04 - explosion 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Let's take a quick look at the credits! Here, the company name DOG WOOD was misspelled as DOOG WOOD; this has been corrected:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA09/tv-31815.jpg" />
+ <img src="./../images/VA09/bd-31815.jpg" />
+</div>
+
+<br>
+
+Aaand that's it for this comparison! Short, but that still means it's one less comparison to go until we're analyzing some of the juicier episodes. See you... right now for Vento Aureo #10, "La Squadra Esecuzioni"!
+
+<br>
+
+See you in a second!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
