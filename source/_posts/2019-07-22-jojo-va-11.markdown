@@ -1,0 +1,577 @@
+---
+layout: post
+title: "Vento Aureo #11 - Narancia's Aerosmith"
+date: 2019-07-22 22:45:51 +0100
+comments: true
+categories: va
+---
+
+{% img center /images/VA11/11-header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello hello, good folks! Welcome back to our weekly-ish appointment. Are you ready to delve into today's episode? Are you ready to take apart Vento Aureo #11, "Narancia's Aerosmith", and examine it more closely than you ever thought was possible - or necessary? Of course, of course you are!
+
+<br>
+
+Let's get this started then, shall we?
+
+<br>
+
+- Let's get this party going with a video of Narancia's Aerosmith visor. In the BDs the shot is static:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA11/01 - aerosmith visor.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA11/01 - aerosmith visor.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, in David Production's rendition of that classic Monty Python scene, the shadow beneath the shoe is darker and the background is a lot blurrier:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-02160.jpg" />
+ <img src="./../images/VA11/bd-02160.jpg" />
+</div>
+
+<br>
+
+- And here, in Narancia's flashback, his mother is no longer breathing quite that hard:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA11/02 - narancia mom.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA11/02 - narancia mom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- In this scene, there is a different distortion around the edges, and Narancia's shirt is no longer striped (as it should have been):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-06250.jpg" />
+ <img src="./../images/VA11/bd-06250.jpg" />
+</div>
+
+<br>
+
+- And here, the kid on the right now stops before stealing the last bread from the bakery! How kind-hearted:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-06355.jpg" />
+ <img src="./../images/VA11/bd-06355.jpg" />
+</div>
+
+<br>
+
+- Here, Narancia's teeth have been shaded at the sides...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-07940.jpg" />
+ <img src="./../images/VA11/bd-07940.jpg" />
+</div>
+
+<br>
+
+- ... and they've been coloured in correctly here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-07970.jpg" />
+ <img src="./../images/VA11/bd-07970.jpg" />
+</div>
+
+<br>
+
+- Here, the interrogation room now has a chair (!!), the old lady's expression is very different, the detective has been moved a little to the right and his eyes have a deeper shadow over them:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-08010.jpg" />
+ <img src="./../images/VA11/bd-08010.jpg" />
+</div>
+
+<br>
+
+- The whole action takes place a little more to the right, as you can see here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-08030.jpg" />
+ <img src="./../images/VA11/bd-08030.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-08050.jpg" />
+ <img src="./../images/VA11/bd-08050.jpg" />
+</div>
+
+<br>
+
+- In this sequence, Narancia's shadow was glitching out a little in some frames; this has been fixed in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-08185.jpg" />
+ <img src="./../images/VA11/bd-08185.jpg" />
+</div>
+
+<br>
+
+- In this flashback, that turbodouche's hair is noticeably blonder:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-08605.jpg" />
+ <img src="./../images/VA11/bd-08605.jpg" />
+</div>
+
+<br>
+
+- Narancia no longer shakes here. Good on you, boy:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA11/03 - no shakin.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA11/03 - no shakin.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, the aforementioned turbodouche has been redrawn and re-shaded:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-09618.jpg" />
+ <img src="./../images/VA11/bd-09618.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-09624.jpg" />
+ <img src="./../images/VA11/bd-09624.jpg" />
+</div>
+
+<br>
+
+- And he also moves off-screen a little quicker:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-09680.jpg" />
+ <img src="./../images/VA11/bd-09680.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-09690.jpg" />
+ <img src="./../images/VA11/bd-09690.jpg" />
+</div>
+
+<br>
+
+- Here, Narancia' shocked eye has been shaded a little differently, and the second line from the right on his nose is _a little thicker_. WOW!!! Check it out:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-09704.jpg" />
+ <img src="./../images/VA11/bd-09704.jpg" />
+</div>
+
+<br>
+
+- Here, Narancia no longer does that janky motion to retrieve what was basically the same piece of food he was already eating, but instead he simply munches on what he has in his hand:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA11/04 - narancia munching on arancia.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA11/04 - narancia munching on arancia.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, the plate of spaghetti has been redrawn, and now actually looks like the same food that was shown in previous shots:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-11530.jpg" />
+ <img src="./../images/VA11/bd-11530.jpg" />
+</div>
+
+<br>
+
+- Here there are a bunch less dots on Buccellati's suit, and the shading behind Narancia's pillows is darker:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-11720.jpg" />
+ <img src="./../images/VA11/bd-11720.jpg" />
+</div>
+
+<br>
+
+- Here, Narancia's eyes have been very slightly retouched (look at the darker shade of purple), and he's no longer sporting that very anime drop on his right cheek:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-12435.jpg" />
+ <img src="./../images/VA11/bd-12435.jpg" />
+</div>
+
+<br>
+
+- And, later in the same shot, Buccellati's hand has been flipped (as he was actually pointing with his left hand, not his right):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-12460.jpg" />
+ <img src="./../images/VA11/bd-12460.jpg" />
+</div>
+
+<br>
+
+- Narancia now has his good ol nose lines in this shot:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-13610.jpg" />
+ <img src="./../images/VA11/bd-13610.jpg" />
+</div>
+
+<br>
+
+- Back to the present! Here, most shaded bits are blacker, and his eyebrows are also darker towards the center:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-14100.jpg" />
+ <img src="./../images/VA11/bd-14100.jpg" />
+</div>
+
+<br>
+
+- And towards the end, his neck and the rightmost... ball??? on his suit are correctly shaded:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-14235.jpg" />
+ <img src="./../images/VA11/bd-14235.jpg" />
+</div>
+
+<br>
+
+- And here, once again, Narancia has found his bravery and is no longer shaking:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA11/05 - no more shakin 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA11/05 - no more shakin 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- This whole sequence has been given a fresh paint of purple and a brand new texture layer overlay! Check it out:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-16325.jpg" />
+ <img src="./../images/VA11/bd-16325.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-16345.jpg" />
+ <img src="./../images/VA11/bd-16345.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-16450.jpg" />
+ <img src="./../images/VA11/bd-16450.jpg" />
+</div>
+
+<br>
+
+- Here, the lines on the bottle are a little less blurry, and the bottle itself has been moved:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-16525.jpg" />
+ <img src="./../images/VA11/bd-16525.jpg" />
+</div>
+
+<br>
+
+- This very brief sequence is brighter, but it's too short to make an animation out of! Here, have some frames:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-18679.jpg" />
+ <img src="./../images/VA11/bd-18679.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-18683.jpg" />
+ <img src="./../images/VA11/bd-18683.jpg" />
+</div>
+
+<br>
+
+- The lines on Narancia are a little bit thicker here, and the background no longer moves with the action:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-18698.jpg" />
+ <img src="./../images/VA11/bd-18698.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-18713.jpg" />
+ <img src="./../images/VA11/bd-18713.jpg" />
+</div>
+
+<br>
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA11/06 - narancia bottle stab.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA11/06 - narancia bottle stab.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, some of the legs of this spider have been redrawn, and the web motion has also been massively retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-19025.jpg" />
+ <img src="./../images/VA11/bd-19025.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-19036.jpg" />
+ <img src="./../images/VA11/bd-19036.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-19045.jpg" />
+ <img src="./../images/VA11/bd-19045.jpg" />
+</div>
+
+<br>
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA11/07 - spiderweb.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA11/07 - spiderweb.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Narancia is now casting a shadow, and his shoulders are now shaking:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA11/08 - mo shakin.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA11/08 - mo shakin.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-19150.jpg" />
+ <img src="./../images/VA11/bd-19150.jpg" />
+</div>
+
+<br>
+
+- And here's the eyecatch! Take a peek:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA11/09 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA11/09 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-20999.jpg" />
+ <img src="./../images/VA11/bd-20999.jpg" />
+</div>
+
+<br>
+
+- Here, this shot is a little more zoomed-in, and the holes (and relative smoke) have been moved as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-22610.jpg" />
+ <img src="./../images/VA11/bd-22610.jpg" />
+</div>
+
+<br>
+
+- The shape of the fire has been retouched a little bit here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-23388.jpg" />
+ <img src="./../images/VA11/bd-23388.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-23505.jpg" />
+ <img src="./../images/VA11/bd-23505.jpg" />
+</div>
+
+<br>
+
+- This whole bit is brighter and sharper:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA11/10 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA11/10 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, the floating fire particles have been moved around a little bit, and Narancia's... skirt? has been shaded a little differently too:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-24004.jpg" />
+ <img src="./../images/VA11/bd-24004.jpg" />
+</div>
+
+<br>
+
+- Another brighter and sharper animation of Aerosmith, ladles and jelly spoons:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA11/11 - aerosmith.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA11/11 - aerosmith.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, Narancia has received a different hue (looks great!) and both the smoke on his left and explosion on his right have been retouched a tad:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-25890.jpg" />
+ <img src="./../images/VA11/bd-25890.jpg" />
+</div>
+
+<br>
+
+- The smoke behind him has been retouched once again:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-25945.jpg" />
+ <img src="./../images/VA11/bd-25945.jpg" />
+</div>
+
+<br>
+
+- And again here! As you can see, it wasn't really looping properly - it's looking better in the BDs:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA11/12 - smoke loop.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA11/12 - smoke loop.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- A single tiny line on Narancia's left cheekbone area is looking a little different. See if you can spot it:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-26130.jpg" />
+ <img src="./../images/VA11/bd-26130.jpg" />
+</div>
+
+<br>
+
+- The smoke billows differently in the BD again, towards the end:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA11/13 - smoke again.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA11/13 - smoke again.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And again here. Have two more better-looping smoke scenes:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA11/14 - smoke again.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA11/14 - smoke again.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA11/15 - and again.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA11/15 - and again.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- This Aerosmith barrage is now quicker, and the animation holds a little more on the bullet-ridden Formaggio. You know... Like... A Swiss cheese...:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA11/16 - swiss cheese.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA11/16 - swiss cheese.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, Narancia has been scaled down (how topical!), and Formaggio's head is a little darker:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-28610.jpg" />
+ <img src="./../images/VA11/bd-28610.jpg" />
+</div>
+
+<br>
+
+- Going back to the rest of the gang... Here, both Giorno and Abbacchio have been retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-29725.jpg" />
+ <img src="./../images/VA11/bd-29725.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-29855.jpg" />
+ <img src="./../images/VA11/bd-29855.jpg" />
+</div>
+
+<br>
+
+- Here, in this scene of Mista interrupting the two lovers, the insides of the van are a little darker:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-29900.jpg" />
+ <img src="./../images/VA11/bd-29900.jpg" />
+</div>
+
+<br>
+
+- Here, Mista's forehead has been shaded better, his mouth has been retouched in some frames and his hand is now casting a shadow. A shadow that, in fact, even cancels out the lines on the van door... But that's alright, David Pro. That's alright. Check it:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-29925.jpg" />
+ <img src="./../images/VA11/bd-29925.jpg" />
+</div>
+
+<br>
+
+- In this very dramatic compilation of face shots, that one bit under Fugo's eye has been shaded properly, and Narancia's shot no longer has that brighter triangle in the bottom-right corner:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-29990.jpg" />
+ <img src="./../images/VA11/bd-29990.jpg" />
+</div>
+
+<br>
+
+- Here, some dots on Buccellati's suit have been repositioned, and the interiors of the van are once more darker:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-30700.jpg" />
+ <img src="./../images/VA11/bd-30700.jpg" />
+</div>
+
+<br>
+
+- Once again, Buccellati's suit pattern has been retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-31552.jpg" />
+ <img src="./../images/VA11/bd-31552.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-31710.jpg" />
+ <img src="./../images/VA11/bd-31710.jpg" />
+</div>
+
+<br>
+
+- Let's quickly take a look to the credits, before wrapping up this uncharacteristically lengthy comparison! Here, STUDIO MASSKET's name, previously written in katakana, has been rewritten in romaji, and DOOG WOOD has been once again spelled correctly:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA11/tv-32300.jpg" />
+ <img src="./../images/VA11/bd-32300.jpg" />
+</div>
+
+<br>
+
+Phew! And that's officially it for this long, difference-ridden comparison! That was a fun one, wasn't it? I hope you had a good time, friends, and apologies for the slightly late post. You know how things are by now... See you here next week for Vento Aureo #12, "The Second Orders from the Boss"!
+
+<br>
+
+Be there or be square!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
