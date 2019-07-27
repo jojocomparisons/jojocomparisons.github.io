@@ -29,7 +29,7 @@ Let's get started, then!
 
 <br>
 
-- Here, Giorno's actually looking at Fugo instead of just focusing on the map, most things in the car have been shaded differently...:
+- Here, Giorno's actually looking at Fugo instead of just focusing on the map, most things in the car have been shaded differently, everything has been moved vertically a little bit...:
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/VA12/tv-03675.jpg" />
