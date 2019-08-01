@@ -291,20 +291,10 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 
 - Here we have a bad case of the ol' brighter and sharper, and the fangirls' tattoos have all been redone (...they are tattoos, right?):
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU32/TV 01 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU32/01 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU32/01 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU32/BD 01 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/DIU32/tv-20000.jpg" />
@@ -484,20 +474,10 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 
 - And, a bit later during the same scene, Josuke turns away from Yuuya way later in the BDs:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU32/TV 02 - talk to the hand.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU32/02 - talk to the hand.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU32/02 - talk to the hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU32/BD 02 - talk to the hand.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - As you can see from this comparison, Yuuya has his tattoo (...it i-) back:
 
@@ -510,20 +490,10 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 
 - And he's no longer trembling during that scene:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU32/TV 03 - trembling.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU32/03 - trembling.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU32/03 - trembling.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU32/BD 03 - trembling.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - In this frame, Josuke's eyes have been retouched, you can sort of see one of the holes in his uniform, the hand gash is back again and Tomoko has been shaded a little bit better:
 

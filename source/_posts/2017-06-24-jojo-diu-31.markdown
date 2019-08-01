@@ -138,37 +138,17 @@ Let's go!
 
 - This bit was a bit dark for some reason; this has been fixed in the BDs:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU31/TV 01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU31/01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU31/01 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU31/BD 01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And this transition is sharper:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU31/TV 02 - sharper transition.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU31/02 - sharper transition.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU31/02 - sharper transition.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU31/BD 02 - sharper transition.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here Rohan's face has been redrawn, his hands retouched and the chair is a bit more distant:
 
@@ -385,20 +365,10 @@ Let's go!
 
 - Here we have another brighter 'n' sharper bit:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU31/TV 03 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU31/03 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU31/03 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU31/BD 03 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here, Mikitaka's wound has been uncensored, the zoom has been pulled in closer and some wonky lines in his forehead area have been retouched. There are also way more blood particles:
 

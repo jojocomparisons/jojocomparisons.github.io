@@ -63,37 +63,17 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 
 - Here we have some uncensored spider guts:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU14/TV 01 - spider gore.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU14/01 - spider gore.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU14/01 - spider gore.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU14/BD 01 - spider gore.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And here, BD Hazamada and Koichi shake slightly less:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU14/TV 02 - shaking.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU14/02 - shaking.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU14/02 - shaking.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU14/BD 02 - shaking.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Have some more uncensored spider:
 
@@ -133,20 +113,10 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 
 - In this very brief video, Rohan has been given a different mouth flap and the screen shakes around in a slightly different manner:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU14/TV 03 - mouth flap.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU14/03 - mouth flap.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU14/03 - mouth flap.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU14/BD 03 - mouth flap.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here, they drew the missing chest pockets on Rohan's coat thingie, and his jaw has also been retouched:
 
@@ -195,20 +165,10 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 
 - And for the final frames of this scene, Rohan has a different mouth flap:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU14/TV 04 - mouth flap 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU14/04 - mouth flap 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU14/04 - mouth flap 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU14/BD 04 - mouth flap 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - The shading on Koichi's eye is darker here:
 
@@ -257,20 +217,10 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 
 - Here we have a shining example of the usual "sharper and brighter" business:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU14/TV 05 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU14/05 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU14/05 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU14/BD 05 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Once again here, we have a warped book texture on Koichi's face; all the remaining book textures have also been shaded better:
 

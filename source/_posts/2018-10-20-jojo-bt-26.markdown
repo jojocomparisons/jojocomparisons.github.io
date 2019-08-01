@@ -22,20 +22,10 @@ Let's cut to the chase and get this thing going!
 
 - Today's first difference is this explosion, now brighter in the BD version:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 01 - brighter explosion.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT26/01 - brighter explosion.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT26/01 - brighter explosion.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 01 - brighter explosion.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here, Kars has been retouched, and his mouth is now open to reflect the fact that he's beeing _melted in a frigging volcano_:
 
@@ -139,20 +129,10 @@ Let's cut to the chase and get this thing going!
 
 - And the shot oscillates a bit more in the BD version:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 02 - camera wave.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT26/02 - camera wave.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT26/02 - camera wave.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 02 - camera wave.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here's a similar shot! The camera has been slightly moved, Joseph's hand stump has been uncensored, there are _less_ blood particles (weird, I know), the shaded parts are a little darker and have received the usual scratch texture overlay:
 
@@ -199,20 +179,10 @@ Let's cut to the chase and get this thing going!
 
 - This scene is brighter and better shaded, and the light that comes from the crack looks much better:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 03 - brighter punches.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT26/03 - brighter punches.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT26/03 - brighter punches.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 03 - brighter punches.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - As you might have noticed from the above animation, there are a couple of frames in which Joseph's arm is lit in the wrong  way, and this has been fixed in the BD:
 
@@ -268,54 +238,26 @@ Let's cut to the chase and get this thing going!
 
 - This bit is much brighter:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 04 - brighter slash.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT26/04 - brighter slash.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT26/04 - brighter slash.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 04 - brighter slash.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-- While this is a little _darker_:
+- While this is a little _darker_ (yeah, I know, it's blurry as hell, but it's a very brief animation. Deal with it!):
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 05 - darker.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 05 - darker.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT26/tv-08978.jpg" />
+ <img src="./../images/BT26/bd-08978.jpg" />
+</div>
+
+<br>
 
 - Alright, I don't know if this happened before, but the BD version of this episode has an _entirely new_ bit of Kars posing majestically! Here you go:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 06 - new kars.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT26/05 - new kars.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT26/05 - new kars.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 06 - new kars.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Phew! And now for a much more dramatic, more important difference... The sweat drop on Stroheim has been moved by a few pixels:
 
@@ -364,20 +306,10 @@ Let's cut to the chase and get this thing going!
 
 - This whole animation is different, check it out:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 07 - aja stone.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT26/06 - aja stone.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT26/06 - aja stone.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 07 - aja stone.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here, the lava/blood effect on Joseph's molten knee is different, and the hamon aura surrounding Kars has also been changed:
 
@@ -415,24 +347,16 @@ Let's cut to the chase and get this thing going!
 
 <br>
 
-- ...there are a couple of frames which were white in the TV version and have been drawn in, in the BD version:
+- ...there are a couple of frames which were white (well, actually, grayish) in the TV version and have been drawn in, in the BD version:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 08 - hamon death ray.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 08 - hamon death ray.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT26/tv-14353.jpg" />
+ <img src="./../images/BT26/bd-14353.jpg" />
+</div>
 
-- ...and as you probably saw from the animation above, the frames after Kars hits the Aja stone are much different! It's probably better if you look for yourself:
+<br>
+
+- ...and the frames after Kars hits the Aja stone are also much different! It's probably better if you look for yourself:
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/BT26/tv-14350.jpg" />
@@ -443,22 +367,14 @@ Let's cut to the chase and get this thing going!
 
 - When Joseph's face appears in half of the frame, he's very brightly illuminated for a couple of frames...:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 09 - bright light.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 09 - bright light.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/BT26/tv-14600.jpg" />
+ <img src="./../images/BT26/bd-14600.jpg" />
+</div>
 
-- And, as you can see from the above animation, when the bright flash subsides, Joseph's face is lit with a different colour, there's a new motion-blur around the edges and the dividing line-thing is also brighter:
+<br>
+
+- And, as you can see above, when the bright flash subsides, Joseph's face is lit with a different colour, there's a new motion-blur around the edges and the dividing line-thing is also brighter:
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/BT26/tv-14480.jpg" />
@@ -476,31 +392,14 @@ Let's cut to the chase and get this thing going!
 
 <br>
 
-- This scene is slightly more zoomed in...:
+- This scene is slightly more zoomed in, the camera is moved and they added an onomatopoeia in the BD version:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT26/tv-14680.jpg" />
- <img src="./../images/BT26/bd-14680.jpg" />
+ <img src="./../images/BT26/tv-14788.jpg" />
+ <img src="./../images/BT26/bd-14788.jpg" />
 </div>
 
 <br>
-
-- ...and they added an onomatopoeia in the BD version:
-
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 10 - onomatopoeia.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 10 - onomatopoeia.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Let's move on with the flashabacks! ACDC now has an aura in this scene, he's been reshaded and his right hand has been retouched and there are more blood particles:
 
@@ -522,37 +421,15 @@ Let's cut to the chase and get this thing going!
 
 - These two explosions are brighter and sharper:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 11 - brighter explosion 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT26/07 - brighter explosion 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT26/07 - brighter explosion 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 11 - brighter explosion 1.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<br>
-
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 12 - brighter explosion 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT26/08 - brighter explosion 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT26/08 - brighter explosion 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 12 - brighter explosion 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - The dust is thicker in this scene, the dirt particles in the air are different, Stroheim's mechanical eye shines very brightly in the sun...:
 
@@ -572,20 +449,10 @@ Let's cut to the chase and get this thing going!
 
 - ...and the camera shakes more too:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 13 - stroheim shake.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT26/09 - stroheim shake.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT26/09 - stroheim shake.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 13 - stroheim shake.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Joseph, Kars and Joseph's hand have all been moved more to the center of the rock, and the camera has been moved too:
 
@@ -699,54 +566,24 @@ Let's cut to the chase and get this thing going!
 
 - Take a look at the whole thing, just because:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 14 - stoned kars.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT26/10 - stoned kars.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT26/10 - stoned kars.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 14 - stoned kars.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - This scene is brighter and sharper too, and there's less of a blur along the edges:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 15 - brighter kars.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT26/11 - brighter kars.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT26/11 - brighter kars.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 15 - brighter kars.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - The camera in the following scene shakes around more...:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 16 - joseph shake.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT26/12 - joseph shake.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT26/12 - joseph shake.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 16 - joseph shake.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - ...Joseph has been retouched too (a slightly different shading on his right shoulder), the dust effect is a little different...:
 
@@ -768,20 +605,10 @@ Let's cut to the chase and get this thing going!
 
 - The characters "死亡・・・" (deceased...) appear more gradually in the BD:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 17 - deceased.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT26/13 - deceased.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT26/13 - deceased.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 17 - deceased.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - R.E.O.'s eyes now have a line below them, here...:
 
@@ -803,20 +630,10 @@ Let's cut to the chase and get this thing going!
 
 - This animation is _a little_ different (there are a couple of extra frames before the zoom out, which make the transition a little less sudden):
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 18 - zoom out.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT26/14 - zoom out.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT26/14 - zoom out.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 18 - zoom out.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Everyone is bigger here:
 
@@ -861,20 +678,10 @@ Let's cut to the chase and get this thing going!
 
 - Let's move on... _Beyond_ the credits! This scene has been completely redrawn and recoloured! Have a gander for yourself:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 19 - holy diver.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT26/15 - holy diver.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT26/15 - holy diver.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 19 - holy diver.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/BT26/tv-32915.jpg" />
@@ -924,20 +731,10 @@ Let's cut to the chase and get this thing going!
 
 - And, good people of the court, let's get to what is (perhaps) Battle Tendency's most famous difference! The transition on this zoom out is much faster in the BD version, because... they added a "to be continued" arrow to it! Check it out:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/TV 20 - TO BE CONTINUED.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT26/16 - TO BE CONTINUED.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT26/16 - TO BE CONTINUED.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT26/BD 20 - TO BE CONTINUED.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/BT26/tv-33670.jpg" />

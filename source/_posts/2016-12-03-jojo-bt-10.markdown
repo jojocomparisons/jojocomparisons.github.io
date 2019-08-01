@@ -29,20 +29,10 @@ Now then, without further ado, let's go!
 
 - And with a likewise uncensored broken finger:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT10/TV 01 - cokefinger.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT10/01 - cokefinger.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT10/01 - cokefinger.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/BT10/BD 01 - cokefinger.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Even old speedwagon is not safe from a couple of retouches:
 
@@ -112,50 +102,20 @@ Now then, without further ado, let's go!
 
 - And to finish this, a couple of brighter and sharper shots as per usual:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT10/TV 02 - tommygun.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT10/02 - tommygun.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT10/02 - tommygun.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/BT10/BD 02 - tommygun.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT10/TV 03 - joseph pan 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT10/03 - joseph pan 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT10/03 - joseph pan 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/BT10/BD 03 - joseph pan 1.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT10/TV 04 - joseph pan 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT10/04 - joseph pan 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT10/04 - joseph pan 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video nocontrols loop preload='auto'>
-  <source src="./../videos/BT10/BD 04 - joseph pan 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 And that's all for this comparison! As it was the case for Phantom Blood #09, david production probably put a lot of budget into Battle Tendency's first episode; as a result, it needed less retouches for the BD release. By the way, I just wanted to mention that this past week I was not at home, so this comparison was a bit late. You can expect them to come a bit more regularly from now on!
 

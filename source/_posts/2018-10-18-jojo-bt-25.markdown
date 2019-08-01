@@ -67,20 +67,10 @@ Let's get going!
 
 - And the camera also shakes around more:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT25/TV 01 - do the squirrel shake.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT25/01 - do the squirrel shake.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT25/01 - do the squirrel shake.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT25/BD 01 - do the squirrel shake.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Death by squirrel (also a very good name for an indie death metal/dark cabaret band):
 
@@ -100,20 +90,10 @@ Let's get going!
 
 - Kars' butterfly-hand flaps its wings more:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT25/TV 02 - butterflap.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT25/02 - butterflap.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT25/02 - butterflap.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT25/BD 02 - butterflap.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Joseph is more centered here, and he's also been retouched (although I preferred it when his nose was shaded):
 
@@ -275,37 +255,17 @@ Let's get going!
 
 - This bit is a little sharper, the colours are a little more saturated and the camera shakes a little bit more:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT25/TV 03 - speedshake.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT25/03 - speedshake.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT25/03 - speedshake.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT25/BD 03 - speedshake.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And this is brighter _and_ sharper:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT25/TV 04 - pew pew.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT25/04 - pew pew.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT25/04 - pew pew.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT25/BD 04 - pew pew.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Almost everything in this scene has been moved, retouched or scaled up/down... The plane control has been removed entirely! Have a look for yourself:
 
@@ -386,20 +346,10 @@ Let's get going!
 
 - This animation is also a _tiny bit_ sharper:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT25/TV 05 - maybe sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT25/05 - maybe sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT25/05 - maybe sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT25/BD 05 - maybe sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And, to tie this comparison up, say hi again to 石本峻一 (Ishimoto Shun'ichi), added at the bottom here:
 

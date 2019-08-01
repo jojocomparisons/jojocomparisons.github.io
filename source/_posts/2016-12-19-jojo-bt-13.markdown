@@ -43,20 +43,10 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - This bit of Joseph being a joker has been redrawn, and the animation is slightly different:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 01 - happy urepy.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT13/01 - happy urepy.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT13/01 - happy urepy.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 01 - happy urepy.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/BT13/tv-00942.jpg" />
@@ -113,20 +103,10 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 02 - hol horse reference.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT13/02 - hol horse reference.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT13/02 - hol horse reference.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 02 - hol horse reference.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/BT13/tv-04550.jpg" />
@@ -135,37 +115,12 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 <br>
 
-- These two shots now have a moving background in the BDs:
+- These shots now have a moving background in the BDs:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 03 - background 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT13/03-04 - background.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT13/03-04 - background.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 03 - background 1.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 04 - background 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 04 - background 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Santana, Stroheim and Speedwagon's faces have all been redrawn here:
 
@@ -185,20 +140,10 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 05 - santana.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT13/05 - santana.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT13/05 - santana.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 05 - santana.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/BT13/tv-06792.jpg" />
@@ -223,37 +168,17 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - This shot is more centered:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 06 - centered.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT13/06 - centered.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT13/06 - centered.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 06 - centered.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And in this part here, Joseph has his eyes closed for the first few frames of the BD version:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 07 - eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT13/07 - eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT13/07 - eyes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 07 - eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - In this shot, both Joseph and Santana's bodies have been heavily redrawn and re-shaded:
 
@@ -275,37 +200,17 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - And a proper brighter shot here:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 08 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT13/08 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT13/08 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 08 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - This other animation here is not only sharper and brighter as usual, but you'll notice the timing of the punch is a bit different; moreover, most frames have been redrawn, and Joseph's mouth is different:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 09 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT13/09 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT13/09 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 09 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/BT13/tv-09540.jpg" />
@@ -351,20 +256,10 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 10 - foot knife.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT13/10 - foot knife.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT13/10 - foot knife.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 10 - foot knife.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Santana has been redrawn and has a mouth that makes sense here:
 
@@ -409,20 +304,10 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - This animation of Joseph tearing Santana apart is different. The hamon effects are flashier and Santana's body parts circle around Joseph:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 11 - rip in pepperoni.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT13/11 - rip in pepperoni.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT13/11 - rip in pepperoni.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 11 - rip in pepperoni.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And the consequent mid-episode freeze-frame is also different:
 
@@ -444,37 +329,17 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - And here we have another pretty gory bit:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 12 - rest in pieces.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT13/12 - rest in pieces.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT13/12 - rest in pieces.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 12 - rest in pieces.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Every frame of this sequence has been more or less redrawn, and you know what this calls for! Video+image comparison incoming:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 13 - alice in chains.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT13/13 - alice in chains.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT13/13 - alice in chains.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 13 - alice in chains.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/BT13/tv-17764.jpg" />
@@ -517,37 +382,17 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - This animation is (you know the drill) Brighter & Sharper:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 14 - axe.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT13/14 - axe.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT13/14 - axe.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 14 - axe.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - As is this other transition:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 15 - transition.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT13/15 - transition.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT13/15 - transition.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 15 - transition.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - This shot here is more zoomed in and redrawn in the BDs, but to be honest... I'm not sure which version is better:
 
@@ -560,20 +405,10 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - ...Ugh. Just... Ugh. It's slightly darker. It's uncensored. Ugh:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 16 - leg wound.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT13/16 - leg wound.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT13/16 - leg wound.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 16 - leg wound.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Another uncensored leg stump for your perusal:
 
@@ -609,20 +444,10 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - This scene is more zoomed in:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/TV 17 - zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT13/17 - zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT13/17 - zoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT13/BD 17 - zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And here, we have a much better face for Stroheim, an uncensored leg stump and the usual brighter shading that accompanies uncensored scenes:
 

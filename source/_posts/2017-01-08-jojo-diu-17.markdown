@@ -70,20 +70,10 @@ Without further ado, let's get right to it!
 
 - Alright, with this one I have to give David pro a slap on the back of the head. One tiny slap. Not too hard. It's for their good, really. In this scene we have one very rare Blu-ray mistake! Take a gander at the ghost truck passing in the background:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU17/TV 01 - ghost truck.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU17/01 - ghost truck.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU17/01 - ghost truck.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU17/BD 01 - ghost truck.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - In this shot here, the dividing lines have been made blacker, the shot with the 本間 (Honma) nameplate has been centered better and the shots with the 小野寺 (Onodera) and 沼倉 (Numakura) nameplates have been swapped, to reflect the order in which Rohan names them:
 
@@ -96,20 +86,10 @@ Without further ado, let's get right to it!
 
 - This shot of Rohan pulling out his... Heaven's Door has been made *way* sharper and brighter:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU17/TV 02 - heaven's door.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU17/02 - heaven's door.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU17/02 - heaven's door.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU17/BD 02 - heaven's door.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Throughout this episode, The 露 kanji on Rohan's shirt (which, funnily enough means "dew", can indicate the country of Russia but more importantly is the Ro in Rohan's name) has been either forgotten or drawn weird; here's a weird 露 now fixed:
 
@@ -131,37 +111,17 @@ Without further ado, let's get right to it!
 
 - As has been his more gruesome, more real counterpart:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU17/TV 03 - arnold turn.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU17/03 - arnold turn.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU17/03 - arnold turn.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU17/BD 03 - arnold turn.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - This transition is also slightly different in the BDs (the fading to the blood on the ground happens a couple of frames earlier):
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU17/TV 04 - arnold blood.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU17/04 - arnold blood.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU17/04 - arnold blood.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU17/BD 04 - arnold blood.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Have a couple more shots of this dead doggo for good measure:
 

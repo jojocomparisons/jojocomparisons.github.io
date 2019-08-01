@@ -66,20 +66,10 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU36/TV 01 - hayato mouth.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU36/01 - hayato mouth.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU36/01 - hayato mouth.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU36/BD 01 - hayato mouth.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Hayato's mouth has been animated again here, and the shade around his mouth and eye are different:
 
@@ -90,20 +80,10 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU36/TV 02 - hayato mouth flap 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU36/02 - hayato mouth flap 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU36/02 - hayato mouth flap 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU36/BD 02 - hayato mouth flap 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here, the book half of Hayato's face has way less lines on it:
 
@@ -168,20 +148,10 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 
 - David pro chose to show you the scene of Rohan dying twice in the anime, so who am I to act different?:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU36/TV 03 - rohan dies again.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU36/03 - rohan dies again.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU36/03 - rohan dies again.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU36/BD 03 - rohan dies again.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Rohan has no right earring in these two shots (because it fell off during the explosion):
 
@@ -269,20 +239,10 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 
 - Here the BDs corrected a goof in the TV animation: in the broadcast version, Hayato's face briefly flashed during the transition to his eyes (it's a matter of a couple of frames):
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU36/TV 04 - no hayato.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU36/04 - no hayato.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU36/04 - no hayato.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU36/BD 04 - no hayato.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Hayato's face is looking slightly better here:
 
@@ -451,20 +411,10 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 
 - HE TALKS:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU36/TV 05 - talking head.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU36/05 - talking head.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU36/05 - talking head.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU36/BD 05 - talking head.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here, the big shade on Kira's hand has been turned into a highlight; they also drew the hole in his suit and removed a line on the left side of his pocket:
 

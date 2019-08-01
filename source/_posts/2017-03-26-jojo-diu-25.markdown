@@ -94,20 +94,10 @@ Let's get right to it!
 
 - The background in this scene rotates, and Josuke starts from farther away from Jotaro and slowly shifts towards him:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU25/TV 01 - rotating bg.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU25/01 - rotating bg.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU25/01 - rotating bg.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU25/BD 01 - rotating bg.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - In this shot, everything has been moved around and centered better:
 
@@ -252,20 +242,10 @@ Let's get right to it!
 
 - ...the staples fly differently...:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU25/TV 02 - staples.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU25/02 - staples.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU25/02 - staples.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU25/BD 02 - staples.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - ...and the duct tape lines continue on the back of the photo:
 
@@ -359,20 +339,10 @@ Let's get right to it!
 
 - This bit is way more zoomed out, there's no pan and we can see Shinobu walk up the stairs. The transition to Kira's closeup face also happens a bit later and it's a clear cut, without a fade:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU25/TV 03 - stairs.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU25/03 - stairs.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU25/03 - stairs.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU25/BD 03 - stairs.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Kira's shirt is darker and less blue here:
 
@@ -455,20 +425,10 @@ Let's get right to it!
 
 - And this final transition is different, with Kira having already been substituted with Kosaku:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU25/TV 04 - diamond j.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU25/04 - diamond j.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU25/04 - diamond j.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU25/BD 04 - diamond j.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 Alright, that's it for this week's comparison! I hope you had a good time reading through these, and I'll see you next week for Episode #26!
 

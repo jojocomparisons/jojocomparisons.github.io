@@ -22,20 +22,10 @@ Let's get going!
 
 - Today's first comparison is a video of this dude getting stepped on, which is now animated in the BD version:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/TV 01 - stomach step.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT20/01 - stomach step.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT20/01 - stomach step.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/BD 01 - stomach step.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here, this dude's face has been shaded differently:
 
@@ -57,20 +47,10 @@ Let's get going!
 
 - Here we have a brighter and sharper animation:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/TV 02 - brighter and sharper 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT20/02 - brighter and sharper 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT20/02 - brighter and sharper 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/BD 02 - brighter and sharper 1.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Caesar has been moved to the right by like... one pixel:
 
@@ -83,20 +63,10 @@ Let's get going!
 
 - Another brighter and sharper animation here...:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/TV 03 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT20/03 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT20/03 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/BD 03 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Caesar is looking much smaller here! How cute:
 
@@ -127,20 +97,10 @@ Let's get going!
 
 - Another brighter and sharper bit... Sort of:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/TV 04 - brighter and sharper 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT20/04 - brighter and sharper 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT20/04 - brighter and sharper 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/BD 04 - brighter and sharper 3.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Caesar's face has been retouched here:
 
@@ -190,37 +150,17 @@ Let's get going!
 
 - The same differences apply here, and this transition is also way sharper:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/TV 05 - sharper 4.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT20/05 - sharper 4.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT20/05 - sharper 4.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/BD 05 - sharper 4.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And another one here...:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/TV 06 - brighter and sharper 5.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT20/06 - brighter and sharper 5.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT20/06 - brighter and sharper 5.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/BD 06 - brighter and sharper 5.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - The tracks in the snow have been reshaded:
 
@@ -319,54 +259,24 @@ Let's get going!
 
 - Whew! That was a long series of frames. Alright, let's move on! Here's a brigher bit...:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/TV 07 - brighter 6.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT20/07 - brighter 6.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT20/07 - brighter 6.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/BD 07 - brighter 6.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And another brighter and sharper animation...:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/TV 08 - brighter and sharper 7.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT20/08 - brighter and sharper 7.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT20/08 - brighter and sharper 7.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/BD 08 - brighter and sharper 7.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Aaand another one here:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/TV 09 - brighter and sharper 8.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT20/09 - brighter and sharper 8.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT20/09 - brighter and sharper 8.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/BD 09 - brighter and sharper 8.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here, Caesar's eyes have been retouched, and now he's casting a shadow on the snow:
 
@@ -447,20 +357,10 @@ Let's get going!
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/TV 10 - disco dancing.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT20/10 - disco dancing.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT20/10 - disco dancing.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/BD 10 - disco dancing.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And here, the lights are way less bright at first, but then they get waay brighter and blurrier:
 
@@ -478,20 +378,10 @@ Let's get going!
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/TV 11 - disco dancing 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT20/11 - disco dancing 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT20/11 - disco dancing 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/BD 11 - disco dancing 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here, the distortion from Wham's Divine Sandstorm is stronger:
 
@@ -516,20 +406,10 @@ Let's get going!
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/TV 12 - stronger distortion.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT20/12 - stronger distortion.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT20/12 - stronger distortion.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/BD 12 - stronger distortion.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Both Joseph and Lisa Lisa have been moved in this shot:
 
@@ -630,20 +510,10 @@ Let's get going!
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/TV 13 - less stylized bg.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT20/13 - less stylized bg.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT20/13 - less stylized bg.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/BD 13 - less stylized bg.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Caesar's upper lip has been shaded here...:
 
@@ -722,20 +592,10 @@ Let's get going!
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/TV 14 - brighter and sharper 9.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT20/14 - brighter and sharper 9.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT20/14 - brighter and sharper 9.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/BD 14 - brighter and sharper 9.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - In this scene, the camera has been moved a little and both characters have been retouched pretty intensively:
 
@@ -748,20 +608,10 @@ Let's get going!
 
 - And Joseph's eyes tremble as well:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/TV 15 - trembling eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT20/15 - trembling eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT20/15 - trembling eyes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT20/BD 15 - trembling eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And, from here on, there will be no credits, since the BD adds a separate ending section:
 

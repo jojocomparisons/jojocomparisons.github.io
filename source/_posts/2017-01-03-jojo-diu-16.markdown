@@ -124,20 +124,10 @@ Let's go!
 
 - This part here is so disgusting you just have to watch the whole thing:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU16/TV 01 - melting hand.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU16/01 - melting hand.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU16/01 - melting hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU16/BD 01 - melting hand.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And here we have Jotaro's uncensored hand (again), plus Josuke has a lighter shading on the bottom of the frame:
 
@@ -193,35 +183,15 @@ Let's go!
 
 - But let's go back to what really matters! Melting limbs!:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU16/TV 02 - melting arm.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU16/02 - melting arm.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU16/02 - melting arm.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU16/BD 02 - melting arm.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU16/TV 03 - melting leg.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU16/03 - melting leg.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU16/03 - melting leg.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU16/BD 03 - melting leg.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/DIU16/tv-29435.jpg" />

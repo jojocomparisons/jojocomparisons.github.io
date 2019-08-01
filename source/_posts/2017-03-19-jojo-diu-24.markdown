@@ -131,20 +131,10 @@ Without further ado then, let's dive into DiU #24, "Sheer Heart Attack - Part 2"
 
 - This bit of Kira punching Koichi has received the same kind of different background lighting of one of the previous frames in this comparison; in addition to that, Kira's forehead is darker, the blood particles are more blurred and there's a slight fish-eye-like distortion on the edges of the frame. Check it out:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/TV 01 - kira punch.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU24/01 - kira punch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU24/01 - kira punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/BD 01 - kira punch.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/DIU24/tv-12895.jpg" />
@@ -173,20 +163,10 @@ Without further ado then, let's dive into DiU #24, "Sheer Heart Attack - Part 2"
 
 - This animation is more zoomed out, and as a result we can see Koichi's blood on the ground:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/TV 02 - head beating.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU24/02 - head beating.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU24/02 - head beating.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/BD 02 - head beating.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - They actually drew the KQ skulls on Kira's tie here, instead of just making some golden ovals; the shading near his right eye is also different:
 
@@ -217,20 +197,10 @@ Without further ado then, let's dive into DiU #24, "Sheer Heart Attack - Part 2"
 
 - This animation of KQ taking out his hand from Koichi doesn't have that silly zoom in the BDs, and as a result it's a bit more brutal and effective, in my opinion:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/TV 03 - no zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU24/03 - no zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU24/03 - no zoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/BD 03 - no zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - S-H-I-T:
 
@@ -320,37 +290,17 @@ Without further ado then, let's dive into DiU #24, "Sheer Heart Attack - Part 2"
 
 - In the TV version, this part of Kira talking menacingly ended with a whiteout; in the BDs it just cuts to the following scene without that:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/TV 04 - whiteout.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU24/04 - whiteout.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU24/04 - whiteout.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/BD 04 - whiteout.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - As you might have guessed from the previous animation, it's now time for a Brighter & Sharper! Take it away, Killer Queen:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/TV 05 - brighter queen.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU24/05 - brighter queen.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU24/05 - brighter queen.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/BD 05 - brighter queen.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Right after the last animation there's the "Nice watch" scene, and that has a bunch of differences too. First off, Jotaro's belthand has been recoloured white...:
 
@@ -363,20 +313,10 @@ Without further ado then, let's dive into DiU #24, "Sheer Heart Attack - Part 2"
 
 - ...Kira actually moves his mouth while talking...:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/TV 06 - talking queen.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU24/06 - talking queen.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU24/06 - talking queen.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/BD 06 - talking queen.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - ...Jotaro's head has been retouched...:
 
@@ -389,20 +329,10 @@ Without further ado then, let's dive into DiU #24, "Sheer Heart Attack - Part 2"
 
 - ...Jotaro throws Kira down a bit later, but faster...:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/TV 07 - nice watch.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU24/07 - nice watch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU24/07 - nice watch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/BD 07 - nice watch.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - ...and Star Platinum stands a bit farther from his user:
 
@@ -415,50 +345,20 @@ Without further ado then, let's dive into DiU #24, "Sheer Heart Attack - Part 2"
 
 - Have a bunch of brighter and sharper animations, on the house:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/TV 08 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU24/08 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU24/08 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/BD 08 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/TV 09 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU24/09 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU24/09 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/BD 09 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/TV 10 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU24/10 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU24/10 - brighter 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU24/BD 10 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - White Stands Can't Bleed:
 

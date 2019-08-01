@@ -119,20 +119,10 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 
 - This animation of Okuyasu finally punching the little goblin is brighter and sharper:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU19/TV 01 - okupunch.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU19/01 - okupunch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU19/01 - okupunch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU19/BD 01 - okupunch.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Alright, here's poor Okuyasu's getting mangled and chewed up by Harvest in all its glory:
 
@@ -143,35 +133,15 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU19/TV 02 - uncensored 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU19/02 - uncensored 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU19/02 - uncensored 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU19/BD 02 - uncensored 1.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU19/TV 03 - uncensored 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU19/03 - uncensored 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU19/03 - uncensored 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU19/BD 03 - uncensored 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/DIU19/tv-15480.jpg" />
@@ -182,20 +152,10 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 
 - Josuke's running animation is slightly different in this shot (there are some additional poses between the two running stances, you can see it if you look that the two hearts on his collar no longer shift abruptly from side to side):
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU19/TV 04 - josuke running.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU19/04 - josuke running.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU19/04 - josuke running.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU19/BD 04 - josuke running.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Shigechi's teeth no longer break the rules of reality in this bit here:
 
@@ -397,20 +357,10 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 
 - Here's another brighter and sharper animation:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU19/TV 05 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU19/05 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU19/05 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU19/BD 05 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - In this shot, the anchor on Josuke's collar is no longer missing its leftmost half, and when Shigechi closes his mouth the blood no longer circles around it; in the second comparison, the BDs also added back the missing line on Josuke's neck:
 

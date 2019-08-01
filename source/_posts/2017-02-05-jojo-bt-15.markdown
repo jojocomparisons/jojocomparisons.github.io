@@ -79,37 +79,17 @@ Without further ado then, let's get right to it!
 
 - The bubbles at the end of the animation are sharper and brighter:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT15/TV 01 - bubbles.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT15/01 - bubbles.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT15/01 - bubbles.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT15/BD 01 - bubbles.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Ah, them pesky bubbles at it again! They move way faster in the BDs:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT15/TV 02 - bubbles 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT15/02 - bubbles 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT15/02 - bubbles 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT15/BD 02 - bubbles 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - This shot of a beautiful Italian heterosexual man has been retouched:
 
@@ -267,20 +247,10 @@ Without further ado then, let's get right to it!
 
 - A textbook example of SHARPER AND BRIGHTER here:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT15/TV 03 - clackerballs.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT15/03 - clackerballs.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT15/03 - clackerballs.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT15/BD 03 - clackerballs.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Joseph's fingers have been recoloured correctly here:
 
@@ -311,20 +281,10 @@ Without further ado then, let's get right to it!
 
 - This animation of Joseph hitting Wham with his clackers is different and has different colours:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT15/TV 04 - clacker wham.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT15/04 - clacker wham.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT15/04 - clacker wham.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT15/BD 04 - clacker wham.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here's a bunch of shots which have been made brighter and sharper in the BDs:
 
@@ -349,20 +309,10 @@ Without further ado then, let's get right to it!
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT15/TV 05 - divine sandstorm.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT15/05 - divine sandstorm.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT15/05 - divine sandstorm.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT15/BD 05 - divine sandstorm.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here, a bit on Speedwagon's hat has been recoloured, and the shading on his right cheek has been retouched:
 
@@ -588,20 +538,10 @@ Without further ado then, let's get right to it!
 
 - And this zoom here starts from farther out but ends up closer:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT15/TV 06 - wham zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT15/06 - wham zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT15/06 - wham zoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT15/BD 06 - wham zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Both Wham and ACDC have been redrawn here:
 

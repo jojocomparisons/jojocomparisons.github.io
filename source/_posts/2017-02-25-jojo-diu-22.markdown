@@ -71,20 +71,10 @@ Let's get right to it!
 
 - Shigechi's explosion has been, of course, uncensored, as you can see here:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU22/TV 01 - shigechi.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU22/01 - shigechi.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU22/01 - shigechi.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU22/BD 01 - shigechi.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/DIU22/tv-12780.jpg" />
@@ -279,20 +269,10 @@ Let's get right to it!
 
 - That poor dude's hand has been uncensored:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU22/TV 02 - SHA.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU22/02 - SHA.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU22/02 - SHA.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU22/BD 02 - SHA.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And once again here, plus the Koichi in the background has a less prominent texture overlay:
 
@@ -305,20 +285,10 @@ Let's get right to it!
 
 - Man, Kira loves women's hands but he really has no respect for men's, huh:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU22/TV 03 - finger.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU22/03 - finger.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU22/03 - finger.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU22/BD 03 - finger.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/DIU22/tv-29600.jpg" />

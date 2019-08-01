@@ -18,35 +18,15 @@ Hey hey hey, everybody! I know that you're all sad and heart-broken now that Dia
 
 - Let's begin this (small) comparison with a couple of brighter and sharper shots:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU15/TV 01 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU15/01 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU15/01 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU15/BD 01 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU15/TV 02 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU15/02 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU15/02 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU15/BD 02 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - In this shot, a small part of the lines of this door were a bit off in the TV version:
 
@@ -77,20 +57,10 @@ Hey hey hey, everybody! I know that you're all sad and heart-broken now that Dia
 
 - Here we have a very satisfyingly sharper and brighter beatdown sequence:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU15/TV 03 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU15/03 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU15/03 - brighter 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU15/BD 03 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - In the flashback sequence, Tomoko's coat changed colour between scenes; this has been corrected in the BDs:
 
@@ -110,20 +80,10 @@ Hey hey hey, everybody! I know that you're all sad and heart-broken now that Dia
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU15/TV 04 - shaking.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/DIU15/04 - shaking.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/DIU15/04 - shaking.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/DIU15/BD 04 - shaking.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/DIU15/tv-29055.jpg" />

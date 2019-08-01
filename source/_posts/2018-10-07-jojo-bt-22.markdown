@@ -35,20 +35,10 @@ Let's get started!
 
 - Fireplace for Your Home v3 (now brighter and sharper):
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 01 - fireplace for your home.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT22/01 - fireplace for your home.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT22/01 - fireplace for your home.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 01 - fireplace for your home.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here, the guards standing this (admittedly not very pretty) Lisa Lisa are closer, and the background is instead a little more zoomed out:
 
@@ -113,20 +103,10 @@ Let's get started!
 
 - Joseph slides in frame with a slightly different timing here:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 02 - joseph slide.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT22/02 - joseph slide.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT22/02 - joseph slide.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 02 - joseph slide.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here Joseph's face has been redrawn, he's been tilted to the left by approximately two pixels, his back is properly shaded...:
 
@@ -173,20 +153,10 @@ Let's get started!
 
 - And it's also shaking in the BD version! Check it out:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 03 - horse shake.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT22/03 - horse shake.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT22/03 - horse shake.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 03 - horse shake.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here, the rubble that Joseph  throws near Wham's carriage wheel is substantially bigger! I always thought that in the TV version they looked ridiculously small...:
 
@@ -344,37 +314,17 @@ Let's get started!
 
 - This angry zombie mob is now much more dynamically shot:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 04 - dynamic zomboys.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT22/04 - dynamic zomboys.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT22/04 - dynamic zomboys.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 04 - dynamic zomboys.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And this transition is also looking different:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 05 - glasses fade.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT22/05 - glasses fade.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT22/05 - glasses fade.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 05 - glasses fade.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Here, Kars has been redrawn and looks less... blocky. The inside of Lisa Lisa's mouth has also been recoloured:
 
@@ -431,37 +381,17 @@ Let's get started!
 
 - And let's look at it in motion...:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 06 - hammer time.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT22/06 - hammer time.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT22/06 - hammer time.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 06 - hammer time.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Another quick brighter and sharper animation:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 07 - hammer time 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT22/07 - hammer time 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT22/07 - hammer time 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 07 - hammer time 2.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - A bit of skin has been properly recoloured here...:
 
@@ -499,20 +429,10 @@ Let's get started!
 
 - And let's watch it in motion:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 08 - serious joseph.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT22/08 - serious joseph.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT22/08 - serious joseph.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 08 - serious joseph.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Wham has been slightly moved here, and his face has been redrawn as well (I'm not sure about the end result, though):
 
@@ -582,20 +502,10 @@ Let's get started!
 
 - This leg grab transition is different in the BDs...:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 09 - leg grab.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT22/09 - leg grab.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT22/09 - leg grab.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 09 - leg grab.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - ...and the colour and position are also a little different:
 
@@ -704,20 +614,10 @@ Let's get started!
 
 - Wham's Holy Sandstorm is brighter and sharper too:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 10 - holy sandstorm.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT22/10 - holy sandstorm.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT22/10 - holy sandstorm.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 10 - holy sandstorm.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Both Lisa Lisa and the camera have been moved, here:
 
@@ -728,39 +628,12 @@ Let's get started!
 
 <br>
 
-- Ok, this animation is a little boring... But in the BDs Kars lifts up that phial a little later:
-
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 11 - kars phial.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 11 - kars phial.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
-
 - And this glass breaks in a more convincing way:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 12 - glass break.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT22/11 - glass break.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT22/11 - glass break.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 12 - glass break.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Kars has got a different background, here...:
 
@@ -816,20 +689,10 @@ Let's get started!
 
 - In this scene, the transition to the... questionably animated Wham on the right side of the screen happens much later:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 13 - its not gay bro.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT22/12 - its not gay bro.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT22/12 - its not gay bro.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 13 - its not gay bro.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And the Wham on the left side of the screen has also been shaded better:
 
@@ -1014,24 +877,7 @@ Let's get started!
 
 <br>
 
-- The crowd is SHAKING:
-
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 14 - shaky shaky.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 14 - shaky shaky.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
-
-- Wham has been retouched here once more, and the background clouds have been moved a little bit to the right:
+- Wham has been retouched once more here, and the background clouds have been moved a little bit to the right:
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/BT22/tv-23875.jpg" />
@@ -1081,37 +927,17 @@ Let's get started!
 
 - This bit here is slightly brighter and sharper:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 15 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT22/13 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT22/13 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 15 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - This whole animation is a little different! It begins more zoomed in, then zooms out and changes colour, there's less shaking and the blood spurt happens more quickly:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 16 - spitting blooooood.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT22/14 - spitting blooooood.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT22/14 - spitting blooooood.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 16 - spitting blooooood.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - The projectile shot by Joseph's crossbow has been moved in this here shot:
 
@@ -1338,20 +1164,10 @@ Let's get started!
 
 <br>
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 17 - kapow.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT22/15 - kapow.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT22/15 - kapow.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 17 - kapow.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - Joseph is smaller here...:
 
@@ -1474,20 +1290,10 @@ Let's get started!
 
 - In this scene of Wham detonating, Joseph's overlay face slides into frame a little earlier, the green tint arrives much later...:
 
-<table width="100%">
-<tr>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/TV 18 - fade to green.webm" type='video/webm; codecs="vp8, vorbis"'>
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/BT22/16 - fade to green.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/BT22/16 - fade to green.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
-</td>
-<td align="left" valign="top" width="50%">
-<video class='center' nocontrols loop preload='auto'>
-  <source src="./../videos/BT22/BD 18 - fade to green.webm" type='video/webm; codecs="vp8, vorbis"'>
-</video>
-</td>
-</tr>
-</table>
 
 - And the top of Joseph's hair is more see-through:
 
