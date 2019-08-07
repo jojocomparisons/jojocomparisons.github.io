@@ -1,0 +1,107 @@
+---
+layout: post
+title: "Vento Aureo #15 - The Grateful Dead - Part 1"
+date: 2019-08-07 15:55:25 +0100
+comments: true
+categories: va
+---
+
+{% img center /images/VA15/15-header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello again, friends! Long time no see! Shall we dive right into this comparison, then? Welcome to Episode #15, "The Grateful Dead - Part 1"!
+
+<br>
+
+- Let's start with this beautiful shot of Pesci, now slightly uncensored:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA15/tv-08740.jpg" />
+ <img src="./../images/VA15/bd-08740.jpg" />
+</div>
+
+<br>
+
+- And let's whizz right to the eyecatch:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA15/01 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA15/01 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA15/tv-15820.jpg" />
+ <img src="./../images/VA15/bd-15820.jpg" />
+</div>
+
+<br>
+
+- In several scenes, Prosciutto has an aura, and his colours are slightly darker and pinker:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA15/tv-24545.jpg" />
+ <img src="./../images/VA15/bd-24545.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA15/tv-24745.jpg" />
+ <img src="./../images/VA15/bd-24745.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA15/tv-24809.jpg" />
+ <img src="./../images/VA15/bd-24809.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA15/tv-26035.jpg" />
+ <img src="./../images/VA15/bd-26035.jpg" />
+</div>
+
+<br>
+
+- I'm afraid it's already time for the credits, friends... Let's see what we have! Here, the last line (narration) has been removed, and the rest moved down:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA15/tv-31950.jpg" />
+ <img src="./../images/VA15/bd-31950.jpg" />
+</div>
+
+<br>
+
+- Here, like in the last episode, 松尾優 (Matsuo Yū) has been added under designer 鬼窪浩久 (Onikubo Hirohisa), in 銀 (I'm guessing this person just goes by "Gin"?)'s place. 銀's name has, in turn, been moved to the right instead:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA15/tv-32330.jpg" />
+ <img src="./../images/VA15/bd-32330.jpg" />
+</div>
+
+<br>
+
+- And here, the last three names of the first section have been removed, and the rest has been moved around to accomodate:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA15/tv-32970.jpg" />
+ <img src="./../images/VA15/bd-32970.jpg" />
+</div>
+
+<br>
+
+And there you have it, good people! Sorry once again about today's short posts, but I hope that I was able to make up for it somewhat by making two instead of one. Quantity over quality, am I right? Well, in any case, I'll see you next time for Vento Aureo #16, "The Grateful Dead - Part 2"!
+
+<br>
+
+Ciao!
+
+<br>
+
+{% img center /images/tobecontinued.png %}

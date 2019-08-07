@@ -1,0 +1,120 @@
+---
+layout: post
+title: "Vento Aureo #14 - The Firenze-Bound Super Express"
+date: 2019-08-07 15:54:03 +0100
+comments: true
+categories: va
+---
+
+{% img center /images/VA14/14-header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello hello, good people! Welcome back to this blog. Today is a very merry day indeed, because I found a new flat in Vienna!! Therefore I will treat you all to not one, but *two* comparisons! Granted, they're not particularly long or eventful, but that's all I got to offer to you, brothers and sisters. I hope that's something!
+
+<br>
+
+Shall we start?
+
+<br>
+
+- Today's first comparison starts with this scene of brother Prosciutto strutting his stuff through Napoli Centrale. In some frames, his left shoulder wasn't completely drawn in; this has been fixed in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA14/tv-07781.jpg" />
+ <img src="./../images/VA14/bd-07781.jpg" />
+</div>
+
+<br>
+
+- In some frames of this sequence, the shading and colours on Giorno's neck are a little different out; this has been fixed in the BDs as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA14/tv-08212.jpg" />
+ <img src="./../images/VA14/bd-08212.jpg" />
+</div>
+
+<br>
+
+- This choo choo sequence is brighter and sharper (especially towards the end):
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA14/01 - choo choo.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA14/01 - choo choo.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA14/tv-14985.jpg" />
+ <img src="./../images/VA14/bd-14985.jpg" />
+</div>
+
+<br>
+
+- Let's take a look at the eyecatch for this episode:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA14/02 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA14/02 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA14/tv-17980.jpg" />
+ <img src="./../images/VA14/bd-17980.jpg" />
+</div>
+
+<br>
+
+- Here, Mista's penis hat pattern has been fixed:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA14/tv-22065.jpg" />
+ <img src="./../images/VA14/bd-22065.jpg" />
+</div>
+
+<br>
+
+- Let's move straight to the credits, where STUDIO MASSKET's name has been written in romaji (again, see <a href="https://jojocomparisons.github.io/jojo-va-11/">Episode #11</a>):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA14/tv-32250.jpg" />
+ <img src="./../images/VA14/bd-32250.jpg" />
+</div>
+
+<br>
+
+- The same applies here, and in addition to the same STUDIO MASSKET change, 鬼窪浩久 (Onikubo Hirohisa)'s name has once again been shifted a little to the left and 松尾優 (Matsuo Yū) has been added right under:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA14/tv-32375.jpg" />
+ <img src="./../images/VA14/bd-32375.jpg" />
+</div>
+
+<br>
+
+- Have another couple of re-typed STUDIO MASSKETs:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA14/tv-32485.jpg" />
+ <img src="./../images/VA14/bd-32485.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA14/tv-32600.jpg" />
+ <img src="./../images/VA14/bd-32600.jpg" />
+</div>
+
+<br>
+
+And that concludes this week's episode! But don't cry, friend; don't be sad! Episode #15, "The Grateful Dead - Part 1" is right <a href="https://jojocomparisons.github.io/jojo-va-15/">here</a>, ready for you! Is it long? No! Is it particularly interesting? Also no, probably! But it's a comparison!
+
+<br>
+
+See you there!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
