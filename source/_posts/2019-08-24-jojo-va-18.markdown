@@ -1,0 +1,907 @@
+---
+layout: post
+title: "Vento Aureo #18 - Head to Venezia!"
+date: 2019-08-24 19:30:22 +0100
+comments: true
+categories: va
+---
+
+{% img center /images/VA18/18-header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello, good friends, and welcome back for this whopper of a comparison! On this fine late summer afternoon (in my time zone) we're going to take an in-depth look at Vento Aureo #18, "Head to Venezia"! Due to the many completely redrawn sequences, this will be a very video-rich comparison - you might have some trouble browsing it from your smartphone, but I'm afraid there's not much I can do for that... Unfortunately this one's going to be a PC-only comparison for many people, sorry!
+
+<br>
+
+Well then, without further ago... Shall we?
+
+<br>
+
+- Let's begin with a sample of what's going to happen a lot in this episode: completely redrawn sequences! Take a look at this additional shot of sexy man Risotto talking to his unnamed Passione co-gangster:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/01 - risotto.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/01 - risotto.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, most things have a better lighting, there are more blood particles and the blood is a tiny bit blurrier:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-03890.jpg" />
+ <img src="./../images/VA18/bd-03890.jpg" />
+</div>
+
+<br>
+
+- This sequence of Giorno talking has also been completely changed:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/02 - giorno talk.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/02 - giorno talk.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Baby Face has a couple of additional shades, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-04394.jpg" />
+ <img src="./../images/VA18/bd-04394.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-04545.jpg" />
+ <img src="./../images/VA18/bd-04545.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-04815.jpg" />
+ <img src="./../images/VA18/bd-04815.jpg" />
+</div>
+
+<br>
+
+- This scene has been changed, and instead of a shot of Melone we actually see what he's looking at...:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/03 - screen.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/03 - screen.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- ... and this recycled shot (actually a composite from two different recycled shots) from Episode #17 has been changed to a newly drawn one:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/04 - melone.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/04 - melone.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Gold Experience now has a nice golden aura here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-06650.jpg" />
+ <img src="./../images/VA18/bd-06650.jpg" />
+</div>
+
+<br>
+
+- While here he _no longer has one_!:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-06875.jpg" />
+ <img src="./../images/VA18/bd-06875.jpg" />
+</div>
+
+<br>
+
+- This shot has a darker vignette and a different distortion around the edges; the background is also much blurrier, resulting in a better contrast with the foreground:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-06880.jpg" />
+ <img src="./../images/VA18/bd-06880.jpg" />
+</div>
+
+<br>
+
+- Here, the dividing line goes out of frame a little later:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/05 - division line.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/05 - division line.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- This scene is more zoomed-in...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-07145.jpg" />
+ <img src="./../images/VA18/bd-07145.jpg" />
+</div>
+
+<br>
+
+- Giorno's aura is looking different here, and Gold Experience no longer has one (I guess to signify that he used his attack...? I'm not sure):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-07715.jpg" />
+ <img src="./../images/VA18/bd-07715.jpg" />
+</div>
+
+<br>
+
+- Baby face is looking MUCH BETTER here! He's been redrawn and reshaded in several places, and the gasoline now also animates! The zoom is also different and the background has been changed too. Check it out:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/06 - baby face.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/06 - baby face.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-08035.jpg" />
+ <img src="./../images/VA18/bd-08035.jpg" />
+</div>
+
+<br>
+
+- This scene is now actually animated, instead of being one still frame! Take a look:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/07 - giorno explorno.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/07 - giorno explorno.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And here, Baby Face's death has been redrawn and it animates in a more satisfying way:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/08 - baby death.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/08 - baby death.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-08193.jpg" />
+ <img src="./../images/VA18/bd-08193.jpg" />
+</div>
+
+<br>
+
+- Here, Giorno's aura is less neon-bright:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-08340.jpg" />
+ <img src="./../images/VA18/bd-08340.jpg" />
+</div>
+
+<br>
+
+- The lighting in this scene is a little different, Buccellati's suit pattern has been tweaked and Trish's breathing has been animated as well:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/09 - trish breath.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/09 - trish breath.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-08995.jpg" />
+ <img src="./../images/VA18/bd-08995.jpg" />
+</div>
+
+<br>
+
+- Melone's face is less ugly here! Some of these frames are really golden:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-11246.jpg" />
+ <img src="./../images/VA18/bd-11246.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-11255.jpg" />
+ <img src="./../images/VA18/bd-11255.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-11290.jpg" />
+ <img src="./../images/VA18/bd-11290.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-11358.jpg" />
+ <img src="./../images/VA18/bd-11358.jpg" />
+</div>
+
+<br>
+
+- ONE (1) of the frames of the viper biting Melone on his ugly pervert face has a better contract. This is for you, vore fans:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-11767.jpg" />
+ <img src="./../images/VA18/bd-11767.jpg" />
+</div>
+
+<br>
+
+- Here, the camera has been moved a little bit and the general lighting and shading are different too. The background outside the window has also been changed:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-12465.jpg" />
+ <img src="./../images/VA18/bd-12465.jpg" />
+</div>
+
+<br>
+
+- Here, this scene of Ghiaccio is also completely different:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/10 - ghiaccio.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/10 - ghiaccio.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And just... everything is better here! Check it:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-13235.jpg" />
+ <img src="./../images/VA18/bd-13235.jpg" />
+</div>
+
+<br>
+
+- AND ANOTHER COMPLETELY DIFFERENT FRAME! I love this episode! Take a look at these precious babies:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-13245.jpg" />
+ <img src="./../images/VA18/bd-13245.jpg" />
+</div>
+
+<br>
+
+- Narancia and Abbacchio's faces have been redrawn here THANK GOD:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-13260.jpg" />
+ <img src="./../images/VA18/bd-13260.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-13360.jpg" />
+ <img src="./../images/VA18/bd-13360.jpg" />
+</div>
+
+<br>
+
+- The m in "Moody Blues" is now uppercase, and "Abbacchio" has been spaced a little differently... (It might be hard to spot in the first frame):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-13445.jpg" />
+ <img src="./../images/VA18/bd-13445.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-13590.jpg" />
+ <img src="./../images/VA18/bd-13590.jpg" />
+</div>
+
+<br>
+
+- This scene has a whole new animation between the boss's orders and Abbacchio activating his Moody Blues:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/11 - gangu.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/11 - gangu.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Abbacchio's aura is slightly different here...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-13765.jpg" />
+ <img src="./../images/VA18/bd-13765.jpg" />
+</div>
+
+<br>
+
+- And here, Pericolo's face is no longer a featureless slab of pink goo:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-14055.jpg" />
+ <img src="./../images/VA18/bd-14055.jpg" />
+</div>
+
+<br>
+
+- And it's received a fresh coat of shading here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-14057.jpg" />
+ <img src="./../images/VA18/bd-14057.jpg" />
+</div>
+
+<br>
+
+- Here, the bottom of the frame has a darker vignette and the Moody Blues counter is no longer glitching out in some frames:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-14445.jpg" />
+ <img src="./../images/VA18/bd-14445.jpg" />
+</div>
+
+<br>
+
+- The shadow on Mama Buccellati's beautiful face has been tweaked as well, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-14625.jpg" />
+ <img src="./../images/VA18/bd-14625.jpg" />
+</div>
+
+<br>
+
+- While here, all three faces have been retouched, the bottom is _lighter_ and the shading on Trish has been changed slightly as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-14950.jpg" />
+ <img src="./../images/VA18/bd-14950.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-14960.jpg" />
+ <img src="./../images/VA18/bd-14960.jpg" />
+</div>
+
+<br>
+
+- And in this classic Jojo-style shot-over-a-shot bit here, the background is much darker and bluer and Buccellati's eye area has been retouched. Narancia's right eye is also looking a little better:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-15035.jpg" />
+ <img src="./../images/VA18/bd-15035.jpg" />
+</div>
+
+<br>
+
+- Here, the picture frame is now more regular and the Moody Blues numbers have been resized as well. The white near his right eye corner has also been retouched...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-15135.jpg" />
+ <img src="./../images/VA18/bd-15135.jpg" />
+</div>
+
+<br>
+
+- ... and when he turns, a few more lines have been tweaked, the lighter flame is brighter and his mouth is now stuck open:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-15390.jpg" />
+ <img src="./../images/VA18/bd-15390.jpg" />
+</div>
+
+<br>
+
+- Here, the Moody Blues counter on Pericolo's forehead now reads 14:04:42:87 instead of 14:04:52:87:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-15900.jpg" />
+ <img src="./../images/VA18/bd-15900.jpg" />
+</div>
+
+<br>
+
+- Phew! Alright, the Baby Face half of the episode is done! Brace yourselves, because the fun starts here! In this shot, Venezia is _glowing_ and the Venetian lagoon's waters are now looking less flat:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-18230.jpg" />
+ <img src="./../images/VA18/bd-18230.jpg" />
+</div>
+
+<br>
+
+- And here, both pillar and OA-Disc have been retouched (most notably, the number on the disc):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-18321.jpg" />
+ <img src="./../images/VA18/bd-18321.jpg" />
+</div>
+
+<br>
+
+- Here, the water is looking better once again, and the Libertà Bridge is darker towards the bottom of the frame...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-18445.jpg" />
+ <img src="./../images/VA18/bd-18445.jpg" />
+</div>
+
+<br>
+
+- ... and the car now has its headlights on! Good Giorno:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-18464.jpg" />
+ <img src="./../images/VA18/bd-18464.jpg" />
+</div>
+
+<br>
+
+- A lot of things are different here, ok? A lot. Check it out for yourselves:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-18470.jpg" />
+ <img src="./../images/VA18/bd-18470.jpg" />
+</div>
+
+<br>
+
+- This whole scene is completely different! Take a look:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/12 - mista wipe.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/12 - mista wipe.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And here there's a completely new animation of Mista smacking his good boy face on the window:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/13 - mista smack.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/13 - mista smack.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Aaaand this sequence has also been completely redrawn:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/14 - mista talk.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/14 - mista talk.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- This part has been pretty much completely overhauled too, and Mista moves his hand at the end as well! Check it out:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/15 - mista hand.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/15 - mista hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-19102.jpg" />
+ <img src="./../images/VA18/bd-19102.jpg" />
+</div>
+
+<br>
+
+- This light pole has been... moved a little bit for some obscure reason:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-19230.jpg" />
+ <img src="./../images/VA18/bd-19230.jpg" />
+</div>
+
+<br>
+
+- And this scene is, once again, completely different:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/16 - mista finger.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/16 - mista finger.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- The colours outside the windows are also a tiiiiiny bit different:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-19345.jpg" />
+ <img src="./../images/VA18/bd-19345.jpg" />
+</div>
+
+<br>
+
+- Here, the wind effects are MUCH stronger:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/17 - giorno wind.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/17 - giorno wind.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And here, everything is less blue and a little sharper, Mista has been moved back a little bit, the ice is more visible on the left part of his face and there are different motion effects on the sides of the frame:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-21400.jpg" />
+ <img src="./../images/VA18/bd-21400.jpg" />
+</div>
+
+<br>
+
+- The transition of Ghiaccio's crazed Italian eyes fading in is also a little different:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/18 - ghiaccio eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/18 - ghiaccio eyes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, the camera has been moved a little to the right, the hand in the foreground is much less blurry and the lest is looking a tiiny bit less sharp:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-21600.jpg" />
+ <img src="./../images/VA18/bd-21600.jpg" />
+</div>
+
+<br>
+
+- And the whole sequence in general is a little different. Let's take a look:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/19 - mista blood spurt.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/19 - mista blood spurt.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Let's dive in! In this middle bit, Mista's pinky injury is more explicit, there are more blood spurts and no motion lines around the edges:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-21670.jpg" />
+ <img src="./../images/VA18/bd-21670.jpg" />
+</div>
+
+<br>
+
+- And here, the hand has been moved and has a different blue effect overlay; in addition, Mista's face has been recoloured and retouched too. The sweat drops look worse in my opinion, but it's an extremely minor gripe:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-21735.jpg" />
+ <img src="./../images/VA18/bd-21735.jpg" />
+</div>
+
+<br>
+
+- This small sequence has been substituted for a new Mista shot:
+
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/20 - mista loading.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/20 - mista loading.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And here, the frame has been completely recoloured and retouched, and the camera has been moved as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-22695.jpg" />
+ <img src="./../images/VA18/bd-22695.jpg" />
+</div>
+
+<br>
+
+- Let's look at it in motion too, because the animation itself has also been retouched (most notably, Giorno no longer moves the steering wheel while shaking):
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/21 - giorno drive.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/21 - giorno drive.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Things are looking very different for Mista too, in the backseat! Most notably, his swanky pantaloons are now white (like they are in all other scenes with a similar palette):
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-24000.jpg" />
+ <img src="./../images/VA18/bd-24000.jpg" />
+</div>
+
+<br>
+
+- And the scene also animates! Well... A little bit:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/22 - mista backseat.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/22 - mista backseat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- The heavy redraws extend to this close-up:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-24015.jpg" />
+ <img src="./../images/VA18/bd-24015.jpg" />
+</div>
+
+<br>
+
+- And this scene is completely different, again! Instead of taking a close look at the car wheel, we can instead focus on beautiful blue-haired Giorno:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/23 - giorno blue.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/23 - giorno blue.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- In this shot of Ghiaccio being a dumb elephant boy, the ice mist effect is MUCH more prominent:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-24580.jpg" />
+ <img src="./../images/VA18/bd-24580.jpg" />
+</div>
+
+<br>
+
+- And here, there is a slightly different distortion along the edges, and the wind effects are a little different as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-25690.jpg" />
+ <img src="./../images/VA18/bd-25690.jpg" />
+</div>
+
+<br>
+
+- Here, this scene right after the previous difference has been completely redrawn too:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/24 - giorno bullets.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/24 - giorno bullets.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, the wind effects are stronger and the bullets are looking a little shinier too...:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-25810.jpg" />
+ <img src="./../images/VA18/bd-25810.jpg" />
+</div>
+
+<br>
+
+- Similar to an earlier difference, the background is darker and bluer here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-25880.jpg" />
+ <img src="./../images/VA18/bd-25880.jpg" />
+</div>
+
+<br>
+
+- Have another different shot, friends:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/25 - giacchio shot.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/25 - giacchio shot.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Basically everything is looking massively different here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-26116.jpg" />
+ <img src="./../images/VA18/bd-26116.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-26200.jpg" />
+ <img src="./../images/VA18/bd-26200.jpg" />
+</div>
+
+<br>
+
+- And the camera pans a little differently too:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/26 - ghiaccio pan.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/26 - ghiaccio pan.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, have another completely redrawn bit here:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/27 - mista gun.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/27 - mista gun.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- All these completely redrawn animations make me longer for simpler times! You know, when we had just brighter and sharper animations... Like this one...:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/28 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/28 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, our boys' car zooms away much faster:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/29 - nyoom.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/29 - nyoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Let's take a break from all these emotions with a tamer difference! The lagoon waters are a liiiittle less sparkly here:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-27045.jpg" />
+ <img src="./../images/VA18/bd-27045.jpg" />
+</div>
+
+<br>
+
+- And here, Ghiaccio's aura is looking better, and he's now casting a shadow on the ground:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-27165.jpg" />
+ <img src="./../images/VA18/bd-27165.jpg" />
+</div>
+
+<br>
+
+- And later on, the missing aura was drawn in, and the dividing line is now looking jaggier and more interesting:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-27235.jpg" />
+ <img src="./../images/VA18/bd-27235.jpg" />
+</div>
+
+<br>
+
+- And here, the speed lines have been moved to better frame Ghiaccio:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-27670.jpg" />
+ <img src="./../images/VA18/bd-27670.jpg" />
+</div>
+
+<br>
+
+- Have another couple of redrawn animations, brothers and sisters:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/30 - mista bang bang.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/30 - mista bang bang.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/31 - mista wait.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/31 - mista wait.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, the ice effects are looking better:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-29715.jpg" />
+ <img src="./../images/VA18/bd-29715.jpg" />
+</div>
+
+<br>
+
+- More completely re-animated parts! More!!:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/32 - mista ice.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/32 - mista ice.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/33 - ghiaccio climb.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/33 - ghiaccio climb.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/34 - mista reload.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/34 - mista reload.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/35 - mista startle.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/35 - mista startle.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Phew! In the last different animation, the foreground Mista has been slightly moved and retouched too:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-30285.jpg" />
+ <img src="./../images/VA18/bd-30285.jpg" />
+</div>
+
+<br>
+
+- MORE ANIMATION!!! MORE!!!!!!!!:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/36 - mista yell.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/36 - mista yell.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/37 - gold experience punch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/37 - gold experience punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Let's take a break with some STILL IMAGES! Here, the lighting and shading on most things is different:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-30970.jpg" />
+ <img src="./../images/VA18/bd-30970.jpg" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-30995.jpg" />
+ <img src="./../images/VA18/bd-30995.jpg" />
+</div>
+
+<br>
+
+- Another smattering of different animations, just for you:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/38 - giorno choke.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/38 - giorno choke.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/39 - giorno drive.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/39 - giorno drive.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Oh, boy! Moving on... Here, the background and most lights in the shot are a little hazier and the car is a little blurrier:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-31375.jpg" />
+ <img src="./../images/VA18/bd-31375.jpg" />
+</div>
+
+<br>
+
+- And here, there is a different distortion around the edges, the car's headlights are brighter, the poles in the background and the car are blurrier and the car's chassis is also darker:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-31415.jpg" />
+ <img src="./../images/VA18/bd-31415.jpg" />
+</div>
+
+<br>
+
+- Let's have one last completely different animation, for the road:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/40 - giorno fall.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/40 - giorno fall.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And this bit has been completely redrawn and animated:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA18/41 - boys fall.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA18/41 - boys fall.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-31815.jpg" />
+ <img src="./../images/VA18/bd-31815.jpg" />
+</div>
+
+<br>
+
+- Pheeew! Let's move on to a couple of credits differences, shall we? Here, for some reason, the scriptwriter has been changed! It's no longer 小林靖子 (Kobayashi Yasuko), but instead 猪爪慎一 (Inotsume Shin'ichi). Weird! Check it out:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-32085.jpg" />
+ <img src="./../images/VA18/bd-32085.jpg" />
+</div>
+
+<br>
+
+- And here, like in the previous episode, 銀 ("Gin")'s name has been added on the right:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA18/tv-32305.jpg" />
+ <img src="./../images/VA18/bd-32305.jpg" />
+</div>
+
+<br>
+
+And thaaaaat's all for this episode, folks! Whew! What did I tell you? The sheer quantity and quality of differences in this episode is staggering. And, being most of them complete redraws, it was also a rather easy post for me to write! Excellent job, David Production. Excellent job! Next time we're gonna take a look at Vento Aureo #19, "White Album"!
+
+<br>
+
+See you then, friends!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
