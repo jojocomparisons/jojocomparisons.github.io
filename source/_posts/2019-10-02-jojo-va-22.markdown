@@ -567,7 +567,7 @@ Allons-y!
   <source src="./../videos/VA22/06 - abbacchio background.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-- Once again, Abbacchio has a new head here:
+- Once again, Buccellati has a new head here:
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/VA22/tv-08390.jpg" />
