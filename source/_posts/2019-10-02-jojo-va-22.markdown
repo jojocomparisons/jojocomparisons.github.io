@@ -1111,7 +1111,7 @@ Allons-y!
 
 <br>
 
-- Here, a bunch of names have been removed from the デジタル動画 ("Digital video") section. They are, in order, 木内祐里 ("Kiuchi Yūri"), 玉栄翔 ("Tamae Kakeru"), 尾西真成人 (the pronunciation of this name is a mystery to me), 廣原寧人 ("Hirohara Yasuhito"), 久井菜央 ("Hisai Nao"), 重信一真 ("Shigenobu Kazuma", I think?) and 渡邊爽太 ("Watanabe Sōta"). 高橋俊 (Takahashi Shun) has been moved from デジタル動画 ("Digital video") to 動画検索 ("In-between animation check"), and White Line has been added under the header 動画検索補 ("In-between animation check assistance"). The rest of the credits have also been moved around to accomodate the different length:
+- Here, a bunch of names have been removed from the デジタル動画 ("Digital video") section. They are, in order, 木内祐里 ("Kiuchi Yūri"), 玉栄翔 ("Tamae Kakeru"), 尾西真成人 (the pronunciation of this name is a mystery to me), 廣原寧人 ("Hirohara Yasuhito"), 久井菜央 ("Hisai Nao"), 重信一真 ("Shigenobu Kazuma", I think?) and 渡邊爽太 ("Watanabe Sōta"). 高橋俊 ("Takahashi Shun") has been moved from デジタル動画 ("Digital video") to 動画検索 ("In-between animation check"), and "White Line" has been added under the header 動画検索補 ("In-between animation check assistance"). The rest of the credits have also been moved around to accomodate the different length:
 
 <div id="container1" class="twentytwenty-container">
  <img src="./../images/VA22/tv-32430.jpg" />
