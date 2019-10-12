@@ -1,0 +1,82 @@
+---
+layout: post
+title: "Vento Aureo #24 - Notorious B.I.G"
+date: 2019-10-12 12:53:50 +0200
+comments: true
+categories: va
+---
+
+{% img center /images/VA24/24-header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello again, and welcome to today's double episode! Since episodes #24 and #25 were already very high-quality in the broadcast, the BD version introduces just a few differences; as a result, I decided it was time for one of our occasional 2-for-1 deals! But let's not get ahead of ourselves...
+
+<br>
+
+Let's start with a quick look at Episode #24, "Notorious B.I.G"!
+
+<br>
+
+- Today's very short comparison begins with this brief Mista animation, now brighter and sharper:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA24/01 - bs mista.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA24/01 - bs mista.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA24/tv-06030.jpg" />
+ <img src="./../images/VA24/bd-06030.jpg" />
+</div>
+
+<br>
+
+- Let's very quickly move to the eyecatch...:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA24/02 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA24/02 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA24/tv-18460.jpg" />
+ <img src="./../images/VA24/bd-18460.jpg" />
+</div>
+
+<br>
+
+- This other brief animation of Aerosmith shooting is also brighter and sharper...:
+
+<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+  <source src="./../videos/VA24/03 - aerosmith.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA24/03 - aerosmith.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA24/tv-21640.jpg" />
+ <img src="./../images/VA24/bd-21640.jpg" />
+</div>
+
+<br>
+
+- ...and this scene is very slightly more zoomed-in:
+
+<div id="container1" class="twentytwenty-container">
+ <img src="./../images/VA24/tv-22570.jpg" />
+ <img src="./../images/VA24/bd-22570.jpg" />
+</div>
+
+<br>
+
+And... that's it for this episode, I'm afraid! What did I tell you? Short! But never fear, my friends... Episode #25 is <a href="https://jojocomparisons.github.io/jojo-va-25/">already up</a>!
+
+<br>
+
+See you there!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
