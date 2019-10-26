@@ -6,7 +6,7 @@ comments: true
 categories: va
 ---
 
-{% img center /images/VA26/26-header.jpg %}
+{% img width="100%" height="100%" center /images/VA26/26-header.jpg %}
 <!-- more -->
 
 <br>
@@ -23,8 +23,22 @@ Let's begin!
 - Today's first differences are here, in this first flashback to Doppio's past. The two guards have been retouched, the door they're standing near to is no longer a pitch black pit leading straight to hell, and there is one less shadow on Doppio's mom's leg:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-02790.jpg" />
- <img src="./../images/VA26/bd-02790.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-02790-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-02790-512px.jpg 512w,
+  ./../images/VA26/resized/tv-02790-768px.jpg 768w,
+  ./../images/VA26/resized/tv-02790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-02790-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-02790-512px.jpg 512w,
+  ./../images/VA26/resized/bd-02790-768px.jpg 768w,
+  ./../images/VA26/resized/bd-02790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -32,8 +46,22 @@ Let's begin!
 - Here, the teeth of the rightmost guard are no longer shaded at the sides:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-02830.jpg" />
- <img src="./../images/VA26/bd-02830.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-02830-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-02830-512px.jpg 512w,
+  ./../images/VA26/resized/tv-02830-768px.jpg 768w,
+  ./../images/VA26/resized/tv-02830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-02830-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-02830-512px.jpg 512w,
+  ./../images/VA26/resized/bd-02830-768px.jpg 768w,
+  ./../images/VA26/resized/bd-02830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -41,8 +69,22 @@ Let's begin!
 - And here, the camera has been moved a little to the right, and there's a new cast shadow under the guard's right arm:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-03340.jpg" />
- <img src="./../images/VA26/bd-03340.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-03340-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-03340-512px.jpg 512w,
+  ./../images/VA26/resized/tv-03340-768px.jpg 768w,
+  ./../images/VA26/resized/tv-03340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-03340-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-03340-512px.jpg 512w,
+  ./../images/VA26/resized/bd-03340-768px.jpg 768w,
+  ./../images/VA26/resized/bd-03340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -50,8 +92,22 @@ Let's begin!
 - Here, the general shading is a little flatter, the faces of the two guards have been retouched and baby Doppio is looking... much better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-04400.jpg" />
- <img src="./../images/VA26/bd-04400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-04400-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-04400-512px.jpg 512w,
+  ./../images/VA26/resized/tv-04400-768px.jpg 768w,
+  ./../images/VA26/resized/tv-04400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-04400-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-04400-512px.jpg 512w,
+  ./../images/VA26/resized/bd-04400-768px.jpg 768w,
+  ./../images/VA26/resized/bd-04400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -59,8 +115,22 @@ Let's begin!
 - The guy on the left has a smaller mouth, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-04930.jpg" />
- <img src="./../images/VA26/bd-04930.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-04930-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-04930-512px.jpg 512w,
+  ./../images/VA26/resized/tv-04930-768px.jpg 768w,
+  ./../images/VA26/resized/tv-04930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-04930-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-04930-512px.jpg 512w,
+  ./../images/VA26/resized/bd-04930-768px.jpg 768w,
+  ./../images/VA26/resized/bd-04930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -68,8 +138,22 @@ Let's begin!
 - The background has been moved by a whole lot here, and it's also looking a little brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-05980.jpg" />
- <img src="./../images/VA26/bd-05980.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-05980-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-05980-512px.jpg 512w,
+  ./../images/VA26/resized/tv-05980-768px.jpg 768w,
+  ./../images/VA26/resized/tv-05980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-05980-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-05980-512px.jpg 512w,
+  ./../images/VA26/resized/bd-05980-768px.jpg 768w,
+  ./../images/VA26/resized/bd-05980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -77,8 +161,22 @@ Let's begin!
 - And here, instead, it's blurrier:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-06070.jpg" />
- <img src="./../images/VA26/bd-06070.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-06070-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-06070-512px.jpg 512w,
+  ./../images/VA26/resized/tv-06070-768px.jpg 768w,
+  ./../images/VA26/resized/tv-06070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-06070-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-06070-512px.jpg 512w,
+  ./../images/VA26/resized/bd-06070-768px.jpg 768w,
+  ./../images/VA26/resized/bd-06070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -86,8 +184,22 @@ Let's begin!
 - Doppio's upper lip has an outline, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-06270.jpg" />
- <img src="./../images/VA26/bd-06270.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-06270-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-06270-512px.jpg 512w,
+  ./../images/VA26/resized/tv-06270-768px.jpg 768w,
+  ./../images/VA26/resized/tv-06270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-06270-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-06270-512px.jpg 512w,
+  ./../images/VA26/resized/bd-06270-768px.jpg 768w,
+  ./../images/VA26/resized/bd-06270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -95,8 +207,22 @@ Let's begin!
 - This scene is MUCH darker! In addition, the priest's face has been substantially improved, his cassock is no longer broken under the collar, and the books on the table have been moved slightly:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-06630.jpg" />
- <img src="./../images/VA26/bd-06630.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-06630-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-06630-512px.jpg 512w,
+  ./../images/VA26/resized/tv-06630-768px.jpg 768w,
+  ./../images/VA26/resized/tv-06630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-06630-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-06630-512px.jpg 512w,
+  ./../images/VA26/resized/bd-06630-768px.jpg 768w,
+  ./../images/VA26/resized/bd-06630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -104,22 +230,64 @@ Let's begin!
 - Once again, the lighting is much darker here, and the priest's mouth has been also retouched in some frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-06660.jpg" />
- <img src="./../images/VA26/bd-06660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-06660-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-06660-512px.jpg 512w,
+  ./../images/VA26/resized/tv-06660-768px.jpg 768w,
+  ./../images/VA26/resized/tv-06660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-06660-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-06660-512px.jpg 512w,
+  ./../images/VA26/resized/bd-06660-768px.jpg 768w,
+  ./../images/VA26/resized/bd-06660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-06767.jpg" />
- <img src="./../images/VA26/bd-06767.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-06767-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-06767-512px.jpg 512w,
+  ./../images/VA26/resized/tv-06767-768px.jpg 768w,
+  ./../images/VA26/resized/tv-06767-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-06767-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-06767-512px.jpg 512w,
+  ./../images/VA26/resized/bd-06767-768px.jpg 768w,
+  ./../images/VA26/resized/bd-06767-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-06855.jpg" />
- <img src="./../images/VA26/bd-06855.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-06855-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-06855-512px.jpg 512w,
+  ./../images/VA26/resized/tv-06855-768px.jpg 768w,
+  ./../images/VA26/resized/tv-06855-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-06855-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-06855-512px.jpg 512w,
+  ./../images/VA26/resized/bd-06855-768px.jpg 768w,
+  ./../images/VA26/resized/bd-06855-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -127,8 +295,22 @@ Let's begin!
 - In this scene, that Piaggio three-wheeler-looking thing has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-06970.jpg" />
- <img src="./../images/VA26/bd-06970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-06970-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-06970-512px.jpg 512w,
+  ./../images/VA26/resized/tv-06970-768px.jpg 768w,
+  ./../images/VA26/resized/tv-06970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-06970-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-06970-512px.jpg 512w,
+  ./../images/VA26/resized/bd-06970-768px.jpg 768w,
+  ./../images/VA26/resized/bd-06970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -136,8 +318,22 @@ Let's begin!
 - And the leftmost window is no longer a slab of solid steel! That surely helps while driving:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-06990.jpg" />
- <img src="./../images/VA26/bd-06990.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-06990-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-06990-512px.jpg 512w,
+  ./../images/VA26/resized/tv-06990-768px.jpg 768w,
+  ./../images/VA26/resized/tv-06990-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-06990-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-06990-512px.jpg 512w,
+  ./../images/VA26/resized/bd-06990-768px.jpg 768w,
+  ./../images/VA26/resized/bd-06990-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -145,15 +341,43 @@ Let's begin!
 - The priest's expression is different in this scene, and a small bit in the left part of his jawline has been fixed too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-07135.jpg" />
- <img src="./../images/VA26/bd-07135.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-07135-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-07135-512px.jpg 512w,
+  ./../images/VA26/resized/tv-07135-768px.jpg 768w,
+  ./../images/VA26/resized/tv-07135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-07135-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-07135-512px.jpg 512w,
+  ./../images/VA26/resized/bd-07135-768px.jpg 768w,
+  ./../images/VA26/resized/bd-07135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-07165.jpg" />
- <img src="./../images/VA26/bd-07165.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-07165-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-07165-512px.jpg 512w,
+  ./../images/VA26/resized/tv-07165-768px.jpg 768w,
+  ./../images/VA26/resized/tv-07165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-07165-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-07165-512px.jpg 512w,
+  ./../images/VA26/resized/bd-07165-768px.jpg 768w,
+  ./../images/VA26/resized/bd-07165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -161,8 +385,22 @@ Let's begin!
 - The foreground has much stronger outlines, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-07715.jpg" />
- <img src="./../images/VA26/bd-07715.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-07715-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-07715-512px.jpg 512w,
+  ./../images/VA26/resized/tv-07715-768px.jpg 768w,
+  ./../images/VA26/resized/tv-07715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-07715-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-07715-512px.jpg 512w,
+  ./../images/VA26/resized/bd-07715-768px.jpg 768w,
+  ./../images/VA26/resized/bd-07715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -170,8 +408,22 @@ Let's begin!
 - The priest's face has been fixed once again...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-08220.jpg" />
- <img src="./../images/VA26/bd-08220.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-08220-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-08220-512px.jpg 512w,
+  ./../images/VA26/resized/tv-08220-768px.jpg 768w,
+  ./../images/VA26/resized/tv-08220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-08220-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-08220-512px.jpg 512w,
+  ./../images/VA26/resized/bd-08220-768px.jpg 768w,
+  ./../images/VA26/resized/bd-08220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -179,8 +431,22 @@ Let's begin!
 - Doppio's mother has white pupils, here (probably to indicate that she's gone blind?)...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-08225.jpg" />
- <img src="./../images/VA26/bd-08225.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-08225-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-08225-512px.jpg 512w,
+  ./../images/VA26/resized/tv-08225-768px.jpg 768w,
+  ./../images/VA26/resized/tv-08225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-08225-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-08225-512px.jpg 512w,
+  ./../images/VA26/resized/bd-08225-768px.jpg 768w,
+  ./../images/VA26/resized/bd-08225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -195,36 +461,106 @@ Let's begin!
 - In this last comparison from the flashback part of the episode, the shading on the priest and on Doppio's mother is slightly different, and some details on the priest have been retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-08635.jpg" />
- <img src="./../images/VA26/bd-08635.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-08635-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-08635-512px.jpg 512w,
+  ./../images/VA26/resized/tv-08635-768px.jpg 768w,
+  ./../images/VA26/resized/tv-08635-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-08635-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-08635-512px.jpg 512w,
+  ./../images/VA26/resized/bd-08635-768px.jpg 768w,
+  ./../images/VA26/resized/bd-08635-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-08640.jpg" />
- <img src="./../images/VA26/bd-08640.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-08640-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-08640-512px.jpg 512w,
+  ./../images/VA26/resized/tv-08640-768px.jpg 768w,
+  ./../images/VA26/resized/tv-08640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-08640-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-08640-512px.jpg 512w,
+  ./../images/VA26/resized/bd-08640-768px.jpg 768w,
+  ./../images/VA26/resized/bd-08640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-08642.jpg" />
- <img src="./../images/VA26/bd-08642.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-08642-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-08642-512px.jpg 512w,
+  ./../images/VA26/resized/tv-08642-768px.jpg 768w,
+  ./../images/VA26/resized/tv-08642-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-08642-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-08642-512px.jpg 512w,
+  ./../images/VA26/resized/bd-08642-768px.jpg 768w,
+  ./../images/VA26/resized/bd-08642-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-08658.jpg" />
- <img src="./../images/VA26/bd-08658.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-08658-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-08658-512px.jpg 512w,
+  ./../images/VA26/resized/tv-08658-768px.jpg 768w,
+  ./../images/VA26/resized/tv-08658-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-08658-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-08658-512px.jpg 512w,
+  ./../images/VA26/resized/bd-08658-768px.jpg 768w,
+  ./../images/VA26/resized/bd-08658-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-08679.jpg" />
- <img src="./../images/VA26/bd-08679.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-08679-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-08679-512px.jpg 512w,
+  ./../images/VA26/resized/tv-08679-768px.jpg 768w,
+  ./../images/VA26/resized/tv-08679-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-08679-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-08679-512px.jpg 512w,
+  ./../images/VA26/resized/bd-08679-768px.jpg 768w,
+  ./../images/VA26/resized/bd-08679-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -232,8 +568,22 @@ Let's begin!
 - Let's go back to the present, shall we? This scene is looking much better, in my opinion! There is a new distortion around the edges of the frame, the running kid is significantly smaller, Doppio has been shaded more, and there is a way darker vignette along the bottom of the frame:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-09765.jpg" />
- <img src="./../images/VA26/bd-09765.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-09765-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-09765-512px.jpg 512w,
+  ./../images/VA26/resized/tv-09765-768px.jpg 768w,
+  ./../images/VA26/resized/tv-09765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-09765-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-09765-512px.jpg 512w,
+  ./../images/VA26/resized/bd-09765-768px.jpg 768w,
+  ./../images/VA26/resized/bd-09765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -241,15 +591,43 @@ Let's begin!
 - This brief scene has better contrast:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-09985.jpg" />
- <img src="./../images/VA26/bd-09985.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-09985-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-09985-512px.jpg 512w,
+  ./../images/VA26/resized/tv-09985-768px.jpg 768w,
+  ./../images/VA26/resized/tv-09985-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-09985-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-09985-512px.jpg 512w,
+  ./../images/VA26/resized/bd-09985-768px.jpg 768w,
+  ./../images/VA26/resized/bd-09985-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-10000.jpg" />
- <img src="./../images/VA26/bd-10000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-10000-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-10000-512px.jpg 512w,
+  ./../images/VA26/resized/tv-10000-768px.jpg 768w,
+  ./../images/VA26/resized/tv-10000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-10000-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-10000-512px.jpg 512w,
+  ./../images/VA26/resized/bd-10000-768px.jpg 768w,
+  ./../images/VA26/resized/bd-10000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -257,36 +635,106 @@ Let's begin!
 - Doppio's face has been significantly retouched here (in a couple of frames there's also an additional shadow under his right armpit):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-10635.jpg" />
- <img src="./../images/VA26/bd-10635.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-10635-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-10635-512px.jpg 512w,
+  ./../images/VA26/resized/tv-10635-768px.jpg 768w,
+  ./../images/VA26/resized/tv-10635-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-10635-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-10635-512px.jpg 512w,
+  ./../images/VA26/resized/bd-10635-768px.jpg 768w,
+  ./../images/VA26/resized/bd-10635-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-10670.jpg" />
- <img src="./../images/VA26/bd-10670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-10670-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-10670-512px.jpg 512w,
+  ./../images/VA26/resized/tv-10670-768px.jpg 768w,
+  ./../images/VA26/resized/tv-10670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-10670-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-10670-512px.jpg 512w,
+  ./../images/VA26/resized/bd-10670-768px.jpg 768w,
+  ./../images/VA26/resized/bd-10670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-10675.jpg" />
- <img src="./../images/VA26/bd-10675.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-10675-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-10675-512px.jpg 512w,
+  ./../images/VA26/resized/tv-10675-768px.jpg 768w,
+  ./../images/VA26/resized/tv-10675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-10675-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-10675-512px.jpg 512w,
+  ./../images/VA26/resized/bd-10675-768px.jpg 768w,
+  ./../images/VA26/resized/bd-10675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-10710.jpg" />
- <img src="./../images/VA26/bd-10710.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-10710-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-10710-512px.jpg 512w,
+  ./../images/VA26/resized/tv-10710-768px.jpg 768w,
+  ./../images/VA26/resized/tv-10710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-10710-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-10710-512px.jpg 512w,
+  ./../images/VA26/resized/bd-10710-768px.jpg 768w,
+  ./../images/VA26/resized/bd-10710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-10735.jpg" />
- <img src="./../images/VA26/bd-10735.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-10735-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-10735-512px.jpg 512w,
+  ./../images/VA26/resized/tv-10735-768px.jpg 768w,
+  ./../images/VA26/resized/tv-10735-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-10735-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-10735-512px.jpg 512w,
+  ./../images/VA26/resized/bd-10735-768px.jpg 768w,
+  ./../images/VA26/resized/bd-10735-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -294,8 +742,22 @@ Let's begin!
 - The fortune teller's gem has been shaded correctly, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-12910.jpg" />
- <img src="./../images/VA26/bd-12910.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-12910-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-12910-512px.jpg 512w,
+  ./../images/VA26/resized/tv-12910-768px.jpg 768w,
+  ./../images/VA26/resized/tv-12910-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-12910-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-12910-512px.jpg 512w,
+  ./../images/VA26/resized/bd-12910-768px.jpg 768w,
+  ./../images/VA26/resized/bd-12910-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -303,15 +765,43 @@ Let's begin!
 - The camera is much more zoomed in here, most things have been moved or resized, and the background is brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-13750.jpg" />
- <img src="./../images/VA26/bd-13750.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-13750-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-13750-512px.jpg 512w,
+  ./../images/VA26/resized/tv-13750-768px.jpg 768w,
+  ./../images/VA26/resized/tv-13750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-13750-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-13750-512px.jpg 512w,
+  ./../images/VA26/resized/bd-13750-768px.jpg 768w,
+  ./../images/VA26/resized/bd-13750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-13850.jpg" />
- <img src="./../images/VA26/bd-13850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-13850-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-13850-512px.jpg 512w,
+  ./../images/VA26/resized/tv-13850-768px.jpg 768w,
+  ./../images/VA26/resized/tv-13850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-13850-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-13850-512px.jpg 512w,
+  ./../images/VA26/resized/bd-13850-768px.jpg 768w,
+  ./../images/VA26/resized/bd-13850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -319,22 +809,64 @@ Let's begin!
 - Here there is a different distortion, Doppio has more prominent freckles, the background is brighter and the shading on the characters is a little darker, and towards the end the background becomes blurrier too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-13995.jpg" />
- <img src="./../images/VA26/bd-13995.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-13995-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-13995-512px.jpg 512w,
+  ./../images/VA26/resized/tv-13995-768px.jpg 768w,
+  ./../images/VA26/resized/tv-13995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-13995-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-13995-512px.jpg 512w,
+  ./../images/VA26/resized/bd-13995-768px.jpg 768w,
+  ./../images/VA26/resized/bd-13995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-14005.jpg" />
- <img src="./../images/VA26/bd-14005.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-14005-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-14005-512px.jpg 512w,
+  ./../images/VA26/resized/tv-14005-768px.jpg 768w,
+  ./../images/VA26/resized/tv-14005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-14005-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-14005-512px.jpg 512w,
+  ./../images/VA26/resized/bd-14005-768px.jpg 768w,
+  ./../images/VA26/resized/bd-14005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-14115.jpg" />
- <img src="./../images/VA26/bd-14115.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-14115-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-14115-512px.jpg 512w,
+  ./../images/VA26/resized/tv-14115-768px.jpg 768w,
+  ./../images/VA26/resized/tv-14115-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-14115-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-14115-512px.jpg 512w,
+  ./../images/VA26/resized/bd-14115-768px.jpg 768w,
+  ./../images/VA26/resized/bd-14115-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -342,15 +874,43 @@ Let's begin!
 - In this incredibly MENACING shot of Big Boy Doppio, his right shoulder and arm have been retouched, the hair on the left side of the frame is looking slightly better and the little bit of skin showing near his mouth is no longer there:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-15030.jpg" />
- <img src="./../images/VA26/bd-15030.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-15030-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-15030-512px.jpg 512w,
+  ./../images/VA26/resized/tv-15030-768px.jpg 768w,
+  ./../images/VA26/resized/tv-15030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-15030-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-15030-512px.jpg 512w,
+  ./../images/VA26/resized/bd-15030-768px.jpg 768w,
+  ./../images/VA26/resized/bd-15030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-16115.jpg" />
- <img src="./../images/VA26/bd-16115.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-16115-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-16115-512px.jpg 512w,
+  ./../images/VA26/resized/tv-16115-768px.jpg 768w,
+  ./../images/VA26/resized/tv-16115-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-16115-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-16115-512px.jpg 512w,
+  ./../images/VA26/resized/bd-16115-768px.jpg 768w,
+  ./../images/VA26/resized/bd-16115-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -358,8 +918,22 @@ Let's begin!
 - The fortune teller's head has been retouched, here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-16350.jpg" />
- <img src="./../images/VA26/bd-16350.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-16350-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-16350-512px.jpg 512w,
+  ./../images/VA26/resized/tv-16350-768px.jpg 768w,
+  ./../images/VA26/resized/tv-16350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-16350-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-16350-512px.jpg 512w,
+  ./../images/VA26/resized/bd-16350-768px.jpg 768w,
+  ./../images/VA26/resized/bd-16350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -367,8 +941,22 @@ Let's begin!
 - In the BD version of this scene, he actually notices his bloody stump, and his mouth stays open until the end:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-16830.jpg" />
- <img src="./../images/VA26/bd-16830.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-16830-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-16830-512px.jpg 512w,
+  ./../images/VA26/resized/tv-16830-768px.jpg 768w,
+  ./../images/VA26/resized/tv-16830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-16830-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-16830-512px.jpg 512w,
+  ./../images/VA26/resized/bd-16830-768px.jpg 768w,
+  ./../images/VA26/resized/bd-16830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -376,15 +964,43 @@ Let's begin!
 - Here, Doppio has been moved and resized so that his position now actually makes sense, and the fortune teller's face and arms have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-17015.jpg" />
- <img src="./../images/VA26/bd-17015.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-17015-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-17015-512px.jpg 512w,
+  ./../images/VA26/resized/tv-17015-768px.jpg 768w,
+  ./../images/VA26/resized/tv-17015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-17015-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-17015-512px.jpg 512w,
+  ./../images/VA26/resized/bd-17015-768px.jpg 768w,
+  ./../images/VA26/resized/bd-17015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-17065.jpg" />
- <img src="./../images/VA26/bd-17065.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-17065-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-17065-512px.jpg 512w,
+  ./../images/VA26/resized/tv-17065-768px.jpg 768w,
+  ./../images/VA26/resized/tv-17065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-17065-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-17065-512px.jpg 512w,
+  ./../images/VA26/resized/bd-17065-768px.jpg 768w,
+  ./../images/VA26/resized/bd-17065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -392,8 +1008,22 @@ Let's begin!
 - In this beautiful shot, both Doppio and King Crimson have been retouched! Take a look:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-17145.jpg" />
- <img src="./../images/VA26/bd-17145.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-17145-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-17145-512px.jpg 512w,
+  ./../images/VA26/resized/tv-17145-768px.jpg 768w,
+  ./../images/VA26/resized/tv-17145-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-17145-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-17145-512px.jpg 512w,
+  ./../images/VA26/resized/bd-17145-768px.jpg 768w,
+  ./../images/VA26/resized/bd-17145-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -401,8 +1031,22 @@ Let's begin!
 - And here, the left part of the frame is much darker...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-17325.jpg" />
- <img src="./../images/VA26/bd-17325.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-17325-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-17325-512px.jpg 512w,
+  ./../images/VA26/resized/tv-17325-768px.jpg 768w,
+  ./../images/VA26/resized/tv-17325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-17325-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-17325-512px.jpg 512w,
+  ./../images/VA26/resized/bd-17325-768px.jpg 768w,
+  ./../images/VA26/resized/bd-17325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -415,15 +1059,43 @@ Let's begin!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-17340.jpg" />
- <img src="./../images/VA26/bd-17340.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-17340-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-17340-512px.jpg 512w,
+  ./../images/VA26/resized/tv-17340-768px.jpg 768w,
+  ./../images/VA26/resized/tv-17340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-17340-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-17340-512px.jpg 512w,
+  ./../images/VA26/resized/bd-17340-768px.jpg 768w,
+  ./../images/VA26/resized/bd-17340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-17348.jpg" />
- <img src="./../images/VA26/bd-17348.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-17348-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-17348-512px.jpg 512w,
+  ./../images/VA26/resized/tv-17348-768px.jpg 768w,
+  ./../images/VA26/resized/tv-17348-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-17348-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-17348-512px.jpg 512w,
+  ./../images/VA26/resized/bd-17348-768px.jpg 768w,
+  ./../images/VA26/resized/bd-17348-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -431,15 +1103,43 @@ Let's begin!
 - This beautiful man is no longer cross-eyed, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-18335.jpg" />
- <img src="./../images/VA26/bd-18335.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-18335-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-18335-512px.jpg 512w,
+  ./../images/VA26/resized/tv-18335-768px.jpg 768w,
+  ./../images/VA26/resized/tv-18335-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-18335-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-18335-512px.jpg 512w,
+  ./../images/VA26/resized/bd-18335-768px.jpg 768w,
+  ./../images/VA26/resized/bd-18335-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-18460.jpg" />
- <img src="./../images/VA26/bd-18460.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-18460-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-18460-512px.jpg 512w,
+  ./../images/VA26/resized/tv-18460-768px.jpg 768w,
+  ./../images/VA26/resized/tv-18460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-18460-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-18460-512px.jpg 512w,
+  ./../images/VA26/resized/bd-18460-768px.jpg 768w,
+  ./../images/VA26/resized/bd-18460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -447,8 +1147,22 @@ Let's begin!
 - Moving on! The very weird background here has been VASTLY improved! The mountain in the back in particular looks much better, the general lighting is much brighter and the background has also been moved a little bit to the right:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-18610.jpg" />
- <img src="./../images/VA26/bd-18610.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-18610-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-18610-512px.jpg 512w,
+  ./../images/VA26/resized/tv-18610-768px.jpg 768w,
+  ./../images/VA26/resized/tv-18610-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-18610-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-18610-512px.jpg 512w,
+  ./../images/VA26/resized/bd-18610-768px.jpg 768w,
+  ./../images/VA26/resized/bd-18610-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -456,15 +1170,43 @@ Let's begin!
 - Here we have another vastly improved shot! Starting from the smaller details: the cat figurine now has a tail, the general lighting inside the car is a little brighter, most lines on the driver and Doppio are a little thinner, the camera has been moved a little... And oh, yeah, the background is looking MASSIVELY better, the side windows are no longer made of solid steel (again), and the back of the car is no longer transparent. Phew! Also, the rightmost window frame was sort of interrupted in the top-right corner; that's been fixed in the BD:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-18700.jpg" />
- <img src="./../images/VA26/bd-18700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-18700-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-18700-512px.jpg 512w,
+  ./../images/VA26/resized/tv-18700-768px.jpg 768w,
+  ./../images/VA26/resized/tv-18700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-18700-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-18700-512px.jpg 512w,
+  ./../images/VA26/resized/bd-18700-768px.jpg 768w,
+  ./../images/VA26/resized/bd-18700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-18890.jpg" />
- <img src="./../images/VA26/bd-18890.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-18890-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-18890-512px.jpg 512w,
+  ./../images/VA26/resized/tv-18890-768px.jpg 768w,
+  ./../images/VA26/resized/tv-18890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-18890-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-18890-512px.jpg 512w,
+  ./../images/VA26/resized/bd-18890-768px.jpg 768w,
+  ./../images/VA26/resized/bd-18890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -472,29 +1214,85 @@ Let's begin!
 - Doppio's been retouched here and there, in these frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-19035.jpg" />
- <img src="./../images/VA26/bd-19035.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-19035-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-19035-512px.jpg 512w,
+  ./../images/VA26/resized/tv-19035-768px.jpg 768w,
+  ./../images/VA26/resized/tv-19035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-19035-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-19035-512px.jpg 512w,
+  ./../images/VA26/resized/bd-19035-768px.jpg 768w,
+  ./../images/VA26/resized/bd-19035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-19045.jpg" />
- <img src="./../images/VA26/bd-19045.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-19045-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-19045-512px.jpg 512w,
+  ./../images/VA26/resized/tv-19045-768px.jpg 768w,
+  ./../images/VA26/resized/tv-19045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-19045-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-19045-512px.jpg 512w,
+  ./../images/VA26/resized/bd-19045-768px.jpg 768w,
+  ./../images/VA26/resized/bd-19045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-19065.jpg" />
- <img src="./../images/VA26/bd-19065.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-19065-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-19065-512px.jpg 512w,
+  ./../images/VA26/resized/tv-19065-768px.jpg 768w,
+  ./../images/VA26/resized/tv-19065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-19065-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-19065-512px.jpg 512w,
+  ./../images/VA26/resized/bd-19065-768px.jpg 768w,
+  ./../images/VA26/resized/bd-19065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-19115.jpg" />
- <img src="./../images/VA26/bd-19115.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-19115-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-19115-512px.jpg 512w,
+  ./../images/VA26/resized/tv-19115-768px.jpg 768w,
+  ./../images/VA26/resized/tv-19115-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-19115-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-19115-512px.jpg 512w,
+  ./../images/VA26/resized/bd-19115-768px.jpg 768w,
+  ./../images/VA26/resized/bd-19115-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -502,8 +1300,22 @@ Let's begin!
 - Here, the general lighting is darker, Doppio's now got freckles, most lines on him and on the letter he's holding are thinner and there's a couple of lines less next to his right eye:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-19120.jpg" />
- <img src="./../images/VA26/bd-19120.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-19120-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-19120-512px.jpg 512w,
+  ./../images/VA26/resized/tv-19120-768px.jpg 768w,
+  ./../images/VA26/resized/tv-19120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-19120-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-19120-512px.jpg 512w,
+  ./../images/VA26/resized/bd-19120-768px.jpg 768w,
+  ./../images/VA26/resized/bd-19120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -511,15 +1323,43 @@ Let's begin!
 - We have another completely redrawn background here, fellas - and it's looking much, much better! In addition, the general lighting has also been fixed. Check it out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-19590.jpg" />
- <img src="./../images/VA26/bd-19590.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-19590-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-19590-512px.jpg 512w,
+  ./../images/VA26/resized/tv-19590-768px.jpg 768w,
+  ./../images/VA26/resized/tv-19590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-19590-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-19590-512px.jpg 512w,
+  ./../images/VA26/resized/bd-19590-768px.jpg 768w,
+  ./../images/VA26/resized/bd-19590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-19850.jpg" />
- <img src="./../images/VA26/bd-19850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-19850-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-19850-512px.jpg 512w,
+  ./../images/VA26/resized/tv-19850-768px.jpg 768w,
+  ./../images/VA26/resized/tv-19850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-19850-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-19850-512px.jpg 512w,
+  ./../images/VA26/resized/bd-19850-768px.jpg 768w,
+  ./../images/VA26/resized/bd-19850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -527,8 +1367,22 @@ Let's begin!
 - Let's take a break with a very minor change - a very small triangle under the douchy driver's left armpit is now properly shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-20095.jpg" />
- <img src="./../images/VA26/bd-20095.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-20095-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-20095-512px.jpg 512w,
+  ./../images/VA26/resized/tv-20095-768px.jpg 768w,
+  ./../images/VA26/resized/tv-20095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-20095-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-20095-512px.jpg 512w,
+  ./../images/VA26/resized/bd-20095-768px.jpg 768w,
+  ./../images/VA26/resized/bd-20095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -536,15 +1390,43 @@ Let's begin!
 - Doppio's eyes are looking slightly better, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-20130.jpg" />
- <img src="./../images/VA26/bd-20130.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-20130-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-20130-512px.jpg 512w,
+  ./../images/VA26/resized/tv-20130-768px.jpg 768w,
+  ./../images/VA26/resized/tv-20130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-20130-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-20130-512px.jpg 512w,
+  ./../images/VA26/resized/bd-20130-768px.jpg 768w,
+  ./../images/VA26/resized/bd-20130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-20150.jpg" />
- <img src="./../images/VA26/bd-20150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-20150-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-20150-512px.jpg 512w,
+  ./../images/VA26/resized/tv-20150-768px.jpg 768w,
+  ./../images/VA26/resized/tv-20150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-20150-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-20150-512px.jpg 512w,
+  ./../images/VA26/resized/bd-20150-768px.jpg 768w,
+  ./../images/VA26/resized/bd-20150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -552,22 +1434,64 @@ Let's begin!
 - This scene is slightly darker, and there are some new spiffy motion lines:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-20455.jpg" />
- <img src="./../images/VA26/bd-20455.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-20455-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-20455-512px.jpg 512w,
+  ./../images/VA26/resized/tv-20455-768px.jpg 768w,
+  ./../images/VA26/resized/tv-20455-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-20455-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-20455-512px.jpg 512w,
+  ./../images/VA26/resized/bd-20455-768px.jpg 768w,
+  ./../images/VA26/resized/bd-20455-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-20470.jpg" />
- <img src="./../images/VA26/bd-20470.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-20470-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-20470-512px.jpg 512w,
+  ./../images/VA26/resized/tv-20470-768px.jpg 768w,
+  ./../images/VA26/resized/tv-20470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-20470-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-20470-512px.jpg 512w,
+  ./../images/VA26/resized/bd-20470-768px.jpg 768w,
+  ./../images/VA26/resized/bd-20470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-20490.jpg" />
- <img src="./../images/VA26/bd-20490.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-20490-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-20490-512px.jpg 512w,
+  ./../images/VA26/resized/tv-20490-768px.jpg 768w,
+  ./../images/VA26/resized/tv-20490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-20490-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-20490-512px.jpg 512w,
+  ./../images/VA26/resized/bd-20490-768px.jpg 768w,
+  ./../images/VA26/resized/bd-20490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -575,8 +1499,22 @@ Let's begin!
 - This... This is one of those differences that would take me much longer to describe than you to actually see with your eyes so here, take a gander at this beautiful shot which has been pretty substantially retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-20545.jpg" />
- <img src="./../images/VA26/bd-20545.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-20545-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-20545-512px.jpg 512w,
+  ./../images/VA26/resized/tv-20545-768px.jpg 768w,
+  ./../images/VA26/resized/tv-20545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-20545-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-20545-512px.jpg 512w,
+  ./../images/VA26/resized/bd-20545-768px.jpg 768w,
+  ./../images/VA26/resized/bd-20545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -584,8 +1522,22 @@ Let's begin!
 - Here, the shading on the driver and Doppio is a little flatter, the frame is slightly darker in the bottom left corner, the background seems sliiiiiiightly less blurry and the sea is a tiny bit different; in addition, Doppio's eye colour is different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-20820.jpg" />
- <img src="./../images/VA26/bd-20820.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-20820-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-20820-512px.jpg 512w,
+  ./../images/VA26/resized/tv-20820-768px.jpg 768w,
+  ./../images/VA26/resized/tv-20820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-20820-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-20820-512px.jpg 512w,
+  ./../images/VA26/resized/bd-20820-768px.jpg 768w,
+  ./../images/VA26/resized/bd-20820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -593,8 +1545,22 @@ Let's begin!
 - Once again, Doppio's eyes have been slightly retouched, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-20970.jpg" />
- <img src="./../images/VA26/bd-20970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-20970-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-20970-512px.jpg 512w,
+  ./../images/VA26/resized/tv-20970-768px.jpg 768w,
+  ./../images/VA26/resized/tv-20970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-20970-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-20970-512px.jpg 512w,
+  ./../images/VA26/resized/bd-20970-768px.jpg 768w,
+  ./../images/VA26/resized/bd-20970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -602,8 +1568,22 @@ Let's begin!
 - This shot is slightly more distorted, the bottom of the rocks in the background is much darker and the sea is slightly different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-21315.jpg" />
- <img src="./../images/VA26/bd-21315.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-21315-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-21315-512px.jpg 512w,
+  ./../images/VA26/resized/tv-21315-768px.jpg 768w,
+  ./../images/VA26/resized/tv-21315-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-21315-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-21315-512px.jpg 512w,
+  ./../images/VA26/resized/bd-21315-768px.jpg 768w,
+  ./../images/VA26/resized/bd-21315-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -611,8 +1591,22 @@ Let's begin!
 - Doppio now has teeth and normal mouth stuff, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-21480.jpg" />
- <img src="./../images/VA26/bd-21480.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-21480-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-21480-512px.jpg 512w,
+  ./../images/VA26/resized/tv-21480-768px.jpg 768w,
+  ./../images/VA26/resized/tv-21480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-21480-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-21480-512px.jpg 512w,
+  ./../images/VA26/resized/bd-21480-768px.jpg 768w,
+  ./../images/VA26/resized/bd-21480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -620,29 +1614,85 @@ Let's begin!
 - The ground at the bottom of the frame is much darker, here, and Doppio has been retouched, to... some effect:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-22570.jpg" />
- <img src="./../images/VA26/bd-22570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-22570-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-22570-512px.jpg 512w,
+  ./../images/VA26/resized/tv-22570-768px.jpg 768w,
+  ./../images/VA26/resized/tv-22570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-22570-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-22570-512px.jpg 512w,
+  ./../images/VA26/resized/bd-22570-768px.jpg 768w,
+  ./../images/VA26/resized/bd-22570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-22590.jpg" />
- <img src="./../images/VA26/bd-22590.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-22590-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-22590-512px.jpg 512w,
+  ./../images/VA26/resized/tv-22590-768px.jpg 768w,
+  ./../images/VA26/resized/tv-22590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-22590-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-22590-512px.jpg 512w,
+  ./../images/VA26/resized/bd-22590-768px.jpg 768w,
+  ./../images/VA26/resized/bd-22590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-22660.jpg" />
- <img src="./../images/VA26/bd-22660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-22660-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-22660-512px.jpg 512w,
+  ./../images/VA26/resized/tv-22660-768px.jpg 768w,
+  ./../images/VA26/resized/tv-22660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-22660-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-22660-512px.jpg 512w,
+  ./../images/VA26/resized/bd-22660-768px.jpg 768w,
+  ./../images/VA26/resized/bd-22660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-22705.jpg" />
- <img src="./../images/VA26/bd-22705.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-22705-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-22705-512px.jpg 512w,
+  ./../images/VA26/resized/tv-22705-768px.jpg 768w,
+  ./../images/VA26/resized/tv-22705-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-22705-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-22705-512px.jpg 512w,
+  ./../images/VA26/resized/bd-22705-768px.jpg 768w,
+  ./../images/VA26/resized/bd-22705-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -650,8 +1700,22 @@ Let's begin!
 - Here we have another reworked shot! The texture overlay on Doppio is different, the background has been changed and Doppio's eyes have been retouched too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-23520.jpg" />
- <img src="./../images/VA26/bd-23520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-23520-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-23520-512px.jpg 512w,
+  ./../images/VA26/resized/tv-23520-768px.jpg 768w,
+  ./../images/VA26/resized/tv-23520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-23520-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-23520-512px.jpg 512w,
+  ./../images/VA26/resized/bd-23520-768px.jpg 768w,
+  ./../images/VA26/resized/bd-23520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -664,8 +1728,22 @@ Let's begin!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-23581.jpg" />
- <img src="./../images/VA26/bd-23581.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-23581-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-23581-512px.jpg 512w,
+  ./../images/VA26/resized/tv-23581-768px.jpg 768w,
+  ./../images/VA26/resized/tv-23581-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-23581-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-23581-512px.jpg 512w,
+  ./../images/VA26/resized/bd-23581-768px.jpg 768w,
+  ./../images/VA26/resized/bd-23581-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -673,8 +1751,22 @@ Let's begin!
 - Here, the lighting on Doppio is different, the background is blurrier and he's now got a smattering of freckles on his weird boy face:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-23885.jpg" />
- <img src="./../images/VA26/bd-23885.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-23885-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-23885-512px.jpg 512w,
+  ./../images/VA26/resized/tv-23885-768px.jpg 768w,
+  ./../images/VA26/resized/tv-23885-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-23885-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-23885-512px.jpg 512w,
+  ./../images/VA26/resized/bd-23885-768px.jpg 768w,
+  ./../images/VA26/resized/bd-23885-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -682,8 +1774,22 @@ Let's begin!
 - TAKE A LOOK AT THIS COMPLETELY REDRAWN BACKGROUND, PEOPLE:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-24280.jpg" />
- <img src="./../images/VA26/bd-24280.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-24280-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-24280-512px.jpg 512w,
+  ./../images/VA26/resized/tv-24280-768px.jpg 768w,
+  ./../images/VA26/resized/tv-24280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-24280-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-24280-512px.jpg 512w,
+  ./../images/VA26/resized/bd-24280-768px.jpg 768w,
+  ./../images/VA26/resized/bd-24280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -691,78 +1797,232 @@ Let's begin!
 - You know what we haven't had in a while? A frame-by-frame comparison! But, luckily for you, here we have a healthy serving of redrawn Doppio faces, for your eyes only! Eat up, friends, eat up, there are some really tasty morsels in here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-24319.jpg" />
- <img src="./../images/VA26/bd-24319.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-24319-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-24319-512px.jpg 512w,
+  ./../images/VA26/resized/tv-24319-768px.jpg 768w,
+  ./../images/VA26/resized/tv-24319-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-24319-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-24319-512px.jpg 512w,
+  ./../images/VA26/resized/bd-24319-768px.jpg 768w,
+  ./../images/VA26/resized/bd-24319-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-24322.jpg" />
- <img src="./../images/VA26/bd-24322.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-24322-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-24322-512px.jpg 512w,
+  ./../images/VA26/resized/tv-24322-768px.jpg 768w,
+  ./../images/VA26/resized/tv-24322-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-24322-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-24322-512px.jpg 512w,
+  ./../images/VA26/resized/bd-24322-768px.jpg 768w,
+  ./../images/VA26/resized/bd-24322-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-24325.jpg" />
- <img src="./../images/VA26/bd-24325.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-24325-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-24325-512px.jpg 512w,
+  ./../images/VA26/resized/tv-24325-768px.jpg 768w,
+  ./../images/VA26/resized/tv-24325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-24325-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-24325-512px.jpg 512w,
+  ./../images/VA26/resized/bd-24325-768px.jpg 768w,
+  ./../images/VA26/resized/bd-24325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-24328.jpg" />
- <img src="./../images/VA26/bd-24328.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-24328-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-24328-512px.jpg 512w,
+  ./../images/VA26/resized/tv-24328-768px.jpg 768w,
+  ./../images/VA26/resized/tv-24328-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-24328-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-24328-512px.jpg 512w,
+  ./../images/VA26/resized/bd-24328-768px.jpg 768w,
+  ./../images/VA26/resized/bd-24328-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-24331.jpg" />
- <img src="./../images/VA26/bd-24331.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-24331-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-24331-512px.jpg 512w,
+  ./../images/VA26/resized/tv-24331-768px.jpg 768w,
+  ./../images/VA26/resized/tv-24331-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-24331-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-24331-512px.jpg 512w,
+  ./../images/VA26/resized/bd-24331-768px.jpg 768w,
+  ./../images/VA26/resized/bd-24331-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-24334.jpg" />
- <img src="./../images/VA26/bd-24334.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-24334-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-24334-512px.jpg 512w,
+  ./../images/VA26/resized/tv-24334-768px.jpg 768w,
+  ./../images/VA26/resized/tv-24334-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-24334-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-24334-512px.jpg 512w,
+  ./../images/VA26/resized/bd-24334-768px.jpg 768w,
+  ./../images/VA26/resized/bd-24334-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-24337.jpg" />
- <img src="./../images/VA26/bd-24337.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-24337-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-24337-512px.jpg 512w,
+  ./../images/VA26/resized/tv-24337-768px.jpg 768w,
+  ./../images/VA26/resized/tv-24337-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-24337-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-24337-512px.jpg 512w,
+  ./../images/VA26/resized/bd-24337-768px.jpg 768w,
+  ./../images/VA26/resized/bd-24337-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-24360.jpg" />
- <img src="./../images/VA26/bd-24360.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-24360-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-24360-512px.jpg 512w,
+  ./../images/VA26/resized/tv-24360-768px.jpg 768w,
+  ./../images/VA26/resized/tv-24360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-24360-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-24360-512px.jpg 512w,
+  ./../images/VA26/resized/bd-24360-768px.jpg 768w,
+  ./../images/VA26/resized/bd-24360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-24363.jpg" />
- <img src="./../images/VA26/bd-24363.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-24363-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-24363-512px.jpg 512w,
+  ./../images/VA26/resized/tv-24363-768px.jpg 768w,
+  ./../images/VA26/resized/tv-24363-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-24363-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-24363-512px.jpg 512w,
+  ./../images/VA26/resized/bd-24363-768px.jpg 768w,
+  ./../images/VA26/resized/bd-24363-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-24366.jpg" />
- <img src="./../images/VA26/bd-24366.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-24366-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-24366-512px.jpg 512w,
+  ./../images/VA26/resized/tv-24366-768px.jpg 768w,
+  ./../images/VA26/resized/tv-24366-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-24366-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-24366-512px.jpg 512w,
+  ./../images/VA26/resized/bd-24366-768px.jpg 768w,
+  ./../images/VA26/resized/bd-24366-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-24405.jpg" />
- <img src="./../images/VA26/bd-24405.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-24405-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-24405-512px.jpg 512w,
+  ./../images/VA26/resized/tv-24405-768px.jpg 768w,
+  ./../images/VA26/resized/tv-24405-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-24405-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-24405-512px.jpg 512w,
+  ./../images/VA26/resized/bd-24405-768px.jpg 768w,
+  ./../images/VA26/resized/bd-24405-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -770,8 +2030,22 @@ Let's begin!
 - Woo! Alright, let's move on... Here, this scene is surrounded by a bunch of new motion lines, and the rocks Doppio's smashing his face on now have an outline:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-24681.jpg" />
- <img src="./../images/VA26/bd-24681.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-24681-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-24681-512px.jpg 512w,
+  ./../images/VA26/resized/tv-24681-768px.jpg 768w,
+  ./../images/VA26/resized/tv-24681-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-24681-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-24681-512px.jpg 512w,
+  ./../images/VA26/resized/bd-24681-768px.jpg 768w,
+  ./../images/VA26/resized/bd-24681-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -779,8 +2053,22 @@ Let's begin!
 - Those very same rocks have had their outlines added here as well; in addition, almost everything apart from Risotto and Doppio has been moved slightly, the general lighting is different and Risotto's neck has been shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-24750.jpg" />
- <img src="./../images/VA26/bd-24750.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-24750-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-24750-512px.jpg 512w,
+  ./../images/VA26/resized/tv-24750-768px.jpg 768w,
+  ./../images/VA26/resized/tv-24750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-24750-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-24750-512px.jpg 512w,
+  ./../images/VA26/resized/bd-24750-768px.jpg 768w,
+  ./../images/VA26/resized/bd-24750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -788,15 +2076,43 @@ Let's begin!
 - Here, Doppio's face has been retouched and the rocks and ground that form the background have thinner, less contrasting lines:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-24960.jpg" />
- <img src="./../images/VA26/bd-24960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-24960-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-24960-512px.jpg 512w,
+  ./../images/VA26/resized/tv-24960-768px.jpg 768w,
+  ./../images/VA26/resized/tv-24960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-24960-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-24960-512px.jpg 512w,
+  ./../images/VA26/resized/bd-24960-768px.jpg 768w,
+  ./../images/VA26/resized/bd-24960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-25095.jpg" />
- <img src="./../images/VA26/bd-25095.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-25095-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-25095-512px.jpg 512w,
+  ./../images/VA26/resized/tv-25095-768px.jpg 768w,
+  ./../images/VA26/resized/tv-25095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-25095-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-25095-512px.jpg 512w,
+  ./../images/VA26/resized/bd-25095-768px.jpg 768w,
+  ./../images/VA26/resized/bd-25095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -809,8 +2125,22 @@ Let's begin!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-25887.jpg" />
- <img src="./../images/VA26/bd-25887.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-25887-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-25887-512px.jpg 512w,
+  ./../images/VA26/resized/tv-25887-768px.jpg 768w,
+  ./../images/VA26/resized/tv-25887-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-25887-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-25887-512px.jpg 512w,
+  ./../images/VA26/resized/bd-25887-768px.jpg 768w,
+  ./../images/VA26/resized/bd-25887-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -818,22 +2148,64 @@ Let's begin!
 - Risotto is looking MUCH BETTER here, and Doppio's eye area has been retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-26241.jpg" />
- <img src="./../images/VA26/bd-26241.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-26241-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-26241-512px.jpg 512w,
+  ./../images/VA26/resized/tv-26241-768px.jpg 768w,
+  ./../images/VA26/resized/tv-26241-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-26241-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-26241-512px.jpg 512w,
+  ./../images/VA26/resized/bd-26241-768px.jpg 768w,
+  ./../images/VA26/resized/bd-26241-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-26250.jpg" />
- <img src="./../images/VA26/bd-26250.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-26250-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-26250-512px.jpg 512w,
+  ./../images/VA26/resized/tv-26250-768px.jpg 768w,
+  ./../images/VA26/resized/tv-26250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-26250-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-26250-512px.jpg 512w,
+  ./../images/VA26/resized/bd-26250-768px.jpg 768w,
+  ./../images/VA26/resized/bd-26250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-26395.jpg" />
- <img src="./../images/VA26/bd-26395.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-26395-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-26395-512px.jpg 512w,
+  ./../images/VA26/resized/tv-26395-768px.jpg 768w,
+  ./../images/VA26/resized/tv-26395-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-26395-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-26395-512px.jpg 512w,
+  ./../images/VA26/resized/bd-26395-768px.jpg 768w,
+  ./../images/VA26/resized/bd-26395-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -841,8 +2213,22 @@ Let's begin!
 - Doppio's eyebrows have been recoloured here, as has the small visible corner of the photograph under his shoe:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-26975.jpg" />
- <img src="./../images/VA26/bd-26975.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-26975-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-26975-512px.jpg 512w,
+  ./../images/VA26/resized/tv-26975-768px.jpg 768w,
+  ./../images/VA26/resized/tv-26975-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-26975-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-26975-512px.jpg 512w,
+  ./../images/VA26/resized/bd-26975-768px.jpg 768w,
+  ./../images/VA26/resized/bd-26975-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -850,22 +2236,64 @@ Let's begin!
 - Doppio's upper lip is bloodied, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-27035.jpg" />
- <img src="./../images/VA26/bd-27035.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-27035-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-27035-512px.jpg 512w,
+  ./../images/VA26/resized/tv-27035-768px.jpg 768w,
+  ./../images/VA26/resized/tv-27035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-27035-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-27035-512px.jpg 512w,
+  ./../images/VA26/resized/bd-27035-768px.jpg 768w,
+  ./../images/VA26/resized/bd-27035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-27055.jpg" />
- <img src="./../images/VA26/bd-27055.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-27055-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-27055-512px.jpg 512w,
+  ./../images/VA26/resized/tv-27055-768px.jpg 768w,
+  ./../images/VA26/resized/tv-27055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-27055-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-27055-512px.jpg 512w,
+  ./../images/VA26/resized/bd-27055-768px.jpg 768w,
+  ./../images/VA26/resized/bd-27055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-27110.jpg" />
- <img src="./../images/VA26/bd-27110.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-27110-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-27110-512px.jpg 512w,
+  ./../images/VA26/resized/tv-27110-768px.jpg 768w,
+  ./../images/VA26/resized/tv-27110-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-27110-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-27110-512px.jpg 512w,
+  ./../images/VA26/resized/bd-27110-768px.jpg 768w,
+  ./../images/VA26/resized/bd-27110-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -873,8 +2301,22 @@ Let's begin!
 - The knife and suitcase have been drawn on the ground, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-27365.jpg" />
- <img src="./../images/VA26/bd-27365.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-27365-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-27365-512px.jpg 512w,
+  ./../images/VA26/resized/tv-27365-768px.jpg 768w,
+  ./../images/VA26/resized/tv-27365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-27365-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-27365-512px.jpg 512w,
+  ./../images/VA26/resized/bd-27365-768px.jpg 768w,
+  ./../images/VA26/resized/bd-27365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -882,8 +2324,22 @@ Let's begin!
 - Risotto's handsome face is even handsomer in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-27410.jpg" />
- <img src="./../images/VA26/bd-27410.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-27410-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-27410-512px.jpg 512w,
+  ./../images/VA26/resized/tv-27410-768px.jpg 768w,
+  ./../images/VA26/resized/tv-27410-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-27410-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-27410-512px.jpg 512w,
+  ./../images/VA26/resized/bd-27410-768px.jpg 768w,
+  ./../images/VA26/resized/bd-27410-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -891,15 +2347,43 @@ Let's begin!
 - Both Doppio and Risotto have been retouched here (quite heavily, in Doppio's case!):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-27644.jpg" />
- <img src="./../images/VA26/bd-27644.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-27644-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-27644-512px.jpg 512w,
+  ./../images/VA26/resized/tv-27644-768px.jpg 768w,
+  ./../images/VA26/resized/tv-27644-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-27644-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-27644-512px.jpg 512w,
+  ./../images/VA26/resized/bd-27644-768px.jpg 768w,
+  ./../images/VA26/resized/bd-27644-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-27678.jpg" />
- <img src="./../images/VA26/bd-27678.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-27678-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-27678-512px.jpg 512w,
+  ./../images/VA26/resized/tv-27678-768px.jpg 768w,
+  ./../images/VA26/resized/tv-27678-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-27678-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-27678-512px.jpg 512w,
+  ./../images/VA26/resized/bd-27678-768px.jpg 768w,
+  ./../images/VA26/resized/bd-27678-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -907,29 +2391,85 @@ Let's begin!
 - Let's take a look at what the gang is doing, shall we? In this shot, the background has been redrawn (for the better, even though in the first frame one of the clouds in the sky is chopped in half), the camera has been moved slightly, and Aerosmith's aura no longer extends to the propeller:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-27893.jpg" />
- <img src="./../images/VA26/bd-27893.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-27893-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-27893-512px.jpg 512w,
+  ./../images/VA26/resized/tv-27893-768px.jpg 768w,
+  ./../images/VA26/resized/tv-27893-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-27893-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-27893-512px.jpg 512w,
+  ./../images/VA26/resized/bd-27893-768px.jpg 768w,
+  ./../images/VA26/resized/bd-27893-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-27915.jpg" />
- <img src="./../images/VA26/bd-27915.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-27915-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-27915-512px.jpg 512w,
+  ./../images/VA26/resized/tv-27915-768px.jpg 768w,
+  ./../images/VA26/resized/tv-27915-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-27915-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-27915-512px.jpg 512w,
+  ./../images/VA26/resized/bd-27915-768px.jpg 768w,
+  ./../images/VA26/resized/bd-27915-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-27955.jpg" />
- <img src="./../images/VA26/bd-27955.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-27955-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-27955-512px.jpg 512w,
+  ./../images/VA26/resized/tv-27955-768px.jpg 768w,
+  ./../images/VA26/resized/tv-27955-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-27955-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-27955-512px.jpg 512w,
+  ./../images/VA26/resized/bd-27955-768px.jpg 768w,
+  ./../images/VA26/resized/bd-27955-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-27990.jpg" />
- <img src="./../images/VA26/bd-27990.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-27990-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-27990-512px.jpg 512w,
+  ./../images/VA26/resized/tv-27990-768px.jpg 768w,
+  ./../images/VA26/resized/tv-27990-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-27990-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-27990-512px.jpg 512w,
+  ./../images/VA26/resized/bd-27990-768px.jpg 768w,
+  ./../images/VA26/resized/bd-27990-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -937,8 +2477,22 @@ Let's begin!
 - In this iconic Doppio shot, all the scratchy lines on the various razorblades have been recoloured from red to black, and some lines are clearer through the blood:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-28965.jpg" />
- <img src="./../images/VA26/bd-28965.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-28965-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-28965-512px.jpg 512w,
+  ./../images/VA26/resized/tv-28965-768px.jpg 768w,
+  ./../images/VA26/resized/tv-28965-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-28965-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-28965-512px.jpg 512w,
+  ./../images/VA26/resized/bd-28965-768px.jpg 768w,
+  ./../images/VA26/resized/bd-28965-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -951,8 +2505,22 @@ Let's begin!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-29110.jpg" />
- <img src="./../images/VA26/bd-29110.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-29110-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-29110-512px.jpg 512w,
+  ./../images/VA26/resized/tv-29110-768px.jpg 768w,
+  ./../images/VA26/resized/tv-29110-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-29110-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-29110-512px.jpg 512w,
+  ./../images/VA26/resized/bd-29110-768px.jpg 768w,
+  ./../images/VA26/resized/bd-29110-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -960,15 +2528,43 @@ Let's begin!
 - Doppio no longer has dummy thicc lipps here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-29255.jpg" />
- <img src="./../images/VA26/bd-29255.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-29255-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-29255-512px.jpg 512w,
+  ./../images/VA26/resized/tv-29255-768px.jpg 768w,
+  ./../images/VA26/resized/tv-29255-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-29255-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-29255-512px.jpg 512w,
+  ./../images/VA26/resized/bd-29255-768px.jpg 768w,
+  ./../images/VA26/resized/bd-29255-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-29259.jpg" />
- <img src="./../images/VA26/bd-29259.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-29259-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-29259-512px.jpg 512w,
+  ./../images/VA26/resized/tv-29259-768px.jpg 768w,
+  ./../images/VA26/resized/tv-29259-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-29259-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-29259-512px.jpg 512w,
+  ./../images/VA26/resized/bd-29259-768px.jpg 768w,
+  ./../images/VA26/resized/bd-29259-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -976,8 +2572,22 @@ Let's begin!
 - Ok, this... This is weird. Doppio's mouth is looking better, but... Risotto has LESS shading details in his eye area. Why, DPro? That's a really strange change, in my opinion...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-29365.jpg" />
- <img src="./../images/VA26/bd-29365.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-29365-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-29365-512px.jpg 512w,
+  ./../images/VA26/resized/tv-29365-768px.jpg 768w,
+  ./../images/VA26/resized/tv-29365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-29365-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-29365-512px.jpg 512w,
+  ./../images/VA26/resized/bd-29365-768px.jpg 768w,
+  ./../images/VA26/resized/bd-29365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -985,8 +2595,22 @@ Let's begin!
 - Here, the topmost needle has been removed for some reason, and the bottom of Doppio's eye has been slightly retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-29465.jpg" />
- <img src="./../images/VA26/bd-29465.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-29465-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-29465-512px.jpg 512w,
+  ./../images/VA26/resized/tv-29465-768px.jpg 768w,
+  ./../images/VA26/resized/tv-29465-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-29465-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-29465-512px.jpg 512w,
+  ./../images/VA26/resized/bd-29465-768px.jpg 768w,
+  ./../images/VA26/resized/bd-29465-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -994,36 +2618,106 @@ Let's begin!
 - Once again, Risotto's face has been retouched in... strange ways, here. Doppio's sweater cuts are also bigger in the last frame:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-29532.jpg" />
- <img src="./../images/VA26/bd-29532.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-29532-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-29532-512px.jpg 512w,
+  ./../images/VA26/resized/tv-29532-768px.jpg 768w,
+  ./../images/VA26/resized/tv-29532-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-29532-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-29532-512px.jpg 512w,
+  ./../images/VA26/resized/bd-29532-768px.jpg 768w,
+  ./../images/VA26/resized/bd-29532-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-29535.jpg" />
- <img src="./../images/VA26/bd-29535.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-29535-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-29535-512px.jpg 512w,
+  ./../images/VA26/resized/tv-29535-768px.jpg 768w,
+  ./../images/VA26/resized/tv-29535-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-29535-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-29535-512px.jpg 512w,
+  ./../images/VA26/resized/bd-29535-768px.jpg 768w,
+  ./../images/VA26/resized/bd-29535-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-29542.jpg" />
- <img src="./../images/VA26/bd-29542.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-29542-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-29542-512px.jpg 512w,
+  ./../images/VA26/resized/tv-29542-768px.jpg 768w,
+  ./../images/VA26/resized/tv-29542-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-29542-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-29542-512px.jpg 512w,
+  ./../images/VA26/resized/bd-29542-768px.jpg 768w,
+  ./../images/VA26/resized/bd-29542-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-29546.jpg" />
- <img src="./../images/VA26/bd-29546.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-29546-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-29546-512px.jpg 512w,
+  ./../images/VA26/resized/tv-29546-768px.jpg 768w,
+  ./../images/VA26/resized/tv-29546-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-29546-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-29546-512px.jpg 512w,
+  ./../images/VA26/resized/bd-29546-768px.jpg 768w,
+  ./../images/VA26/resized/bd-29546-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-29590.jpg" />
- <img src="./../images/VA26/bd-29590.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-29590-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-29590-512px.jpg 512w,
+  ./../images/VA26/resized/tv-29590-768px.jpg 768w,
+  ./../images/VA26/resized/tv-29590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-29590-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-29590-512px.jpg 512w,
+  ./../images/VA26/resized/bd-29590-768px.jpg 768w,
+  ./../images/VA26/resized/bd-29590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1031,29 +2725,85 @@ Let's begin!
 - Risotto was, once again, retouched here, but this time it was for the better! Check it out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-29613.jpg" />
- <img src="./../images/VA26/bd-29613.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-29613-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-29613-512px.jpg 512w,
+  ./../images/VA26/resized/tv-29613-768px.jpg 768w,
+  ./../images/VA26/resized/tv-29613-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-29613-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-29613-512px.jpg 512w,
+  ./../images/VA26/resized/bd-29613-768px.jpg 768w,
+  ./../images/VA26/resized/bd-29613-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-29638.jpg" />
- <img src="./../images/VA26/bd-29638.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-29638-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-29638-512px.jpg 512w,
+  ./../images/VA26/resized/tv-29638-768px.jpg 768w,
+  ./../images/VA26/resized/tv-29638-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-29638-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-29638-512px.jpg 512w,
+  ./../images/VA26/resized/bd-29638-768px.jpg 768w,
+  ./../images/VA26/resized/bd-29638-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-29641.jpg" />
- <img src="./../images/VA26/bd-29641.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-29641-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-29641-512px.jpg 512w,
+  ./../images/VA26/resized/tv-29641-768px.jpg 768w,
+  ./../images/VA26/resized/tv-29641-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-29641-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-29641-512px.jpg 512w,
+  ./../images/VA26/resized/bd-29641-768px.jpg 768w,
+  ./../images/VA26/resized/bd-29641-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-29643.jpg" />
- <img src="./../images/VA26/bd-29643.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-29643-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-29643-512px.jpg 512w,
+  ./../images/VA26/resized/tv-29643-768px.jpg 768w,
+  ./../images/VA26/resized/tv-29643-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-29643-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-29643-512px.jpg 512w,
+  ./../images/VA26/resized/bd-29643-768px.jpg 768w,
+  ./../images/VA26/resized/bd-29643-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1061,8 +2811,22 @@ Let's begin!
 - Here, the background has been once again retouched, it's much brighter and Doppio has been very lightly retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-29680.jpg" />
- <img src="./../images/VA26/bd-29680.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-29680-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-29680-512px.jpg 512w,
+  ./../images/VA26/resized/tv-29680-768px.jpg 768w,
+  ./../images/VA26/resized/tv-29680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-29680-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-29680-512px.jpg 512w,
+  ./../images/VA26/resized/bd-29680-768px.jpg 768w,
+  ./../images/VA26/resized/bd-29680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1070,8 +2834,22 @@ Let's begin!
 - Another redrawn background, people! Stuff is also looking a little dimmer:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-30950.jpg" />
- <img src="./../images/VA26/bd-30950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-30950-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-30950-512px.jpg 512w,
+  ./../images/VA26/resized/tv-30950-768px.jpg 768w,
+  ./../images/VA26/resized/tv-30950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-30950-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-30950-512px.jpg 512w,
+  ./../images/VA26/resized/bd-30950-768px.jpg 768w,
+  ./../images/VA26/resized/bd-30950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1079,15 +2857,43 @@ Let's begin!
 - And here, the rocks in the background haave been moved and resized, Doppio's face has been retouched and the razor blades on the ground have been completely redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-30955.jpg" />
- <img src="./../images/VA26/bd-30955.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-30955-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-30955-512px.jpg 512w,
+  ./../images/VA26/resized/tv-30955-768px.jpg 768w,
+  ./../images/VA26/resized/tv-30955-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-30955-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-30955-512px.jpg 512w,
+  ./../images/VA26/resized/bd-30955-768px.jpg 768w,
+  ./../images/VA26/resized/bd-30955-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA26/tv-30970.jpg" />
- <img src="./../images/VA26/bd-30970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/tv-30970-1090px.jpg"
+  data-srcset="./../images/VA26/resized/tv-30970-512px.jpg 512w,
+  ./../images/VA26/resized/tv-30970-768px.jpg 768w,
+  ./../images/VA26/resized/tv-30970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA26/resized/bd-30970-1090px.jpg"
+  data-srcset="./../images/VA26/resized/bd-30970-512px.jpg 512w,
+  ./../images/VA26/resized/bd-30970-768px.jpg 768w,
+  ./../images/VA26/resized/bd-30970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1104,4 +2910,4 @@ Either way, I'll see you next time for Vento Aureo #27, "King Crimson vs. Metall
 
 <br>
 
-{% img center /images/tobecontinued.png %}
+{% img width="100%" height="100%" center /images/tobecontinued.png %}
