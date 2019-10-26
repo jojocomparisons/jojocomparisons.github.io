@@ -19,15 +19,43 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Here we have our first serving of Dio 2.0:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-03355.jpg" />
- <img src="./../images/PB03/bd-03355.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-03355-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-03355-512px.jpg 512w,
+  ./../images/PB03/resized/tv-03355-768px.jpg 768w,
+  ./../images/PB03/resized/tv-03355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-03355-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-03355-512px.jpg 512w,
+  ./../images/PB03/resized/bd-03355-768px.jpg 768w,
+  ./../images/PB03/resized/bd-03355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-03390.jpg" />
- <img src="./../images/PB03/bd-03390.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-03390-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-03390-512px.jpg 512w,
+  ./../images/PB03/resized/tv-03390-768px.jpg 768w,
+  ./../images/PB03/resized/tv-03390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-03390-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-03390-512px.jpg 512w,
+  ./../images/PB03/resized/bd-03390-768px.jpg 768w,
+  ./../images/PB03/resized/bd-03390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -36,8 +64,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-04737.jpg" />
- <img src="./../images/PB03/bd-04737.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-04737-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-04737-512px.jpg 512w,
+  ./../images/PB03/resized/tv-04737-768px.jpg 768w,
+  ./../images/PB03/resized/tv-04737-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-04737-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-04737-512px.jpg 512w,
+  ./../images/PB03/resized/bd-04737-768px.jpg 768w,
+  ./../images/PB03/resized/bd-04737-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -45,29 +87,85 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Speedwagon joins the fray, and shows off his shiny new handsome face:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-04820.jpg" />
- <img src="./../images/PB03/bd-04820.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-04820-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-04820-512px.jpg 512w,
+  ./../images/PB03/resized/tv-04820-768px.jpg 768w,
+  ./../images/PB03/resized/tv-04820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-04820-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-04820-512px.jpg 512w,
+  ./../images/PB03/resized/bd-04820-768px.jpg 768w,
+  ./../images/PB03/resized/bd-04820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-04884.jpg" />
- <img src="./../images/PB03/bd-04884.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-04884-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-04884-512px.jpg 512w,
+  ./../images/PB03/resized/tv-04884-768px.jpg 768w,
+  ./../images/PB03/resized/tv-04884-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-04884-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-04884-512px.jpg 512w,
+  ./../images/PB03/resized/bd-04884-768px.jpg 768w,
+  ./../images/PB03/resized/bd-04884-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-04995.jpg" />
- <img src="./../images/PB03/bd-04995.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-04995-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-04995-512px.jpg 512w,
+  ./../images/PB03/resized/tv-04995-768px.jpg 768w,
+  ./../images/PB03/resized/tv-04995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-04995-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-04995-512px.jpg 512w,
+  ./../images/PB03/resized/bd-04995-768px.jpg 768w,
+  ./../images/PB03/resized/bd-04995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-05110.jpg" />
- <img src="./../images/PB03/bd-05110.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-05110-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-05110-512px.jpg 512w,
+  ./../images/PB03/resized/tv-05110-768px.jpg 768w,
+  ./../images/PB03/resized/tv-05110-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-05110-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-05110-512px.jpg 512w,
+  ./../images/PB03/resized/bd-05110-768px.jpg 768w,
+  ./../images/PB03/resized/bd-05110-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -75,8 +173,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Dio's plea is even less convincing in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-07550.jpg" />
- <img src="./../images/PB03/bd-07550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-07550-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-07550-512px.jpg 512w,
+  ./../images/PB03/resized/tv-07550-768px.jpg 768w,
+  ./../images/PB03/resized/tv-07550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-07550-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-07550-512px.jpg 512w,
+  ./../images/PB03/resized/bd-07550-768px.jpg 768w,
+  ./../images/PB03/resized/bd-07550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -84,15 +196,43 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - In this scene Dio's face has been redrawn and the mask has a different shading:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-08145.jpg" />
- <img src="./../images/PB03/bd-08145.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-08145-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-08145-512px.jpg 512w,
+  ./../images/PB03/resized/tv-08145-768px.jpg 768w,
+  ./../images/PB03/resized/tv-08145-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-08145-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-08145-512px.jpg 512w,
+  ./../images/PB03/resized/bd-08145-768px.jpg 768w,
+  ./../images/PB03/resized/bd-08145-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-08155.jpg" />
- <img src="./../images/PB03/bd-08155.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-08155-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-08155-512px.jpg 512w,
+  ./../images/PB03/resized/tv-08155-768px.jpg 768w,
+  ./../images/PB03/resized/tv-08155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-08155-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-08155-512px.jpg 512w,
+  ./../images/PB03/resized/bd-08155-768px.jpg 768w,
+  ./../images/PB03/resized/bd-08155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -100,8 +240,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Here everything has an added texture on top, the backgrounds are darker and Jonathan's **enormous** chin has been reduced:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-08280.jpg" />
- <img src="./../images/PB03/bd-08280.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-08280-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-08280-512px.jpg 512w,
+  ./../images/PB03/resized/tv-08280-768px.jpg 768w,
+  ./../images/PB03/resized/tv-08280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-08280-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-08280-512px.jpg 512w,
+  ./../images/PB03/resized/bd-08280-768px.jpg 768w,
+  ./../images/PB03/resized/bd-08280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -121,8 +275,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-08600.jpg" />
- <img src="./../images/PB03/bd-08600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-08600-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-08600-512px.jpg 512w,
+  ./../images/PB03/resized/tv-08600-768px.jpg 768w,
+  ./../images/PB03/resized/tv-08600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-08600-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-08600-512px.jpg 512w,
+  ./../images/PB03/resized/bd-08600-768px.jpg 768w,
+  ./../images/PB03/resized/bd-08600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -137,8 +305,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - That huge ass chunk of glass in the top left corner has been removed in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-09100.jpg" />
- <img src="./../images/PB03/bd-09100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-09100-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-09100-512px.jpg 512w,
+  ./../images/PB03/resized/tv-09100-768px.jpg 768w,
+  ./../images/PB03/resized/tv-09100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-09100-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-09100-512px.jpg 512w,
+  ./../images/PB03/resized/bd-09100-768px.jpg 768w,
+  ./../images/PB03/resized/bd-09100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -146,8 +328,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Speedwagon and that dude in the back have been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-10013.jpg" />
- <img src="./../images/PB03/bd-10013.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-10013-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-10013-512px.jpg 512w,
+  ./../images/PB03/resized/tv-10013-768px.jpg 768w,
+  ./../images/PB03/resized/tv-10013-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-10013-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-10013-512px.jpg 512w,
+  ./../images/PB03/resized/bd-10013-768px.jpg 768w,
+  ./../images/PB03/resized/bd-10013-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -155,8 +351,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Here the background has been slightly moved, and the zoom is pulled *very* slightly out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-13000.jpg" />
- <img src="./../images/PB03/bd-13000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-13000-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-13000-512px.jpg 512w,
+  ./../images/PB03/resized/tv-13000-768px.jpg 768w,
+  ./../images/PB03/resized/tv-13000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-13000-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-13000-512px.jpg 512w,
+  ./../images/PB03/resized/bd-13000-768px.jpg 768w,
+  ./../images/PB03/resized/bd-13000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -164,8 +374,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - In this scene, Jonathan is less "who is this old man and what is he doing in my arms" and more "Oh God, why have you done this to me?". George has also been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-14050.jpg" />
- <img src="./../images/PB03/bd-14050.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-14050-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-14050-512px.jpg 512w,
+  ./../images/PB03/resized/tv-14050-768px.jpg 768w,
+  ./../images/PB03/resized/tv-14050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-14050-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-14050-512px.jpg 512w,
+  ./../images/PB03/resized/bd-14050-768px.jpg 768w,
+  ./../images/PB03/resized/bd-14050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -173,8 +397,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - The background in this bit is blurrier:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-14325.jpg" />
- <img src="./../images/PB03/bd-14325.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-14325-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-14325-512px.jpg 512w,
+  ./../images/PB03/resized/tv-14325-768px.jpg 768w,
+  ./../images/PB03/resized/tv-14325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-14325-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-14325-512px.jpg 512w,
+  ./../images/PB03/resized/bd-14325-768px.jpg 768w,
+  ./../images/PB03/resized/bd-14325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -182,15 +420,43 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Speedwagon is no longer composed exclusively of sharp angles:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-14690.jpg" />
- <img src="./../images/PB03/bd-14690.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-14690-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-14690-512px.jpg 512w,
+  ./../images/PB03/resized/tv-14690-768px.jpg 768w,
+  ./../images/PB03/resized/tv-14690-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-14690-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-14690-512px.jpg 512w,
+  ./../images/PB03/resized/bd-14690-768px.jpg 768w,
+  ./../images/PB03/resized/bd-14690-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-14730.jpg" />
- <img src="./../images/PB03/bd-14730.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-14730-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-14730-512px.jpg 512w,
+  ./../images/PB03/resized/tv-14730-768px.jpg 768w,
+  ./../images/PB03/resized/tv-14730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-14730-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-14730-512px.jpg 512w,
+  ./../images/PB03/resized/bd-14730-768px.jpg 768w,
+  ./../images/PB03/resized/bd-14730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -198,8 +464,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - This shot is brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-14890.jpg" />
- <img src="./../images/PB03/bd-14890.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-14890-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-14890-512px.jpg 512w,
+  ./../images/PB03/resized/tv-14890-768px.jpg 768w,
+  ./../images/PB03/resized/tv-14890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-14890-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-14890-512px.jpg 512w,
+  ./../images/PB03/resized/bd-14890-768px.jpg 768w,
+  ./../images/PB03/resized/bd-14890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -212,8 +492,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-15120.jpg" />
- <img src="./../images/PB03/bd-15120.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-15120-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-15120-512px.jpg 512w,
+  ./../images/PB03/resized/tv-15120-768px.jpg 768w,
+  ./../images/PB03/resized/tv-15120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-15120-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-15120-512px.jpg 512w,
+  ./../images/PB03/resized/bd-15120-768px.jpg 768w,
+  ./../images/PB03/resized/bd-15120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -228,8 +522,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - And the freeze-frame that goes right into the mid-episode eyecatch has been recoloured, and the shadows are drawn differently:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-15390.jpg" />
- <img src="./../images/PB03/bd-15390.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-15390-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-15390-512px.jpg 512w,
+  ./../images/PB03/resized/tv-15390-768px.jpg 768w,
+  ./../images/PB03/resized/tv-15390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-15390-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-15390-512px.jpg 512w,
+  ./../images/PB03/resized/bd-15390-768px.jpg 768w,
+  ./../images/PB03/resized/bd-15390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -237,8 +545,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - We return from the ad break to a very pleasant sight, now uncensored:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-15420.jpg" />
- <img src="./../images/PB03/bd-15423.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-15420-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-15420-512px.jpg 512w,
+  ./../images/PB03/resized/tv-15420-768px.jpg 768w,
+  ./../images/PB03/resized/tv-15420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-15423-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-15423-512px.jpg 512w,
+  ./../images/PB03/resized/bd-15423-768px.jpg 768w,
+  ./../images/PB03/resized/bd-15423-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -246,8 +568,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - The three policemen's shading is less soft in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-15720.jpg" />
- <img src="./../images/PB03/bd-15720.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-15720-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-15720-512px.jpg 512w,
+  ./../images/PB03/resized/tv-15720-768px.jpg 768w,
+  ./../images/PB03/resized/tv-15720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-15720-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-15720-512px.jpg 512w,
+  ./../images/PB03/resized/bd-15720-768px.jpg 768w,
+  ./../images/PB03/resized/bd-15720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -255,8 +591,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Everyone's face has been retouched in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-16005.jpg" />
- <img src="./../images/PB03/bd-16005.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-16005-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-16005-512px.jpg 512w,
+  ./../images/PB03/resized/tv-16005-768px.jpg 768w,
+  ./../images/PB03/resized/tv-16005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-16005-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-16005-512px.jpg 512w,
+  ./../images/PB03/resized/bd-16005-768px.jpg 768w,
+  ./../images/PB03/resized/bd-16005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -264,8 +614,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Here vampire Dio has been moved and resized (see Jonathan's hair for scale):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-17025.jpg" />
- <img src="./../images/PB03/bd-17025.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-17025-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-17025-512px.jpg 512w,
+  ./../images/PB03/resized/tv-17025-768px.jpg 768w,
+  ./../images/PB03/resized/tv-17025-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-17025-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-17025-512px.jpg 512w,
+  ./../images/PB03/resized/bd-17025-768px.jpg 768w,
+  ./../images/PB03/resized/bd-17025-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -278,8 +642,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-17649.jpg" />
- <img src="./../images/PB03/bd-17649.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-17649-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-17649-512px.jpg 512w,
+  ./../images/PB03/resized/tv-17649-768px.jpg 768w,
+  ./../images/PB03/resized/tv-17649-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-17649-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-17649-512px.jpg 512w,
+  ./../images/PB03/resized/bd-17649-768px.jpg 768w,
+  ./../images/PB03/resized/bd-17649-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -287,8 +665,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Here, there are more blood splashes, the speedlines are darker and the severed arm has been uncensored (even though the stump was not visible):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-17950.jpg" />
- <img src="./../images/PB03/bd-17950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-17950-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-17950-512px.jpg 512w,
+  ./../images/PB03/resized/tv-17950-768px.jpg 768w,
+  ./../images/PB03/resized/tv-17950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-17950-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-17950-512px.jpg 512w,
+  ./../images/PB03/resized/bd-17950-768px.jpg 768w,
+  ./../images/PB03/resized/bd-17950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -303,8 +695,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - In this shot here, some of the severed body parts have been uncensored, and overall the shadows have been made brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-18115.jpg" />
- <img src="./../images/PB03/bd-18115.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-18115-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-18115-512px.jpg 512w,
+  ./../images/PB03/resized/tv-18115-768px.jpg 768w,
+  ./../images/PB03/resized/tv-18115-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-18115-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-18115-512px.jpg 512w,
+  ./../images/PB03/resized/bd-18115-768px.jpg 768w,
+  ./../images/PB03/resized/bd-18115-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -312,8 +718,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Here, the trippy background has been slightly redrawn (each purple swirl now has a black outline), and the usual scratch texture has been applied to Jonathan:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-18185.jpg" />
- <img src="./../images/PB03/bd-18185.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-18185-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-18185-512px.jpg 512w,
+  ./../images/PB03/resized/tv-18185-768px.jpg 768w,
+  ./../images/PB03/resized/tv-18185-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-18185-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-18185-512px.jpg 512w,
+  ./../images/PB03/resized/bd-18185-768px.jpg 768w,
+  ./../images/PB03/resized/bd-18185-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -321,15 +741,43 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - The flashbacks have been redrawn and/or uncensored as the respective scenes were in the episode itself:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-18300.jpg" />
- <img src="./../images/PB03/bd-18300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-18300-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-18300-512px.jpg 512w,
+  ./../images/PB03/resized/tv-18300-768px.jpg 768w,
+  ./../images/PB03/resized/tv-18300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-18300-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-18300-512px.jpg 512w,
+  ./../images/PB03/resized/bd-18300-768px.jpg 768w,
+  ./../images/PB03/resized/bd-18300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-18420.jpg" />
- <img src="./../images/PB03/bd-18420.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-18420-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-18420-512px.jpg 512w,
+  ./../images/PB03/resized/tv-18420-768px.jpg 768w,
+  ./../images/PB03/resized/tv-18420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-18420-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-18420-512px.jpg 512w,
+  ./../images/PB03/resized/bd-18420-768px.jpg 768w,
+  ./../images/PB03/resized/bd-18420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -337,15 +785,43 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - In this couple of very minor redraws, the BDs added a shadow on Jonathan's shoulder and removed one on his cheek:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-19090.jpg" />
- <img src="./../images/PB03/bd-19090.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-19090-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-19090-512px.jpg 512w,
+  ./../images/PB03/resized/tv-19090-768px.jpg 768w,
+  ./../images/PB03/resized/tv-19090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-19090-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-19090-512px.jpg 512w,
+  ./../images/PB03/resized/bd-19090-768px.jpg 768w,
+  ./../images/PB03/resized/bd-19090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-19158.jpg" />
- <img src="./../images/PB03/bd-19158.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-19158-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-19158-512px.jpg 512w,
+  ./../images/PB03/resized/tv-19158-768px.jpg 768w,
+  ./../images/PB03/resized/tv-19158-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-19158-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-19158-512px.jpg 512w,
+  ./../images/PB03/resized/bd-19158-768px.jpg 768w,
+  ./../images/PB03/resized/bd-19158-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -353,15 +829,43 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Jonathan's face has been redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-19225.jpg" />
- <img src="./../images/PB03/bd-19225.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-19225-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-19225-512px.jpg 512w,
+  ./../images/PB03/resized/tv-19225-768px.jpg 768w,
+  ./../images/PB03/resized/tv-19225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-19225-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-19225-512px.jpg 512w,
+  ./../images/PB03/resized/bd-19225-768px.jpg 768w,
+  ./../images/PB03/resized/bd-19225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-19290.jpg" />
- <img src="./../images/PB03/bd-19290.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-19290-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-19290-512px.jpg 512w,
+  ./../images/PB03/resized/tv-19290-768px.jpg 768w,
+  ./../images/PB03/resized/tv-19290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-19290-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-19290-512px.jpg 512w,
+  ./../images/PB03/resized/bd-19290-768px.jpg 768w,
+  ./../images/PB03/resized/bd-19290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -374,8 +878,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-20490.jpg" />
- <img src="./../images/PB03/bd-20490.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-20490-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-20490-512px.jpg 512w,
+  ./../images/PB03/resized/tv-20490-768px.jpg 768w,
+  ./../images/PB03/resized/tv-20490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-20490-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-20490-512px.jpg 512w,
+  ./../images/PB03/resized/bd-20490-768px.jpg 768w,
+  ./../images/PB03/resized/bd-20490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -397,8 +915,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Same as before, plus a slight shift in the background:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-21400.jpg" />
- <img src="./../images/PB03/bd-21400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-21400-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-21400-512px.jpg 512w,
+  ./../images/PB03/resized/tv-21400-768px.jpg 768w,
+  ./../images/PB03/resized/tv-21400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-21400-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-21400-512px.jpg 512w,
+  ./../images/PB03/resized/bd-21400-768px.jpg 768w,
+  ./../images/PB03/resized/bd-21400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -406,8 +938,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - This frame has been redrawn, and you might think "Wow come on, that's just a transition frame", but no. No. It was on screen for exactly 24 frames, which at the 23.976 fps framerate Jojo runs at, is slightly more than a full second:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-21485.jpg" />
- <img src="./../images/PB03/bd-21485.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-21485-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-21485-512px.jpg 512w,
+  ./../images/PB03/resized/tv-21485-768px.jpg 768w,
+  ./../images/PB03/resized/tv-21485-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-21485-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-21485-512px.jpg 512w,
+  ./../images/PB03/resized/bd-21485-768px.jpg 768w,
+  ./../images/PB03/resized/bd-21485-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -415,8 +961,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Here the hand has been uncensored again, the scene is overall brighter, Dio's mouth has been redrawn and the zoom has been pulled slightly out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-21580.jpg" />
- <img src="./../images/PB03/bd-21580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-21580-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-21580-512px.jpg 512w,
+  ./../images/PB03/resized/tv-21580-768px.jpg 768w,
+  ./../images/PB03/resized/tv-21580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-21580-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-21580-512px.jpg 512w,
+  ./../images/PB03/resized/bd-21580-768px.jpg 768w,
+  ./../images/PB03/resized/bd-21580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -424,8 +984,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Here the background has been blurred and the framing is overall different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-21850.jpg" />
- <img src="./../images/PB03/bd-21850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-21850-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-21850-512px.jpg 512w,
+  ./../images/PB03/resized/tv-21850-768px.jpg 768w,
+  ./../images/PB03/resized/tv-21850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-21850-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-21850-512px.jpg 512w,
+  ./../images/PB03/resized/bd-21850-768px.jpg 768w,
+  ./../images/PB03/resized/bd-21850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -433,8 +1007,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Dio's right ear has been drawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-22110.jpg" />
- <img src="./../images/PB03/bd-22110.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-22110-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-22110-512px.jpg 512w,
+  ./../images/PB03/resized/tv-22110-768px.jpg 768w,
+  ./../images/PB03/resized/tv-22110-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-22110-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-22110-512px.jpg 512w,
+  ./../images/PB03/resized/bd-22110-768px.jpg 768w,
+  ./../images/PB03/resized/bd-22110-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -442,8 +1030,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Dio's eye is more DEMONIC!! and brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-22275.jpg" />
- <img src="./../images/PB03/bd-22275.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-22275-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-22275-512px.jpg 512w,
+  ./../images/PB03/resized/tv-22275-768px.jpg 768w,
+  ./../images/PB03/resized/tv-22275-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-22275-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-22275-512px.jpg 512w,
+  ./../images/PB03/resized/bd-22275-768px.jpg 768w,
+  ./../images/PB03/resized/bd-22275-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -451,8 +1053,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Less shading here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-22360.jpg" />
- <img src="./../images/PB03/bd-22360.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-22360-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-22360-512px.jpg 512w,
+  ./../images/PB03/resized/tv-22360-768px.jpg 768w,
+  ./../images/PB03/resized/tv-22360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-22360-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-22360-512px.jpg 512w,
+  ./../images/PB03/resized/bd-22360-768px.jpg 768w,
+  ./../images/PB03/resized/bd-22360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -460,8 +1076,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Dio has been slightly moved to the right:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-22720.jpg" />
- <img src="./../images/PB03/bd-22720.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-22720-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-22720-512px.jpg 512w,
+  ./../images/PB03/resized/tv-22720-768px.jpg 768w,
+  ./../images/PB03/resized/tv-22720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-22720-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-22720-512px.jpg 512w,
+  ./../images/PB03/resized/bd-22720-768px.jpg 768w,
+  ./../images/PB03/resized/bd-22720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -469,15 +1099,43 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - JoJo's Bizarre Adventure Blu-Ray Discs: now with better fire™: from here onwards, every scene containing fire has been redone. The fire itself is redrawn, they added that ondulating blur caused by the heat refracting light irregularly, there are more burning particles, the scenes are usually brighter and the shadows are different. I am going to show you every one of those occurrences, but I'll not point out every time what is different, just keep in mind that it's going to be along the lines of what I just listed here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-23150.jpg" />
- <img src="./../images/PB03/bd-23150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-23150-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-23150-512px.jpg 512w,
+  ./../images/PB03/resized/tv-23150-768px.jpg 768w,
+  ./../images/PB03/resized/tv-23150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-23150-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-23150-512px.jpg 512w,
+  ./../images/PB03/resized/bd-23150-768px.jpg 768w,
+  ./../images/PB03/resized/bd-23150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-23185.jpg" />
- <img src="./../images/PB03/bd-23185.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-23185-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-23185-512px.jpg 512w,
+  ./../images/PB03/resized/tv-23185-768px.jpg 768w,
+  ./../images/PB03/resized/tv-23185-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-23185-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-23185-512px.jpg 512w,
+  ./../images/PB03/resized/bd-23185-768px.jpg 768w,
+  ./../images/PB03/resized/bd-23185-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -490,8 +1148,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-23360.jpg" />
- <img src="./../images/PB03/bd-23360.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-23360-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-23360-512px.jpg 512w,
+  ./../images/PB03/resized/tv-23360-768px.jpg 768w,
+  ./../images/PB03/resized/tv-23360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-23360-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-23360-512px.jpg 512w,
+  ./../images/PB03/resized/bd-23360-768px.jpg 768w,
+  ./../images/PB03/resized/bd-23360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -499,8 +1171,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Here, other than the usual fire-related things, the zoom is a bit wider:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-23430.jpg" />
- <img src="./../images/PB03/bd-23430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-23430-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-23430-512px.jpg 512w,
+  ./../images/PB03/resized/tv-23430-768px.jpg 768w,
+  ./../images/PB03/resized/tv-23430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-23430-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-23430-512px.jpg 512w,
+  ./../images/PB03/resized/bd-23430-768px.jpg 768w,
+  ./../images/PB03/resized/bd-23430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -508,15 +1194,43 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - And you can actually make out what's going on here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-23615.jpg" />
- <img src="./../images/PB03/bd-23615.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-23615-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-23615-512px.jpg 512w,
+  ./../images/PB03/resized/tv-23615-768px.jpg 768w,
+  ./../images/PB03/resized/tv-23615-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-23615-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-23615-512px.jpg 512w,
+  ./../images/PB03/resized/bd-23615-768px.jpg 768w,
+  ./../images/PB03/resized/bd-23615-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-23665.jpg" />
- <img src="./../images/PB03/bd-23665.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-23665-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-23665-512px.jpg 512w,
+  ./../images/PB03/resized/tv-23665-768px.jpg 768w,
+  ./../images/PB03/resized/tv-23665-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-23665-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-23665-512px.jpg 512w,
+  ./../images/PB03/resized/bd-23665-768px.jpg 768w,
+  ./../images/PB03/resized/bd-23665-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -524,8 +1238,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - This scene of Speedwagon flying away to reach his dreams has way more fire particles, and the framing is slightly shifted:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-23720.jpg" />
- <img src="./../images/PB03/bd-23720.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-23720-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-23720-512px.jpg 512w,
+  ./../images/PB03/resized/tv-23720-768px.jpg 768w,
+  ./../images/PB03/resized/tv-23720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-23720-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-23720-512px.jpg 512w,
+  ./../images/PB03/resized/bd-23720-768px.jpg 768w,
+  ./../images/PB03/resized/bd-23720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -533,8 +1261,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Fire again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-23880.jpg" />
- <img src="./../images/PB03/bd-23880.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-23880-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-23880-512px.jpg 512w,
+  ./../images/PB03/resized/tv-23880-768px.jpg 768w,
+  ./../images/PB03/resized/tv-23880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-23880-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-23880-512px.jpg 512w,
+  ./../images/PB03/resized/bd-23880-768px.jpg 768w,
+  ./../images/PB03/resized/bd-23880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -542,36 +1284,106 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - *Fire! To destroy all you've done*:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-23988.jpg" />
- <img src="./../images/PB03/bd-23988.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-23988-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-23988-512px.jpg 512w,
+  ./../images/PB03/resized/tv-23988-768px.jpg 768w,
+  ./../images/PB03/resized/tv-23988-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-23988-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-23988-512px.jpg 512w,
+  ./../images/PB03/resized/bd-23988-768px.jpg 768w,
+  ./../images/PB03/resized/bd-23988-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-24010.jpg" />
- <img src="./../images/PB03/bd-24010.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-24010-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-24010-512px.jpg 512w,
+  ./../images/PB03/resized/tv-24010-768px.jpg 768w,
+  ./../images/PB03/resized/tv-24010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-24010-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-24010-512px.jpg 512w,
+  ./../images/PB03/resized/bd-24010-768px.jpg 768w,
+  ./../images/PB03/resized/bd-24010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-24050.jpg" />
- <img src="./../images/PB03/bd-24050.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-24050-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-24050-512px.jpg 512w,
+  ./../images/PB03/resized/tv-24050-768px.jpg 768w,
+  ./../images/PB03/resized/tv-24050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-24050-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-24050-512px.jpg 512w,
+  ./../images/PB03/resized/bd-24050-768px.jpg 768w,
+  ./../images/PB03/resized/bd-24050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-24080.jpg" />
- <img src="./../images/PB03/bd-24080.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-24080-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-24080-512px.jpg 512w,
+  ./../images/PB03/resized/tv-24080-768px.jpg 768w,
+  ./../images/PB03/resized/tv-24080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-24080-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-24080-512px.jpg 512w,
+  ./../images/PB03/resized/bd-24080-768px.jpg 768w,
+  ./../images/PB03/resized/bd-24080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-24108.jpg" />
- <img src="./../images/PB03/bd-24108.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-24108-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-24108-512px.jpg 512w,
+  ./../images/PB03/resized/tv-24108-768px.jpg 768w,
+  ./../images/PB03/resized/tv-24108-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-24108-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-24108-512px.jpg 512w,
+  ./../images/PB03/resized/bd-24108-768px.jpg 768w,
+  ./../images/PB03/resized/bd-24108-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -579,22 +1391,64 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - *Fire! To end all you've become*:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-24120.jpg" />
- <img src="./../images/PB03/bd-24120.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-24120-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-24120-512px.jpg 512w,
+  ./../images/PB03/resized/tv-24120-768px.jpg 768w,
+  ./../images/PB03/resized/tv-24120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-24120-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-24120-512px.jpg 512w,
+  ./../images/PB03/resized/bd-24120-768px.jpg 768w,
+  ./../images/PB03/resized/bd-24120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-24140.jpg" />
- <img src="./../images/PB03/bd-24140.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-24140-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-24140-512px.jpg 512w,
+  ./../images/PB03/resized/tv-24140-768px.jpg 768w,
+  ./../images/PB03/resized/tv-24140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-24140-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-24140-512px.jpg 512w,
+  ./../images/PB03/resized/bd-24140-768px.jpg 768w,
+  ./../images/PB03/resized/bd-24140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-24170.jpg" />
- <img src="./../images/PB03/bd-24170.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-24170-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-24170-512px.jpg 512w,
+  ./../images/PB03/resized/tv-24170-768px.jpg 768w,
+  ./../images/PB03/resized/tv-24170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-24170-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-24170-512px.jpg 512w,
+  ./../images/PB03/resized/bd-24170-768px.jpg 768w,
+  ./../images/PB03/resized/bd-24170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -602,8 +1456,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - even_speedwagon_is_on_fire.jpg:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-24390.jpg" />
- <img src="./../images/PB03/bd-24390.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-24390-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-24390-512px.jpg 512w,
+  ./../images/PB03/resized/tv-24390-768px.jpg 768w,
+  ./../images/PB03/resized/tv-24390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-24390-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-24390-512px.jpg 512w,
+  ./../images/PB03/resized/bd-24390-768px.jpg 768w,
+  ./../images/PB03/resized/bd-24390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -611,8 +1479,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Jonathan finally learned how to use his eyes:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-24719.jpg" />
- <img src="./../images/PB03/bd-24719.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-24719-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-24719-512px.jpg 512w,
+  ./../images/PB03/resized/tv-24719-768px.jpg 768w,
+  ./../images/PB03/resized/tv-24719-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-24719-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-24719-512px.jpg 512w,
+  ./../images/PB03/resized/bd-24719-768px.jpg 768w,
+  ./../images/PB03/resized/bd-24719-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -620,15 +1502,43 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - *I went down, down, down/And the flames went higher*:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-24840.jpg" />
- <img src="./../images/PB03/bd-24840.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-24840-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-24840-512px.jpg 512w,
+  ./../images/PB03/resized/tv-24840-768px.jpg 768w,
+  ./../images/PB03/resized/tv-24840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-24840-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-24840-512px.jpg 512w,
+  ./../images/PB03/resized/bd-24840-768px.jpg 768w,
+  ./../images/PB03/resized/bd-24840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-24897.jpg" />
- <img src="./../images/PB03/bd-24897.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-24897-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-24897-512px.jpg 512w,
+  ./../images/PB03/resized/tv-24897-768px.jpg 768w,
+  ./../images/PB03/resized/tv-24897-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-24897-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-24897-512px.jpg 512w,
+  ./../images/PB03/resized/bd-24897-768px.jpg 768w,
+  ./../images/PB03/resized/bd-24897-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -646,8 +1556,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-25926.jpg" />
- <img src="./../images/PB03/bd-25926.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-25926-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-25926-512px.jpg 512w,
+  ./../images/PB03/resized/tv-25926-768px.jpg 768w,
+  ./../images/PB03/resized/tv-25926-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-25926-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-25926-512px.jpg 512w,
+  ./../images/PB03/resized/bd-25926-768px.jpg 768w,
+  ./../images/PB03/resized/bd-25926-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -655,8 +1579,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - This scene here has a sharper background and the usual texture layer:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-27135.jpg" />
- <img src="./../images/PB03/bd-27135.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-27135-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-27135-512px.jpg 512w,
+  ./../images/PB03/resized/tv-27135-768px.jpg 768w,
+  ./../images/PB03/resized/tv-27135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-27135-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-27135-512px.jpg 512w,
+  ./../images/PB03/resized/bd-27135-768px.jpg 768w,
+  ./../images/PB03/resized/bd-27135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -664,8 +1602,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - The texture again, and a slight zoom:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-27280.jpg" />
- <img src="./../images/PB03/bd-27280.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-27280-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-27280-512px.jpg 512w,
+  ./../images/PB03/resized/tv-27280-768px.jpg 768w,
+  ./../images/PB03/resized/tv-27280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-27280-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-27280-512px.jpg 512w,
+  ./../images/PB03/resized/bd-27280-768px.jpg 768w,
+  ./../images/PB03/resized/bd-27280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -680,8 +1632,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - And this part here is brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-27599.jpg" />
- <img src="./../images/PB03/bd-27599.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-27599-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-27599-512px.jpg 512w,
+  ./../images/PB03/resized/tv-27599-768px.jpg 768w,
+  ./../images/PB03/resized/tv-27599-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-27599-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-27599-512px.jpg 512w,
+  ./../images/PB03/resized/bd-27599-768px.jpg 768w,
+  ./../images/PB03/resized/bd-27599-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -689,29 +1655,85 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - In this scene Jonathan has been completely redrawn, the angle has been moved and the background is blurrier and slightly shifted:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-27670.jpg" />
- <img src="./../images/PB03/bd-27670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-27670-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-27670-512px.jpg 512w,
+  ./../images/PB03/resized/tv-27670-768px.jpg 768w,
+  ./../images/PB03/resized/tv-27670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-27670-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-27670-512px.jpg 512w,
+  ./../images/PB03/resized/bd-27670-768px.jpg 768w,
+  ./../images/PB03/resized/bd-27670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-27710.jpg" />
- <img src="./../images/PB03/bd-27710.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-27710-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-27710-512px.jpg 512w,
+  ./../images/PB03/resized/tv-27710-768px.jpg 768w,
+  ./../images/PB03/resized/tv-27710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-27710-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-27710-512px.jpg 512w,
+  ./../images/PB03/resized/bd-27710-768px.jpg 768w,
+  ./../images/PB03/resized/bd-27710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-27760.jpg" />
- <img src="./../images/PB03/bd-27760.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-27760-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-27760-512px.jpg 512w,
+  ./../images/PB03/resized/tv-27760-768px.jpg 768w,
+  ./../images/PB03/resized/tv-27760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-27760-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-27760-512px.jpg 512w,
+  ./../images/PB03/resized/bd-27760-768px.jpg 768w,
+  ./../images/PB03/resized/bd-27760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-27790.jpg" />
- <img src="./../images/PB03/bd-27790.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-27790-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-27790-512px.jpg 512w,
+  ./../images/PB03/resized/tv-27790-768px.jpg 768w,
+  ./../images/PB03/resized/tv-27790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-27790-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-27790-512px.jpg 512w,
+  ./../images/PB03/resized/bd-27790-768px.jpg 768w,
+  ./../images/PB03/resized/bd-27790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -719,50 +1741,148 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - *Come on baby, light my fire/Try to set the night on fire*:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-28440.jpg" />
- <img src="./../images/PB03/bd-28440.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-28440-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-28440-512px.jpg 512w,
+  ./../images/PB03/resized/tv-28440-768px.jpg 768w,
+  ./../images/PB03/resized/tv-28440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-28440-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-28440-512px.jpg 512w,
+  ./../images/PB03/resized/bd-28440-768px.jpg 768w,
+  ./../images/PB03/resized/bd-28440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-28700.jpg" />
- <img src="./../images/PB03/bd-28700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-28700-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-28700-512px.jpg 512w,
+  ./../images/PB03/resized/tv-28700-768px.jpg 768w,
+  ./../images/PB03/resized/tv-28700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-28700-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-28700-512px.jpg 512w,
+  ./../images/PB03/resized/bd-28700-768px.jpg 768w,
+  ./../images/PB03/resized/bd-28700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-28830.jpg" />
- <img src="./../images/PB03/bd-28830.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-28830-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-28830-512px.jpg 512w,
+  ./../images/PB03/resized/tv-28830-768px.jpg 768w,
+  ./../images/PB03/resized/tv-28830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-28830-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-28830-512px.jpg 512w,
+  ./../images/PB03/resized/bd-28830-768px.jpg 768w,
+  ./../images/PB03/resized/bd-28830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-28890.jpg" />
- <img src="./../images/PB03/bd-28890.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-28890-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-28890-512px.jpg 512w,
+  ./../images/PB03/resized/tv-28890-768px.jpg 768w,
+  ./../images/PB03/resized/tv-28890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-28890-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-28890-512px.jpg 512w,
+  ./../images/PB03/resized/bd-28890-768px.jpg 768w,
+  ./../images/PB03/resized/bd-28890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-28960.jpg" />
- <img src="./../images/PB03/bd-28960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-28960-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-28960-512px.jpg 512w,
+  ./../images/PB03/resized/tv-28960-768px.jpg 768w,
+  ./../images/PB03/resized/tv-28960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-28960-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-28960-512px.jpg 512w,
+  ./../images/PB03/resized/bd-28960-768px.jpg 768w,
+  ./../images/PB03/resized/bd-28960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-29010.jpg" />
- <img src="./../images/PB03/bd-29010.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-29010-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-29010-512px.jpg 512w,
+  ./../images/PB03/resized/tv-29010-768px.jpg 768w,
+  ./../images/PB03/resized/tv-29010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-29010-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-29010-512px.jpg 512w,
+  ./../images/PB03/resized/bd-29010-768px.jpg 768w,
+  ./../images/PB03/resized/bd-29010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-29080.jpg" />
- <img src="./../images/PB03/bd-29080.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-29080-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-29080-512px.jpg 512w,
+  ./../images/PB03/resized/tv-29080-768px.jpg 768w,
+  ./../images/PB03/resized/tv-29080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-29080-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-29080-512px.jpg 512w,
+  ./../images/PB03/resized/bd-29080-768px.jpg 768w,
+  ./../images/PB03/resized/bd-29080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -770,22 +1890,64 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - There and back again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-29290.jpg" />
- <img src="./../images/PB03/bd-29290.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-29290-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-29290-512px.jpg 512w,
+  ./../images/PB03/resized/tv-29290-768px.jpg 768w,
+  ./../images/PB03/resized/tv-29290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-29290-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-29290-512px.jpg 512w,
+  ./../images/PB03/resized/bd-29290-768px.jpg 768w,
+  ./../images/PB03/resized/bd-29290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-29820.jpg" />
- <img src="./../images/PB03/bd-29820.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-29820-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-29820-512px.jpg 512w,
+  ./../images/PB03/resized/tv-29820-768px.jpg 768w,
+  ./../images/PB03/resized/tv-29820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-29820-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-29820-512px.jpg 512w,
+  ./../images/PB03/resized/bd-29820-768px.jpg 768w,
+  ./../images/PB03/resized/bd-29820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-29958.jpg" />
- <img src="./../images/PB03/bd-29958.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-29958-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-29958-512px.jpg 512w,
+  ./../images/PB03/resized/tv-29958-768px.jpg 768w,
+  ./../images/PB03/resized/tv-29958-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-29958-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-29958-512px.jpg 512w,
+  ./../images/PB03/resized/bd-29958-768px.jpg 768w,
+  ./../images/PB03/resized/bd-29958-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -800,8 +1962,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - In this shot Dio's face has been shaded differently, and there are more random fires passing by in the background:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-30618.jpg" />
- <img src="./../images/PB03/bd-30618.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-30618-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-30618-512px.jpg 512w,
+  ./../images/PB03/resized/tv-30618-768px.jpg 768w,
+  ./../images/PB03/resized/tv-30618-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-30618-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-30618-512px.jpg 512w,
+  ./../images/PB03/resized/bd-30618-768px.jpg 768w,
+  ./../images/PB03/resized/bd-30618-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -809,8 +1985,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Here they added some wind effects:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-30630.jpg" />
- <img src="./../images/PB03/bd-30630.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-30630-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-30630-512px.jpg 512w,
+  ./../images/PB03/resized/tv-30630-768px.jpg 768w,
+  ./../images/PB03/resized/tv-30630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-30630-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-30630-512px.jpg 512w,
+  ./../images/PB03/resized/bd-30630-768px.jpg 768w,
+  ./../images/PB03/resized/bd-30630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -818,8 +2008,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - ...And the usual fire makeover:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-30700.jpg" />
- <img src="./../images/PB03/bd-30700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-30700-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-30700-512px.jpg 512w,
+  ./../images/PB03/resized/tv-30700-768px.jpg 768w,
+  ./../images/PB03/resized/tv-30700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-30700-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-30700-512px.jpg 512w,
+  ./../images/PB03/resized/bd-30700-768px.jpg 768w,
+  ./../images/PB03/resized/bd-30700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -827,15 +2031,43 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - *I'm a firestarter, twisted firestarter*:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-30820.jpg" />
- <img src="./../images/PB03/bd-30820.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-30820-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-30820-512px.jpg 512w,
+  ./../images/PB03/resized/tv-30820-768px.jpg 768w,
+  ./../images/PB03/resized/tv-30820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-30820-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-30820-512px.jpg 512w,
+  ./../images/PB03/resized/bd-30820-768px.jpg 768w,
+  ./../images/PB03/resized/bd-30820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-31000.jpg" />
- <img src="./../images/PB03/bd-31000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-31000-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-31000-512px.jpg 512w,
+  ./../images/PB03/resized/tv-31000-768px.jpg 768w,
+  ./../images/PB03/resized/tv-31000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-31000-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-31000-512px.jpg 512w,
+  ./../images/PB03/resized/bd-31000-768px.jpg 768w,
+  ./../images/PB03/resized/bd-31000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -843,8 +2075,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Everything is blurrier here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-31265.jpg" />
- <img src="./../images/PB03/bd-31265.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-31265-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-31265-512px.jpg 512w,
+  ./../images/PB03/resized/tv-31265-768px.jpg 768w,
+  ./../images/PB03/resized/tv-31265-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-31265-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-31265-512px.jpg 512w,
+  ./../images/PB03/resized/bd-31265-768px.jpg 768w,
+  ./../images/PB03/resized/bd-31265-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -852,8 +2098,22 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - As you can see from this comparison, from here onwards the ending credits have been removed: that's because in the BDs they added the Roundabout ending as normal; this results in the BD version of this episode lasting 90 seconds more than the TV version:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-31670.jpg" />
- <img src="./../images/PB03/bd-31670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-31670-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-31670-512px.jpg 512w,
+  ./../images/PB03/resized/tv-31670-768px.jpg 768w,
+  ./../images/PB03/resized/tv-31670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-31670-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-31670-512px.jpg 512w,
+  ./../images/PB03/resized/bd-31670-768px.jpg 768w,
+  ./../images/PB03/resized/bd-31670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -866,22 +2126,64 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-31835.jpg" />
- <img src="./../images/PB03/bd-31835.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-31835-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-31835-512px.jpg 512w,
+  ./../images/PB03/resized/tv-31835-768px.jpg 768w,
+  ./../images/PB03/resized/tv-31835-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-31835-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-31835-512px.jpg 512w,
+  ./../images/PB03/resized/bd-31835-768px.jpg 768w,
+  ./../images/PB03/resized/bd-31835-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-31910.jpg" />
- <img src="./../images/PB03/bd-31910.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-31910-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-31910-512px.jpg 512w,
+  ./../images/PB03/resized/tv-31910-768px.jpg 768w,
+  ./../images/PB03/resized/tv-31910-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-31910-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-31910-512px.jpg 512w,
+  ./../images/PB03/resized/bd-31910-768px.jpg 768w,
+  ./../images/PB03/resized/bd-31910-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-32010.jpg" />
- <img src="./../images/PB03/bd-32010.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-32010-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-32010-512px.jpg 512w,
+  ./../images/PB03/resized/tv-32010-768px.jpg 768w,
+  ./../images/PB03/resized/tv-32010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-32010-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-32010-512px.jpg 512w,
+  ./../images/PB03/resized/bd-32010-768px.jpg 768w,
+  ./../images/PB03/resized/bd-32010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -889,15 +2191,43 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Here the scene is brighter and the fire has been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-32025.jpg" />
- <img src="./../images/PB03/bd-32025.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-32025-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-32025-512px.jpg 512w,
+  ./../images/PB03/resized/tv-32025-768px.jpg 768w,
+  ./../images/PB03/resized/tv-32025-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-32025-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-32025-512px.jpg 512w,
+  ./../images/PB03/resized/bd-32025-768px.jpg 768w,
+  ./../images/PB03/resized/bd-32025-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-32190.jpg" />
- <img src="./../images/PB03/bd-32190.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-32190-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-32190-512px.jpg 512w,
+  ./../images/PB03/resized/tv-32190-768px.jpg 768w,
+  ./../images/PB03/resized/tv-32190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-32190-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-32190-512px.jpg 512w,
+  ./../images/PB03/resized/bd-32190-768px.jpg 768w,
+  ./../images/PB03/resized/bd-32190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -905,15 +2235,43 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Here Speedwagon has a new face and by now I'm pretty sure you're getting sick of hearing about how the fire has been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-32530.jpg" />
- <img src="./../images/PB03/bd-32530.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-32530-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-32530-512px.jpg 512w,
+  ./../images/PB03/resized/tv-32530-768px.jpg 768w,
+  ./../images/PB03/resized/tv-32530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-32530-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-32530-512px.jpg 512w,
+  ./../images/PB03/resized/bd-32530-768px.jpg 768w,
+  ./../images/PB03/resized/bd-32530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-32600.jpg" />
- <img src="./../images/PB03/bd-32600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-32600-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-32600-512px.jpg 512w,
+  ./../images/PB03/resized/tv-32600-768px.jpg 768w,
+  ./../images/PB03/resized/tv-32600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-32600-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-32600-512px.jpg 512w,
+  ./../images/PB03/resized/bd-32600-768px.jpg 768w,
+  ./../images/PB03/resized/bd-32600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -921,15 +2279,43 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 - Aaaand we conclude this humongous post with a hearwarming family picture, now drawn better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-32750.jpg" />
- <img src="./../images/PB03/bd-32750.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-32750-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-32750-512px.jpg 512w,
+  ./../images/PB03/resized/tv-32750-768px.jpg 768w,
+  ./../images/PB03/resized/tv-32750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-32750-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-32750-512px.jpg 512w,
+  ./../images/PB03/resized/bd-32750-768px.jpg 768w,
+  ./../images/PB03/resized/bd-32750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB03/tv-32840.jpg" />
- <img src="./../images/PB03/bd-32840.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/tv-32840-1090px.jpg"
+  data-srcset="./../images/PB03/resized/tv-32840-512px.jpg 512w,
+  ./../images/PB03/resized/tv-32840-768px.jpg 768w,
+  ./../images/PB03/resized/tv-32840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB03/resized/bd-32840-1090px.jpg"
+  data-srcset="./../images/PB03/resized/bd-32840-512px.jpg 512w,
+  ./../images/PB03/resized/bd-32840-768px.jpg 768w,
+  ./../images/PB03/resized/bd-32840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

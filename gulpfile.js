@@ -65,7 +65,7 @@ gulp.task('thumbnails', gulp.series('enlarge-thumbnails', function() {
 
 gulp.task('resize', function () {
   return gulp
-    .src('source/images/VA26/{bd,tv}-*.jpg')
+    .src('source/images/PB03/{bd,tv}-*.jpg')
     .pipe(
       $.responsive(
         {
@@ -94,5 +94,5 @@ gulp.task('resize', function () {
         }
       )
     )
-    .pipe(gulp.dest('source/images/VA26/resized'))
+    .pipe(gulp.dest('source/images/PB03/resized'))
 });
