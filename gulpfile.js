@@ -1,6 +1,30 @@
-var gulp = require('gulp')
-var $ = require('gulp-load-plugins')()
+var gulp = require('gulp');
+var $ = require('gulp-load-plugins')();
+var gutil = require('gulp-util');
+var through = require('through2');
+var del = require('del');
 
+/*
+
+(src=")(./../images/[a-z]{2}[0-9]{2}/)([a-z]{2}-)([0-9]{5})(.jpg)(")
+
+ ||
+ V
+
+ width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="$2resized/$3$4-1090px$5$6
+  data-srcset="$2resized/$3$4-512px$5 512w,
+  $2resized/$3$4-768px$5 768w,
+  $2resized/$3$4-1090px$5 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw"
+
+*/
+
+gulp.task('clean', function() {
+  return del(['source/images/**/[0-9][0-9]-header*-1090px.jpg', '!source/images']);
+});
 
 gulp.task('create-thumbnails', function () {
   return gulp
@@ -65,7 +89,7 @@ gulp.task('thumbnails', gulp.series('enlarge-thumbnails', function() {
 
 gulp.task('resize', function () {
   return gulp
-    .src('source/images/PB03/{bd,tv}-*.jpg')
+    .src('source/images/BT10/*.jpg')
     .pipe(
       $.responsive(
         {
@@ -94,5 +118,45 @@ gulp.task('resize', function () {
         }
       )
     )
-    .pipe(gulp.dest('source/images/PB03/resized'))
+    .pipe(gulp.dest('source/images/**/resized'))
+});
+
+gulp.task('resize-headers', function () {
+  return gulp
+    .src('source/images/**/[0-9][0-9]-header*.jpg')
+    .pipe(
+      $.responsive(
+        {
+          // Resize all JPG images to three different sizes: 200, 500, and 630 pixels
+          '**/*.jpg':{
+              width: 1090,
+              //rename: { suffix: '-1090px'},
+              //width: 1090,
+              strictMatchImages: false
+            }
+        },
+        {
+          // Global configuration for all images
+          quality: 70,
+		      progressive: true,
+		      withMetadata: false,
+		      skipOnEnlargement: true,
+		      errorOnUnusedConfig: false,
+		      errorOnUnusedImage: false,
+		      errorOnEnlargement: false
+        }
+      )
+    )
+    .pipe(gulp.dest('source/images'))
+});
+
+gulp.task('count', function() {
+  return gulp.src('source/images/**/[0-9][0-9]*.jpg')
+    .pipe((function() {
+      return new through.obj(function(file, enc, next) {
+        gutil.log(file.path);
+        this.push(file);
+        next();
+      });
+    })());
 });
