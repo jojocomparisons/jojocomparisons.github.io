@@ -87,17 +87,17 @@ gulp.task('thumbnails', gulp.series('enlarge-thumbnails', function() {
 
 gulp.task('move', function() {
   return gulp
-  .src('source/images/BT26/!(*px|*headerJP)*.jpg')
-  .pipe(gulp.dest('source/images/old-images/BT26'))
+  .src('source/images/SC17/!(*px|*headerJP)*.jpg')
+  .pipe(gulp.dest('../OCTOBACKUP/old-images/SC17'))
 });
 
 gulp.task('clean', function() {
-  return del(['source/images/BT26/!(*px|*headerJP)*.jpg']);
+  return del(['source/images/SC17/!(*px|*headerJP)*.jpg']);
 });
 
 gulp.task('create-responsive', function () {
   return gulp
-    .src('source/images/BT26/{bd,tv}*.jpg')
+    .src('source/images/SC17/{bd,tv}*.jpg')
     .pipe(
       $.responsive(
         {
@@ -126,7 +126,7 @@ gulp.task('create-responsive', function () {
         }
       )
     )
-    .pipe(gulp.dest('source/images/BT26'))
+    .pipe(gulp.dest('source/images/SC17'))
 });
 
 gulp.task('resize', gulp.series('create-responsive', 'move', 'clean'));
@@ -161,7 +161,7 @@ gulp.task('resize-headers', function () {
 });
 
 gulp.task('count', function() {
-  return gulp.src('source/images/BT26/!(*px|*headerJP)*.jpg')
+  return gulp.src('source/images/SC17/!(*px|*headerJP)*.jpg')
     .pipe((function() {
       return new through.obj(function(file, enc, next) {
         gutil.log(file.path);

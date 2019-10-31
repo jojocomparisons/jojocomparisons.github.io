@@ -43,8 +43,22 @@ Hello, good folks! Welcome back to this blog. Today we're going to take a very b
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC15/tv-27280.jpg" />
- <img src="./../images/SC15/bd-27280.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC15/tv-27280-1090px.jpg"
+  data-srcset="./../images/SC15/tv-27280-512px.jpg 512w,
+  ./../images/SC15/tv-27280-768px.jpg 768w,
+  ./../images/SC15/tv-27280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC15/bd-27280-1090px.jpg"
+  data-srcset="./../images/SC15/bd-27280-512px.jpg 512w,
+  ./../images/SC15/bd-27280-768px.jpg 768w,
+  ./../images/SC15/bd-27280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

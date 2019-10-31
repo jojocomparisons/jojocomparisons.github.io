@@ -23,15 +23,43 @@ Let's begin!
 - Here, Joseph's beard is no longer separated from his face by a sharp black line, and the shading on his face itself has changed a little bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC16/tv-04220.jpg" />
- <img src="./../images/SC16/bd-04220.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/tv-04220-1090px.jpg"
+  data-srcset="./../images/SC16/tv-04220-512px.jpg 512w,
+  ./../images/SC16/tv-04220-768px.jpg 768w,
+  ./../images/SC16/tv-04220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/bd-04220-1090px.jpg"
+  data-srcset="./../images/SC16/bd-04220-512px.jpg 512w,
+  ./../images/SC16/bd-04220-768px.jpg 768w,
+  ./../images/SC16/bd-04220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC16/tv-04335.jpg" />
- <img src="./../images/SC16/bd-04335.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/tv-04335-1090px.jpg"
+  data-srcset="./../images/SC16/tv-04335-512px.jpg 512w,
+  ./../images/SC16/tv-04335-768px.jpg 768w,
+  ./../images/SC16/tv-04335-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/bd-04335-1090px.jpg"
+  data-srcset="./../images/SC16/bd-04335-512px.jpg 512w,
+  ./../images/SC16/bd-04335-768px.jpg 768w,
+  ./../images/SC16/bd-04335-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -39,8 +67,22 @@ Let's begin!
 - Here, there is one line less on Steely Dan's face, and his left eye has also been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC16/tv-08550.jpg" />
- <img src="./../images/SC16/bd-08550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/tv-08550-1090px.jpg"
+  data-srcset="./../images/SC16/tv-08550-512px.jpg 512w,
+  ./../images/SC16/tv-08550-768px.jpg 768w,
+  ./../images/SC16/tv-08550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/bd-08550-1090px.jpg"
+  data-srcset="./../images/SC16/bd-08550-512px.jpg 512w,
+  ./../images/SC16/bd-08550-768px.jpg 768w,
+  ./../images/SC16/bd-08550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -48,8 +90,22 @@ Let's begin!
 - Joseph's ear and pupils have been redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC16/tv-16245.jpg" />
- <img src="./../images/SC16/bd-16245.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/tv-16245-1090px.jpg"
+  data-srcset="./../images/SC16/tv-16245-512px.jpg 512w,
+  ./../images/SC16/tv-16245-768px.jpg 768w,
+  ./../images/SC16/tv-16245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/bd-16245-1090px.jpg"
+  data-srcset="./../images/SC16/bd-16245-512px.jpg 512w,
+  ./../images/SC16/bd-16245-768px.jpg 768w,
+  ./../images/SC16/bd-16245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -57,8 +113,22 @@ Let's begin!
 - The shade under Steely Dan's lower lips is a tad darker here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC16/tv-18760.jpg" />
- <img src="./../images/SC16/bd-18760.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/tv-18760-1090px.jpg"
+  data-srcset="./../images/SC16/tv-18760-512px.jpg 512w,
+  ./../images/SC16/tv-18760-768px.jpg 768w,
+  ./../images/SC16/tv-18760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/bd-18760-1090px.jpg"
+  data-srcset="./../images/SC16/bd-18760-512px.jpg 512w,
+  ./../images/SC16/bd-18760-768px.jpg 768w,
+  ./../images/SC16/bd-18760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -73,22 +143,64 @@ Let's begin!
 - Here, there are a bunch of different details on Steely Dan's face:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC16/tv-24480.jpg" />
- <img src="./../images/SC16/bd-24480.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/tv-24480-1090px.jpg"
+  data-srcset="./../images/SC16/tv-24480-512px.jpg 512w,
+  ./../images/SC16/tv-24480-768px.jpg 768w,
+  ./../images/SC16/tv-24480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/bd-24480-1090px.jpg"
+  data-srcset="./../images/SC16/bd-24480-512px.jpg 512w,
+  ./../images/SC16/bd-24480-768px.jpg 768w,
+  ./../images/SC16/bd-24480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC16/tv-24520.jpg" />
- <img src="./../images/SC16/bd-24520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/tv-24520-1090px.jpg"
+  data-srcset="./../images/SC16/tv-24520-512px.jpg 512w,
+  ./../images/SC16/tv-24520-768px.jpg 768w,
+  ./../images/SC16/tv-24520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/bd-24520-1090px.jpg"
+  data-srcset="./../images/SC16/bd-24520-512px.jpg 512w,
+  ./../images/SC16/bd-24520-768px.jpg 768w,
+  ./../images/SC16/bd-24520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC16/tv-24665.jpg" />
- <img src="./../images/SC16/bd-24665.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/tv-24665-1090px.jpg"
+  data-srcset="./../images/SC16/tv-24665-512px.jpg 512w,
+  ./../images/SC16/tv-24665-768px.jpg 768w,
+  ./../images/SC16/tv-24665-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/bd-24665-1090px.jpg"
+  data-srcset="./../images/SC16/bd-24665-512px.jpg 512w,
+  ./../images/SC16/bd-24665-768px.jpg 768w,
+  ./../images/SC16/bd-24665-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -115,8 +227,22 @@ Let's begin!
 - And here, like last episode, there is a slightly tweaked mouthflap. It's nothing major, just something to adjust the animation to better match Kakyoin's speech:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC16/tv-30447.jpg" />
- <img src="./../images/SC16/bd-30447.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/tv-30447-1090px.jpg"
+  data-srcset="./../images/SC16/tv-30447-512px.jpg 512w,
+  ./../images/SC16/tv-30447-768px.jpg 768w,
+  ./../images/SC16/tv-30447-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC16/bd-30447-1090px.jpg"
+  data-srcset="./../images/SC16/bd-30447-512px.jpg 512w,
+  ./../images/SC16/bd-30447-768px.jpg 768w,
+  ./../images/SC16/bd-30447-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

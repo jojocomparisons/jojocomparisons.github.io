@@ -19,8 +19,22 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 - Today's first difference is this bit of credits, in which 光田史亮 (Kо̄ta Fumiaki) was added in the middle, credited as "Stand Designer" and "Action Animation Director". Check it out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-03360.jpg" />
- <img src="./../images/SC01/bd-03360.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-03360-1090px.jpg"
+  data-srcset="./../images/SC01/tv-03360-512px.jpg 512w,
+  ./../images/SC01/tv-03360-768px.jpg 768w,
+  ./../images/SC01/tv-03360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-03360-1090px.jpg"
+  data-srcset="./../images/SC01/bd-03360-512px.jpg 512w,
+  ./../images/SC01/bd-03360-768px.jpg 768w,
+  ./../images/SC01/bd-03360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -28,43 +42,127 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 - Moving on, this scene has a brighter vignette along the edges, and Holly's face, hair and dress have also been retouched throughout:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-04540.jpg" />
- <img src="./../images/SC01/bd-04540.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-04540-1090px.jpg"
+  data-srcset="./../images/SC01/tv-04540-512px.jpg 512w,
+  ./../images/SC01/tv-04540-768px.jpg 768w,
+  ./../images/SC01/tv-04540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-04540-1090px.jpg"
+  data-srcset="./../images/SC01/bd-04540-512px.jpg 512w,
+  ./../images/SC01/bd-04540-768px.jpg 768w,
+  ./../images/SC01/bd-04540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-04590.jpg" />
- <img src="./../images/SC01/bd-04590.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-04590-1090px.jpg"
+  data-srcset="./../images/SC01/tv-04590-512px.jpg 512w,
+  ./../images/SC01/tv-04590-768px.jpg 768w,
+  ./../images/SC01/tv-04590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-04590-1090px.jpg"
+  data-srcset="./../images/SC01/bd-04590-512px.jpg 512w,
+  ./../images/SC01/bd-04590-768px.jpg 768w,
+  ./../images/SC01/bd-04590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-04620.jpg" />
- <img src="./../images/SC01/bd-04620.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-04620-1090px.jpg"
+  data-srcset="./../images/SC01/tv-04620-512px.jpg 512w,
+  ./../images/SC01/tv-04620-768px.jpg 768w,
+  ./../images/SC01/tv-04620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-04620-1090px.jpg"
+  data-srcset="./../images/SC01/bd-04620-512px.jpg 512w,
+  ./../images/SC01/bd-04620-768px.jpg 768w,
+  ./../images/SC01/bd-04620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-04670.jpg" />
- <img src="./../images/SC01/bd-04670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-04670-1090px.jpg"
+  data-srcset="./../images/SC01/tv-04670-512px.jpg 512w,
+  ./../images/SC01/tv-04670-768px.jpg 768w,
+  ./../images/SC01/tv-04670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-04670-1090px.jpg"
+  data-srcset="./../images/SC01/bd-04670-512px.jpg 512w,
+  ./../images/SC01/bd-04670-768px.jpg 768w,
+  ./../images/SC01/bd-04670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-04750.jpg" />
- <img src="./../images/SC01/bd-04750.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-04750-1090px.jpg"
+  data-srcset="./../images/SC01/tv-04750-512px.jpg 512w,
+  ./../images/SC01/tv-04750-768px.jpg 768w,
+  ./../images/SC01/tv-04750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-04750-1090px.jpg"
+  data-srcset="./../images/SC01/bd-04750-512px.jpg 512w,
+  ./../images/SC01/bd-04750-768px.jpg 768w,
+  ./../images/SC01/bd-04750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-04920.jpg" />
- <img src="./../images/SC01/bd-04920.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-04920-1090px.jpg"
+  data-srcset="./../images/SC01/tv-04920-512px.jpg 512w,
+  ./../images/SC01/tv-04920-768px.jpg 768w,
+  ./../images/SC01/tv-04920-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-04920-1090px.jpg"
+  data-srcset="./../images/SC01/bd-04920-512px.jpg 512w,
+  ./../images/SC01/bd-04920-768px.jpg 768w,
+  ./../images/SC01/bd-04920-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -72,15 +170,43 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 - The camera has also been moved a tad in the middle of the sequence:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-05010.jpg" />
- <img src="./../images/SC01/bd-05010.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-05010-1090px.jpg"
+  data-srcset="./../images/SC01/tv-05010-512px.jpg 512w,
+  ./../images/SC01/tv-05010-768px.jpg 768w,
+  ./../images/SC01/tv-05010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-05010-1090px.jpg"
+  data-srcset="./../images/SC01/bd-05010-512px.jpg 512w,
+  ./../images/SC01/bd-05010-768px.jpg 768w,
+  ./../images/SC01/bd-05010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-05050.jpg" />
- <img src="./../images/SC01/bd-05050.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-05050-1090px.jpg"
+  data-srcset="./../images/SC01/tv-05050-512px.jpg 512w,
+  ./../images/SC01/tv-05050-768px.jpg 768w,
+  ./../images/SC01/tv-05050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-05050-1090px.jpg"
+  data-srcset="./../images/SC01/bd-05050-512px.jpg 512w,
+  ./../images/SC01/bd-05050-768px.jpg 768w,
+  ./../images/SC01/bd-05050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -119,8 +245,22 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-06412.jpg" />
- <img src="./../images/SC01/bd-06412.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-06412-1090px.jpg"
+  data-srcset="./../images/SC01/tv-06412-512px.jpg 512w,
+  ./../images/SC01/tv-06412-768px.jpg 768w,
+  ./../images/SC01/tv-06412-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-06412-1090px.jpg"
+  data-srcset="./../images/SC01/bd-06412-512px.jpg 512w,
+  ./../images/SC01/bd-06412-768px.jpg 768w,
+  ./../images/SC01/bd-06412-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -140,15 +280,43 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 - Magician's Red spouts slightly brighter flames in this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-20000.jpg" />
- <img src="./../images/SC01/bd-20000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-20000-1090px.jpg"
+  data-srcset="./../images/SC01/tv-20000-512px.jpg 512w,
+  ./../images/SC01/tv-20000-768px.jpg 768w,
+  ./../images/SC01/tv-20000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-20000-1090px.jpg"
+  data-srcset="./../images/SC01/bd-20000-512px.jpg 512w,
+  ./../images/SC01/bd-20000-768px.jpg 768w,
+  ./../images/SC01/bd-20000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-20030.jpg" />
- <img src="./../images/SC01/bd-20030.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-20030-1090px.jpg"
+  data-srcset="./../images/SC01/tv-20030-512px.jpg 512w,
+  ./../images/SC01/tv-20030-768px.jpg 768w,
+  ./../images/SC01/tv-20030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-20030-1090px.jpg"
+  data-srcset="./../images/SC01/bd-20030-512px.jpg 512w,
+  ./../images/SC01/bd-20030-768px.jpg 768w,
+  ./../images/SC01/bd-20030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -168,8 +336,22 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 - The first frames _after_ the crash are also brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-28200.jpg" />
- <img src="./../images/SC01/bd-28200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-28200-1090px.jpg"
+  data-srcset="./../images/SC01/tv-28200-512px.jpg 512w,
+  ./../images/SC01/tv-28200-768px.jpg 768w,
+  ./../images/SC01/tv-28200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-28200-1090px.jpg"
+  data-srcset="./../images/SC01/bd-28200-512px.jpg 512w,
+  ./../images/SC01/bd-28200-768px.jpg 768w,
+  ./../images/SC01/bd-28200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -177,8 +359,22 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 - It's time for some credit differences already! But this time there's a whole bunch of them. Here, the two names that were previously under "david production" (石本峻一, Ishimoto Shun'ichi and 西村彩, Nishimura Aya) have been incorporated into the main section:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-30950.jpg" />
- <img src="./../images/SC01/bd-30950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-30950-1090px.jpg"
+  data-srcset="./../images/SC01/tv-30950-512px.jpg 512w,
+  ./../images/SC01/tv-30950-768px.jpg 768w,
+  ./../images/SC01/tv-30950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-30950-1090px.jpg"
+  data-srcset="./../images/SC01/bd-30950-512px.jpg 512w,
+  ./../images/SC01/bd-30950-768px.jpg 768w,
+  ./../images/SC01/bd-30950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -186,8 +382,22 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 - The same applies here to 福田周平 (Fukuda Shūhei):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-31125.jpg" />
- <img src="./../images/SC01/bd-31125.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-31125-1090px.jpg"
+  data-srcset="./../images/SC01/tv-31125-512px.jpg 512w,
+  ./../images/SC01/tv-31125-768px.jpg 768w,
+  ./../images/SC01/tv-31125-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-31125-1090px.jpg"
+  data-srcset="./../images/SC01/bd-31125-512px.jpg 512w,
+  ./../images/SC01/bd-31125-768px.jpg 768w,
+  ./../images/SC01/bd-31125-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -195,8 +405,22 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 - The credits here, instead, have been spaced a little bit more:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-31465.jpg" />
- <img src="./../images/SC01/bd-31465.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-31465-1090px.jpg"
+  data-srcset="./../images/SC01/tv-31465-512px.jpg 512w,
+  ./../images/SC01/tv-31465-768px.jpg 768w,
+  ./../images/SC01/tv-31465-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-31465-1090px.jpg"
+  data-srcset="./../images/SC01/bd-31465-512px.jpg 512w,
+  ./../images/SC01/bd-31465-768px.jpg 768w,
+  ./../images/SC01/bd-31465-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -204,8 +428,22 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 - Here, the whole "3D Modeling" section (containing three names: david production, ソエジマヤスフミ - Soejima Yasufumi and 檜垣賢一 - Higaki Ken'ichi) has been removed, since they were all just duplicates of the names contained in the 3DCGI section, just below:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-31565.jpg" />
- <img src="./../images/SC01/bd-31565.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-31565-1090px.jpg"
+  data-srcset="./../images/SC01/tv-31565-512px.jpg 512w,
+  ./../images/SC01/tv-31565-768px.jpg 768w,
+  ./../images/SC01/tv-31565-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-31565-1090px.jpg"
+  data-srcset="./../images/SC01/bd-31565-512px.jpg 512w,
+  ./../images/SC01/bd-31565-768px.jpg 768w,
+  ./../images/SC01/bd-31565-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -213,8 +451,22 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 - Here, they added マベリカ (Maverica) at the bottom, under "Website Production":
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-32045.jpg" />
- <img src="./../images/SC01/bd-32045.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-32045-1090px.jpg"
+  data-srcset="./../images/SC01/tv-32045-512px.jpg 512w,
+  ./../images/SC01/tv-32045-768px.jpg 768w,
+  ./../images/SC01/tv-32045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-32045-1090px.jpg"
+  data-srcset="./../images/SC01/bd-32045-512px.jpg 512w,
+  ./../images/SC01/bd-32045-768px.jpg 768w,
+  ./../images/SC01/bd-32045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -222,8 +474,22 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 - And let's close up with this other bit of credits, in which 服部健太郎 (Hattori Kentarо̄) has been added in the middle, under the section "Digital Production":
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC01/tv-32170.jpg" />
- <img src="./../images/SC01/bd-32170.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/tv-32170-1090px.jpg"
+  data-srcset="./../images/SC01/tv-32170-512px.jpg 512w,
+  ./../images/SC01/tv-32170-768px.jpg 768w,
+  ./../images/SC01/tv-32170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC01/bd-32170-1090px.jpg"
+  data-srcset="./../images/SC01/bd-32170-512px.jpg 512w,
+  ./../images/SC01/bd-32170-768px.jpg 768w,
+  ./../images/SC01/bd-32170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

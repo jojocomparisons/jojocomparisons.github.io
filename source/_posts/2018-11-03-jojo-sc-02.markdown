@@ -26,8 +26,22 @@ Good morning, evening, afternoon, night and whatever else might be appropriate f
 - Quickly moving on, we can see how in this bit of the openings, the BDs have added a bottom line for animator 片山貴仁 (Katayama Takahito), and it's fully animated:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC02/tv-07890.jpg" />
- <img src="./../images/SC02/bd-07890.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/tv-07890-1090px.jpg"
+  data-srcset="./../images/SC02/tv-07890-512px.jpg 512w,
+  ./../images/SC02/tv-07890-768px.jpg 768w,
+  ./../images/SC02/tv-07890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/bd-07890-1090px.jpg"
+  data-srcset="./../images/SC02/bd-07890-512px.jpg 512w,
+  ./../images/SC02/bd-07890-768px.jpg 768w,
+  ./../images/SC02/bd-07890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -40,36 +54,106 @@ Good morning, evening, afternoon, night and whatever else might be appropriate f
 - In this sequence, Joseph's face has been retouched in a bunch of tiny ways, see if you can spot them all (including the magical disappearing thumb):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC02/tv-14065.jpg" />
- <img src="./../images/SC02/bd-14065.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/tv-14065-1090px.jpg"
+  data-srcset="./../images/SC02/tv-14065-512px.jpg 512w,
+  ./../images/SC02/tv-14065-768px.jpg 768w,
+  ./../images/SC02/tv-14065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/bd-14065-1090px.jpg"
+  data-srcset="./../images/SC02/bd-14065-512px.jpg 512w,
+  ./../images/SC02/bd-14065-768px.jpg 768w,
+  ./../images/SC02/bd-14065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC02/tv-14105.jpg" />
- <img src="./../images/SC02/bd-14105.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/tv-14105-1090px.jpg"
+  data-srcset="./../images/SC02/tv-14105-512px.jpg 512w,
+  ./../images/SC02/tv-14105-768px.jpg 768w,
+  ./../images/SC02/tv-14105-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/bd-14105-1090px.jpg"
+  data-srcset="./../images/SC02/bd-14105-512px.jpg 512w,
+  ./../images/SC02/bd-14105-768px.jpg 768w,
+  ./../images/SC02/bd-14105-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC02/tv-14130.jpg" />
- <img src="./../images/SC02/bd-14130.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/tv-14130-1090px.jpg"
+  data-srcset="./../images/SC02/tv-14130-512px.jpg 512w,
+  ./../images/SC02/tv-14130-768px.jpg 768w,
+  ./../images/SC02/tv-14130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/bd-14130-1090px.jpg"
+  data-srcset="./../images/SC02/bd-14130-512px.jpg 512w,
+  ./../images/SC02/bd-14130-768px.jpg 768w,
+  ./../images/SC02/bd-14130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC02/tv-14225.jpg" />
- <img src="./../images/SC02/bd-14225.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/tv-14225-1090px.jpg"
+  data-srcset="./../images/SC02/tv-14225-512px.jpg 512w,
+  ./../images/SC02/tv-14225-768px.jpg 768w,
+  ./../images/SC02/tv-14225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/bd-14225-1090px.jpg"
+  data-srcset="./../images/SC02/bd-14225-512px.jpg 512w,
+  ./../images/SC02/bd-14225-768px.jpg 768w,
+  ./../images/SC02/bd-14225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC02/tv-14270.jpg" />
- <img src="./../images/SC02/bd-14270.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/tv-14270-1090px.jpg"
+  data-srcset="./../images/SC02/tv-14270-512px.jpg 512w,
+  ./../images/SC02/tv-14270-768px.jpg 768w,
+  ./../images/SC02/tv-14270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/bd-14270-1090px.jpg"
+  data-srcset="./../images/SC02/bd-14270-512px.jpg 512w,
+  ./../images/SC02/bd-14270-768px.jpg 768w,
+  ./../images/SC02/bd-14270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -82,22 +166,64 @@ Good morning, evening, afternoon, night and whatever else might be appropriate f
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC02/tv-17080.jpg" />
- <img src="./../images/SC02/bd-17080.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/tv-17080-1090px.jpg"
+  data-srcset="./../images/SC02/tv-17080-512px.jpg 512w,
+  ./../images/SC02/tv-17080-768px.jpg 768w,
+  ./../images/SC02/tv-17080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/bd-17080-1090px.jpg"
+  data-srcset="./../images/SC02/bd-17080-512px.jpg 512w,
+  ./../images/SC02/bd-17080-768px.jpg 768w,
+  ./../images/SC02/bd-17080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC02/tv-17140.jpg" />
- <img src="./../images/SC02/bd-17140.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/tv-17140-1090px.jpg"
+  data-srcset="./../images/SC02/tv-17140-512px.jpg 512w,
+  ./../images/SC02/tv-17140-768px.jpg 768w,
+  ./../images/SC02/tv-17140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/bd-17140-1090px.jpg"
+  data-srcset="./../images/SC02/bd-17140-512px.jpg 512w,
+  ./../images/SC02/bd-17140-768px.jpg 768w,
+  ./../images/SC02/bd-17140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC02/tv-17190.jpg" />
- <img src="./../images/SC02/bd-17190.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/tv-17190-1090px.jpg"
+  data-srcset="./../images/SC02/tv-17190-512px.jpg 512w,
+  ./../images/SC02/tv-17190-768px.jpg 768w,
+  ./../images/SC02/tv-17190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/bd-17190-1090px.jpg"
+  data-srcset="./../images/SC02/bd-17190-512px.jpg 512w,
+  ./../images/SC02/bd-17190-768px.jpg 768w,
+  ./../images/SC02/bd-17190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -112,8 +238,22 @@ Good morning, evening, afternoon, night and whatever else might be appropriate f
 - Here, Jotaro is now sporting a wound on his left knee:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC02/tv-24215.jpg" />
- <img src="./../images/SC02/bd-24215.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/tv-24215-1090px.jpg"
+  data-srcset="./../images/SC02/tv-24215-512px.jpg 512w,
+  ./../images/SC02/tv-24215-768px.jpg 768w,
+  ./../images/SC02/tv-24215-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/bd-24215-1090px.jpg"
+  data-srcset="./../images/SC02/bd-24215-512px.jpg 512w,
+  ./../images/SC02/bd-24215-768px.jpg 768w,
+  ./../images/SC02/bd-24215-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -121,8 +261,22 @@ Good morning, evening, afternoon, night and whatever else might be appropriate f
 - Aaaand now for a quick credit difference! Here, アベリカ (Maverica) has been added to the credits, under the section "Website Production":
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC02/tv-33181.jpg" />
- <img src="./../images/SC02/bd-33141.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/tv-33181-1090px.jpg"
+  data-srcset="./../images/SC02/tv-33181-512px.jpg 512w,
+  ./../images/SC02/tv-33181-768px.jpg 768w,
+  ./../images/SC02/tv-33181-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC02/bd-33141-1090px.jpg"
+  data-srcset="./../images/SC02/bd-33141-512px.jpg 512w,
+  ./../images/SC02/bd-33141-768px.jpg 768w,
+  ./../images/SC02/bd-33141-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

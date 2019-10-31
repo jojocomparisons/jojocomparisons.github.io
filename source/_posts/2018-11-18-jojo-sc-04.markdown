@@ -19,8 +19,22 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - Today's first difference is this initial scene, in which everybody's received a fresh paint of texture, a couple of things here or there have been retouched...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-09975.jpg" />
- <img src="./../images/SC04/bd-09975.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-09975-1090px.jpg"
+  data-srcset="./../images/SC04/tv-09975-512px.jpg 512w,
+  ./../images/SC04/tv-09975-768px.jpg 768w,
+  ./../images/SC04/tv-09975-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-09975-1090px.jpg"
+  data-srcset="./../images/SC04/bd-09975-512px.jpg 512w,
+  ./../images/SC04/bd-09975-768px.jpg 768w,
+  ./../images/SC04/bd-09975-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -28,8 +42,22 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - ... The holes in the seats are now correctly coloured black...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-09985.jpg" />
- <img src="./../images/SC04/bd-09985.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-09985-1090px.jpg"
+  data-srcset="./../images/SC04/tv-09985-512px.jpg 512w,
+  ./../images/SC04/tv-09985-768px.jpg 768w,
+  ./../images/SC04/tv-09985-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-09985-1090px.jpg"
+  data-srcset="./../images/SC04/bd-09985-512px.jpg 512w,
+  ./../images/SC04/bd-09985-768px.jpg 768w,
+  ./../images/SC04/bd-09985-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,8 +65,22 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - ... And this disgusting thing has also been uncensored:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-10005.jpg" />
- <img src="./../images/SC04/bd-10005.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-10005-1090px.jpg"
+  data-srcset="./../images/SC04/tv-10005-512px.jpg 512w,
+  ./../images/SC04/tv-10005-768px.jpg 768w,
+  ./../images/SC04/tv-10005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-10005-1090px.jpg"
+  data-srcset="./../images/SC04/bd-10005-512px.jpg 512w,
+  ./../images/SC04/bd-10005-768px.jpg 768w,
+  ./../images/SC04/bd-10005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -53,64 +95,190 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - I hope you came here today expecting to see a whole bunch of uncensored frames, because that's precisely what you will get:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-10075.jpg" />
- <img src="./../images/SC04/bd-10075.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-10075-1090px.jpg"
+  data-srcset="./../images/SC04/tv-10075-512px.jpg 512w,
+  ./../images/SC04/tv-10075-768px.jpg 768w,
+  ./../images/SC04/tv-10075-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-10075-1090px.jpg"
+  data-srcset="./../images/SC04/bd-10075-512px.jpg 512w,
+  ./../images/SC04/bd-10075-768px.jpg 768w,
+  ./../images/SC04/bd-10075-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-10135.jpg" />
- <img src="./../images/SC04/bd-10135.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-10135-1090px.jpg"
+  data-srcset="./../images/SC04/tv-10135-512px.jpg 512w,
+  ./../images/SC04/tv-10135-768px.jpg 768w,
+  ./../images/SC04/tv-10135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-10135-1090px.jpg"
+  data-srcset="./../images/SC04/bd-10135-512px.jpg 512w,
+  ./../images/SC04/bd-10135-768px.jpg 768w,
+  ./../images/SC04/bd-10135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-10255.jpg" />
- <img src="./../images/SC04/bd-10255.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-10255-1090px.jpg"
+  data-srcset="./../images/SC04/tv-10255-512px.jpg 512w,
+  ./../images/SC04/tv-10255-768px.jpg 768w,
+  ./../images/SC04/tv-10255-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-10255-1090px.jpg"
+  data-srcset="./../images/SC04/bd-10255-512px.jpg 512w,
+  ./../images/SC04/bd-10255-768px.jpg 768w,
+  ./../images/SC04/bd-10255-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-10279.jpg" />
- <img src="./../images/SC04/bd-10279.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-10279-1090px.jpg"
+  data-srcset="./../images/SC04/tv-10279-512px.jpg 512w,
+  ./../images/SC04/tv-10279-768px.jpg 768w,
+  ./../images/SC04/tv-10279-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-10279-1090px.jpg"
+  data-srcset="./../images/SC04/bd-10279-512px.jpg 512w,
+  ./../images/SC04/bd-10279-768px.jpg 768w,
+  ./../images/SC04/bd-10279-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-10280.jpg" />
- <img src="./../images/SC04/bd-10280.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-10280-1090px.jpg"
+  data-srcset="./../images/SC04/tv-10280-512px.jpg 512w,
+  ./../images/SC04/tv-10280-768px.jpg 768w,
+  ./../images/SC04/tv-10280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-10280-1090px.jpg"
+  data-srcset="./../images/SC04/bd-10280-512px.jpg 512w,
+  ./../images/SC04/bd-10280-768px.jpg 768w,
+  ./../images/SC04/bd-10280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-10390.jpg" />
- <img src="./../images/SC04/bd-10390.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-10390-1090px.jpg"
+  data-srcset="./../images/SC04/tv-10390-512px.jpg 512w,
+  ./../images/SC04/tv-10390-768px.jpg 768w,
+  ./../images/SC04/tv-10390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-10390-1090px.jpg"
+  data-srcset="./../images/SC04/bd-10390-512px.jpg 512w,
+  ./../images/SC04/bd-10390-768px.jpg 768w,
+  ./../images/SC04/bd-10390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-15408.jpg" />
- <img src="./../images/SC04/bd-15408.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-15408-1090px.jpg"
+  data-srcset="./../images/SC04/tv-15408-512px.jpg 512w,
+  ./../images/SC04/tv-15408-768px.jpg 768w,
+  ./../images/SC04/tv-15408-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-15408-1090px.jpg"
+  data-srcset="./../images/SC04/bd-15408-512px.jpg 512w,
+  ./../images/SC04/bd-15408-768px.jpg 768w,
+  ./../images/SC04/bd-15408-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-15440.jpg" />
- <img src="./../images/SC04/bd-15440.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-15440-1090px.jpg"
+  data-srcset="./../images/SC04/tv-15440-512px.jpg 512w,
+  ./../images/SC04/tv-15440-768px.jpg 768w,
+  ./../images/SC04/tv-15440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-15440-1090px.jpg"
+  data-srcset="./../images/SC04/bd-15440-512px.jpg 512w,
+  ./../images/SC04/bd-15440-768px.jpg 768w,
+  ./../images/SC04/bd-15440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-15480.jpg" />
- <img src="./../images/SC04/bd-15480.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-15480-1090px.jpg"
+  data-srcset="./../images/SC04/tv-15480-512px.jpg 512w,
+  ./../images/SC04/tv-15480-768px.jpg 768w,
+  ./../images/SC04/tv-15480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-15480-1090px.jpg"
+  data-srcset="./../images/SC04/bd-15480-512px.jpg 512w,
+  ./../images/SC04/bd-15480-768px.jpg 768w,
+  ./../images/SC04/bd-15480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -118,8 +286,22 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - This bit here has also been uncensored, and on top of that it no longer sports that heavy vignette along the edges:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-15855.jpg" />
- <img src="./../images/SC04/bd-15855.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-15855-1090px.jpg"
+  data-srcset="./../images/SC04/tv-15855-512px.jpg 512w,
+  ./../images/SC04/tv-15855-768px.jpg 768w,
+  ./../images/SC04/tv-15855-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-15855-1090px.jpg"
+  data-srcset="./../images/SC04/bd-15855-512px.jpg 512w,
+  ./../images/SC04/bd-15855-768px.jpg 768w,
+  ./../images/SC04/bd-15855-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -127,8 +309,22 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - While here, the same dude has been uncensored again, and he no longer has that heavy shadow on him:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-16160.jpg" />
- <img src="./../images/SC04/bd-16160.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-16160-1090px.jpg"
+  data-srcset="./../images/SC04/tv-16160-512px.jpg 512w,
+  ./../images/SC04/tv-16160-768px.jpg 768w,
+  ./../images/SC04/tv-16160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-16160-1090px.jpg"
+  data-srcset="./../images/SC04/bd-16160-512px.jpg 512w,
+  ./../images/SC04/bd-16160-768px.jpg 768w,
+  ./../images/SC04/bd-16160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -136,15 +332,43 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - This scene has much less motion blur along the edges, and the pilots' head are uncensored too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-17765.jpg" />
- <img src="./../images/SC04/bd-17765.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-17765-1090px.jpg"
+  data-srcset="./../images/SC04/tv-17765-512px.jpg 512w,
+  ./../images/SC04/tv-17765-768px.jpg 768w,
+  ./../images/SC04/tv-17765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-17765-1090px.jpg"
+  data-srcset="./../images/SC04/bd-17765-512px.jpg 512w,
+  ./../images/SC04/bd-17765-768px.jpg 768w,
+  ./../images/SC04/bd-17765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-17790.jpg" />
- <img src="./../images/SC04/bd-17790.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-17790-1090px.jpg"
+  data-srcset="./../images/SC04/tv-17790-512px.jpg 512w,
+  ./../images/SC04/tv-17790-768px.jpg 768w,
+  ./../images/SC04/tv-17790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-17790-1090px.jpg"
+  data-srcset="./../images/SC04/bd-17790-512px.jpg 512w,
+  ./../images/SC04/bd-17790-768px.jpg 768w,
+  ./../images/SC04/bd-17790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -152,36 +376,106 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - Are you ready for a second serving of gross uncensored things? OPEN UP:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-17795.jpg" />
- <img src="./../images/SC04/bd-17795.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-17795-1090px.jpg"
+  data-srcset="./../images/SC04/tv-17795-512px.jpg 512w,
+  ./../images/SC04/tv-17795-768px.jpg 768w,
+  ./../images/SC04/tv-17795-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-17795-1090px.jpg"
+  data-srcset="./../images/SC04/bd-17795-512px.jpg 512w,
+  ./../images/SC04/bd-17795-768px.jpg 768w,
+  ./../images/SC04/bd-17795-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-17825.jpg" />
- <img src="./../images/SC04/bd-17825.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-17825-1090px.jpg"
+  data-srcset="./../images/SC04/tv-17825-512px.jpg 512w,
+  ./../images/SC04/tv-17825-768px.jpg 768w,
+  ./../images/SC04/tv-17825-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-17825-1090px.jpg"
+  data-srcset="./../images/SC04/bd-17825-512px.jpg 512w,
+  ./../images/SC04/bd-17825-768px.jpg 768w,
+  ./../images/SC04/bd-17825-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-18350.jpg" />
- <img src="./../images/SC04/bd-18350.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-18350-1090px.jpg"
+  data-srcset="./../images/SC04/tv-18350-512px.jpg 512w,
+  ./../images/SC04/tv-18350-768px.jpg 768w,
+  ./../images/SC04/tv-18350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-18350-1090px.jpg"
+  data-srcset="./../images/SC04/bd-18350-512px.jpg 512w,
+  ./../images/SC04/bd-18350-768px.jpg 768w,
+  ./../images/SC04/bd-18350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-18380.jpg" />
- <img src="./../images/SC04/bd-18380.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-18380-1090px.jpg"
+  data-srcset="./../images/SC04/tv-18380-512px.jpg 512w,
+  ./../images/SC04/tv-18380-768px.jpg 768w,
+  ./../images/SC04/tv-18380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-18380-1090px.jpg"
+  data-srcset="./../images/SC04/bd-18380-512px.jpg 512w,
+  ./../images/SC04/bd-18380-768px.jpg 768w,
+  ./../images/SC04/bd-18380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-18435.jpg" />
- <img src="./../images/SC04/bd-18435.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-18435-1090px.jpg"
+  data-srcset="./../images/SC04/tv-18435-512px.jpg 512w,
+  ./../images/SC04/tv-18435-768px.jpg 768w,
+  ./../images/SC04/tv-18435-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-18435-1090px.jpg"
+  data-srcset="./../images/SC04/bd-18435-512px.jpg 512w,
+  ./../images/SC04/bd-18435-768px.jpg 768w,
+  ./../images/SC04/bd-18435-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -196,8 +490,22 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - Another quick uncensored bit here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-19190.jpg" />
- <img src="./../images/SC04/bd-19190.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-19190-1090px.jpg"
+  data-srcset="./../images/SC04/tv-19190-512px.jpg 512w,
+  ./../images/SC04/tv-19190-768px.jpg 768w,
+  ./../images/SC04/tv-19190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-19190-1090px.jpg"
+  data-srcset="./../images/SC04/bd-19190-512px.jpg 512w,
+  ./../images/SC04/bd-19190-768px.jpg 768w,
+  ./../images/SC04/bd-19190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -205,22 +513,64 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - And same here, and in addition to that some blood spurts have also been moved a fair bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-19200.jpg" />
- <img src="./../images/SC04/bd-19200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-19200-1090px.jpg"
+  data-srcset="./../images/SC04/tv-19200-512px.jpg 512w,
+  ./../images/SC04/tv-19200-768px.jpg 768w,
+  ./../images/SC04/tv-19200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-19200-1090px.jpg"
+  data-srcset="./../images/SC04/bd-19200-512px.jpg 512w,
+  ./../images/SC04/bd-19200-768px.jpg 768w,
+  ./../images/SC04/bd-19200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-19205.jpg" />
- <img src="./../images/SC04/bd-19205.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-19205-1090px.jpg"
+  data-srcset="./../images/SC04/tv-19205-512px.jpg 512w,
+  ./../images/SC04/tv-19205-768px.jpg 768w,
+  ./../images/SC04/tv-19205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-19205-1090px.jpg"
+  data-srcset="./../images/SC04/bd-19205-512px.jpg 512w,
+  ./../images/SC04/bd-19205-768px.jpg 768w,
+  ./../images/SC04/bd-19205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-19230.jpg" />
- <img src="./../images/SC04/bd-19230.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-19230-1090px.jpg"
+  data-srcset="./../images/SC04/tv-19230-512px.jpg 512w,
+  ./../images/SC04/tv-19230-768px.jpg 768w,
+  ./../images/SC04/tv-19230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-19230-1090px.jpg"
+  data-srcset="./../images/SC04/bd-19230-512px.jpg 512w,
+  ./../images/SC04/bd-19230-768px.jpg 768w,
+  ./../images/SC04/bd-19230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -228,15 +578,43 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - Have a last couple of uncensored frames, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-19565.jpg" />
- <img src="./../images/SC04/bd-19565.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-19565-1090px.jpg"
+  data-srcset="./../images/SC04/tv-19565-512px.jpg 512w,
+  ./../images/SC04/tv-19565-768px.jpg 768w,
+  ./../images/SC04/tv-19565-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-19565-1090px.jpg"
+  data-srcset="./../images/SC04/bd-19565-512px.jpg 512w,
+  ./../images/SC04/bd-19565-768px.jpg 768w,
+  ./../images/SC04/bd-19565-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-19730.jpg" />
- <img src="./../images/SC04/bd-19730.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-19730-1090px.jpg"
+  data-srcset="./../images/SC04/tv-19730-512px.jpg 512w,
+  ./../images/SC04/tv-19730-768px.jpg 768w,
+  ./../images/SC04/tv-19730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-19730-1090px.jpg"
+  data-srcset="./../images/SC04/bd-19730-512px.jpg 512w,
+  ./../images/SC04/bd-19730-768px.jpg 768w,
+  ./../images/SC04/bd-19730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -244,8 +622,22 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - Let's move on from all that blood and carnage to this peaceful scene, in which a very very tiny line near Joseph's right ear is a little thicker. Wow!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-23240.jpg" />
- <img src="./../images/SC04/bd-23240.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-23240-1090px.jpg"
+  data-srcset="./../images/SC04/tv-23240-512px.jpg 512w,
+  ./../images/SC04/tv-23240-768px.jpg 768w,
+  ./../images/SC04/tv-23240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-23240-1090px.jpg"
+  data-srcset="./../images/SC04/bd-23240-512px.jpg 512w,
+  ./../images/SC04/bd-23240-768px.jpg 768w,
+  ./../images/SC04/bd-23240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -253,15 +645,43 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - ARE YOU READY FOR OUR FIRST BIG STARDUST CRUSADERS REDRAW, BOIS? HERE, HAVE A SPOONFUL:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-23245.jpg" />
- <img src="./../images/SC04/bd-23245.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-23245-1090px.jpg"
+  data-srcset="./../images/SC04/tv-23245-512px.jpg 512w,
+  ./../images/SC04/tv-23245-768px.jpg 768w,
+  ./../images/SC04/tv-23245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-23245-1090px.jpg"
+  data-srcset="./../images/SC04/bd-23245-512px.jpg 512w,
+  ./../images/SC04/bd-23245-768px.jpg 768w,
+  ./../images/SC04/bd-23245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-23430.jpg" />
- <img src="./../images/SC04/bd-23430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-23430-1090px.jpg"
+  data-srcset="./../images/SC04/tv-23430-512px.jpg 512w,
+  ./../images/SC04/tv-23430-768px.jpg 768w,
+  ./../images/SC04/tv-23430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-23430-1090px.jpg"
+  data-srcset="./../images/SC04/bd-23430-512px.jpg 512w,
+  ./../images/SC04/bd-23430-768px.jpg 768w,
+  ./../images/SC04/bd-23430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -269,8 +689,22 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - Phew! Here, Joseph's beard has _one_ more line:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-24295.jpg" />
- <img src="./../images/SC04/bd-24295.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-24295-1090px.jpg"
+  data-srcset="./../images/SC04/tv-24295-512px.jpg 512w,
+  ./../images/SC04/tv-24295-768px.jpg 768w,
+  ./../images/SC04/tv-24295-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-24295-1090px.jpg"
+  data-srcset="./../images/SC04/bd-24295-512px.jpg 512w,
+  ./../images/SC04/bd-24295-768px.jpg 768w,
+  ./../images/SC04/bd-24295-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -278,29 +712,85 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - Joseph's face has been redrawn once again, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-24840.jpg" />
- <img src="./../images/SC04/bd-24840.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-24840-1090px.jpg"
+  data-srcset="./../images/SC04/tv-24840-512px.jpg 512w,
+  ./../images/SC04/tv-24840-768px.jpg 768w,
+  ./../images/SC04/tv-24840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-24840-1090px.jpg"
+  data-srcset="./../images/SC04/bd-24840-512px.jpg 512w,
+  ./../images/SC04/bd-24840-768px.jpg 768w,
+  ./../images/SC04/bd-24840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-24865.jpg" />
- <img src="./../images/SC04/bd-24865.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-24865-1090px.jpg"
+  data-srcset="./../images/SC04/tv-24865-512px.jpg 512w,
+  ./../images/SC04/tv-24865-768px.jpg 768w,
+  ./../images/SC04/tv-24865-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-24865-1090px.jpg"
+  data-srcset="./../images/SC04/bd-24865-512px.jpg 512w,
+  ./../images/SC04/bd-24865-768px.jpg 768w,
+  ./../images/SC04/bd-24865-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-24915.jpg" />
- <img src="./../images/SC04/bd-24915.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-24915-1090px.jpg"
+  data-srcset="./../images/SC04/tv-24915-512px.jpg 512w,
+  ./../images/SC04/tv-24915-768px.jpg 768w,
+  ./../images/SC04/tv-24915-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-24915-1090px.jpg"
+  data-srcset="./../images/SC04/bd-24915-512px.jpg 512w,
+  ./../images/SC04/bd-24915-768px.jpg 768w,
+  ./../images/SC04/bd-24915-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-24960.jpg" />
- <img src="./../images/SC04/bd-24960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-24960-1090px.jpg"
+  data-srcset="./../images/SC04/tv-24960-512px.jpg 512w,
+  ./../images/SC04/tv-24960-768px.jpg 768w,
+  ./../images/SC04/tv-24960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-24960-1090px.jpg"
+  data-srcset="./../images/SC04/bd-24960-512px.jpg 512w,
+  ./../images/SC04/bd-24960-768px.jpg 768w,
+  ./../images/SC04/bd-24960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -308,15 +798,43 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - And once again here, Joseph shows us that he truly was Battle Tendency's protagonist and King of Redraws! The camera has also been moved a little bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-26286.jpg" />
- <img src="./../images/SC04/bd-26286.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-26286-1090px.jpg"
+  data-srcset="./../images/SC04/tv-26286-512px.jpg 512w,
+  ./../images/SC04/tv-26286-768px.jpg 768w,
+  ./../images/SC04/tv-26286-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-26286-1090px.jpg"
+  data-srcset="./../images/SC04/bd-26286-512px.jpg 512w,
+  ./../images/SC04/bd-26286-768px.jpg 768w,
+  ./../images/SC04/bd-26286-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-26460.jpg" />
- <img src="./../images/SC04/bd-26460.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-26460-1090px.jpg"
+  data-srcset="./../images/SC04/tv-26460-512px.jpg 512w,
+  ./../images/SC04/tv-26460-768px.jpg 768w,
+  ./../images/SC04/tv-26460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-26460-1090px.jpg"
+  data-srcset="./../images/SC04/bd-26460-512px.jpg 512w,
+  ./../images/SC04/bd-26460-768px.jpg 768w,
+  ./../images/SC04/bd-26460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -324,8 +842,22 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - In this bit here, the pronunciations have been replaced with dots, and in two places the hanzi 雛 has been replaced with 雞:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-28120.jpg" />
- <img src="./../images/SC04/bd-28120.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-28120-1090px.jpg"
+  data-srcset="./../images/SC04/tv-28120-512px.jpg 512w,
+  ./../images/SC04/tv-28120-768px.jpg 768w,
+  ./../images/SC04/tv-28120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-28120-1090px.jpg"
+  data-srcset="./../images/SC04/bd-28120-512px.jpg 512w,
+  ./../images/SC04/bd-28120-768px.jpg 768w,
+  ./../images/SC04/bd-28120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -333,8 +865,22 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - In a couple of frames from the TV version, Polnareff's upper lip was missing its texture; this has been fixed in the BD:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-30128.jpg" />
- <img src="./../images/SC04/bd-30128.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-30128-1090px.jpg"
+  data-srcset="./../images/SC04/tv-30128-512px.jpg 512w,
+  ./../images/SC04/tv-30128-768px.jpg 768w,
+  ./../images/SC04/tv-30128-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-30128-1090px.jpg"
+  data-srcset="./../images/SC04/bd-30128-512px.jpg 512w,
+  ./../images/SC04/bd-30128-768px.jpg 768w,
+  ./../images/SC04/bd-30128-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -342,8 +888,22 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - A couple of frames have been made darker and less washed-out in the BD; I can't show you the animation because it's literally four frames long:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-30413.jpg" />
- <img src="./../images/SC04/bd-30413.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-30413-1090px.jpg"
+  data-srcset="./../images/SC04/tv-30413-512px.jpg 512w,
+  ./../images/SC04/tv-30413-768px.jpg 768w,
+  ./../images/SC04/tv-30413-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-30413-1090px.jpg"
+  data-srcset="./../images/SC04/bd-30413-512px.jpg 512w,
+  ./../images/SC04/bd-30413-768px.jpg 768w,
+  ./../images/SC04/bd-30413-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -358,8 +918,22 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 - Here, Gray Fly's voice actor's name has been corrected: 長克巳 (Chō Katsumi)'s last character was mistakenly written as 己 in the TV version, and has been corrected to 巳 in the BD:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC04/tv-31930.jpg" />
- <img src="./../images/SC04/bd-31930.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/tv-31930-1090px.jpg"
+  data-srcset="./../images/SC04/tv-31930-512px.jpg 512w,
+  ./../images/SC04/tv-31930-768px.jpg 768w,
+  ./../images/SC04/tv-31930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC04/bd-31930-1090px.jpg"
+  data-srcset="./../images/SC04/bd-31930-512px.jpg 512w,
+  ./../images/SC04/bd-31930-768px.jpg 768w,
+  ./../images/SC04/bd-31930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

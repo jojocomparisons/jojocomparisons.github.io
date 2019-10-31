@@ -30,15 +30,43 @@ Let's dive in!
 - Here, some bits of Joseph have been shaded more:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC13/tv-10200.jpg" />
- <img src="./../images/SC13/bd-10200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC13/tv-10200-1090px.jpg"
+  data-srcset="./../images/SC13/tv-10200-512px.jpg 512w,
+  ./../images/SC13/tv-10200-768px.jpg 768w,
+  ./../images/SC13/tv-10200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC13/bd-10200-1090px.jpg"
+  data-srcset="./../images/SC13/bd-10200-512px.jpg 512w,
+  ./../images/SC13/bd-10200-768px.jpg 768w,
+  ./../images/SC13/bd-10200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC13/tv-10320.jpg" />
- <img src="./../images/SC13/bd-10320.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC13/tv-10320-1090px.jpg"
+  data-srcset="./../images/SC13/tv-10320-512px.jpg 512w,
+  ./../images/SC13/tv-10320-768px.jpg 768w,
+  ./../images/SC13/tv-10320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC13/bd-10320-1090px.jpg"
+  data-srcset="./../images/SC13/bd-10320-512px.jpg 512w,
+  ./../images/SC13/bd-10320-768px.jpg 768w,
+  ./../images/SC13/bd-10320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -46,8 +74,22 @@ Let's dive in!
 - And here, that bald guy's eye and back have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC13/tv-11270.jpg" />
- <img src="./../images/SC13/bd-11270.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC13/tv-11270-1090px.jpg"
+  data-srcset="./../images/SC13/tv-11270-512px.jpg 512w,
+  ./../images/SC13/tv-11270-768px.jpg 768w,
+  ./../images/SC13/tv-11270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC13/bd-11270-1090px.jpg"
+  data-srcset="./../images/SC13/bd-11270-512px.jpg 512w,
+  ./../images/SC13/bd-11270-768px.jpg 768w,
+  ./../images/SC13/bd-11270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -55,8 +97,22 @@ Let's dive in!
 - And, when they turn around, all three have received a little makeover (that dude on the left has been particularly lucky):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC13/tv-11290.jpg" />
- <img src="./../images/SC13/bd-11290.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC13/tv-11290-1090px.jpg"
+  data-srcset="./../images/SC13/tv-11290-512px.jpg 512w,
+  ./../images/SC13/tv-11290-768px.jpg 768w,
+  ./../images/SC13/tv-11290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC13/bd-11290-1090px.jpg"
+  data-srcset="./../images/SC13/bd-11290-512px.jpg 512w,
+  ./../images/SC13/bd-11290-768px.jpg 768w,
+  ./../images/SC13/bd-11290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -64,8 +120,22 @@ Let's dive in!
 - Everything has been slightly retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC13/tv-13205.jpg" />
- <img src="./../images/SC13/bd-13205.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC13/tv-13205-1090px.jpg"
+  data-srcset="./../images/SC13/tv-13205-512px.jpg 512w,
+  ./../images/SC13/tv-13205-768px.jpg 768w,
+  ./../images/SC13/tv-13205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC13/bd-13205-1090px.jpg"
+  data-srcset="./../images/SC13/bd-13205-512px.jpg 512w,
+  ./../images/SC13/bd-13205-768px.jpg 768w,
+  ./../images/SC13/bd-13205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -73,8 +143,22 @@ Let's dive in!
 - Polnareff's face is looking much better here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC13/tv-17660.jpg" />
- <img src="./../images/SC13/bd-17660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC13/tv-17660-1090px.jpg"
+  data-srcset="./../images/SC13/tv-17660-512px.jpg 512w,
+  ./../images/SC13/tv-17660-768px.jpg 768w,
+  ./../images/SC13/tv-17660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC13/bd-17660-1090px.jpg"
+  data-srcset="./../images/SC13/bd-17660-512px.jpg 512w,
+  ./../images/SC13/bd-17660-768px.jpg 768w,
+  ./../images/SC13/bd-17660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -82,8 +166,22 @@ Let's dive in!
 - ...And the rest of his body as well, later:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC13/tv-17890.jpg" />
- <img src="./../images/SC13/bd-17890.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC13/tv-17890-1090px.jpg"
+  data-srcset="./../images/SC13/tv-17890-512px.jpg 512w,
+  ./../images/SC13/tv-17890-768px.jpg 768w,
+  ./../images/SC13/tv-17890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC13/bd-17890-1090px.jpg"
+  data-srcset="./../images/SC13/bd-17890-512px.jpg 512w,
+  ./../images/SC13/bd-17890-768px.jpg 768w,
+  ./../images/SC13/bd-17890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -108,8 +206,22 @@ Let's dive in!
 - Here, Jotaro's left shoulder-strap... thing has been re-coloured, and most lines are a little thicker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC13/tv-26590.jpg" />
- <img src="./../images/SC13/bd-26590.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC13/tv-26590-1090px.jpg"
+  data-srcset="./../images/SC13/tv-26590-512px.jpg 512w,
+  ./../images/SC13/tv-26590-768px.jpg 768w,
+  ./../images/SC13/tv-26590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC13/bd-26590-1090px.jpg"
+  data-srcset="./../images/SC13/bd-26590-512px.jpg 512w,
+  ./../images/SC13/bd-26590-768px.jpg 768w,
+  ./../images/SC13/bd-26590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

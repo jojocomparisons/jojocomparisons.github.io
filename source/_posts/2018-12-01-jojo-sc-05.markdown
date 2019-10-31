@@ -45,8 +45,22 @@ Alright, let's begin...
 - Alright, let's take a little break from all that BS (Brighter 'n' Sharper)! Here, Polnareff's mouth flap is slightly different, resulting in a couple of frames where his mouth is a little more closed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC05/tv-09817.jpg" />
- <img src="./../images/SC05/bd-09817.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/tv-09817-1090px.jpg"
+  data-srcset="./../images/SC05/tv-09817-512px.jpg 512w,
+  ./../images/SC05/tv-09817-768px.jpg 768w,
+  ./../images/SC05/tv-09817-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/bd-09817-1090px.jpg"
+  data-srcset="./../images/SC05/bd-09817-512px.jpg 512w,
+  ./../images/SC05/bd-09817-768px.jpg 768w,
+  ./../images/SC05/bd-09817-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -59,8 +73,22 @@ Alright, let's begin...
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC05/tv-09960.jpg" />
- <img src="./../images/SC05/bd-09960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/tv-09960-1090px.jpg"
+  data-srcset="./../images/SC05/tv-09960-512px.jpg 512w,
+  ./../images/SC05/tv-09960-768px.jpg 768w,
+  ./../images/SC05/tv-09960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/bd-09960-1090px.jpg"
+  data-srcset="./../images/SC05/bd-09960-512px.jpg 512w,
+  ./../images/SC05/bd-09960-768px.jpg 768w,
+  ./../images/SC05/bd-09960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -68,22 +96,64 @@ Alright, let's begin...
 - Both Polpol and Silver Chariot have been retouched in this bit here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC05/tv-10960.jpg" />
- <img src="./../images/SC05/bd-10960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/tv-10960-1090px.jpg"
+  data-srcset="./../images/SC05/tv-10960-512px.jpg 512w,
+  ./../images/SC05/tv-10960-768px.jpg 768w,
+  ./../images/SC05/tv-10960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/bd-10960-1090px.jpg"
+  data-srcset="./../images/SC05/bd-10960-512px.jpg 512w,
+  ./../images/SC05/bd-10960-768px.jpg 768w,
+  ./../images/SC05/bd-10960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC05/tv-10965.jpg" />
- <img src="./../images/SC05/bd-10965.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/tv-10965-1090px.jpg"
+  data-srcset="./../images/SC05/tv-10965-512px.jpg 512w,
+  ./../images/SC05/tv-10965-768px.jpg 768w,
+  ./../images/SC05/tv-10965-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/bd-10965-1090px.jpg"
+  data-srcset="./../images/SC05/bd-10965-512px.jpg 512w,
+  ./../images/SC05/bd-10965-768px.jpg 768w,
+  ./../images/SC05/bd-10965-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC05/tv-10980.jpg" />
- <img src="./../images/SC05/bd-10980.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/tv-10980-1090px.jpg"
+  data-srcset="./../images/SC05/tv-10980-512px.jpg 512w,
+  ./../images/SC05/tv-10980-768px.jpg 768w,
+  ./../images/SC05/tv-10980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/bd-10980-1090px.jpg"
+  data-srcset="./../images/SC05/bd-10980-512px.jpg 512w,
+  ./../images/SC05/bd-10980-768px.jpg 768w,
+  ./../images/SC05/bd-10980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -98,8 +168,22 @@ Alright, let's begin...
 - A teeny tiny bit on Polnareff's brow has been retouched, here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC05/tv-13665.jpg" />
- <img src="./../images/SC05/bd-13665.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/tv-13665-1090px.jpg"
+  data-srcset="./../images/SC05/tv-13665-512px.jpg 512w,
+  ./../images/SC05/tv-13665-768px.jpg 768w,
+  ./../images/SC05/tv-13665-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/bd-13665-1090px.jpg"
+  data-srcset="./../images/SC05/bd-13665-512px.jpg 512w,
+  ./../images/SC05/bd-13665-768px.jpg 768w,
+  ./../images/SC05/bd-13665-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -129,8 +213,22 @@ Alright, let's begin...
 - These couple of frames are, instead... darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC05/tv-19028.jpg" />
- <img src="./../images/SC05/bd-19028.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/tv-19028-1090px.jpg"
+  data-srcset="./../images/SC05/tv-19028-512px.jpg 512w,
+  ./../images/SC05/tv-19028-768px.jpg 768w,
+  ./../images/SC05/tv-19028-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/bd-19028-1090px.jpg"
+  data-srcset="./../images/SC05/bd-19028-512px.jpg 512w,
+  ./../images/SC05/bd-19028-768px.jpg 768w,
+  ./../images/SC05/bd-19028-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -145,8 +243,22 @@ Alright, let's begin...
 - Phew! Here, Joseph has received a bunch of retouches here and there:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC05/tv-24465.jpg" />
- <img src="./../images/SC05/bd-24465.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/tv-24465-1090px.jpg"
+  data-srcset="./../images/SC05/tv-24465-512px.jpg 512w,
+  ./../images/SC05/tv-24465-768px.jpg 768w,
+  ./../images/SC05/tv-24465-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/bd-24465-1090px.jpg"
+  data-srcset="./../images/SC05/bd-24465-512px.jpg 512w,
+  ./../images/SC05/bd-24465-768px.jpg 768w,
+  ./../images/SC05/bd-24465-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -154,8 +266,22 @@ Alright, let's begin...
 - In this tragic flashback about the man with two right hands, the rain effect is different around his left hand (probably precisely to make the fact that it's actually another second right hand easier to see):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC05/tv-25500.jpg" />
- <img src="./../images/SC05/bd-25500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/tv-25500-1090px.jpg"
+  data-srcset="./../images/SC05/tv-25500-512px.jpg 512w,
+  ./../images/SC05/tv-25500-768px.jpg 768w,
+  ./../images/SC05/tv-25500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/bd-25500-1090px.jpg"
+  data-srcset="./../images/SC05/bd-25500-512px.jpg 512w,
+  ./../images/SC05/bd-25500-768px.jpg 768w,
+  ./../images/SC05/bd-25500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -163,8 +289,22 @@ Alright, let's begin...
 - Alright, let's tackle some credit differences! Here, on the left, the first name (Animator 片山貴仁 - Katayama Takahito) has been removed, the three names below that have been moved up and there's a new name of the bottom (ソエジマヤスフミ - Soejima Yasufumi):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC05/tv-32060.jpg" />
- <img src="./../images/SC05/bd-32060.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/tv-32060-1090px.jpg"
+  data-srcset="./../images/SC05/tv-32060-512px.jpg 512w,
+  ./../images/SC05/tv-32060-768px.jpg 768w,
+  ./../images/SC05/tv-32060-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/bd-32060-1090px.jpg"
+  data-srcset="./../images/SC05/bd-32060-512px.jpg 512w,
+  ./../images/SC05/bd-32060-768px.jpg 768w,
+  ./../images/SC05/bd-32060-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -172,8 +312,22 @@ Alright, let's begin...
 - Here, a name on the right (Animator 浜友里恵 - Hama Yurie) has been removed, and the rest has been moved around accordingly:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC05/tv-32250.jpg" />
- <img src="./../images/SC05/bd-32250.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/tv-32250-1090px.jpg"
+  data-srcset="./../images/SC05/tv-32250-512px.jpg 512w,
+  ./../images/SC05/tv-32250-768px.jpg 768w,
+  ./../images/SC05/tv-32250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/bd-32250-1090px.jpg"
+  data-srcset="./../images/SC05/bd-32250-512px.jpg 512w,
+  ./../images/SC05/bd-32250-768px.jpg 768w,
+  ./../images/SC05/bd-32250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -181,8 +335,22 @@ Alright, let's begin...
 - The "3D Modeling" section has once again been removed here (as it was in episode #01):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC05/tv-32585.jpg" />
- <img src="./../images/SC05/bd-32585.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/tv-32585-1090px.jpg"
+  data-srcset="./../images/SC05/tv-32585-512px.jpg 512w,
+  ./../images/SC05/tv-32585-768px.jpg 768w,
+  ./../images/SC05/tv-32585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC05/bd-32585-1090px.jpg"
+  data-srcset="./../images/SC05/bd-32585-512px.jpg 512w,
+  ./../images/SC05/bd-32585-768px.jpg 768w,
+  ./../images/SC05/bd-32585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

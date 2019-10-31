@@ -23,8 +23,22 @@ Let's go!
 - Today's first difference is this bit where Jotaro, Kakyoin and both deckchairs have been retouched in several places. Kakyoin's also holding the book differently:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC06/tv-04010.jpg" />
- <img src="./../images/SC06/bd-04010.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/tv-04010-1090px.jpg"
+  data-srcset="./../images/SC06/tv-04010-512px.jpg 512w,
+  ./../images/SC06/tv-04010-768px.jpg 768w,
+  ./../images/SC06/tv-04010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/bd-04010-1090px.jpg"
+  data-srcset="./../images/SC06/bd-04010-512px.jpg 512w,
+  ./../images/SC06/bd-04010-768px.jpg 768w,
+  ./../images/SC06/bd-04010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,22 +51,64 @@ Let's go!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC06/tv-08604.jpg" />
- <img src="./../images/SC06/bd-08604.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/tv-08604-1090px.jpg"
+  data-srcset="./../images/SC06/tv-08604-512px.jpg 512w,
+  ./../images/SC06/tv-08604-768px.jpg 768w,
+  ./../images/SC06/tv-08604-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/bd-08604-1090px.jpg"
+  data-srcset="./../images/SC06/bd-08604-512px.jpg 512w,
+  ./../images/SC06/bd-08604-768px.jpg 768w,
+  ./../images/SC06/bd-08604-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC06/tv-08605.jpg" />
- <img src="./../images/SC06/bd-08605.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/tv-08605-1090px.jpg"
+  data-srcset="./../images/SC06/tv-08605-512px.jpg 512w,
+  ./../images/SC06/tv-08605-768px.jpg 768w,
+  ./../images/SC06/tv-08605-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/bd-08605-1090px.jpg"
+  data-srcset="./../images/SC06/bd-08605-512px.jpg 512w,
+  ./../images/SC06/bd-08605-768px.jpg 768w,
+  ./../images/SC06/bd-08605-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC06/tv-08650.jpg" />
- <img src="./../images/SC06/bd-08650.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/tv-08650-1090px.jpg"
+  data-srcset="./../images/SC06/tv-08650-512px.jpg 512w,
+  ./../images/SC06/tv-08650-768px.jpg 768w,
+  ./../images/SC06/tv-08650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/bd-08650-1090px.jpg"
+  data-srcset="./../images/SC06/bd-08650-512px.jpg 512w,
+  ./../images/SC06/bd-08650-768px.jpg 768w,
+  ./../images/SC06/bd-08650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -60,15 +116,43 @@ Let's go!
 - HEY, JOTARO!!! YOU CAN'T DO _THAT_ ON NATIONAL TELEVISION!!!!!!!!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC06/tv-11710.jpg" />
- <img src="./../images/SC06/bd-11710.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/tv-11710-1090px.jpg"
+  data-srcset="./../images/SC06/tv-11710-512px.jpg 512w,
+  ./../images/SC06/tv-11710-768px.jpg 768w,
+  ./../images/SC06/tv-11710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/bd-11710-1090px.jpg"
+  data-srcset="./../images/SC06/bd-11710-512px.jpg 512w,
+  ./../images/SC06/bd-11710-768px.jpg 768w,
+  ./../images/SC06/bd-11710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC06/tv-11755.jpg" />
- <img src="./../images/SC06/bd-11755.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/tv-11755-1090px.jpg"
+  data-srcset="./../images/SC06/tv-11755-512px.jpg 512w,
+  ./../images/SC06/tv-11755-768px.jpg 768w,
+  ./../images/SC06/tv-11755-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/bd-11755-1090px.jpg"
+  data-srcset="./../images/SC06/bd-11755-512px.jpg 512w,
+  ./../images/SC06/bd-11755-768px.jpg 768w,
+  ./../images/SC06/bd-11755-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -76,8 +160,22 @@ Let's go!
 - The world's stupidest censoring has been removed here as well, and the overall shading is also a little different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC06/tv-12030.jpg" />
- <img src="./../images/SC06/bd-12030.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/tv-12030-1090px.jpg"
+  data-srcset="./../images/SC06/tv-12030-512px.jpg 512w,
+  ./../images/SC06/tv-12030-768px.jpg 768w,
+  ./../images/SC06/tv-12030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/bd-12030-1090px.jpg"
+  data-srcset="./../images/SC06/bd-12030-512px.jpg 512w,
+  ./../images/SC06/bd-12030-768px.jpg 768w,
+  ./../images/SC06/bd-12030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -85,8 +183,22 @@ Let's go!
 - This is a _christian broadcast_, Jotaro:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC06/tv-12638.jpg" />
- <img src="./../images/SC06/bd-12638.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/tv-12638-1090px.jpg"
+  data-srcset="./../images/SC06/tv-12638-512px.jpg 512w,
+  ./../images/SC06/tv-12638-768px.jpg 768w,
+  ./../images/SC06/tv-12638-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/bd-12638-1090px.jpg"
+  data-srcset="./../images/SC06/bd-12638-512px.jpg 512w,
+  ./../images/SC06/bd-12638-768px.jpg 768w,
+  ./../images/SC06/bd-12638-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -101,8 +213,22 @@ Let's go!
 - Here our Cool Squad is sporting some thicker lines and some retouched details here and there (especially Polnareff, who wasn't looking so hot in the TV version):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC06/tv-19420.jpg" />
- <img src="./../images/SC06/bd-19420.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/tv-19420-1090px.jpg"
+  data-srcset="./../images/SC06/tv-19420-512px.jpg 512w,
+  ./../images/SC06/tv-19420-768px.jpg 768w,
+  ./../images/SC06/tv-19420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/bd-19420-1090px.jpg"
+  data-srcset="./../images/SC06/bd-19420-512px.jpg 512w,
+  ./../images/SC06/bd-19420-768px.jpg 768w,
+  ./../images/SC06/bd-19420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -110,8 +236,22 @@ Let's go!
 - Ok, this... This I do not understand. Polnareff has been retouched here, and his hand now has... six fingers...? WHY, DAVID?:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC06/tv-19745.jpg" />
- <img src="./../images/SC06/bd-19745.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/tv-19745-1090px.jpg"
+  data-srcset="./../images/SC06/tv-19745-512px.jpg 512w,
+  ./../images/SC06/tv-19745-768px.jpg 768w,
+  ./../images/SC06/tv-19745-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/bd-19745-1090px.jpg"
+  data-srcset="./../images/SC06/bd-19745-512px.jpg 512w,
+  ./../images/SC06/bd-19745-768px.jpg 768w,
+  ./../images/SC06/bd-19745-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -119,15 +259,43 @@ Let's go!
 - Grandpappy Joseph has received a fresh coat of paint here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC06/tv-19855.jpg" />
- <img src="./../images/SC06/bd-19855.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/tv-19855-1090px.jpg"
+  data-srcset="./../images/SC06/tv-19855-512px.jpg 512w,
+  ./../images/SC06/tv-19855-768px.jpg 768w,
+  ./../images/SC06/tv-19855-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/bd-19855-1090px.jpg"
+  data-srcset="./../images/SC06/bd-19855-512px.jpg 512w,
+  ./../images/SC06/bd-19855-768px.jpg 768w,
+  ./../images/SC06/bd-19855-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC06/tv-19945.jpg" />
- <img src="./../images/SC06/bd-19945.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/tv-19945-1090px.jpg"
+  data-srcset="./../images/SC06/tv-19945-512px.jpg 512w,
+  ./../images/SC06/tv-19945-768px.jpg 768w,
+  ./../images/SC06/tv-19945-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/bd-19945-1090px.jpg"
+  data-srcset="./../images/SC06/bd-19945-512px.jpg 512w,
+  ./../images/SC06/bd-19945-768px.jpg 768w,
+  ./../images/SC06/bd-19945-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -142,8 +310,22 @@ Let's go!
 - This other explosion, instead, is a little darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC06/tv-29490.jpg" />
- <img src="./../images/SC06/bd-29490.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/tv-29490-1090px.jpg"
+  data-srcset="./../images/SC06/tv-29490-512px.jpg 512w,
+  ./../images/SC06/tv-29490-768px.jpg 768w,
+  ./../images/SC06/tv-29490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/bd-29490-1090px.jpg"
+  data-srcset="./../images/SC06/bd-29490-512px.jpg 512w,
+  ./../images/SC06/bd-29490-768px.jpg 768w,
+  ./../images/SC06/bd-29490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -151,8 +333,22 @@ Let's go!
 - Let's get to the credits, peeps! You and me! Here, the two bottom names on the left have been spaced out a little more evenly:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC06/tv-32021.jpg" />
- <img src="./../images/SC06/bd-32021.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/tv-32021-1090px.jpg"
+  data-srcset="./../images/SC06/tv-32021-512px.jpg 512w,
+  ./../images/SC06/tv-32021-768px.jpg 768w,
+  ./../images/SC06/tv-32021-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/bd-32021-1090px.jpg"
+  data-srcset="./../images/SC06/bd-32021-512px.jpg 512w,
+  ./../images/SC06/bd-32021-768px.jpg 768w,
+  ./../images/SC06/bd-32021-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -160,8 +356,22 @@ Let's go!
 - And here, the two columns have been incorporated into a single one and the section デジタル動画 ("Digital Video") has been added in the middle:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC06/tv-32300.jpg" />
- <img src="./../images/SC06/bd-32300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/tv-32300-1090px.jpg"
+  data-srcset="./../images/SC06/tv-32300-512px.jpg 512w,
+  ./../images/SC06/tv-32300-768px.jpg 768w,
+  ./../images/SC06/tv-32300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC06/bd-32300-1090px.jpg"
+  data-srcset="./../images/SC06/bd-32300-512px.jpg 512w,
+  ./../images/SC06/bd-32300-768px.jpg 768w,
+  ./../images/SC06/bd-32300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

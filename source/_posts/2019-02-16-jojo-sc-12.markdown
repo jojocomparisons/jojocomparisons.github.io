@@ -19,8 +19,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - Today's first thing is this bit here. Enya's wounds now look like proper holes, and her right cheek no longer looks like it's blushing:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-02020.jpg" />
- <img src="./../images/SC12/bd-02020.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-02020-1090px.jpg"
+  data-srcset="./../images/SC12/tv-02020-512px.jpg 512w,
+  ./../images/SC12/tv-02020-768px.jpg 768w,
+  ./../images/SC12/tv-02020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-02020-1090px.jpg"
+  data-srcset="./../images/SC12/bd-02020-512px.jpg 512w,
+  ./../images/SC12/bd-02020-768px.jpg 768w,
+  ./../images/SC12/bd-02020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -28,8 +42,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - Let's move on to this sequence of Enya running, which has been changed in a few different ways. First off, the bangle (_ooh weeh ooh_) on her left wrist has been detailed a little better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-02047.jpg" />
- <img src="./../images/SC12/bd-02047.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-02047-1090px.jpg"
+  data-srcset="./../images/SC12/tv-02047-512px.jpg 512w,
+  ./../images/SC12/tv-02047-768px.jpg 768w,
+  ./../images/SC12/tv-02047-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-02047-1090px.jpg"
+  data-srcset="./../images/SC12/bd-02047-512px.jpg 512w,
+  ./../images/SC12/bd-02047-768px.jpg 768w,
+  ./../images/SC12/bd-02047-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,15 +65,43 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - Here, they drew some blood on her left hand:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-02048.jpg" />
- <img src="./../images/SC12/bd-02048.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-02048-1090px.jpg"
+  data-srcset="./../images/SC12/tv-02048-512px.jpg 512w,
+  ./../images/SC12/tv-02048-768px.jpg 768w,
+  ./../images/SC12/tv-02048-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-02048-1090px.jpg"
+  data-srcset="./../images/SC12/bd-02048-512px.jpg 512w,
+  ./../images/SC12/bd-02048-768px.jpg 768w,
+  ./../images/SC12/bd-02048-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-02053.jpg" />
- <img src="./../images/SC12/bd-02053.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-02053-1090px.jpg"
+  data-srcset="./../images/SC12/tv-02053-512px.jpg 512w,
+  ./../images/SC12/tv-02053-768px.jpg 768w,
+  ./../images/SC12/tv-02053-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-02053-1090px.jpg"
+  data-srcset="./../images/SC12/bd-02053-512px.jpg 512w,
+  ./../images/SC12/bd-02053-768px.jpg 768w,
+  ./../images/SC12/bd-02053-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -53,8 +109,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - Her left hand has been turned around here (and she now correctly has two right hands):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-02055.jpg" />
- <img src="./../images/SC12/bd-02055.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-02055-1090px.jpg"
+  data-srcset="./../images/SC12/tv-02055-512px.jpg 512w,
+  ./../images/SC12/tv-02055-768px.jpg 768w,
+  ./../images/SC12/tv-02055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-02055-1090px.jpg"
+  data-srcset="./../images/SC12/bd-02055-512px.jpg 512w,
+  ./../images/SC12/bd-02055-768px.jpg 768w,
+  ./../images/SC12/bd-02055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -62,8 +132,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - Her thumb and nails have been drawn on the left hand here, and the blood is back. On top of that, there is a tiny bit of shading near the sleeve:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-02060.jpg" />
- <img src="./../images/SC12/bd-02060.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-02060-1090px.jpg"
+  data-srcset="./../images/SC12/tv-02060-512px.jpg 512w,
+  ./../images/SC12/tv-02060-768px.jpg 768w,
+  ./../images/SC12/tv-02060-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-02060-1090px.jpg"
+  data-srcset="./../images/SC12/bd-02060-512px.jpg 512w,
+  ./../images/SC12/bd-02060-768px.jpg 768w,
+  ./../images/SC12/bd-02060-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -71,8 +155,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - The hand is inverted and bloodied again here, and a little spot on her face is a tiny bit darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-02065.jpg" />
- <img src="./../images/SC12/bd-02065.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-02065-1090px.jpg"
+  data-srcset="./../images/SC12/tv-02065-512px.jpg 512w,
+  ./../images/SC12/tv-02065-768px.jpg 768w,
+  ./../images/SC12/tv-02065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-02065-1090px.jpg"
+  data-srcset="./../images/SC12/bd-02065-512px.jpg 512w,
+  ./../images/SC12/bd-02065-768px.jpg 768w,
+  ./../images/SC12/bd-02065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -80,8 +178,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - Her nose has been shaded properly here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-02067.jpg" />
- <img src="./../images/SC12/bd-02067.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-02067-1090px.jpg"
+  data-srcset="./../images/SC12/tv-02067-512px.jpg 512w,
+  ./../images/SC12/tv-02067-768px.jpg 768w,
+  ./../images/SC12/tv-02067-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-02067-1090px.jpg"
+  data-srcset="./../images/SC12/bd-02067-512px.jpg 512w,
+  ./../images/SC12/bd-02067-768px.jpg 768w,
+  ./../images/SC12/bd-02067-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -89,8 +201,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - Her left hand has been switched around and detailed more here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-02069.jpg" />
- <img src="./../images/SC12/bd-02069.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-02069-1090px.jpg"
+  data-srcset="./../images/SC12/tv-02069-512px.jpg 512w,
+  ./../images/SC12/tv-02069-768px.jpg 768w,
+  ./../images/SC12/tv-02069-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-02069-1090px.jpg"
+  data-srcset="./../images/SC12/bd-02069-512px.jpg 512w,
+  ./../images/SC12/bd-02069-768px.jpg 768w,
+  ./../images/SC12/bd-02069-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -98,8 +224,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - The hole on the hand now looks like a hole, her nose has been shaded better, her hand's been swapped around again (and boy, that thumb looks fishy), and she's now sporting _nails_!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-02070.jpg" />
- <img src="./../images/SC12/bd-02070.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-02070-1090px.jpg"
+  data-srcset="./../images/SC12/tv-02070-512px.jpg 512w,
+  ./../images/SC12/tv-02070-768px.jpg 768w,
+  ./../images/SC12/tv-02070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-02070-1090px.jpg"
+  data-srcset="./../images/SC12/bd-02070-512px.jpg 512w,
+  ./../images/SC12/bd-02070-768px.jpg 768w,
+  ./../images/SC12/bd-02070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -107,15 +247,43 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - The hole in her hand is back again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-02072.jpg" />
- <img src="./../images/SC12/bd-02072.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-02072-1090px.jpg"
+  data-srcset="./../images/SC12/tv-02072-512px.jpg 512w,
+  ./../images/SC12/tv-02072-768px.jpg 768w,
+  ./../images/SC12/tv-02072-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-02072-1090px.jpg"
+  data-srcset="./../images/SC12/bd-02072-512px.jpg 512w,
+  ./../images/SC12/bd-02072-768px.jpg 768w,
+  ./../images/SC12/bd-02072-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-02075.jpg" />
- <img src="./../images/SC12/bd-02075.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-02075-1090px.jpg"
+  data-srcset="./../images/SC12/tv-02075-512px.jpg 512w,
+  ./../images/SC12/tv-02075-768px.jpg 768w,
+  ./../images/SC12/tv-02075-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-02075-1090px.jpg"
+  data-srcset="./../images/SC12/bd-02075-512px.jpg 512w,
+  ./../images/SC12/bd-02075-768px.jpg 768w,
+  ./../images/SC12/bd-02075-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -123,8 +291,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - And again here, plus some slightly darker bits on her nose:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-02079.jpg" />
- <img src="./../images/SC12/bd-02079.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-02079-1090px.jpg"
+  data-srcset="./../images/SC12/tv-02079-512px.jpg 512w,
+  ./../images/SC12/tv-02079-768px.jpg 768w,
+  ./../images/SC12/tv-02079-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-02079-1090px.jpg"
+  data-srcset="./../images/SC12/bd-02079-512px.jpg 512w,
+  ./../images/SC12/bd-02079-768px.jpg 768w,
+  ./../images/SC12/bd-02079-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -132,8 +314,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - And finally, both the spot on her face and some bits on her nose are darker here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-02085.jpg" />
- <img src="./../images/SC12/bd-02085.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-02085-1090px.jpg"
+  data-srcset="./../images/SC12/tv-02085-512px.jpg 512w,
+  ./../images/SC12/tv-02085-768px.jpg 768w,
+  ./../images/SC12/tv-02085-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-02085-1090px.jpg"
+  data-srcset="./../images/SC12/bd-02085-512px.jpg 512w,
+  ./../images/SC12/bd-02085-768px.jpg 768w,
+  ./../images/SC12/bd-02085-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -141,43 +337,127 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - Gosh, that was long! Let's move on to the rest of the episode. Here, Joseph has been slightly moved and redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-08216.jpg" />
- <img src="./../images/SC12/bd-08216.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-08216-1090px.jpg"
+  data-srcset="./../images/SC12/tv-08216-512px.jpg 512w,
+  ./../images/SC12/tv-08216-768px.jpg 768w,
+  ./../images/SC12/tv-08216-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-08216-1090px.jpg"
+  data-srcset="./../images/SC12/bd-08216-512px.jpg 512w,
+  ./../images/SC12/bd-08216-768px.jpg 768w,
+  ./../images/SC12/bd-08216-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-08220.jpg" />
- <img src="./../images/SC12/bd-08220.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-08220-1090px.jpg"
+  data-srcset="./../images/SC12/tv-08220-512px.jpg 512w,
+  ./../images/SC12/tv-08220-768px.jpg 768w,
+  ./../images/SC12/tv-08220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-08220-1090px.jpg"
+  data-srcset="./../images/SC12/bd-08220-512px.jpg 512w,
+  ./../images/SC12/bd-08220-768px.jpg 768w,
+  ./../images/SC12/bd-08220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-08230.jpg" />
- <img src="./../images/SC12/bd-08230.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-08230-1090px.jpg"
+  data-srcset="./../images/SC12/tv-08230-512px.jpg 512w,
+  ./../images/SC12/tv-08230-768px.jpg 768w,
+  ./../images/SC12/tv-08230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-08230-1090px.jpg"
+  data-srcset="./../images/SC12/bd-08230-512px.jpg 512w,
+  ./../images/SC12/bd-08230-768px.jpg 768w,
+  ./../images/SC12/bd-08230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-08269.jpg" />
- <img src="./../images/SC12/bd-08269.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-08269-1090px.jpg"
+  data-srcset="./../images/SC12/tv-08269-512px.jpg 512w,
+  ./../images/SC12/tv-08269-768px.jpg 768w,
+  ./../images/SC12/tv-08269-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-08269-1090px.jpg"
+  data-srcset="./../images/SC12/bd-08269-512px.jpg 512w,
+  ./../images/SC12/bd-08269-768px.jpg 768w,
+  ./../images/SC12/bd-08269-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-08280.jpg" />
- <img src="./../images/SC12/bd-08280.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-08280-1090px.jpg"
+  data-srcset="./../images/SC12/tv-08280-512px.jpg 512w,
+  ./../images/SC12/tv-08280-768px.jpg 768w,
+  ./../images/SC12/tv-08280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-08280-1090px.jpg"
+  data-srcset="./../images/SC12/bd-08280-512px.jpg 512w,
+  ./../images/SC12/bd-08280-768px.jpg 768w,
+  ./../images/SC12/bd-08280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-08310.jpg" />
- <img src="./../images/SC12/bd-08310.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-08310-1090px.jpg"
+  data-srcset="./../images/SC12/tv-08310-512px.jpg 512w,
+  ./../images/SC12/tv-08310-768px.jpg 768w,
+  ./../images/SC12/tv-08310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-08310-1090px.jpg"
+  data-srcset="./../images/SC12/bd-08310-512px.jpg 512w,
+  ./../images/SC12/bd-08310-768px.jpg 768w,
+  ./../images/SC12/bd-08310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -185,8 +465,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - Here, Joseph is shorter, Jotaro has been moved way closer to the camera, Kakyoin and Polnareff's faces have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-08580.jpg" />
- <img src="./../images/SC12/bd-08580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-08580-1090px.jpg"
+  data-srcset="./../images/SC12/tv-08580-512px.jpg 512w,
+  ./../images/SC12/tv-08580-768px.jpg 768w,
+  ./../images/SC12/tv-08580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-08580-1090px.jpg"
+  data-srcset="./../images/SC12/bd-08580-512px.jpg 512w,
+  ./../images/SC12/bd-08580-768px.jpg 768w,
+  ./../images/SC12/bd-08580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -194,8 +488,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - Nena's face has also received a slight retouch, at the end of the same scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-08715.jpg" />
- <img src="./../images/SC12/bd-08715.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-08715-1090px.jpg"
+  data-srcset="./../images/SC12/tv-08715-512px.jpg 512w,
+  ./../images/SC12/tv-08715-768px.jpg 768w,
+  ./../images/SC12/tv-08715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-08715-1090px.jpg"
+  data-srcset="./../images/SC12/bd-08715-512px.jpg 512w,
+  ./../images/SC12/bd-08715-768px.jpg 768w,
+  ./../images/SC12/bd-08715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -231,8 +539,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - Here, the old man on the left and the kid on the right have two new faces (and thank god for the kid):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-14025.jpg" />
- <img src="./../images/SC12/bd-14025.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-14025-1090px.jpg"
+  data-srcset="./../images/SC12/tv-14025-512px.jpg 512w,
+  ./../images/SC12/tv-14025-768px.jpg 768w,
+  ./../images/SC12/tv-14025-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-14025-1090px.jpg"
+  data-srcset="./../images/SC12/bd-14025-512px.jpg 512w,
+  ./../images/SC12/bd-14025-768px.jpg 768w,
+  ./../images/SC12/bd-14025-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -240,15 +562,43 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - Joseph has been completely retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-15055.jpg" />
- <img src="./../images/SC12/bd-15055.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-15055-1090px.jpg"
+  data-srcset="./../images/SC12/tv-15055-512px.jpg 512w,
+  ./../images/SC12/tv-15055-768px.jpg 768w,
+  ./../images/SC12/tv-15055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-15055-1090px.jpg"
+  data-srcset="./../images/SC12/bd-15055-512px.jpg 512w,
+  ./../images/SC12/bd-15055-768px.jpg 768w,
+  ./../images/SC12/bd-15055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-15100.jpg" />
- <img src="./../images/SC12/bd-15100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-15100-1090px.jpg"
+  data-srcset="./../images/SC12/tv-15100-512px.jpg 512w,
+  ./../images/SC12/tv-15100-768px.jpg 768w,
+  ./../images/SC12/tv-15100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-15100-1090px.jpg"
+  data-srcset="./../images/SC12/bd-15100-512px.jpg 512w,
+  ./../images/SC12/bd-15100-768px.jpg 768w,
+  ./../images/SC12/bd-15100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -256,8 +606,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - This beautiful French boy's face is also looking a little better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-16615.jpg" />
- <img src="./../images/SC12/bd-16615.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-16615-1090px.jpg"
+  data-srcset="./../images/SC12/tv-16615-512px.jpg 512w,
+  ./../images/SC12/tv-16615-768px.jpg 768w,
+  ./../images/SC12/tv-16615-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-16615-1090px.jpg"
+  data-srcset="./../images/SC12/bd-16615-512px.jpg 512w,
+  ./../images/SC12/bd-16615-768px.jpg 768w,
+  ./../images/SC12/bd-16615-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -265,8 +629,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - Let's play another round of "Background People"! Here, two men on the left and that lady with child on the right are looking better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-17680.jpg" />
- <img src="./../images/SC12/bd-17680.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-17680-1090px.jpg"
+  data-srcset="./../images/SC12/tv-17680-512px.jpg 512w,
+  ./../images/SC12/tv-17680-768px.jpg 768w,
+  ./../images/SC12/tv-17680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-17680-1090px.jpg"
+  data-srcset="./../images/SC12/bd-17680-512px.jpg 512w,
+  ./../images/SC12/bd-17680-768px.jpg 768w,
+  ./../images/SC12/bd-17680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -274,8 +652,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - And here, a man on the right and an ear on the left have also been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-17836.jpg" />
- <img src="./../images/SC12/bd-17836.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-17836-1090px.jpg"
+  data-srcset="./../images/SC12/tv-17836-512px.jpg 512w,
+  ./../images/SC12/tv-17836-768px.jpg 768w,
+  ./../images/SC12/tv-17836-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-17836-1090px.jpg"
+  data-srcset="./../images/SC12/bd-17836-512px.jpg 512w,
+  ./../images/SC12/bd-17836-768px.jpg 768w,
+  ./../images/SC12/bd-17836-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -283,22 +675,64 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - Almost _EVERYONE_ in the background is looking much better in these three scenes:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-17935.jpg" />
- <img src="./../images/SC12/bd-17935.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-17935-1090px.jpg"
+  data-srcset="./../images/SC12/tv-17935-512px.jpg 512w,
+  ./../images/SC12/tv-17935-768px.jpg 768w,
+  ./../images/SC12/tv-17935-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-17935-1090px.jpg"
+  data-srcset="./../images/SC12/bd-17935-512px.jpg 512w,
+  ./../images/SC12/bd-17935-768px.jpg 768w,
+  ./../images/SC12/bd-17935-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-17980.jpg" />
- <img src="./../images/SC12/bd-17980.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-17980-1090px.jpg"
+  data-srcset="./../images/SC12/tv-17980-512px.jpg 512w,
+  ./../images/SC12/tv-17980-768px.jpg 768w,
+  ./../images/SC12/tv-17980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-17980-1090px.jpg"
+  data-srcset="./../images/SC12/bd-17980-512px.jpg 512w,
+  ./../images/SC12/bd-17980-768px.jpg 768w,
+  ./../images/SC12/bd-17980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-18030.jpg" />
- <img src="./../images/SC12/bd-18030.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-18030-1090px.jpg"
+  data-srcset="./../images/SC12/tv-18030-512px.jpg 512w,
+  ./../images/SC12/tv-18030-768px.jpg 768w,
+  ./../images/SC12/tv-18030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-18030-1090px.jpg"
+  data-srcset="./../images/SC12/bd-18030-512px.jpg 512w,
+  ./../images/SC12/bd-18030-768px.jpg 768w,
+  ./../images/SC12/bd-18030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -306,8 +740,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - Here, Joseph's eyes and his right ear have been slightly retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-26290.jpg" />
- <img src="./../images/SC12/bd-26290.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-26290-1090px.jpg"
+  data-srcset="./../images/SC12/tv-26290-512px.jpg 512w,
+  ./../images/SC12/tv-26290-768px.jpg 768w,
+  ./../images/SC12/tv-26290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-26290-1090px.jpg"
+  data-srcset="./../images/SC12/bd-26290-512px.jpg 512w,
+  ./../images/SC12/bd-26290-768px.jpg 768w,
+  ./../images/SC12/bd-26290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -315,8 +763,22 @@ Howdy, people! What's cooking, good looking? Welcome back! Today we're going to 
 - And here, in addition to the previous changes, his left ear has been properly drawn as well; Joseph no longer looks like he's banging his own head with his metallic hand:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC12/tv-26445.jpg" />
- <img src="./../images/SC12/bd-26445.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/tv-26445-1090px.jpg"
+  data-srcset="./../images/SC12/tv-26445-512px.jpg 512w,
+  ./../images/SC12/tv-26445-768px.jpg 768w,
+  ./../images/SC12/tv-26445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/SC12/bd-26445-1090px.jpg"
+  data-srcset="./../images/SC12/bd-26445-512px.jpg 512w,
+  ./../images/SC12/bd-26445-768px.jpg 768w,
+  ./../images/SC12/bd-26445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
