@@ -23,8 +23,22 @@ Let's get going!
 - Today's first difference is a very brief brighter bit, but it's so brief that it's better shown with a single frame:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA05/tv-08425.jpg" />
- <img src="./../images/VA05/bd-08425.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA05/tv-08425-1090px.jpg"
+  data-srcset="./../images/VA05/tv-08425-512px.jpg 512w,
+  ./../images/VA05/tv-08425-768px.jpg 768w,
+  ./../images/VA05/tv-08425-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA05/bd-08425-1090px.jpg"
+  data-srcset="./../images/VA05/bd-08425-512px.jpg 512w,
+  ./../images/VA05/bd-08425-768px.jpg 768w,
+  ./../images/VA05/bd-08425-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -32,22 +46,64 @@ Let's get going!
 - Let's move on to this other seminal scene, which will have a bunch of different aspects to compare. First off, Abbacchio's "A" medallion thingie he has on his waist has been slightly retouched, and Mista is looking a little better in a lot of places:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA05/tv-11423.jpg" />
- <img src="./../images/VA05/bd-11423.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA05/tv-11423-1090px.jpg"
+  data-srcset="./../images/VA05/tv-11423-512px.jpg 512w,
+  ./../images/VA05/tv-11423-768px.jpg 768w,
+  ./../images/VA05/tv-11423-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA05/bd-11423-1090px.jpg"
+  data-srcset="./../images/VA05/bd-11423-512px.jpg 512w,
+  ./../images/VA05/bd-11423-768px.jpg 768w,
+  ./../images/VA05/bd-11423-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA05/tv-11425.jpg" />
- <img src="./../images/VA05/bd-11425.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA05/tv-11425-1090px.jpg"
+  data-srcset="./../images/VA05/tv-11425-512px.jpg 512w,
+  ./../images/VA05/tv-11425-768px.jpg 768w,
+  ./../images/VA05/tv-11425-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA05/bd-11425-1090px.jpg"
+  data-srcset="./../images/VA05/bd-11425-512px.jpg 512w,
+  ./../images/VA05/bd-11425-768px.jpg 768w,
+  ./../images/VA05/bd-11425-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA05/tv-11445.jpg" />
- <img src="./../images/VA05/bd-11445.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA05/tv-11445-1090px.jpg"
+  data-srcset="./../images/VA05/tv-11445-512px.jpg 512w,
+  ./../images/VA05/tv-11445-768px.jpg 768w,
+  ./../images/VA05/tv-11445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA05/bd-11445-1090px.jpg"
+  data-srcset="./../images/VA05/bd-11445-512px.jpg 512w,
+  ./../images/VA05/bd-11445-768px.jpg 768w,
+  ./../images/VA05/bd-11445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -62,8 +118,22 @@ Let's get going!
 - And Fugo's mouth has also been retouched here and there:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA05/tv-11545.jpg" />
- <img src="./../images/VA05/bd-11545.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA05/tv-11545-1090px.jpg"
+  data-srcset="./../images/VA05/tv-11545-512px.jpg 512w,
+  ./../images/VA05/tv-11545-768px.jpg 768w,
+  ./../images/VA05/tv-11545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA05/bd-11545-1090px.jpg"
+  data-srcset="./../images/VA05/bd-11545-512px.jpg 512w,
+  ./../images/VA05/bd-11545-768px.jpg 768w,
+  ./../images/VA05/bd-11545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -71,8 +141,22 @@ Let's get going!
 - The teapot lid has been removed here, to facilitate the preparation of the world-famous Abbacchio Tea:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA05/tv-14375.jpg" />
- <img src="./../images/VA05/bd-14375.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA05/tv-14375-1090px.jpg"
+  data-srcset="./../images/VA05/tv-14375-512px.jpg 512w,
+  ./../images/VA05/tv-14375-768px.jpg 768w,
+  ./../images/VA05/tv-14375-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA05/bd-14375-1090px.jpg"
+  data-srcset="./../images/VA05/bd-14375-512px.jpg 512w,
+  ./../images/VA05/bd-14375-768px.jpg 768w,
+  ./../images/VA05/bd-14375-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -80,8 +164,22 @@ Let's get going!
 - Fugo's tie has been actually coloured in here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA05/tv-26185.jpg" />
- <img src="./../images/VA05/bd-26185.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA05/tv-26185-1090px.jpg"
+  data-srcset="./../images/VA05/tv-26185-512px.jpg 512w,
+  ./../images/VA05/tv-26185-768px.jpg 768w,
+  ./../images/VA05/tv-26185-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA05/bd-26185-1090px.jpg"
+  data-srcset="./../images/VA05/bd-26185-512px.jpg 512w,
+  ./../images/VA05/bd-26185-768px.jpg 768w,
+  ./../images/VA05/bd-26185-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -89,8 +187,22 @@ Let's get going!
 - Giorno's nose no longer sports a pink line throughout, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA05/tv-30140.jpg" />
- <img src="./../images/VA05/bd-30140.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA05/tv-30140-1090px.jpg"
+  data-srcset="./../images/VA05/tv-30140-512px.jpg 512w,
+  ./../images/VA05/tv-30140-768px.jpg 768w,
+  ./../images/VA05/tv-30140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA05/bd-30140-1090px.jpg"
+  data-srcset="./../images/VA05/bd-30140-512px.jpg 512w,
+  ./../images/VA05/bd-30140-768px.jpg 768w,
+  ./../images/VA05/bd-30140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

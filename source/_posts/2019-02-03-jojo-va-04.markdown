@@ -26,8 +26,22 @@ Hello again! Fancy seeing you here, huh? Well, let's continue where we left off,
 - Let's move on to the actual episode! For exactly _one frame_, this shaking animation of Black Sabbath was shaken... too much! You can see it from the top of the frame, in which the smoke effects coming off of Black Sabbath only reached a certain bit. The BD version fixes that, by zooming in just the right amount:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA04/tv-10250.jpg" />
- <img src="./../images/VA04/bd-10250.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA04/tv-10250-1090px.jpg"
+  data-srcset="./../images/VA04/tv-10250-512px.jpg 512w,
+  ./../images/VA04/tv-10250-768px.jpg 768w,
+  ./../images/VA04/tv-10250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA04/bd-10250-1090px.jpg"
+  data-srcset="./../images/VA04/bd-10250-512px.jpg 512w,
+  ./../images/VA04/bd-10250-768px.jpg 768w,
+  ./../images/VA04/bd-10250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -54,8 +68,22 @@ Hello again! Fancy seeing you here, huh? Well, let's continue where we left off,
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA04/tv-19275.jpg" />
- <img src="./../images/VA04/bd-19275.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA04/tv-19275-1090px.jpg"
+  data-srcset="./../images/VA04/tv-19275-512px.jpg 512w,
+  ./../images/VA04/tv-19275-768px.jpg 768w,
+  ./../images/VA04/tv-19275-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA04/bd-19275-1090px.jpg"
+  data-srcset="./../images/VA04/bd-19275-512px.jpg 512w,
+  ./../images/VA04/bd-19275-768px.jpg 768w,
+  ./../images/VA04/bd-19275-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -63,8 +91,22 @@ Hello again! Fancy seeing you here, huh? Well, let's continue where we left off,
 - This scene of Giorno bullying Koichi is now slightly more zoomed in:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA04/tv-20500.jpg" />
- <img src="./../images/VA04/bd-20500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA04/tv-20500-1090px.jpg"
+  data-srcset="./../images/VA04/tv-20500-512px.jpg 512w,
+  ./../images/VA04/tv-20500-768px.jpg 768w,
+  ./../images/VA04/tv-20500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA04/bd-20500-1090px.jpg"
+  data-srcset="./../images/VA04/bd-20500-512px.jpg 512w,
+  ./../images/VA04/bd-20500-768px.jpg 768w,
+  ./../images/VA04/bd-20500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -79,8 +121,22 @@ Hello again! Fancy seeing you here, huh? Well, let's continue where we left off,
 - The second-to-last kanji in Animator 村木麻保良 (Muraki Mahora)'s name has been fixed (帆⇒保):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA04/tv-32375.jpg" />
- <img src="./../images/VA04/bd-32375.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA04/tv-32375-1090px.jpg"
+  data-srcset="./../images/VA04/tv-32375-512px.jpg 512w,
+  ./../images/VA04/tv-32375-768px.jpg 768w,
+  ./../images/VA04/tv-32375-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA04/bd-32375-1090px.jpg"
+  data-srcset="./../images/VA04/bd-32375-512px.jpg 512w,
+  ./../images/VA04/bd-32375-768px.jpg 768w,
+  ./../images/VA04/bd-32375-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -88,8 +144,22 @@ Hello again! Fancy seeing you here, huh? Well, let's continue where we left off,
 - Here,うすいこうぢ (Usui Kо̄ji)'s name has been fixed _twice_! (こうじ⇒こうぢ) He was responsible both for Colour Setting and FInishing Animation:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA04/tv-32550.jpg" />
- <img src="./../images/VA04/bd-32550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA04/tv-32550-1090px.jpg"
+  data-srcset="./../images/VA04/tv-32550-512px.jpg 512w,
+  ./../images/VA04/tv-32550-768px.jpg 768w,
+  ./../images/VA04/tv-32550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA04/bd-32550-1090px.jpg"
+  data-srcset="./../images/VA04/bd-32550-512px.jpg 512w,
+  ./../images/VA04/bd-32550-768px.jpg 768w,
+  ./../images/VA04/bd-32550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

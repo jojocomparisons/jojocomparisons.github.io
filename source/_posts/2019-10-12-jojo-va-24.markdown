@@ -28,8 +28,22 @@ Let's start with a quick look at Episode #24, "Notorious B.I.G"!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA24/tv-06030.jpg" />
- <img src="./../images/VA24/bd-06030.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA24/tv-06030-1090px.jpg"
+  data-srcset="./../images/VA24/tv-06030-512px.jpg 512w,
+  ./../images/VA24/tv-06030-768px.jpg 768w,
+  ./../images/VA24/tv-06030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA24/bd-06030-1090px.jpg"
+  data-srcset="./../images/VA24/bd-06030-512px.jpg 512w,
+  ./../images/VA24/bd-06030-768px.jpg 768w,
+  ./../images/VA24/bd-06030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -42,8 +56,22 @@ Let's start with a quick look at Episode #24, "Notorious B.I.G"!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA24/tv-18460.jpg" />
- <img src="./../images/VA24/bd-18460.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA24/tv-18460-1090px.jpg"
+  data-srcset="./../images/VA24/tv-18460-512px.jpg 512w,
+  ./../images/VA24/tv-18460-768px.jpg 768w,
+  ./../images/VA24/tv-18460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA24/bd-18460-1090px.jpg"
+  data-srcset="./../images/VA24/bd-18460-512px.jpg 512w,
+  ./../images/VA24/bd-18460-768px.jpg 768w,
+  ./../images/VA24/bd-18460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -56,8 +84,22 @@ Let's start with a quick look at Episode #24, "Notorious B.I.G"!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA24/tv-21640.jpg" />
- <img src="./../images/VA24/bd-21640.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA24/tv-21640-1090px.jpg"
+  data-srcset="./../images/VA24/tv-21640-512px.jpg 512w,
+  ./../images/VA24/tv-21640-768px.jpg 768w,
+  ./../images/VA24/tv-21640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA24/bd-21640-1090px.jpg"
+  data-srcset="./../images/VA24/bd-21640-512px.jpg 512w,
+  ./../images/VA24/bd-21640-768px.jpg 768w,
+  ./../images/VA24/bd-21640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -65,8 +107,22 @@ Let's start with a quick look at Episode #24, "Notorious B.I.G"!
 - ...and this scene is very slightly more zoomed-in:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA24/tv-22570.jpg" />
- <img src="./../images/VA24/bd-22570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA24/tv-22570-1090px.jpg"
+  data-srcset="./../images/VA24/tv-22570-512px.jpg 512w,
+  ./../images/VA24/tv-22570-768px.jpg 768w,
+  ./../images/VA24/tv-22570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA24/bd-22570-1090px.jpg"
+  data-srcset="./../images/VA24/bd-22570-512px.jpg 512w,
+  ./../images/VA24/bd-22570-768px.jpg 768w,
+  ./../images/VA24/bd-22570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

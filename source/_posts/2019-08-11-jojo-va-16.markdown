@@ -23,8 +23,22 @@ Let's go!
 - Today's first difference is this blurry corpse of a poor innocent passenger, who only appears in a grand total of four (uncensored) frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-02266.jpg" />
- <img src="./../images/VA16/bd-02266.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-02266-1090px.jpg"
+  data-srcset="./../images/VA16/tv-02266-512px.jpg 512w,
+  ./../images/VA16/tv-02266-768px.jpg 768w,
+  ./../images/VA16/tv-02266-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-02266-1090px.jpg"
+  data-srcset="./../images/VA16/bd-02266-512px.jpg 512w,
+  ./../images/VA16/bd-02266-768px.jpg 768w,
+  ./../images/VA16/bd-02266-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -32,8 +46,22 @@ Let's go!
 - Here, Prosciutto's hand has been drawn completely and his fingers no longer disappear on the other side of the zipper; in addition, the whole hand, sleeve and surrounding area have been shaded a little differently:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-02610.jpg" />
- <img src="./../images/VA16/bd-02610.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-02610-1090px.jpg"
+  data-srcset="./../images/VA16/tv-02610-512px.jpg 512w,
+  ./../images/VA16/tv-02610-768px.jpg 768w,
+  ./../images/VA16/tv-02610-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-02610-1090px.jpg"
+  data-srcset="./../images/VA16/bd-02610-512px.jpg 512w,
+  ./../images/VA16/bd-02610-768px.jpg 768w,
+  ./../images/VA16/bd-02610-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -46,15 +74,43 @@ Let's go!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-03139.jpg" />
- <img src="./../images/VA16/bd-03139.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-03139-1090px.jpg"
+  data-srcset="./../images/VA16/tv-03139-512px.jpg 512w,
+  ./../images/VA16/tv-03139-768px.jpg 768w,
+  ./../images/VA16/tv-03139-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-03139-1090px.jpg"
+  data-srcset="./../images/VA16/bd-03139-512px.jpg 512w,
+  ./../images/VA16/bd-03139-768px.jpg 768w,
+  ./../images/VA16/bd-03139-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-03140.jpg" />
- <img src="./../images/VA16/bd-03140.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-03140-1090px.jpg"
+  data-srcset="./../images/VA16/tv-03140-512px.jpg 512w,
+  ./../images/VA16/tv-03140-768px.jpg 768w,
+  ./../images/VA16/tv-03140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-03140-1090px.jpg"
+  data-srcset="./../images/VA16/bd-03140-512px.jpg 512w,
+  ./../images/VA16/bd-03140-768px.jpg 768w,
+  ./../images/VA16/bd-03140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -62,8 +118,22 @@ Let's go!
 - For some reason, the clouds in this scene have been moved:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-04075.jpg" />
- <img src="./../images/VA16/bd-04075.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-04075-1090px.jpg"
+  data-srcset="./../images/VA16/tv-04075-512px.jpg 512w,
+  ./../images/VA16/tv-04075-768px.jpg 768w,
+  ./../images/VA16/tv-04075-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-04075-1090px.jpg"
+  data-srcset="./../images/VA16/bd-04075-512px.jpg 512w,
+  ./../images/VA16/bd-04075-768px.jpg 768w,
+  ./../images/VA16/bd-04075-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -71,22 +141,64 @@ Let's go!
 - Here, Pesci's bandaged hand has been moved so that it's correctly *between* the pole and the string, and in some frames it's been retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-07105.jpg" />
- <img src="./../images/VA16/bd-07105.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-07105-1090px.jpg"
+  data-srcset="./../images/VA16/tv-07105-512px.jpg 512w,
+  ./../images/VA16/tv-07105-768px.jpg 768w,
+  ./../images/VA16/tv-07105-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-07105-1090px.jpg"
+  data-srcset="./../images/VA16/bd-07105-512px.jpg 512w,
+  ./../images/VA16/bd-07105-768px.jpg 768w,
+  ./../images/VA16/bd-07105-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-07130.jpg" />
- <img src="./../images/VA16/bd-07130.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-07130-1090px.jpg"
+  data-srcset="./../images/VA16/tv-07130-512px.jpg 512w,
+  ./../images/VA16/tv-07130-768px.jpg 768w,
+  ./../images/VA16/tv-07130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-07130-1090px.jpg"
+  data-srcset="./../images/VA16/bd-07130-512px.jpg 512w,
+  ./../images/VA16/bd-07130-768px.jpg 768w,
+  ./../images/VA16/bd-07130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-07230.jpg" />
- <img src="./../images/VA16/bd-07230.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-07230-1090px.jpg"
+  data-srcset="./../images/VA16/tv-07230-512px.jpg 512w,
+  ./../images/VA16/tv-07230-768px.jpg 768w,
+  ./../images/VA16/tv-07230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-07230-1090px.jpg"
+  data-srcset="./../images/VA16/bd-07230-512px.jpg 512w,
+  ./../images/VA16/bd-07230-768px.jpg 768w,
+  ./../images/VA16/bd-07230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -94,8 +206,22 @@ Let's go!
 - And once again here, plus the Beach Boy pole has been slightly reshaded as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-07235.jpg" />
- <img src="./../images/VA16/bd-07235.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-07235-1090px.jpg"
+  data-srcset="./../images/VA16/tv-07235-512px.jpg 512w,
+  ./../images/VA16/tv-07235-768px.jpg 768w,
+  ./../images/VA16/tv-07235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-07235-1090px.jpg"
+  data-srcset="./../images/VA16/bd-07235-512px.jpg 512w,
+  ./../images/VA16/bd-07235-768px.jpg 768w,
+  ./../images/VA16/bd-07235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -103,8 +229,22 @@ Let's go!
 - Have one last repositioned hand here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-07365.jpg" />
- <img src="./../images/VA16/bd-07365.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-07365-1090px.jpg"
+  data-srcset="./../images/VA16/tv-07365-512px.jpg 512w,
+  ./../images/VA16/tv-07365-768px.jpg 768w,
+  ./../images/VA16/tv-07365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-07365-1090px.jpg"
+  data-srcset="./../images/VA16/bd-07365-512px.jpg 512w,
+  ./../images/VA16/bd-07365-768px.jpg 768w,
+  ./../images/VA16/bd-07365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -112,8 +252,22 @@ Let's go!
 - Here, the ripple effect where Beach Boy enters the door has been retouched, and the shadow cast by that dude's hand is not as dark:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-08230.jpg" />
- <img src="./../images/VA16/bd-08230.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-08230-1090px.jpg"
+  data-srcset="./../images/VA16/tv-08230-512px.jpg 512w,
+  ./../images/VA16/tv-08230-768px.jpg 768w,
+  ./../images/VA16/tv-08230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-08230-1090px.jpg"
+  data-srcset="./../images/VA16/bd-08230-512px.jpg 512w,
+  ./../images/VA16/bd-08230-768px.jpg 768w,
+  ./../images/VA16/bd-08230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -121,8 +275,22 @@ Let's go!
 - For a single frame, the TV version of this scene had *TWO MOUTHS* on the aforementioned dude. Freaky! Thankfully it's been corrected:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-08235.jpg" />
- <img src="./../images/VA16/bd-08235.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-08235-1090px.jpg"
+  data-srcset="./../images/VA16/tv-08235-512px.jpg 512w,
+  ./../images/VA16/tv-08235-768px.jpg 768w,
+  ./../images/VA16/tv-08235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-08235-1090px.jpg"
+  data-srcset="./../images/VA16/bd-08235-512px.jpg 512w,
+  ./../images/VA16/bd-08235-768px.jpg 768w,
+  ./../images/VA16/bd-08235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -130,8 +298,22 @@ Let's go!
 -  Here, Pesci's tear colouring no longer lag behind the outlines:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-10070.jpg" />
- <img src="./../images/VA16/bd-10070.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-10070-1090px.jpg"
+  data-srcset="./../images/VA16/tv-10070-512px.jpg 512w,
+  ./../images/VA16/tv-10070-768px.jpg 768w,
+  ./../images/VA16/tv-10070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-10070-1090px.jpg"
+  data-srcset="./../images/VA16/bd-10070-512px.jpg 512w,
+  ./../images/VA16/bd-10070-768px.jpg 768w,
+  ./../images/VA16/bd-10070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -139,8 +321,22 @@ Let's go!
 - Here, Pesci's shadow has been corrected (it no longer has that weird white outline where the shadow meets the coloured bits), and the shading on his eggplant hair has been retouched too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-11655.jpg" />
- <img src="./../images/VA16/bd-11655.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-11655-1090px.jpg"
+  data-srcset="./../images/VA16/tv-11655-512px.jpg 512w,
+  ./../images/VA16/tv-11655-768px.jpg 768w,
+  ./../images/VA16/tv-11655-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-11655-1090px.jpg"
+  data-srcset="./../images/VA16/bd-11655-512px.jpg 512w,
+  ./../images/VA16/bd-11655-768px.jpg 768w,
+  ./../images/VA16/bd-11655-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -153,8 +349,22 @@ Let's go!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-12630.jpg" />
- <img src="./../images/VA16/bd-12630.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-12630-1090px.jpg"
+  data-srcset="./../images/VA16/tv-12630-512px.jpg 512w,
+  ./../images/VA16/tv-12630-768px.jpg 768w,
+  ./../images/VA16/tv-12630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-12630-1090px.jpg"
+  data-srcset="./../images/VA16/bd-12630-512px.jpg 512w,
+  ./../images/VA16/bd-12630-768px.jpg 768w,
+  ./../images/VA16/bd-12630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -162,8 +372,22 @@ Let's go!
 - Here, this scene of poor Prosciutto has a different tint, to match the correct time of day, and his shoe has been slightly retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-12720.jpg" />
- <img src="./../images/VA16/bd-12720.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-12720-1090px.jpg"
+  data-srcset="./../images/VA16/tv-12720-512px.jpg 512w,
+  ./../images/VA16/tv-12720-768px.jpg 768w,
+  ./../images/VA16/tv-12720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-12720-1090px.jpg"
+  data-srcset="./../images/VA16/bd-12720-512px.jpg 512w,
+  ./../images/VA16/bd-12720-768px.jpg 768w,
+  ./../images/VA16/bd-12720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -178,15 +402,43 @@ Let's go!
 - The colouring of this scene has also been changed, so that it looks more like it takes place during the afternoon. Lookin' good, Pesci:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-13980.jpg" />
- <img src="./../images/VA16/bd-13980.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-13980-1090px.jpg"
+  data-srcset="./../images/VA16/tv-13980-512px.jpg 512w,
+  ./../images/VA16/tv-13980-768px.jpg 768w,
+  ./../images/VA16/tv-13980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-13980-1090px.jpg"
+  data-srcset="./../images/VA16/bd-13980-512px.jpg 512w,
+  ./../images/VA16/bd-13980-768px.jpg 768w,
+  ./../images/VA16/bd-13980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-14110.jpg" />
- <img src="./../images/VA16/bd-14110.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-14110-1090px.jpg"
+  data-srcset="./../images/VA16/tv-14110-512px.jpg 512w,
+  ./../images/VA16/tv-14110-768px.jpg 768w,
+  ./../images/VA16/tv-14110-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-14110-1090px.jpg"
+  data-srcset="./../images/VA16/bd-14110-512px.jpg 512w,
+  ./../images/VA16/bd-14110-768px.jpg 768w,
+  ./../images/VA16/bd-14110-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -194,8 +446,22 @@ Let's go!
 - Here... Whew! There's a whole bunch of differences here, my friends! Let's go through them one by one. The time of day has been changed again; the hills in the background have been redrawn and are now much less generic; the clouds in the sky are very different; the two middle carriages of the train have been retouched so that they don't look different from the others; Prosciutto has been moved; the head of the train, the rails and the train underbelly are all looking a little different as well; there are less grit particles flyring all around, and lastly, in the TV version there was a small black line protruding from the train, and that's been removed from the BD version. Phew! That should be all. Check it out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-14190.jpg" />
- <img src="./../images/VA16/bd-14190.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-14190-1090px.jpg"
+  data-srcset="./../images/VA16/tv-14190-512px.jpg 512w,
+  ./../images/VA16/tv-14190-768px.jpg 768w,
+  ./../images/VA16/tv-14190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-14190-1090px.jpg"
+  data-srcset="./../images/VA16/bd-14190-512px.jpg 512w,
+  ./../images/VA16/bd-14190-768px.jpg 768w,
+  ./../images/VA16/bd-14190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -203,8 +469,22 @@ Let's go!
 - This brief scene is brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-14525.jpg" />
- <img src="./../images/VA16/bd-14525.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-14525-1090px.jpg"
+  data-srcset="./../images/VA16/tv-14525-512px.jpg 512w,
+  ./../images/VA16/tv-14525-768px.jpg 768w,
+  ./../images/VA16/tv-14525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-14525-1090px.jpg"
+  data-srcset="./../images/VA16/bd-14525-512px.jpg 512w,
+  ./../images/VA16/bd-14525-768px.jpg 768w,
+  ./../images/VA16/bd-14525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -212,22 +492,64 @@ Let's go!
 - For some reason, the top half of this scene was a little too bright and washed out in the TV version; this has been fixed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-18680.jpg" />
- <img src="./../images/VA16/bd-18680.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-18680-1090px.jpg"
+  data-srcset="./../images/VA16/tv-18680-512px.jpg 512w,
+  ./../images/VA16/tv-18680-768px.jpg 768w,
+  ./../images/VA16/tv-18680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-18680-1090px.jpg"
+  data-srcset="./../images/VA16/bd-18680-512px.jpg 512w,
+  ./../images/VA16/bd-18680-768px.jpg 768w,
+  ./../images/VA16/bd-18680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-18705.jpg" />
- <img src="./../images/VA16/bd-18705.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-18705-1090px.jpg"
+  data-srcset="./../images/VA16/tv-18705-512px.jpg 512w,
+  ./../images/VA16/tv-18705-768px.jpg 768w,
+  ./../images/VA16/tv-18705-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-18705-1090px.jpg"
+  data-srcset="./../images/VA16/bd-18705-512px.jpg 512w,
+  ./../images/VA16/bd-18705-768px.jpg 768w,
+  ./../images/VA16/bd-18705-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-18780.jpg" />
- <img src="./../images/VA16/bd-18780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-18780-1090px.jpg"
+  data-srcset="./../images/VA16/tv-18780-512px.jpg 512w,
+  ./../images/VA16/tv-18780-768px.jpg 768w,
+  ./../images/VA16/tv-18780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-18780-1090px.jpg"
+  data-srcset="./../images/VA16/bd-18780-512px.jpg 512w,
+  ./../images/VA16/bd-18780-768px.jpg 768w,
+  ./../images/VA16/bd-18780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -235,8 +557,22 @@ Let's go!
 - Here, another bunch of small details are different; most notably, BUCCELLATI'S SECOND RIGHT HAND HAS BEEN FLIPPED ONCE AGAIN! I see a pattern here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-18900.jpg" />
- <img src="./../images/VA16/bd-18900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-18900-1090px.jpg"
+  data-srcset="./../images/VA16/tv-18900-512px.jpg 512w,
+  ./../images/VA16/tv-18900-768px.jpg 768w,
+  ./../images/VA16/tv-18900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-18900-1090px.jpg"
+  data-srcset="./../images/VA16/bd-18900-512px.jpg 512w,
+  ./../images/VA16/bd-18900-768px.jpg 768w,
+  ./../images/VA16/bd-18900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -244,8 +580,22 @@ Let's go!
 - Here, the Beach Boy string in the foreground is blurrier:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-19350.jpg" />
- <img src="./../images/VA16/bd-19350.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-19350-1090px.jpg"
+  data-srcset="./../images/VA16/tv-19350-512px.jpg 512w,
+  ./../images/VA16/tv-19350-768px.jpg 768w,
+  ./../images/VA16/tv-19350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-19350-1090px.jpg"
+  data-srcset="./../images/VA16/bd-19350-512px.jpg 512w,
+  ./../images/VA16/bd-19350-768px.jpg 768w,
+  ./../images/VA16/bd-19350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -253,8 +603,22 @@ Let's go!
 - Pesci has received the Prosciutto treatment here, and he's now sporting a new aura and a slightly different colouring:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-21560.jpg" />
- <img src="./../images/VA16/bd-21560.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-21560-1090px.jpg"
+  data-srcset="./../images/VA16/tv-21560-512px.jpg 512w,
+  ./../images/VA16/tv-21560-768px.jpg 768w,
+  ./../images/VA16/tv-21560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-21560-1090px.jpg"
+  data-srcset="./../images/VA16/bd-21560-512px.jpg 512w,
+  ./../images/VA16/bd-21560-768px.jpg 768w,
+  ./../images/VA16/bd-21560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -262,8 +626,22 @@ Let's go!
 - The Buccellati pieces are now emitting Spirit Dust™ here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-22905.jpg" />
- <img src="./../images/VA16/bd-22905.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-22905-1090px.jpg"
+  data-srcset="./../images/VA16/tv-22905-512px.jpg 512w,
+  ./../images/VA16/tv-22905-768px.jpg 768w,
+  ./../images/VA16/tv-22905-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-22905-1090px.jpg"
+  data-srcset="./../images/VA16/bd-22905-512px.jpg 512w,
+  ./../images/VA16/bd-22905-768px.jpg 768w,
+  ./../images/VA16/bd-22905-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -278,8 +656,22 @@ Let's go!
 - While this is BRIGHTER and sharper (and too brief to make an animation out of):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-25160.jpg" />
- <img src="./../images/VA16/bd-25160.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-25160-1090px.jpg"
+  data-srcset="./../images/VA16/tv-25160-512px.jpg 512w,
+  ./../images/VA16/tv-25160-768px.jpg 768w,
+  ./../images/VA16/tv-25160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-25160-1090px.jpg"
+  data-srcset="./../images/VA16/bd-25160-512px.jpg 512w,
+  ./../images/VA16/bd-25160-768px.jpg 768w,
+  ./../images/VA16/bd-25160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -287,29 +679,85 @@ Let's go!
 - Sticky Fingers' colour scheme has been changed here, and the texture overlay is also different; the background has also been slightly recoloured, and the metal spikes on his head are looking shinier too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-26130.jpg" />
- <img src="./../images/VA16/bd-26130.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-26130-1090px.jpg"
+  data-srcset="./../images/VA16/tv-26130-512px.jpg 512w,
+  ./../images/VA16/tv-26130-768px.jpg 768w,
+  ./../images/VA16/tv-26130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-26130-1090px.jpg"
+  data-srcset="./../images/VA16/bd-26130-512px.jpg 512w,
+  ./../images/VA16/bd-26130-768px.jpg 768w,
+  ./../images/VA16/bd-26130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-26145.jpg" />
- <img src="./../images/VA16/bd-26145.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-26145-1090px.jpg"
+  data-srcset="./../images/VA16/tv-26145-512px.jpg 512w,
+  ./../images/VA16/tv-26145-768px.jpg 768w,
+  ./../images/VA16/tv-26145-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-26145-1090px.jpg"
+  data-srcset="./../images/VA16/bd-26145-512px.jpg 512w,
+  ./../images/VA16/bd-26145-768px.jpg 768w,
+  ./../images/VA16/bd-26145-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-26155.jpg" />
- <img src="./../images/VA16/bd-26155.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-26155-1090px.jpg"
+  data-srcset="./../images/VA16/tv-26155-512px.jpg 512w,
+  ./../images/VA16/tv-26155-768px.jpg 768w,
+  ./../images/VA16/tv-26155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-26155-1090px.jpg"
+  data-srcset="./../images/VA16/bd-26155-512px.jpg 512w,
+  ./../images/VA16/bd-26155-768px.jpg 768w,
+  ./../images/VA16/bd-26155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-26158.jpg" />
- <img src="./../images/VA16/bd-26158.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-26158-1090px.jpg"
+  data-srcset="./../images/VA16/tv-26158-512px.jpg 512w,
+  ./../images/VA16/tv-26158-768px.jpg 768w,
+  ./../images/VA16/tv-26158-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-26158-1090px.jpg"
+  data-srcset="./../images/VA16/bd-26158-512px.jpg 512w,
+  ./../images/VA16/bd-26158-768px.jpg 768w,
+  ./../images/VA16/bd-26158-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -324,8 +772,22 @@ Let's go!
 - For some reason, Trish's head has been slightly retouched in two frames of this animation; it doesn't make that much of a difference, in my opinion, but sure:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-27040.jpg" />
- <img src="./../images/VA16/bd-27040.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-27040-1090px.jpg"
+  data-srcset="./../images/VA16/tv-27040-512px.jpg 512w,
+  ./../images/VA16/tv-27040-768px.jpg 768w,
+  ./../images/VA16/tv-27040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-27040-1090px.jpg"
+  data-srcset="./../images/VA16/bd-27040-512px.jpg 512w,
+  ./../images/VA16/bd-27040-768px.jpg 768w,
+  ./../images/VA16/bd-27040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -352,8 +814,22 @@ Let's go!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA16/tv-30805.jpg" />
- <img src="./../images/VA16/bd-30805.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/tv-30805-1090px.jpg"
+  data-srcset="./../images/VA16/tv-30805-512px.jpg 512w,
+  ./../images/VA16/tv-30805-768px.jpg 768w,
+  ./../images/VA16/tv-30805-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA16/bd-30805-1090px.jpg"
+  data-srcset="./../images/VA16/bd-30805-512px.jpg 512w,
+  ./../images/VA16/bd-30805-768px.jpg 768w,
+  ./../images/VA16/bd-30805-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

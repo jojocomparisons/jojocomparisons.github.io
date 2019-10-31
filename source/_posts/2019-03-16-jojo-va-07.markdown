@@ -19,8 +19,22 @@ Hello, peeps! Welcome to this week's comparison. Today we're going to take a loo
 - Today's first bit is this scene with Narancia and Fugo, in which a bunch of little things have been fixed. Let's start with Fugo's ear and hair, which have been shaded a little differently here, and Narancia's left eye, which is no longer glinting with life's spark:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA07/tv-00214.jpg" />
- <img src="./../images/VA07/bd-00214.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/tv-00214-1090px.jpg"
+  data-srcset="./../images/VA07/tv-00214-512px.jpg 512w,
+  ./../images/VA07/tv-00214-768px.jpg 768w,
+  ./../images/VA07/tv-00214-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/bd-00214-1090px.jpg"
+  data-srcset="./../images/VA07/bd-00214-512px.jpg 512w,
+  ./../images/VA07/bd-00214-768px.jpg 768w,
+  ./../images/VA07/bd-00214-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -28,15 +42,43 @@ Hello, peeps! Welcome to this week's comparison. Today we're going to take a loo
 - Later, the lines on both Narancia and Fugo's nose are shorter, and the mouthflaps have been changed. With some... Mixed results:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA07/tv-00218.jpg" />
- <img src="./../images/VA07/bd-00218.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/tv-00218-1090px.jpg"
+  data-srcset="./../images/VA07/tv-00218-512px.jpg 512w,
+  ./../images/VA07/tv-00218-768px.jpg 768w,
+  ./../images/VA07/tv-00218-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/bd-00218-1090px.jpg"
+  data-srcset="./../images/VA07/bd-00218-512px.jpg 512w,
+  ./../images/VA07/bd-00218-768px.jpg 768w,
+  ./../images/VA07/bd-00218-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA07/tv-00220.jpg" />
- <img src="./../images/VA07/bd-00220.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/tv-00220-1090px.jpg"
+  data-srcset="./../images/VA07/tv-00220-512px.jpg 512w,
+  ./../images/VA07/tv-00220-768px.jpg 768w,
+  ./../images/VA07/tv-00220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/bd-00220-1090px.jpg"
+  data-srcset="./../images/VA07/bd-00220-512px.jpg 512w,
+  ./../images/VA07/bd-00220-768px.jpg 768w,
+  ./../images/VA07/bd-00220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -44,8 +86,22 @@ Hello, peeps! Welcome to this week's comparison. Today we're going to take a loo
 - Here, the shading on Narancia's chest has been changed (and another little bit on Fugo's hair as well):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA07/tv-00315.jpg" />
- <img src="./../images/VA07/bd-00315.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/tv-00315-1090px.jpg"
+  data-srcset="./../images/VA07/tv-00315-512px.jpg 512w,
+  ./../images/VA07/tv-00315-768px.jpg 768w,
+  ./../images/VA07/tv-00315-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/bd-00315-1090px.jpg"
+  data-srcset="./../images/VA07/bd-00315-512px.jpg 512w,
+  ./../images/VA07/bd-00315-768px.jpg 768w,
+  ./../images/VA07/bd-00315-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -53,8 +109,22 @@ Hello, peeps! Welcome to this week's comparison. Today we're going to take a loo
 - And here, the shading under Fugo's fingers is a little different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA07/tv-00425.jpg" />
- <img src="./../images/VA07/bd-00425.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/tv-00425-1090px.jpg"
+  data-srcset="./../images/VA07/tv-00425-512px.jpg 512w,
+  ./../images/VA07/tv-00425-768px.jpg 768w,
+  ./../images/VA07/tv-00425-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/bd-00425-1090px.jpg"
+  data-srcset="./../images/VA07/bd-00425-512px.jpg 512w,
+  ./../images/VA07/bd-00425-768px.jpg 768w,
+  ./../images/VA07/bd-00425-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -62,8 +132,22 @@ Hello, peeps! Welcome to this week's comparison. Today we're going to take a loo
 - Moving on, here, Narancia's... tears? Are less orange, and the lines on both noses are shorter again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA07/tv-00455.jpg" />
- <img src="./../images/VA07/bd-00455.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/tv-00455-1090px.jpg"
+  data-srcset="./../images/VA07/tv-00455-512px.jpg 512w,
+  ./../images/VA07/tv-00455-768px.jpg 768w,
+  ./../images/VA07/tv-00455-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/bd-00455-1090px.jpg"
+  data-srcset="./../images/VA07/bd-00455-512px.jpg 512w,
+  ./../images/VA07/bd-00455-768px.jpg 768w,
+  ./../images/VA07/bd-00455-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -71,8 +155,22 @@ Hello, peeps! Welcome to this week's comparison. Today we're going to take a loo
 - The sun rays in this scene are shorter and fade away earlier:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA07/tv-02400.jpg" />
- <img src="./../images/VA07/bd-02400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/tv-02400-1090px.jpg"
+  data-srcset="./../images/VA07/tv-02400-512px.jpg 512w,
+  ./../images/VA07/tv-02400-768px.jpg 768w,
+  ./../images/VA07/tv-02400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/bd-02400-1090px.jpg"
+  data-srcset="./../images/VA07/bd-02400-512px.jpg 512w,
+  ./../images/VA07/bd-02400-768px.jpg 768w,
+  ./../images/VA07/bd-02400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -92,8 +190,22 @@ Hello, peeps! Welcome to this week's comparison. Today we're going to take a loo
 - Let's move on! Here, there are a bunch of different things! Abbacchio's left eye has been properly shaded, his hair is a tiny bit shorter in the back; the string on his dress and the yellow... buttons? Holding it together have also been retouched. Zucchero's head hasn't escaped David pro's mighty retouch pencils, either: there are a few less lines on his face, the mouth zip has been retouched, the hook has been redrawn (and it's... worse?), the glasses have been retouched and the sweat bead closest to his nose is a little darker. Phew:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA07/tv-09815.jpg" />
- <img src="./../images/VA07/bd-09815.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/tv-09815-1090px.jpg"
+  data-srcset="./../images/VA07/tv-09815-512px.jpg 512w,
+  ./../images/VA07/tv-09815-768px.jpg 768w,
+  ./../images/VA07/tv-09815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/bd-09815-1090px.jpg"
+  data-srcset="./../images/VA07/bd-09815-512px.jpg 512w,
+  ./../images/VA07/bd-09815-768px.jpg 768w,
+  ./../images/VA07/bd-09815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -106,8 +218,22 @@ Hello, peeps! Welcome to this week's comparison. Today we're going to take a loo
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA07/tv-16325.jpg" />
- <img src="./../images/VA07/bd-16325.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/tv-16325-1090px.jpg"
+  data-srcset="./../images/VA07/tv-16325-512px.jpg 512w,
+  ./../images/VA07/tv-16325-768px.jpg 768w,
+  ./../images/VA07/tv-16325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/bd-16325-1090px.jpg"
+  data-srcset="./../images/VA07/bd-16325-512px.jpg 512w,
+  ./../images/VA07/bd-16325-768px.jpg 768w,
+  ./../images/VA07/bd-16325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -115,8 +241,22 @@ Hello, peeps! Welcome to this week's comparison. Today we're going to take a loo
 - A bunch of details on Mista's gun are looking better here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA07/tv-19480.jpg" />
- <img src="./../images/VA07/bd-19480.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/tv-19480-1090px.jpg"
+  data-srcset="./../images/VA07/tv-19480-512px.jpg 512w,
+  ./../images/VA07/tv-19480-768px.jpg 768w,
+  ./../images/VA07/tv-19480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/bd-19480-1090px.jpg"
+  data-srcset="./../images/VA07/bd-19480-512px.jpg 512w,
+  ./../images/VA07/bd-19480-768px.jpg 768w,
+  ./../images/VA07/bd-19480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -124,8 +264,22 @@ Hello, peeps! Welcome to this week's comparison. Today we're going to take a loo
 - There's an extra salami slice in this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA07/tv-19540.jpg" />
- <img src="./../images/VA07/bd-19540.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/tv-19540-1090px.jpg"
+  data-srcset="./../images/VA07/tv-19540-512px.jpg 512w,
+  ./../images/VA07/tv-19540-768px.jpg 768w,
+  ./../images/VA07/tv-19540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/bd-19540-1090px.jpg"
+  data-srcset="./../images/VA07/bd-19540-512px.jpg 512w,
+  ./../images/VA07/bd-19540-768px.jpg 768w,
+  ./../images/VA07/bd-19540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -140,8 +294,22 @@ Hello, peeps! Welcome to this week's comparison. Today we're going to take a loo
 - Number 1 and Number 2 don't cast shadows, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA07/tv-27820.jpg" />
- <img src="./../images/VA07/bd-27820.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/tv-27820-1090px.jpg"
+  data-srcset="./../images/VA07/tv-27820-512px.jpg 512w,
+  ./../images/VA07/tv-27820-768px.jpg 768w,
+  ./../images/VA07/tv-27820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/bd-27820-1090px.jpg"
+  data-srcset="./../images/VA07/bd-27820-512px.jpg 512w,
+  ./../images/VA07/bd-27820-768px.jpg 768w,
+  ./../images/VA07/bd-27820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -149,8 +317,22 @@ Hello, peeps! Welcome to this week's comparison. Today we're going to take a loo
 - This short bit is also, for some reason, brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA07/tv-31460.jpg" />
- <img src="./../images/VA07/bd-31460.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/tv-31460-1090px.jpg"
+  data-srcset="./../images/VA07/tv-31460-512px.jpg 512w,
+  ./../images/VA07/tv-31460-768px.jpg 768w,
+  ./../images/VA07/tv-31460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/bd-31460-1090px.jpg"
+  data-srcset="./../images/VA07/bd-31460-512px.jpg 512w,
+  ./../images/VA07/bd-31460-768px.jpg 768w,
+  ./../images/VA07/bd-31460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -158,8 +340,22 @@ Hello, peeps! Welcome to this week's comparison. Today we're going to take a loo
 - Let's move straight to the credits! Here, Sanda's name has been re-written in latin characters (it was in katakana before):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA07/tv-32380.jpg" />
- <img src="./../images/VA07/bd-32380.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/tv-32380-1090px.jpg"
+  data-srcset="./../images/VA07/tv-32380-512px.jpg 512w,
+  ./../images/VA07/tv-32380-768px.jpg 768w,
+  ./../images/VA07/tv-32380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA07/bd-32380-1090px.jpg"
+  data-srcset="./../images/VA07/bd-32380-512px.jpg 512w,
+  ./../images/VA07/bd-32380-768px.jpg 768w,
+  ./../images/VA07/bd-32380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

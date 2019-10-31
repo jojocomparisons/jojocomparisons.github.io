@@ -30,8 +30,22 @@ Well then, without further ago... Shall we?
 - Here, most things have a better lighting, there are more blood particles and the blood is a tiny bit blurrier:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-03890.jpg" />
- <img src="./../images/VA18/bd-03890.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-03890-1090px.jpg"
+  data-srcset="./../images/VA18/tv-03890-512px.jpg 512w,
+  ./../images/VA18/tv-03890-768px.jpg 768w,
+  ./../images/VA18/tv-03890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-03890-1090px.jpg"
+  data-srcset="./../images/VA18/bd-03890-512px.jpg 512w,
+  ./../images/VA18/bd-03890-768px.jpg 768w,
+  ./../images/VA18/bd-03890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -46,22 +60,64 @@ Well then, without further ago... Shall we?
 - Baby Face has a couple of additional shades, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-04394.jpg" />
- <img src="./../images/VA18/bd-04394.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-04394-1090px.jpg"
+  data-srcset="./../images/VA18/tv-04394-512px.jpg 512w,
+  ./../images/VA18/tv-04394-768px.jpg 768w,
+  ./../images/VA18/tv-04394-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-04394-1090px.jpg"
+  data-srcset="./../images/VA18/bd-04394-512px.jpg 512w,
+  ./../images/VA18/bd-04394-768px.jpg 768w,
+  ./../images/VA18/bd-04394-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-04545.jpg" />
- <img src="./../images/VA18/bd-04545.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-04545-1090px.jpg"
+  data-srcset="./../images/VA18/tv-04545-512px.jpg 512w,
+  ./../images/VA18/tv-04545-768px.jpg 768w,
+  ./../images/VA18/tv-04545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-04545-1090px.jpg"
+  data-srcset="./../images/VA18/bd-04545-512px.jpg 512w,
+  ./../images/VA18/bd-04545-768px.jpg 768w,
+  ./../images/VA18/bd-04545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-04815.jpg" />
- <img src="./../images/VA18/bd-04815.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-04815-1090px.jpg"
+  data-srcset="./../images/VA18/tv-04815-512px.jpg 512w,
+  ./../images/VA18/tv-04815-768px.jpg 768w,
+  ./../images/VA18/tv-04815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-04815-1090px.jpg"
+  data-srcset="./../images/VA18/bd-04815-512px.jpg 512w,
+  ./../images/VA18/bd-04815-768px.jpg 768w,
+  ./../images/VA18/bd-04815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -83,8 +139,22 @@ Well then, without further ago... Shall we?
 - Gold Experience now has a nice golden aura here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-06650.jpg" />
- <img src="./../images/VA18/bd-06650.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-06650-1090px.jpg"
+  data-srcset="./../images/VA18/tv-06650-512px.jpg 512w,
+  ./../images/VA18/tv-06650-768px.jpg 768w,
+  ./../images/VA18/tv-06650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-06650-1090px.jpg"
+  data-srcset="./../images/VA18/bd-06650-512px.jpg 512w,
+  ./../images/VA18/bd-06650-768px.jpg 768w,
+  ./../images/VA18/bd-06650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -92,8 +162,22 @@ Well then, without further ago... Shall we?
 - While here he _no longer has one_!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-06875.jpg" />
- <img src="./../images/VA18/bd-06875.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-06875-1090px.jpg"
+  data-srcset="./../images/VA18/tv-06875-512px.jpg 512w,
+  ./../images/VA18/tv-06875-768px.jpg 768w,
+  ./../images/VA18/tv-06875-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-06875-1090px.jpg"
+  data-srcset="./../images/VA18/bd-06875-512px.jpg 512w,
+  ./../images/VA18/bd-06875-768px.jpg 768w,
+  ./../images/VA18/bd-06875-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -101,8 +185,22 @@ Well then, without further ago... Shall we?
 - This shot has a darker vignette and a different distortion around the edges; the background is also much blurrier, resulting in a better contrast with the foreground:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-06880.jpg" />
- <img src="./../images/VA18/bd-06880.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-06880-1090px.jpg"
+  data-srcset="./../images/VA18/tv-06880-512px.jpg 512w,
+  ./../images/VA18/tv-06880-768px.jpg 768w,
+  ./../images/VA18/tv-06880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-06880-1090px.jpg"
+  data-srcset="./../images/VA18/bd-06880-512px.jpg 512w,
+  ./../images/VA18/bd-06880-768px.jpg 768w,
+  ./../images/VA18/bd-06880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -117,8 +215,22 @@ Well then, without further ago... Shall we?
 - This scene is more zoomed-in...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-07145.jpg" />
- <img src="./../images/VA18/bd-07145.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-07145-1090px.jpg"
+  data-srcset="./../images/VA18/tv-07145-512px.jpg 512w,
+  ./../images/VA18/tv-07145-768px.jpg 768w,
+  ./../images/VA18/tv-07145-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-07145-1090px.jpg"
+  data-srcset="./../images/VA18/bd-07145-512px.jpg 512w,
+  ./../images/VA18/bd-07145-768px.jpg 768w,
+  ./../images/VA18/bd-07145-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -126,8 +238,22 @@ Well then, without further ago... Shall we?
 - Giorno's aura is looking different here, and Gold Experience no longer has one (I guess to signify that he used his attack...? I'm not sure):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-07715.jpg" />
- <img src="./../images/VA18/bd-07715.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-07715-1090px.jpg"
+  data-srcset="./../images/VA18/tv-07715-512px.jpg 512w,
+  ./../images/VA18/tv-07715-768px.jpg 768w,
+  ./../images/VA18/tv-07715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-07715-1090px.jpg"
+  data-srcset="./../images/VA18/bd-07715-512px.jpg 512w,
+  ./../images/VA18/bd-07715-768px.jpg 768w,
+  ./../images/VA18/bd-07715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -140,8 +266,22 @@ Well then, without further ago... Shall we?
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-08035.jpg" />
- <img src="./../images/VA18/bd-08035.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-08035-1090px.jpg"
+  data-srcset="./../images/VA18/tv-08035-512px.jpg 512w,
+  ./../images/VA18/tv-08035-768px.jpg 768w,
+  ./../images/VA18/tv-08035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-08035-1090px.jpg"
+  data-srcset="./../images/VA18/bd-08035-512px.jpg 512w,
+  ./../images/VA18/bd-08035-768px.jpg 768w,
+  ./../images/VA18/bd-08035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -161,8 +301,22 @@ Well then, without further ago... Shall we?
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-08193.jpg" />
- <img src="./../images/VA18/bd-08193.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-08193-1090px.jpg"
+  data-srcset="./../images/VA18/tv-08193-512px.jpg 512w,
+  ./../images/VA18/tv-08193-768px.jpg 768w,
+  ./../images/VA18/tv-08193-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-08193-1090px.jpg"
+  data-srcset="./../images/VA18/bd-08193-512px.jpg 512w,
+  ./../images/VA18/bd-08193-768px.jpg 768w,
+  ./../images/VA18/bd-08193-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -170,8 +324,22 @@ Well then, without further ago... Shall we?
 - Here, Giorno's aura is less neon-bright:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-08340.jpg" />
- <img src="./../images/VA18/bd-08340.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-08340-1090px.jpg"
+  data-srcset="./../images/VA18/tv-08340-512px.jpg 512w,
+  ./../images/VA18/tv-08340-768px.jpg 768w,
+  ./../images/VA18/tv-08340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-08340-1090px.jpg"
+  data-srcset="./../images/VA18/bd-08340-512px.jpg 512w,
+  ./../images/VA18/bd-08340-768px.jpg 768w,
+  ./../images/VA18/bd-08340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -184,8 +352,22 @@ Well then, without further ago... Shall we?
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-08995.jpg" />
- <img src="./../images/VA18/bd-08995.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-08995-1090px.jpg"
+  data-srcset="./../images/VA18/tv-08995-512px.jpg 512w,
+  ./../images/VA18/tv-08995-768px.jpg 768w,
+  ./../images/VA18/tv-08995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-08995-1090px.jpg"
+  data-srcset="./../images/VA18/bd-08995-512px.jpg 512w,
+  ./../images/VA18/bd-08995-768px.jpg 768w,
+  ./../images/VA18/bd-08995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -193,29 +375,85 @@ Well then, without further ago... Shall we?
 - Melone's face is less ugly here! Some of these frames are really golden:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-11246.jpg" />
- <img src="./../images/VA18/bd-11246.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-11246-1090px.jpg"
+  data-srcset="./../images/VA18/tv-11246-512px.jpg 512w,
+  ./../images/VA18/tv-11246-768px.jpg 768w,
+  ./../images/VA18/tv-11246-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-11246-1090px.jpg"
+  data-srcset="./../images/VA18/bd-11246-512px.jpg 512w,
+  ./../images/VA18/bd-11246-768px.jpg 768w,
+  ./../images/VA18/bd-11246-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-11255.jpg" />
- <img src="./../images/VA18/bd-11255.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-11255-1090px.jpg"
+  data-srcset="./../images/VA18/tv-11255-512px.jpg 512w,
+  ./../images/VA18/tv-11255-768px.jpg 768w,
+  ./../images/VA18/tv-11255-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-11255-1090px.jpg"
+  data-srcset="./../images/VA18/bd-11255-512px.jpg 512w,
+  ./../images/VA18/bd-11255-768px.jpg 768w,
+  ./../images/VA18/bd-11255-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-11290.jpg" />
- <img src="./../images/VA18/bd-11290.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-11290-1090px.jpg"
+  data-srcset="./../images/VA18/tv-11290-512px.jpg 512w,
+  ./../images/VA18/tv-11290-768px.jpg 768w,
+  ./../images/VA18/tv-11290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-11290-1090px.jpg"
+  data-srcset="./../images/VA18/bd-11290-512px.jpg 512w,
+  ./../images/VA18/bd-11290-768px.jpg 768w,
+  ./../images/VA18/bd-11290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-11358.jpg" />
- <img src="./../images/VA18/bd-11358.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-11358-1090px.jpg"
+  data-srcset="./../images/VA18/tv-11358-512px.jpg 512w,
+  ./../images/VA18/tv-11358-768px.jpg 768w,
+  ./../images/VA18/tv-11358-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-11358-1090px.jpg"
+  data-srcset="./../images/VA18/bd-11358-512px.jpg 512w,
+  ./../images/VA18/bd-11358-768px.jpg 768w,
+  ./../images/VA18/bd-11358-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -223,8 +461,22 @@ Well then, without further ago... Shall we?
 - ONE (1) of the frames of the viper biting Melone on his ugly pervert face has a better contract. This is for you, vore fans:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-11767.jpg" />
- <img src="./../images/VA18/bd-11767.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-11767-1090px.jpg"
+  data-srcset="./../images/VA18/tv-11767-512px.jpg 512w,
+  ./../images/VA18/tv-11767-768px.jpg 768w,
+  ./../images/VA18/tv-11767-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-11767-1090px.jpg"
+  data-srcset="./../images/VA18/bd-11767-512px.jpg 512w,
+  ./../images/VA18/bd-11767-768px.jpg 768w,
+  ./../images/VA18/bd-11767-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -232,8 +484,22 @@ Well then, without further ago... Shall we?
 - Here, the camera has been moved a little bit and the general lighting and shading are different too. The background outside the window has also been changed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-12465.jpg" />
- <img src="./../images/VA18/bd-12465.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-12465-1090px.jpg"
+  data-srcset="./../images/VA18/tv-12465-512px.jpg 512w,
+  ./../images/VA18/tv-12465-768px.jpg 768w,
+  ./../images/VA18/tv-12465-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-12465-1090px.jpg"
+  data-srcset="./../images/VA18/bd-12465-512px.jpg 512w,
+  ./../images/VA18/bd-12465-768px.jpg 768w,
+  ./../images/VA18/bd-12465-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -248,8 +514,22 @@ Well then, without further ago... Shall we?
 - And just... everything is better here! Check it:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-13235.jpg" />
- <img src="./../images/VA18/bd-13235.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-13235-1090px.jpg"
+  data-srcset="./../images/VA18/tv-13235-512px.jpg 512w,
+  ./../images/VA18/tv-13235-768px.jpg 768w,
+  ./../images/VA18/tv-13235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-13235-1090px.jpg"
+  data-srcset="./../images/VA18/bd-13235-512px.jpg 512w,
+  ./../images/VA18/bd-13235-768px.jpg 768w,
+  ./../images/VA18/bd-13235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -257,8 +537,22 @@ Well then, without further ago... Shall we?
 - AND ANOTHER COMPLETELY DIFFERENT FRAME! I love this episode! Take a look at these precious babies:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-13245.jpg" />
- <img src="./../images/VA18/bd-13245.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-13245-1090px.jpg"
+  data-srcset="./../images/VA18/tv-13245-512px.jpg 512w,
+  ./../images/VA18/tv-13245-768px.jpg 768w,
+  ./../images/VA18/tv-13245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-13245-1090px.jpg"
+  data-srcset="./../images/VA18/bd-13245-512px.jpg 512w,
+  ./../images/VA18/bd-13245-768px.jpg 768w,
+  ./../images/VA18/bd-13245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -266,15 +560,43 @@ Well then, without further ago... Shall we?
 - Narancia and Abbacchio's faces have been redrawn here THANK GOD:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-13260.jpg" />
- <img src="./../images/VA18/bd-13260.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-13260-1090px.jpg"
+  data-srcset="./../images/VA18/tv-13260-512px.jpg 512w,
+  ./../images/VA18/tv-13260-768px.jpg 768w,
+  ./../images/VA18/tv-13260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-13260-1090px.jpg"
+  data-srcset="./../images/VA18/bd-13260-512px.jpg 512w,
+  ./../images/VA18/bd-13260-768px.jpg 768w,
+  ./../images/VA18/bd-13260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-13360.jpg" />
- <img src="./../images/VA18/bd-13360.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-13360-1090px.jpg"
+  data-srcset="./../images/VA18/tv-13360-512px.jpg 512w,
+  ./../images/VA18/tv-13360-768px.jpg 768w,
+  ./../images/VA18/tv-13360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-13360-1090px.jpg"
+  data-srcset="./../images/VA18/bd-13360-512px.jpg 512w,
+  ./../images/VA18/bd-13360-768px.jpg 768w,
+  ./../images/VA18/bd-13360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -282,15 +604,43 @@ Well then, without further ago... Shall we?
 - The m in "Moody Blues" is now uppercase, and "Abbacchio" has been spaced a little differently... (It might be hard to spot in the first frame):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-13445.jpg" />
- <img src="./../images/VA18/bd-13445.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-13445-1090px.jpg"
+  data-srcset="./../images/VA18/tv-13445-512px.jpg 512w,
+  ./../images/VA18/tv-13445-768px.jpg 768w,
+  ./../images/VA18/tv-13445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-13445-1090px.jpg"
+  data-srcset="./../images/VA18/bd-13445-512px.jpg 512w,
+  ./../images/VA18/bd-13445-768px.jpg 768w,
+  ./../images/VA18/bd-13445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-13590.jpg" />
- <img src="./../images/VA18/bd-13590.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-13590-1090px.jpg"
+  data-srcset="./../images/VA18/tv-13590-512px.jpg 512w,
+  ./../images/VA18/tv-13590-768px.jpg 768w,
+  ./../images/VA18/tv-13590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-13590-1090px.jpg"
+  data-srcset="./../images/VA18/bd-13590-512px.jpg 512w,
+  ./../images/VA18/bd-13590-768px.jpg 768w,
+  ./../images/VA18/bd-13590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -305,8 +655,22 @@ Well then, without further ago... Shall we?
 - Abbacchio's aura is slightly different here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-13765.jpg" />
- <img src="./../images/VA18/bd-13765.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-13765-1090px.jpg"
+  data-srcset="./../images/VA18/tv-13765-512px.jpg 512w,
+  ./../images/VA18/tv-13765-768px.jpg 768w,
+  ./../images/VA18/tv-13765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-13765-1090px.jpg"
+  data-srcset="./../images/VA18/bd-13765-512px.jpg 512w,
+  ./../images/VA18/bd-13765-768px.jpg 768w,
+  ./../images/VA18/bd-13765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -314,8 +678,22 @@ Well then, without further ago... Shall we?
 - And here, Pericolo's face is no longer a featureless slab of pink goo:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-14055.jpg" />
- <img src="./../images/VA18/bd-14055.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-14055-1090px.jpg"
+  data-srcset="./../images/VA18/tv-14055-512px.jpg 512w,
+  ./../images/VA18/tv-14055-768px.jpg 768w,
+  ./../images/VA18/tv-14055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-14055-1090px.jpg"
+  data-srcset="./../images/VA18/bd-14055-512px.jpg 512w,
+  ./../images/VA18/bd-14055-768px.jpg 768w,
+  ./../images/VA18/bd-14055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -323,8 +701,22 @@ Well then, without further ago... Shall we?
 - And it's received a fresh coat of shading here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-14057.jpg" />
- <img src="./../images/VA18/bd-14057.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-14057-1090px.jpg"
+  data-srcset="./../images/VA18/tv-14057-512px.jpg 512w,
+  ./../images/VA18/tv-14057-768px.jpg 768w,
+  ./../images/VA18/tv-14057-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-14057-1090px.jpg"
+  data-srcset="./../images/VA18/bd-14057-512px.jpg 512w,
+  ./../images/VA18/bd-14057-768px.jpg 768w,
+  ./../images/VA18/bd-14057-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -332,8 +724,22 @@ Well then, without further ago... Shall we?
 - Here, the bottom of the frame has a darker vignette and the Moody Blues counter is no longer glitching out in some frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-14445.jpg" />
- <img src="./../images/VA18/bd-14445.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-14445-1090px.jpg"
+  data-srcset="./../images/VA18/tv-14445-512px.jpg 512w,
+  ./../images/VA18/tv-14445-768px.jpg 768w,
+  ./../images/VA18/tv-14445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-14445-1090px.jpg"
+  data-srcset="./../images/VA18/bd-14445-512px.jpg 512w,
+  ./../images/VA18/bd-14445-768px.jpg 768w,
+  ./../images/VA18/bd-14445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -341,8 +747,22 @@ Well then, without further ago... Shall we?
 - The shadow on Mama Buccellati's beautiful face has been tweaked as well, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-14625.jpg" />
- <img src="./../images/VA18/bd-14625.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-14625-1090px.jpg"
+  data-srcset="./../images/VA18/tv-14625-512px.jpg 512w,
+  ./../images/VA18/tv-14625-768px.jpg 768w,
+  ./../images/VA18/tv-14625-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-14625-1090px.jpg"
+  data-srcset="./../images/VA18/bd-14625-512px.jpg 512w,
+  ./../images/VA18/bd-14625-768px.jpg 768w,
+  ./../images/VA18/bd-14625-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -350,15 +770,43 @@ Well then, without further ago... Shall we?
 - While here, all three faces have been retouched, the bottom is _lighter_ and the shading on Trish has been changed slightly as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-14950.jpg" />
- <img src="./../images/VA18/bd-14950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-14950-1090px.jpg"
+  data-srcset="./../images/VA18/tv-14950-512px.jpg 512w,
+  ./../images/VA18/tv-14950-768px.jpg 768w,
+  ./../images/VA18/tv-14950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-14950-1090px.jpg"
+  data-srcset="./../images/VA18/bd-14950-512px.jpg 512w,
+  ./../images/VA18/bd-14950-768px.jpg 768w,
+  ./../images/VA18/bd-14950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-14960.jpg" />
- <img src="./../images/VA18/bd-14960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-14960-1090px.jpg"
+  data-srcset="./../images/VA18/tv-14960-512px.jpg 512w,
+  ./../images/VA18/tv-14960-768px.jpg 768w,
+  ./../images/VA18/tv-14960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-14960-1090px.jpg"
+  data-srcset="./../images/VA18/bd-14960-512px.jpg 512w,
+  ./../images/VA18/bd-14960-768px.jpg 768w,
+  ./../images/VA18/bd-14960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -366,8 +814,22 @@ Well then, without further ago... Shall we?
 - And in this classic Jojo-style shot-over-a-shot bit here, the background is much darker and bluer and Buccellati's eye area has been retouched. Narancia's right eye is also looking a little better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-15035.jpg" />
- <img src="./../images/VA18/bd-15035.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-15035-1090px.jpg"
+  data-srcset="./../images/VA18/tv-15035-512px.jpg 512w,
+  ./../images/VA18/tv-15035-768px.jpg 768w,
+  ./../images/VA18/tv-15035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-15035-1090px.jpg"
+  data-srcset="./../images/VA18/bd-15035-512px.jpg 512w,
+  ./../images/VA18/bd-15035-768px.jpg 768w,
+  ./../images/VA18/bd-15035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -375,8 +837,22 @@ Well then, without further ago... Shall we?
 - Here, the picture frame is now more regular and the Moody Blues numbers have been resized as well. The white near his right eye corner has also been retouched...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-15135.jpg" />
- <img src="./../images/VA18/bd-15135.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-15135-1090px.jpg"
+  data-srcset="./../images/VA18/tv-15135-512px.jpg 512w,
+  ./../images/VA18/tv-15135-768px.jpg 768w,
+  ./../images/VA18/tv-15135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-15135-1090px.jpg"
+  data-srcset="./../images/VA18/bd-15135-512px.jpg 512w,
+  ./../images/VA18/bd-15135-768px.jpg 768w,
+  ./../images/VA18/bd-15135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -384,8 +860,22 @@ Well then, without further ago... Shall we?
 - ... and when he turns, a few more lines have been tweaked, the lighter flame is brighter and his mouth is now stuck open:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-15390.jpg" />
- <img src="./../images/VA18/bd-15390.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-15390-1090px.jpg"
+  data-srcset="./../images/VA18/tv-15390-512px.jpg 512w,
+  ./../images/VA18/tv-15390-768px.jpg 768w,
+  ./../images/VA18/tv-15390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-15390-1090px.jpg"
+  data-srcset="./../images/VA18/bd-15390-512px.jpg 512w,
+  ./../images/VA18/bd-15390-768px.jpg 768w,
+  ./../images/VA18/bd-15390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -393,8 +883,22 @@ Well then, without further ago... Shall we?
 - Here, the Moody Blues counter on Pericolo's forehead now reads 14:04:42:87 instead of 14:04:52:87:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-15900.jpg" />
- <img src="./../images/VA18/bd-15900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-15900-1090px.jpg"
+  data-srcset="./../images/VA18/tv-15900-512px.jpg 512w,
+  ./../images/VA18/tv-15900-768px.jpg 768w,
+  ./../images/VA18/tv-15900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-15900-1090px.jpg"
+  data-srcset="./../images/VA18/bd-15900-512px.jpg 512w,
+  ./../images/VA18/bd-15900-768px.jpg 768w,
+  ./../images/VA18/bd-15900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -402,8 +906,22 @@ Well then, without further ago... Shall we?
 - Phew! Alright, the Baby Face half of the episode is done! Brace yourselves, because the fun starts here! In this shot, Venezia is _glowing_ and the Venetian lagoon's waters are now looking less flat:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-18230.jpg" />
- <img src="./../images/VA18/bd-18230.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-18230-1090px.jpg"
+  data-srcset="./../images/VA18/tv-18230-512px.jpg 512w,
+  ./../images/VA18/tv-18230-768px.jpg 768w,
+  ./../images/VA18/tv-18230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-18230-1090px.jpg"
+  data-srcset="./../images/VA18/bd-18230-512px.jpg 512w,
+  ./../images/VA18/bd-18230-768px.jpg 768w,
+  ./../images/VA18/bd-18230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -411,8 +929,22 @@ Well then, without further ago... Shall we?
 - And here, both pillar and OA-Disc have been retouched (most notably, the number on the disc):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-18321.jpg" />
- <img src="./../images/VA18/bd-18321.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-18321-1090px.jpg"
+  data-srcset="./../images/VA18/tv-18321-512px.jpg 512w,
+  ./../images/VA18/tv-18321-768px.jpg 768w,
+  ./../images/VA18/tv-18321-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-18321-1090px.jpg"
+  data-srcset="./../images/VA18/bd-18321-512px.jpg 512w,
+  ./../images/VA18/bd-18321-768px.jpg 768w,
+  ./../images/VA18/bd-18321-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -420,8 +952,22 @@ Well then, without further ago... Shall we?
 - Here, the water is looking better once again, and the Libertà Bridge is darker towards the bottom of the frame...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-18445.jpg" />
- <img src="./../images/VA18/bd-18445.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-18445-1090px.jpg"
+  data-srcset="./../images/VA18/tv-18445-512px.jpg 512w,
+  ./../images/VA18/tv-18445-768px.jpg 768w,
+  ./../images/VA18/tv-18445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-18445-1090px.jpg"
+  data-srcset="./../images/VA18/bd-18445-512px.jpg 512w,
+  ./../images/VA18/bd-18445-768px.jpg 768w,
+  ./../images/VA18/bd-18445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -429,8 +975,22 @@ Well then, without further ago... Shall we?
 - ... and the car now has its headlights on! Good Giorno:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-18464.jpg" />
- <img src="./../images/VA18/bd-18464.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-18464-1090px.jpg"
+  data-srcset="./../images/VA18/tv-18464-512px.jpg 512w,
+  ./../images/VA18/tv-18464-768px.jpg 768w,
+  ./../images/VA18/tv-18464-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-18464-1090px.jpg"
+  data-srcset="./../images/VA18/bd-18464-512px.jpg 512w,
+  ./../images/VA18/bd-18464-768px.jpg 768w,
+  ./../images/VA18/bd-18464-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -438,8 +998,22 @@ Well then, without further ago... Shall we?
 - A lot of things are different here, ok? A lot. Check it out for yourselves:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-18470.jpg" />
- <img src="./../images/VA18/bd-18470.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-18470-1090px.jpg"
+  data-srcset="./../images/VA18/tv-18470-512px.jpg 512w,
+  ./../images/VA18/tv-18470-768px.jpg 768w,
+  ./../images/VA18/tv-18470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-18470-1090px.jpg"
+  data-srcset="./../images/VA18/bd-18470-512px.jpg 512w,
+  ./../images/VA18/bd-18470-768px.jpg 768w,
+  ./../images/VA18/bd-18470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -473,8 +1047,22 @@ Well then, without further ago... Shall we?
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-19102.jpg" />
- <img src="./../images/VA18/bd-19102.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-19102-1090px.jpg"
+  data-srcset="./../images/VA18/tv-19102-512px.jpg 512w,
+  ./../images/VA18/tv-19102-768px.jpg 768w,
+  ./../images/VA18/tv-19102-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-19102-1090px.jpg"
+  data-srcset="./../images/VA18/bd-19102-512px.jpg 512w,
+  ./../images/VA18/bd-19102-768px.jpg 768w,
+  ./../images/VA18/bd-19102-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -482,8 +1070,22 @@ Well then, without further ago... Shall we?
 - This light pole has been... moved a little bit for some obscure reason:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-19230.jpg" />
- <img src="./../images/VA18/bd-19230.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-19230-1090px.jpg"
+  data-srcset="./../images/VA18/tv-19230-512px.jpg 512w,
+  ./../images/VA18/tv-19230-768px.jpg 768w,
+  ./../images/VA18/tv-19230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-19230-1090px.jpg"
+  data-srcset="./../images/VA18/bd-19230-512px.jpg 512w,
+  ./../images/VA18/bd-19230-768px.jpg 768w,
+  ./../images/VA18/bd-19230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -498,8 +1100,22 @@ Well then, without further ago... Shall we?
 - The colours outside the windows are also a tiiiiiny bit different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-19345.jpg" />
- <img src="./../images/VA18/bd-19345.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-19345-1090px.jpg"
+  data-srcset="./../images/VA18/tv-19345-512px.jpg 512w,
+  ./../images/VA18/tv-19345-768px.jpg 768w,
+  ./../images/VA18/tv-19345-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-19345-1090px.jpg"
+  data-srcset="./../images/VA18/bd-19345-512px.jpg 512w,
+  ./../images/VA18/bd-19345-768px.jpg 768w,
+  ./../images/VA18/bd-19345-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -514,8 +1130,22 @@ Well then, without further ago... Shall we?
 - And here, everything is less blue and a little sharper, Mista has been moved back a little bit, the ice is more visible on the left part of his face and there are different motion effects on the sides of the frame:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-21400.jpg" />
- <img src="./../images/VA18/bd-21400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-21400-1090px.jpg"
+  data-srcset="./../images/VA18/tv-21400-512px.jpg 512w,
+  ./../images/VA18/tv-21400-768px.jpg 768w,
+  ./../images/VA18/tv-21400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-21400-1090px.jpg"
+  data-srcset="./../images/VA18/bd-21400-512px.jpg 512w,
+  ./../images/VA18/bd-21400-768px.jpg 768w,
+  ./../images/VA18/bd-21400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -530,8 +1160,22 @@ Well then, without further ago... Shall we?
 - Here, the camera has been moved a little to the right, the hand in the foreground is much less blurry and the lest is looking a tiiny bit less sharp:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-21600.jpg" />
- <img src="./../images/VA18/bd-21600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-21600-1090px.jpg"
+  data-srcset="./../images/VA18/tv-21600-512px.jpg 512w,
+  ./../images/VA18/tv-21600-768px.jpg 768w,
+  ./../images/VA18/tv-21600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-21600-1090px.jpg"
+  data-srcset="./../images/VA18/bd-21600-512px.jpg 512w,
+  ./../images/VA18/bd-21600-768px.jpg 768w,
+  ./../images/VA18/bd-21600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -546,8 +1190,22 @@ Well then, without further ago... Shall we?
 - Let's dive in! In this middle bit, Mista's pinky injury is more explicit, there are more blood spurts and no motion lines around the edges:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-21670.jpg" />
- <img src="./../images/VA18/bd-21670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-21670-1090px.jpg"
+  data-srcset="./../images/VA18/tv-21670-512px.jpg 512w,
+  ./../images/VA18/tv-21670-768px.jpg 768w,
+  ./../images/VA18/tv-21670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-21670-1090px.jpg"
+  data-srcset="./../images/VA18/bd-21670-512px.jpg 512w,
+  ./../images/VA18/bd-21670-768px.jpg 768w,
+  ./../images/VA18/bd-21670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -555,8 +1213,22 @@ Well then, without further ago... Shall we?
 - And here, the hand has been moved and has a different blue effect overlay; in addition, Mista's face has been recoloured and retouched too. The sweat drops look worse in my opinion, but it's an extremely minor gripe:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-21735.jpg" />
- <img src="./../images/VA18/bd-21735.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-21735-1090px.jpg"
+  data-srcset="./../images/VA18/tv-21735-512px.jpg 512w,
+  ./../images/VA18/tv-21735-768px.jpg 768w,
+  ./../images/VA18/tv-21735-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-21735-1090px.jpg"
+  data-srcset="./../images/VA18/bd-21735-512px.jpg 512w,
+  ./../images/VA18/bd-21735-768px.jpg 768w,
+  ./../images/VA18/bd-21735-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -572,8 +1244,22 @@ Well then, without further ago... Shall we?
 - And here, the frame has been completely recoloured and retouched, and the camera has been moved as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-22695.jpg" />
- <img src="./../images/VA18/bd-22695.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-22695-1090px.jpg"
+  data-srcset="./../images/VA18/tv-22695-512px.jpg 512w,
+  ./../images/VA18/tv-22695-768px.jpg 768w,
+  ./../images/VA18/tv-22695-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-22695-1090px.jpg"
+  data-srcset="./../images/VA18/bd-22695-512px.jpg 512w,
+  ./../images/VA18/bd-22695-768px.jpg 768w,
+  ./../images/VA18/bd-22695-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -588,8 +1274,22 @@ Well then, without further ago... Shall we?
 - Things are looking very different for Mista too, in the backseat! Most notably, his swanky pantaloons are now white (like they are in all other scenes with a similar palette):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-24000.jpg" />
- <img src="./../images/VA18/bd-24000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-24000-1090px.jpg"
+  data-srcset="./../images/VA18/tv-24000-512px.jpg 512w,
+  ./../images/VA18/tv-24000-768px.jpg 768w,
+  ./../images/VA18/tv-24000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-24000-1090px.jpg"
+  data-srcset="./../images/VA18/bd-24000-512px.jpg 512w,
+  ./../images/VA18/bd-24000-768px.jpg 768w,
+  ./../images/VA18/bd-24000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -604,8 +1304,22 @@ Well then, without further ago... Shall we?
 - The heavy redraws extend to this close-up:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-24015.jpg" />
- <img src="./../images/VA18/bd-24015.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-24015-1090px.jpg"
+  data-srcset="./../images/VA18/tv-24015-512px.jpg 512w,
+  ./../images/VA18/tv-24015-768px.jpg 768w,
+  ./../images/VA18/tv-24015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-24015-1090px.jpg"
+  data-srcset="./../images/VA18/bd-24015-512px.jpg 512w,
+  ./../images/VA18/bd-24015-768px.jpg 768w,
+  ./../images/VA18/bd-24015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -620,8 +1334,22 @@ Well then, without further ago... Shall we?
 - In this shot of Ghiaccio being a dumb elephant boy, the ice mist effect is MUCH more prominent:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-24580.jpg" />
- <img src="./../images/VA18/bd-24580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-24580-1090px.jpg"
+  data-srcset="./../images/VA18/tv-24580-512px.jpg 512w,
+  ./../images/VA18/tv-24580-768px.jpg 768w,
+  ./../images/VA18/tv-24580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-24580-1090px.jpg"
+  data-srcset="./../images/VA18/bd-24580-512px.jpg 512w,
+  ./../images/VA18/bd-24580-768px.jpg 768w,
+  ./../images/VA18/bd-24580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -629,8 +1357,22 @@ Well then, without further ago... Shall we?
 - And here, there is a slightly different distortion along the edges, and the wind effects are a little different as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-25690.jpg" />
- <img src="./../images/VA18/bd-25690.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-25690-1090px.jpg"
+  data-srcset="./../images/VA18/tv-25690-512px.jpg 512w,
+  ./../images/VA18/tv-25690-768px.jpg 768w,
+  ./../images/VA18/tv-25690-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-25690-1090px.jpg"
+  data-srcset="./../images/VA18/bd-25690-512px.jpg 512w,
+  ./../images/VA18/bd-25690-768px.jpg 768w,
+  ./../images/VA18/bd-25690-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -645,8 +1387,22 @@ Well then, without further ago... Shall we?
 - Here, the wind effects are stronger and the bullets are looking a little shinier too...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-25810.jpg" />
- <img src="./../images/VA18/bd-25810.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-25810-1090px.jpg"
+  data-srcset="./../images/VA18/tv-25810-512px.jpg 512w,
+  ./../images/VA18/tv-25810-768px.jpg 768w,
+  ./../images/VA18/tv-25810-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-25810-1090px.jpg"
+  data-srcset="./../images/VA18/bd-25810-512px.jpg 512w,
+  ./../images/VA18/bd-25810-768px.jpg 768w,
+  ./../images/VA18/bd-25810-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -654,8 +1410,22 @@ Well then, without further ago... Shall we?
 - Similar to an earlier difference, the background is darker and bluer here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-25880.jpg" />
- <img src="./../images/VA18/bd-25880.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-25880-1090px.jpg"
+  data-srcset="./../images/VA18/tv-25880-512px.jpg 512w,
+  ./../images/VA18/tv-25880-768px.jpg 768w,
+  ./../images/VA18/tv-25880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-25880-1090px.jpg"
+  data-srcset="./../images/VA18/bd-25880-512px.jpg 512w,
+  ./../images/VA18/bd-25880-768px.jpg 768w,
+  ./../images/VA18/bd-25880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -670,15 +1440,43 @@ Well then, without further ago... Shall we?
 - Basically everything is looking massively different here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-26116.jpg" />
- <img src="./../images/VA18/bd-26116.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-26116-1090px.jpg"
+  data-srcset="./../images/VA18/tv-26116-512px.jpg 512w,
+  ./../images/VA18/tv-26116-768px.jpg 768w,
+  ./../images/VA18/tv-26116-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-26116-1090px.jpg"
+  data-srcset="./../images/VA18/bd-26116-512px.jpg 512w,
+  ./../images/VA18/bd-26116-768px.jpg 768w,
+  ./../images/VA18/bd-26116-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-26200.jpg" />
- <img src="./../images/VA18/bd-26200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-26200-1090px.jpg"
+  data-srcset="./../images/VA18/tv-26200-512px.jpg 512w,
+  ./../images/VA18/tv-26200-768px.jpg 768w,
+  ./../images/VA18/tv-26200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-26200-1090px.jpg"
+  data-srcset="./../images/VA18/bd-26200-512px.jpg 512w,
+  ./../images/VA18/bd-26200-768px.jpg 768w,
+  ./../images/VA18/bd-26200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -714,8 +1512,22 @@ Well then, without further ago... Shall we?
 - Let's take a break from all these emotions with a tamer difference! The lagoon waters are a liiiittle less sparkly here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-27045.jpg" />
- <img src="./../images/VA18/bd-27045.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-27045-1090px.jpg"
+  data-srcset="./../images/VA18/tv-27045-512px.jpg 512w,
+  ./../images/VA18/tv-27045-768px.jpg 768w,
+  ./../images/VA18/tv-27045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-27045-1090px.jpg"
+  data-srcset="./../images/VA18/bd-27045-512px.jpg 512w,
+  ./../images/VA18/bd-27045-768px.jpg 768w,
+  ./../images/VA18/bd-27045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -723,8 +1535,22 @@ Well then, without further ago... Shall we?
 - And here, Ghiaccio's aura is looking better, and he's now casting a shadow on the ground:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-27165.jpg" />
- <img src="./../images/VA18/bd-27165.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-27165-1090px.jpg"
+  data-srcset="./../images/VA18/tv-27165-512px.jpg 512w,
+  ./../images/VA18/tv-27165-768px.jpg 768w,
+  ./../images/VA18/tv-27165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-27165-1090px.jpg"
+  data-srcset="./../images/VA18/bd-27165-512px.jpg 512w,
+  ./../images/VA18/bd-27165-768px.jpg 768w,
+  ./../images/VA18/bd-27165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -732,8 +1558,22 @@ Well then, without further ago... Shall we?
 - And later on, the missing aura was drawn in, and the dividing line is now looking jaggier and more interesting:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-27235.jpg" />
- <img src="./../images/VA18/bd-27235.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-27235-1090px.jpg"
+  data-srcset="./../images/VA18/tv-27235-512px.jpg 512w,
+  ./../images/VA18/tv-27235-768px.jpg 768w,
+  ./../images/VA18/tv-27235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-27235-1090px.jpg"
+  data-srcset="./../images/VA18/bd-27235-512px.jpg 512w,
+  ./../images/VA18/bd-27235-768px.jpg 768w,
+  ./../images/VA18/bd-27235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -741,8 +1581,22 @@ Well then, without further ago... Shall we?
 - And here, the speed lines have been moved to better frame Ghiaccio:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-27670.jpg" />
- <img src="./../images/VA18/bd-27670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-27670-1090px.jpg"
+  data-srcset="./../images/VA18/tv-27670-512px.jpg 512w,
+  ./../images/VA18/tv-27670-768px.jpg 768w,
+  ./../images/VA18/tv-27670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-27670-1090px.jpg"
+  data-srcset="./../images/VA18/bd-27670-512px.jpg 512w,
+  ./../images/VA18/bd-27670-768px.jpg 768w,
+  ./../images/VA18/bd-27670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -762,8 +1616,22 @@ Well then, without further ago... Shall we?
 - Here, the ice effects are looking better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-29715.jpg" />
- <img src="./../images/VA18/bd-29715.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-29715-1090px.jpg"
+  data-srcset="./../images/VA18/tv-29715-512px.jpg 512w,
+  ./../images/VA18/tv-29715-768px.jpg 768w,
+  ./../images/VA18/tv-29715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-29715-1090px.jpg"
+  data-srcset="./../images/VA18/bd-29715-512px.jpg 512w,
+  ./../images/VA18/bd-29715-768px.jpg 768w,
+  ./../images/VA18/bd-29715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -793,8 +1661,22 @@ Well then, without further ago... Shall we?
 - Phew! In the last different animation, the foreground Mista has been slightly moved and retouched too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-30285.jpg" />
- <img src="./../images/VA18/bd-30285.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-30285-1090px.jpg"
+  data-srcset="./../images/VA18/tv-30285-512px.jpg 512w,
+  ./../images/VA18/tv-30285-768px.jpg 768w,
+  ./../images/VA18/tv-30285-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-30285-1090px.jpg"
+  data-srcset="./../images/VA18/bd-30285-512px.jpg 512w,
+  ./../images/VA18/bd-30285-768px.jpg 768w,
+  ./../images/VA18/bd-30285-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -814,15 +1696,43 @@ Well then, without further ago... Shall we?
 - Let's take a break with some STILL IMAGES! Here, the lighting and shading on most things is different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-30970.jpg" />
- <img src="./../images/VA18/bd-30970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-30970-1090px.jpg"
+  data-srcset="./../images/VA18/tv-30970-512px.jpg 512w,
+  ./../images/VA18/tv-30970-768px.jpg 768w,
+  ./../images/VA18/tv-30970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-30970-1090px.jpg"
+  data-srcset="./../images/VA18/bd-30970-512px.jpg 512w,
+  ./../images/VA18/bd-30970-768px.jpg 768w,
+  ./../images/VA18/bd-30970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-30995.jpg" />
- <img src="./../images/VA18/bd-30995.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-30995-1090px.jpg"
+  data-srcset="./../images/VA18/tv-30995-512px.jpg 512w,
+  ./../images/VA18/tv-30995-768px.jpg 768w,
+  ./../images/VA18/tv-30995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-30995-1090px.jpg"
+  data-srcset="./../images/VA18/bd-30995-512px.jpg 512w,
+  ./../images/VA18/bd-30995-768px.jpg 768w,
+  ./../images/VA18/bd-30995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -842,8 +1752,22 @@ Well then, without further ago... Shall we?
 - Oh, boy! Moving on... Here, the background and most lights in the shot are a little hazier and the car is a little blurrier:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-31375.jpg" />
- <img src="./../images/VA18/bd-31375.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-31375-1090px.jpg"
+  data-srcset="./../images/VA18/tv-31375-512px.jpg 512w,
+  ./../images/VA18/tv-31375-768px.jpg 768w,
+  ./../images/VA18/tv-31375-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-31375-1090px.jpg"
+  data-srcset="./../images/VA18/bd-31375-512px.jpg 512w,
+  ./../images/VA18/bd-31375-768px.jpg 768w,
+  ./../images/VA18/bd-31375-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -851,8 +1775,22 @@ Well then, without further ago... Shall we?
 - And here, there is a different distortion around the edges, the car's headlights are brighter, the poles in the background and the car are blurrier and the car's chassis is also darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-31415.jpg" />
- <img src="./../images/VA18/bd-31415.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-31415-1090px.jpg"
+  data-srcset="./../images/VA18/tv-31415-512px.jpg 512w,
+  ./../images/VA18/tv-31415-768px.jpg 768w,
+  ./../images/VA18/tv-31415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-31415-1090px.jpg"
+  data-srcset="./../images/VA18/bd-31415-512px.jpg 512w,
+  ./../images/VA18/bd-31415-768px.jpg 768w,
+  ./../images/VA18/bd-31415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -872,8 +1810,22 @@ Well then, without further ago... Shall we?
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-31815.jpg" />
- <img src="./../images/VA18/bd-31815.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-31815-1090px.jpg"
+  data-srcset="./../images/VA18/tv-31815-512px.jpg 512w,
+  ./../images/VA18/tv-31815-768px.jpg 768w,
+  ./../images/VA18/tv-31815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-31815-1090px.jpg"
+  data-srcset="./../images/VA18/bd-31815-512px.jpg 512w,
+  ./../images/VA18/bd-31815-768px.jpg 768w,
+  ./../images/VA18/bd-31815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -881,8 +1833,22 @@ Well then, without further ago... Shall we?
 - Pheeew! Let's move on to a couple of credits differences, shall we? Here, for some reason, the scriptwriter has been changed! It's no longer 小林靖子 (Kobayashi Yasuko), but instead 猪爪慎一 (Inotsume Shin'ichi). Weird! Check it out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-32085.jpg" />
- <img src="./../images/VA18/bd-32085.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-32085-1090px.jpg"
+  data-srcset="./../images/VA18/tv-32085-512px.jpg 512w,
+  ./../images/VA18/tv-32085-768px.jpg 768w,
+  ./../images/VA18/tv-32085-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-32085-1090px.jpg"
+  data-srcset="./../images/VA18/bd-32085-512px.jpg 512w,
+  ./../images/VA18/bd-32085-768px.jpg 768w,
+  ./../images/VA18/bd-32085-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -890,8 +1856,22 @@ Well then, without further ago... Shall we?
 - And here, like in the previous episode, 銀 ("Gin")'s name has been added on the right:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA18/tv-32305.jpg" />
- <img src="./../images/VA18/bd-32305.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/tv-32305-1090px.jpg"
+  data-srcset="./../images/VA18/tv-32305-512px.jpg 512w,
+  ./../images/VA18/tv-32305-768px.jpg 768w,
+  ./../images/VA18/tv-32305-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA18/bd-32305-1090px.jpg"
+  data-srcset="./../images/VA18/bd-32305-512px.jpg 512w,
+  ./../images/VA18/bd-32305-768px.jpg 768w,
+  ./../images/VA18/bd-32305-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

@@ -19,8 +19,22 @@ Hello again, friends! Long time no see! Shall we dive right into this comparison
 - Let's start with this beautiful shot of Pesci, now slightly uncensored:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA15/tv-08740.jpg" />
- <img src="./../images/VA15/bd-08740.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/tv-08740-1090px.jpg"
+  data-srcset="./../images/VA15/tv-08740-512px.jpg 512w,
+  ./../images/VA15/tv-08740-768px.jpg 768w,
+  ./../images/VA15/tv-08740-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/bd-08740-1090px.jpg"
+  data-srcset="./../images/VA15/bd-08740-512px.jpg 512w,
+  ./../images/VA15/bd-08740-768px.jpg 768w,
+  ./../images/VA15/bd-08740-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -33,8 +47,22 @@ Hello again, friends! Long time no see! Shall we dive right into this comparison
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA15/tv-15820.jpg" />
- <img src="./../images/VA15/bd-15820.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/tv-15820-1090px.jpg"
+  data-srcset="./../images/VA15/tv-15820-512px.jpg 512w,
+  ./../images/VA15/tv-15820-768px.jpg 768w,
+  ./../images/VA15/tv-15820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/bd-15820-1090px.jpg"
+  data-srcset="./../images/VA15/bd-15820-512px.jpg 512w,
+  ./../images/VA15/bd-15820-768px.jpg 768w,
+  ./../images/VA15/bd-15820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -42,29 +70,85 @@ Hello again, friends! Long time no see! Shall we dive right into this comparison
 - In several scenes, Prosciutto has an aura, and his colours are slightly darker and pinker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA15/tv-24545.jpg" />
- <img src="./../images/VA15/bd-24545.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/tv-24545-1090px.jpg"
+  data-srcset="./../images/VA15/tv-24545-512px.jpg 512w,
+  ./../images/VA15/tv-24545-768px.jpg 768w,
+  ./../images/VA15/tv-24545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/bd-24545-1090px.jpg"
+  data-srcset="./../images/VA15/bd-24545-512px.jpg 512w,
+  ./../images/VA15/bd-24545-768px.jpg 768w,
+  ./../images/VA15/bd-24545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA15/tv-24745.jpg" />
- <img src="./../images/VA15/bd-24745.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/tv-24745-1090px.jpg"
+  data-srcset="./../images/VA15/tv-24745-512px.jpg 512w,
+  ./../images/VA15/tv-24745-768px.jpg 768w,
+  ./../images/VA15/tv-24745-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/bd-24745-1090px.jpg"
+  data-srcset="./../images/VA15/bd-24745-512px.jpg 512w,
+  ./../images/VA15/bd-24745-768px.jpg 768w,
+  ./../images/VA15/bd-24745-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA15/tv-24809.jpg" />
- <img src="./../images/VA15/bd-24809.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/tv-24809-1090px.jpg"
+  data-srcset="./../images/VA15/tv-24809-512px.jpg 512w,
+  ./../images/VA15/tv-24809-768px.jpg 768w,
+  ./../images/VA15/tv-24809-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/bd-24809-1090px.jpg"
+  data-srcset="./../images/VA15/bd-24809-512px.jpg 512w,
+  ./../images/VA15/bd-24809-768px.jpg 768w,
+  ./../images/VA15/bd-24809-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA15/tv-26035.jpg" />
- <img src="./../images/VA15/bd-26035.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/tv-26035-1090px.jpg"
+  data-srcset="./../images/VA15/tv-26035-512px.jpg 512w,
+  ./../images/VA15/tv-26035-768px.jpg 768w,
+  ./../images/VA15/tv-26035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/bd-26035-1090px.jpg"
+  data-srcset="./../images/VA15/bd-26035-512px.jpg 512w,
+  ./../images/VA15/bd-26035-768px.jpg 768w,
+  ./../images/VA15/bd-26035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -72,8 +156,22 @@ Hello again, friends! Long time no see! Shall we dive right into this comparison
 - I'm afraid it's already time for the credits, friends... Let's see what we have! Here, the last line (narration) has been removed, and the rest moved down:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA15/tv-31950.jpg" />
- <img src="./../images/VA15/bd-31950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/tv-31950-1090px.jpg"
+  data-srcset="./../images/VA15/tv-31950-512px.jpg 512w,
+  ./../images/VA15/tv-31950-768px.jpg 768w,
+  ./../images/VA15/tv-31950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/bd-31950-1090px.jpg"
+  data-srcset="./../images/VA15/bd-31950-512px.jpg 512w,
+  ./../images/VA15/bd-31950-768px.jpg 768w,
+  ./../images/VA15/bd-31950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -81,8 +179,22 @@ Hello again, friends! Long time no see! Shall we dive right into this comparison
 - Here, like in the last episode, 松尾優 (Matsuo Yū) has been added under designer 鬼窪浩久 (Onikubo Hirohisa), in 銀 (I'm guessing this person just goes by "Gin"?)'s place. 銀's name has, in turn, been moved to the right instead:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA15/tv-32330.jpg" />
- <img src="./../images/VA15/bd-32330.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/tv-32330-1090px.jpg"
+  data-srcset="./../images/VA15/tv-32330-512px.jpg 512w,
+  ./../images/VA15/tv-32330-768px.jpg 768w,
+  ./../images/VA15/tv-32330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/bd-32330-1090px.jpg"
+  data-srcset="./../images/VA15/bd-32330-512px.jpg 512w,
+  ./../images/VA15/bd-32330-768px.jpg 768w,
+  ./../images/VA15/bd-32330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -90,8 +202,22 @@ Hello again, friends! Long time no see! Shall we dive right into this comparison
 - And here, the last three names of the first section have been removed, and the rest has been moved around to accomodate:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA15/tv-32970.jpg" />
- <img src="./../images/VA15/bd-32970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/tv-32970-1090px.jpg"
+  data-srcset="./../images/VA15/tv-32970-512px.jpg 512w,
+  ./../images/VA15/tv-32970-768px.jpg 768w,
+  ./../images/VA15/tv-32970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA15/bd-32970-1090px.jpg"
+  data-srcset="./../images/VA15/bd-32970-512px.jpg 512w,
+  ./../images/VA15/bd-32970-768px.jpg 768w,
+  ./../images/VA15/bd-32970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

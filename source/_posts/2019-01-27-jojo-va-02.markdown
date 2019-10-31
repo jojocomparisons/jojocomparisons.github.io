@@ -31,8 +31,22 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 - The first version of Fighting Gold had a few little things that were fixed from episode #04 onwards. For example, the lines on Abbacchio's fingers and his left tiddie have been slightly retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA02/tv-00773.jpg" />
- <img src="./../images/VA02/bd-00773.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/tv-00773-1090px.jpg"
+  data-srcset="./../images/VA02/tv-00773-512px.jpg 512w,
+  ./../images/VA02/tv-00773-768px.jpg 768w,
+  ./../images/VA02/tv-00773-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/bd-00773-1090px.jpg"
+  data-srcset="./../images/VA02/bd-00773-512px.jpg 512w,
+  ./../images/VA02/bd-00773-768px.jpg 768w,
+  ./../images/VA02/bd-00773-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -40,8 +54,22 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 - The sand around his ring finger has also been retouched...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA02/tv-00775.jpg" />
- <img src="./../images/VA02/bd-00775.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/tv-00775-1090px.jpg"
+  data-srcset="./../images/VA02/tv-00775-512px.jpg 512w,
+  ./../images/VA02/tv-00775-768px.jpg 768w,
+  ./../images/VA02/tv-00775-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/bd-00775-1090px.jpg"
+  data-srcset="./../images/VA02/bd-00775-512px.jpg 512w,
+  ./../images/VA02/bd-00775-768px.jpg 768w,
+  ./../images/VA02/bd-00775-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -49,8 +77,22 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 - And, from a certain point onwards, the sand in the TV version was mistakenly drawn running out from between his middle and ring fingers, instead of how it was before; this has been fixed as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA02/tv-00780.jpg" />
- <img src="./../images/VA02/bd-00780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/tv-00780-1090px.jpg"
+  data-srcset="./../images/VA02/tv-00780-512px.jpg 512w,
+  ./../images/VA02/tv-00780-768px.jpg 768w,
+  ./../images/VA02/tv-00780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/bd-00780-1090px.jpg"
+  data-srcset="./../images/VA02/bd-00780-512px.jpg 512w,
+  ./../images/VA02/bd-00780-768px.jpg 768w,
+  ./../images/VA02/bd-00780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -58,8 +100,22 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 - Abbacchio's also been moved up a little bit, later on, but for some reason the sand near his left hand hasn't been redrawn correctly. It's not too bad, since it's not that noticeable, but it still bothers me a little bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA02/tv-00791.jpg" />
- <img src="./../images/VA02/bd-00791.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/tv-00791-1090px.jpg"
+  data-srcset="./../images/VA02/tv-00791-512px.jpg 512w,
+  ./../images/VA02/tv-00791-768px.jpg 768w,
+  ./../images/VA02/tv-00791-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/bd-00791-1090px.jpg"
+  data-srcset="./../images/VA02/bd-00791-512px.jpg 512w,
+  ./../images/VA02/bd-00791-768px.jpg 768w,
+  ./../images/VA02/bd-00791-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -67,8 +123,22 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 - His right tiddie has also been fixed here, and the missing hand lines have been drawn in:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA02/tv-00792.jpg" />
- <img src="./../images/VA02/bd-00792.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/tv-00792-1090px.jpg"
+  data-srcset="./../images/VA02/tv-00792-512px.jpg 512w,
+  ./../images/VA02/tv-00792-768px.jpg 768w,
+  ./../images/VA02/tv-00792-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/bd-00792-1090px.jpg"
+  data-srcset="./../images/VA02/bd-00792-512px.jpg 512w,
+  ./../images/VA02/bd-00792-768px.jpg 768w,
+  ./../images/VA02/bd-00792-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -76,8 +146,22 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 - Let's move on from Abbacchio to our holey fromagey boy Fugo! Here, the background is a different colour, and the silhouette of his thumb has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA02/tv-01270.jpg" />
- <img src="./../images/VA02/bd-01270.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/tv-01270-1090px.jpg"
+  data-srcset="./../images/VA02/tv-01270-512px.jpg 512w,
+  ./../images/VA02/tv-01270-768px.jpg 768w,
+  ./../images/VA02/tv-01270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/bd-01270-1090px.jpg"
+  data-srcset="./../images/VA02/bd-01270-512px.jpg 512w,
+  ./../images/VA02/bd-01270-768px.jpg 768w,
+  ./../images/VA02/bd-01270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -85,8 +169,22 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 - And here, EVERYTHING is looking better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA02/tv-01275.jpg" />
- <img src="./../images/VA02/bd-01275.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/tv-01275-1090px.jpg"
+  data-srcset="./../images/VA02/tv-01275-512px.jpg 512w,
+  ./../images/VA02/tv-01275-768px.jpg 768w,
+  ./../images/VA02/tv-01275-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/bd-01275-1090px.jpg"
+  data-srcset="./../images/VA02/bd-01275-512px.jpg 512w,
+  ./../images/VA02/bd-01275-768px.jpg 768w,
+  ./../images/VA02/bd-01275-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -106,29 +204,85 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 - Aerosmith's smoke has been changed a little bit, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA02/tv-01513.jpg" />
- <img src="./../images/VA02/bd-01513.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/tv-01513-1090px.jpg"
+  data-srcset="./../images/VA02/tv-01513-512px.jpg 512w,
+  ./../images/VA02/tv-01513-768px.jpg 768w,
+  ./../images/VA02/tv-01513-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/bd-01513-1090px.jpg"
+  data-srcset="./../images/VA02/bd-01513-512px.jpg 512w,
+  ./../images/VA02/bd-01513-768px.jpg 768w,
+  ./../images/VA02/bd-01513-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA02/tv-01515.jpg" />
- <img src="./../images/VA02/bd-01515.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/tv-01515-1090px.jpg"
+  data-srcset="./../images/VA02/tv-01515-512px.jpg 512w,
+  ./../images/VA02/tv-01515-768px.jpg 768w,
+  ./../images/VA02/tv-01515-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/bd-01515-1090px.jpg"
+  data-srcset="./../images/VA02/bd-01515-512px.jpg 512w,
+  ./../images/VA02/bd-01515-768px.jpg 768w,
+  ./../images/VA02/bd-01515-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA02/tv-01520.jpg" />
- <img src="./../images/VA02/bd-01520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/tv-01520-1090px.jpg"
+  data-srcset="./../images/VA02/tv-01520-512px.jpg 512w,
+  ./../images/VA02/tv-01520-768px.jpg 768w,
+  ./../images/VA02/tv-01520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/bd-01520-1090px.jpg"
+  data-srcset="./../images/VA02/bd-01520-512px.jpg 512w,
+  ./../images/VA02/bd-01520-768px.jpg 768w,
+  ./../images/VA02/bd-01520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA02/tv-01530.jpg" />
- <img src="./../images/VA02/bd-01530.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/tv-01530-1090px.jpg"
+  data-srcset="./../images/VA02/tv-01530-512px.jpg 512w,
+  ./../images/VA02/tv-01530-768px.jpg 768w,
+  ./../images/VA02/tv-01530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/bd-01530-1090px.jpg"
+  data-srcset="./../images/VA02/bd-01530-512px.jpg 512w,
+  ./../images/VA02/bd-01530-768px.jpg 768w,
+  ./../images/VA02/bd-01530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -153,8 +307,22 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA02/tv-17598.jpg" />
- <img src="./../images/VA02/bd-17598.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/tv-17598-1090px.jpg"
+  data-srcset="./../images/VA02/tv-17598-512px.jpg 512w,
+  ./../images/VA02/tv-17598-768px.jpg 768w,
+  ./../images/VA02/tv-17598-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/bd-17598-1090px.jpg"
+  data-srcset="./../images/VA02/bd-17598-512px.jpg 512w,
+  ./../images/VA02/bd-17598-768px.jpg 768w,
+  ./../images/VA02/bd-17598-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -188,8 +356,22 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 - In this flashback bit here, Luca's chopped fingers have been made brighter once more:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA02/tv-22045.jpg" />
- <img src="./../images/VA02/bd-22045.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/tv-22045-1090px.jpg"
+  data-srcset="./../images/VA02/tv-22045-512px.jpg 512w,
+  ./../images/VA02/tv-22045-768px.jpg 768w,
+  ./../images/VA02/tv-22045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/bd-22045-1090px.jpg"
+  data-srcset="./../images/VA02/bd-22045-512px.jpg 512w,
+  ./../images/VA02/bd-22045-768px.jpg 768w,
+  ./../images/VA02/bd-22045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -197,8 +379,22 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 - While this other bit has better contrast...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA02/tv-22062.jpg" />
- <img src="./../images/VA02/bd-22062.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/tv-22062-1090px.jpg"
+  data-srcset="./../images/VA02/tv-22062-512px.jpg 512w,
+  ./../images/VA02/tv-22062-768px.jpg 768w,
+  ./../images/VA02/tv-22062-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/bd-22062-1090px.jpg"
+  data-srcset="./../images/VA02/bd-22062-512px.jpg 512w,
+  ./../images/VA02/bd-22062-768px.jpg 768w,
+  ./../images/VA02/bd-22062-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -206,15 +402,43 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 - ... and this one has the same uncensoring we saw in the last episode:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA02/tv-22065.jpg" />
- <img src="./../images/VA02/bd-22065.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/tv-22065-1090px.jpg"
+  data-srcset="./../images/VA02/tv-22065-512px.jpg 512w,
+  ./../images/VA02/tv-22065-768px.jpg 768w,
+  ./../images/VA02/tv-22065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/bd-22065-1090px.jpg"
+  data-srcset="./../images/VA02/bd-22065-512px.jpg 512w,
+  ./../images/VA02/bd-22065-768px.jpg 768w,
+  ./../images/VA02/bd-22065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA02/tv-22100.jpg" />
- <img src="./../images/VA02/bd-22100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/tv-22100-1090px.jpg"
+  data-srcset="./../images/VA02/tv-22100-512px.jpg 512w,
+  ./../images/VA02/tv-22100-768px.jpg 768w,
+  ./../images/VA02/tv-22100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA02/bd-22100-1090px.jpg"
+  data-srcset="./../images/VA02/bd-22100-512px.jpg 512w,
+  ./../images/VA02/bd-22100-768px.jpg 768w,
+  ./../images/VA02/bd-22100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

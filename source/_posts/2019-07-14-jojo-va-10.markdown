@@ -19,8 +19,22 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 - The first difference in this episode is Buccellati's suit, once again corrected in the shoulders area:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-06085.jpg" />
- <img src="./../images/VA10/bd-06085.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-06085-1090px.jpg"
+  data-srcset="./../images/VA10/tv-06085-512px.jpg 512w,
+  ./../images/VA10/tv-06085-768px.jpg 768w,
+  ./../images/VA10/tv-06085-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-06085-1090px.jpg"
+  data-srcset="./../images/VA10/bd-06085-512px.jpg 512w,
+  ./../images/VA10/bd-06085-768px.jpg 768w,
+  ./../images/VA10/bd-06085-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -28,8 +42,22 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 - Here, Formaggio has been moved a few pixels up and to the right:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-08090.jpg" />
- <img src="./../images/VA10/bd-08090.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-08090-1090px.jpg"
+  data-srcset="./../images/VA10/tv-08090-512px.jpg 512w,
+  ./../images/VA10/tv-08090-768px.jpg 768w,
+  ./../images/VA10/tv-08090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-08090-1090px.jpg"
+  data-srcset="./../images/VA10/bd-08090-512px.jpg 512w,
+  ./../images/VA10/bd-08090-768px.jpg 768w,
+  ./../images/VA10/bd-08090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -56,8 +84,22 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-13205.jpg" />
- <img src="./../images/VA10/bd-13205.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-13205-1090px.jpg"
+  data-srcset="./../images/VA10/tv-13205-512px.jpg 512w,
+  ./../images/VA10/tv-13205-768px.jpg 768w,
+  ./../images/VA10/tv-13205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-13205-1090px.jpg"
+  data-srcset="./../images/VA10/bd-13205-512px.jpg 512w,
+  ./../images/VA10/bd-13205-768px.jpg 768w,
+  ./../images/VA10/bd-13205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -65,22 +107,64 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 - In this Squadra flashback, Formaggio is now casting an accurate shadow on the brick wall on the left:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-17195.jpg" />
- <img src="./../images/VA10/bd-17195.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-17195-1090px.jpg"
+  data-srcset="./../images/VA10/tv-17195-512px.jpg 512w,
+  ./../images/VA10/tv-17195-768px.jpg 768w,
+  ./../images/VA10/tv-17195-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-17195-1090px.jpg"
+  data-srcset="./../images/VA10/bd-17195-512px.jpg 512w,
+  ./../images/VA10/bd-17195-768px.jpg 768w,
+  ./../images/VA10/bd-17195-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-17210.jpg" />
- <img src="./../images/VA10/bd-17210.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-17210-1090px.jpg"
+  data-srcset="./../images/VA10/tv-17210-512px.jpg 512w,
+  ./../images/VA10/tv-17210-768px.jpg 768w,
+  ./../images/VA10/tv-17210-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-17210-1090px.jpg"
+  data-srcset="./../images/VA10/bd-17210-512px.jpg 512w,
+  ./../images/VA10/bd-17210-768px.jpg 768w,
+  ./../images/VA10/bd-17210-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-17220.jpg" />
- <img src="./../images/VA10/bd-17220.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-17220-1090px.jpg"
+  data-srcset="./../images/VA10/tv-17220-512px.jpg 512w,
+  ./../images/VA10/tv-17220-768px.jpg 768w,
+  ./../images/VA10/tv-17220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-17220-1090px.jpg"
+  data-srcset="./../images/VA10/bd-17220-512px.jpg 512w,
+  ./../images/VA10/bd-17220-768px.jpg 768w,
+  ./../images/VA10/bd-17220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -93,8 +177,22 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-18630.jpg" />
- <img src="./../images/VA10/bd-18630.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-18630-1090px.jpg"
+  data-srcset="./../images/VA10/tv-18630-512px.jpg 512w,
+  ./../images/VA10/tv-18630-768px.jpg 768w,
+  ./../images/VA10/tv-18630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-18630-1090px.jpg"
+  data-srcset="./../images/VA10/bd-18630-512px.jpg 512w,
+  ./../images/VA10/bd-18630-768px.jpg 768w,
+  ./../images/VA10/bd-18630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -102,15 +200,43 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 - Here, the O ball on Risotto's hat thingy has been redrawn correctly (it previously spelled "RISOTTC"):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-20065.jpg" />
- <img src="./../images/VA10/bd-20065.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-20065-1090px.jpg"
+  data-srcset="./../images/VA10/tv-20065-512px.jpg 512w,
+  ./../images/VA10/tv-20065-768px.jpg 768w,
+  ./../images/VA10/tv-20065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-20065-1090px.jpg"
+  data-srcset="./../images/VA10/bd-20065-512px.jpg 512w,
+  ./../images/VA10/bd-20065-768px.jpg 768w,
+  ./../images/VA10/bd-20065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-20705.jpg" />
- <img src="./../images/VA10/bd-20705.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-20705-1090px.jpg"
+  data-srcset="./../images/VA10/tv-20705-512px.jpg 512w,
+  ./../images/VA10/tv-20705-768px.jpg 768w,
+  ./../images/VA10/tv-20705-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-20705-1090px.jpg"
+  data-srcset="./../images/VA10/bd-20705-512px.jpg 512w,
+  ./../images/VA10/bd-20705-768px.jpg 768w,
+  ./../images/VA10/bd-20705-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -118,8 +244,22 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 - And again here... Plus, a bunch of shades on his neck area are looking better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-20707.jpg" />
- <img src="./../images/VA10/bd-20707.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-20707-1090px.jpg"
+  data-srcset="./../images/VA10/tv-20707-512px.jpg 512w,
+  ./../images/VA10/tv-20707-768px.jpg 768w,
+  ./../images/VA10/tv-20707-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-20707-1090px.jpg"
+  data-srcset="./../images/VA10/bd-20707-512px.jpg 512w,
+  ./../images/VA10/bd-20707-768px.jpg 768w,
+  ./../images/VA10/bd-20707-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -127,8 +267,22 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 - And one last O ball here, with a slightly redone shading:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-20720.jpg" />
- <img src="./../images/VA10/bd-20720.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-20720-1090px.jpg"
+  data-srcset="./../images/VA10/tv-20720-512px.jpg 512w,
+  ./../images/VA10/tv-20720-768px.jpg 768w,
+  ./../images/VA10/tv-20720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-20720-1090px.jpg"
+  data-srcset="./../images/VA10/bd-20720-512px.jpg 512w,
+  ./../images/VA10/bd-20720-768px.jpg 768w,
+  ./../images/VA10/bd-20720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -136,15 +290,43 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 - In this sequence, Melone's visible eye has been recoloured:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-22030.jpg" />
- <img src="./../images/VA10/bd-22030.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-22030-1090px.jpg"
+  data-srcset="./../images/VA10/tv-22030-512px.jpg 512w,
+  ./../images/VA10/tv-22030-768px.jpg 768w,
+  ./../images/VA10/tv-22030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-22030-1090px.jpg"
+  data-srcset="./../images/VA10/bd-22030-512px.jpg 512w,
+  ./../images/VA10/bd-22030-768px.jpg 768w,
+  ./../images/VA10/bd-22030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-22595.jpg" />
- <img src="./../images/VA10/bd-22595.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-22595-1090px.jpg"
+  data-srcset="./../images/VA10/tv-22595-512px.jpg 512w,
+  ./../images/VA10/tv-22595-768px.jpg 768w,
+  ./../images/VA10/tv-22595-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-22595-1090px.jpg"
+  data-srcset="./../images/VA10/bd-22595-512px.jpg 512w,
+  ./../images/VA10/bd-22595-768px.jpg 768w,
+  ./../images/VA10/bd-22595-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -152,29 +334,85 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 - And here we have perhaps the uncensored bit for which I've been the most excited about since I started this blog! I actually did not even think this bit _needed_ an uncensoring, but it's looking even more sensational in the BDs. Feast your eyes on poor Sorbet:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-25310.jpg" />
- <img src="./../images/VA10/bd-25310.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-25310-1090px.jpg"
+  data-srcset="./../images/VA10/tv-25310-512px.jpg 512w,
+  ./../images/VA10/tv-25310-768px.jpg 768w,
+  ./../images/VA10/tv-25310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-25310-1090px.jpg"
+  data-srcset="./../images/VA10/bd-25310-512px.jpg 512w,
+  ./../images/VA10/bd-25310-768px.jpg 768w,
+  ./../images/VA10/bd-25310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-25405.jpg" />
- <img src="./../images/VA10/bd-25405.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-25405-1090px.jpg"
+  data-srcset="./../images/VA10/tv-25405-512px.jpg 512w,
+  ./../images/VA10/tv-25405-768px.jpg 768w,
+  ./../images/VA10/tv-25405-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-25405-1090px.jpg"
+  data-srcset="./../images/VA10/bd-25405-512px.jpg 512w,
+  ./../images/VA10/bd-25405-768px.jpg 768w,
+  ./../images/VA10/bd-25405-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-25500.jpg" />
- <img src="./../images/VA10/bd-25500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-25500-1090px.jpg"
+  data-srcset="./../images/VA10/tv-25500-512px.jpg 512w,
+  ./../images/VA10/tv-25500-768px.jpg 768w,
+  ./../images/VA10/tv-25500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-25500-1090px.jpg"
+  data-srcset="./../images/VA10/bd-25500-512px.jpg 512w,
+  ./../images/VA10/bd-25500-768px.jpg 768w,
+  ./../images/VA10/bd-25500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-25580.jpg" />
- <img src="./../images/VA10/bd-25580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-25580-1090px.jpg"
+  data-srcset="./../images/VA10/tv-25580-512px.jpg 512w,
+  ./../images/VA10/tv-25580-768px.jpg 768w,
+  ./../images/VA10/tv-25580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-25580-1090px.jpg"
+  data-srcset="./../images/VA10/bd-25580-512px.jpg 512w,
+  ./../images/VA10/bd-25580-768px.jpg 768w,
+  ./../images/VA10/bd-25580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -187,8 +425,22 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 - Here, the I ball was changed to S (it's RISOTTO, not RSSOTTO):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-25900.jpg" />
- <img src="./../images/VA10/bd-25900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-25900-1090px.jpg"
+  data-srcset="./../images/VA10/tv-25900-512px.jpg 512w,
+  ./../images/VA10/tv-25900-768px.jpg 768w,
+  ./../images/VA10/tv-25900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-25900-1090px.jpg"
+  data-srcset="./../images/VA10/bd-25900-512px.jpg 512w,
+  ./../images/VA10/bd-25900-768px.jpg 768w,
+  ./../images/VA10/bd-25900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -196,8 +448,22 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 - Here, Formaggio's face has some extra shading on the right:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-28245.jpg" />
- <img src="./../images/VA10/bd-28245.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-28245-1090px.jpg"
+  data-srcset="./../images/VA10/tv-28245-512px.jpg 512w,
+  ./../images/VA10/tv-28245-768px.jpg 768w,
+  ./../images/VA10/tv-28245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-28245-1090px.jpg"
+  data-srcset="./../images/VA10/bd-28245-512px.jpg 512w,
+  ./../images/VA10/bd-28245-768px.jpg 768w,
+  ./../images/VA10/bd-28245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -212,8 +478,22 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 - Another brief and bright Formaggio bit here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA10/tv-30912.jpg" />
- <img src="./../images/VA10/bd-30912.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/tv-30912-1090px.jpg"
+  data-srcset="./../images/VA10/tv-30912-512px.jpg 512w,
+  ./../images/VA10/tv-30912-768px.jpg 768w,
+  ./../images/VA10/tv-30912-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA10/bd-30912-1090px.jpg"
+  data-srcset="./../images/VA10/bd-30912-512px.jpg 512w,
+  ./../images/VA10/bd-30912-768px.jpg 768w,
+  ./../images/VA10/bd-30912-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

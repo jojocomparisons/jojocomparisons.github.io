@@ -28,8 +28,22 @@ Alright, let's begin!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-08831.jpg" />
- <img src="./../images/VA25/bd-08831.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-08831-1090px.jpg"
+  data-srcset="./../images/VA25/tv-08831-512px.jpg 512w,
+  ./../images/VA25/tv-08831-768px.jpg 768w,
+  ./../images/VA25/tv-08831-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-08831-1090px.jpg"
+  data-srcset="./../images/VA25/bd-08831-512px.jpg 512w,
+  ./../images/VA25/bd-08831-768px.jpg 768w,
+  ./../images/VA25/bd-08831-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,22 +51,64 @@ Alright, let's begin!
 - When Spice Girl appears, the light effects behind Trish have been recoloured pink, to match the stand's colour scheme:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-10069.jpg" />
- <img src="./../images/VA25/bd-10069.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-10069-1090px.jpg"
+  data-srcset="./../images/VA25/tv-10069-512px.jpg 512w,
+  ./../images/VA25/tv-10069-768px.jpg 768w,
+  ./../images/VA25/tv-10069-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-10069-1090px.jpg"
+  data-srcset="./../images/VA25/bd-10069-512px.jpg 512w,
+  ./../images/VA25/bd-10069-768px.jpg 768w,
+  ./../images/VA25/bd-10069-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-10071.jpg" />
- <img src="./../images/VA25/bd-10071.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-10071-1090px.jpg"
+  data-srcset="./../images/VA25/tv-10071-512px.jpg 512w,
+  ./../images/VA25/tv-10071-768px.jpg 768w,
+  ./../images/VA25/tv-10071-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-10071-1090px.jpg"
+  data-srcset="./../images/VA25/bd-10071-512px.jpg 512w,
+  ./../images/VA25/bd-10071-768px.jpg 768w,
+  ./../images/VA25/bd-10071-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-10074.jpg" />
- <img src="./../images/VA25/bd-10074.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-10074-1090px.jpg"
+  data-srcset="./../images/VA25/tv-10074-512px.jpg 512w,
+  ./../images/VA25/tv-10074-768px.jpg 768w,
+  ./../images/VA25/tv-10074-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-10074-1090px.jpg"
+  data-srcset="./../images/VA25/bd-10074-512px.jpg 512w,
+  ./../images/VA25/bd-10074-768px.jpg 768w,
+  ./../images/VA25/bd-10074-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -65,8 +121,22 @@ Alright, let's begin!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-15370.jpg" />
- <img src="./../images/VA25/bd-15370.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-15370-1090px.jpg"
+  data-srcset="./../images/VA25/tv-15370-512px.jpg 512w,
+  ./../images/VA25/tv-15370-768px.jpg 768w,
+  ./../images/VA25/tv-15370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-15370-1090px.jpg"
+  data-srcset="./../images/VA25/bd-15370-512px.jpg 512w,
+  ./../images/VA25/bd-15370-768px.jpg 768w,
+  ./../images/VA25/bd-15370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -74,22 +144,64 @@ Alright, let's begin!
 - This shot is more distorted along the edges, and the lights formed when Spice Girl appears have, once again, been recoloured:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-15888.jpg" />
- <img src="./../images/VA25/bd-15888.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-15888-1090px.jpg"
+  data-srcset="./../images/VA25/tv-15888-512px.jpg 512w,
+  ./../images/VA25/tv-15888-768px.jpg 768w,
+  ./../images/VA25/tv-15888-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-15888-1090px.jpg"
+  data-srcset="./../images/VA25/bd-15888-512px.jpg 512w,
+  ./../images/VA25/bd-15888-768px.jpg 768w,
+  ./../images/VA25/bd-15888-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-15895.jpg" />
- <img src="./../images/VA25/bd-15895.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-15895-1090px.jpg"
+  data-srcset="./../images/VA25/tv-15895-512px.jpg 512w,
+  ./../images/VA25/tv-15895-768px.jpg 768w,
+  ./../images/VA25/tv-15895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-15895-1090px.jpg"
+  data-srcset="./../images/VA25/bd-15895-512px.jpg 512w,
+  ./../images/VA25/bd-15895-768px.jpg 768w,
+  ./../images/VA25/bd-15895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-15900.jpg" />
- <img src="./../images/VA25/bd-15900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-15900-1090px.jpg"
+  data-srcset="./../images/VA25/tv-15900-512px.jpg 512w,
+  ./../images/VA25/tv-15900-768px.jpg 768w,
+  ./../images/VA25/tv-15900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-15900-1090px.jpg"
+  data-srcset="./../images/VA25/bd-15900-512px.jpg 512w,
+  ./../images/VA25/bd-15900-768px.jpg 768w,
+  ./../images/VA25/bd-15900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -102,8 +214,22 @@ Alright, let's begin!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-20525.jpg" />
- <img src="./../images/VA25/bd-20525.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-20525-1090px.jpg"
+  data-srcset="./../images/VA25/tv-20525-512px.jpg 512w,
+  ./../images/VA25/tv-20525-768px.jpg 768w,
+  ./../images/VA25/tv-20525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-20525-1090px.jpg"
+  data-srcset="./../images/VA25/bd-20525-512px.jpg 512w,
+  ./../images/VA25/bd-20525-768px.jpg 768w,
+  ./../images/VA25/bd-20525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -116,8 +242,22 @@ Alright, let's begin!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-21328.jpg" />
- <img src="./../images/VA25/bd-21328.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-21328-1090px.jpg"
+  data-srcset="./../images/VA25/tv-21328-512px.jpg 512w,
+  ./../images/VA25/tv-21328-768px.jpg 768w,
+  ./../images/VA25/tv-21328-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-21328-1090px.jpg"
+  data-srcset="./../images/VA25/bd-21328-512px.jpg 512w,
+  ./../images/VA25/bd-21328-768px.jpg 768w,
+  ./../images/VA25/bd-21328-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -130,8 +270,22 @@ Alright, let's begin!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-24105.jpg" />
- <img src="./../images/VA25/bd-24105.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-24105-1090px.jpg"
+  data-srcset="./../images/VA25/tv-24105-512px.jpg 512w,
+  ./../images/VA25/tv-24105-768px.jpg 768w,
+  ./../images/VA25/tv-24105-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-24105-1090px.jpg"
+  data-srcset="./../images/VA25/bd-24105-512px.jpg 512w,
+  ./../images/VA25/bd-24105-768px.jpg 768w,
+  ./../images/VA25/bd-24105-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -142,8 +296,22 @@ Alright, let's begin!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-24137.jpg" />
- <img src="./../images/VA25/bd-24137.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-24137-1090px.jpg"
+  data-srcset="./../images/VA25/tv-24137-512px.jpg 512w,
+  ./../images/VA25/tv-24137-768px.jpg 768w,
+  ./../images/VA25/tv-24137-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-24137-1090px.jpg"
+  data-srcset="./../images/VA25/bd-24137-512px.jpg 512w,
+  ./../images/VA25/bd-24137-768px.jpg 768w,
+  ./../images/VA25/bd-24137-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -151,8 +319,22 @@ Alright, let's begin!
 - Trish is also brighter and sharper, when she transitions into the frame at the end of the previous animation:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-24264.jpg" />
- <img src="./../images/VA25/bd-24264.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-24264-1090px.jpg"
+  data-srcset="./../images/VA25/tv-24264-512px.jpg 512w,
+  ./../images/VA25/tv-24264-768px.jpg 768w,
+  ./../images/VA25/tv-24264-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-24264-1090px.jpg"
+  data-srcset="./../images/VA25/bd-24264-512px.jpg 512w,
+  ./../images/VA25/bd-24264-768px.jpg 768w,
+  ./../images/VA25/bd-24264-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -167,8 +349,22 @@ Alright, let's begin!
 - And that's it for the gang, this time around! But let's go take a look at what the boss is doing, shall we? Here, Abbacchio's picture is slightly darker, and Giorno's has been flipped (for consistency with other scenes):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-27035.jpg" />
- <img src="./../images/VA25/bd-27035.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-27035-1090px.jpg"
+  data-srcset="./../images/VA25/tv-27035-512px.jpg 512w,
+  ./../images/VA25/tv-27035-768px.jpg 768w,
+  ./../images/VA25/tv-27035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-27035-1090px.jpg"
+  data-srcset="./../images/VA25/bd-27035-512px.jpg 512w,
+  ./../images/VA25/bd-27035-768px.jpg 768w,
+  ./../images/VA25/bd-27035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -176,8 +372,22 @@ Alright, let's begin!
 - Here, the text on that yellow paper on the floor has been resized to better fit the borders, and the map (of, presumably, Sardinia) has also been resized a little:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-27170.jpg" />
- <img src="./../images/VA25/bd-27170.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-27170-1090px.jpg"
+  data-srcset="./../images/VA25/tv-27170-512px.jpg 512w,
+  ./../images/VA25/tv-27170-768px.jpg 768w,
+  ./../images/VA25/tv-27170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-27170-1090px.jpg"
+  data-srcset="./../images/VA25/bd-27170-512px.jpg 512w,
+  ./../images/VA25/bd-27170-768px.jpg 768w,
+  ./../images/VA25/bd-27170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -185,8 +395,22 @@ Alright, let's begin!
 - Here, there is no longer a second "frame" on the right of Trish's picture, the corner of that second picture you can see in the bottom-right is different, and the rightmost edge of Trish's picture is slightly darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-27525.jpg" />
- <img src="./../images/VA25/bd-27525.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-27525-1090px.jpg"
+  data-srcset="./../images/VA25/tv-27525-512px.jpg 512w,
+  ./../images/VA25/tv-27525-768px.jpg 768w,
+  ./../images/VA25/tv-27525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-27525-1090px.jpg"
+  data-srcset="./../images/VA25/bd-27525-512px.jpg 512w,
+  ./../images/VA25/bd-27525-768px.jpg 768w,
+  ./../images/VA25/bd-27525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -194,8 +418,22 @@ Alright, let's begin!
 - Like before, there is no "second frame" below Trish's picture, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-27530.jpg" />
- <img src="./../images/VA25/bd-27530.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-27530-1090px.jpg"
+  data-srcset="./../images/VA25/tv-27530-512px.jpg 512w,
+  ./../images/VA25/tv-27530-768px.jpg 768w,
+  ./../images/VA25/tv-27530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-27530-1090px.jpg"
+  data-srcset="./../images/VA25/bd-27530-512px.jpg 512w,
+  ./../images/VA25/bd-27530-768px.jpg 768w,
+  ./../images/VA25/bd-27530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -203,8 +441,22 @@ Alright, let's begin!
 - The background of this very old Windows 95-like UI is no longer pink, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-27715.jpg" />
- <img src="./../images/VA25/bd-27715.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-27715-1090px.jpg"
+  data-srcset="./../images/VA25/tv-27715-512px.jpg 512w,
+  ./../images/VA25/tv-27715-768px.jpg 768w,
+  ./../images/VA25/tv-27715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-27715-1090px.jpg"
+  data-srcset="./../images/VA25/bd-27715-512px.jpg 512w,
+  ./../images/VA25/bd-27715-768px.jpg 768w,
+  ./../images/VA25/bd-27715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -212,22 +464,64 @@ Alright, let's begin!
 - And, once again, Giorno's picture has been flipped around in these shots:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-31310.jpg" />
- <img src="./../images/VA25/bd-31310.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-31310-1090px.jpg"
+  data-srcset="./../images/VA25/tv-31310-512px.jpg 512w,
+  ./../images/VA25/tv-31310-768px.jpg 768w,
+  ./../images/VA25/tv-31310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-31310-1090px.jpg"
+  data-srcset="./../images/VA25/bd-31310-512px.jpg 512w,
+  ./../images/VA25/bd-31310-768px.jpg 768w,
+  ./../images/VA25/bd-31310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-31315.jpg" />
- <img src="./../images/VA25/bd-31315.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-31315-1090px.jpg"
+  data-srcset="./../images/VA25/tv-31315-512px.jpg 512w,
+  ./../images/VA25/tv-31315-768px.jpg 768w,
+  ./../images/VA25/tv-31315-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-31315-1090px.jpg"
+  data-srcset="./../images/VA25/bd-31315-512px.jpg 512w,
+  ./../images/VA25/bd-31315-768px.jpg 768w,
+  ./../images/VA25/bd-31315-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA25/tv-31377.jpg" />
- <img src="./../images/VA25/bd-31377.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/tv-31377-1090px.jpg"
+  data-srcset="./../images/VA25/tv-31377-512px.jpg 512w,
+  ./../images/VA25/tv-31377-768px.jpg 768w,
+  ./../images/VA25/tv-31377-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA25/bd-31377-1090px.jpg"
+  data-srcset="./../images/VA25/bd-31377-512px.jpg 512w,
+  ./../images/VA25/bd-31377-768px.jpg 768w,
+  ./../images/VA25/bd-31377-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

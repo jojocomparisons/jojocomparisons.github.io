@@ -23,8 +23,22 @@ Let's get started, then!
 - In some of the frames of this scene, Fugo's teeth were missing, but it seems that the BD money has finally allowed David Production to afford a dentist for this upset boy:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-02780.jpg" />
- <img src="./../images/VA12/bd-02780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-02780-1090px.jpg"
+  data-srcset="./../images/VA12/tv-02780-512px.jpg 512w,
+  ./../images/VA12/tv-02780-768px.jpg 768w,
+  ./../images/VA12/tv-02780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-02780-1090px.jpg"
+  data-srcset="./../images/VA12/bd-02780-512px.jpg 512w,
+  ./../images/VA12/bd-02780-768px.jpg 768w,
+  ./../images/VA12/bd-02780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -32,8 +46,22 @@ Let's get started, then!
 - Here, Giorno's actually looking at Fugo instead of just focusing on the map, most things in the car have been shaded differently, everything has been moved vertically a little bit...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-03675.jpg" />
- <img src="./../images/VA12/bd-03675.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-03675-1090px.jpg"
+  data-srcset="./../images/VA12/tv-03675-512px.jpg 512w,
+  ./../images/VA12/tv-03675-768px.jpg 768w,
+  ./../images/VA12/tv-03675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-03675-1090px.jpg"
+  data-srcset="./../images/VA12/bd-03675-512px.jpg 512w,
+  ./../images/VA12/bd-03675-768px.jpg 768w,
+  ./../images/VA12/bd-03675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -48,8 +76,22 @@ Let's get started, then!
 - And here, Fugo's face is less anime-dark, a small corner on his jawline has been smoothed out...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-04070.jpg" />
- <img src="./../images/VA12/bd-04070.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-04070-1090px.jpg"
+  data-srcset="./../images/VA12/tv-04070-512px.jpg 512w,
+  ./../images/VA12/tv-04070-768px.jpg 768w,
+  ./../images/VA12/tv-04070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-04070-1090px.jpg"
+  data-srcset="./../images/VA12/bd-04070-512px.jpg 512w,
+  ./../images/VA12/bd-04070-768px.jpg 768w,
+  ./../images/VA12/bd-04070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -57,22 +99,64 @@ Let's get started, then!
 - ... and, when he turns, his face has been retouched and its shading adjusted:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-04105.jpg" />
- <img src="./../images/VA12/bd-04105.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-04105-1090px.jpg"
+  data-srcset="./../images/VA12/tv-04105-512px.jpg 512w,
+  ./../images/VA12/tv-04105-768px.jpg 768w,
+  ./../images/VA12/tv-04105-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-04105-1090px.jpg"
+  data-srcset="./../images/VA12/bd-04105-512px.jpg 512w,
+  ./../images/VA12/bd-04105-768px.jpg 768w,
+  ./../images/VA12/bd-04105-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-04115.jpg" />
- <img src="./../images/VA12/bd-04115.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-04115-1090px.jpg"
+  data-srcset="./../images/VA12/tv-04115-512px.jpg 512w,
+  ./../images/VA12/tv-04115-768px.jpg 768w,
+  ./../images/VA12/tv-04115-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-04115-1090px.jpg"
+  data-srcset="./../images/VA12/bd-04115-512px.jpg 512w,
+  ./../images/VA12/bd-04115-768px.jpg 768w,
+  ./../images/VA12/bd-04115-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-04150.jpg" />
- <img src="./../images/VA12/bd-04150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-04150-1090px.jpg"
+  data-srcset="./../images/VA12/tv-04150-512px.jpg 512w,
+  ./../images/VA12/tv-04150-768px.jpg 768w,
+  ./../images/VA12/tv-04150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-04150-1090px.jpg"
+  data-srcset="./../images/VA12/bd-04150-512px.jpg 512w,
+  ./../images/VA12/bd-04150-768px.jpg 768w,
+  ./../images/VA12/bd-04150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -80,15 +164,43 @@ Let's get started, then!
 - Here, most lines are a little bit thinner, Giorno's earring has been moved a bit and Abbacchio's lips no longer remain... there when he opens his mouth:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-04233.jpg" />
- <img src="./../images/VA12/bd-04233.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-04233-1090px.jpg"
+  data-srcset="./../images/VA12/tv-04233-512px.jpg 512w,
+  ./../images/VA12/tv-04233-768px.jpg 768w,
+  ./../images/VA12/tv-04233-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-04233-1090px.jpg"
+  data-srcset="./../images/VA12/bd-04233-512px.jpg 512w,
+  ./../images/VA12/bd-04233-768px.jpg 768w,
+  ./../images/VA12/bd-04233-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-04236.jpg" />
- <img src="./../images/VA12/bd-04236.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-04236-1090px.jpg"
+  data-srcset="./../images/VA12/tv-04236-512px.jpg 512w,
+  ./../images/VA12/tv-04236-768px.jpg 768w,
+  ./../images/VA12/tv-04236-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-04236-1090px.jpg"
+  data-srcset="./../images/VA12/bd-04236-512px.jpg 512w,
+  ./../images/VA12/bd-04236-768px.jpg 768w,
+  ./../images/VA12/bd-04236-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -96,22 +208,64 @@ Let's get started, then!
 - Fugo's face has also been retouched towards the end of the scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-04263.jpg" />
- <img src="./../images/VA12/bd-04263.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-04263-1090px.jpg"
+  data-srcset="./../images/VA12/tv-04263-512px.jpg 512w,
+  ./../images/VA12/tv-04263-768px.jpg 768w,
+  ./../images/VA12/tv-04263-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-04263-1090px.jpg"
+  data-srcset="./../images/VA12/bd-04263-512px.jpg 512w,
+  ./../images/VA12/bd-04263-768px.jpg 768w,
+  ./../images/VA12/bd-04263-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-04265.jpg" />
- <img src="./../images/VA12/bd-04265.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-04265-1090px.jpg"
+  data-srcset="./../images/VA12/tv-04265-512px.jpg 512w,
+  ./../images/VA12/tv-04265-768px.jpg 768w,
+  ./../images/VA12/tv-04265-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-04265-1090px.jpg"
+  data-srcset="./../images/VA12/bd-04265-512px.jpg 512w,
+  ./../images/VA12/bd-04265-768px.jpg 768w,
+  ./../images/VA12/bd-04265-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-04295.jpg" />
- <img src="./../images/VA12/bd-04295.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-04295-1090px.jpg"
+  data-srcset="./../images/VA12/tv-04295-512px.jpg 512w,
+  ./../images/VA12/tv-04295-768px.jpg 768w,
+  ./../images/VA12/tv-04295-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-04295-1090px.jpg"
+  data-srcset="./../images/VA12/bd-04295-512px.jpg 512w,
+  ./../images/VA12/bd-04295-768px.jpg 768w,
+  ./../images/VA12/bd-04295-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -119,8 +273,22 @@ Let's get started, then!
 - And here, Fugo's looking much more upset, his mouth is looking better and the background is blurrier:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-04385.jpg" />
- <img src="./../images/VA12/bd-04385.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-04385-1090px.jpg"
+  data-srcset="./../images/VA12/tv-04385-512px.jpg 512w,
+  ./../images/VA12/tv-04385-768px.jpg 768w,
+  ./../images/VA12/tv-04385-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-04385-1090px.jpg"
+  data-srcset="./../images/VA12/bd-04385-512px.jpg 512w,
+  ./../images/VA12/bd-04385-768px.jpg 768w,
+  ./../images/VA12/bd-04385-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -145,8 +313,22 @@ Let's get started, then!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-15320.jpg" />
- <img src="./../images/VA12/bd-15320.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-15320-1090px.jpg"
+  data-srcset="./../images/VA12/tv-15320-512px.jpg 512w,
+  ./../images/VA12/tv-15320-768px.jpg 768w,
+  ./../images/VA12/tv-15320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-15320-1090px.jpg"
+  data-srcset="./../images/VA12/bd-15320-512px.jpg 512w,
+  ./../images/VA12/bd-15320-768px.jpg 768w,
+  ./../images/VA12/bd-15320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -154,22 +336,64 @@ Let's get started, then!
 - And here we have a bunch of retouched Buccellati suits... Not even the flashbacks are safe from them:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-20015.jpg" />
- <img src="./../images/VA12/bd-20015.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-20015-1090px.jpg"
+  data-srcset="./../images/VA12/tv-20015-512px.jpg 512w,
+  ./../images/VA12/tv-20015-768px.jpg 768w,
+  ./../images/VA12/tv-20015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-20015-1090px.jpg"
+  data-srcset="./../images/VA12/bd-20015-512px.jpg 512w,
+  ./../images/VA12/bd-20015-768px.jpg 768w,
+  ./../images/VA12/bd-20015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-20370.jpg" />
- <img src="./../images/VA12/bd-20370.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-20370-1090px.jpg"
+  data-srcset="./../images/VA12/tv-20370-512px.jpg 512w,
+  ./../images/VA12/tv-20370-768px.jpg 768w,
+  ./../images/VA12/tv-20370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-20370-1090px.jpg"
+  data-srcset="./../images/VA12/bd-20370-512px.jpg 512w,
+  ./../images/VA12/bd-20370-768px.jpg 768w,
+  ./../images/VA12/bd-20370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-21010.jpg" />
- <img src="./../images/VA12/bd-21010.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-21010-1090px.jpg"
+  data-srcset="./../images/VA12/tv-21010-512px.jpg 512w,
+  ./../images/VA12/tv-21010-768px.jpg 768w,
+  ./../images/VA12/tv-21010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-21010-1090px.jpg"
+  data-srcset="./../images/VA12/bd-21010-512px.jpg 512w,
+  ./../images/VA12/bd-21010-768px.jpg 768w,
+  ./../images/VA12/bd-21010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -177,8 +401,22 @@ Let's get started, then!
 - And here, Fugo's face and collar area have been retouched, so that he looks a little more... touched (forgive the horrendous wordplay):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-21015.jpg" />
- <img src="./../images/VA12/bd-21015.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-21015-1090px.jpg"
+  data-srcset="./../images/VA12/tv-21015-512px.jpg 512w,
+  ./../images/VA12/tv-21015-768px.jpg 768w,
+  ./../images/VA12/tv-21015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-21015-1090px.jpg"
+  data-srcset="./../images/VA12/bd-21015-512px.jpg 512w,
+  ./../images/VA12/bd-21015-768px.jpg 768w,
+  ./../images/VA12/bd-21015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -191,8 +429,22 @@ Let's get started, then!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-21280.jpg" />
- <img src="./../images/VA12/bd-21280.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-21280-1090px.jpg"
+  data-srcset="./../images/VA12/tv-21280-512px.jpg 512w,
+  ./../images/VA12/tv-21280-768px.jpg 768w,
+  ./../images/VA12/tv-21280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-21280-1090px.jpg"
+  data-srcset="./../images/VA12/bd-21280-512px.jpg 512w,
+  ./../images/VA12/bd-21280-768px.jpg 768w,
+  ./../images/VA12/bd-21280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -200,15 +452,43 @@ Let's get started, then!
 - In this final bit, most lines on Giorno & Abbacchio are a little thicker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-26675.jpg" />
- <img src="./../images/VA12/bd-26675.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-26675-1090px.jpg"
+  data-srcset="./../images/VA12/tv-26675-512px.jpg 512w,
+  ./../images/VA12/tv-26675-768px.jpg 768w,
+  ./../images/VA12/tv-26675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-26675-1090px.jpg"
+  data-srcset="./../images/VA12/bd-26675-512px.jpg 512w,
+  ./../images/VA12/bd-26675-768px.jpg 768w,
+  ./../images/VA12/bd-26675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA12/tv-27290.jpg" />
- <img src="./../images/VA12/bd-27290.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/tv-27290-1090px.jpg"
+  data-srcset="./../images/VA12/tv-27290-512px.jpg 512w,
+  ./../images/VA12/tv-27290-768px.jpg 768w,
+  ./../images/VA12/tv-27290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA12/bd-27290-1090px.jpg"
+  data-srcset="./../images/VA12/bd-27290-512px.jpg 512w,
+  ./../images/VA12/bd-27290-768px.jpg 768w,
+  ./../images/VA12/bd-27290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

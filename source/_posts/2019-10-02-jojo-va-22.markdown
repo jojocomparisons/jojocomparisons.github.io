@@ -23,8 +23,22 @@ Allons-y!
 - Let's start strong with today's first difference! Here, almost everyone is looking better, the background wall has been rotated slightly, the water texture has been vastly improved and the shading is different in a couple of spots (most noticeably on Mista and Abbacchio):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-00140.jpg" />
- <img src="./../images/VA22/bd-00140.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-00140-1090px.jpg"
+  data-srcset="./../images/VA22/tv-00140-512px.jpg 512w,
+  ./../images/VA22/tv-00140-768px.jpg 768w,
+  ./../images/VA22/tv-00140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-00140-1090px.jpg"
+  data-srcset="./../images/VA22/bd-00140-512px.jpg 512w,
+  ./../images/VA22/bd-00140-768px.jpg 768w,
+  ./../images/VA22/bd-00140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -32,15 +46,43 @@ Allons-y!
 - Moving on, here's another beautifully retouched scene! Giorno and Buccellati's faces are looking much better, Coco Jumbo's key slot has been retouched appropriately, and Mista's sweater and hat patterns have been cleaned up:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-00340.jpg" />
- <img src="./../images/VA22/bd-00340.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-00340-1090px.jpg"
+  data-srcset="./../images/VA22/tv-00340-512px.jpg 512w,
+  ./../images/VA22/tv-00340-768px.jpg 768w,
+  ./../images/VA22/tv-00340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-00340-1090px.jpg"
+  data-srcset="./../images/VA22/bd-00340-512px.jpg 512w,
+  ./../images/VA22/bd-00340-768px.jpg 768w,
+  ./../images/VA22/bd-00340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-00555.jpg" />
- <img src="./../images/VA22/bd-00555.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-00555-1090px.jpg"
+  data-srcset="./../images/VA22/tv-00555-512px.jpg 512w,
+  ./../images/VA22/tv-00555-768px.jpg 768w,
+  ./../images/VA22/tv-00555-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-00555-1090px.jpg"
+  data-srcset="./../images/VA22/bd-00555-512px.jpg 512w,
+  ./../images/VA22/bd-00555-768px.jpg 768w,
+  ./../images/VA22/bd-00555-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -48,15 +90,43 @@ Allons-y!
 - Mama Buccellati has a brand new head here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-00560.jpg" />
- <img src="./../images/VA22/bd-00560.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-00560-1090px.jpg"
+  data-srcset="./../images/VA22/tv-00560-512px.jpg 512w,
+  ./../images/VA22/tv-00560-768px.jpg 768w,
+  ./../images/VA22/tv-00560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-00560-1090px.jpg"
+  data-srcset="./../images/VA22/bd-00560-512px.jpg 512w,
+  ./../images/VA22/bd-00560-768px.jpg 768w,
+  ./../images/VA22/bd-00560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-00645.jpg" />
- <img src="./../images/VA22/bd-00645.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-00645-1090px.jpg"
+  data-srcset="./../images/VA22/tv-00645-512px.jpg 512w,
+  ./../images/VA22/tv-00645-768px.jpg 768w,
+  ./../images/VA22/tv-00645-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-00645-1090px.jpg"
+  data-srcset="./../images/VA22/bd-00645-512px.jpg 512w,
+  ./../images/VA22/bd-00645-768px.jpg 768w,
+  ./../images/VA22/bd-00645-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -64,8 +134,22 @@ Allons-y!
 - And here, all of the remaining team boys have been retouched, the bits of background that are visible are a little bit more muted, and the dividing lines are a little more yellow and less fluorescent:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-00675.jpg" />
- <img src="./../images/VA22/bd-00675.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-00675-1090px.jpg"
+  data-srcset="./../images/VA22/tv-00675-512px.jpg 512w,
+  ./../images/VA22/tv-00675-768px.jpg 768w,
+  ./../images/VA22/tv-00675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-00675-1090px.jpg"
+  data-srcset="./../images/VA22/bd-00675-512px.jpg 512w,
+  ./../images/VA22/bd-00675-768px.jpg 768w,
+  ./../images/VA22/bd-00675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -73,8 +157,22 @@ Allons-y!
 - Once again, here we have a shot in which everyone has been retouched! Mista is a particularly egregious example... In addition to that, the front bit of the boat floor is now darker, and the water texture is different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-00775.jpg" />
- <img src="./../images/VA22/bd-00775.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-00775-1090px.jpg"
+  data-srcset="./../images/VA22/tv-00775-512px.jpg 512w,
+  ./../images/VA22/tv-00775-768px.jpg 768w,
+  ./../images/VA22/tv-00775-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-00775-1090px.jpg"
+  data-srcset="./../images/VA22/bd-00775-512px.jpg 512w,
+  ./../images/VA22/bd-00775-768px.jpg 768w,
+  ./../images/VA22/bd-00775-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -82,8 +180,22 @@ Allons-y!
 - And here, both Giorno and Buccellati have been retouched...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-00945.jpg" />
- <img src="./../images/VA22/bd-00945.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-00945-1090px.jpg"
+  data-srcset="./../images/VA22/tv-00945-512px.jpg 512w,
+  ./../images/VA22/tv-00945-768px.jpg 768w,
+  ./../images/VA22/tv-00945-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-00945-1090px.jpg"
+  data-srcset="./../images/VA22/bd-00945-512px.jpg 512w,
+  ./../images/VA22/bd-00945-768px.jpg 768w,
+  ./../images/VA22/bd-00945-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -98,50 +210,148 @@ Allons-y!
 - This retouched scene deserves an almost frame-by-frame comparison, friends! Some of the TV frames are some true gems! Take a tour through this veritable treasure trove of misdrawn Mistas...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-01245.jpg" />
- <img src="./../images/VA22/bd-01245.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-01245-1090px.jpg"
+  data-srcset="./../images/VA22/tv-01245-512px.jpg 512w,
+  ./../images/VA22/tv-01245-768px.jpg 768w,
+  ./../images/VA22/tv-01245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-01245-1090px.jpg"
+  data-srcset="./../images/VA22/bd-01245-512px.jpg 512w,
+  ./../images/VA22/bd-01245-768px.jpg 768w,
+  ./../images/VA22/bd-01245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-01255.jpg" />
- <img src="./../images/VA22/bd-01255.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-01255-1090px.jpg"
+  data-srcset="./../images/VA22/tv-01255-512px.jpg 512w,
+  ./../images/VA22/tv-01255-768px.jpg 768w,
+  ./../images/VA22/tv-01255-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-01255-1090px.jpg"
+  data-srcset="./../images/VA22/bd-01255-512px.jpg 512w,
+  ./../images/VA22/bd-01255-768px.jpg 768w,
+  ./../images/VA22/bd-01255-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-01271.jpg" />
- <img src="./../images/VA22/bd-01271.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-01271-1090px.jpg"
+  data-srcset="./../images/VA22/tv-01271-512px.jpg 512w,
+  ./../images/VA22/tv-01271-768px.jpg 768w,
+  ./../images/VA22/tv-01271-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-01271-1090px.jpg"
+  data-srcset="./../images/VA22/bd-01271-512px.jpg 512w,
+  ./../images/VA22/bd-01271-768px.jpg 768w,
+  ./../images/VA22/bd-01271-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-01275.jpg" />
- <img src="./../images/VA22/bd-01275.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-01275-1090px.jpg"
+  data-srcset="./../images/VA22/tv-01275-512px.jpg 512w,
+  ./../images/VA22/tv-01275-768px.jpg 768w,
+  ./../images/VA22/tv-01275-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-01275-1090px.jpg"
+  data-srcset="./../images/VA22/bd-01275-512px.jpg 512w,
+  ./../images/VA22/bd-01275-768px.jpg 768w,
+  ./../images/VA22/bd-01275-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-01290.jpg" />
- <img src="./../images/VA22/bd-01290.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-01290-1090px.jpg"
+  data-srcset="./../images/VA22/tv-01290-512px.jpg 512w,
+  ./../images/VA22/tv-01290-768px.jpg 768w,
+  ./../images/VA22/tv-01290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-01290-1090px.jpg"
+  data-srcset="./../images/VA22/bd-01290-512px.jpg 512w,
+  ./../images/VA22/bd-01290-768px.jpg 768w,
+  ./../images/VA22/bd-01290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-01320.jpg" />
- <img src="./../images/VA22/bd-01320.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-01320-1090px.jpg"
+  data-srcset="./../images/VA22/tv-01320-512px.jpg 512w,
+  ./../images/VA22/tv-01320-768px.jpg 768w,
+  ./../images/VA22/tv-01320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-01320-1090px.jpg"
+  data-srcset="./../images/VA22/bd-01320-512px.jpg 512w,
+  ./../images/VA22/bd-01320-768px.jpg 768w,
+  ./../images/VA22/bd-01320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-01450.jpg" />
- <img src="./../images/VA22/bd-01450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-01450-1090px.jpg"
+  data-srcset="./../images/VA22/tv-01450-512px.jpg 512w,
+  ./../images/VA22/tv-01450-768px.jpg 768w,
+  ./../images/VA22/tv-01450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-01450-1090px.jpg"
+  data-srcset="./../images/VA22/bd-01450-512px.jpg 512w,
+  ./../images/VA22/bd-01450-768px.jpg 768w,
+  ./../images/VA22/bd-01450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -149,50 +359,148 @@ Allons-y!
 - It's time to take a look... at the opening! As you will surely know by now, all openings done directly by David Production usually have an early "beta version", if you will, that's aired the first couple of times. For Uragirimono no Requiem the "beta version" of the opening lasted just one episode, for Episode #23 already has the final version. Nonetheless, let's take a look at what's changed, shall we? First of all, this scene of Sticky Fingers and Buccellati has some additional shaded bits, some retouched details, some new bling on the metal parts, and the general contrast has been made slightly darker too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02649.jpg" />
- <img src="./../images/VA22/bd-02649.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02649-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02649-512px.jpg 512w,
+  ./../images/VA22/tv-02649-768px.jpg 768w,
+  ./../images/VA22/tv-02649-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02649-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02649-512px.jpg 512w,
+  ./../images/VA22/bd-02649-768px.jpg 768w,
+  ./../images/VA22/bd-02649-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02652.jpg" />
- <img src="./../images/VA22/bd-02652.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02652-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02652-512px.jpg 512w,
+  ./../images/VA22/tv-02652-768px.jpg 768w,
+  ./../images/VA22/tv-02652-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02652-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02652-512px.jpg 512w,
+  ./../images/VA22/bd-02652-768px.jpg 768w,
+  ./../images/VA22/bd-02652-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02660.jpg" />
- <img src="./../images/VA22/bd-02660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02660-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02660-512px.jpg 512w,
+  ./../images/VA22/tv-02660-768px.jpg 768w,
+  ./../images/VA22/tv-02660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02660-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02660-512px.jpg 512w,
+  ./../images/VA22/bd-02660-768px.jpg 768w,
+  ./../images/VA22/bd-02660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02664.jpg" />
- <img src="./../images/VA22/bd-02664.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02664-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02664-512px.jpg 512w,
+  ./../images/VA22/tv-02664-768px.jpg 768w,
+  ./../images/VA22/tv-02664-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02664-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02664-512px.jpg 512w,
+  ./../images/VA22/bd-02664-768px.jpg 768w,
+  ./../images/VA22/bd-02664-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02665.jpg" />
- <img src="./../images/VA22/bd-02665.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02665-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02665-512px.jpg 512w,
+  ./../images/VA22/tv-02665-768px.jpg 768w,
+  ./../images/VA22/tv-02665-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02665-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02665-512px.jpg 512w,
+  ./../images/VA22/bd-02665-768px.jpg 768w,
+  ./../images/VA22/bd-02665-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02670.jpg" />
- <img src="./../images/VA22/bd-02670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02670-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02670-512px.jpg 512w,
+  ./../images/VA22/tv-02670-768px.jpg 768w,
+  ./../images/VA22/tv-02670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02670-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02670-512px.jpg 512w,
+  ./../images/VA22/bd-02670-768px.jpg 768w,
+  ./../images/VA22/bd-02670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02673.jpg" />
- <img src="./../images/VA22/bd-02673.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02673-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02673-512px.jpg 512w,
+  ./../images/VA22/tv-02673-768px.jpg 768w,
+  ./../images/VA22/tv-02673-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02673-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02673-512px.jpg 512w,
+  ./../images/VA22/bd-02673-768px.jpg 768w,
+  ./../images/VA22/bd-02673-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -200,22 +508,64 @@ Allons-y!
 - In addition, Sticky Fingers now has a golden outline while disappearing, instead of just fading out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02675.jpg" />
- <img src="./../images/VA22/bd-02675.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02675-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02675-512px.jpg 512w,
+  ./../images/VA22/tv-02675-768px.jpg 768w,
+  ./../images/VA22/tv-02675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02675-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02675-512px.jpg 512w,
+  ./../images/VA22/bd-02675-768px.jpg 768w,
+  ./../images/VA22/bd-02675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02677.jpg" />
- <img src="./../images/VA22/bd-02677.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02677-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02677-512px.jpg 512w,
+  ./../images/VA22/tv-02677-768px.jpg 768w,
+  ./../images/VA22/tv-02677-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02677-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02677-512px.jpg 512w,
+  ./../images/VA22/bd-02677-768px.jpg 768w,
+  ./../images/VA22/bd-02677-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02679.jpg" />
- <img src="./../images/VA22/bd-02679.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02679-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02679-512px.jpg 512w,
+  ./../images/VA22/tv-02679-768px.jpg 768w,
+  ./../images/VA22/tv-02679-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02679-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02679-512px.jpg 512w,
+  ./../images/VA22/bd-02679-768px.jpg 768w,
+  ./../images/VA22/bd-02679-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -223,22 +573,64 @@ Allons-y!
 - Giorno and Gold Experience have also been retouched and reshaded here, and the contrast remains on the same tones as the previous scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02694.jpg" />
- <img src="./../images/VA22/bd-02694.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02694-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02694-512px.jpg 512w,
+  ./../images/VA22/tv-02694-768px.jpg 768w,
+  ./../images/VA22/tv-02694-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02694-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02694-512px.jpg 512w,
+  ./../images/VA22/bd-02694-768px.jpg 768w,
+  ./../images/VA22/bd-02694-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02701.jpg" />
- <img src="./../images/VA22/bd-02701.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02701-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02701-512px.jpg 512w,
+  ./../images/VA22/tv-02701-768px.jpg 768w,
+  ./../images/VA22/tv-02701-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02701-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02701-512px.jpg 512w,
+  ./../images/VA22/bd-02701-768px.jpg 768w,
+  ./../images/VA22/bd-02701-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02708.jpg" />
- <img src="./../images/VA22/bd-02708.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02708-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02708-512px.jpg 512w,
+  ./../images/VA22/tv-02708-768px.jpg 768w,
+  ./../images/VA22/tv-02708-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02708-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02708-512px.jpg 512w,
+  ./../images/VA22/bd-02708-768px.jpg 768w,
+  ./../images/VA22/bd-02708-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -246,8 +638,22 @@ Allons-y!
 - It's Abbacchio time, baby! Moody Blues impersonating his dead partner now shows up with a purple splash...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02710.jpg" />
- <img src="./../images/VA22/bd-02710.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02710-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02710-512px.jpg 512w,
+  ./../images/VA22/tv-02710-768px.jpg 768w,
+  ./../images/VA22/tv-02710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02710-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02710-512px.jpg 512w,
+  ./../images/VA22/bd-02710-768px.jpg 768w,
+  ./../images/VA22/bd-02710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -255,8 +661,22 @@ Allons-y!
 - ...Moody Blues takes longer to adopt his original colouring while reverting to his original form...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02723.jpg" />
- <img src="./../images/VA22/bd-02723.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02723-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02723-512px.jpg 512w,
+  ./../images/VA22/tv-02723-768px.jpg 768w,
+  ./../images/VA22/tv-02723-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02723-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02723-512px.jpg 512w,
+  ./../images/VA22/bd-02723-768px.jpg 768w,
+  ./../images/VA22/bd-02723-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -264,8 +684,22 @@ Allons-y!
 - ...and, in addition to the darker contrast, there are also some additional Moody Blues-style scratch effects overlaid on the background:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02735.jpg" />
- <img src="./../images/VA22/bd-02735.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02735-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02735-512px.jpg 512w,
+  ./../images/VA22/tv-02735-768px.jpg 768w,
+  ./../images/VA22/tv-02735-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02735-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02735-512px.jpg 512w,
+  ./../images/VA22/bd-02735-768px.jpg 768w,
+  ./../images/VA22/bd-02735-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -273,8 +707,22 @@ Allons-y!
 - The change in contrast remains the same in this scene of our beautiful airplane boy:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02763.jpg" />
- <img src="./../images/VA22/bd-02763.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02763-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02763-512px.jpg 512w,
+  ./../images/VA22/tv-02763-768px.jpg 768w,
+  ./../images/VA22/tv-02763-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02763-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02763-512px.jpg 512w,
+  ./../images/VA22/bd-02763-768px.jpg 768w,
+  ./../images/VA22/bd-02763-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -282,15 +730,43 @@ Allons-y!
 - And gun boy follows suit, here (I LOVE THAT SECOND FRAME):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02799.jpg" />
- <img src="./../images/VA22/bd-02799.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02799-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02799-512px.jpg 512w,
+  ./../images/VA22/tv-02799-768px.jpg 768w,
+  ./../images/VA22/tv-02799-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02799-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02799-512px.jpg 512w,
+  ./../images/VA22/bd-02799-768px.jpg 768w,
+  ./../images/VA22/bd-02799-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02825.jpg" />
- <img src="./../images/VA22/bd-02825.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02825-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02825-512px.jpg 512w,
+  ./../images/VA22/tv-02825-768px.jpg 768w,
+  ./../images/VA22/tv-02825-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02825-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02825-512px.jpg 512w,
+  ./../images/VA22/bd-02825-768px.jpg 768w,
+  ./../images/VA22/bd-02825-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -298,8 +774,22 @@ Allons-y!
 - It's Trish's time to shine! The background is different...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02843.jpg" />
- <img src="./../images/VA22/bd-02843.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02843-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02843-512px.jpg 512w,
+  ./../images/VA22/tv-02843-768px.jpg 768w,
+  ./../images/VA22/tv-02843-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02843-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02843-512px.jpg 512w,
+  ./../images/VA22/bd-02843-768px.jpg 768w,
+  ./../images/VA22/bd-02843-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -321,8 +811,22 @@ Allons-y!
 - ...and their final position is slightly different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-02921.jpg" />
- <img src="./../images/VA22/bd-02921.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-02921-1090px.jpg"
+  data-srcset="./../images/VA22/tv-02921-512px.jpg 512w,
+  ./../images/VA22/tv-02921-768px.jpg 768w,
+  ./../images/VA22/tv-02921-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-02921-1090px.jpg"
+  data-srcset="./../images/VA22/bd-02921-512px.jpg 512w,
+  ./../images/VA22/bd-02921-768px.jpg 768w,
+  ./../images/VA22/bd-02921-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -330,8 +834,22 @@ Allons-y!
 - Let's move on to the boss! Here, both the background and the boss himself have been moved, and he's no longer behind the merlons of that building:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-03238.jpg" />
- <img src="./../images/VA22/bd-03238.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-03238-1090px.jpg"
+  data-srcset="./../images/VA22/tv-03238-512px.jpg 512w,
+  ./../images/VA22/tv-03238-768px.jpg 768w,
+  ./../images/VA22/tv-03238-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-03238-1090px.jpg"
+  data-srcset="./../images/VA22/bd-03238-512px.jpg 512w,
+  ./../images/VA22/bd-03238-768px.jpg 768w,
+  ./../images/VA22/bd-03238-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -346,8 +864,22 @@ Allons-y!
 - There are more godrays here, and the shadow under the arrow and around Giorno's arm are much more prominent:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-03531.jpg" />
- <img src="./../images/VA22/bd-03531.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-03531-1090px.jpg"
+  data-srcset="./../images/VA22/tv-03531-512px.jpg 512w,
+  ./../images/VA22/tv-03531-768px.jpg 768w,
+  ./../images/VA22/tv-03531-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-03531-1090px.jpg"
+  data-srcset="./../images/VA22/bd-03531-512px.jpg 512w,
+  ./../images/VA22/bd-03531-768px.jpg 768w,
+  ./../images/VA22/bd-03531-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -355,8 +887,22 @@ Allons-y!
 - In this EXTREMELY ZOOMED-IN shot of Giorno's hand gripping the arrow, his ring finger is now much brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-03585.jpg" />
- <img src="./../images/VA22/bd-03585.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-03585-1090px.jpg"
+  data-srcset="./../images/VA22/tv-03585-512px.jpg 512w,
+  ./../images/VA22/tv-03585-768px.jpg 768w,
+  ./../images/VA22/tv-03585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-03585-1090px.jpg"
+  data-srcset="./../images/VA22/bd-03585-512px.jpg 512w,
+  ./../images/VA22/bd-03585-768px.jpg 768w,
+  ./../images/VA22/bd-03585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -364,8 +910,22 @@ Allons-y!
 - Here, the logo starts out bigger and the background slightly more zoomed out...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-03749.jpg" />
- <img src="./../images/VA22/bd-03749.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-03749-1090px.jpg"
+  data-srcset="./../images/VA22/tv-03749-512px.jpg 512w,
+  ./../images/VA22/tv-03749-768px.jpg 768w,
+  ./../images/VA22/tv-03749-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-03749-1090px.jpg"
+  data-srcset="./../images/VA22/bd-03749-512px.jpg 512w,
+  ./../images/VA22/bd-03749-768px.jpg 768w,
+  ./../images/VA22/bd-03749-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -380,8 +940,22 @@ Allons-y!
 - Phew! Alright, now that the opening is behind us... Let's go back to today's main meal! Here, the general lighting is much better, everyone but Narancia has been retouched and the table in the foreground is much bigger, so that the plate on there is no longer resting on its edge:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-04185.jpg" />
- <img src="./../images/VA22/bd-04185.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-04185-1090px.jpg"
+  data-srcset="./../images/VA22/tv-04185-512px.jpg 512w,
+  ./../images/VA22/tv-04185-768px.jpg 768w,
+  ./../images/VA22/tv-04185-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-04185-1090px.jpg"
+  data-srcset="./../images/VA22/bd-04185-512px.jpg 512w,
+  ./../images/VA22/bd-04185-768px.jpg 768w,
+  ./../images/VA22/bd-04185-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -389,15 +963,43 @@ Allons-y!
 - This poor traumatized kid has been retouched, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-04585.jpg" />
- <img src="./../images/VA22/bd-04585.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-04585-1090px.jpg"
+  data-srcset="./../images/VA22/tv-04585-512px.jpg 512w,
+  ./../images/VA22/tv-04585-768px.jpg 768w,
+  ./../images/VA22/tv-04585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-04585-1090px.jpg"
+  data-srcset="./../images/VA22/bd-04585-512px.jpg 512w,
+  ./../images/VA22/bd-04585-768px.jpg 768w,
+  ./../images/VA22/bd-04585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-04725.jpg" />
- <img src="./../images/VA22/bd-04725.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-04725-1090px.jpg"
+  data-srcset="./../images/VA22/tv-04725-512px.jpg 512w,
+  ./../images/VA22/tv-04725-768px.jpg 768w,
+  ./../images/VA22/tv-04725-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-04725-1090px.jpg"
+  data-srcset="./../images/VA22/bd-04725-512px.jpg 512w,
+  ./../images/VA22/bd-04725-768px.jpg 768w,
+  ./../images/VA22/bd-04725-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -405,15 +1007,43 @@ Allons-y!
 - Buccellati's received a new head once again, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-04995.jpg" />
- <img src="./../images/VA22/bd-04995.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-04995-1090px.jpg"
+  data-srcset="./../images/VA22/tv-04995-512px.jpg 512w,
+  ./../images/VA22/tv-04995-768px.jpg 768w,
+  ./../images/VA22/tv-04995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-04995-1090px.jpg"
+  data-srcset="./../images/VA22/bd-04995-512px.jpg 512w,
+  ./../images/VA22/bd-04995-768px.jpg 768w,
+  ./../images/VA22/bd-04995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-05075.jpg" />
- <img src="./../images/VA22/bd-05075.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-05075-1090px.jpg"
+  data-srcset="./../images/VA22/tv-05075-512px.jpg 512w,
+  ./../images/VA22/tv-05075-768px.jpg 768w,
+  ./../images/VA22/tv-05075-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-05075-1090px.jpg"
+  data-srcset="./../images/VA22/bd-05075-512px.jpg 512w,
+  ./../images/VA22/bd-05075-768px.jpg 768w,
+  ./../images/VA22/bd-05075-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -421,8 +1051,22 @@ Allons-y!
 - And here too! Giorno also joins the redrawn party, in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-05310.jpg" />
- <img src="./../images/VA22/bd-05310.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-05310-1090px.jpg"
+  data-srcset="./../images/VA22/tv-05310-512px.jpg 512w,
+  ./../images/VA22/tv-05310-768px.jpg 768w,
+  ./../images/VA22/tv-05310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-05310-1090px.jpg"
+  data-srcset="./../images/VA22/bd-05310-512px.jpg 512w,
+  ./../images/VA22/bd-05310-768px.jpg 768w,
+  ./../images/VA22/bd-05310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -430,22 +1074,64 @@ Allons-y!
 - Abbacchio's eyes, chest (and, later, hair) have been retouched in this series of frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-05950.jpg" />
- <img src="./../images/VA22/bd-05950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-05950-1090px.jpg"
+  data-srcset="./../images/VA22/tv-05950-512px.jpg 512w,
+  ./../images/VA22/tv-05950-768px.jpg 768w,
+  ./../images/VA22/tv-05950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-05950-1090px.jpg"
+  data-srcset="./../images/VA22/bd-05950-512px.jpg 512w,
+  ./../images/VA22/bd-05950-768px.jpg 768w,
+  ./../images/VA22/bd-05950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-05980.jpg" />
- <img src="./../images/VA22/bd-05980.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-05980-1090px.jpg"
+  data-srcset="./../images/VA22/tv-05980-512px.jpg 512w,
+  ./../images/VA22/tv-05980-768px.jpg 768w,
+  ./../images/VA22/tv-05980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-05980-1090px.jpg"
+  data-srcset="./../images/VA22/bd-05980-512px.jpg 512w,
+  ./../images/VA22/bd-05980-768px.jpg 768w,
+  ./../images/VA22/bd-05980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-06025.jpg" />
- <img src="./../images/VA22/bd-06025.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-06025-1090px.jpg"
+  data-srcset="./../images/VA22/tv-06025-512px.jpg 512w,
+  ./../images/VA22/tv-06025-768px.jpg 768w,
+  ./../images/VA22/tv-06025-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-06025-1090px.jpg"
+  data-srcset="./../images/VA22/bd-06025-512px.jpg 512w,
+  ./../images/VA22/bd-06025-768px.jpg 768w,
+  ./../images/VA22/bd-06025-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -453,29 +1139,85 @@ Allons-y!
 - Here, Abbacchio's eyes have been enlarged, a number of bits have also been shaded and in a couple of frames, his jawline is also a little different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-06090.jpg" />
- <img src="./../images/VA22/bd-06090.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-06090-1090px.jpg"
+  data-srcset="./../images/VA22/tv-06090-512px.jpg 512w,
+  ./../images/VA22/tv-06090-768px.jpg 768w,
+  ./../images/VA22/tv-06090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-06090-1090px.jpg"
+  data-srcset="./../images/VA22/bd-06090-512px.jpg 512w,
+  ./../images/VA22/bd-06090-768px.jpg 768w,
+  ./../images/VA22/bd-06090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-06095.jpg" />
- <img src="./../images/VA22/bd-06095.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-06095-1090px.jpg"
+  data-srcset="./../images/VA22/tv-06095-512px.jpg 512w,
+  ./../images/VA22/tv-06095-768px.jpg 768w,
+  ./../images/VA22/tv-06095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-06095-1090px.jpg"
+  data-srcset="./../images/VA22/bd-06095-512px.jpg 512w,
+  ./../images/VA22/bd-06095-768px.jpg 768w,
+  ./../images/VA22/bd-06095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-06101.jpg" />
- <img src="./../images/VA22/bd-06101.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-06101-1090px.jpg"
+  data-srcset="./../images/VA22/tv-06101-512px.jpg 512w,
+  ./../images/VA22/tv-06101-768px.jpg 768w,
+  ./../images/VA22/tv-06101-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-06101-1090px.jpg"
+  data-srcset="./../images/VA22/bd-06101-512px.jpg 512w,
+  ./../images/VA22/bd-06101-768px.jpg 768w,
+  ./../images/VA22/bd-06101-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-06230.jpg" />
- <img src="./../images/VA22/bd-06230.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-06230-1090px.jpg"
+  data-srcset="./../images/VA22/tv-06230-512px.jpg 512w,
+  ./../images/VA22/tv-06230-768px.jpg 768w,
+  ./../images/VA22/tv-06230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-06230-1090px.jpg"
+  data-srcset="./../images/VA22/bd-06230-512px.jpg 512w,
+  ./../images/VA22/bd-06230-768px.jpg 768w,
+  ./../images/VA22/bd-06230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -483,15 +1225,43 @@ Allons-y!
 - Abbacchio, Mista and Narancia's faces have been all retouched here, Mista's hat is looking better and they're no longer standing right next to the world's tallest table:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-06345.jpg" />
- <img src="./../images/VA22/bd-06345.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-06345-1090px.jpg"
+  data-srcset="./../images/VA22/tv-06345-512px.jpg 512w,
+  ./../images/VA22/tv-06345-768px.jpg 768w,
+  ./../images/VA22/tv-06345-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-06345-1090px.jpg"
+  data-srcset="./../images/VA22/bd-06345-512px.jpg 512w,
+  ./../images/VA22/bd-06345-768px.jpg 768w,
+  ./../images/VA22/bd-06345-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-06515.jpg" />
- <img src="./../images/VA22/bd-06515.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-06515-1090px.jpg"
+  data-srcset="./../images/VA22/tv-06515-512px.jpg 512w,
+  ./../images/VA22/tv-06515-768px.jpg 768w,
+  ./../images/VA22/tv-06515-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-06515-1090px.jpg"
+  data-srcset="./../images/VA22/bd-06515-512px.jpg 512w,
+  ./../images/VA22/bd-06515-768px.jpg 768w,
+  ./../images/VA22/bd-06515-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -499,22 +1269,64 @@ Allons-y!
 - These EXTREMELY wonky boys are now looking much better, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-06517.jpg" />
- <img src="./../images/VA22/bd-06517.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-06517-1090px.jpg"
+  data-srcset="./../images/VA22/tv-06517-512px.jpg 512w,
+  ./../images/VA22/tv-06517-768px.jpg 768w,
+  ./../images/VA22/tv-06517-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-06517-1090px.jpg"
+  data-srcset="./../images/VA22/bd-06517-512px.jpg 512w,
+  ./../images/VA22/bd-06517-768px.jpg 768w,
+  ./../images/VA22/bd-06517-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-06640.jpg" />
- <img src="./../images/VA22/bd-06640.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-06640-1090px.jpg"
+  data-srcset="./../images/VA22/tv-06640-512px.jpg 512w,
+  ./../images/VA22/tv-06640-768px.jpg 768w,
+  ./../images/VA22/tv-06640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-06640-1090px.jpg"
+  data-srcset="./../images/VA22/bd-06640-512px.jpg 512w,
+  ./../images/VA22/bd-06640-768px.jpg 768w,
+  ./../images/VA22/bd-06640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-06755.jpg" />
- <img src="./../images/VA22/bd-06755.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-06755-1090px.jpg"
+  data-srcset="./../images/VA22/tv-06755-512px.jpg 512w,
+  ./../images/VA22/tv-06755-768px.jpg 768w,
+  ./../images/VA22/tv-06755-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-06755-1090px.jpg"
+  data-srcset="./../images/VA22/bd-06755-512px.jpg 512w,
+  ./../images/VA22/bd-06755-768px.jpg 768w,
+  ./../images/VA22/bd-06755-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -522,8 +1334,22 @@ Allons-y!
 - In this shot, only Buccellati and Abbacchio have been blessed by DPro's redrawing pencil:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-07815.jpg" />
- <img src="./../images/VA22/bd-07815.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-07815-1090px.jpg"
+  data-srcset="./../images/VA22/tv-07815-512px.jpg 512w,
+  ./../images/VA22/tv-07815-768px.jpg 768w,
+  ./../images/VA22/tv-07815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-07815-1090px.jpg"
+  data-srcset="./../images/VA22/bd-07815-512px.jpg 512w,
+  ./../images/VA22/bd-07815-768px.jpg 768w,
+  ./../images/VA22/bd-07815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -531,22 +1357,64 @@ Allons-y!
 - Here, Buccellati's face is much more oval:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-07975.jpg" />
- <img src="./../images/VA22/bd-07975.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-07975-1090px.jpg"
+  data-srcset="./../images/VA22/tv-07975-512px.jpg 512w,
+  ./../images/VA22/tv-07975-768px.jpg 768w,
+  ./../images/VA22/tv-07975-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-07975-1090px.jpg"
+  data-srcset="./../images/VA22/bd-07975-512px.jpg 512w,
+  ./../images/VA22/bd-07975-768px.jpg 768w,
+  ./../images/VA22/bd-07975-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-08020.jpg" />
- <img src="./../images/VA22/bd-08020.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-08020-1090px.jpg"
+  data-srcset="./../images/VA22/tv-08020-512px.jpg 512w,
+  ./../images/VA22/tv-08020-768px.jpg 768w,
+  ./../images/VA22/tv-08020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-08020-1090px.jpg"
+  data-srcset="./../images/VA22/bd-08020-512px.jpg 512w,
+  ./../images/VA22/bd-08020-768px.jpg 768w,
+  ./../images/VA22/bd-08020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-08175.jpg" />
- <img src="./../images/VA22/bd-08175.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-08175-1090px.jpg"
+  data-srcset="./../images/VA22/tv-08175-512px.jpg 512w,
+  ./../images/VA22/tv-08175-768px.jpg 768w,
+  ./../images/VA22/tv-08175-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-08175-1090px.jpg"
+  data-srcset="./../images/VA22/bd-08175-512px.jpg 512w,
+  ./../images/VA22/bd-08175-768px.jpg 768w,
+  ./../images/VA22/bd-08175-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -554,8 +1422,22 @@ Allons-y!
 - In this pretty shot, everyone has been retouched, some details have been shaded a little differently...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-08180.jpg" />
- <img src="./../images/VA22/bd-08180.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-08180-1090px.jpg"
+  data-srcset="./../images/VA22/tv-08180-512px.jpg 512w,
+  ./../images/VA22/tv-08180-768px.jpg 768w,
+  ./../images/VA22/tv-08180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-08180-1090px.jpg"
+  data-srcset="./../images/VA22/bd-08180-512px.jpg 512w,
+  ./../images/VA22/bd-08180-768px.jpg 768w,
+  ./../images/VA22/bd-08180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -570,8 +1452,22 @@ Allons-y!
 - Once again, Buccellati has a new head here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-08390.jpg" />
- <img src="./../images/VA22/bd-08390.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-08390-1090px.jpg"
+  data-srcset="./../images/VA22/tv-08390-512px.jpg 512w,
+  ./../images/VA22/tv-08390-768px.jpg 768w,
+  ./../images/VA22/tv-08390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-08390-1090px.jpg"
+  data-srcset="./../images/VA22/bd-08390-512px.jpg 512w,
+  ./../images/VA22/bd-08390-768px.jpg 768w,
+  ./../images/VA22/bd-08390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -579,15 +1475,43 @@ Allons-y!
 - EVERYONE is looking better here! Woohoo! Moreover, Mista's hand is no longer mysteriously chopped off:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-08465.jpg" />
- <img src="./../images/VA22/bd-08465.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-08465-1090px.jpg"
+  data-srcset="./../images/VA22/tv-08465-512px.jpg 512w,
+  ./../images/VA22/tv-08465-768px.jpg 768w,
+  ./../images/VA22/tv-08465-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-08465-1090px.jpg"
+  data-srcset="./../images/VA22/bd-08465-512px.jpg 512w,
+  ./../images/VA22/bd-08465-768px.jpg 768w,
+  ./../images/VA22/bd-08465-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-08525.jpg" />
- <img src="./../images/VA22/bd-08525.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-08525-1090px.jpg"
+  data-srcset="./../images/VA22/tv-08525-512px.jpg 512w,
+  ./../images/VA22/tv-08525-768px.jpg 768w,
+  ./../images/VA22/tv-08525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-08525-1090px.jpg"
+  data-srcset="./../images/VA22/bd-08525-512px.jpg 512w,
+  ./../images/VA22/bd-08525-768px.jpg 768w,
+  ./../images/VA22/bd-08525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -595,8 +1519,22 @@ Allons-y!
 - Let's take a peep inside the turtle! Trish's head has been retouched, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-09065.jpg" />
- <img src="./../images/VA22/bd-09065.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-09065-1090px.jpg"
+  data-srcset="./../images/VA22/tv-09065-512px.jpg 512w,
+  ./../images/VA22/tv-09065-768px.jpg 768w,
+  ./../images/VA22/tv-09065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-09065-1090px.jpg"
+  data-srcset="./../images/VA22/bd-09065-512px.jpg 512w,
+  ./../images/VA22/bd-09065-768px.jpg 768w,
+  ./../images/VA22/bd-09065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -604,22 +1542,64 @@ Allons-y!
 - Hoo boy, this difference. EVERYONE is looking massively better! Starting from the left, clockwise: Abbacchio's whole HEAD has been redrawn and his shirt strings are no longer stapled directly to his massive pecs; Mista's face is looking better and his hat pattern no longer has those black outlines; NARANCIA IS NO LONGER HALF-NAKED, his face has been retouched, he's now wearing BOTH his wristbands and his left forearm is no longer ridiculously short; Coco Jumbo's key slot has been shaded. On the table: some glasses have been retouched, the wine is looking better, and the plate on the left no longer has that weird black line in the middle. How's that for a whole bunch of differences?:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-09070.jpg" />
- <img src="./../images/VA22/bd-09070.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-09070-1090px.jpg"
+  data-srcset="./../images/VA22/tv-09070-512px.jpg 512w,
+  ./../images/VA22/tv-09070-768px.jpg 768w,
+  ./../images/VA22/tv-09070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-09070-1090px.jpg"
+  data-srcset="./../images/VA22/bd-09070-512px.jpg 512w,
+  ./../images/VA22/bd-09070-768px.jpg 768w,
+  ./../images/VA22/bd-09070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-09154.jpg" />
- <img src="./../images/VA22/bd-09154.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-09154-1090px.jpg"
+  data-srcset="./../images/VA22/tv-09154-512px.jpg 512w,
+  ./../images/VA22/tv-09154-768px.jpg 768w,
+  ./../images/VA22/tv-09154-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-09154-1090px.jpg"
+  data-srcset="./../images/VA22/bd-09154-512px.jpg 512w,
+  ./../images/VA22/bd-09154-768px.jpg 768w,
+  ./../images/VA22/bd-09154-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-09205.jpg" />
- <img src="./../images/VA22/bd-09205.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-09205-1090px.jpg"
+  data-srcset="./../images/VA22/tv-09205-512px.jpg 512w,
+  ./../images/VA22/tv-09205-768px.jpg 768w,
+  ./../images/VA22/tv-09205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-09205-1090px.jpg"
+  data-srcset="./../images/VA22/bd-09205-512px.jpg 512w,
+  ./../images/VA22/bd-09205-768px.jpg 768w,
+  ./../images/VA22/bd-09205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -627,8 +1607,22 @@ Allons-y!
 - In addition to the WHOLE slew of differences I just finished listing, in a couple of frames Giorno's braid shadow also randomly disappeared. It's back in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-09157.jpg" />
- <img src="./../images/VA22/bd-09157.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-09157-1090px.jpg"
+  data-srcset="./../images/VA22/tv-09157-512px.jpg 512w,
+  ./../images/VA22/tv-09157-768px.jpg 768w,
+  ./../images/VA22/tv-09157-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-09157-1090px.jpg"
+  data-srcset="./../images/VA22/bd-09157-512px.jpg 512w,
+  ./../images/VA22/bd-09157-768px.jpg 768w,
+  ./../images/VA22/bd-09157-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -636,15 +1630,43 @@ Allons-y!
 - Here, Narancia's eye-nose area has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-09526.jpg" />
- <img src="./../images/VA22/bd-09526.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-09526-1090px.jpg"
+  data-srcset="./../images/VA22/tv-09526-512px.jpg 512w,
+  ./../images/VA22/tv-09526-768px.jpg 768w,
+  ./../images/VA22/tv-09526-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-09526-1090px.jpg"
+  data-srcset="./../images/VA22/bd-09526-512px.jpg 512w,
+  ./../images/VA22/bd-09526-768px.jpg 768w,
+  ./../images/VA22/bd-09526-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-09660.jpg" />
- <img src="./../images/VA22/bd-09660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-09660-1090px.jpg"
+  data-srcset="./../images/VA22/tv-09660-512px.jpg 512w,
+  ./../images/VA22/tv-09660-768px.jpg 768w,
+  ./../images/VA22/tv-09660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-09660-1090px.jpg"
+  data-srcset="./../images/VA22/bd-09660-512px.jpg 512w,
+  ./../images/VA22/bd-09660-768px.jpg 768w,
+  ./../images/VA22/bd-09660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -652,8 +1674,22 @@ Allons-y!
 - Everyone apart from Giorno has been slightly retouched in this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-10265.jpg" />
- <img src="./../images/VA22/bd-10265.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-10265-1090px.jpg"
+  data-srcset="./../images/VA22/tv-10265-512px.jpg 512w,
+  ./../images/VA22/tv-10265-768px.jpg 768w,
+  ./../images/VA22/tv-10265-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-10265-1090px.jpg"
+  data-srcset="./../images/VA22/bd-10265-512px.jpg 512w,
+  ./../images/VA22/bd-10265-768px.jpg 768w,
+  ./../images/VA22/bd-10265-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -661,36 +1697,106 @@ Allons-y!
 - Have another bunch of retouched Narancia faces, friends:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-12920.jpg" />
- <img src="./../images/VA22/bd-12920.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-12920-1090px.jpg"
+  data-srcset="./../images/VA22/tv-12920-512px.jpg 512w,
+  ./../images/VA22/tv-12920-768px.jpg 768w,
+  ./../images/VA22/tv-12920-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-12920-1090px.jpg"
+  data-srcset="./../images/VA22/bd-12920-512px.jpg 512w,
+  ./../images/VA22/bd-12920-768px.jpg 768w,
+  ./../images/VA22/bd-12920-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-12925.jpg" />
- <img src="./../images/VA22/bd-12925.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-12925-1090px.jpg"
+  data-srcset="./../images/VA22/tv-12925-512px.jpg 512w,
+  ./../images/VA22/tv-12925-768px.jpg 768w,
+  ./../images/VA22/tv-12925-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-12925-1090px.jpg"
+  data-srcset="./../images/VA22/bd-12925-512px.jpg 512w,
+  ./../images/VA22/bd-12925-768px.jpg 768w,
+  ./../images/VA22/bd-12925-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-12934.jpg" />
- <img src="./../images/VA22/bd-12934.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-12934-1090px.jpg"
+  data-srcset="./../images/VA22/tv-12934-512px.jpg 512w,
+  ./../images/VA22/tv-12934-768px.jpg 768w,
+  ./../images/VA22/tv-12934-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-12934-1090px.jpg"
+  data-srcset="./../images/VA22/bd-12934-512px.jpg 512w,
+  ./../images/VA22/bd-12934-768px.jpg 768w,
+  ./../images/VA22/bd-12934-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-12965.jpg" />
- <img src="./../images/VA22/bd-12965.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-12965-1090px.jpg"
+  data-srcset="./../images/VA22/tv-12965-512px.jpg 512w,
+  ./../images/VA22/tv-12965-768px.jpg 768w,
+  ./../images/VA22/tv-12965-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-12965-1090px.jpg"
+  data-srcset="./../images/VA22/bd-12965-512px.jpg 512w,
+  ./../images/VA22/bd-12965-768px.jpg 768w,
+  ./../images/VA22/bd-12965-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-13855.jpg" />
- <img src="./../images/VA22/bd-13855.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-13855-1090px.jpg"
+  data-srcset="./../images/VA22/tv-13855-512px.jpg 512w,
+  ./../images/VA22/tv-13855-768px.jpg 768w,
+  ./../images/VA22/tv-13855-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-13855-1090px.jpg"
+  data-srcset="./../images/VA22/bd-13855-512px.jpg 512w,
+  ./../images/VA22/bd-13855-768px.jpg 768w,
+  ./../images/VA22/bd-13855-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -698,8 +1804,22 @@ Allons-y!
 - Here, the lighting is a little different on most things, that ugly Giorno is now _in front_ of the chair instead of behind, and the wine label has been slightly retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-13985.jpg" />
- <img src="./../images/VA22/bd-13985.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-13985-1090px.jpg"
+  data-srcset="./../images/VA22/tv-13985-512px.jpg 512w,
+  ./../images/VA22/tv-13985-768px.jpg 768w,
+  ./../images/VA22/tv-13985-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-13985-1090px.jpg"
+  data-srcset="./../images/VA22/bd-13985-512px.jpg 512w,
+  ./../images/VA22/bd-13985-768px.jpg 768w,
+  ./../images/VA22/bd-13985-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -707,8 +1827,22 @@ Allons-y!
 - And here, the background on Mista's half has been recoloured, and the shading is a tiny bit different in both halves:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-14065.jpg" />
- <img src="./../images/VA22/bd-14065.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-14065-1090px.jpg"
+  data-srcset="./../images/VA22/tv-14065-512px.jpg 512w,
+  ./../images/VA22/tv-14065-768px.jpg 768w,
+  ./../images/VA22/tv-14065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-14065-1090px.jpg"
+  data-srcset="./../images/VA22/bd-14065-512px.jpg 512w,
+  ./../images/VA22/bd-14065-768px.jpg 768w,
+  ./../images/VA22/bd-14065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -716,22 +1850,64 @@ Allons-y!
 - Mista and Narancia are looking better here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-14080.jpg" />
- <img src="./../images/VA22/bd-14080.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-14080-1090px.jpg"
+  data-srcset="./../images/VA22/tv-14080-512px.jpg 512w,
+  ./../images/VA22/tv-14080-768px.jpg 768w,
+  ./../images/VA22/tv-14080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-14080-1090px.jpg"
+  data-srcset="./../images/VA22/bd-14080-512px.jpg 512w,
+  ./../images/VA22/bd-14080-768px.jpg 768w,
+  ./../images/VA22/bd-14080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-14175.jpg" />
- <img src="./../images/VA22/bd-14175.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-14175-1090px.jpg"
+  data-srcset="./../images/VA22/tv-14175-512px.jpg 512w,
+  ./../images/VA22/tv-14175-768px.jpg 768w,
+  ./../images/VA22/tv-14175-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-14175-1090px.jpg"
+  data-srcset="./../images/VA22/bd-14175-512px.jpg 512w,
+  ./../images/VA22/bd-14175-768px.jpg 768w,
+  ./../images/VA22/bd-14175-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-14230.jpg" />
- <img src="./../images/VA22/bd-14230.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-14230-1090px.jpg"
+  data-srcset="./../images/VA22/tv-14230-512px.jpg 512w,
+  ./../images/VA22/tv-14230-768px.jpg 768w,
+  ./../images/VA22/tv-14230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-14230-1090px.jpg"
+  data-srcset="./../images/VA22/bd-14230-512px.jpg 512w,
+  ./../images/VA22/bd-14230-768px.jpg 768w,
+  ./../images/VA22/bd-14230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -739,8 +1915,22 @@ Allons-y!
 - This shot is slightly more zoomed-in:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-14960.jpg" />
- <img src="./../images/VA22/bd-14960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-14960-1090px.jpg"
+  data-srcset="./../images/VA22/tv-14960-512px.jpg 512w,
+  ./../images/VA22/tv-14960-768px.jpg 768w,
+  ./../images/VA22/tv-14960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-14960-1090px.jpg"
+  data-srcset="./../images/VA22/bd-14960-512px.jpg 512w,
+  ./../images/VA22/bd-14960-768px.jpg 768w,
+  ./../images/VA22/bd-14960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -748,8 +1938,22 @@ Allons-y!
 - All three faces have been retouched in this scene, and... poor Mista's left shoulder has been mended:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-16120.jpg" />
- <img src="./../images/VA22/bd-16120.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-16120-1090px.jpg"
+  data-srcset="./../images/VA22/tv-16120-512px.jpg 512w,
+  ./../images/VA22/tv-16120-768px.jpg 768w,
+  ./../images/VA22/tv-16120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-16120-1090px.jpg"
+  data-srcset="./../images/VA22/bd-16120-512px.jpg 512w,
+  ./../images/VA22/bd-16120-768px.jpg 768w,
+  ./../images/VA22/bd-16120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -757,8 +1961,22 @@ Allons-y!
 - Giorno's neck has a couple lines less, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-16510.jpg" />
- <img src="./../images/VA22/bd-16510.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-16510-1090px.jpg"
+  data-srcset="./../images/VA22/tv-16510-512px.jpg 512w,
+  ./../images/VA22/tv-16510-768px.jpg 768w,
+  ./../images/VA22/tv-16510-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-16510-1090px.jpg"
+  data-srcset="./../images/VA22/bd-16510-512px.jpg 512w,
+  ./../images/VA22/bd-16510-768px.jpg 768w,
+  ./../images/VA22/bd-16510-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -766,15 +1984,43 @@ Allons-y!
 - Both Giorno and Mista's faces have been retouched here, and in the first frame there's an extra shade under Giorno's wrist:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-16665.jpg" />
- <img src="./../images/VA22/bd-16665.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-16665-1090px.jpg"
+  data-srcset="./../images/VA22/tv-16665-512px.jpg 512w,
+  ./../images/VA22/tv-16665-768px.jpg 768w,
+  ./../images/VA22/tv-16665-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-16665-1090px.jpg"
+  data-srcset="./../images/VA22/bd-16665-512px.jpg 512w,
+  ./../images/VA22/bd-16665-768px.jpg 768w,
+  ./../images/VA22/bd-16665-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-16700.jpg" />
- <img src="./../images/VA22/bd-16700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-16700-1090px.jpg"
+  data-srcset="./../images/VA22/tv-16700-512px.jpg 512w,
+  ./../images/VA22/tv-16700-768px.jpg 768w,
+  ./../images/VA22/tv-16700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-16700-1090px.jpg"
+  data-srcset="./../images/VA22/bd-16700-512px.jpg 512w,
+  ./../images/VA22/bd-16700-768px.jpg 768w,
+  ./../images/VA22/bd-16700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -782,8 +2028,22 @@ Allons-y!
 - For some reason there was a black dot on the left side of the frame, in the TV version of this scene; it's no longer there in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-16760.jpg" />
- <img src="./../images/VA22/bd-16760.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-16760-1090px.jpg"
+  data-srcset="./../images/VA22/tv-16760-512px.jpg 512w,
+  ./../images/VA22/tv-16760-768px.jpg 768w,
+  ./../images/VA22/tv-16760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-16760-1090px.jpg"
+  data-srcset="./../images/VA22/bd-16760-512px.jpg 512w,
+  ./../images/VA22/bd-16760-768px.jpg 768w,
+  ./../images/VA22/bd-16760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -791,8 +2051,22 @@ Allons-y!
 - Giorno's facial features have been retouched and are 10% narrower, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-17220.jpg" />
- <img src="./../images/VA22/bd-17220.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-17220-1090px.jpg"
+  data-srcset="./../images/VA22/tv-17220-512px.jpg 512w,
+  ./../images/VA22/tv-17220-768px.jpg 768w,
+  ./../images/VA22/tv-17220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-17220-1090px.jpg"
+  data-srcset="./../images/VA22/bd-17220-512px.jpg 512w,
+  ./../images/VA22/bd-17220-768px.jpg 768w,
+  ./../images/VA22/bd-17220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -800,8 +2074,22 @@ Allons-y!
 - Here, Tiziano and Squalo's faces are a little more defined, most lines in the background are slightly thinner and if you look to the right of the balcony corner in the foreground, you'll see that in the TV version there were some lines on the floor; those have been removed in the BD version:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-18545.jpg" />
- <img src="./../images/VA22/bd-18545.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-18545-1090px.jpg"
+  data-srcset="./../images/VA22/tv-18545-512px.jpg 512w,
+  ./../images/VA22/tv-18545-768px.jpg 768w,
+  ./../images/VA22/tv-18545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-18545-1090px.jpg"
+  data-srcset="./../images/VA22/bd-18545-512px.jpg 512w,
+  ./../images/VA22/bd-18545-768px.jpg 768w,
+  ./../images/VA22/bd-18545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -814,8 +2102,22 @@ Allons-y!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-18940.jpg" />
- <img src="./../images/VA22/bd-18940.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-18940-1090px.jpg"
+  data-srcset="./../images/VA22/tv-18940-512px.jpg 512w,
+  ./../images/VA22/tv-18940-768px.jpg 768w,
+  ./../images/VA22/tv-18940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-18940-1090px.jpg"
+  data-srcset="./../images/VA22/bd-18940-512px.jpg 512w,
+  ./../images/VA22/bd-18940-768px.jpg 768w,
+  ./../images/VA22/bd-18940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -823,15 +2125,43 @@ Allons-y!
 - Poor Abbacchio is looking MUCH BETTER here! Buccellati's face has also received a couple of minor retouches:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-21855.jpg" />
- <img src="./../images/VA22/bd-21855.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-21855-1090px.jpg"
+  data-srcset="./../images/VA22/tv-21855-512px.jpg 512w,
+  ./../images/VA22/tv-21855-768px.jpg 768w,
+  ./../images/VA22/tv-21855-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-21855-1090px.jpg"
+  data-srcset="./../images/VA22/bd-21855-512px.jpg 512w,
+  ./../images/VA22/bd-21855-768px.jpg 768w,
+  ./../images/VA22/bd-21855-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-21990.jpg" />
- <img src="./../images/VA22/bd-21990.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-21990-1090px.jpg"
+  data-srcset="./../images/VA22/tv-21990-512px.jpg 512w,
+  ./../images/VA22/tv-21990-768px.jpg 768w,
+  ./../images/VA22/tv-21990-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-21990-1090px.jpg"
+  data-srcset="./../images/VA22/bd-21990-512px.jpg 512w,
+  ./../images/VA22/bd-21990-768px.jpg 768w,
+  ./../images/VA22/bd-21990-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -839,15 +2169,43 @@ Allons-y!
 - Those same two boys are looking much better here as well; in addition to that, the key slot in Coco Jumbo's shell is yellow, the background is less blurry and it now moves independently to Buccellati (it's not very noticeable):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-23450.jpg" />
- <img src="./../images/VA22/bd-23450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-23450-1090px.jpg"
+  data-srcset="./../images/VA22/tv-23450-512px.jpg 512w,
+  ./../images/VA22/tv-23450-768px.jpg 768w,
+  ./../images/VA22/tv-23450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-23450-1090px.jpg"
+  data-srcset="./../images/VA22/bd-23450-512px.jpg 512w,
+  ./../images/VA22/bd-23450-768px.jpg 768w,
+  ./../images/VA22/bd-23450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-23754.jpg" />
- <img src="./../images/VA22/bd-23754.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-23754-1090px.jpg"
+  data-srcset="./../images/VA22/tv-23754-512px.jpg 512w,
+  ./../images/VA22/tv-23754-768px.jpg 768w,
+  ./../images/VA22/tv-23754-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-23754-1090px.jpg"
+  data-srcset="./../images/VA22/bd-23754-512px.jpg 512w,
+  ./../images/VA22/bd-23754-768px.jpg 768w,
+  ./../images/VA22/bd-23754-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -860,15 +2218,43 @@ Allons-y!
 - Narancia has been retouched here, and Abbacchio is looking better and WIDER than ever:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-24150.jpg" />
- <img src="./../images/VA22/bd-24150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-24150-1090px.jpg"
+  data-srcset="./../images/VA22/tv-24150-512px.jpg 512w,
+  ./../images/VA22/tv-24150-768px.jpg 768w,
+  ./../images/VA22/tv-24150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-24150-1090px.jpg"
+  data-srcset="./../images/VA22/bd-24150-512px.jpg 512w,
+  ./../images/VA22/bd-24150-768px.jpg 768w,
+  ./../images/VA22/bd-24150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-24210.jpg" />
- <img src="./../images/VA22/bd-24210.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-24210-1090px.jpg"
+  data-srcset="./../images/VA22/tv-24210-512px.jpg 512w,
+  ./../images/VA22/tv-24210-768px.jpg 768w,
+  ./../images/VA22/tv-24210-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-24210-1090px.jpg"
+  data-srcset="./../images/VA22/bd-24210-512px.jpg 512w,
+  ./../images/VA22/bd-24210-768px.jpg 768w,
+  ./../images/VA22/bd-24210-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -876,8 +2262,22 @@ Allons-y!
 - Let's go back to this episode's power couple! Those same lines that were absent near the balcony corner in the other difference are also absent here, and all background elements that overlap Tiziano and Squalo's auras now have an outline:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-25415.jpg" />
- <img src="./../images/VA22/bd-25415.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-25415-1090px.jpg"
+  data-srcset="./../images/VA22/tv-25415-512px.jpg 512w,
+  ./../images/VA22/tv-25415-768px.jpg 768w,
+  ./../images/VA22/tv-25415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-25415-1090px.jpg"
+  data-srcset="./../images/VA22/bd-25415-512px.jpg 512w,
+  ./../images/VA22/bd-25415-768px.jpg 768w,
+  ./../images/VA22/bd-25415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -885,8 +2285,22 @@ Allons-y!
 - Might I present to you what is probably the worst shot of Giorno and Abbacchio you've ever seen? Thankfully, both of them have been redrawn in the BDs, and Abbacchio's aura is also a little different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-26725.jpg" />
- <img src="./../images/VA22/bd-26725.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-26725-1090px.jpg"
+  data-srcset="./../images/VA22/tv-26725-512px.jpg 512w,
+  ./../images/VA22/tv-26725-768px.jpg 768w,
+  ./../images/VA22/tv-26725-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-26725-1090px.jpg"
+  data-srcset="./../images/VA22/bd-26725-512px.jpg 512w,
+  ./../images/VA22/bd-26725-768px.jpg 768w,
+  ./../images/VA22/bd-26725-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -913,8 +2327,22 @@ Allons-y!
 - WIDER:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-27160.jpg" />
- <img src="./../images/VA22/bd-27160.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-27160-1090px.jpg"
+  data-srcset="./../images/VA22/tv-27160-512px.jpg 512w,
+  ./../images/VA22/tv-27160-768px.jpg 768w,
+  ./../images/VA22/tv-27160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-27160-1090px.jpg"
+  data-srcset="./../images/VA22/bd-27160-512px.jpg 512w,
+  ./../images/VA22/bd-27160-768px.jpg 768w,
+  ./../images/VA22/bd-27160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -922,8 +2350,22 @@ Allons-y!
 - Narancia and Abbacchio have been resized and retouched, in this iconic scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-27520.jpg" />
- <img src="./../images/VA22/bd-27520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-27520-1090px.jpg"
+  data-srcset="./../images/VA22/tv-27520-512px.jpg 512w,
+  ./../images/VA22/tv-27520-768px.jpg 768w,
+  ./../images/VA22/tv-27520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-27520-1090px.jpg"
+  data-srcset="./../images/VA22/bd-27520-512px.jpg 512w,
+  ./../images/VA22/bd-27520-768px.jpg 768w,
+  ./../images/VA22/bd-27520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -931,15 +2373,43 @@ Allons-y!
 - Narancia's been moved and he now looks better too, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-27580.jpg" />
- <img src="./../images/VA22/bd-27580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-27580-1090px.jpg"
+  data-srcset="./../images/VA22/tv-27580-512px.jpg 512w,
+  ./../images/VA22/tv-27580-768px.jpg 768w,
+  ./../images/VA22/tv-27580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-27580-1090px.jpg"
+  data-srcset="./../images/VA22/bd-27580-512px.jpg 512w,
+  ./../images/VA22/bd-27580-768px.jpg 768w,
+  ./../images/VA22/bd-27580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-27665.jpg" />
- <img src="./../images/VA22/bd-27665.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-27665-1090px.jpg"
+  data-srcset="./../images/VA22/tv-27665-512px.jpg 512w,
+  ./../images/VA22/tv-27665-768px.jpg 768w,
+  ./../images/VA22/tv-27665-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-27665-1090px.jpg"
+  data-srcset="./../images/VA22/bd-27665-512px.jpg 512w,
+  ./../images/VA22/bd-27665-768px.jpg 768w,
+  ./../images/VA22/bd-27665-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -947,15 +2417,43 @@ Allons-y!
 - Both boys have been moved and retouched, here, and there is a slightly darker vignette towards the top and the bottom of the frame:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-27760.jpg" />
- <img src="./../images/VA22/bd-27760.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-27760-1090px.jpg"
+  data-srcset="./../images/VA22/tv-27760-512px.jpg 512w,
+  ./../images/VA22/tv-27760-768px.jpg 768w,
+  ./../images/VA22/tv-27760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-27760-1090px.jpg"
+  data-srcset="./../images/VA22/bd-27760-512px.jpg 512w,
+  ./../images/VA22/bd-27760-768px.jpg 768w,
+  ./../images/VA22/bd-27760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-27910.jpg" />
- <img src="./../images/VA22/bd-27910.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-27910-1090px.jpg"
+  data-srcset="./../images/VA22/tv-27910-512px.jpg 512w,
+  ./../images/VA22/tv-27910-768px.jpg 768w,
+  ./../images/VA22/tv-27910-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-27910-1090px.jpg"
+  data-srcset="./../images/VA22/bd-27910-512px.jpg 512w,
+  ./../images/VA22/bd-27910-768px.jpg 768w,
+  ./../images/VA22/bd-27910-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -963,22 +2461,64 @@ Allons-y!
 - Abbacchio's eye area has been retouched, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-28010.jpg" />
- <img src="./../images/VA22/bd-28010.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-28010-1090px.jpg"
+  data-srcset="./../images/VA22/tv-28010-512px.jpg 512w,
+  ./../images/VA22/tv-28010-768px.jpg 768w,
+  ./../images/VA22/tv-28010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-28010-1090px.jpg"
+  data-srcset="./../images/VA22/bd-28010-512px.jpg 512w,
+  ./../images/VA22/bd-28010-768px.jpg 768w,
+  ./../images/VA22/bd-28010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-28035.jpg" />
- <img src="./../images/VA22/bd-28035.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-28035-1090px.jpg"
+  data-srcset="./../images/VA22/tv-28035-512px.jpg 512w,
+  ./../images/VA22/tv-28035-768px.jpg 768w,
+  ./../images/VA22/tv-28035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-28035-1090px.jpg"
+  data-srcset="./../images/VA22/bd-28035-512px.jpg 512w,
+  ./../images/VA22/bd-28035-768px.jpg 768w,
+  ./../images/VA22/bd-28035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-28153.jpg" />
- <img src="./../images/VA22/bd-28153.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-28153-1090px.jpg"
+  data-srcset="./../images/VA22/tv-28153-512px.jpg 512w,
+  ./../images/VA22/tv-28153-768px.jpg 768w,
+  ./../images/VA22/tv-28153-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-28153-1090px.jpg"
+  data-srcset="./../images/VA22/bd-28153-512px.jpg 512w,
+  ./../images/VA22/bd-28153-768px.jpg 768w,
+  ./../images/VA22/bd-28153-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -986,8 +2526,22 @@ Allons-y!
 - Here, Buccellati is looking better, there's a darker vignette along the edges of the frame and the light outside the door is brighter, making for a markedly less flat shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-28158.jpg" />
- <img src="./../images/VA22/bd-28158.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-28158-1090px.jpg"
+  data-srcset="./../images/VA22/tv-28158-512px.jpg 512w,
+  ./../images/VA22/tv-28158-768px.jpg 768w,
+  ./../images/VA22/tv-28158-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-28158-1090px.jpg"
+  data-srcset="./../images/VA22/bd-28158-512px.jpg 512w,
+  ./../images/VA22/bd-28158-768px.jpg 768w,
+  ./../images/VA22/bd-28158-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -995,22 +2549,64 @@ Allons-y!
 - Giorno's TALLER and looking much better, here, and there's a new darker vignette along the edges. In the first frame, however, the empty area between Giorno's right arm and his body has been mistakenly coloured pink (thanks, <a href="https://jojocomparisons.github.io/jojo-va-22/#comment-4638446492">justacer</a>!):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-28710.jpg" />
- <img src="./../images/VA22/bd-28710.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-28710-1090px.jpg"
+  data-srcset="./../images/VA22/tv-28710-512px.jpg 512w,
+  ./../images/VA22/tv-28710-768px.jpg 768w,
+  ./../images/VA22/tv-28710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-28710-1090px.jpg"
+  data-srcset="./../images/VA22/bd-28710-512px.jpg 512w,
+  ./../images/VA22/bd-28710-768px.jpg 768w,
+  ./../images/VA22/bd-28710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-28800.jpg" />
- <img src="./../images/VA22/bd-28800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-28800-1090px.jpg"
+  data-srcset="./../images/VA22/tv-28800-512px.jpg 512w,
+  ./../images/VA22/tv-28800-768px.jpg 768w,
+  ./../images/VA22/tv-28800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-28800-1090px.jpg"
+  data-srcset="./../images/VA22/bd-28800-512px.jpg 512w,
+  ./../images/VA22/bd-28800-768px.jpg 768w,
+  ./../images/VA22/bd-28800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-28870.jpg" />
- <img src="./../images/VA22/bd-28870.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-28870-1090px.jpg"
+  data-srcset="./../images/VA22/tv-28870-512px.jpg 512w,
+  ./../images/VA22/tv-28870-768px.jpg 768w,
+  ./../images/VA22/tv-28870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-28870-1090px.jpg"
+  data-srcset="./../images/VA22/bd-28870-512px.jpg 512w,
+  ./../images/VA22/bd-28870-768px.jpg 768w,
+  ./../images/VA22/bd-28870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1018,15 +2614,43 @@ Allons-y!
 - Narancia has been retouched, here, and the camera is more zoomed-in:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-28950.jpg" />
- <img src="./../images/VA22/bd-28950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-28950-1090px.jpg"
+  data-srcset="./../images/VA22/tv-28950-512px.jpg 512w,
+  ./../images/VA22/tv-28950-768px.jpg 768w,
+  ./../images/VA22/tv-28950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-28950-1090px.jpg"
+  data-srcset="./../images/VA22/bd-28950-512px.jpg 512w,
+  ./../images/VA22/bd-28950-768px.jpg 768w,
+  ./../images/VA22/bd-28950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-29120.jpg" />
- <img src="./../images/VA22/bd-29120.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-29120-1090px.jpg"
+  data-srcset="./../images/VA22/tv-29120-512px.jpg 512w,
+  ./../images/VA22/tv-29120-768px.jpg 768w,
+  ./../images/VA22/tv-29120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-29120-1090px.jpg"
+  data-srcset="./../images/VA22/bd-29120-512px.jpg 512w,
+  ./../images/VA22/bd-29120-768px.jpg 768w,
+  ./../images/VA22/bd-29120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1034,15 +2658,43 @@ Allons-y!
 - Once again, taller and retouched Giorno shows up here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-29185.jpg" />
- <img src="./../images/VA22/bd-29185.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-29185-1090px.jpg"
+  data-srcset="./../images/VA22/tv-29185-512px.jpg 512w,
+  ./../images/VA22/tv-29185-768px.jpg 768w,
+  ./../images/VA22/tv-29185-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-29185-1090px.jpg"
+  data-srcset="./../images/VA22/bd-29185-512px.jpg 512w,
+  ./../images/VA22/bd-29185-768px.jpg 768w,
+  ./../images/VA22/bd-29185-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-29365.jpg" />
- <img src="./../images/VA22/bd-29365.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-29365-1090px.jpg"
+  data-srcset="./../images/VA22/tv-29365-512px.jpg 512w,
+  ./../images/VA22/tv-29365-768px.jpg 768w,
+  ./../images/VA22/tv-29365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-29365-1090px.jpg"
+  data-srcset="./../images/VA22/bd-29365-512px.jpg 512w,
+  ./../images/VA22/bd-29365-768px.jpg 768w,
+  ./../images/VA22/bd-29365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1050,15 +2702,43 @@ Allons-y!
 - WIDER:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-29395.jpg" />
- <img src="./../images/VA22/bd-29395.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-29395-1090px.jpg"
+  data-srcset="./../images/VA22/tv-29395-512px.jpg 512w,
+  ./../images/VA22/tv-29395-768px.jpg 768w,
+  ./../images/VA22/tv-29395-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-29395-1090px.jpg"
+  data-srcset="./../images/VA22/bd-29395-512px.jpg 512w,
+  ./../images/VA22/bd-29395-768px.jpg 768w,
+  ./../images/VA22/bd-29395-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-29470.jpg" />
- <img src="./../images/VA22/bd-29470.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-29470-1090px.jpg"
+  data-srcset="./../images/VA22/tv-29470-512px.jpg 512w,
+  ./../images/VA22/tv-29470-768px.jpg 768w,
+  ./../images/VA22/tv-29470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-29470-1090px.jpg"
+  data-srcset="./../images/VA22/bd-29470-512px.jpg 512w,
+  ./../images/VA22/bd-29470-768px.jpg 768w,
+  ./../images/VA22/bd-29470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1066,8 +2746,22 @@ Allons-y!
 - Giorno once again no longer looks like a shy alien baby asking you to give it your eggs, here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-29615.jpg" />
- <img src="./../images/VA22/bd-29615.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-29615-1090px.jpg"
+  data-srcset="./../images/VA22/tv-29615-512px.jpg 512w,
+  ./../images/VA22/tv-29615-768px.jpg 768w,
+  ./../images/VA22/tv-29615-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-29615-1090px.jpg"
+  data-srcset="./../images/VA22/bd-29615-512px.jpg 512w,
+  ./../images/VA22/bd-29615-768px.jpg 768w,
+  ./../images/VA22/bd-29615-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1082,22 +2776,64 @@ Allons-y!
 - Have another retouched Giorno, friends:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-29755.jpg" />
- <img src="./../images/VA22/bd-29755.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-29755-1090px.jpg"
+  data-srcset="./../images/VA22/tv-29755-512px.jpg 512w,
+  ./../images/VA22/tv-29755-768px.jpg 768w,
+  ./../images/VA22/tv-29755-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-29755-1090px.jpg"
+  data-srcset="./../images/VA22/bd-29755-512px.jpg 512w,
+  ./../images/VA22/bd-29755-768px.jpg 768w,
+  ./../images/VA22/bd-29755-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-29770.jpg" />
- <img src="./../images/VA22/bd-29770.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-29770-1090px.jpg"
+  data-srcset="./../images/VA22/tv-29770-512px.jpg 512w,
+  ./../images/VA22/tv-29770-768px.jpg 768w,
+  ./../images/VA22/tv-29770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-29770-1090px.jpg"
+  data-srcset="./../images/VA22/bd-29770-512px.jpg 512w,
+  ./../images/VA22/bd-29770-768px.jpg 768w,
+  ./../images/VA22/bd-29770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-29960.jpg" />
- <img src="./../images/VA22/bd-29960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-29960-1090px.jpg"
+  data-srcset="./../images/VA22/tv-29960-512px.jpg 512w,
+  ./../images/VA22/tv-29960-768px.jpg 768w,
+  ./../images/VA22/tv-29960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-29960-1090px.jpg"
+  data-srcset="./../images/VA22/bd-29960-512px.jpg 512w,
+  ./../images/VA22/bd-29960-768px.jpg 768w,
+  ./../images/VA22/bd-29960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1105,8 +2841,22 @@ Allons-y!
 - Let's take a look at the credits! Here, 火日仲克 (I have no friggin' idea how to pronounce this name, dawg) has been added to the right:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-32310.jpg" />
- <img src="./../images/VA22/bd-32310.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-32310-1090px.jpg"
+  data-srcset="./../images/VA22/tv-32310-512px.jpg 512w,
+  ./../images/VA22/tv-32310-768px.jpg 768w,
+  ./../images/VA22/tv-32310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-32310-1090px.jpg"
+  data-srcset="./../images/VA22/bd-32310-512px.jpg 512w,
+  ./../images/VA22/bd-32310-768px.jpg 768w,
+  ./../images/VA22/bd-32310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1114,8 +2864,22 @@ Allons-y!
 - Here, a bunch of names have been removed from the デジタル動画 ("Digital video") section. They are, in order, 木内祐里 ("Kiuchi Yūri"), 玉栄翔 ("Tamae Kakeru"), 尾西真成人 (the pronunciation of this name is a mystery to me), 廣原寧人 ("Hirohara Yasuhito"), 久井菜央 ("Hisai Nao"), 重信一真 ("Shigenobu Kazuma", I think?) and 渡邊爽太 ("Watanabe Sōta"). 高橋俊 ("Takahashi Shun") has been moved from デジタル動画 ("Digital video") to 動画検索 ("In-between animation check"), and "White Line" has been added under the header 動画検索補 ("In-between animation check assistance"). The rest of the credits have also been moved around to accomodate the different length:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA22/tv-32430.jpg" />
- <img src="./../images/VA22/bd-32430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/tv-32430-1090px.jpg"
+  data-srcset="./../images/VA22/tv-32430-512px.jpg 512w,
+  ./../images/VA22/tv-32430-768px.jpg 768w,
+  ./../images/VA22/tv-32430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA22/bd-32430-1090px.jpg"
+  data-srcset="./../images/VA22/bd-32430-512px.jpg 512w,
+  ./../images/VA22/bd-32430-768px.jpg 768w,
+  ./../images/VA22/bd-32430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

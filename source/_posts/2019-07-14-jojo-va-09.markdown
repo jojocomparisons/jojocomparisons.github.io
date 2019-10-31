@@ -21,8 +21,22 @@ Let's begin, shall we?
 - Today's brief comparison starts with this scene here, in which the shoulders on Buccellati's suit no longer have his trademark black dot pattern:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA09/tv-13570.jpg" />
- <img src="./../images/VA09/bd-13570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA09/tv-13570-1090px.jpg"
+  data-srcset="./../images/VA09/tv-13570-512px.jpg 512w,
+  ./../images/VA09/tv-13570-768px.jpg 768w,
+  ./../images/VA09/tv-13570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA09/bd-13570-1090px.jpg"
+  data-srcset="./../images/VA09/bd-13570-512px.jpg 512w,
+  ./../images/VA09/bd-13570-768px.jpg 768w,
+  ./../images/VA09/bd-13570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -35,15 +49,43 @@ Let's begin, shall we?
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA09/tv-16385.jpg" />
- <img src="./../images/VA09/bd-16385.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA09/tv-16385-1090px.jpg"
+  data-srcset="./../images/VA09/tv-16385-512px.jpg 512w,
+  ./../images/VA09/tv-16385-768px.jpg 768w,
+  ./../images/VA09/tv-16385-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA09/bd-16385-1090px.jpg"
+  data-srcset="./../images/VA09/bd-16385-512px.jpg 512w,
+  ./../images/VA09/bd-16385-768px.jpg 768w,
+  ./../images/VA09/bd-16385-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA09/tv-16405.jpg" />
- <img src="./../images/VA09/bd-16405.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA09/tv-16405-1090px.jpg"
+  data-srcset="./../images/VA09/tv-16405-512px.jpg 512w,
+  ./../images/VA09/tv-16405-768px.jpg 768w,
+  ./../images/VA09/tv-16405-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA09/bd-16405-1090px.jpg"
+  data-srcset="./../images/VA09/bd-16405-512px.jpg 512w,
+  ./../images/VA09/bd-16405-768px.jpg 768w,
+  ./../images/VA09/bd-16405-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -51,8 +93,22 @@ Let's begin, shall we?
 - And here... Well, it's really nothing to write home about, but apparently enough to write _here_ about... A couple of lines on Pericolo have been tweaked in the BD; see if you can spot them:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA09/tv-17005.jpg" />
- <img src="./../images/VA09/bd-17005.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA09/tv-17005-1090px.jpg"
+  data-srcset="./../images/VA09/tv-17005-512px.jpg 512w,
+  ./../images/VA09/tv-17005-768px.jpg 768w,
+  ./../images/VA09/tv-17005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA09/bd-17005-1090px.jpg"
+  data-srcset="./../images/VA09/bd-17005-512px.jpg 512w,
+  ./../images/VA09/bd-17005-768px.jpg 768w,
+  ./../images/VA09/bd-17005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -60,8 +116,22 @@ Let's begin, shall we?
 - Here, Trish's eyes and lashes have been retouched and are looking better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA09/tv-19300.jpg" />
- <img src="./../images/VA09/bd-19300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA09/tv-19300-1090px.jpg"
+  data-srcset="./../images/VA09/tv-19300-512px.jpg 512w,
+  ./../images/VA09/tv-19300-768px.jpg 768w,
+  ./../images/VA09/tv-19300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA09/bd-19300-1090px.jpg"
+  data-srcset="./../images/VA09/bd-19300-512px.jpg 512w,
+  ./../images/VA09/bd-19300-768px.jpg 768w,
+  ./../images/VA09/bd-19300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -88,8 +158,22 @@ Let's begin, shall we?
 - Let's take a quick look at the credits! Here, the company name DOG WOOD was misspelled as DOOG WOOD; this has been corrected:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA09/tv-31815.jpg" />
- <img src="./../images/VA09/bd-31815.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA09/tv-31815-1090px.jpg"
+  data-srcset="./../images/VA09/tv-31815-512px.jpg 512w,
+  ./../images/VA09/tv-31815-768px.jpg 768w,
+  ./../images/VA09/tv-31815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA09/bd-31815-1090px.jpg"
+  data-srcset="./../images/VA09/bd-31815-512px.jpg 512w,
+  ./../images/VA09/bd-31815-768px.jpg 768w,
+  ./../images/VA09/bd-31815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

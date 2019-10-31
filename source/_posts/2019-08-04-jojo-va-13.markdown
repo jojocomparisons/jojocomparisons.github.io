@@ -23,22 +23,64 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Let's start this off with two retouched faces, on Abbacchio and Giorno:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-00780.jpg" />
- <img src="./../images/VA13/bd-00780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-00780-1090px.jpg"
+  data-srcset="./../images/VA13/tv-00780-512px.jpg 512w,
+  ./../images/VA13/tv-00780-768px.jpg 768w,
+  ./../images/VA13/tv-00780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-00780-1090px.jpg"
+  data-srcset="./../images/VA13/bd-00780-512px.jpg 512w,
+  ./../images/VA13/bd-00780-768px.jpg 768w,
+  ./../images/VA13/bd-00780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-00785.jpg" />
- <img src="./../images/VA13/bd-00785.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-00785-1090px.jpg"
+  data-srcset="./../images/VA13/tv-00785-512px.jpg 512w,
+  ./../images/VA13/tv-00785-768px.jpg 768w,
+  ./../images/VA13/tv-00785-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-00785-1090px.jpg"
+  data-srcset="./../images/VA13/bd-00785-512px.jpg 512w,
+  ./../images/VA13/bd-00785-768px.jpg 768w,
+  ./../images/VA13/bd-00785-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-00791.jpg" />
- <img src="./../images/VA13/bd-00791.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-00791-1090px.jpg"
+  data-srcset="./../images/VA13/tv-00791-512px.jpg 512w,
+  ./../images/VA13/tv-00791-768px.jpg 768w,
+  ./../images/VA13/tv-00791-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-00791-1090px.jpg"
+  data-srcset="./../images/VA13/bd-00791-512px.jpg 512w,
+  ./../images/VA13/bd-00791-768px.jpg 768w,
+  ./../images/VA13/bd-00791-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -46,22 +88,64 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, both Illuso and Fugo are noticeably darker, Illuso's face has been retouched, Fugo is *significantly* blurrier and the shot is more distorted around the edges:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-00946.jpg" />
- <img src="./../images/VA13/bd-00946.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-00946-1090px.jpg"
+  data-srcset="./../images/VA13/tv-00946-512px.jpg 512w,
+  ./../images/VA13/tv-00946-768px.jpg 768w,
+  ./../images/VA13/tv-00946-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-00946-1090px.jpg"
+  data-srcset="./../images/VA13/bd-00946-512px.jpg 512w,
+  ./../images/VA13/bd-00946-768px.jpg 768w,
+  ./../images/VA13/bd-00946-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-00953.jpg" />
- <img src="./../images/VA13/bd-00953.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-00953-1090px.jpg"
+  data-srcset="./../images/VA13/tv-00953-512px.jpg 512w,
+  ./../images/VA13/tv-00953-768px.jpg 768w,
+  ./../images/VA13/tv-00953-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-00953-1090px.jpg"
+  data-srcset="./../images/VA13/bd-00953-512px.jpg 512w,
+  ./../images/VA13/bd-00953-768px.jpg 768w,
+  ./../images/VA13/bd-00953-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-01090.jpg" />
- <img src="./../images/VA13/bd-01090.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-01090-1090px.jpg"
+  data-srcset="./../images/VA13/tv-01090-512px.jpg 512w,
+  ./../images/VA13/tv-01090-768px.jpg 768w,
+  ./../images/VA13/tv-01090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-01090-1090px.jpg"
+  data-srcset="./../images/VA13/bd-01090-512px.jpg 512w,
+  ./../images/VA13/bd-01090-768px.jpg 768w,
+  ./../images/VA13/bd-01090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -69,8 +153,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, a couple of shadows on Fugo are looking a little better...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-01210.jpg" />
- <img src="./../images/VA13/bd-01210.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-01210-1090px.jpg"
+  data-srcset="./../images/VA13/tv-01210-512px.jpg 512w,
+  ./../images/VA13/tv-01210-768px.jpg 768w,
+  ./../images/VA13/tv-01210-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-01210-1090px.jpg"
+  data-srcset="./../images/VA13/bd-01210-512px.jpg 512w,
+  ./../images/VA13/bd-01210-768px.jpg 768w,
+  ./../images/VA13/bd-01210-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -78,8 +176,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And here, at the end of the same sequence, Fugo's ear no longer has the same colour as his hair and his tie doesn't disappear anymore:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-01320.jpg" />
- <img src="./../images/VA13/bd-01320.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-01320-1090px.jpg"
+  data-srcset="./../images/VA13/tv-01320-512px.jpg 512w,
+  ./../images/VA13/tv-01320-768px.jpg 768w,
+  ./../images/VA13/tv-01320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-01320-1090px.jpg"
+  data-srcset="./../images/VA13/bd-01320-512px.jpg 512w,
+  ./../images/VA13/bd-01320-768px.jpg 768w,
+  ./../images/VA13/bd-01320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -87,8 +199,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, Illuso's jacket latch has been flipped horizontally (ya know, because it's a reflection), his mouth has been moved to the right by quite a significant amount and the shading near his left eye is looking a little better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-02020.jpg" />
- <img src="./../images/VA13/bd-02020.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-02020-1090px.jpg"
+  data-srcset="./../images/VA13/tv-02020-512px.jpg 512w,
+  ./../images/VA13/tv-02020-768px.jpg 768w,
+  ./../images/VA13/tv-02020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-02020-1090px.jpg"
+  data-srcset="./../images/VA13/bd-02020-512px.jpg 512w,
+  ./../images/VA13/bd-02020-768px.jpg 768w,
+  ./../images/VA13/bd-02020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -101,8 +227,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-02325.jpg" />
- <img src="./../images/VA13/bd-02325.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-02325-1090px.jpg"
+  data-srcset="./../images/VA13/tv-02325-512px.jpg 512w,
+  ./../images/VA13/tv-02325-768px.jpg 768w,
+  ./../images/VA13/tv-02325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-02325-1090px.jpg"
+  data-srcset="./../images/VA13/bd-02325-512px.jpg 512w,
+  ./../images/VA13/bd-02325-768px.jpg 768w,
+  ./../images/VA13/bd-02325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -110,8 +250,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here Abbacchio actually has a mouth, and he's shaded in a slightly different manner:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-04739.jpg" />
- <img src="./../images/VA13/bd-04739.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-04739-1090px.jpg"
+  data-srcset="./../images/VA13/tv-04739-512px.jpg 512w,
+  ./../images/VA13/tv-04739-768px.jpg 768w,
+  ./../images/VA13/tv-04739-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-04739-1090px.jpg"
+  data-srcset="./../images/VA13/bd-04739-512px.jpg 512w,
+  ./../images/VA13/bd-04739-768px.jpg 768w,
+  ./../images/VA13/bd-04739-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -126,8 +280,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, Abbacchio's eyes have been recoloured, his eyelashes retouched and his forehead shaded a little better and retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-05295.jpg" />
- <img src="./../images/VA13/bd-05295.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-05295-1090px.jpg"
+  data-srcset="./../images/VA13/tv-05295-512px.jpg 512w,
+  ./../images/VA13/tv-05295-768px.jpg 768w,
+  ./../images/VA13/tv-05295-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-05295-1090px.jpg"
+  data-srcset="./../images/VA13/bd-05295-512px.jpg 512w,
+  ./../images/VA13/bd-05295-768px.jpg 768w,
+  ./../images/VA13/bd-05295-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -135,8 +303,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And, in addition to that, Man in the Mirror's fingerprints on his arm have been recoloured correctly as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-05330.jpg" />
- <img src="./../images/VA13/bd-05330.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-05330-1090px.jpg"
+  data-srcset="./../images/VA13/tv-05330-512px.jpg 512w,
+  ./../images/VA13/tv-05330-768px.jpg 768w,
+  ./../images/VA13/tv-05330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-05330-1090px.jpg"
+  data-srcset="./../images/VA13/bd-05330-512px.jpg 512w,
+  ./../images/VA13/bd-05330-768px.jpg 768w,
+  ./../images/VA13/bd-05330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -144,8 +326,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - For some bizarre reason, the BDs introduced an error here. In some frames, the space between Man in the Mirror's middle and ring finger has been incorrectly recoloured gray:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-05842.jpg" />
- <img src="./../images/VA13/bd-05842.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-05842-1090px.jpg"
+  data-srcset="./../images/VA13/tv-05842-512px.jpg 512w,
+  ./../images/VA13/tv-05842-768px.jpg 768w,
+  ./../images/VA13/tv-05842-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-05842-1090px.jpg"
+  data-srcset="./../images/VA13/bd-05842-512px.jpg 512w,
+  ./../images/VA13/bd-05842-768px.jpg 768w,
+  ./../images/VA13/bd-05842-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -153,8 +349,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And here, a bunch of details on Man in the Mirror's helmet have been recoloured, and Abbacchio's face has been retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-05960.jpg" />
- <img src="./../images/VA13/bd-05960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-05960-1090px.jpg"
+  data-srcset="./../images/VA13/tv-05960-512px.jpg 512w,
+  ./../images/VA13/tv-05960-768px.jpg 768w,
+  ./../images/VA13/tv-05960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-05960-1090px.jpg"
+  data-srcset="./../images/VA13/bd-05960-512px.jpg 512w,
+  ./../images/VA13/bd-05960-768px.jpg 768w,
+  ./../images/VA13/bd-05960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -169,8 +379,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here Illuso has been completely recoloured and his mouth area has been retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-06640.jpg" />
- <img src="./../images/VA13/bd-06640.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-06640-1090px.jpg"
+  data-srcset="./../images/VA13/tv-06640-512px.jpg 512w,
+  ./../images/VA13/tv-06640-768px.jpg 768w,
+  ./../images/VA13/tv-06640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-06640-1090px.jpg"
+  data-srcset="./../images/VA13/bd-06640-512px.jpg 512w,
+  ./../images/VA13/bd-06640-768px.jpg 768w,
+  ./../images/VA13/bd-06640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -185,8 +409,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - A bunch of details have been retouched/reshaded/recoloured here. Lookin' good, Illuso:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-06940.jpg" />
- <img src="./../images/VA13/bd-06940.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-06940-1090px.jpg"
+  data-srcset="./../images/VA13/tv-06940-512px.jpg 512w,
+  ./../images/VA13/tv-06940-768px.jpg 768w,
+  ./../images/VA13/tv-06940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-06940-1090px.jpg"
+  data-srcset="./../images/VA13/bd-06940-512px.jpg 512w,
+  ./../images/VA13/bd-06940-768px.jpg 768w,
+  ./../images/VA13/bd-06940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -194,8 +432,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, Illuso's face has been retouched and is also bloodier (it's not easy to spot, but it's there):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-07720.jpg" />
- <img src="./../images/VA13/bd-07720.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-07720-1090px.jpg"
+  data-srcset="./../images/VA13/tv-07720-512px.jpg 512w,
+  ./../images/VA13/tv-07720-768px.jpg 768w,
+  ./../images/VA13/tv-07720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-07720-1090px.jpg"
+  data-srcset="./../images/VA13/bd-07720-512px.jpg 512w,
+  ./../images/VA13/bd-07720-768px.jpg 768w,
+  ./../images/VA13/bd-07720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -210,8 +462,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - This close shot at Illuso's face has been retouched significantly:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-07825.jpg" />
- <img src="./../images/VA13/bd-07825.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-07825-1090px.jpg"
+  data-srcset="./../images/VA13/tv-07825-512px.jpg 512w,
+  ./../images/VA13/tv-07825-768px.jpg 768w,
+  ./../images/VA13/tv-07825-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-07825-1090px.jpg"
+  data-srcset="./../images/VA13/bd-07825-512px.jpg 512w,
+  ./../images/VA13/bd-07825-768px.jpg 768w,
+  ./../images/VA13/bd-07825-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -219,8 +485,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, Abbacchio's face has been retouched and Moody Blues is taller:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-08290.jpg" />
- <img src="./../images/VA13/bd-08290.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-08290-1090px.jpg"
+  data-srcset="./../images/VA13/tv-08290-512px.jpg 512w,
+  ./../images/VA13/tv-08290-768px.jpg 768w,
+  ./../images/VA13/tv-08290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-08290-1090px.jpg"
+  data-srcset="./../images/VA13/bd-08290-512px.jpg 512w,
+  ./../images/VA13/bd-08290-768px.jpg 768w,
+  ./../images/VA13/bd-08290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -228,8 +508,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Illuso is much blurrier in the foreground:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-08360.jpg" />
- <img src="./../images/VA13/bd-08360.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-08360-1090px.jpg"
+  data-srcset="./../images/VA13/tv-08360-512px.jpg 512w,
+  ./../images/VA13/tv-08360-768px.jpg 768w,
+  ./../images/VA13/tv-08360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-08360-1090px.jpg"
+  data-srcset="./../images/VA13/bd-08360-512px.jpg 512w,
+  ./../images/VA13/bd-08360-768px.jpg 768w,
+  ./../images/VA13/bd-08360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -244,8 +538,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And this... well... There's no need to comment it, is there:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-08951.jpg" />
- <img src="./../images/VA13/bd-08951.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-08951-1090px.jpg"
+  data-srcset="./../images/VA13/tv-08951-512px.jpg 512w,
+  ./../images/VA13/tv-08951-768px.jpg 768w,
+  ./../images/VA13/tv-08951-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-08951-1090px.jpg"
+  data-srcset="./../images/VA13/bd-08951-512px.jpg 512w,
+  ./../images/VA13/bd-08951-768px.jpg 768w,
+  ./../images/VA13/bd-08951-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -253,8 +561,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - It's "list the differences" time! So: Abbacchio's eye has been recoloured and he now has a neck, Man in the Mirror's shoulder cape-thing has been correctly recoloured, Moody Blues' neck and eye areas have been re-shaded a little bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-09885.jpg" />
- <img src="./../images/VA13/bd-09885.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-09885-1090px.jpg"
+  data-srcset="./../images/VA13/tv-09885-512px.jpg 512w,
+  ./../images/VA13/tv-09885-768px.jpg 768w,
+  ./../images/VA13/tv-09885-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-09885-1090px.jpg"
+  data-srcset="./../images/VA13/bd-09885-512px.jpg 512w,
+  ./../images/VA13/bd-09885-768px.jpg 768w,
+  ./../images/VA13/bd-09885-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -262,8 +584,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Abbacchio's eye has been redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-10705.jpg" />
- <img src="./../images/VA13/bd-10705.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-10705-1090px.jpg"
+  data-srcset="./../images/VA13/tv-10705-512px.jpg 512w,
+  ./../images/VA13/tv-10705-768px.jpg 768w,
+  ./../images/VA13/tv-10705-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-10705-1090px.jpg"
+  data-srcset="./../images/VA13/bd-10705-512px.jpg 512w,
+  ./../images/VA13/bd-10705-768px.jpg 768w,
+  ./../images/VA13/bd-10705-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -271,8 +607,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And when he closes it, there are a couple more lines underneath his eyebrow:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-10725.jpg" />
- <img src="./../images/VA13/bd-10725.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-10725-1090px.jpg"
+  data-srcset="./../images/VA13/tv-10725-512px.jpg 512w,
+  ./../images/VA13/tv-10725-768px.jpg 768w,
+  ./../images/VA13/tv-10725-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-10725-1090px.jpg"
+  data-srcset="./../images/VA13/bd-10725-512px.jpg 512w,
+  ./../images/VA13/bd-10725-768px.jpg 768w,
+  ./../images/VA13/bd-10725-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -280,8 +630,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Both faces have been retouched here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-10894.jpg" />
- <img src="./../images/VA13/bd-10894.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-10894-1090px.jpg"
+  data-srcset="./../images/VA13/tv-10894-512px.jpg 512w,
+  ./../images/VA13/tv-10894-768px.jpg 768w,
+  ./../images/VA13/tv-10894-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-10894-1090px.jpg"
+  data-srcset="./../images/VA13/bd-10894-512px.jpg 512w,
+  ./../images/VA13/bd-10894-768px.jpg 768w,
+  ./../images/VA13/bd-10894-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -289,8 +653,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Illuso's foot is no longer Moody Blues-coloured...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-10896.jpg" />
- <img src="./../images/VA13/bd-10896.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-10896-1090px.jpg"
+  data-srcset="./../images/VA13/tv-10896-512px.jpg 512w,
+  ./../images/VA13/tv-10896-768px.jpg 768w,
+  ./../images/VA13/tv-10896-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-10896-1090px.jpg"
+  data-srcset="./../images/VA13/bd-10896-512px.jpg 512w,
+  ./../images/VA13/bd-10896-768px.jpg 768w,
+  ./../images/VA13/bd-10896-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -298,8 +676,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And Moody Blues' telephone-holes in his shoulder and eye have been correctly drawn in:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-10915.jpg" />
- <img src="./../images/VA13/bd-10915.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-10915-1090px.jpg"
+  data-srcset="./../images/VA13/tv-10915-512px.jpg 512w,
+  ./../images/VA13/tv-10915-768px.jpg 768w,
+  ./../images/VA13/tv-10915-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-10915-1090px.jpg"
+  data-srcset="./../images/VA13/bd-10915-512px.jpg 512w,
+  ./../images/VA13/bd-10915-768px.jpg 768w,
+  ./../images/VA13/bd-10915-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -307,8 +699,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And here, in this scene taken straight from a fan-fiction, Abbacchio's eye colour has been smoothed properly, he no longer has that one line on his bald cap...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-10935.jpg" />
- <img src="./../images/VA13/bd-10935.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-10935-1090px.jpg"
+  data-srcset="./../images/VA13/tv-10935-512px.jpg 512w,
+  ./../images/VA13/tv-10935-768px.jpg 768w,
+  ./../images/VA13/tv-10935-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-10935-1090px.jpg"
+  data-srcset="./../images/VA13/bd-10935-512px.jpg 512w,
+  ./../images/VA13/bd-10935-768px.jpg 768w,
+  ./../images/VA13/bd-10935-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -316,8 +722,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - ... and the shading near his nose and left shoulder is looking better. Kinky:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-10960.jpg" />
- <img src="./../images/VA13/bd-10960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-10960-1090px.jpg"
+  data-srcset="./../images/VA13/tv-10960-512px.jpg 512w,
+  ./../images/VA13/tv-10960-768px.jpg 768w,
+  ./../images/VA13/tv-10960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-10960-1090px.jpg"
+  data-srcset="./../images/VA13/bd-10960-512px.jpg 512w,
+  ./../images/VA13/bd-10960-768px.jpg 768w,
+  ./../images/VA13/bd-10960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -325,8 +745,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Aaand here, Abbacchio's left eye has been retouched and Illuso now has BIG ABS:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-10965.jpg" />
- <img src="./../images/VA13/bd-10965.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-10965-1090px.jpg"
+  data-srcset="./../images/VA13/tv-10965-512px.jpg 512w,
+  ./../images/VA13/tv-10965-768px.jpg 768w,
+  ./../images/VA13/tv-10965-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-10965-1090px.jpg"
+  data-srcset="./../images/VA13/bd-10965-512px.jpg 512w,
+  ./../images/VA13/bd-10965-768px.jpg 768w,
+  ./../images/VA13/bd-10965-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -334,22 +768,64 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Same here, plus some massively improved shading and a retouched bald cap on Abbacchio:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-11175.jpg" />
- <img src="./../images/VA13/bd-11175.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-11175-1090px.jpg"
+  data-srcset="./../images/VA13/tv-11175-512px.jpg 512w,
+  ./../images/VA13/tv-11175-768px.jpg 768w,
+  ./../images/VA13/tv-11175-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-11175-1090px.jpg"
+  data-srcset="./../images/VA13/bd-11175-512px.jpg 512w,
+  ./../images/VA13/bd-11175-768px.jpg 768w,
+  ./../images/VA13/bd-11175-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-11180.jpg" />
- <img src="./../images/VA13/bd-11180.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-11180-1090px.jpg"
+  data-srcset="./../images/VA13/tv-11180-512px.jpg 512w,
+  ./../images/VA13/tv-11180-768px.jpg 768w,
+  ./../images/VA13/tv-11180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-11180-1090px.jpg"
+  data-srcset="./../images/VA13/bd-11180-512px.jpg 512w,
+  ./../images/VA13/bd-11180-768px.jpg 768w,
+  ./../images/VA13/bd-11180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-11185.jpg" />
- <img src="./../images/VA13/bd-11185.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-11185-1090px.jpg"
+  data-srcset="./../images/VA13/tv-11185-512px.jpg 512w,
+  ./../images/VA13/tv-11185-768px.jpg 768w,
+  ./../images/VA13/tv-11185-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-11185-1090px.jpg"
+  data-srcset="./../images/VA13/bd-11185-512px.jpg 512w,
+  ./../images/VA13/bd-11185-768px.jpg 768w,
+  ./../images/VA13/bd-11185-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -357,8 +833,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And let's conclude this brief bit with some more redrawn abs, the same redrawn eye on Abbacchio, a sliiightly retouched shadow on Illuso's left pec and an equally slightly retouched blood rivulet rolling down Illuso's left cheek:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-11330.jpg" />
- <img src="./../images/VA13/bd-11330.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-11330-1090px.jpg"
+  data-srcset="./../images/VA13/tv-11330-512px.jpg 512w,
+  ./../images/VA13/tv-11330-768px.jpg 768w,
+  ./../images/VA13/tv-11330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-11330-1090px.jpg"
+  data-srcset="./../images/VA13/bd-11330-512px.jpg 512w,
+  ./../images/VA13/bd-11330-768px.jpg 768w,
+  ./../images/VA13/bd-11330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -366,8 +856,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Just... a lot of things have been retouched here. It's faster if you look for yourself:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-11590.jpg" />
- <img src="./../images/VA13/bd-11590.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-11590-1090px.jpg"
+  data-srcset="./../images/VA13/tv-11590-512px.jpg 512w,
+  ./../images/VA13/tv-11590-768px.jpg 768w,
+  ./../images/VA13/tv-11590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-11590-1090px.jpg"
+  data-srcset="./../images/VA13/bd-11590-512px.jpg 512w,
+  ./../images/VA13/bd-11590-768px.jpg 768w,
+  ./../images/VA13/bd-11590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -375,8 +879,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Abbacchio's weird gummy hair has been coloured correctly here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-11915.jpg" />
- <img src="./../images/VA13/bd-11915.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-11915-1090px.jpg"
+  data-srcset="./../images/VA13/tv-11915-512px.jpg 512w,
+  ./../images/VA13/tv-11915-768px.jpg 768w,
+  ./../images/VA13/tv-11915-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-11915-1090px.jpg"
+  data-srcset="./../images/VA13/bd-11915-512px.jpg 512w,
+  ./../images/VA13/bd-11915-768px.jpg 768w,
+  ./../images/VA13/bd-11915-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -384,15 +902,43 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Illuso's face has received a pretty big makeover here, and Abbacchio's eye has been shaded darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-11960.jpg" />
- <img src="./../images/VA13/bd-11960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-11960-1090px.jpg"
+  data-srcset="./../images/VA13/tv-11960-512px.jpg 512w,
+  ./../images/VA13/tv-11960-768px.jpg 768w,
+  ./../images/VA13/tv-11960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-11960-1090px.jpg"
+  data-srcset="./../images/VA13/bd-11960-512px.jpg 512w,
+  ./../images/VA13/bd-11960-768px.jpg 768w,
+  ./../images/VA13/bd-11960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-12135.jpg" />
- <img src="./../images/VA13/bd-12135.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-12135-1090px.jpg"
+  data-srcset="./../images/VA13/tv-12135-512px.jpg 512w,
+  ./../images/VA13/tv-12135-768px.jpg 768w,
+  ./../images/VA13/tv-12135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-12135-1090px.jpg"
+  data-srcset="./../images/VA13/bd-12135-512px.jpg 512w,
+  ./../images/VA13/bd-12135-768px.jpg 768w,
+  ./../images/VA13/bd-12135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -400,8 +946,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here EVERYTHING LOOKS BETTER! Stunning work, Dpro:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-12355.jpg" />
- <img src="./../images/VA13/bd-12355.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-12355-1090px.jpg"
+  data-srcset="./../images/VA13/tv-12355-512px.jpg 512w,
+  ./../images/VA13/tv-12355-768px.jpg 768w,
+  ./../images/VA13/tv-12355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-12355-1090px.jpg"
+  data-srcset="./../images/VA13/bd-12355-512px.jpg 512w,
+  ./../images/VA13/bd-12355-768px.jpg 768w,
+  ./../images/VA13/bd-12355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -416,8 +976,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - A small bit of Illuso's forehead has been shaded darker, so that he no longer looks like his cranium is shaped like a pretzel:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-13505.jpg" />
- <img src="./../images/VA13/bd-13505.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-13505-1090px.jpg"
+  data-srcset="./../images/VA13/tv-13505-512px.jpg 512w,
+  ./../images/VA13/tv-13505-768px.jpg 768w,
+  ./../images/VA13/tv-13505-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-13505-1090px.jpg"
+  data-srcset="./../images/VA13/bd-13505-512px.jpg 512w,
+  ./../images/VA13/bd-13505-768px.jpg 768w,
+  ./../images/VA13/bd-13505-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -425,8 +999,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Abbacchio's eye has been retouched once more here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-13660.jpg" />
- <img src="./../images/VA13/bd-13660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-13660-1090px.jpg"
+  data-srcset="./../images/VA13/tv-13660-512px.jpg 512w,
+  ./../images/VA13/tv-13660-768px.jpg 768w,
+  ./../images/VA13/tv-13660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-13660-1090px.jpg"
+  data-srcset="./../images/VA13/bd-13660-512px.jpg 512w,
+  ./../images/VA13/bd-13660-768px.jpg 768w,
+  ./../images/VA13/bd-13660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -441,8 +1029,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Abbacchio's eye has once again been recoloured here, and a bunch of shadows all over the place are looking mighty better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-14520.jpg" />
- <img src="./../images/VA13/bd-14520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-14520-1090px.jpg"
+  data-srcset="./../images/VA13/tv-14520-512px.jpg 512w,
+  ./../images/VA13/tv-14520-768px.jpg 768w,
+  ./../images/VA13/tv-14520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-14520-1090px.jpg"
+  data-srcset="./../images/VA13/bd-14520-512px.jpg 512w,
+  ./../images/VA13/bd-14520-768px.jpg 768w,
+  ./../images/VA13/bd-14520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -450,8 +1052,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - That mysterious black dot near Abbacchio's left foot has been removed in the BD:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-15955.jpg" />
- <img src="./../images/VA13/bd-15955.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-15955-1090px.jpg"
+  data-srcset="./../images/VA13/tv-15955-512px.jpg 512w,
+  ./../images/VA13/tv-15955-768px.jpg 768w,
+  ./../images/VA13/tv-15955-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-15955-1090px.jpg"
+  data-srcset="./../images/VA13/bd-15955-512px.jpg 512w,
+  ./../images/VA13/bd-15955-768px.jpg 768w,
+  ./../images/VA13/bd-15955-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -459,8 +1075,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And here, Moody Blues has been coloured a little differently:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-16320.jpg" />
- <img src="./../images/VA13/bd-16320.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-16320-1090px.jpg"
+  data-srcset="./../images/VA13/tv-16320-512px.jpg 512w,
+  ./../images/VA13/tv-16320-768px.jpg 768w,
+  ./../images/VA13/tv-16320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-16320-1090px.jpg"
+  data-srcset="./../images/VA13/bd-16320-512px.jpg 512w,
+  ./../images/VA13/bd-16320-768px.jpg 768w,
+  ./../images/VA13/bd-16320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -468,8 +1098,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - I WILL NOW PROCEED TO KILL YOU WITH THIS MUCH BIGGER SHARD OF GLASS:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-16490.jpg" />
- <img src="./../images/VA13/bd-16490.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-16490-1090px.jpg"
+  data-srcset="./../images/VA13/tv-16490-512px.jpg 512w,
+  ./../images/VA13/tv-16490-768px.jpg 768w,
+  ./../images/VA13/tv-16490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-16490-1090px.jpg"
+  data-srcset="./../images/VA13/bd-16490-512px.jpg 512w,
+  ./../images/VA13/bd-16490-768px.jpg 768w,
+  ./../images/VA13/bd-16490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -477,8 +1121,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here Giorno is no longer cross-eyed, and his face has been retouched and re-shaded overall, looking much better as a result:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-16775.jpg" />
- <img src="./../images/VA13/bd-16775.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-16775-1090px.jpg"
+  data-srcset="./../images/VA13/tv-16775-512px.jpg 512w,
+  ./../images/VA13/tv-16775-768px.jpg 768w,
+  ./../images/VA13/tv-16775-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-16775-1090px.jpg"
+  data-srcset="./../images/VA13/bd-16775-512px.jpg 512w,
+  ./../images/VA13/bd-16775-768px.jpg 768w,
+  ./../images/VA13/bd-16775-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -486,8 +1144,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And here, his two boob ladybugs (ladyboobs?) have been retouched, and his eye area is also looking better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-16925.jpg" />
- <img src="./../images/VA13/bd-16925.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-16925-1090px.jpg"
+  data-srcset="./../images/VA13/tv-16925-512px.jpg 512w,
+  ./../images/VA13/tv-16925-768px.jpg 768w,
+  ./../images/VA13/tv-16925-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-16925-1090px.jpg"
+  data-srcset="./../images/VA13/bd-16925-512px.jpg 512w,
+  ./../images/VA13/bd-16925-768px.jpg 768w,
+  ./../images/VA13/bd-16925-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -495,8 +1167,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Later on in the same sequence, Man in the Mirror joins the retouched gang:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-16955.jpg" />
- <img src="./../images/VA13/bd-16955.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-16955-1090px.jpg"
+  data-srcset="./../images/VA13/tv-16955-512px.jpg 512w,
+  ./../images/VA13/tv-16955-768px.jpg 768w,
+  ./../images/VA13/tv-16955-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-16955-1090px.jpg"
+  data-srcset="./../images/VA13/bd-16955-512px.jpg 512w,
+  ./../images/VA13/bd-16955-768px.jpg 768w,
+  ./../images/VA13/bd-16955-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -504,8 +1190,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, Illuso has a jawline:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-17110.jpg" />
- <img src="./../images/VA13/bd-17110.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-17110-1090px.jpg"
+  data-srcset="./../images/VA13/tv-17110-512px.jpg 512w,
+  ./../images/VA13/tv-17110-768px.jpg 768w,
+  ./../images/VA13/tv-17110-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-17110-1090px.jpg"
+  data-srcset="./../images/VA13/bd-17110-512px.jpg 512w,
+  ./../images/VA13/bd-17110-768px.jpg 768w,
+  ./../images/VA13/bd-17110-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -513,15 +1213,43 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, the colouring/shading on Giorno is looking a little different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-17120.jpg" />
- <img src="./../images/VA13/bd-17120.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-17120-1090px.jpg"
+  data-srcset="./../images/VA13/tv-17120-512px.jpg 512w,
+  ./../images/VA13/tv-17120-768px.jpg 768w,
+  ./../images/VA13/tv-17120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-17120-1090px.jpg"
+  data-srcset="./../images/VA13/bd-17120-512px.jpg 512w,
+  ./../images/VA13/bd-17120-768px.jpg 768w,
+  ./../images/VA13/bd-17120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-17355.jpg" />
- <img src="./../images/VA13/bd-17355.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-17355-1090px.jpg"
+  data-srcset="./../images/VA13/tv-17355-512px.jpg 512w,
+  ./../images/VA13/tv-17355-768px.jpg 768w,
+  ./../images/VA13/tv-17355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-17355-1090px.jpg"
+  data-srcset="./../images/VA13/bd-17355-512px.jpg 512w,
+  ./../images/VA13/bd-17355-768px.jpg 768w,
+  ./../images/VA13/bd-17355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -534,8 +1262,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-17455.jpg" />
- <img src="./../images/VA13/bd-17455.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-17455-1090px.jpg"
+  data-srcset="./../images/VA13/tv-17455-512px.jpg 512w,
+  ./../images/VA13/tv-17455-768px.jpg 768w,
+  ./../images/VA13/tv-17455-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-17455-1090px.jpg"
+  data-srcset="./../images/VA13/bd-17455-512px.jpg 512w,
+  ./../images/VA13/bd-17455-768px.jpg 768w,
+  ./../images/VA13/bd-17455-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -543,8 +1285,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, the BD added numbers on Moody Blues' forehead, Abbacchio's eye has been slightly retouched, and the background is less blurry at the top of the frame:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-17770.jpg" />
- <img src="./../images/VA13/bd-17770.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-17770-1090px.jpg"
+  data-srcset="./../images/VA13/tv-17770-512px.jpg 512w,
+  ./../images/VA13/tv-17770-768px.jpg 768w,
+  ./../images/VA13/tv-17770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-17770-1090px.jpg"
+  data-srcset="./../images/VA13/bd-17770-512px.jpg 512w,
+  ./../images/VA13/bd-17770-768px.jpg 768w,
+  ./../images/VA13/bd-17770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -552,15 +1308,43 @@ Get something to snack on, friends, because this is going to be a very long one!
 - This flashback scene is a little brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-17780.jpg" />
- <img src="./../images/VA13/bd-17780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-17780-1090px.jpg"
+  data-srcset="./../images/VA13/tv-17780-512px.jpg 512w,
+  ./../images/VA13/tv-17780-768px.jpg 768w,
+  ./../images/VA13/tv-17780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-17780-1090px.jpg"
+  data-srcset="./../images/VA13/bd-17780-512px.jpg 512w,
+  ./../images/VA13/bd-17780-768px.jpg 768w,
+  ./../images/VA13/bd-17780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-17820.jpg" />
- <img src="./../images/VA13/bd-17820.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-17820-1090px.jpg"
+  data-srcset="./../images/VA13/tv-17820-512px.jpg 512w,
+  ./../images/VA13/tv-17820-768px.jpg 768w,
+  ./../images/VA13/tv-17820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-17820-1090px.jpg"
+  data-srcset="./../images/VA13/bd-17820-512px.jpg 512w,
+  ./../images/VA13/bd-17820-768px.jpg 768w,
+  ./../images/VA13/bd-17820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -568,8 +1352,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Fugo has been shaded better here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-18905.jpg" />
- <img src="./../images/VA13/bd-18905.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-18905-1090px.jpg"
+  data-srcset="./../images/VA13/tv-18905-512px.jpg 512w,
+  ./../images/VA13/tv-18905-768px.jpg 768w,
+  ./../images/VA13/tv-18905-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-18905-1090px.jpg"
+  data-srcset="./../images/VA13/bd-18905-512px.jpg 512w,
+  ./../images/VA13/bd-18905-768px.jpg 768w,
+  ./../images/VA13/bd-18905-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -577,15 +1375,43 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And here, Illuso's face has been retouched too! Check out the poor bastard:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-20080.jpg" />
- <img src="./../images/VA13/bd-20080.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-20080-1090px.jpg"
+  data-srcset="./../images/VA13/tv-20080-512px.jpg 512w,
+  ./../images/VA13/tv-20080-768px.jpg 768w,
+  ./../images/VA13/tv-20080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-20080-1090px.jpg"
+  data-srcset="./../images/VA13/bd-20080-512px.jpg 512w,
+  ./../images/VA13/bd-20080-768px.jpg 768w,
+  ./../images/VA13/bd-20080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-20205.jpg" />
- <img src="./../images/VA13/bd-20205.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-20205-1090px.jpg"
+  data-srcset="./../images/VA13/tv-20205-512px.jpg 512w,
+  ./../images/VA13/tv-20205-768px.jpg 768w,
+  ./../images/VA13/tv-20205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-20205-1090px.jpg"
+  data-srcset="./../images/VA13/bd-20205-512px.jpg 512w,
+  ./../images/VA13/bd-20205-768px.jpg 768w,
+  ./../images/VA13/bd-20205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -593,8 +1419,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And once again here, plus a few added lines on the hand:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-20405.jpg" />
- <img src="./../images/VA13/bd-20405.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-20405-1090px.jpg"
+  data-srcset="./../images/VA13/tv-20405-512px.jpg 512w,
+  ./../images/VA13/tv-20405-768px.jpg 768w,
+  ./../images/VA13/tv-20405-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-20405-1090px.jpg"
+  data-srcset="./../images/VA13/bd-20405-512px.jpg 512w,
+  ./../images/VA13/bd-20405-768px.jpg 768w,
+  ./../images/VA13/bd-20405-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -602,8 +1442,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Illuso's looking much better in this footage of him hacking his own DNA:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-20780.jpg" />
- <img src="./../images/VA13/bd-20780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-20780-1090px.jpg"
+  data-srcset="./../images/VA13/tv-20780-512px.jpg 512w,
+  ./../images/VA13/tv-20780-768px.jpg 768w,
+  ./../images/VA13/tv-20780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-20780-1090px.jpg"
+  data-srcset="./../images/VA13/bd-20780-512px.jpg 512w,
+  ./../images/VA13/bd-20780-768px.jpg 768w,
+  ./../images/VA13/bd-20780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -618,8 +1472,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - In this incredibly cool shot of Giorno, the small shade under his right eye has been filled in, and the highlight in his right iris is a liiiiiiiiittle rounder:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-21765.jpg" />
- <img src="./../images/VA13/bd-21765.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-21765-1090px.jpg"
+  data-srcset="./../images/VA13/tv-21765-512px.jpg 512w,
+  ./../images/VA13/tv-21765-768px.jpg 768w,
+  ./../images/VA13/tv-21765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-21765-1090px.jpg"
+  data-srcset="./../images/VA13/bd-21765-512px.jpg 512w,
+  ./../images/VA13/bd-21765-768px.jpg 768w,
+  ./../images/VA13/bd-21765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -627,8 +1495,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And here we have another one of those differences where it's better you take a look for yourselves:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-22025.jpg" />
- <img src="./../images/VA13/bd-22025.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-22025-1090px.jpg"
+  data-srcset="./../images/VA13/tv-22025-512px.jpg 512w,
+  ./../images/VA13/tv-22025-768px.jpg 768w,
+  ./../images/VA13/tv-22025-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-22025-1090px.jpg"
+  data-srcset="./../images/VA13/bd-22025-512px.jpg 512w,
+  ./../images/VA13/bd-22025-768px.jpg 768w,
+  ./../images/VA13/bd-22025-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -636,15 +1518,43 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Both boys have been shaded differently here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-22395.jpg" />
- <img src="./../images/VA13/bd-22395.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-22395-1090px.jpg"
+  data-srcset="./../images/VA13/tv-22395-512px.jpg 512w,
+  ./../images/VA13/tv-22395-768px.jpg 768w,
+  ./../images/VA13/tv-22395-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-22395-1090px.jpg"
+  data-srcset="./../images/VA13/bd-22395-512px.jpg 512w,
+  ./../images/VA13/bd-22395-768px.jpg 768w,
+  ./../images/VA13/bd-22395-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-22505.jpg" />
- <img src="./../images/VA13/bd-22505.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-22505-1090px.jpg"
+  data-srcset="./../images/VA13/tv-22505-512px.jpg 512w,
+  ./../images/VA13/tv-22505-768px.jpg 768w,
+  ./../images/VA13/tv-22505-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-22505-1090px.jpg"
+  data-srcset="./../images/VA13/bd-22505-512px.jpg 512w,
+  ./../images/VA13/bd-22505-768px.jpg 768w,
+  ./../images/VA13/bd-22505-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -652,8 +1562,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Fugo's left iris has been moved down a little bit, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-22560.jpg" />
- <img src="./../images/VA13/bd-22560.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-22560-1090px.jpg"
+  data-srcset="./../images/VA13/tv-22560-512px.jpg 512w,
+  ./../images/VA13/tv-22560-768px.jpg 768w,
+  ./../images/VA13/tv-22560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-22560-1090px.jpg"
+  data-srcset="./../images/VA13/bd-22560-512px.jpg 512w,
+  ./../images/VA13/bd-22560-768px.jpg 768w,
+  ./../images/VA13/bd-22560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -661,8 +1585,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And here, the shading over his left eyebrow and on one of his hairlocks is a little different...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-22566.jpg" />
- <img src="./../images/VA13/bd-22566.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-22566-1090px.jpg"
+  data-srcset="./../images/VA13/tv-22566-512px.jpg 512w,
+  ./../images/VA13/tv-22566-768px.jpg 768w,
+  ./../images/VA13/tv-22566-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-22566-1090px.jpg"
+  data-srcset="./../images/VA13/bd-22566-512px.jpg 512w,
+  ./../images/VA13/bd-22566-768px.jpg 768w,
+  ./../images/VA13/bd-22566-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -670,8 +1608,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And, at the end of the same sequence, his nose lines no longer overlap his hair:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-22585.jpg" />
- <img src="./../images/VA13/bd-22585.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-22585-1090px.jpg"
+  data-srcset="./../images/VA13/tv-22585-512px.jpg 512w,
+  ./../images/VA13/tv-22585-768px.jpg 768w,
+  ./../images/VA13/tv-22585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-22585-1090px.jpg"
+  data-srcset="./../images/VA13/bd-22585-512px.jpg 512w,
+  ./../images/VA13/bd-22585-768px.jpg 768w,
+  ./../images/VA13/bd-22585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -679,15 +1631,43 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, both Giorno and Fugo's faces have been retouched, Giorno's collar wing has been drawn better and Fugo's suit no longer has a massive hole on the shoulder:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-23353.jpg" />
- <img src="./../images/VA13/bd-23353.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-23353-1090px.jpg"
+  data-srcset="./../images/VA13/tv-23353-512px.jpg 512w,
+  ./../images/VA13/tv-23353-768px.jpg 768w,
+  ./../images/VA13/tv-23353-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-23353-1090px.jpg"
+  data-srcset="./../images/VA13/bd-23353-512px.jpg 512w,
+  ./../images/VA13/bd-23353-768px.jpg 768w,
+  ./../images/VA13/bd-23353-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-23380.jpg" />
- <img src="./../images/VA13/bd-23380.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-23380-1090px.jpg"
+  data-srcset="./../images/VA13/tv-23380-512px.jpg 512w,
+  ./../images/VA13/tv-23380-768px.jpg 768w,
+  ./../images/VA13/tv-23380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-23380-1090px.jpg"
+  data-srcset="./../images/VA13/bd-23380-512px.jpg 512w,
+  ./../images/VA13/bd-23380-768px.jpg 768w,
+  ./../images/VA13/bd-23380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -695,8 +1675,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, basically, a bunch of stuff has been shaded better, and Illuso's hair no longer disappears at the back of his head:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-23765.jpg" />
- <img src="./../images/VA13/bd-23765.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-23765-1090px.jpg"
+  data-srcset="./../images/VA13/tv-23765-512px.jpg 512w,
+  ./../images/VA13/tv-23765-768px.jpg 768w,
+  ./../images/VA13/tv-23765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-23765-1090px.jpg"
+  data-srcset="./../images/VA13/bd-23765-512px.jpg 512w,
+  ./../images/VA13/bd-23765-768px.jpg 768w,
+  ./../images/VA13/bd-23765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -704,8 +1698,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Purple Haze's hand and Illuso's face are looking much better here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-23770.jpg" />
- <img src="./../images/VA13/bd-23770.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-23770-1090px.jpg"
+  data-srcset="./../images/VA13/tv-23770-512px.jpg 512w,
+  ./../images/VA13/tv-23770-768px.jpg 768w,
+  ./../images/VA13/tv-23770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-23770-1090px.jpg"
+  data-srcset="./../images/VA13/bd-23770-512px.jpg 512w,
+  ./../images/VA13/bd-23770-768px.jpg 768w,
+  ./../images/VA13/bd-23770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -713,8 +1721,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And Illuso's eye area has received a much-needed makeover:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-24695.jpg" />
- <img src="./../images/VA13/bd-24695.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-24695-1090px.jpg"
+  data-srcset="./../images/VA13/tv-24695-512px.jpg 512w,
+  ./../images/VA13/tv-24695-768px.jpg 768w,
+  ./../images/VA13/tv-24695-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-24695-1090px.jpg"
+  data-srcset="./../images/VA13/bd-24695-512px.jpg 512w,
+  ./../images/VA13/bd-24695-768px.jpg 768w,
+  ./../images/VA13/bd-24695-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -722,8 +1744,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, one brighter line on Illuso's nose has been removed and his mouth is no longer a flesh-coloured void of despair:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-24865.jpg" />
- <img src="./../images/VA13/bd-24865.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-24865-1090px.jpg"
+  data-srcset="./../images/VA13/tv-24865-512px.jpg 512w,
+  ./../images/VA13/tv-24865-768px.jpg 768w,
+  ./../images/VA13/tv-24865-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-24865-1090px.jpg"
+  data-srcset="./../images/VA13/bd-24865-512px.jpg 512w,
+  ./../images/VA13/bd-24865-768px.jpg 768w,
+  ./../images/VA13/bd-24865-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -731,8 +1767,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, Illuso's face and hand stump are looking a little better, and Purple Haze's left hand has also been retouched a tad...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-24895.jpg" />
- <img src="./../images/VA13/bd-24895.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-24895-1090px.jpg"
+  data-srcset="./../images/VA13/tv-24895-512px.jpg 512w,
+  ./../images/VA13/tv-24895-768px.jpg 768w,
+  ./../images/VA13/tv-24895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-24895-1090px.jpg"
+  data-srcset="./../images/VA13/bd-24895-512px.jpg 512w,
+  ./../images/VA13/bd-24895-768px.jpg 768w,
+  ./../images/VA13/bd-24895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -740,8 +1790,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - ... and Man in the Mirror has been scaled up significantly:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-24929.jpg" />
- <img src="./../images/VA13/bd-24929.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-24929-1090px.jpg"
+  data-srcset="./../images/VA13/tv-24929-512px.jpg 512w,
+  ./../images/VA13/tv-24929-768px.jpg 768w,
+  ./../images/VA13/tv-24929-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-24929-1090px.jpg"
+  data-srcset="./../images/VA13/bd-24929-512px.jpg 512w,
+  ./../images/VA13/bd-24929-768px.jpg 768w,
+  ./../images/VA13/bd-24929-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -749,8 +1813,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, the glass shard in the bottom right corner has been recoloured:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-25145.jpg" />
- <img src="./../images/VA13/bd-25145.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-25145-1090px.jpg"
+  data-srcset="./../images/VA13/tv-25145-512px.jpg 512w,
+  ./../images/VA13/tv-25145-768px.jpg 768w,
+  ./../images/VA13/tv-25145-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-25145-1090px.jpg"
+  data-srcset="./../images/VA13/bd-25145-512px.jpg 512w,
+  ./../images/VA13/bd-25145-768px.jpg 768w,
+  ./../images/VA13/bd-25145-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -758,8 +1836,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And here, the colours on almost everything have been tweaked:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-25385.jpg" />
- <img src="./../images/VA13/bd-25385.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-25385-1090px.jpg"
+  data-srcset="./../images/VA13/tv-25385-512px.jpg 512w,
+  ./../images/VA13/tv-25385-768px.jpg 768w,
+  ./../images/VA13/tv-25385-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-25385-1090px.jpg"
+  data-srcset="./../images/VA13/bd-25385-512px.jpg 512w,
+  ./../images/VA13/bd-25385-768px.jpg 768w,
+  ./../images/VA13/bd-25385-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -767,8 +1859,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, poor Illuso has been retouched, and the virus-eaten parts are no longer neon blue:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-25465.jpg" />
- <img src="./../images/VA13/bd-25465.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-25465-1090px.jpg"
+  data-srcset="./../images/VA13/tv-25465-512px.jpg 512w,
+  ./../images/VA13/tv-25465-768px.jpg 768w,
+  ./../images/VA13/tv-25465-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-25465-1090px.jpg"
+  data-srcset="./../images/VA13/bd-25465-512px.jpg 512w,
+  ./../images/VA13/bd-25465-768px.jpg 768w,
+  ./../images/VA13/bd-25465-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -776,8 +1882,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - The corrosion has been recoloured here as well...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-25680.jpg" />
- <img src="./../images/VA13/bd-25680.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-25680-1090px.jpg"
+  data-srcset="./../images/VA13/tv-25680-512px.jpg 512w,
+  ./../images/VA13/tv-25680-768px.jpg 768w,
+  ./../images/VA13/tv-25680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-25680-1090px.jpg"
+  data-srcset="./../images/VA13/bd-25680-512px.jpg 512w,
+  ./../images/VA13/bd-25680-768px.jpg 768w,
+  ./../images/VA13/bd-25680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -792,15 +1912,43 @@ Get something to snack on, friends, because this is going to be a very long one!
 - ... and some frames of it are retouched too (the second one is particularly egregious!):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-25784.jpg" />
- <img src="./../images/VA13/bd-25784.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-25784-1090px.jpg"
+  data-srcset="./../images/VA13/tv-25784-512px.jpg 512w,
+  ./../images/VA13/tv-25784-768px.jpg 768w,
+  ./../images/VA13/tv-25784-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-25784-1090px.jpg"
+  data-srcset="./../images/VA13/bd-25784-512px.jpg 512w,
+  ./../images/VA13/bd-25784-768px.jpg 768w,
+  ./../images/VA13/bd-25784-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-25785.jpg" />
- <img src="./../images/VA13/bd-25785.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-25785-1090px.jpg"
+  data-srcset="./../images/VA13/tv-25785-512px.jpg 512w,
+  ./../images/VA13/tv-25785-768px.jpg 768w,
+  ./../images/VA13/tv-25785-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-25785-1090px.jpg"
+  data-srcset="./../images/VA13/bd-25785-512px.jpg 512w,
+  ./../images/VA13/bd-25785-768px.jpg 768w,
+  ./../images/VA13/bd-25785-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -808,8 +1956,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Let's go back to non-beatdown mode! Here, Fugo's face and shoulder have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-26225.jpg" />
- <img src="./../images/VA13/bd-26225.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-26225-1090px.jpg"
+  data-srcset="./../images/VA13/tv-26225-512px.jpg 512w,
+  ./../images/VA13/tv-26225-768px.jpg 768w,
+  ./../images/VA13/tv-26225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-26225-1090px.jpg"
+  data-srcset="./../images/VA13/bd-26225-512px.jpg 512w,
+  ./../images/VA13/bd-26225-768px.jpg 768w,
+  ./../images/VA13/bd-26225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -817,8 +1979,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - In this blessed Giorno frame, the top-left corner is a little brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-27805.jpg" />
- <img src="./../images/VA13/bd-27805.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-27805-1090px.jpg"
+  data-srcset="./../images/VA13/tv-27805-512px.jpg 512w,
+  ./../images/VA13/tv-27805-768px.jpg 768w,
+  ./../images/VA13/tv-27805-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-27805-1090px.jpg"
+  data-srcset="./../images/VA13/bd-27805-512px.jpg 512w,
+  ./../images/VA13/bd-27805-768px.jpg 768w,
+  ./../images/VA13/bd-27805-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -826,8 +2002,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, Fugo's face has received a slightly better shading, and most lines are a little thinner:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-27984.jpg" />
- <img src="./../images/VA13/bd-27984.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-27984-1090px.jpg"
+  data-srcset="./../images/VA13/tv-27984-512px.jpg 512w,
+  ./../images/VA13/tv-27984-768px.jpg 768w,
+  ./../images/VA13/tv-27984-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-27984-1090px.jpg"
+  data-srcset="./../images/VA13/bd-27984-512px.jpg 512w,
+  ./../images/VA13/bd-27984-768px.jpg 768w,
+  ./../images/VA13/bd-27984-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -842,8 +2032,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, Golden Experience's left arm and head have been retouched by a lot, Giorno's eyes have been shaded over and his taint ladybug has been retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-28545.jpg" />
- <img src="./../images/VA13/bd-28545.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-28545-1090px.jpg"
+  data-srcset="./../images/VA13/tv-28545-512px.jpg 512w,
+  ./../images/VA13/tv-28545-768px.jpg 768w,
+  ./../images/VA13/tv-28545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-28545-1090px.jpg"
+  data-srcset="./../images/VA13/bd-28545-512px.jpg 512w,
+  ./../images/VA13/bd-28545-768px.jpg 768w,
+  ./../images/VA13/bd-28545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -851,22 +2055,64 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And here, Giorno's shadow is darker and it no longer glitches when he rolls around:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-28585.jpg" />
- <img src="./../images/VA13/bd-28585.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-28585-1090px.jpg"
+  data-srcset="./../images/VA13/tv-28585-512px.jpg 512w,
+  ./../images/VA13/tv-28585-768px.jpg 768w,
+  ./../images/VA13/tv-28585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-28585-1090px.jpg"
+  data-srcset="./../images/VA13/bd-28585-512px.jpg 512w,
+  ./../images/VA13/bd-28585-768px.jpg 768w,
+  ./../images/VA13/bd-28585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-28661.jpg" />
- <img src="./../images/VA13/bd-28661.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-28661-1090px.jpg"
+  data-srcset="./../images/VA13/tv-28661-512px.jpg 512w,
+  ./../images/VA13/tv-28661-768px.jpg 768w,
+  ./../images/VA13/tv-28661-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-28661-1090px.jpg"
+  data-srcset="./../images/VA13/bd-28661-512px.jpg 512w,
+  ./../images/VA13/bd-28661-768px.jpg 768w,
+  ./../images/VA13/bd-28661-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-28675.jpg" />
- <img src="./../images/VA13/bd-28675.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-28675-1090px.jpg"
+  data-srcset="./../images/VA13/tv-28675-512px.jpg 512w,
+  ./../images/VA13/tv-28675-768px.jpg 768w,
+  ./../images/VA13/tv-28675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-28675-1090px.jpg"
+  data-srcset="./../images/VA13/bd-28675-512px.jpg 512w,
+  ./../images/VA13/bd-28675-768px.jpg 768w,
+  ./../images/VA13/bd-28675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -874,8 +2120,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Giorno's boob window frame is no longer segmented here, and the golden bit just above it has been recoloured into a sliver of shading:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-28935.jpg" />
- <img src="./../images/VA13/bd-28935.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-28935-1090px.jpg"
+  data-srcset="./../images/VA13/tv-28935-512px.jpg 512w,
+  ./../images/VA13/tv-28935-768px.jpg 768w,
+  ./../images/VA13/tv-28935-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-28935-1090px.jpg"
+  data-srcset="./../images/VA13/bd-28935-512px.jpg 512w,
+  ./../images/VA13/bd-28935-768px.jpg 768w,
+  ./../images/VA13/bd-28935-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -883,8 +2143,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Here, both Fugo and Giorno have been retouched and re-shaded in a few places, and Fugo's also looking a little darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-29800.jpg" />
- <img src="./../images/VA13/bd-29800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-29800-1090px.jpg"
+  data-srcset="./../images/VA13/tv-29800-512px.jpg 512w,
+  ./../images/VA13/tv-29800-768px.jpg 768w,
+  ./../images/VA13/tv-29800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-29800-1090px.jpg"
+  data-srcset="./../images/VA13/bd-29800-512px.jpg 512w,
+  ./../images/VA13/bd-29800-768px.jpg 768w,
+  ./../images/VA13/bd-29800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -892,8 +2166,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Giorno is now casting a shadow here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-29980.jpg" />
- <img src="./../images/VA13/bd-29980.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-29980-1090px.jpg"
+  data-srcset="./../images/VA13/tv-29980-512px.jpg 512w,
+  ./../images/VA13/tv-29980-768px.jpg 768w,
+  ./../images/VA13/tv-29980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-29980-1090px.jpg"
+  data-srcset="./../images/VA13/bd-29980-512px.jpg 512w,
+  ./../images/VA13/bd-29980-768px.jpg 768w,
+  ./../images/VA13/bd-29980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -901,50 +2189,148 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And here, Abbacchio's face and boob strings have all been retouched. This warrants an almost frame-per-frame analysis, so buckle up, buckaroos:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-30570.jpg" />
- <img src="./../images/VA13/bd-30570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-30570-1090px.jpg"
+  data-srcset="./../images/VA13/tv-30570-512px.jpg 512w,
+  ./../images/VA13/tv-30570-768px.jpg 768w,
+  ./../images/VA13/tv-30570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-30570-1090px.jpg"
+  data-srcset="./../images/VA13/bd-30570-512px.jpg 512w,
+  ./../images/VA13/bd-30570-768px.jpg 768w,
+  ./../images/VA13/bd-30570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-30585.jpg" />
- <img src="./../images/VA13/bd-30585.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-30585-1090px.jpg"
+  data-srcset="./../images/VA13/tv-30585-512px.jpg 512w,
+  ./../images/VA13/tv-30585-768px.jpg 768w,
+  ./../images/VA13/tv-30585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-30585-1090px.jpg"
+  data-srcset="./../images/VA13/bd-30585-512px.jpg 512w,
+  ./../images/VA13/bd-30585-768px.jpg 768w,
+  ./../images/VA13/bd-30585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-30590.jpg" />
- <img src="./../images/VA13/bd-30590.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-30590-1090px.jpg"
+  data-srcset="./../images/VA13/tv-30590-512px.jpg 512w,
+  ./../images/VA13/tv-30590-768px.jpg 768w,
+  ./../images/VA13/tv-30590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-30590-1090px.jpg"
+  data-srcset="./../images/VA13/bd-30590-512px.jpg 512w,
+  ./../images/VA13/bd-30590-768px.jpg 768w,
+  ./../images/VA13/bd-30590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-30600.jpg" />
- <img src="./../images/VA13/bd-30600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-30600-1090px.jpg"
+  data-srcset="./../images/VA13/tv-30600-512px.jpg 512w,
+  ./../images/VA13/tv-30600-768px.jpg 768w,
+  ./../images/VA13/tv-30600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-30600-1090px.jpg"
+  data-srcset="./../images/VA13/bd-30600-512px.jpg 512w,
+  ./../images/VA13/bd-30600-768px.jpg 768w,
+  ./../images/VA13/bd-30600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-30610.jpg" />
- <img src="./../images/VA13/bd-30610.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-30610-1090px.jpg"
+  data-srcset="./../images/VA13/tv-30610-512px.jpg 512w,
+  ./../images/VA13/tv-30610-768px.jpg 768w,
+  ./../images/VA13/tv-30610-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-30610-1090px.jpg"
+  data-srcset="./../images/VA13/bd-30610-512px.jpg 512w,
+  ./../images/VA13/bd-30610-768px.jpg 768w,
+  ./../images/VA13/bd-30610-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-30630.jpg" />
- <img src="./../images/VA13/bd-30630.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-30630-1090px.jpg"
+  data-srcset="./../images/VA13/tv-30630-512px.jpg 512w,
+  ./../images/VA13/tv-30630-768px.jpg 768w,
+  ./../images/VA13/tv-30630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-30630-1090px.jpg"
+  data-srcset="./../images/VA13/bd-30630-512px.jpg 512w,
+  ./../images/VA13/bd-30630-768px.jpg 768w,
+  ./../images/VA13/bd-30630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-30645.jpg" />
- <img src="./../images/VA13/bd-30645.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-30645-1090px.jpg"
+  data-srcset="./../images/VA13/tv-30645-512px.jpg 512w,
+  ./../images/VA13/tv-30645-768px.jpg 768w,
+  ./../images/VA13/tv-30645-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-30645-1090px.jpg"
+  data-srcset="./../images/VA13/bd-30645-512px.jpg 512w,
+  ./../images/VA13/bd-30645-768px.jpg 768w,
+  ./../images/VA13/bd-30645-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -952,8 +2338,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - Let's move to the credits! Here, 鬼窪浩久 (Onikubo Hirohisa)'s name has been moved a little bit to the left:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-31660.jpg" />
- <img src="./../images/VA13/bd-31660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-31660-1090px.jpg"
+  data-srcset="./../images/VA13/tv-31660-512px.jpg 512w,
+  ./../images/VA13/tv-31660-768px.jpg 768w,
+  ./../images/VA13/tv-31660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-31660-1090px.jpg"
+  data-srcset="./../images/VA13/bd-31660-512px.jpg 512w,
+  ./../images/VA13/bd-31660-768px.jpg 768w,
+  ./../images/VA13/bd-31660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -961,8 +2361,22 @@ Get something to snack on, friends, because this is going to be a very long one!
 - And here, obviously, the next time episode title has been changed, since there are no recaps in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA13/tv-34045.jpg" />
- <img src="./../images/VA13/bd-34045.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/tv-34045-1090px.jpg"
+  data-srcset="./../images/VA13/tv-34045-512px.jpg 512w,
+  ./../images/VA13/tv-34045-768px.jpg 768w,
+  ./../images/VA13/tv-34045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA13/bd-34045-1090px.jpg"
+  data-srcset="./../images/VA13/bd-34045-512px.jpg 512w,
+  ./../images/VA13/bd-34045-768px.jpg 768w,
+  ./../images/VA13/bd-34045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

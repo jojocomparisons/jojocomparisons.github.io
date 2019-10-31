@@ -28,8 +28,22 @@ Well, let's begin!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA23/tv-04320.jpg" />
- <img src="./../images/VA23/bd-04320.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/tv-04320-1090px.jpg"
+  data-srcset="./../images/VA23/tv-04320-512px.jpg 512w,
+  ./../images/VA23/tv-04320-768px.jpg 768w,
+  ./../images/VA23/tv-04320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/bd-04320-1090px.jpg"
+  data-srcset="./../images/VA23/bd-04320-512px.jpg 512w,
+  ./../images/VA23/bd-04320-768px.jpg 768w,
+  ./../images/VA23/bd-04320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,8 +51,22 @@ Well, let's begin!
 - Moving on to the actual episode, this scene is slightly darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA23/tv-08000.jpg" />
- <img src="./../images/VA23/bd-08000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/tv-08000-1090px.jpg"
+  data-srcset="./../images/VA23/tv-08000-512px.jpg 512w,
+  ./../images/VA23/tv-08000-768px.jpg 768w,
+  ./../images/VA23/tv-08000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/bd-08000-1090px.jpg"
+  data-srcset="./../images/VA23/bd-08000-512px.jpg 512w,
+  ./../images/VA23/bd-08000-768px.jpg 768w,
+  ./../images/VA23/bd-08000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -46,8 +74,22 @@ Well, let's begin!
 - While this is, instead, brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA23/tv-08070.jpg" />
- <img src="./../images/VA23/bd-08070.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/tv-08070-1090px.jpg"
+  data-srcset="./../images/VA23/tv-08070-512px.jpg 512w,
+  ./../images/VA23/tv-08070-768px.jpg 768w,
+  ./../images/VA23/tv-08070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/bd-08070-1090px.jpg"
+  data-srcset="./../images/VA23/bd-08070-512px.jpg 512w,
+  ./../images/VA23/bd-08070-768px.jpg 768w,
+  ./../images/VA23/bd-08070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -55,8 +97,22 @@ Well, let's begin!
 - Here, both background and foreground have been moved, the glasses are slightly more transparent and they look more like glass; also, the Cronenberg label has been resized, resulting in much less stretched out logo and writing (incidentally, this is the same wine Dio drinks in Episode 2 from Phantom Blood, before using the Stone Mask for the first time):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA23/tv-10620.jpg" />
- <img src="./../images/VA23/bd-10620.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/tv-10620-1090px.jpg"
+  data-srcset="./../images/VA23/tv-10620-512px.jpg 512w,
+  ./../images/VA23/tv-10620-768px.jpg 768w,
+  ./../images/VA23/tv-10620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/bd-10620-1090px.jpg"
+  data-srcset="./../images/VA23/bd-10620-512px.jpg 512w,
+  ./../images/VA23/bd-10620-768px.jpg 768w,
+  ./../images/VA23/bd-10620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -64,8 +120,22 @@ Well, let's begin!
 - When the camera moves to the left, we can see that Aerosmith is now accompanying Narancia, the strange half-drawn door on the left is no longer there, the two mysteriously disappearing glass bottoms have disappeared from the table and the interior of the room Narancia's in has been shaded a little bit, in order to create some depth:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA23/tv-10650.jpg" />
- <img src="./../images/VA23/bd-10650.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/tv-10650-1090px.jpg"
+  data-srcset="./../images/VA23/tv-10650-512px.jpg 512w,
+  ./../images/VA23/tv-10650-768px.jpg 768w,
+  ./../images/VA23/tv-10650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/bd-10650-1090px.jpg"
+  data-srcset="./../images/VA23/bd-10650-512px.jpg 512w,
+  ./../images/VA23/bd-10650-768px.jpg 768w,
+  ./../images/VA23/bd-10650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -73,8 +143,22 @@ Well, let's begin!
 - Here, once again, Aerosmith has been added to the scene; in addition, the visor has been moved, there's a very strong dark vignette along the top of the frame, the lighting behind Narancia is brighter and the far wall of the glass case Giorno's trapped in is looking markedly less transparent:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA23/tv-11330.jpg" />
- <img src="./../images/VA23/bd-11330.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/tv-11330-1090px.jpg"
+  data-srcset="./../images/VA23/tv-11330-512px.jpg 512w,
+  ./../images/VA23/tv-11330-768px.jpg 768w,
+  ./../images/VA23/tv-11330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/bd-11330-1090px.jpg"
+  data-srcset="./../images/VA23/bd-11330-512px.jpg 512w,
+  ./../images/VA23/bd-11330-768px.jpg 768w,
+  ./../images/VA23/bd-11330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -87,8 +171,22 @@ Well, let's begin!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA23/tv-15410.jpg" />
- <img src="./../images/VA23/bd-15410.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/tv-15410-1090px.jpg"
+  data-srcset="./../images/VA23/tv-15410-512px.jpg 512w,
+  ./../images/VA23/tv-15410-768px.jpg 768w,
+  ./../images/VA23/tv-15410-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/bd-15410-1090px.jpg"
+  data-srcset="./../images/VA23/bd-15410-512px.jpg 512w,
+  ./../images/VA23/bd-15410-768px.jpg 768w,
+  ./../images/VA23/bd-15410-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -96,8 +194,22 @@ Well, let's begin!
 - Here, Mista's hat pattern is looking better, and the hat itself is no longer MISSING A WHOLE CHUNK! Mista's face has also been retouched, and there is some new animated smoke drifting from the bottom right corner:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA23/tv-16655.jpg" />
- <img src="./../images/VA23/bd-16655.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/tv-16655-1090px.jpg"
+  data-srcset="./../images/VA23/tv-16655-512px.jpg 512w,
+  ./../images/VA23/tv-16655-768px.jpg 768w,
+  ./../images/VA23/tv-16655-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/bd-16655-1090px.jpg"
+  data-srcset="./../images/VA23/bd-16655-512px.jpg 512w,
+  ./../images/VA23/bd-16655-768px.jpg 768w,
+  ./../images/VA23/bd-16655-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -110,8 +222,22 @@ Well, let's begin!
 - The background in Narancia's little slice, here, is purpler:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA23/tv-16795.jpg" />
- <img src="./../images/VA23/bd-16795.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/tv-16795-1090px.jpg"
+  data-srcset="./../images/VA23/tv-16795-512px.jpg 512w,
+  ./../images/VA23/tv-16795-768px.jpg 768w,
+  ./../images/VA23/tv-16795-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/bd-16795-1090px.jpg"
+  data-srcset="./../images/VA23/bd-16795-512px.jpg 512w,
+  ./../images/VA23/bd-16795-768px.jpg 768w,
+  ./../images/VA23/bd-16795-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -119,8 +245,22 @@ Well, let's begin!
 - A very sharp transition between the Talking Head teleporting animation and Mista & the gang wasn't... exactly super sharp in the TV version; this has been fixed in the BDs, but it's so short (2 frames) that I can only show you the frame that was bleeding over into the following animation in the TV version:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA23/tv-17077.jpg" />
- <img src="./../images/VA23/bd-17077.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/tv-17077-1090px.jpg"
+  data-srcset="./../images/VA23/tv-17077-512px.jpg 512w,
+  ./../images/VA23/tv-17077-768px.jpg 768w,
+  ./../images/VA23/tv-17077-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/bd-17077-1090px.jpg"
+  data-srcset="./../images/VA23/bd-17077-512px.jpg 512w,
+  ./../images/VA23/bd-17077-768px.jpg 768w,
+  ./../images/VA23/bd-17077-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -133,8 +273,22 @@ Well, let's begin!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA23/tv-18575.jpg" />
- <img src="./../images/VA23/bd-18575.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/tv-18575-1090px.jpg"
+  data-srcset="./../images/VA23/tv-18575-512px.jpg 512w,
+  ./../images/VA23/tv-18575-768px.jpg 768w,
+  ./../images/VA23/tv-18575-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/bd-18575-1090px.jpg"
+  data-srcset="./../images/VA23/bd-18575-512px.jpg 512w,
+  ./../images/VA23/bd-18575-768px.jpg 768w,
+  ./../images/VA23/bd-18575-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -142,8 +296,22 @@ Well, let's begin!
 - It's credits time, friends! Here, "Felix Film" has been squeezed a little bit more:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA23/tv-32310.jpg" />
- <img src="./../images/VA23/bd-32310.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/tv-32310-1090px.jpg"
+  data-srcset="./../images/VA23/tv-32310-512px.jpg 512w,
+  ./../images/VA23/tv-32310-768px.jpg 768w,
+  ./../images/VA23/tv-32310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/bd-32310-1090px.jpg"
+  data-srcset="./../images/VA23/bd-32310-512px.jpg 512w,
+  ./../images/VA23/bd-32310-768px.jpg 768w,
+  ./../images/VA23/bd-32310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -151,8 +319,22 @@ Well, let's begin!
 - And here, much like in last time's comparison, some names have been moved, some added and some removed altogether. From the top: in the first group on the left, 高橋梨恵 ("Takahashi Rie") has been removed, 野宮奈那 ("Nomiya Nana") has been moved to the left and 高橋俊 ("Takahashi Shun") was moved next to it from the third group; "White Line" has been once more added underneath, under the header 動画検索補 ("In-between animation check assistance"); lastly, the following names have been removed from the third group: 玉栄翔 ("Tamae Kakeru"), 久井菜央 ("Hisai Nao"), 今井大地 ("Imai Daichi"). In addition, one new name was also added to this same group: 伊東大輝 ("Itō Daiki"), and the rest of the credits have been moved around to accommodate for the different length. Check all of this out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA23/tv-32440.jpg" />
- <img src="./../images/VA23/bd-32440.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/tv-32440-1090px.jpg"
+  data-srcset="./../images/VA23/tv-32440-512px.jpg 512w,
+  ./../images/VA23/tv-32440-768px.jpg 768w,
+  ./../images/VA23/tv-32440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA23/bd-32440-1090px.jpg"
+  data-srcset="./../images/VA23/bd-32440-512px.jpg 512w,
+  ./../images/VA23/bd-32440-768px.jpg 768w,
+  ./../images/VA23/bd-32440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

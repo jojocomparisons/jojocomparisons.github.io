@@ -20,8 +20,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Today's first difference is this right here shot, in which pretty much everything is looking better! In detail: Abbacchio's whole face and most of his body, Giorno's right boob ladybug, Mista's whole head and shoulders (like the shampoo), a line near Narancia's left ear, Fugo's eyes and the whole background. Phew! Check it out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-03267.jpg" />
- <img src="./../images/VA20/bd-03267.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-03267-1090px.jpg"
+  data-srcset="./../images/VA20/tv-03267-512px.jpg 512w,
+  ./../images/VA20/tv-03267-768px.jpg 768w,
+  ./../images/VA20/tv-03267-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-03267-1090px.jpg"
+  data-srcset="./../images/VA20/bd-03267-512px.jpg 512w,
+  ./../images/VA20/bd-03267-768px.jpg 768w,
+  ./../images/VA20/bd-03267-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -29,8 +43,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - In this scene of our mafia boys making their way to San Giorgio Maggiore island, their boat has been moved and significantly scaled down:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-03710.jpg" />
- <img src="./../images/VA20/bd-03710.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-03710-1090px.jpg"
+  data-srcset="./../images/VA20/tv-03710-512px.jpg 512w,
+  ./../images/VA20/tv-03710-768px.jpg 768w,
+  ./../images/VA20/tv-03710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-03710-1090px.jpg"
+  data-srcset="./../images/VA20/bd-03710-512px.jpg 512w,
+  ./../images/VA20/bd-03710-768px.jpg 768w,
+  ./../images/VA20/bd-03710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -38,8 +66,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Here, Trish has been massively retouched and the lighting on Buccellati is different; his suit and his zippers have also been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-10220.jpg" />
- <img src="./../images/VA20/bd-10220.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-10220-1090px.jpg"
+  data-srcset="./../images/VA20/tv-10220-512px.jpg 512w,
+  ./../images/VA20/tv-10220-768px.jpg 768w,
+  ./../images/VA20/tv-10220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-10220-1090px.jpg"
+  data-srcset="./../images/VA20/bd-10220-512px.jpg 512w,
+  ./../images/VA20/bd-10220-768px.jpg 768w,
+  ./../images/VA20/bd-10220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -47,8 +89,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Abbacchio's looking better here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-10475.jpg" />
- <img src="./../images/VA20/bd-10475.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-10475-1090px.jpg"
+  data-srcset="./../images/VA20/tv-10475-512px.jpg 512w,
+  ./../images/VA20/tv-10475-768px.jpg 768w,
+  ./../images/VA20/tv-10475-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-10475-1090px.jpg"
+  data-srcset="./../images/VA20/bd-10475-512px.jpg 512w,
+  ./../images/VA20/bd-10475-768px.jpg 768w,
+  ./../images/VA20/bd-10475-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -56,8 +112,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Stop the press, because this is THE single most important difference I've had to report on this gosh darn site. The COLOUR of the CAT in the background is DIFFERENT:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-10510.jpg" />
- <img src="./../images/VA20/bd-10510.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-10510-1090px.jpg"
+  data-srcset="./../images/VA20/tv-10510-512px.jpg 512w,
+  ./../images/VA20/tv-10510-768px.jpg 768w,
+  ./../images/VA20/tv-10510-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-10510-1090px.jpg"
+  data-srcset="./../images/VA20/bd-10510-512px.jpg 512w,
+  ./../images/VA20/bd-10510-768px.jpg 768w,
+  ./../images/VA20/bd-10510-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -65,8 +135,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Phew. Moving on. Here, the whole lighting has been changed, the F1 button now reads "1F" instead, Buccellati has been moved and his hand no longer rests on the inside of the elevator door:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-10805.jpg" />
- <img src="./../images/VA20/bd-10805.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-10805-1090px.jpg"
+  data-srcset="./../images/VA20/tv-10805-512px.jpg 512w,
+  ./../images/VA20/tv-10805-768px.jpg 768w,
+  ./../images/VA20/tv-10805-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-10805-1090px.jpg"
+  data-srcset="./../images/VA20/bd-10805-512px.jpg 512w,
+  ./../images/VA20/bd-10805-768px.jpg 768w,
+  ./../images/VA20/bd-10805-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -74,8 +158,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Here it's the elevator that has been moved; in addition, the same lighting change applies here, and the button reads "1F" once again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-10950.jpg" />
- <img src="./../images/VA20/bd-10950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-10950-1090px.jpg"
+  data-srcset="./../images/VA20/tv-10950-512px.jpg 512w,
+  ./../images/VA20/tv-10950-768px.jpg 768w,
+  ./../images/VA20/tv-10950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-10950-1090px.jpg"
+  data-srcset="./../images/VA20/bd-10950-512px.jpg 512w,
+  ./../images/VA20/bd-10950-768px.jpg 768w,
+  ./../images/VA20/bd-10950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -83,8 +181,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Here, Buccellati's teeth are no longer a massive featureless white slab:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-11430.jpg" />
- <img src="./../images/VA20/bd-11430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-11430-1090px.jpg"
+  data-srcset="./../images/VA20/tv-11430-512px.jpg 512w,
+  ./../images/VA20/tv-11430-768px.jpg 768w,
+  ./../images/VA20/tv-11430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-11430-1090px.jpg"
+  data-srcset="./../images/VA20/bd-11430-512px.jpg 512w,
+  ./../images/VA20/bd-11430-768px.jpg 768w,
+  ./../images/VA20/bd-11430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -92,15 +204,43 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - And here, the lighting is different on Trish, and a few details have been retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-11760.jpg" />
- <img src="./../images/VA20/bd-11760.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-11760-1090px.jpg"
+  data-srcset="./../images/VA20/tv-11760-512px.jpg 512w,
+  ./../images/VA20/tv-11760-768px.jpg 768w,
+  ./../images/VA20/tv-11760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-11760-1090px.jpg"
+  data-srcset="./../images/VA20/bd-11760-512px.jpg 512w,
+  ./../images/VA20/bd-11760-768px.jpg 768w,
+  ./../images/VA20/bd-11760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-12155.jpg" />
- <img src="./../images/VA20/bd-12155.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-12155-1090px.jpg"
+  data-srcset="./../images/VA20/tv-12155-512px.jpg 512w,
+  ./../images/VA20/tv-12155-768px.jpg 768w,
+  ./../images/VA20/tv-12155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-12155-1090px.jpg"
+  data-srcset="./../images/VA20/bd-12155-512px.jpg 512w,
+  ./../images/VA20/bd-12155-768px.jpg 768w,
+  ./../images/VA20/bd-12155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -108,8 +248,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Moving on, Buccellati's upper lip is no longer protruding that much in the BD:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-13270.jpg" />
- <img src="./../images/VA20/bd-13270.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-13270-1090px.jpg"
+  data-srcset="./../images/VA20/tv-13270-512px.jpg 512w,
+  ./../images/VA20/tv-13270-768px.jpg 768w,
+  ./../images/VA20/tv-13270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-13270-1090px.jpg"
+  data-srcset="./../images/VA20/bd-13270-512px.jpg 512w,
+  ./../images/VA20/bd-13270-768px.jpg 768w,
+  ./../images/VA20/bd-13270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -117,8 +271,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - While here, the shading on Trish's face is a little darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-13500.jpg" />
- <img src="./../images/VA20/bd-13500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-13500-1090px.jpg"
+  data-srcset="./../images/VA20/tv-13500-512px.jpg 512w,
+  ./../images/VA20/tv-13500-768px.jpg 768w,
+  ./../images/VA20/tv-13500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-13500-1090px.jpg"
+  data-srcset="./../images/VA20/bd-13500-512px.jpg 512w,
+  ./../images/VA20/bd-13500-768px.jpg 768w,
+  ./../images/VA20/bd-13500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -126,22 +294,64 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - And in this series of frames, Buccellati's mouth has been retouched and is now looking better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-13855.jpg" />
- <img src="./../images/VA20/bd-13855.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-13855-1090px.jpg"
+  data-srcset="./../images/VA20/tv-13855-512px.jpg 512w,
+  ./../images/VA20/tv-13855-768px.jpg 768w,
+  ./../images/VA20/tv-13855-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-13855-1090px.jpg"
+  data-srcset="./../images/VA20/bd-13855-512px.jpg 512w,
+  ./../images/VA20/bd-13855-768px.jpg 768w,
+  ./../images/VA20/bd-13855-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-13883.jpg" />
- <img src="./../images/VA20/bd-13883.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-13883-1090px.jpg"
+  data-srcset="./../images/VA20/tv-13883-512px.jpg 512w,
+  ./../images/VA20/tv-13883-768px.jpg 768w,
+  ./../images/VA20/tv-13883-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-13883-1090px.jpg"
+  data-srcset="./../images/VA20/bd-13883-512px.jpg 512w,
+  ./../images/VA20/bd-13883-768px.jpg 768w,
+  ./../images/VA20/bd-13883-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-13890.jpg" />
- <img src="./../images/VA20/bd-13890.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-13890-1090px.jpg"
+  data-srcset="./../images/VA20/tv-13890-512px.jpg 512w,
+  ./../images/VA20/tv-13890-768px.jpg 768w,
+  ./../images/VA20/tv-13890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-13890-1090px.jpg"
+  data-srcset="./../images/VA20/bd-13890-512px.jpg 512w,
+  ./../images/VA20/bd-13890-768px.jpg 768w,
+  ./../images/VA20/bd-13890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -156,8 +366,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Let's go back to the past! Here, papa Buccellati's face (the small one) is looking better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-15330.jpg" />
- <img src="./../images/VA20/bd-15330.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-15330-1090px.jpg"
+  data-srcset="./../images/VA20/tv-15330-512px.jpg 512w,
+  ./../images/VA20/tv-15330-768px.jpg 768w,
+  ./../images/VA20/tv-15330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-15330-1090px.jpg"
+  data-srcset="./../images/VA20/bd-15330-512px.jpg 512w,
+  ./../images/VA20/bd-15330-768px.jpg 768w,
+  ./../images/VA20/bd-15330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -165,8 +389,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - While here, Buccellati and the two boats have been moved significantly, and the boats have been recoloured too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-15548.jpg" />
- <img src="./../images/VA20/bd-15548.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-15548-1090px.jpg"
+  data-srcset="./../images/VA20/tv-15548-512px.jpg 512w,
+  ./../images/VA20/tv-15548-768px.jpg 768w,
+  ./../images/VA20/tv-15548-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-15548-1090px.jpg"
+  data-srcset="./../images/VA20/bd-15548-512px.jpg 512w,
+  ./../images/VA20/bd-15548-768px.jpg 768w,
+  ./../images/VA20/bd-15548-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -174,8 +412,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - I WANT A NEW HOUSE!!!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-15675.jpg" />
- <img src="./../images/VA20/bd-15675.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-15675-1090px.jpg"
+  data-srcset="./../images/VA20/tv-15675-512px.jpg 512w,
+  ./../images/VA20/tv-15675-768px.jpg 768w,
+  ./../images/VA20/tv-15675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-15675-1090px.jpg"
+  data-srcset="./../images/VA20/bd-15675-512px.jpg 512w,
+  ./../images/VA20/bd-15675-768px.jpg 768w,
+  ./../images/VA20/bd-15675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -183,8 +435,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Here, all three members of the Buccellati household have been slightly retouched, and the lighting on them is slightly different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-18350.jpg" />
- <img src="./../images/VA20/bd-18350.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-18350-1090px.jpg"
+  data-srcset="./../images/VA20/tv-18350-512px.jpg 512w,
+  ./../images/VA20/tv-18350-768px.jpg 768w,
+  ./../images/VA20/tv-18350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-18350-1090px.jpg"
+  data-srcset="./../images/VA20/bd-18350-512px.jpg 512w,
+  ./../images/VA20/bd-18350-768px.jpg 768w,
+  ./../images/VA20/bd-18350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -192,8 +458,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - The overall lighting is a liiittle different here too, and a couple of lines have been retouched on Buccellati Jr. and his mom:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-18352.jpg" />
- <img src="./../images/VA20/bd-18352.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-18352-1090px.jpg"
+  data-srcset="./../images/VA20/tv-18352-512px.jpg 512w,
+  ./../images/VA20/tv-18352-768px.jpg 768w,
+  ./../images/VA20/tv-18352-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-18352-1090px.jpg"
+  data-srcset="./../images/VA20/bd-18352-512px.jpg 512w,
+  ./../images/VA20/bd-18352-768px.jpg 768w,
+  ./../images/VA20/bd-18352-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -201,8 +481,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Here, there is a much stronger distortion around the edges, the cloud on the right is no longer incomplete...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-18777.jpg" />
- <img src="./../images/VA20/bd-18777.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-18777-1090px.jpg"
+  data-srcset="./../images/VA20/tv-18777-512px.jpg 512w,
+  ./../images/VA20/tv-18777-768px.jpg 768w,
+  ./../images/VA20/tv-18777-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-18777-1090px.jpg"
+  data-srcset="./../images/VA20/bd-18777-512px.jpg 512w,
+  ./../images/VA20/bd-18777-768px.jpg 768w,
+  ./../images/VA20/bd-18777-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -217,8 +511,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Here, both Buccellatis have been massively retouched, and the sea behind them is looking better too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-19105.jpg" />
- <img src="./../images/VA20/bd-19105.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-19105-1090px.jpg"
+  data-srcset="./../images/VA20/tv-19105-512px.jpg 512w,
+  ./../images/VA20/tv-19105-768px.jpg 768w,
+  ./../images/VA20/tv-19105-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-19105-1090px.jpg"
+  data-srcset="./../images/VA20/bd-19105-512px.jpg 512w,
+  ./../images/VA20/bd-19105-768px.jpg 768w,
+  ./../images/VA20/bd-19105-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -226,8 +534,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - And the two tourists no longer look like aliens, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-19365.jpg" />
- <img src="./../images/VA20/bd-19365.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-19365-1090px.jpg"
+  data-srcset="./../images/VA20/tv-19365-512px.jpg 512w,
+  ./../images/VA20/tv-19365-768px.jpg 768w,
+  ./../images/VA20/tv-19365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-19365-1090px.jpg"
+  data-srcset="./../images/VA20/bd-19365-512px.jpg 512w,
+  ./../images/VA20/bd-19365-768px.jpg 768w,
+  ./../images/VA20/bd-19365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -235,8 +557,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Here, Buccellati's small small face has been retouched and the clouds in the background are blurrier:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-19730.jpg" />
- <img src="./../images/VA20/bd-19730.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-19730-1090px.jpg"
+  data-srcset="./../images/VA20/tv-19730-512px.jpg 512w,
+  ./../images/VA20/tv-19730-768px.jpg 768w,
+  ./../images/VA20/tv-19730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-19730-1090px.jpg"
+  data-srcset="./../images/VA20/bd-19730-512px.jpg 512w,
+  ./../images/VA20/bd-19730-768px.jpg 768w,
+  ./../images/VA20/bd-19730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -244,8 +580,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - EVERYONE IS LOOKING BETTER HERE! EVERYONE! And that dude's hand looks healthier too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-19860.jpg" />
- <img src="./../images/VA20/bd-19860.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-19860-1090px.jpg"
+  data-srcset="./../images/VA20/tv-19860-512px.jpg 512w,
+  ./../images/VA20/tv-19860-768px.jpg 768w,
+  ./../images/VA20/tv-19860-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-19860-1090px.jpg"
+  data-srcset="./../images/VA20/bd-19860-512px.jpg 512w,
+  ./../images/VA20/bd-19860-768px.jpg 768w,
+  ./../images/VA20/bd-19860-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -253,8 +603,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Here, Buccellati and the two nurses are much closer to the gurney:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-20220.jpg" />
- <img src="./../images/VA20/bd-20220.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-20220-1090px.jpg"
+  data-srcset="./../images/VA20/tv-20220-512px.jpg 512w,
+  ./../images/VA20/tv-20220-768px.jpg 768w,
+  ./../images/VA20/tv-20220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-20220-1090px.jpg"
+  data-srcset="./../images/VA20/bd-20220-512px.jpg 512w,
+  ./../images/VA20/bd-20220-768px.jpg 768w,
+  ./../images/VA20/bd-20220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -262,15 +626,43 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Small Buccellati has a much better-looking face here (and towards the end, his suit has a missing bit of the pattern drawn in too):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-21235.jpg" />
- <img src="./../images/VA20/bd-21235.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-21235-1090px.jpg"
+  data-srcset="./../images/VA20/tv-21235-512px.jpg 512w,
+  ./../images/VA20/tv-21235-768px.jpg 768w,
+  ./../images/VA20/tv-21235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-21235-1090px.jpg"
+  data-srcset="./../images/VA20/bd-21235-512px.jpg 512w,
+  ./../images/VA20/bd-21235-768px.jpg 768w,
+  ./../images/VA20/bd-21235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-21390.jpg" />
- <img src="./../images/VA20/bd-21390.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-21390-1090px.jpg"
+  data-srcset="./../images/VA20/tv-21390-512px.jpg 512w,
+  ./../images/VA20/tv-21390-768px.jpg 768w,
+  ./../images/VA20/tv-21390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-21390-1090px.jpg"
+  data-srcset="./../images/VA20/bd-21390-512px.jpg 512w,
+  ./../images/VA20/bd-21390-768px.jpg 768w,
+  ./../images/VA20/bd-21390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -278,15 +670,43 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Once again, all faces are looking better here, and the doctor's cap and mask have been recoloured too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-21662.jpg" />
- <img src="./../images/VA20/bd-21662.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-21662-1090px.jpg"
+  data-srcset="./../images/VA20/tv-21662-512px.jpg 512w,
+  ./../images/VA20/tv-21662-768px.jpg 768w,
+  ./../images/VA20/tv-21662-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-21662-1090px.jpg"
+  data-srcset="./../images/VA20/bd-21662-512px.jpg 512w,
+  ./../images/VA20/bd-21662-768px.jpg 768w,
+  ./../images/VA20/bd-21662-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-21770.jpg" />
- <img src="./../images/VA20/bd-21770.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-21770-1090px.jpg"
+  data-srcset="./../images/VA20/tv-21770-512px.jpg 512w,
+  ./../images/VA20/tv-21770-768px.jpg 768w,
+  ./../images/VA20/tv-21770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-21770-1090px.jpg"
+  data-srcset="./../images/VA20/bd-21770-512px.jpg 512w,
+  ./../images/VA20/bd-21770-768px.jpg 768w,
+  ./../images/VA20/bd-21770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -294,8 +714,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Here we have another MINISCULE change: the very tip of Buccellati's right hand is now _under_ his father's hand, and not above:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-23535.jpg" />
- <img src="./../images/VA20/bd-23535.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-23535-1090px.jpg"
+  data-srcset="./../images/VA20/tv-23535-512px.jpg 512w,
+  ./../images/VA20/tv-23535-768px.jpg 768w,
+  ./../images/VA20/tv-23535-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-23535-1090px.jpg"
+  data-srcset="./../images/VA20/bd-23535-512px.jpg 512w,
+  ./../images/VA20/bd-23535-768px.jpg 768w,
+  ./../images/VA20/bd-23535-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -303,8 +737,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - And here, towards the end of the same scene, the bit between his father's index and middle finger has been shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-23538.jpg" />
- <img src="./../images/VA20/bd-23538.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-23538-1090px.jpg"
+  data-srcset="./../images/VA20/tv-23538-512px.jpg 512w,
+  ./../images/VA20/tv-23538-768px.jpg 768w,
+  ./../images/VA20/tv-23538-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-23538-1090px.jpg"
+  data-srcset="./../images/VA20/bd-23538-512px.jpg 512w,
+  ./../images/VA20/bd-23538-768px.jpg 768w,
+  ./../images/VA20/bd-23538-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -312,8 +760,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Here, Polpo has been completely redrawn! Buccellati and the stuff on Polpo's table have moved too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-24680.jpg" />
- <img src="./../images/VA20/bd-24680.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-24680-1090px.jpg"
+  data-srcset="./../images/VA20/tv-24680-512px.jpg 512w,
+  ./../images/VA20/tv-24680-768px.jpg 768w,
+  ./../images/VA20/tv-24680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-24680-1090px.jpg"
+  data-srcset="./../images/VA20/bd-24680-512px.jpg 512w,
+  ./../images/VA20/bd-24680-768px.jpg 768w,
+  ./../images/VA20/bd-24680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -321,8 +783,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Here, Buccellati's eyes are actually pointing at the man below him...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-25300.jpg" />
- <img src="./../images/VA20/bd-25300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-25300-1090px.jpg"
+  data-srcset="./../images/VA20/tv-25300-512px.jpg 512w,
+  ./../images/VA20/tv-25300-768px.jpg 768w,
+  ./../images/VA20/tv-25300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-25300-1090px.jpg"
+  data-srcset="./../images/VA20/bd-25300-512px.jpg 512w,
+  ./../images/VA20/bd-25300-768px.jpg 768w,
+  ./../images/VA20/bd-25300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -330,8 +806,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - ... and, later in the same scene, his whole head has been moved a little bit too! If you move the slider fast enough you can make him dance to whatever tune you want:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-25315.jpg" />
- <img src="./../images/VA20/bd-25315.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-25315-1090px.jpg"
+  data-srcset="./../images/VA20/tv-25315-512px.jpg 512w,
+  ./../images/VA20/tv-25315-768px.jpg 768w,
+  ./../images/VA20/tv-25315-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-25315-1090px.jpg"
+  data-srcset="./../images/VA20/bd-25315-512px.jpg 512w,
+  ./../images/VA20/bd-25315-768px.jpg 768w,
+  ./../images/VA20/bd-25315-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -339,8 +829,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Here, the money background is sliightly more distorted around the edges...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-25498.jpg" />
- <img src="./../images/VA20/bd-25498.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-25498-1090px.jpg"
+  data-srcset="./../images/VA20/tv-25498-512px.jpg 512w,
+  ./../images/VA20/tv-25498-768px.jpg 768w,
+  ./../images/VA20/tv-25498-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-25498-1090px.jpg"
+  data-srcset="./../images/VA20/bd-25498-512px.jpg 512w,
+  ./../images/VA20/bd-25498-768px.jpg 768w,
+  ./../images/VA20/bd-25498-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -353,8 +857,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-25628.jpg" />
- <img src="./../images/VA20/bd-25628.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-25628-1090px.jpg"
+  data-srcset="./../images/VA20/tv-25628-512px.jpg 512w,
+  ./../images/VA20/tv-25628-768px.jpg 768w,
+  ./../images/VA20/tv-25628-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-25628-1090px.jpg"
+  data-srcset="./../images/VA20/bd-25628-512px.jpg 512w,
+  ./../images/VA20/bd-25628-768px.jpg 768w,
+  ./../images/VA20/bd-25628-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -362,8 +880,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - In this shot of the interior of San Giorgio Maggiore's belfry tower, there is a new steel beam:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-26525.jpg" />
- <img src="./../images/VA20/bd-26525.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-26525-1090px.jpg"
+  data-srcset="./../images/VA20/tv-26525-512px.jpg 512w,
+  ./../images/VA20/tv-26525-768px.jpg 768w,
+  ./../images/VA20/tv-26525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-26525-1090px.jpg"
+  data-srcset="./../images/VA20/bd-26525-512px.jpg 512w,
+  ./../images/VA20/bd-26525-768px.jpg 768w,
+  ./../images/VA20/bd-26525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -378,8 +910,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - And this scene of our good boy Buccellati following him is slightly more zoomed-in:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-27370.jpg" />
- <img src="./../images/VA20/bd-27370.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-27370-1090px.jpg"
+  data-srcset="./../images/VA20/tv-27370-512px.jpg 512w,
+  ./../images/VA20/tv-27370-768px.jpg 768w,
+  ./../images/VA20/tv-27370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-27370-1090px.jpg"
+  data-srcset="./../images/VA20/bd-27370-512px.jpg 512w,
+  ./../images/VA20/bd-27370-768px.jpg 768w,
+  ./../images/VA20/bd-27370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -387,8 +933,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Here, Buccellati has received a new aura and a darker shading towards the bottom of the frame:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-30450.jpg" />
- <img src="./../images/VA20/bd-30450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-30450-1090px.jpg"
+  data-srcset="./../images/VA20/tv-30450-512px.jpg 512w,
+  ./../images/VA20/tv-30450-768px.jpg 768w,
+  ./../images/VA20/tv-30450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-30450-1090px.jpg"
+  data-srcset="./../images/VA20/bd-30450-512px.jpg 512w,
+  ./../images/VA20/bd-30450-768px.jpg 768w,
+  ./../images/VA20/bd-30450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -403,22 +963,64 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Here, the bottom of the frame is slightly darker, Buccellati's big zippers have a dot in the middle, and his face has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-30890.jpg" />
- <img src="./../images/VA20/bd-30890.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-30890-1090px.jpg"
+  data-srcset="./../images/VA20/tv-30890-512px.jpg 512w,
+  ./../images/VA20/tv-30890-768px.jpg 768w,
+  ./../images/VA20/tv-30890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-30890-1090px.jpg"
+  data-srcset="./../images/VA20/bd-30890-512px.jpg 512w,
+  ./../images/VA20/bd-30890-768px.jpg 768w,
+  ./../images/VA20/bd-30890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-30900.jpg" />
- <img src="./../images/VA20/bd-30900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-30900-1090px.jpg"
+  data-srcset="./../images/VA20/tv-30900-512px.jpg 512w,
+  ./../images/VA20/tv-30900-768px.jpg 768w,
+  ./../images/VA20/tv-30900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-30900-1090px.jpg"
+  data-srcset="./../images/VA20/bd-30900-512px.jpg 512w,
+  ./../images/VA20/bd-30900-768px.jpg 768w,
+  ./../images/VA20/bd-30900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-31005.jpg" />
- <img src="./../images/VA20/bd-31005.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-31005-1090px.jpg"
+  data-srcset="./../images/VA20/tv-31005-512px.jpg 512w,
+  ./../images/VA20/tv-31005-768px.jpg 768w,
+  ./../images/VA20/tv-31005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-31005-1090px.jpg"
+  data-srcset="./../images/VA20/bd-31005-512px.jpg 512w,
+  ./../images/VA20/bd-31005-768px.jpg 768w,
+  ./../images/VA20/bd-31005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -426,8 +1028,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - In this incredibly iconic scene, all the lines on Buccellati's arm and on his face zipper are thicker, and the cell phone is now on:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-31300.jpg" />
- <img src="./../images/VA20/bd-31300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-31300-1090px.jpg"
+  data-srcset="./../images/VA20/tv-31300-512px.jpg 512w,
+  ./../images/VA20/tv-31300-768px.jpg 768w,
+  ./../images/VA20/tv-31300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-31300-1090px.jpg"
+  data-srcset="./../images/VA20/bd-31300-512px.jpg 512w,
+  ./../images/VA20/bd-31300-768px.jpg 768w,
+  ./../images/VA20/bd-31300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -435,8 +1051,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - Here, the time on the cell phone has been changed from 05:59 to 06:14:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-31313.jpg" />
- <img src="./../images/VA20/bd-31313.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-31313-1090px.jpg"
+  data-srcset="./../images/VA20/tv-31313-512px.jpg 512w,
+  ./../images/VA20/tv-31313-768px.jpg 768w,
+  ./../images/VA20/tv-31313-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-31313-1090px.jpg"
+  data-srcset="./../images/VA20/bd-31313-512px.jpg 512w,
+  ./../images/VA20/bd-31313-768px.jpg 768w,
+  ./../images/VA20/bd-31313-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -444,8 +1074,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - And in this other equally iconic scene, King Crimson starts further back, and has received an additional bit of animation towards the end:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-32555.jpg" />
- <img src="./../images/VA20/bd-32555.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-32555-1090px.jpg"
+  data-srcset="./../images/VA20/tv-32555-512px.jpg 512w,
+  ./../images/VA20/tv-32555-768px.jpg 768w,
+  ./../images/VA20/tv-32555-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-32555-1090px.jpg"
+  data-srcset="./../images/VA20/bd-32555-512px.jpg 512w,
+  ./../images/VA20/bd-32555-768px.jpg 768w,
+  ./../images/VA20/bd-32555-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -458,29 +1102,85 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - And here, Buccellati's face has been retouched, there's a different, redder glow on the scene...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-32648.jpg" />
- <img src="./../images/VA20/bd-32648.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-32648-1090px.jpg"
+  data-srcset="./../images/VA20/tv-32648-512px.jpg 512w,
+  ./../images/VA20/tv-32648-768px.jpg 768w,
+  ./../images/VA20/tv-32648-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-32648-1090px.jpg"
+  data-srcset="./../images/VA20/bd-32648-512px.jpg 512w,
+  ./../images/VA20/bd-32648-768px.jpg 768w,
+  ./../images/VA20/bd-32648-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-32650.jpg" />
- <img src="./../images/VA20/bd-32650.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-32650-1090px.jpg"
+  data-srcset="./../images/VA20/tv-32650-512px.jpg 512w,
+  ./../images/VA20/tv-32650-768px.jpg 768w,
+  ./../images/VA20/tv-32650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-32650-1090px.jpg"
+  data-srcset="./../images/VA20/bd-32650-512px.jpg 512w,
+  ./../images/VA20/bd-32650-768px.jpg 768w,
+  ./../images/VA20/bd-32650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-32653.jpg" />
- <img src="./../images/VA20/bd-32653.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-32653-1090px.jpg"
+  data-srcset="./../images/VA20/tv-32653-512px.jpg 512w,
+  ./../images/VA20/tv-32653-768px.jpg 768w,
+  ./../images/VA20/tv-32653-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-32653-1090px.jpg"
+  data-srcset="./../images/VA20/bd-32653-512px.jpg 512w,
+  ./../images/VA20/bd-32653-768px.jpg 768w,
+  ./../images/VA20/bd-32653-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-32695.jpg" />
- <img src="./../images/VA20/bd-32695.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-32695-1090px.jpg"
+  data-srcset="./../images/VA20/tv-32695-512px.jpg 512w,
+  ./../images/VA20/tv-32695-768px.jpg 768w,
+  ./../images/VA20/tv-32695-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-32695-1090px.jpg"
+  data-srcset="./../images/VA20/bd-32695-512px.jpg 512w,
+  ./../images/VA20/bd-32695-768px.jpg 768w,
+  ./../images/VA20/bd-32695-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -495,8 +1195,22 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 - And here ( (´；ω；`) ), there are less lines on Buccellati's eyeball and next to his mouth, a tiny bit under his nose and between his eyebrows has been shaded properly and his pupil has also been recoloured:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA20/tv-33815.jpg" />
- <img src="./../images/VA20/bd-33815.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/tv-33815-1090px.jpg"
+  data-srcset="./../images/VA20/tv-33815-512px.jpg 512w,
+  ./../images/VA20/tv-33815-768px.jpg 768w,
+  ./../images/VA20/tv-33815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA20/bd-33815-1090px.jpg"
+  data-srcset="./../images/VA20/bd-33815-512px.jpg 512w,
+  ./../images/VA20/bd-33815-768px.jpg 768w,
+  ./../images/VA20/bd-33815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

@@ -26,7 +26,7 @@ var gulpIgnore = require('gulp-ignore');
 
 gulp.task('create-thumbnails', function () {
   return gulp
-    .src('source/images/VA26/{bd,tv}-*.jpg')
+    .src('source/images/VA27/{bd,tv}-*.jpg')
     .pipe(
       $.responsive(
         {
@@ -45,12 +45,12 @@ gulp.task('create-thumbnails', function () {
         }
       )
     )
-    .pipe(gulp.dest('source/images/VA26/src'))
+    .pipe(gulp.dest('source/images/VA27/src'))
 });
 
 gulp.task('enlarge-thumbnails', gulp.series('create-thumbnails', function() {
   return gulp
-    .src('source/images/VA26/src/{bd,tv}-*.jpg')
+    .src('source/images/VA27/src/{bd,tv}-*.jpg')
     .pipe(
       $.responsive(
         {
@@ -66,12 +66,12 @@ gulp.task('enlarge-thumbnails', gulp.series('create-thumbnails', function() {
         }
       )
     )
-    .pipe(gulp.dest('source/images/VA26/src', {overwrite: true}))
+    .pipe(gulp.dest('source/images/VA27/src', {overwrite: true}))
 }));
 
 gulp.task('thumbnails', gulp.series('enlarge-thumbnails', function() {
   return gulp
-    .src('source/images/VA26/src/{bd,tv}-*.jpg')
+    .src('source/images/VA27/src/{bd,tv}-*.jpg')
     .pipe(
       $.responsive(
         {
@@ -82,22 +82,22 @@ gulp.task('thumbnails', gulp.series('enlarge-thumbnails', function() {
         }
       )
     )
-    .pipe(gulp.dest('source/images/VA26/src', {overwrite: true}))
+    .pipe(gulp.dest('source/images/VA27/src', {overwrite: true}))
 }));
 
 gulp.task('move', function() {
   return gulp
-  .src('source/images/SC17/!(*px|*headerJP)*.jpg')
-  .pipe(gulp.dest('../OCTOBACKUP/old-images/SC17'))
+  .src('source/images/VA27/!(*px|*headerJP)*.jpg')
+  .pipe(gulp.dest('../OCTOBACKUP/old-images/VA27'))
 });
 
 gulp.task('clean', function() {
-  return del(['source/images/SC17/!(*px|*headerJP)*.jpg']);
+  return del(['source/images/VA27/!(*px|*headerJP)*.jpg']);
 });
 
 gulp.task('create-responsive', function () {
   return gulp
-    .src('source/images/SC17/{bd,tv}*.jpg')
+    .src('source/images/VA27/{bd,tv}*.jpg')
     .pipe(
       $.responsive(
         {
@@ -126,7 +126,7 @@ gulp.task('create-responsive', function () {
         }
       )
     )
-    .pipe(gulp.dest('source/images/SC17'))
+    .pipe(gulp.dest('source/images/VA27'))
 });
 
 gulp.task('resize', gulp.series('create-responsive', 'move', 'clean'));
@@ -161,7 +161,7 @@ gulp.task('resize-headers', function () {
 });
 
 gulp.task('count', function() {
-  return gulp.src('source/images/SC17/!(*px|*headerJP)*.jpg')
+  return gulp.src('source/images/VA27/!(*px|*headerJP)*.jpg')
     .pipe((function() {
       return new through.obj(function(file, enc, next) {
         gutil.log(file.path);

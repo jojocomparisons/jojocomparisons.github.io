@@ -30,8 +30,22 @@ Let's get into it!
 - Moving on to some new things... Here, Mista has been moved a little bit further down, Giorno has been re-shaded a little differently and the white parts of the punching effects are much less transparent:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-00630.jpg" />
- <img src="./../images/VA19/bd-00630.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-00630-1090px.jpg"
+  data-srcset="./../images/VA19/tv-00630-512px.jpg 512w,
+  ./../images/VA19/tv-00630-768px.jpg 768w,
+  ./../images/VA19/tv-00630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-00630-1090px.jpg"
+  data-srcset="./../images/VA19/bd-00630-512px.jpg 512w,
+  ./../images/VA19/bd-00630-768px.jpg 768w,
+  ./../images/VA19/bd-00630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -39,8 +53,22 @@ Let's get into it!
 - Here, the car windows are more opaque:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-01550.jpg" />
- <img src="./../images/VA19/bd-01550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-01550-1090px.jpg"
+  data-srcset="./../images/VA19/tv-01550-512px.jpg 512w,
+  ./../images/VA19/tv-01550-768px.jpg 768w,
+  ./../images/VA19/tv-01550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-01550-1090px.jpg"
+  data-srcset="./../images/VA19/bd-01550-512px.jpg 512w,
+  ./../images/VA19/bd-01550-768px.jpg 768w,
+  ./../images/VA19/bd-01550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -55,8 +83,22 @@ Let's get into it!
 - And here, the bit behind Ghiaccio's head is also brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-05020.jpg" />
- <img src="./../images/VA19/bd-05020.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-05020-1090px.jpg"
+  data-srcset="./../images/VA19/tv-05020-512px.jpg 512w,
+  ./../images/VA19/tv-05020-768px.jpg 768w,
+  ./../images/VA19/tv-05020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-05020-1090px.jpg"
+  data-srcset="./../images/VA19/bd-05020-512px.jpg 512w,
+  ./../images/VA19/bd-05020-768px.jpg 768w,
+  ./../images/VA19/bd-05020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -64,8 +106,22 @@ Let's get into it!
 - Let's continue with a couple more brighter bits:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-05081.jpg" />
- <img src="./../images/VA19/bd-05081.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-05081-1090px.jpg"
+  data-srcset="./../images/VA19/tv-05081-512px.jpg 512w,
+  ./../images/VA19/tv-05081-768px.jpg 768w,
+  ./../images/VA19/tv-05081-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-05081-1090px.jpg"
+  data-srcset="./../images/VA19/bd-05081-512px.jpg 512w,
+  ./../images/VA19/bd-05081-768px.jpg 768w,
+  ./../images/VA19/bd-05081-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -90,8 +146,22 @@ Let's get into it!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-07444.jpg" />
- <img src="./../images/VA19/bd-07444.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-07444-1090px.jpg"
+  data-srcset="./../images/VA19/tv-07444-512px.jpg 512w,
+  ./../images/VA19/tv-07444-768px.jpg 768w,
+  ./../images/VA19/tv-07444-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-07444-1090px.jpg"
+  data-srcset="./../images/VA19/bd-07444-512px.jpg 512w,
+  ./../images/VA19/bd-07444-768px.jpg 768w,
+  ./../images/VA19/bd-07444-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -130,8 +200,22 @@ Let's get into it!
 - Here, Ghiaccio no longer closes his mouth at the end of this animation:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-12578.jpg" />
- <img src="./../images/VA19/bd-12578.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-12578-1090px.jpg"
+  data-srcset="./../images/VA19/tv-12578-512px.jpg 512w,
+  ./../images/VA19/tv-12578-768px.jpg 768w,
+  ./../images/VA19/tv-12578-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-12578-1090px.jpg"
+  data-srcset="./../images/VA19/bd-12578-512px.jpg 512w,
+  ./../images/VA19/bd-12578-768px.jpg 768w,
+  ./../images/VA19/bd-12578-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -146,8 +230,22 @@ Let's get into it!
 - MISTA! YOU FORGOT YOUR MISSING FINGER:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-12975.jpg" />
- <img src="./../images/VA19/bd-12975.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-12975-1090px.jpg"
+  data-srcset="./../images/VA19/tv-12975-512px.jpg 512w,
+  ./../images/VA19/tv-12975-768px.jpg 768w,
+  ./../images/VA19/tv-12975-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-12975-1090px.jpg"
+  data-srcset="./../images/VA19/bd-12975-512px.jpg 512w,
+  ./../images/VA19/bd-12975-768px.jpg 768w,
+  ./../images/VA19/bd-12975-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -155,8 +253,22 @@ Let's get into it!
 - MISTA! YOU FORGOT IT AGAIN! ALSO one line on your weird sweater thing is looking a little better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-13015.jpg" />
- <img src="./../images/VA19/bd-13015.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-13015-1090px.jpg"
+  data-srcset="./../images/VA19/tv-13015-512px.jpg 512w,
+  ./../images/VA19/tv-13015-768px.jpg 768w,
+  ./../images/VA19/tv-13015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-13015-1090px.jpg"
+  data-srcset="./../images/VA19/bd-13015-512px.jpg 512w,
+  ./../images/VA19/bd-13015-768px.jpg 768w,
+  ./../images/VA19/bd-13015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -169,8 +281,22 @@ Let's get into it!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-15030.jpg" />
- <img src="./../images/VA19/bd-15030.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-15030-1090px.jpg"
+  data-srcset="./../images/VA19/tv-15030-512px.jpg 512w,
+  ./../images/VA19/tv-15030-768px.jpg 768w,
+  ./../images/VA19/tv-15030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-15030-1090px.jpg"
+  data-srcset="./../images/VA19/bd-15030-512px.jpg 512w,
+  ./../images/VA19/bd-15030-768px.jpg 768w,
+  ./../images/VA19/bd-15030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -183,8 +309,22 @@ Let's get into it!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-15810.jpg" />
- <img src="./../images/VA19/bd-15810.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-15810-1090px.jpg"
+  data-srcset="./../images/VA19/tv-15810-512px.jpg 512w,
+  ./../images/VA19/tv-15810-768px.jpg 768w,
+  ./../images/VA19/tv-15810-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-15810-1090px.jpg"
+  data-srcset="./../images/VA19/bd-15810-512px.jpg 512w,
+  ./../images/VA19/bd-15810-768px.jpg 768w,
+  ./../images/VA19/bd-15810-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -199,8 +339,22 @@ Let's get into it!
 - This _extremely handsome_ shot of Giorno has been basically redrawn from scratch:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-16770.jpg" />
- <img src="./../images/VA19/bd-16770.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-16770-1090px.jpg"
+  data-srcset="./../images/VA19/tv-16770-512px.jpg 512w,
+  ./../images/VA19/tv-16770-768px.jpg 768w,
+  ./../images/VA19/tv-16770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-16770-1090px.jpg"
+  data-srcset="./../images/VA19/bd-16770-512px.jpg 512w,
+  ./../images/VA19/bd-16770-768px.jpg 768w,
+  ./../images/VA19/bd-16770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -208,8 +362,22 @@ Let's get into it!
 - Let's go back to the past! Here, Buccellati's suit pattern has been once again fixed, and the background is much brighter towards the center of the frame:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-18660.jpg" />
- <img src="./../images/VA19/bd-18660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-18660-1090px.jpg"
+  data-srcset="./../images/VA19/tv-18660-512px.jpg 512w,
+  ./../images/VA19/tv-18660-768px.jpg 768w,
+  ./../images/VA19/tv-18660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-18660-1090px.jpg"
+  data-srcset="./../images/VA19/bd-18660-512px.jpg 512w,
+  ./../images/VA19/bd-18660-768px.jpg 768w,
+  ./../images/VA19/bd-18660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -217,8 +385,22 @@ Let's get into it!
 - And here, the tables and chairs beyond the door have been moved a little more to the right, fixing that small gap that was left by mistake in the TV version:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-19415.jpg" />
- <img src="./../images/VA19/bd-19415.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-19415-1090px.jpg"
+  data-srcset="./../images/VA19/tv-19415-512px.jpg 512w,
+  ./../images/VA19/tv-19415-768px.jpg 768w,
+  ./../images/VA19/tv-19415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-19415-1090px.jpg"
+  data-srcset="./../images/VA19/bd-19415-512px.jpg 512w,
+  ./../images/VA19/bd-19415-768px.jpg 768w,
+  ./../images/VA19/bd-19415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -226,8 +408,22 @@ Let's get into it!
 - Here, the suit pattern has been fixed _again_, and the background is much darker, especially around the bottom right corner:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-19945.jpg" />
- <img src="./../images/VA19/bd-19945.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-19945-1090px.jpg"
+  data-srcset="./../images/VA19/tv-19945-512px.jpg 512w,
+  ./../images/VA19/tv-19945-768px.jpg 768w,
+  ./../images/VA19/tv-19945-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-19945-1090px.jpg"
+  data-srcset="./../images/VA19/bd-19945-512px.jpg 512w,
+  ./../images/VA19/bd-19945-768px.jpg 768w,
+  ./../images/VA19/bd-19945-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -235,8 +431,22 @@ Let's get into it!
 - Here, Abbacchio's eyes have been retouched and now have their usual purple-gold colouring:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-19970.jpg" />
- <img src="./../images/VA19/bd-19970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-19970-1090px.jpg"
+  data-srcset="./../images/VA19/tv-19970-512px.jpg 512w,
+  ./../images/VA19/tv-19970-768px.jpg 768w,
+  ./../images/VA19/tv-19970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-19970-1090px.jpg"
+  data-srcset="./../images/VA19/bd-19970-512px.jpg 512w,
+  ./../images/VA19/bd-19970-768px.jpg 768w,
+  ./../images/VA19/bd-19970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -244,8 +454,22 @@ Let's get into it!
 - Back to the present! Here, this still animation (if that's not an oxymoron) is brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-21045.jpg" />
- <img src="./../images/VA19/bd-21045.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-21045-1090px.jpg"
+  data-srcset="./../images/VA19/tv-21045-512px.jpg 512w,
+  ./../images/VA19/tv-21045-768px.jpg 768w,
+  ./../images/VA19/tv-21045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-21045-1090px.jpg"
+  data-srcset="./../images/VA19/bd-21045-512px.jpg 512w,
+  ./../images/VA19/bd-21045-768px.jpg 768w,
+  ./../images/VA19/bd-21045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -253,8 +477,22 @@ Let's get into it!
 - And this nice shot of Mista has received some different shading; in addition, his bullets are no longer in the chambers:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-21155.jpg" />
- <img src="./../images/VA19/bd-21155.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-21155-1090px.jpg"
+  data-srcset="./../images/VA19/tv-21155-512px.jpg 512w,
+  ./../images/VA19/tv-21155-768px.jpg 768w,
+  ./../images/VA19/tv-21155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-21155-1090px.jpg"
+  data-srcset="./../images/VA19/bd-21155-512px.jpg 512w,
+  ./../images/VA19/bd-21155-768px.jpg 768w,
+  ./../images/VA19/bd-21155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -269,15 +507,43 @@ Let's get into it!
 - Here, Mista's finger has been chopped once again, and a couple of things in his sweater have been retouched too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-22600.jpg" />
- <img src="./../images/VA19/bd-22600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-22600-1090px.jpg"
+  data-srcset="./../images/VA19/tv-22600-512px.jpg 512w,
+  ./../images/VA19/tv-22600-768px.jpg 768w,
+  ./../images/VA19/tv-22600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-22600-1090px.jpg"
+  data-srcset="./../images/VA19/bd-22600-512px.jpg 512w,
+  ./../images/VA19/bd-22600-768px.jpg 768w,
+  ./../images/VA19/bd-22600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-22730.jpg" />
- <img src="./../images/VA19/bd-22730.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-22730-1090px.jpg"
+  data-srcset="./../images/VA19/tv-22730-512px.jpg 512w,
+  ./../images/VA19/tv-22730-768px.jpg 768w,
+  ./../images/VA19/tv-22730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-22730-1090px.jpg"
+  data-srcset="./../images/VA19/bd-22730-512px.jpg 512w,
+  ./../images/VA19/bd-22730-768px.jpg 768w,
+  ./../images/VA19/bd-22730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -285,8 +551,22 @@ Let's get into it!
 - This Giorno shot is basically the same as the previous retouched one, but he's looking so good that I just had to:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-28035.jpg" />
- <img src="./../images/VA19/bd-28035.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-28035-1090px.jpg"
+  data-srcset="./../images/VA19/tv-28035-512px.jpg 512w,
+  ./../images/VA19/tv-28035-768px.jpg 768w,
+  ./../images/VA19/tv-28035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-28035-1090px.jpg"
+  data-srcset="./../images/VA19/bd-28035-512px.jpg 512w,
+  ./../images/VA19/bd-28035-768px.jpg 768w,
+  ./../images/VA19/bd-28035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -301,8 +581,22 @@ Let's get into it!
 - Let's move to the credits! Here, The third kanji in 小池裕樹 (Koike Yūki)'s name has been corrected from 祐 to 裕 (both pronounced "yū"). It's the fourth name from the bottom in the third row:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-31385.jpg" />
- <img src="./../images/VA19/bd-31385.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-31385-1090px.jpg"
+  data-srcset="./../images/VA19/tv-31385-512px.jpg 512w,
+  ./../images/VA19/tv-31385-768px.jpg 768w,
+  ./../images/VA19/tv-31385-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-31385-1090px.jpg"
+  data-srcset="./../images/VA19/bd-31385-512px.jpg 512w,
+  ./../images/VA19/bd-31385-768px.jpg 768w,
+  ./../images/VA19/bd-31385-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -310,8 +604,22 @@ Let's get into it!
 - And here, 中原茉莉子 (Nakahara Mariko) has been added at the bottom of the second row, and our friend 銀 (Gin) makes his return on the right:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/VA19/tv-31535.jpg" />
- <img src="./../images/VA19/bd-31535.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/tv-31535-1090px.jpg"
+  data-srcset="./../images/VA19/tv-31535-512px.jpg 512w,
+  ./../images/VA19/tv-31535-768px.jpg 768w,
+  ./../images/VA19/tv-31535-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/VA19/bd-31535-1090px.jpg"
+  data-srcset="./../images/VA19/bd-31535-512px.jpg 512w,
+  ./../images/VA19/bd-31535-768px.jpg 768w,
+  ./../images/VA19/bd-31535-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
