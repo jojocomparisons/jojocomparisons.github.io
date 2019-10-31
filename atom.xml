@@ -3,7 +3,7 @@
   <title><![CDATA[JoJo's Bizarre Comparisons]]></title>
   <link href="https://jojocomparisons.github.io/atom.xml" rel="self"/>
   <link href="https://jojocomparisons.github.io/"/>
-  <updated>2019-10-31T10:34:30+01:00</updated>
+  <updated>2019-10-31T12:22:32+01:00</updated>
   <id>https://jojocomparisons.github.io/</id>
   <author>
     <name><![CDATA[Duwang Boi]]></name>
@@ -10246,8 +10246,16 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-03450.jpg" />
- <img src="./../images/SC17/bd-03450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-03450-1090px.jpg" data-srcset="./../images/SC17/tv-03450-512px.jpg 512w,
+  ./../images/SC17/tv-03450-768px.jpg 768w,
+  ./../images/SC17/tv-03450-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-03450-1090px.jpg" data-srcset="./../images/SC17/bd-03450-512px.jpg 512w,
+  ./../images/SC17/bd-03450-768px.jpg 768w,
+  ./../images/SC17/bd-03450-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10257,15 +10265,31 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-03730.jpg" />
- <img src="./../images/SC17/bd-03730.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-03730-1090px.jpg" data-srcset="./../images/SC17/tv-03730-512px.jpg 512w,
+  ./../images/SC17/tv-03730-768px.jpg 768w,
+  ./../images/SC17/tv-03730-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-03730-1090px.jpg" data-srcset="./../images/SC17/bd-03730-512px.jpg 512w,
+  ./../images/SC17/bd-03730-768px.jpg 768w,
+  ./../images/SC17/bd-03730-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-04005.jpg" />
- <img src="./../images/SC17/bd-04005.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-04005-1090px.jpg" data-srcset="./../images/SC17/tv-04005-512px.jpg 512w,
+  ./../images/SC17/tv-04005-768px.jpg 768w,
+  ./../images/SC17/tv-04005-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-04005-1090px.jpg" data-srcset="./../images/SC17/bd-04005-512px.jpg 512w,
+  ./../images/SC17/bd-04005-768px.jpg 768w,
+  ./../images/SC17/bd-04005-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10275,8 +10299,16 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-04010.jpg" />
- <img src="./../images/SC17/bd-04010.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-04010-1090px.jpg" data-srcset="./../images/SC17/tv-04010-512px.jpg 512w,
+  ./../images/SC17/tv-04010-768px.jpg 768w,
+  ./../images/SC17/tv-04010-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-04010-1090px.jpg" data-srcset="./../images/SC17/bd-04010-512px.jpg 512w,
+  ./../images/SC17/bd-04010-768px.jpg 768w,
+  ./../images/SC17/bd-04010-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10295,8 +10327,16 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-05775.jpg" />
- <img src="./../images/SC17/bd-05775.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-05775-1090px.jpg" data-srcset="./../images/SC17/tv-05775-512px.jpg 512w,
+  ./../images/SC17/tv-05775-768px.jpg 768w,
+  ./../images/SC17/tv-05775-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-05775-1090px.jpg" data-srcset="./../images/SC17/bd-05775-512px.jpg 512w,
+  ./../images/SC17/bd-05775-768px.jpg 768w,
+  ./../images/SC17/bd-05775-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10315,8 +10355,16 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-07435.jpg" />
- <img src="./../images/SC17/bd-07435.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-07435-1090px.jpg" data-srcset="./../images/SC17/tv-07435-512px.jpg 512w,
+  ./../images/SC17/tv-07435-768px.jpg 768w,
+  ./../images/SC17/tv-07435-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-07435-1090px.jpg" data-srcset="./../images/SC17/bd-07435-512px.jpg 512w,
+  ./../images/SC17/bd-07435-768px.jpg 768w,
+  ./../images/SC17/bd-07435-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10335,8 +10383,16 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-08600.jpg" />
- <img src="./../images/SC17/bd-08600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-08600-1090px.jpg" data-srcset="./../images/SC17/tv-08600-512px.jpg 512w,
+  ./../images/SC17/tv-08600-768px.jpg 768w,
+  ./../images/SC17/tv-08600-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-08600-1090px.jpg" data-srcset="./../images/SC17/bd-08600-512px.jpg 512w,
+  ./../images/SC17/bd-08600-768px.jpg 768w,
+  ./../images/SC17/bd-08600-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10346,8 +10402,16 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-14740.jpg" />
- <img src="./../images/SC17/bd-14740.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-14740-1090px.jpg" data-srcset="./../images/SC17/tv-14740-512px.jpg 512w,
+  ./../images/SC17/tv-14740-768px.jpg 768w,
+  ./../images/SC17/tv-14740-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-14740-1090px.jpg" data-srcset="./../images/SC17/bd-14740-512px.jpg 512w,
+  ./../images/SC17/bd-14740-768px.jpg 768w,
+  ./../images/SC17/bd-14740-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10366,8 +10430,16 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-14860.jpg" />
- <img src="./../images/SC17/bd-14860.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-14860-1090px.jpg" data-srcset="./../images/SC17/tv-14860-512px.jpg 512w,
+  ./../images/SC17/tv-14860-768px.jpg 768w,
+  ./../images/SC17/tv-14860-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-14860-1090px.jpg" data-srcset="./../images/SC17/bd-14860-512px.jpg 512w,
+  ./../images/SC17/bd-14860-768px.jpg 768w,
+  ./../images/SC17/bd-14860-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10382,15 +10454,31 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-15045.jpg" />
- <img src="./../images/SC17/bd-15045.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-15045-1090px.jpg" data-srcset="./../images/SC17/tv-15045-512px.jpg 512w,
+  ./../images/SC17/tv-15045-768px.jpg 768w,
+  ./../images/SC17/tv-15045-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-15045-1090px.jpg" data-srcset="./../images/SC17/bd-15045-512px.jpg 512w,
+  ./../images/SC17/bd-15045-768px.jpg 768w,
+  ./../images/SC17/bd-15045-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-15165.jpg" />
- <img src="./../images/SC17/bd-15165.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-15165-1090px.jpg" data-srcset="./../images/SC17/tv-15165-512px.jpg 512w,
+  ./../images/SC17/tv-15165-768px.jpg 768w,
+  ./../images/SC17/tv-15165-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-15165-1090px.jpg" data-srcset="./../images/SC17/bd-15165-512px.jpg 512w,
+  ./../images/SC17/bd-15165-768px.jpg 768w,
+  ./../images/SC17/bd-15165-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10400,8 +10488,16 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-15910.jpg" />
- <img src="./../images/SC17/bd-15910.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-15910-1090px.jpg" data-srcset="./../images/SC17/tv-15910-512px.jpg 512w,
+  ./../images/SC17/tv-15910-768px.jpg 768w,
+  ./../images/SC17/tv-15910-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-15910-1090px.jpg" data-srcset="./../images/SC17/bd-15910-512px.jpg 512w,
+  ./../images/SC17/bd-15910-768px.jpg 768w,
+  ./../images/SC17/bd-15910-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10411,8 +10507,16 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-16650.jpg" />
- <img src="./../images/SC17/bd-16650.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-16650-1090px.jpg" data-srcset="./../images/SC17/tv-16650-512px.jpg 512w,
+  ./../images/SC17/tv-16650-768px.jpg 768w,
+  ./../images/SC17/tv-16650-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-16650-1090px.jpg" data-srcset="./../images/SC17/bd-16650-512px.jpg 512w,
+  ./../images/SC17/bd-16650-768px.jpg 768w,
+  ./../images/SC17/bd-16650-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10422,22 +10526,46 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-17755.jpg" />
- <img src="./../images/SC17/bd-17755.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-17755-1090px.jpg" data-srcset="./../images/SC17/tv-17755-512px.jpg 512w,
+  ./../images/SC17/tv-17755-768px.jpg 768w,
+  ./../images/SC17/tv-17755-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-17755-1090px.jpg" data-srcset="./../images/SC17/bd-17755-512px.jpg 512w,
+  ./../images/SC17/bd-17755-768px.jpg 768w,
+  ./../images/SC17/bd-17755-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-17788.jpg" />
- <img src="./../images/SC17/bd-17788.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-17788-1090px.jpg" data-srcset="./../images/SC17/tv-17788-512px.jpg 512w,
+  ./../images/SC17/tv-17788-768px.jpg 768w,
+  ./../images/SC17/tv-17788-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-17788-1090px.jpg" data-srcset="./../images/SC17/bd-17788-512px.jpg 512w,
+  ./../images/SC17/bd-17788-768px.jpg 768w,
+  ./../images/SC17/bd-17788-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-17810.jpg" />
- <img src="./../images/SC17/bd-17810.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-17810-1090px.jpg" data-srcset="./../images/SC17/tv-17810-512px.jpg 512w,
+  ./../images/SC17/tv-17810-768px.jpg 768w,
+  ./../images/SC17/tv-17810-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-17810-1090px.jpg" data-srcset="./../images/SC17/bd-17810-512px.jpg 512w,
+  ./../images/SC17/bd-17810-768px.jpg 768w,
+  ./../images/SC17/bd-17810-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10447,8 +10575,16 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-18190.jpg" />
- <img src="./../images/SC17/bd-18190.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-18190-1090px.jpg" data-srcset="./../images/SC17/tv-18190-512px.jpg 512w,
+  ./../images/SC17/tv-18190-768px.jpg 768w,
+  ./../images/SC17/tv-18190-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-18190-1090px.jpg" data-srcset="./../images/SC17/bd-18190-512px.jpg 512w,
+  ./../images/SC17/bd-18190-768px.jpg 768w,
+  ./../images/SC17/bd-18190-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10477,22 +10613,46 @@
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-21970.jpg" />
- <img src="./../images/SC17/bd-21970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-21970-1090px.jpg" data-srcset="./../images/SC17/tv-21970-512px.jpg 512w,
+  ./../images/SC17/tv-21970-768px.jpg 768w,
+  ./../images/SC17/tv-21970-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-21970-1090px.jpg" data-srcset="./../images/SC17/bd-21970-512px.jpg 512w,
+  ./../images/SC17/bd-21970-768px.jpg 768w,
+  ./../images/SC17/bd-21970-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-21979.jpg" />
- <img src="./../images/SC17/bd-21979.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-21979-1090px.jpg" data-srcset="./../images/SC17/tv-21979-512px.jpg 512w,
+  ./../images/SC17/tv-21979-768px.jpg 768w,
+  ./../images/SC17/tv-21979-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-21979-1090px.jpg" data-srcset="./../images/SC17/bd-21979-512px.jpg 512w,
+  ./../images/SC17/bd-21979-768px.jpg 768w,
+  ./../images/SC17/bd-21979-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-22000.jpg" />
- <img src="./../images/SC17/bd-22000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-22000-1090px.jpg" data-srcset="./../images/SC17/tv-22000-512px.jpg 512w,
+  ./../images/SC17/tv-22000-768px.jpg 768w,
+  ./../images/SC17/tv-22000-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-22000-1090px.jpg" data-srcset="./../images/SC17/bd-22000-512px.jpg 512w,
+  ./../images/SC17/bd-22000-768px.jpg 768w,
+  ./../images/SC17/bd-22000-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10511,8 +10671,16 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-22685.jpg" />
- <img src="./../images/SC17/bd-22685.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-22685-1090px.jpg" data-srcset="./../images/SC17/tv-22685-512px.jpg 512w,
+  ./../images/SC17/tv-22685-768px.jpg 768w,
+  ./../images/SC17/tv-22685-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-22685-1090px.jpg" data-srcset="./../images/SC17/bd-22685-512px.jpg 512w,
+  ./../images/SC17/bd-22685-768px.jpg 768w,
+  ./../images/SC17/bd-22685-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10522,8 +10690,16 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-22690.jpg" />
- <img src="./../images/SC17/bd-22690.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-22690-1090px.jpg" data-srcset="./../images/SC17/tv-22690-512px.jpg 512w,
+  ./../images/SC17/tv-22690-768px.jpg 768w,
+  ./../images/SC17/tv-22690-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-22690-1090px.jpg" data-srcset="./../images/SC17/bd-22690-512px.jpg 512w,
+  ./../images/SC17/bd-22690-768px.jpg 768w,
+  ./../images/SC17/bd-22690-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10533,8 +10709,16 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-25280.jpg" />
- <img src="./../images/SC17/bd-25280.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-25280-1090px.jpg" data-srcset="./../images/SC17/tv-25280-512px.jpg 512w,
+  ./../images/SC17/tv-25280-768px.jpg 768w,
+  ./../images/SC17/tv-25280-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-25280-1090px.jpg" data-srcset="./../images/SC17/bd-25280-512px.jpg 512w,
+  ./../images/SC17/bd-25280-768px.jpg 768w,
+  ./../images/SC17/bd-25280-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10549,8 +10733,16 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-25300.jpg" />
- <img src="./../images/SC17/bd-25300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-25300-1090px.jpg" data-srcset="./../images/SC17/tv-25300-512px.jpg 512w,
+  ./../images/SC17/tv-25300-768px.jpg 768w,
+  ./../images/SC17/tv-25300-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-25300-1090px.jpg" data-srcset="./../images/SC17/bd-25300-512px.jpg 512w,
+  ./../images/SC17/bd-25300-768px.jpg 768w,
+  ./../images/SC17/bd-25300-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10565,8 +10757,16 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-26680.jpg" />
- <img src="./../images/SC17/bd-26680.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-26680-1090px.jpg" data-srcset="./../images/SC17/tv-26680-512px.jpg 512w,
+  ./../images/SC17/tv-26680-768px.jpg 768w,
+  ./../images/SC17/tv-26680-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-26680-1090px.jpg" data-srcset="./../images/SC17/bd-26680-512px.jpg 512w,
+  ./../images/SC17/bd-26680-768px.jpg 768w,
+  ./../images/SC17/bd-26680-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10576,8 +10776,16 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-27600.jpg" />
- <img src="./../images/SC17/bd-27600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-27600-1090px.jpg" data-srcset="./../images/SC17/tv-27600-512px.jpg 512w,
+  ./../images/SC17/tv-27600-768px.jpg 768w,
+  ./../images/SC17/tv-27600-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-27600-1090px.jpg" data-srcset="./../images/SC17/bd-27600-512px.jpg 512w,
+  ./../images/SC17/bd-27600-768px.jpg 768w,
+  ./../images/SC17/bd-27600-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
@@ -10587,43 +10795,91 @@
 </ul>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-28455.jpg" />
- <img src="./../images/SC17/bd-28455.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-28455-1090px.jpg" data-srcset="./../images/SC17/tv-28455-512px.jpg 512w,
+  ./../images/SC17/tv-28455-768px.jpg 768w,
+  ./../images/SC17/tv-28455-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-28455-1090px.jpg" data-srcset="./../images/SC17/bd-28455-512px.jpg 512w,
+  ./../images/SC17/bd-28455-768px.jpg 768w,
+  ./../images/SC17/bd-28455-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-28510.jpg" />
- <img src="./../images/SC17/bd-28510.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-28510-1090px.jpg" data-srcset="./../images/SC17/tv-28510-512px.jpg 512w,
+  ./../images/SC17/tv-28510-768px.jpg 768w,
+  ./../images/SC17/tv-28510-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-28510-1090px.jpg" data-srcset="./../images/SC17/bd-28510-512px.jpg 512w,
+  ./../images/SC17/bd-28510-768px.jpg 768w,
+  ./../images/SC17/bd-28510-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-28560.jpg" />
- <img src="./../images/SC17/bd-28560.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-28560-1090px.jpg" data-srcset="./../images/SC17/tv-28560-512px.jpg 512w,
+  ./../images/SC17/tv-28560-768px.jpg 768w,
+  ./../images/SC17/tv-28560-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-28560-1090px.jpg" data-srcset="./../images/SC17/bd-28560-512px.jpg 512w,
+  ./../images/SC17/bd-28560-768px.jpg 768w,
+  ./../images/SC17/bd-28560-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-28568.jpg" />
- <img src="./../images/SC17/bd-28568.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-28568-1090px.jpg" data-srcset="./../images/SC17/tv-28568-512px.jpg 512w,
+  ./../images/SC17/tv-28568-768px.jpg 768w,
+  ./../images/SC17/tv-28568-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-28568-1090px.jpg" data-srcset="./../images/SC17/bd-28568-512px.jpg 512w,
+  ./../images/SC17/bd-28568-768px.jpg 768w,
+  ./../images/SC17/bd-28568-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-28570.jpg" />
- <img src="./../images/SC17/bd-28570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-28570-1090px.jpg" data-srcset="./../images/SC17/tv-28570-512px.jpg 512w,
+  ./../images/SC17/tv-28570-768px.jpg 768w,
+  ./../images/SC17/tv-28570-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-28570-1090px.jpg" data-srcset="./../images/SC17/bd-28570-512px.jpg 512w,
+  ./../images/SC17/bd-28570-768px.jpg 768w,
+  ./../images/SC17/bd-28570-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/SC17/tv-28600.jpg" />
- <img src="./../images/SC17/bd-28600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/tv-28600-1090px.jpg" data-srcset="./../images/SC17/tv-28600-512px.jpg 512w,
+  ./../images/SC17/tv-28600-768px.jpg 768w,
+  ./../images/SC17/tv-28600-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SC17/bd-28600-1090px.jpg" data-srcset="./../images/SC17/bd-28600-512px.jpg 512w,
+  ./../images/SC17/bd-28600-768px.jpg 768w,
+  ./../images/SC17/bd-28600-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <p><br /></p>
