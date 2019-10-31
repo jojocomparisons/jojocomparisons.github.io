@@ -19,15 +19,43 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - Let's begin this analysis with a rather tame comparison. In this scene, Joseph's eyes have been very slightly retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-00660.jpg" />
- <img src="./../images/BT13/bd-00660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-00660-1090px.jpg"
+  data-srcset="./../images/BT13/tv-00660-512px.jpg 512w,
+  ./../images/BT13/tv-00660-768px.jpg 768w,
+  ./../images/BT13/tv-00660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-00660-1090px.jpg"
+  data-srcset="./../images/BT13/bd-00660-512px.jpg 512w,
+  ./../images/BT13/bd-00660-768px.jpg 768w,
+  ./../images/BT13/bd-00660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-00760.jpg" />
- <img src="./../images/BT13/bd-00760.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-00760-1090px.jpg"
+  data-srcset="./../images/BT13/tv-00760-512px.jpg 512w,
+  ./../images/BT13/tv-00760-768px.jpg 768w,
+  ./../images/BT13/tv-00760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-00760-1090px.jpg"
+  data-srcset="./../images/BT13/bd-00760-512px.jpg 512w,
+  ./../images/BT13/bd-00760-768px.jpg 768w,
+  ./../images/BT13/bd-00760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -35,8 +63,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - And another eye redraw! It seems david production really wasn't sure on how they wanted their characters' eyes to look:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-00890.jpg" />
- <img src="./../images/BT13/bd-00890.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-00890-1090px.jpg"
+  data-srcset="./../images/BT13/tv-00890-512px.jpg 512w,
+  ./../images/BT13/tv-00890-768px.jpg 768w,
+  ./../images/BT13/tv-00890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-00890-1090px.jpg"
+  data-srcset="./../images/BT13/bd-00890-512px.jpg 512w,
+  ./../images/BT13/bd-00890-768px.jpg 768w,
+  ./../images/BT13/bd-00890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -49,15 +91,43 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-00942.jpg" />
- <img src="./../images/BT13/bd-00942.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-00942-1090px.jpg"
+  data-srcset="./../images/BT13/tv-00942-512px.jpg 512w,
+  ./../images/BT13/tv-00942-768px.jpg 768w,
+  ./../images/BT13/tv-00942-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-00942-1090px.jpg"
+  data-srcset="./../images/BT13/bd-00942-512px.jpg 512w,
+  ./../images/BT13/bd-00942-768px.jpg 768w,
+  ./../images/BT13/bd-00942-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-00976.jpg" />
- <img src="./../images/BT13/bd-00976.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-00976-1090px.jpg"
+  data-srcset="./../images/BT13/tv-00976-512px.jpg 512w,
+  ./../images/BT13/tv-00976-768px.jpg 768w,
+  ./../images/BT13/tv-00976-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-00976-1090px.jpg"
+  data-srcset="./../images/BT13/bd-00976-512px.jpg 512w,
+  ./../images/BT13/bd-00976-768px.jpg 768w,
+  ./../images/BT13/bd-00976-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -65,8 +135,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - Santana's eyes are shaded better in the BD version of this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-01000.jpg" />
- <img src="./../images/BT13/bd-01000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-01000-1090px.jpg"
+  data-srcset="./../images/BT13/tv-01000-512px.jpg 512w,
+  ./../images/BT13/tv-01000-768px.jpg 768w,
+  ./../images/BT13/tv-01000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-01000-1090px.jpg"
+  data-srcset="./../images/BT13/bd-01000-512px.jpg 512w,
+  ./../images/BT13/bd-01000-768px.jpg 768w,
+  ./../images/BT13/bd-01000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -74,22 +158,64 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - Have another three wacky redrawn poses from good ol' Joseph:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-01100.jpg" />
- <img src="./../images/BT13/bd-01100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-01100-1090px.jpg"
+  data-srcset="./../images/BT13/tv-01100-512px.jpg 512w,
+  ./../images/BT13/tv-01100-768px.jpg 768w,
+  ./../images/BT13/tv-01100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-01100-1090px.jpg"
+  data-srcset="./../images/BT13/bd-01100-512px.jpg 512w,
+  ./../images/BT13/bd-01100-768px.jpg 768w,
+  ./../images/BT13/bd-01100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-01150.jpg" />
- <img src="./../images/BT13/bd-01150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-01150-1090px.jpg"
+  data-srcset="./../images/BT13/tv-01150-512px.jpg 512w,
+  ./../images/BT13/tv-01150-768px.jpg 768w,
+  ./../images/BT13/tv-01150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-01150-1090px.jpg"
+  data-srcset="./../images/BT13/bd-01150-512px.jpg 512w,
+  ./../images/BT13/bd-01150-768px.jpg 768w,
+  ./../images/BT13/bd-01150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-01220.jpg" />
- <img src="./../images/BT13/bd-01220.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-01220-1090px.jpg"
+  data-srcset="./../images/BT13/tv-01220-512px.jpg 512w,
+  ./../images/BT13/tv-01220-768px.jpg 768w,
+  ./../images/BT13/tv-01220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-01220-1090px.jpg"
+  data-srcset="./../images/BT13/bd-01220-512px.jpg 512w,
+  ./../images/BT13/bd-01220-768px.jpg 768w,
+  ./../images/BT13/bd-01220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -97,8 +223,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - In this other scene here, the overall shading is slightly different, Joseph's final expression has been retouched and the bit where he does the old Hol-Horse-and-Polnareff act has slightly different timing:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-04350.jpg" />
- <img src="./../images/BT13/bd-04350.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-04350-1090px.jpg"
+  data-srcset="./../images/BT13/tv-04350-512px.jpg 512w,
+  ./../images/BT13/tv-04350-768px.jpg 768w,
+  ./../images/BT13/tv-04350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-04350-1090px.jpg"
+  data-srcset="./../images/BT13/bd-04350-512px.jpg 512w,
+  ./../images/BT13/bd-04350-768px.jpg 768w,
+  ./../images/BT13/bd-04350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -109,8 +249,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-04550.jpg" />
- <img src="./../images/BT13/bd-04550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-04550-1090px.jpg"
+  data-srcset="./../images/BT13/tv-04550-512px.jpg 512w,
+  ./../images/BT13/tv-04550-768px.jpg 768w,
+  ./../images/BT13/tv-04550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-04550-1090px.jpg"
+  data-srcset="./../images/BT13/bd-04550-512px.jpg 512w,
+  ./../images/BT13/bd-04550-768px.jpg 768w,
+  ./../images/BT13/bd-04550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -125,8 +279,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - Santana, Stroheim and Speedwagon's faces have all been redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-05340.jpg" />
- <img src="./../images/BT13/bd-05340.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-05340-1090px.jpg"
+  data-srcset="./../images/BT13/tv-05340-512px.jpg 512w,
+  ./../images/BT13/tv-05340-768px.jpg 768w,
+  ./../images/BT13/tv-05340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-05340-1090px.jpg"
+  data-srcset="./../images/BT13/bd-05340-512px.jpg 512w,
+  ./../images/BT13/bd-05340-768px.jpg 768w,
+  ./../images/BT13/bd-05340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -134,8 +302,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - This shot of Santana has been retouched in several ways. Most notably the shading and positioning of the eyes (and eyebrows), some highlights in the hair, the movement of his pupil and the timing with which his arms move. Joseph's helmet (which in the TV version is behind his head) has also been placed *in front* of it, in the BDs. Have a bunch of image comparisons and a video:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-06720.jpg" />
- <img src="./../images/BT13/bd-06720.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-06720-1090px.jpg"
+  data-srcset="./../images/BT13/tv-06720-512px.jpg 512w,
+  ./../images/BT13/tv-06720-768px.jpg 768w,
+  ./../images/BT13/tv-06720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-06720-1090px.jpg"
+  data-srcset="./../images/BT13/bd-06720-512px.jpg 512w,
+  ./../images/BT13/bd-06720-768px.jpg 768w,
+  ./../images/BT13/bd-06720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -146,22 +328,64 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-06792.jpg" />
- <img src="./../images/BT13/bd-06792.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-06792-1090px.jpg"
+  data-srcset="./../images/BT13/tv-06792-512px.jpg 512w,
+  ./../images/BT13/tv-06792-768px.jpg 768w,
+  ./../images/BT13/tv-06792-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-06792-1090px.jpg"
+  data-srcset="./../images/BT13/bd-06792-512px.jpg 512w,
+  ./../images/BT13/bd-06792-768px.jpg 768w,
+  ./../images/BT13/bd-06792-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-06800.jpg" />
- <img src="./../images/BT13/bd-06800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-06800-1090px.jpg"
+  data-srcset="./../images/BT13/tv-06800-512px.jpg 512w,
+  ./../images/BT13/tv-06800-768px.jpg 768w,
+  ./../images/BT13/tv-06800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-06800-1090px.jpg"
+  data-srcset="./../images/BT13/bd-06800-512px.jpg 512w,
+  ./../images/BT13/bd-06800-768px.jpg 768w,
+  ./../images/BT13/bd-06800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-06840.jpg" />
- <img src="./../images/BT13/bd-06840.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-06840-1090px.jpg"
+  data-srcset="./../images/BT13/tv-06840-512px.jpg 512w,
+  ./../images/BT13/tv-06840-768px.jpg 768w,
+  ./../images/BT13/tv-06840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-06840-1090px.jpg"
+  data-srcset="./../images/BT13/bd-06840-512px.jpg 512w,
+  ./../images/BT13/bd-06840-768px.jpg 768w,
+  ./../images/BT13/bd-06840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -183,8 +407,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - In this shot, both Joseph and Santana's bodies have been heavily redrawn and re-shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-07290.jpg" />
- <img src="./../images/BT13/bd-07290.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-07290-1090px.jpg"
+  data-srcset="./../images/BT13/tv-07290-512px.jpg 512w,
+  ./../images/BT13/tv-07290-768px.jpg 768w,
+  ./../images/BT13/tv-07290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-07290-1090px.jpg"
+  data-srcset="./../images/BT13/bd-07290-512px.jpg 512w,
+  ./../images/BT13/bd-07290-768px.jpg 768w,
+  ./../images/BT13/bd-07290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -192,8 +430,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - And here's a brighter (and very brief) transition; so brief, in fact, that it's only two frames long. You'll have to make do with a simple image comparison for this:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-07546.jpg" />
- <img src="./../images/BT13/bd-07546.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-07546-1090px.jpg"
+  data-srcset="./../images/BT13/tv-07546-512px.jpg 512w,
+  ./../images/BT13/tv-07546-768px.jpg 768w,
+  ./../images/BT13/tv-07546-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-07546-1090px.jpg"
+  data-srcset="./../images/BT13/bd-07546-512px.jpg 512w,
+  ./../images/BT13/bd-07546-768px.jpg 768w,
+  ./../images/BT13/bd-07546-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -213,29 +465,85 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-09540.jpg" />
- <img src="./../images/BT13/bd-09550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-09540-1090px.jpg"
+  data-srcset="./../images/BT13/tv-09540-512px.jpg 512w,
+  ./../images/BT13/tv-09540-768px.jpg 768w,
+  ./../images/BT13/tv-09540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-09550-1090px.jpg"
+  data-srcset="./../images/BT13/bd-09550-512px.jpg 512w,
+  ./../images/BT13/bd-09550-768px.jpg 768w,
+  ./../images/BT13/bd-09550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-09544.jpg" />
- <img src="./../images/BT13/bd-09554.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-09544-1090px.jpg"
+  data-srcset="./../images/BT13/tv-09544-512px.jpg 512w,
+  ./../images/BT13/tv-09544-768px.jpg 768w,
+  ./../images/BT13/tv-09544-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-09554-1090px.jpg"
+  data-srcset="./../images/BT13/bd-09554-512px.jpg 512w,
+  ./../images/BT13/bd-09554-768px.jpg 768w,
+  ./../images/BT13/bd-09554-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-09548.jpg" />
- <img src="./../images/BT13/bd-09558.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-09548-1090px.jpg"
+  data-srcset="./../images/BT13/tv-09548-512px.jpg 512w,
+  ./../images/BT13/tv-09548-768px.jpg 768w,
+  ./../images/BT13/tv-09548-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-09558-1090px.jpg"
+  data-srcset="./../images/BT13/bd-09558-512px.jpg 512w,
+  ./../images/BT13/bd-09558-768px.jpg 768w,
+  ./../images/BT13/bd-09558-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-09565.jpg" />
- <img src="./../images/BT13/bd-09575.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-09565-1090px.jpg"
+  data-srcset="./../images/BT13/tv-09565-512px.jpg 512w,
+  ./../images/BT13/tv-09565-768px.jpg 768w,
+  ./../images/BT13/tv-09565-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-09575-1090px.jpg"
+  data-srcset="./../images/BT13/bd-09575-512px.jpg 512w,
+  ./../images/BT13/bd-09575-768px.jpg 768w,
+  ./../images/BT13/bd-09575-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -243,15 +551,43 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - Here, most frames have been retouched; for some reason, the twirling knife has been made to... twirl differently. The overall timing is also different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-12308.jpg" />
- <img src="./../images/BT13/bd-12308.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-12308-1090px.jpg"
+  data-srcset="./../images/BT13/tv-12308-512px.jpg 512w,
+  ./../images/BT13/tv-12308-768px.jpg 768w,
+  ./../images/BT13/tv-12308-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-12308-1090px.jpg"
+  data-srcset="./../images/BT13/bd-12308-512px.jpg 512w,
+  ./../images/BT13/bd-12308-768px.jpg 768w,
+  ./../images/BT13/bd-12308-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-12350.jpg" />
- <img src="./../images/BT13/bd-12350.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-12350-1090px.jpg"
+  data-srcset="./../images/BT13/tv-12350-512px.jpg 512w,
+  ./../images/BT13/tv-12350-768px.jpg 768w,
+  ./../images/BT13/tv-12350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-12350-1090px.jpg"
+  data-srcset="./../images/BT13/bd-12350-512px.jpg 512w,
+  ./../images/BT13/bd-12350-768px.jpg 768w,
+  ./../images/BT13/bd-12350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -264,8 +600,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - Santana has been redrawn and has a mouth that makes sense here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-12440.jpg" />
- <img src="./../images/BT13/bd-12440.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-12440-1090px.jpg"
+  data-srcset="./../images/BT13/tv-12440-512px.jpg 512w,
+  ./../images/BT13/tv-12440-768px.jpg 768w,
+  ./../images/BT13/tv-12440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-12440-1090px.jpg"
+  data-srcset="./../images/BT13/bd-12440-512px.jpg 512w,
+  ./../images/BT13/bd-12440-768px.jpg 768w,
+  ./../images/BT13/bd-12440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -273,22 +623,64 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - Have a bunch of redrawn frames of Joseph pulling one of the weirdest attacks of Part 2:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-12600.jpg" />
- <img src="./../images/BT13/bd-12600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-12600-1090px.jpg"
+  data-srcset="./../images/BT13/tv-12600-512px.jpg 512w,
+  ./../images/BT13/tv-12600-768px.jpg 768w,
+  ./../images/BT13/tv-12600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-12600-1090px.jpg"
+  data-srcset="./../images/BT13/bd-12600-512px.jpg 512w,
+  ./../images/BT13/bd-12600-768px.jpg 768w,
+  ./../images/BT13/bd-12600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-12640.jpg" />
- <img src="./../images/BT13/bd-12640.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-12640-1090px.jpg"
+  data-srcset="./../images/BT13/tv-12640-512px.jpg 512w,
+  ./../images/BT13/tv-12640-768px.jpg 768w,
+  ./../images/BT13/tv-12640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-12640-1090px.jpg"
+  data-srcset="./../images/BT13/bd-12640-512px.jpg 512w,
+  ./../images/BT13/bd-12640-768px.jpg 768w,
+  ./../images/BT13/bd-12640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-12664.jpg" />
- <img src="./../images/BT13/bd-12664.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-12664-1090px.jpg"
+  data-srcset="./../images/BT13/tv-12664-512px.jpg 512w,
+  ./../images/BT13/tv-12664-768px.jpg 768w,
+  ./../images/BT13/tv-12664-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-12664-1090px.jpg"
+  data-srcset="./../images/BT13/bd-12664-512px.jpg 512w,
+  ./../images/BT13/bd-12664-768px.jpg 768w,
+  ./../images/BT13/bd-12664-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -296,8 +688,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - "This is not my fetish":
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-12721.jpg" />
- <img src="./../images/BT13/bd-12721.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-12721-1090px.jpg"
+  data-srcset="./../images/BT13/tv-12721-512px.jpg 512w,
+  ./../images/BT13/tv-12721-768px.jpg 768w,
+  ./../images/BT13/tv-12721-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-12721-1090px.jpg"
+  data-srcset="./../images/BT13/bd-12721-512px.jpg 512w,
+  ./../images/BT13/bd-12721-768px.jpg 768w,
+  ./../images/BT13/bd-12721-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -312,8 +718,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - And the consequent mid-episode freeze-frame is also different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-14950.jpg" />
- <img src="./../images/BT13/bd-14950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-14950-1090px.jpg"
+  data-srcset="./../images/BT13/tv-14950-512px.jpg 512w,
+  ./../images/BT13/tv-14950-768px.jpg 768w,
+  ./../images/BT13/tv-14950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-14950-1090px.jpg"
+  data-srcset="./../images/BT13/bd-14950-512px.jpg 512w,
+  ./../images/BT13/bd-14950-768px.jpg 768w,
+  ./../images/BT13/bd-14950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -321,8 +741,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - This shot is uncensored as well, and the hamon is brighter (and if you look closely enough, you'll also see some drops of blood):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-15000.jpg" />
- <img src="./../images/BT13/bd-15000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-15000-1090px.jpg"
+  data-srcset="./../images/BT13/tv-15000-512px.jpg 512w,
+  ./../images/BT13/tv-15000-768px.jpg 768w,
+  ./../images/BT13/tv-15000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-15000-1090px.jpg"
+  data-srcset="./../images/BT13/bd-15000-512px.jpg 512w,
+  ./../images/BT13/bd-15000-768px.jpg 768w,
+  ./../images/BT13/bd-15000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -342,22 +776,64 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-17764.jpg" />
- <img src="./../images/BT13/bd-17764.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-17764-1090px.jpg"
+  data-srcset="./../images/BT13/tv-17764-512px.jpg 512w,
+  ./../images/BT13/tv-17764-768px.jpg 768w,
+  ./../images/BT13/tv-17764-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-17764-1090px.jpg"
+  data-srcset="./../images/BT13/bd-17764-512px.jpg 512w,
+  ./../images/BT13/bd-17764-768px.jpg 768w,
+  ./../images/BT13/bd-17764-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-17780.jpg" />
- <img src="./../images/BT13/bd-17780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-17780-1090px.jpg"
+  data-srcset="./../images/BT13/tv-17780-512px.jpg 512w,
+  ./../images/BT13/tv-17780-768px.jpg 768w,
+  ./../images/BT13/tv-17780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-17780-1090px.jpg"
+  data-srcset="./../images/BT13/bd-17780-512px.jpg 512w,
+  ./../images/BT13/bd-17780-768px.jpg 768w,
+  ./../images/BT13/bd-17780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-17900.jpg" />
- <img src="./../images/BT13/bd-17900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-17900-1090px.jpg"
+  data-srcset="./../images/BT13/tv-17900-512px.jpg 512w,
+  ./../images/BT13/tv-17900-768px.jpg 768w,
+  ./../images/BT13/tv-17900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-17900-1090px.jpg"
+  data-srcset="./../images/BT13/bd-17900-512px.jpg 512w,
+  ./../images/BT13/bd-17900-768px.jpg 768w,
+  ./../images/BT13/bd-17900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -365,8 +841,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - The BD Joseph is slightly more enraged in this shot here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-22180.jpg" />
- <img src="./../images/BT13/bd-22180.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-22180-1090px.jpg"
+  data-srcset="./../images/BT13/tv-22180-512px.jpg 512w,
+  ./../images/BT13/tv-22180-768px.jpg 768w,
+  ./../images/BT13/tv-22180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-22180-1090px.jpg"
+  data-srcset="./../images/BT13/bd-22180-512px.jpg 512w,
+  ./../images/BT13/bd-22180-768px.jpg 768w,
+  ./../images/BT13/bd-22180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -374,8 +864,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - And he's been graced with a thicker outline here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-22330.jpg" />
- <img src="./../images/BT13/bd-22329.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-22330-1090px.jpg"
+  data-srcset="./../images/BT13/tv-22330-512px.jpg 512w,
+  ./../images/BT13/tv-22330-768px.jpg 768w,
+  ./../images/BT13/tv-22330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-22329-1090px.jpg"
+  data-srcset="./../images/BT13/bd-22329-512px.jpg 512w,
+  ./../images/BT13/bd-22329-768px.jpg 768w,
+  ./../images/BT13/bd-22329-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -397,8 +901,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - This shot here is more zoomed in and redrawn in the BDs, but to be honest... I'm not sure which version is better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-23480.jpg" />
- <img src="./../images/BT13/bd-23480.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-23480-1090px.jpg"
+  data-srcset="./../images/BT13/tv-23480-512px.jpg 512w,
+  ./../images/BT13/tv-23480-768px.jpg 768w,
+  ./../images/BT13/tv-23480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-23480-1090px.jpg"
+  data-srcset="./../images/BT13/bd-23480-512px.jpg 512w,
+  ./../images/BT13/bd-23480-768px.jpg 768w,
+  ./../images/BT13/bd-23480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -413,8 +931,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - Another uncensored leg stump for your perusal:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-23740.jpg" />
- <img src="./../images/BT13/bd-23740.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-23740-1090px.jpg"
+  data-srcset="./../images/BT13/tv-23740-512px.jpg 512w,
+  ./../images/BT13/tv-23740-768px.jpg 768w,
+  ./../images/BT13/tv-23740-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-23740-1090px.jpg"
+  data-srcset="./../images/BT13/bd-23740-512px.jpg 512w,
+  ./../images/BT13/bd-23740-768px.jpg 768w,
+  ./../images/BT13/bd-23740-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -422,22 +954,64 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - And three redrawn Joseph faces! The first one is really minor, but the other two are a drastic improvement:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-23800.jpg" />
- <img src="./../images/BT13/bd-23800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-23800-1090px.jpg"
+  data-srcset="./../images/BT13/tv-23800-512px.jpg 512w,
+  ./../images/BT13/tv-23800-768px.jpg 768w,
+  ./../images/BT13/tv-23800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-23800-1090px.jpg"
+  data-srcset="./../images/BT13/bd-23800-512px.jpg 512w,
+  ./../images/BT13/bd-23800-768px.jpg 768w,
+  ./../images/BT13/bd-23800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-23870.jpg" />
- <img src="./../images/BT13/bd-23870.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-23870-1090px.jpg"
+  data-srcset="./../images/BT13/tv-23870-512px.jpg 512w,
+  ./../images/BT13/tv-23870-768px.jpg 768w,
+  ./../images/BT13/tv-23870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-23870-1090px.jpg"
+  data-srcset="./../images/BT13/bd-23870-512px.jpg 512w,
+  ./../images/BT13/bd-23870-768px.jpg 768w,
+  ./../images/BT13/bd-23870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-23930.jpg" />
- <img src="./../images/BT13/bd-23930.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-23930-1090px.jpg"
+  data-srcset="./../images/BT13/tv-23930-512px.jpg 512w,
+  ./../images/BT13/tv-23930-768px.jpg 768w,
+  ./../images/BT13/tv-23930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-23930-1090px.jpg"
+  data-srcset="./../images/BT13/bd-23930-512px.jpg 512w,
+  ./../images/BT13/bd-23930-768px.jpg 768w,
+  ./../images/BT13/bd-23930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -452,8 +1026,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - And here, we have a much better face for Stroheim, an uncensored leg stump and the usual brighter shading that accompanies uncensored scenes:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-24425.jpg" />
- <img src="./../images/BT13/bd-24425.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-24425-1090px.jpg"
+  data-srcset="./../images/BT13/tv-24425-512px.jpg 512w,
+  ./../images/BT13/tv-24425-768px.jpg 768w,
+  ./../images/BT13/tv-24425-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-24425-1090px.jpg"
+  data-srcset="./../images/BT13/bd-24425-512px.jpg 512w,
+  ./../images/BT13/bd-24425-768px.jpg 768w,
+  ./../images/BT13/bd-24425-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -461,22 +1049,64 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - Joseph is looking HD as heck here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-24680.jpg" />
- <img src="./../images/BT13/bd-24680.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-24680-1090px.jpg"
+  data-srcset="./../images/BT13/tv-24680-512px.jpg 512w,
+  ./../images/BT13/tv-24680-768px.jpg 768w,
+  ./../images/BT13/tv-24680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-24680-1090px.jpg"
+  data-srcset="./../images/BT13/bd-24680-512px.jpg 512w,
+  ./../images/BT13/bd-24680-768px.jpg 768w,
+  ./../images/BT13/bd-24680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-24773.jpg" />
- <img src="./../images/BT13/bd-24773.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-24773-1090px.jpg"
+  data-srcset="./../images/BT13/tv-24773-512px.jpg 512w,
+  ./../images/BT13/tv-24773-768px.jpg 768w,
+  ./../images/BT13/tv-24773-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-24773-1090px.jpg"
+  data-srcset="./../images/BT13/bd-24773-512px.jpg 512w,
+  ./../images/BT13/bd-24773-768px.jpg 768w,
+  ./../images/BT13/bd-24773-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-24790.jpg" />
- <img src="./../images/BT13/bd-24790.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-24790-1090px.jpg"
+  data-srcset="./../images/BT13/tv-24790-512px.jpg 512w,
+  ./../images/BT13/tv-24790-768px.jpg 768w,
+  ./../images/BT13/tv-24790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-24790-1090px.jpg"
+  data-srcset="./../images/BT13/bd-24790-512px.jpg 512w,
+  ./../images/BT13/bd-24790-768px.jpg 768w,
+  ./../images/BT13/bd-24790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -484,8 +1114,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - Here, Stroheim's had a few bits redrawn. His mouth, his nose, his ear and his eye have all received a makeover:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-24860.jpg" />
- <img src="./../images/BT13/bd-24860.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-24860-1090px.jpg"
+  data-srcset="./../images/BT13/tv-24860-512px.jpg 512w,
+  ./../images/BT13/tv-24860-768px.jpg 768w,
+  ./../images/BT13/tv-24860-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-24860-1090px.jpg"
+  data-srcset="./../images/BT13/bd-24860-512px.jpg 512w,
+  ./../images/BT13/bd-24860-768px.jpg 768w,
+  ./../images/BT13/bd-24860-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -493,8 +1137,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - And here, he's got slightly better eyes:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-25300.jpg" />
- <img src="./../images/BT13/bd-25300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-25300-1090px.jpg"
+  data-srcset="./../images/BT13/tv-25300-512px.jpg 512w,
+  ./../images/BT13/tv-25300-768px.jpg 768w,
+  ./../images/BT13/tv-25300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-25300-1090px.jpg"
+  data-srcset="./../images/BT13/bd-25300-512px.jpg 512w,
+  ./../images/BT13/bd-25300-768px.jpg 768w,
+  ./../images/BT13/bd-25300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -502,8 +1160,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - A completely redrawn Stroheim appears (the background is also different):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-25400.jpg" />
- <img src="./../images/BT13/bd-25400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-25400-1090px.jpg"
+  data-srcset="./../images/BT13/tv-25400-512px.jpg 512w,
+  ./../images/BT13/tv-25400-768px.jpg 768w,
+  ./../images/BT13/tv-25400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-25400-1090px.jpg"
+  data-srcset="./../images/BT13/bd-25400-512px.jpg 512w,
+  ./../images/BT13/bd-25400-768px.jpg 768w,
+  ./../images/BT13/bd-25400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -511,8 +1183,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - Here, some of the outlines on Stroheim are thicker, and his hand is slightly closer to the camera:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-25630.jpg" />
- <img src="./../images/BT13/bd-25630.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-25630-1090px.jpg"
+  data-srcset="./../images/BT13/tv-25630-512px.jpg 512w,
+  ./../images/BT13/tv-25630-768px.jpg 768w,
+  ./../images/BT13/tv-25630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-25630-1090px.jpg"
+  data-srcset="./../images/BT13/bd-25630-512px.jpg 512w,
+  ./../images/BT13/bd-25630-768px.jpg 768w,
+  ./../images/BT13/bd-25630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -520,8 +1206,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - "But enough about me! Let's kill you!":
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-26000.jpg" />
- <img src="./../images/BT13/bd-26000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-26000-1090px.jpg"
+  data-srcset="./../images/BT13/tv-26000-512px.jpg 512w,
+  ./../images/BT13/tv-26000-768px.jpg 768w,
+  ./../images/BT13/tv-26000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-26000-1090px.jpg"
+  data-srcset="./../images/BT13/bd-26000-512px.jpg 512w,
+  ./../images/BT13/bd-26000-768px.jpg 768w,
+  ./../images/BT13/bd-26000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -529,8 +1229,22 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - Here, Stroheim's been mostly redrawn and the scratch texture overlay is less visible:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-27425.jpg" />
- <img src="./../images/BT13/bd-27425.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-27425-1090px.jpg"
+  data-srcset="./../images/BT13/tv-27425-512px.jpg 512w,
+  ./../images/BT13/tv-27425-768px.jpg 768w,
+  ./../images/BT13/tv-27425-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-27425-1090px.jpg"
+  data-srcset="./../images/BT13/bd-27425-512px.jpg 512w,
+  ./../images/BT13/bd-27425-768px.jpg 768w,
+  ./../images/BT13/bd-27425-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -538,15 +1252,43 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - In this shot, both Stroheim and Joseph ('s leg) have been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-28500.jpg" />
- <img src="./../images/BT13/bd-28500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-28500-1090px.jpg"
+  data-srcset="./../images/BT13/tv-28500-512px.jpg 512w,
+  ./../images/BT13/tv-28500-768px.jpg 768w,
+  ./../images/BT13/tv-28500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-28500-1090px.jpg"
+  data-srcset="./../images/BT13/bd-28500-512px.jpg 512w,
+  ./../images/BT13/bd-28500-768px.jpg 768w,
+  ./../images/BT13/bd-28500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-28600.jpg" />
- <img src="./../images/BT13/bd-28600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-28600-1090px.jpg"
+  data-srcset="./../images/BT13/tv-28600-512px.jpg 512w,
+  ./../images/BT13/tv-28600-768px.jpg 768w,
+  ./../images/BT13/tv-28600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-28600-1090px.jpg"
+  data-srcset="./../images/BT13/bd-28600-512px.jpg 512w,
+  ./../images/BT13/bd-28600-768px.jpg 768w,
+  ./../images/BT13/bd-28600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -554,22 +1296,64 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 - And we end this comparison on a high note, with three shots of Joseph's bara legs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-30720.jpg" />
- <img src="./../images/BT13/bd-30720.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-30720-1090px.jpg"
+  data-srcset="./../images/BT13/tv-30720-512px.jpg 512w,
+  ./../images/BT13/tv-30720-768px.jpg 768w,
+  ./../images/BT13/tv-30720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-30720-1090px.jpg"
+  data-srcset="./../images/BT13/bd-30720-512px.jpg 512w,
+  ./../images/BT13/bd-30720-768px.jpg 768w,
+  ./../images/BT13/bd-30720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-30740.jpg" />
- <img src="./../images/BT13/bd-30740.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-30740-1090px.jpg"
+  data-srcset="./../images/BT13/tv-30740-512px.jpg 512w,
+  ./../images/BT13/tv-30740-768px.jpg 768w,
+  ./../images/BT13/tv-30740-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-30740-1090px.jpg"
+  data-srcset="./../images/BT13/bd-30740-512px.jpg 512w,
+  ./../images/BT13/bd-30740-768px.jpg 768w,
+  ./../images/BT13/bd-30740-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT13/tv-30820.jpg" />
- <img src="./../images/BT13/bd-30820.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/tv-30820-1090px.jpg"
+  data-srcset="./../images/BT13/tv-30820-512px.jpg 512w,
+  ./../images/BT13/tv-30820-768px.jpg 768w,
+  ./../images/BT13/tv-30820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT13/bd-30820-1090px.jpg"
+  data-srcset="./../images/BT13/bd-30820-512px.jpg 512w,
+  ./../images/BT13/bd-30820-768px.jpg 768w,
+  ./../images/BT13/bd-30820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

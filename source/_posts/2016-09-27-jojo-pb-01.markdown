@@ -19,8 +19,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Let's cut to the chase and begin with a rather crude image! This dude has definitely met with a terrible fate:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-00300.jpg" />
- <img src="./../images/PB01/bd-00300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-00300-1090px.jpg"
+  data-srcset="./../images/PB01/tv-00300-512px.jpg 512w,
+  ./../images/PB01/tv-00300-768px.jpg 768w,
+  ./../images/PB01/tv-00300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-00300-1090px.jpg"
+  data-srcset="./../images/PB01/bd-00300-512px.jpg 512w,
+  ./../images/PB01/bd-00300-768px.jpg 768w,
+  ./../images/PB01/bd-00300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -28,8 +42,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - We're given a more general look of the wreck in this shot, which also has a slightly different shading for George, Dario and (presumably?) Madame Brando's clothes:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-00415.jpg" />
- <img src="./../images/PB01/bd-00415.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-00415-1090px.jpg"
+  data-srcset="./../images/PB01/tv-00415-512px.jpg 512w,
+  ./../images/PB01/tv-00415-768px.jpg 768w,
+  ./../images/PB01/tv-00415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-00415-1090px.jpg"
+  data-srcset="./../images/PB01/bd-00415-512px.jpg 512w,
+  ./../images/PB01/bd-00415-768px.jpg 768w,
+  ./../images/PB01/bd-00415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,15 +65,43 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - And, once again, this poor dude (how the hell did he even manage to end up like that anyway?) has been uncensored and moved a bit to the right; moreover, he's also been slightly retouched and all the characters in this scene have been reshaded a little bit (thanks, <a href="https://disqus.com/home/discussion/jojocomparisons-github/phantom_blood_01_dio_the_invader_jojos_bizarre_comparisons_60/?utm_source=reply&utm_medium=email&utm_content=comment_date#comment-4323783875">Ziqwerkel Sharda</a>!):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-02800.jpg" />
- <img src="./../images/PB01/bd-02800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-02800-1090px.jpg"
+  data-srcset="./../images/PB01/tv-02800-512px.jpg 512w,
+  ./../images/PB01/tv-02800-768px.jpg 768w,
+  ./../images/PB01/tv-02800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-02800-1090px.jpg"
+  data-srcset="./../images/PB01/bd-02800-512px.jpg 512w,
+  ./../images/PB01/bd-02800-768px.jpg 768w,
+  ./../images/PB01/bd-02800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-02890.jpg" />
- <img src="./../images/PB01/bd-02890.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-02890-1090px.jpg"
+  data-srcset="./../images/PB01/tv-02890-512px.jpg 512w,
+  ./../images/PB01/tv-02890-768px.jpg 768w,
+  ./../images/PB01/tv-02890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-02890-1090px.jpg"
+  data-srcset="./../images/PB01/bd-02890-512px.jpg 512w,
+  ./../images/PB01/bd-02890-768px.jpg 768w,
+  ./../images/PB01/bd-02890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -53,8 +109,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - In the opening credits, ディレクター ("Director") has been slightly moved to the right:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-08680.jpg" />
- <img src="./../images/PB01/bd-08680.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-08680-1090px.jpg"
+  data-srcset="./../images/PB01/tv-08680-512px.jpg 512w,
+  ./../images/PB01/tv-08680-768px.jpg 768w,
+  ./../images/PB01/tv-08680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-08680-1090px.jpg"
+  data-srcset="./../images/PB01/bd-08680-512px.jpg 512w,
+  ./../images/PB01/bd-08680-768px.jpg 768w,
+  ./../images/PB01/bd-08680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -62,8 +132,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - ...And the secon kanji in 製作 ("Production") has instead been slightly moved to the left (look, I know nobody cares about these things, but I've gotta include everything for completeness' sake!):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-08773.jpg" />
- <img src="./../images/PB01/bd-08773.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-08773-1090px.jpg"
+  data-srcset="./../images/PB01/tv-08773-512px.jpg 512w,
+  ./../images/PB01/tv-08773-768px.jpg 768w,
+  ./../images/PB01/tv-08773-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-08773-1090px.jpg"
+  data-srcset="./../images/PB01/bd-08773-512px.jpg 512w,
+  ./../images/PB01/bd-08773-768px.jpg 768w,
+  ./../images/PB01/bd-08773-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -71,15 +155,43 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Now, finally, we have some serious differences! Jonathan and Dio have been completely redrawn in most scenes. Here is the first of them. The clouds in the background have also been moved slightly upwards:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-09605.jpg" />
- <img src="./../images/PB01/bd-09605.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-09605-1090px.jpg"
+  data-srcset="./../images/PB01/tv-09605-512px.jpg 512w,
+  ./../images/PB01/tv-09605-768px.jpg 768w,
+  ./../images/PB01/tv-09605-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-09605-1090px.jpg"
+  data-srcset="./../images/PB01/bd-09605-512px.jpg 512w,
+  ./../images/PB01/bd-09605-768px.jpg 768w,
+  ./../images/PB01/bd-09605-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-10076.jpg" />
- <img src="./../images/PB01/bd-10076.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-10076-1090px.jpg"
+  data-srcset="./../images/PB01/tv-10076-512px.jpg 512w,
+  ./../images/PB01/tv-10076-768px.jpg 768w,
+  ./../images/PB01/tv-10076-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-10076-1090px.jpg"
+  data-srcset="./../images/PB01/bd-10076-512px.jpg 512w,
+  ./../images/PB01/bd-10076-768px.jpg 768w,
+  ./../images/PB01/bd-10076-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -87,8 +199,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Dio joins our little redrawing party and shows up in all his BD glory:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-10245.jpg" />
- <img src="./../images/PB01/bd-10245.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-10245-1090px.jpg"
+  data-srcset="./../images/PB01/tv-10245-512px.jpg 512w,
+  ./../images/PB01/tv-10245-768px.jpg 768w,
+  ./../images/PB01/tv-10245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-10245-1090px.jpg"
+  data-srcset="./../images/PB01/bd-10245-512px.jpg 512w,
+  ./../images/PB01/bd-10245-768px.jpg 768w,
+  ./../images/PB01/bd-10245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -96,8 +222,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Jonathan has been gifted with a more intelligent expression:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-10390.jpg" />
- <img src="./../images/PB01/bd-10390.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-10390-1090px.jpg"
+  data-srcset="./../images/PB01/tv-10390-512px.jpg 512w,
+  ./../images/PB01/tv-10390-768px.jpg 768w,
+  ./../images/PB01/tv-10390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-10390-1090px.jpg"
+  data-srcset="./../images/PB01/bd-10390-512px.jpg 512w,
+  ./../images/PB01/bd-10390-768px.jpg 768w,
+  ./../images/PB01/bd-10390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -105,8 +245,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Here, both Jonathan and Danny's face have been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-10566.jpg" />
- <img src="./../images/PB01/bd-10566.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-10566-1090px.jpg"
+  data-srcset="./../images/PB01/tv-10566-512px.jpg 512w,
+  ./../images/PB01/tv-10566-768px.jpg 768w,
+  ./../images/PB01/tv-10566-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-10566-1090px.jpg"
+  data-srcset="./../images/PB01/bd-10566-512px.jpg 512w,
+  ./../images/PB01/bd-10566-768px.jpg 768w,
+  ./../images/PB01/bd-10566-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -114,15 +268,43 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Pretty much everything except the background has been polished here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-11137.jpg" />
- <img src="./../images/PB01/bd-11137.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-11137-1090px.jpg"
+  data-srcset="./../images/PB01/tv-11137-512px.jpg 512w,
+  ./../images/PB01/tv-11137-768px.jpg 768w,
+  ./../images/PB01/tv-11137-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-11137-1090px.jpg"
+  data-srcset="./../images/PB01/bd-11137-512px.jpg 512w,
+  ./../images/PB01/bd-11137-768px.jpg 768w,
+  ./../images/PB01/bd-11137-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-11257.jpg" />
- <img src="./../images/PB01/bd-11257.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-11257-1090px.jpg"
+  data-srcset="./../images/PB01/tv-11257-512px.jpg 512w,
+  ./../images/PB01/tv-11257-768px.jpg 768w,
+  ./../images/PB01/tv-11257-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-11257-1090px.jpg"
+  data-srcset="./../images/PB01/bd-11257-512px.jpg 512w,
+  ./../images/PB01/bd-11257-768px.jpg 768w,
+  ./../images/PB01/bd-11257-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -130,8 +312,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Dio has a more ominous shading, and has been moved slightly downwards. In addition, the three-mole birthmark on his left ear has been removed, for some reason (maybe forgotten? Anyway, thanks for the spot, <a href="https://jojocomparisons.github.io/jojo-pb-01/#comment-4330676215">YaoiSenpai</a>!):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-11300.jpg" />
- <img src="./../images/PB01/bd-11300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-11300-1090px.jpg"
+  data-srcset="./../images/PB01/tv-11300-512px.jpg 512w,
+  ./../images/PB01/tv-11300-768px.jpg 768w,
+  ./../images/PB01/tv-11300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-11300-1090px.jpg"
+  data-srcset="./../images/PB01/bd-11300-512px.jpg 512w,
+  ./../images/PB01/bd-11300-768px.jpg 768w,
+  ./../images/PB01/bd-11300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -139,8 +335,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Both Dio and George have been drastically redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-11600.jpg" />
- <img src="./../images/PB01/bd-11600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-11600-1090px.jpg"
+  data-srcset="./../images/PB01/tv-11600-512px.jpg 512w,
+  ./../images/PB01/tv-11600-768px.jpg 768w,
+  ./../images/PB01/tv-11600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-11600-1090px.jpg"
+  data-srcset="./../images/PB01/bd-11600-512px.jpg 512w,
+  ./../images/PB01/bd-11600-768px.jpg 768w,
+  ./../images/PB01/bd-11600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -148,8 +358,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - I didn't think it could have been possible to make Dio even more smug, but David pro actually did it:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-11700.jpg" />
- <img src="./../images/PB01/bd-11700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-11700-1090px.jpg"
+  data-srcset="./../images/PB01/tv-11700-512px.jpg 512w,
+  ./../images/PB01/tv-11700-768px.jpg 768w,
+  ./../images/PB01/tv-11700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-11700-1090px.jpg"
+  data-srcset="./../images/PB01/bd-11700-512px.jpg 512w,
+  ./../images/PB01/bd-11700-768px.jpg 768w,
+  ./../images/PB01/bd-11700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -164,8 +388,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - ...As have the subsequent frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-12931.jpg" />
- <img src="./../images/PB01/bd-12931.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-12931-1090px.jpg"
+  data-srcset="./../images/PB01/tv-12931-512px.jpg 512w,
+  ./../images/PB01/tv-12931-768px.jpg 768w,
+  ./../images/PB01/tv-12931-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-12931-1090px.jpg"
+  data-srcset="./../images/PB01/bd-12931-512px.jpg 512w,
+  ./../images/PB01/bd-12931-768px.jpg 768w,
+  ./../images/PB01/bd-12931-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -180,8 +418,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - In the BDs the shading here has been brightened a bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-16725.jpg" />
- <img src="./../images/PB01/bd-16725.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-16725-1090px.jpg"
+  data-srcset="./../images/PB01/tv-16725-512px.jpg 512w,
+  ./../images/PB01/tv-16725-768px.jpg 768w,
+  ./../images/PB01/tv-16725-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-16725-1090px.jpg"
+  data-srcset="./../images/PB01/bd-16725-512px.jpg 512w,
+  ./../images/PB01/bd-16725-768px.jpg 768w,
+  ./../images/PB01/bd-16725-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -189,8 +441,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - A couple of frames in the broadcast version of this scene have a blatant error: the previous frame (Jonathan with eyes open) was not cleared, and the new frame (Jonathan with eyes closed) was drawn on top of it. This was corrected in the BDs; the ear was also shadowed and the outline redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-19242.jpg" />
- <img src="./../images/PB01/bd-19242.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-19242-1090px.jpg"
+  data-srcset="./../images/PB01/tv-19242-512px.jpg 512w,
+  ./../images/PB01/tv-19242-768px.jpg 768w,
+  ./../images/PB01/tv-19242-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-19242-1090px.jpg"
+  data-srcset="./../images/PB01/bd-19242-512px.jpg 512w,
+  ./../images/PB01/bd-19242-768px.jpg 768w,
+  ./../images/PB01/bd-19242-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -198,8 +464,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - The ear again, and the fists have also been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-19280.jpg" />
- <img src="./../images/PB01/bd-19280.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-19280-1090px.jpg"
+  data-srcset="./../images/PB01/tv-19280-512px.jpg 512w,
+  ./../images/PB01/tv-19280-768px.jpg 768w,
+  ./../images/PB01/tv-19280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-19280-1090px.jpg"
+  data-srcset="./../images/PB01/bd-19280-512px.jpg 512w,
+  ./../images/PB01/bd-19280-768px.jpg 768w,
+  ./../images/PB01/bd-19280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -242,8 +522,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Now for a lot of ending credit differences nobody really cares about! In this part here, the left half of the credits have been spaced a bit more:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-31940.jpg" />
- <img src="./../images/PB01/bd-31940.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-31940-1090px.jpg"
+  data-srcset="./../images/PB01/tv-31940-512px.jpg 512w,
+  ./../images/PB01/tv-31940-768px.jpg 768w,
+  ./../images/PB01/tv-31940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-31940-1090px.jpg"
+  data-srcset="./../images/PB01/bd-31940-512px.jpg 512w,
+  ./../images/PB01/bd-31940-768px.jpg 768w,
+  ./../images/PB01/bd-31940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -251,8 +545,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - They added "david production" to the top here, under 動画検査 ("In-between animation check"):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-32000.jpg" />
- <img src="./../images/PB01/bd-32000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-32000-1090px.jpg"
+  data-srcset="./../images/PB01/tv-32000-512px.jpg 512w,
+  ./../images/PB01/tv-32000-768px.jpg 768w,
+  ./../images/PB01/tv-32000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-32000-1090px.jpg"
+  data-srcset="./../images/PB01/bd-32000-512px.jpg 512w,
+  ./../images/PB01/bd-32000-768px.jpg 768w,
+  ./../images/PB01/bd-32000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -260,8 +568,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - The second kanji of 仕上 ("Finishing touches") has been moved slightly farther to the right:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-32200.jpg" />
- <img src="./../images/PB01/bd-32200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-32200-1090px.jpg"
+  data-srcset="./../images/PB01/tv-32200-512px.jpg 512w,
+  ./../images/PB01/tv-32200-768px.jpg 768w,
+  ./../images/PB01/tv-32200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-32200-1090px.jpg"
+  data-srcset="./../images/PB01/bd-32200-512px.jpg 512w,
+  ./../images/PB01/bd-32200-768px.jpg 768w,
+  ./../images/PB01/bd-32200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -269,8 +591,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Here the credits have been moved to the left:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-32300.jpg" />
- <img src="./../images/PB01/bd-32300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-32300-1090px.jpg"
+  data-srcset="./../images/PB01/tv-32300-512px.jpg 512w,
+  ./../images/PB01/tv-32300-768px.jpg 768w,
+  ./../images/PB01/tv-32300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-32300-1090px.jpg"
+  data-srcset="./../images/PB01/bd-32300-512px.jpg 512w,
+  ./../images/PB01/bd-32300-768px.jpg 768w,
+  ./../images/PB01/bd-32300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -278,8 +614,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - The left part has been raised up a bit, the right part has been moved slightly to the left, and "david production" has been added to the section that was previously named テクスチャーデザイン ("Texture design") and is now just a general デジタルワークス ("Digital works"); "david production" has also been added to the 3DCGI section:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-32445.jpg" />
- <img src="./../images/PB01/bd-32445.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-32445-1090px.jpg"
+  data-srcset="./../images/PB01/tv-32445-512px.jpg 512w,
+  ./../images/PB01/tv-32445-768px.jpg 768w,
+  ./../images/PB01/tv-32445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-32445-1090px.jpg"
+  data-srcset="./../images/PB01/bd-32445-512px.jpg 512w,
+  ./../images/PB01/bd-32445-768px.jpg 768w,
+  ./../images/PB01/bd-32445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -287,8 +637,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Assistant producer 高野貴志 (Takano Takeshi) has been added to the credits:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-33000.jpg" />
- <img src="./../images/PB01/bd-33000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-33000-1090px.jpg"
+  data-srcset="./../images/PB01/tv-33000-512px.jpg 512w,
+  ./../images/PB01/tv-33000-768px.jpg 768w,
+  ./../images/PB01/tv-33000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-33000-1090px.jpg"
+  data-srcset="./../images/PB01/bd-33000-512px.jpg 512w,
+  ./../images/PB01/bd-33000-768px.jpg 768w,
+  ./../images/PB01/bd-33000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -296,8 +660,22 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - ...As was also 山口貴也 (Yamaguchi Takaya):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-33150.jpg" />
- <img src="./../images/PB01/bd-33150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-33150-1090px.jpg"
+  data-srcset="./../images/PB01/tv-33150-512px.jpg 512w,
+  ./../images/PB01/tv-33150-768px.jpg 768w,
+  ./../images/PB01/tv-33150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-33150-1090px.jpg"
+  data-srcset="./../images/PB01/bd-33150-512px.jpg 512w,
+  ./../images/PB01/bd-33150-768px.jpg 768w,
+  ./../images/PB01/bd-33150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -305,15 +683,43 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 - Finally, in the "Next time" section, the background rhombuses (rhombi?) have been slightly raised:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-33700.jpg" />
- <img src="./../images/PB01/bd-33700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-33700-1090px.jpg"
+  data-srcset="./../images/PB01/tv-33700-512px.jpg 512w,
+  ./../images/PB01/tv-33700-768px.jpg 768w,
+  ./../images/PB01/tv-33700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-33700-1090px.jpg"
+  data-srcset="./../images/PB01/bd-33700-512px.jpg 512w,
+  ./../images/PB01/bd-33700-768px.jpg 768w,
+  ./../images/PB01/bd-33700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB01/tv-34000.jpg" />
- <img src="./../images/PB01/bd-34000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/tv-34000-1090px.jpg"
+  data-srcset="./../images/PB01/tv-34000-512px.jpg 512w,
+  ./../images/PB01/tv-34000-768px.jpg 768w,
+  ./../images/PB01/tv-34000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB01/bd-34000-1090px.jpg"
+  data-srcset="./../images/PB01/bd-34000-512px.jpg 512w,
+  ./../images/PB01/bd-34000-768px.jpg 768w,
+  ./../images/PB01/bd-34000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

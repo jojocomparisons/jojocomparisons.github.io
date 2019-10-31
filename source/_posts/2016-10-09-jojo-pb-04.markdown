@@ -19,15 +19,43 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Let's begin with a minor redraw in Jonathan and Erina's faces:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-10900.jpg" />
- <img src="./../images/PB04/bd-10900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-10900-1090px.jpg"
+  data-srcset="./../images/PB04/tv-10900-512px.jpg 512w,
+  ./../images/PB04/tv-10900-768px.jpg 768w,
+  ./../images/PB04/tv-10900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-10900-1090px.jpg"
+  data-srcset="./../images/PB04/bd-10900-512px.jpg 512w,
+  ./../images/PB04/bd-10900-768px.jpg 768w,
+  ./../images/PB04/bd-10900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-13030.jpg" />
- <img src="./../images/PB04/bd-13030.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-13030-1090px.jpg"
+  data-srcset="./../images/PB04/tv-13030-512px.jpg 512w,
+  ./../images/PB04/tv-13030-768px.jpg 768w,
+  ./../images/PB04/tv-13030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-13030-1090px.jpg"
+  data-srcset="./../images/PB04/bd-13030-512px.jpg 512w,
+  ./../images/PB04/bd-13030-768px.jpg 768w,
+  ./../images/PB04/bd-13030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -35,15 +63,43 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Thankfully Jonathan was completely redrawn in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-14000.jpg" />
- <img src="./../images/PB04/bd-14000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-14000-1090px.jpg"
+  data-srcset="./../images/PB04/tv-14000-512px.jpg 512w,
+  ./../images/PB04/tv-14000-768px.jpg 768w,
+  ./../images/PB04/tv-14000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-14000-1090px.jpg"
+  data-srcset="./../images/PB04/bd-14000-512px.jpg 512w,
+  ./../images/PB04/bd-14000-768px.jpg 768w,
+  ./../images/PB04/bd-14000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-14355.jpg" />
- <img src="./../images/PB04/bd-14355.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-14355-1090px.jpg"
+  data-srcset="./../images/PB04/tv-14355-512px.jpg 512w,
+  ./../images/PB04/tv-14355-768px.jpg 768w,
+  ./../images/PB04/tv-14355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-14355-1090px.jpg"
+  data-srcset="./../images/PB04/bd-14355-512px.jpg 512w,
+  ./../images/PB04/bd-14355-768px.jpg 768w,
+  ./../images/PB04/bd-14355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -51,15 +107,43 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - This scene is shaded differently and has the usual additional texture layer:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-14580.jpg" />
- <img src="./../images/PB04/bd-14580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-14580-1090px.jpg"
+  data-srcset="./../images/PB04/tv-14580-512px.jpg 512w,
+  ./../images/PB04/tv-14580-768px.jpg 768w,
+  ./../images/PB04/tv-14580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-14580-1090px.jpg"
+  data-srcset="./../images/PB04/bd-14580-512px.jpg 512w,
+  ./../images/PB04/bd-14580-768px.jpg 768w,
+  ./../images/PB04/bd-14580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-14670.jpg" />
- <img src="./../images/PB04/bd-14670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-14670-1090px.jpg"
+  data-srcset="./../images/PB04/tv-14670-512px.jpg 512w,
+  ./../images/PB04/tv-14670-768px.jpg 768w,
+  ./../images/PB04/tv-14670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-14670-1090px.jpg"
+  data-srcset="./../images/PB04/bd-14670-512px.jpg 512w,
+  ./../images/PB04/bd-14670-768px.jpg 768w,
+  ./../images/PB04/bd-14670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -67,8 +151,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Same as the above here, plus a healthy dose of uncensored gore:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-14700.jpg" />
- <img src="./../images/PB04/bd-14700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-14700-1090px.jpg"
+  data-srcset="./../images/PB04/tv-14700-512px.jpg 512w,
+  ./../images/PB04/tv-14700-768px.jpg 768w,
+  ./../images/PB04/tv-14700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-14700-1090px.jpg"
+  data-srcset="./../images/PB04/bd-14700-512px.jpg 512w,
+  ./../images/PB04/bd-14700-768px.jpg 768w,
+  ./../images/PB04/bd-14700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -84,8 +182,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-15100.jpg" />
- <img src="./../images/PB04/bd-15100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-15100-1090px.jpg"
+  data-srcset="./../images/PB04/tv-15100-512px.jpg 512w,
+  ./../images/PB04/tv-15100-768px.jpg 768w,
+  ./../images/PB04/tv-15100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-15100-1090px.jpg"
+  data-srcset="./../images/PB04/bd-15100-512px.jpg 512w,
+  ./../images/PB04/bd-15100-768px.jpg 768w,
+  ./../images/PB04/bd-15100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -93,8 +205,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Again as before, darker shadows and texture here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-15235.jpg" />
- <img src="./../images/PB04/bd-15235.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-15235-1090px.jpg"
+  data-srcset="./../images/PB04/tv-15235-512px.jpg 512w,
+  ./../images/PB04/tv-15235-768px.jpg 768w,
+  ./../images/PB04/tv-15235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-15235-1090px.jpg"
+  data-srcset="./../images/PB04/bd-15235-512px.jpg 512w,
+  ./../images/PB04/bd-15235-768px.jpg 768w,
+  ./../images/PB04/bd-15235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -102,8 +228,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Zeppeli and Jonathan have been redrawn and Zeppeli is no longer a tiny man:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-15580.jpg" />
- <img src="./../images/PB04/bd-15580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-15580-1090px.jpg"
+  data-srcset="./../images/PB04/tv-15580-512px.jpg 512w,
+  ./../images/PB04/tv-15580-768px.jpg 768w,
+  ./../images/PB04/tv-15580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-15580-1090px.jpg"
+  data-srcset="./../images/PB04/bd-15580-512px.jpg 512w,
+  ./../images/PB04/bd-15580-768px.jpg 768w,
+  ./../images/PB04/bd-15580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -111,8 +251,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - And their faces have more details:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-15850.jpg" />
- <img src="./../images/PB04/bd-15850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-15850-1090px.jpg"
+  data-srcset="./../images/PB04/tv-15850-512px.jpg 512w,
+  ./../images/PB04/tv-15850-768px.jpg 768w,
+  ./../images/PB04/tv-15850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-15850-1090px.jpg"
+  data-srcset="./../images/PB04/bd-15850-512px.jpg 512w,
+  ./../images/PB04/bd-15850-768px.jpg 768w,
+  ./../images/PB04/bd-15850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -120,8 +274,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - The sea in Zeppeli's flashback has been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-16180.jpg" />
- <img src="./../images/PB04/bd-16180.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-16180-1090px.jpg"
+  data-srcset="./../images/PB04/tv-16180-512px.jpg 512w,
+  ./../images/PB04/tv-16180-768px.jpg 768w,
+  ./../images/PB04/tv-16180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-16180-1090px.jpg"
+  data-srcset="./../images/PB04/bd-16180-512px.jpg 512w,
+  ./../images/PB04/bd-16180-768px.jpg 768w,
+  ./../images/PB04/bd-16180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -129,15 +297,43 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Again Zeppeli and Jonathan have been redrawn and... Seriously, look at that tiny Zeppeli. Look at him. He's adorable:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-18155.jpg" />
- <img src="./../images/PB04/bd-18155.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-18155-1090px.jpg"
+  data-srcset="./../images/PB04/tv-18155-512px.jpg 512w,
+  ./../images/PB04/tv-18155-768px.jpg 768w,
+  ./../images/PB04/tv-18155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-18155-1090px.jpg"
+  data-srcset="./../images/PB04/bd-18155-512px.jpg 512w,
+  ./../images/PB04/bd-18155-768px.jpg 768w,
+  ./../images/PB04/bd-18155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-18370.jpg" />
- <img src="./../images/PB04/bd-18370.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-18370-1090px.jpg"
+  data-srcset="./../images/PB04/tv-18370-512px.jpg 512w,
+  ./../images/PB04/tv-18370-768px.jpg 768w,
+  ./../images/PB04/tv-18370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-18370-1090px.jpg"
+  data-srcset="./../images/PB04/bd-18370-512px.jpg 512w,
+  ./../images/PB04/bd-18370-768px.jpg 768w,
+  ./../images/PB04/bd-18370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -145,8 +341,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Zeppeli's face has been redrawn to be less pouty:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-18680.jpg" />
- <img src="./../images/PB04/bd-18680.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-18680-1090px.jpg"
+  data-srcset="./../images/PB04/tv-18680-512px.jpg 512w,
+  ./../images/PB04/tv-18680-768px.jpg 768w,
+  ./../images/PB04/tv-18680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-18680-1090px.jpg"
+  data-srcset="./../images/PB04/bd-18680-512px.jpg 512w,
+  ./../images/PB04/bd-18680-768px.jpg 768w,
+  ./../images/PB04/bd-18680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -154,8 +364,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - And here practically everything has been redrawn (notice the added particles to the Hamon):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-18735.jpg" />
- <img src="./../images/PB04/bd-18735.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-18735-1090px.jpg"
+  data-srcset="./../images/PB04/tv-18735-512px.jpg 512w,
+  ./../images/PB04/tv-18735-768px.jpg 768w,
+  ./../images/PB04/tv-18735-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-18735-1090px.jpg"
+  data-srcset="./../images/PB04/bd-18735-512px.jpg 512w,
+  ./../images/PB04/bd-18735-768px.jpg 768w,
+  ./../images/PB04/bd-18735-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -170,8 +394,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Zep and Jo have once again been redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-19580.jpg" />
- <img src="./../images/PB04/bd-19580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-19580-1090px.jpg"
+  data-srcset="./../images/PB04/tv-19580-512px.jpg 512w,
+  ./../images/PB04/tv-19580-768px.jpg 768w,
+  ./../images/PB04/tv-19580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-19580-1090px.jpg"
+  data-srcset="./../images/PB04/bd-19580-512px.jpg 512w,
+  ./../images/PB04/bd-19580-768px.jpg 768w,
+  ./../images/PB04/bd-19580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -179,15 +417,43 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - These actual pictures of a giant baby deer about to be ran over by a truck have received a slightly better shading in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-20240.jpg" />
- <img src="./../images/PB04/bd-20240.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-20240-1090px.jpg"
+  data-srcset="./../images/PB04/tv-20240-512px.jpg 512w,
+  ./../images/PB04/tv-20240-768px.jpg 768w,
+  ./../images/PB04/tv-20240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-20240-1090px.jpg"
+  data-srcset="./../images/PB04/bd-20240-512px.jpg 512w,
+  ./../images/PB04/bd-20240-768px.jpg 768w,
+  ./../images/PB04/bd-20240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-20320.jpg" />
- <img src="./../images/PB04/bd-20320.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-20320-1090px.jpg"
+  data-srcset="./../images/PB04/tv-20320-512px.jpg 512w,
+  ./../images/PB04/tv-20320-768px.jpg 768w,
+  ./../images/PB04/tv-20320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-20320-1090px.jpg"
+  data-srcset="./../images/PB04/bd-20320-512px.jpg 512w,
+  ./../images/PB04/bd-20320-768px.jpg 768w,
+  ./../images/PB04/bd-20320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -195,15 +461,43 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Jonathan and Uncle Weedspagon have been completely redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-20470.jpg" />
- <img src="./../images/PB04/bd-20470.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-20470-1090px.jpg"
+  data-srcset="./../images/PB04/tv-20470-512px.jpg 512w,
+  ./../images/PB04/tv-20470-768px.jpg 768w,
+  ./../images/PB04/tv-20470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-20470-1090px.jpg"
+  data-srcset="./../images/PB04/bd-20470-512px.jpg 512w,
+  ./../images/PB04/bd-20470-768px.jpg 768w,
+  ./../images/PB04/bd-20470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-20550.jpg" />
- <img src="./../images/PB04/bd-20550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-20550-1090px.jpg"
+  data-srcset="./../images/PB04/tv-20550-512px.jpg 512w,
+  ./../images/PB04/tv-20550-768px.jpg 768w,
+  ./../images/PB04/tv-20550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-20550-1090px.jpg"
+  data-srcset="./../images/PB04/bd-20550-512px.jpg 512w,
+  ./../images/PB04/bd-20550-768px.jpg 768w,
+  ./../images/PB04/bd-20550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -211,8 +505,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Here they removed the shade on Jonathan's cheek, recoloured part of his hat and opened his mouth way more when he talks (and of course, his jaw and neck are slightly redrawn as well):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-21003.jpg" />
- <img src="./../images/PB04/bd-21003.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-21003-1090px.jpg"
+  data-srcset="./../images/PB04/tv-21003-512px.jpg 512w,
+  ./../images/PB04/tv-21003-768px.jpg 768w,
+  ./../images/PB04/tv-21003-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-21003-1090px.jpg"
+  data-srcset="./../images/PB04/bd-21003-512px.jpg 512w,
+  ./../images/PB04/bd-21003-768px.jpg 768w,
+  ./../images/PB04/bd-21003-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -220,8 +528,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Everything. Just everything:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-21035.jpg" />
- <img src="./../images/PB04/bd-21035.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-21035-1090px.jpg"
+  data-srcset="./../images/PB04/tv-21035-512px.jpg 512w,
+  ./../images/PB04/tv-21035-768px.jpg 768w,
+  ./../images/PB04/tv-21035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-21035-1090px.jpg"
+  data-srcset="./../images/PB04/bd-21035-512px.jpg 512w,
+  ./../images/PB04/bd-21035-768px.jpg 768w,
+  ./../images/PB04/bd-21035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -229,8 +551,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - The lighting is so much more dramatic in this shot, there's the usual added texture and the horse necks are very slightly uncensored:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-22095.jpg" />
- <img src="./../images/PB04/bd-22095.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-22095-1090px.jpg"
+  data-srcset="./../images/PB04/tv-22095-512px.jpg 512w,
+  ./../images/PB04/tv-22095-768px.jpg 768w,
+  ./../images/PB04/tv-22095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-22095-1090px.jpg"
+  data-srcset="./../images/PB04/bd-22095-512px.jpg 512w,
+  ./../images/PB04/bd-22095-768px.jpg 768w,
+  ./../images/PB04/bd-22095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -245,15 +581,43 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - From here onwards, we have something similar to last episode's fire scenes; everything that happens in this tunnel has a different lighting and shading, different colours and more contrast (and sometimes the usual texture layer); I'm not gonna repeat what's different for each case, just refer to the description I've given here. Here's the first occurrence:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-22200.jpg" />
- <img src="./../images/PB04/bd-22200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-22200-1090px.jpg"
+  data-srcset="./../images/PB04/tv-22200-512px.jpg 512w,
+  ./../images/PB04/tv-22200-768px.jpg 768w,
+  ./../images/PB04/tv-22200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-22200-1090px.jpg"
+  data-srcset="./../images/PB04/bd-22200-512px.jpg 512w,
+  ./../images/PB04/bd-22200-768px.jpg 768w,
+  ./../images/PB04/bd-22200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-22300.jpg" />
- <img src="./../images/PB04/bd-22300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-22300-1090px.jpg"
+  data-srcset="./../images/PB04/tv-22300-512px.jpg 512w,
+  ./../images/PB04/tv-22300-768px.jpg 768w,
+  ./../images/PB04/tv-22300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-22300-1090px.jpg"
+  data-srcset="./../images/PB04/bd-22300-512px.jpg 512w,
+  ./../images/PB04/bd-22300-768px.jpg 768w,
+  ./../images/PB04/bd-22300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -266,8 +630,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-22415.jpg" />
- <img src="./../images/PB04/bd-22415.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-22415-1090px.jpg"
+  data-srcset="./../images/PB04/tv-22415-512px.jpg 512w,
+  ./../images/PB04/tv-22415-768px.jpg 768w,
+  ./../images/PB04/tv-22415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-22415-1090px.jpg"
+  data-srcset="./../images/PB04/bd-22415-512px.jpg 512w,
+  ./../images/PB04/bd-22415-768px.jpg 768w,
+  ./../images/PB04/bd-22415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -275,8 +653,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Same business here, plus Jonathan has been slightly redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-22480.jpg" />
- <img src="./../images/PB04/bd-22480.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-22480-1090px.jpg"
+  data-srcset="./../images/PB04/tv-22480-512px.jpg 512w,
+  ./../images/PB04/tv-22480-768px.jpg 768w,
+  ./../images/PB04/tv-22480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-22480-1090px.jpg"
+  data-srcset="./../images/PB04/bd-22480-512px.jpg 512w,
+  ./../images/PB04/bd-22480-768px.jpg 768w,
+  ./../images/PB04/bd-22480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -289,8 +681,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-22670.jpg" />
- <img src="./../images/PB04/bd-22670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-22670-1090px.jpg"
+  data-srcset="./../images/PB04/tv-22670-512px.jpg 512w,
+  ./../images/PB04/tv-22670-768px.jpg 768w,
+  ./../images/PB04/tv-22670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-22670-1090px.jpg"
+  data-srcset="./../images/PB04/bd-22670-512px.jpg 512w,
+  ./../images/PB04/bd-22670-768px.jpg 768w,
+  ./../images/PB04/bd-22670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -298,22 +704,64 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Another case of tunnel syndrome:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-22830.jpg" />
- <img src="./../images/PB04/bd-22830.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-22830-1090px.jpg"
+  data-srcset="./../images/PB04/tv-22830-512px.jpg 512w,
+  ./../images/PB04/tv-22830-768px.jpg 768w,
+  ./../images/PB04/tv-22830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-22830-1090px.jpg"
+  data-srcset="./../images/PB04/bd-22830-512px.jpg 512w,
+  ./../images/PB04/bd-22830-768px.jpg 768w,
+  ./../images/PB04/bd-22830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-22960.jpg" />
- <img src="./../images/PB04/bd-22960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-22960-1090px.jpg"
+  data-srcset="./../images/PB04/tv-22960-512px.jpg 512w,
+  ./../images/PB04/tv-22960-768px.jpg 768w,
+  ./../images/PB04/tv-22960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-22960-1090px.jpg"
+  data-srcset="./../images/PB04/bd-22960-512px.jpg 512w,
+  ./../images/PB04/bd-22960-768px.jpg 768w,
+  ./../images/PB04/bd-22960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-23040.jpg" />
- <img src="./../images/PB04/bd-23040.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-23040-1090px.jpg"
+  data-srcset="./../images/PB04/tv-23040-512px.jpg 512w,
+  ./../images/PB04/tv-23040-768px.jpg 768w,
+  ./../images/PB04/tv-23040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-23040-1090px.jpg"
+  data-srcset="./../images/PB04/bd-23040-512px.jpg 512w,
+  ./../images/PB04/bd-23040-768px.jpg 768w,
+  ./../images/PB04/bd-23040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -328,15 +776,43 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Tunnel lighting tunnel lighting:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-23170.jpg" />
- <img src="./../images/PB04/bd-23170.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-23170-1090px.jpg"
+  data-srcset="./../images/PB04/tv-23170-512px.jpg 512w,
+  ./../images/PB04/tv-23170-768px.jpg 768w,
+  ./../images/PB04/tv-23170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-23170-1090px.jpg"
+  data-srcset="./../images/PB04/bd-23170-512px.jpg 512w,
+  ./../images/PB04/bd-23170-768px.jpg 768w,
+  ./../images/PB04/bd-23170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-23330.jpg" />
- <img src="./../images/PB04/bd-23330.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-23330-1090px.jpg"
+  data-srcset="./../images/PB04/tv-23330-512px.jpg 512w,
+  ./../images/PB04/tv-23330-768px.jpg 768w,
+  ./../images/PB04/tv-23330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-23330-1090px.jpg"
+  data-srcset="./../images/PB04/bd-23330-512px.jpg 512w,
+  ./../images/PB04/bd-23330-768px.jpg 768w,
+  ./../images/PB04/bd-23330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -344,8 +820,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Most of this scene of Jack stabbing himself in the cheek has been redrawn, uncensored, re-positioned and re-shadowed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-23550.jpg" />
- <img src="./../images/PB04/bd-23550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-23550-1090px.jpg"
+  data-srcset="./../images/PB04/tv-23550-512px.jpg 512w,
+  ./../images/PB04/tv-23550-768px.jpg 768w,
+  ./../images/PB04/tv-23550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-23550-1090px.jpg"
+  data-srcset="./../images/PB04/bd-23550-512px.jpg 512w,
+  ./../images/PB04/bd-23550-768px.jpg 768w,
+  ./../images/PB04/bd-23550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -353,8 +843,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Welcome to the Darkest Dungeon:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-23580.jpg" />
- <img src="./../images/PB04/bd-23580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-23580-1090px.jpg"
+  data-srcset="./../images/PB04/tv-23580-512px.jpg 512w,
+  ./../images/PB04/tv-23580-768px.jpg 768w,
+  ./../images/PB04/tv-23580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-23580-1090px.jpg"
+  data-srcset="./../images/PB04/bd-23580-512px.jpg 512w,
+  ./../images/PB04/bd-23580-768px.jpg 768w,
+  ./../images/PB04/bd-23580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -362,8 +866,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Uncensored, but still very dark:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-23595.jpg" />
- <img src="./../images/PB04/bd-23595.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-23595-1090px.jpg"
+  data-srcset="./../images/PB04/tv-23595-512px.jpg 512w,
+  ./../images/PB04/tv-23595-768px.jpg 768w,
+  ./../images/PB04/tv-23595-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-23595-1090px.jpg"
+  data-srcset="./../images/PB04/bd-23595-512px.jpg 512w,
+  ./../images/PB04/bd-23595-768px.jpg 768w,
+  ./../images/PB04/bd-23595-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -371,8 +889,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Again, the horse neck has been uncensored and this whole scene has received tunnel shading:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-23705.jpg" />
- <img src="./../images/PB04/bd-23705.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-23705-1090px.jpg"
+  data-srcset="./../images/PB04/tv-23705-512px.jpg 512w,
+  ./../images/PB04/tv-23705-768px.jpg 768w,
+  ./../images/PB04/tv-23705-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-23705-1090px.jpg"
+  data-srcset="./../images/PB04/bd-23705-512px.jpg 512w,
+  ./../images/PB04/bd-23705-768px.jpg 768w,
+  ./../images/PB04/bd-23705-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -380,8 +912,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - And here the same thing, plus a very small drawing error (Jonathan's mouth) has been fixed. Zeppeli's cheek is also slightly retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-23970.jpg" />
- <img src="./../images/PB04/bd-23970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-23970-1090px.jpg"
+  data-srcset="./../images/PB04/tv-23970-512px.jpg 512w,
+  ./../images/PB04/tv-23970-768px.jpg 768w,
+  ./../images/PB04/tv-23970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-23970-1090px.jpg"
+  data-srcset="./../images/PB04/bd-23970-512px.jpg 512w,
+  ./../images/PB04/bd-23970-768px.jpg 768w,
+  ./../images/PB04/bd-23970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -396,29 +942,85 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - A smattering of different shading for you:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-24400.jpg" />
- <img src="./../images/PB04/bd-24400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-24400-1090px.jpg"
+  data-srcset="./../images/PB04/tv-24400-512px.jpg 512w,
+  ./../images/PB04/tv-24400-768px.jpg 768w,
+  ./../images/PB04/tv-24400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-24400-1090px.jpg"
+  data-srcset="./../images/PB04/bd-24400-512px.jpg 512w,
+  ./../images/PB04/bd-24400-768px.jpg 768w,
+  ./../images/PB04/bd-24400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-24530.jpg" />
- <img src="./../images/PB04/bd-24530.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-24530-1090px.jpg"
+  data-srcset="./../images/PB04/tv-24530-512px.jpg 512w,
+  ./../images/PB04/tv-24530-768px.jpg 768w,
+  ./../images/PB04/tv-24530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-24530-1090px.jpg"
+  data-srcset="./../images/PB04/bd-24530-512px.jpg 512w,
+  ./../images/PB04/bd-24530-768px.jpg 768w,
+  ./../images/PB04/bd-24530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-24690.jpg" />
- <img src="./../images/PB04/bd-24690.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-24690-1090px.jpg"
+  data-srcset="./../images/PB04/tv-24690-512px.jpg 512w,
+  ./../images/PB04/tv-24690-768px.jpg 768w,
+  ./../images/PB04/tv-24690-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-24690-1090px.jpg"
+  data-srcset="./../images/PB04/bd-24690-512px.jpg 512w,
+  ./../images/PB04/bd-24690-768px.jpg 768w,
+  ./../images/PB04/bd-24690-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-24710.jpg" />
- <img src="./../images/PB04/bd-24710.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-24710-1090px.jpg"
+  data-srcset="./../images/PB04/tv-24710-512px.jpg 512w,
+  ./../images/PB04/tv-24710-768px.jpg 768w,
+  ./../images/PB04/tv-24710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-24710-1090px.jpg"
+  data-srcset="./../images/PB04/bd-24710-512px.jpg 512w,
+  ./../images/PB04/bd-24710-768px.jpg 768w,
+  ./../images/PB04/bd-24710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -426,15 +1028,43 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Jack has been redrawn here, and the background has been moved slightly:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-24757.jpg" />
- <img src="./../images/PB04/bd-24757.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-24757-1090px.jpg"
+  data-srcset="./../images/PB04/tv-24757-512px.jpg 512w,
+  ./../images/PB04/tv-24757-768px.jpg 768w,
+  ./../images/PB04/tv-24757-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-24757-1090px.jpg"
+  data-srcset="./../images/PB04/bd-24757-512px.jpg 512w,
+  ./../images/PB04/bd-24757-768px.jpg 768w,
+  ./../images/PB04/bd-24757-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-24865.jpg" />
- <img src="./../images/PB04/bd-24865.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-24865-1090px.jpg"
+  data-srcset="./../images/PB04/tv-24865-512px.jpg 512w,
+  ./../images/PB04/tv-24865-768px.jpg 768w,
+  ./../images/PB04/tv-24865-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-24865-1090px.jpg"
+  data-srcset="./../images/PB04/bd-24865-512px.jpg 512w,
+  ./../images/PB04/bd-24865-768px.jpg 768w,
+  ./../images/PB04/bd-24865-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -442,8 +1072,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Jonathan is completely redrawn here (look at those lips!):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-24935.jpg" />
- <img src="./../images/PB04/bd-24935.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-24935-1090px.jpg"
+  data-srcset="./../images/PB04/tv-24935-512px.jpg 512w,
+  ./../images/PB04/tv-24935-768px.jpg 768w,
+  ./../images/PB04/tv-24935-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-24935-1090px.jpg"
+  data-srcset="./../images/PB04/bd-24935-512px.jpg 512w,
+  ./../images/PB04/bd-24935-768px.jpg 768w,
+  ./../images/PB04/bd-24935-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -451,8 +1095,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Dramatic shadows again!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-25005.jpg" />
- <img src="./../images/PB04/bd-25005.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-25005-1090px.jpg"
+  data-srcset="./../images/PB04/tv-25005-512px.jpg 512w,
+  ./../images/PB04/tv-25005-768px.jpg 768w,
+  ./../images/PB04/tv-25005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-25005-1090px.jpg"
+  data-srcset="./../images/PB04/bd-25005-512px.jpg 512w,
+  ./../images/PB04/bd-25005-768px.jpg 768w,
+  ./../images/PB04/bd-25005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -460,8 +1118,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - A Brand New Jack™:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-25055.jpg" />
- <img src="./../images/PB04/bd-25055.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-25055-1090px.jpg"
+  data-srcset="./../images/PB04/tv-25055-512px.jpg 512w,
+  ./../images/PB04/tv-25055-768px.jpg 768w,
+  ./../images/PB04/tv-25055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-25055-1090px.jpg"
+  data-srcset="./../images/PB04/bd-25055-512px.jpg 512w,
+  ./../images/PB04/bd-25055-768px.jpg 768w,
+  ./../images/PB04/bd-25055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -469,8 +1141,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - This beautiful knife ballerina has received the tunnel treatment; plus there's slightly more blood:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-25080.jpg" />
- <img src="./../images/PB04/bd-25080.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-25080-1090px.jpg"
+  data-srcset="./../images/PB04/tv-25080-512px.jpg 512w,
+  ./../images/PB04/tv-25080-768px.jpg 768w,
+  ./../images/PB04/tv-25080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-25080-1090px.jpg"
+  data-srcset="./../images/PB04/bd-25080-512px.jpg 512w,
+  ./../images/PB04/bd-25080-768px.jpg 768w,
+  ./../images/PB04/bd-25080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -478,15 +1164,43 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - But this Zeppeli is not afraid:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-25095.jpg" />
- <img src="./../images/PB04/bd-25095.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-25095-1090px.jpg"
+  data-srcset="./../images/PB04/tv-25095-512px.jpg 512w,
+  ./../images/PB04/tv-25095-768px.jpg 768w,
+  ./../images/PB04/tv-25095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-25095-1090px.jpg"
+  data-srcset="./../images/PB04/bd-25095-512px.jpg 512w,
+  ./../images/PB04/bd-25095-768px.jpg 768w,
+  ./../images/PB04/bd-25095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-25130.jpg" />
- <img src="./../images/PB04/bd-25130.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-25130-1090px.jpg"
+  data-srcset="./../images/PB04/tv-25130-512px.jpg 512w,
+  ./../images/PB04/tv-25130-768px.jpg 768w,
+  ./../images/PB04/tv-25130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-25130-1090px.jpg"
+  data-srcset="./../images/PB04/bd-25130-512px.jpg 512w,
+  ./../images/PB04/bd-25130-768px.jpg 768w,
+  ./../images/PB04/bd-25130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -494,15 +1208,43 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - His wine Hamon Cutters have been completely redrawn and are now way flashier (in the second comparison Jack's knife pieces have also been moved):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-25175.jpg" />
- <img src="./../images/PB04/bd-25175.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-25175-1090px.jpg"
+  data-srcset="./../images/PB04/tv-25175-512px.jpg 512w,
+  ./../images/PB04/tv-25175-768px.jpg 768w,
+  ./../images/PB04/tv-25175-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-25175-1090px.jpg"
+  data-srcset="./../images/PB04/bd-25175-512px.jpg 512w,
+  ./../images/PB04/bd-25175-768px.jpg 768w,
+  ./../images/PB04/bd-25175-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-25199.jpg" />
- <img src="./../images/PB04/bd-25199.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-25199-1090px.jpg"
+  data-srcset="./../images/PB04/tv-25199-512px.jpg 512w,
+  ./../images/PB04/tv-25199-768px.jpg 768w,
+  ./../images/PB04/tv-25199-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-25199-1090px.jpg"
+  data-srcset="./../images/PB04/bd-25199-512px.jpg 512w,
+  ./../images/PB04/bd-25199-768px.jpg 768w,
+  ./../images/PB04/bd-25199-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -510,8 +1252,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Here Jonathan and Speedwagon no longer make the D: face; Zeppeli's also been slightly redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-25340.jpg" />
- <img src="./../images/PB04/bd-25340.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-25340-1090px.jpg"
+  data-srcset="./../images/PB04/tv-25340-512px.jpg 512w,
+  ./../images/PB04/tv-25340-768px.jpg 768w,
+  ./../images/PB04/tv-25340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-25340-1090px.jpg"
+  data-srcset="./../images/PB04/bd-25340-512px.jpg 512w,
+  ./../images/PB04/bd-25340-768px.jpg 768w,
+  ./../images/PB04/bd-25340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -519,8 +1275,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Every single eye in this shot has been redrawn; Zeppeli's nose and mouth have been retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-25370.jpg" />
- <img src="./../images/PB04/bd-25370.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-25370-1090px.jpg"
+  data-srcset="./../images/PB04/tv-25370-512px.jpg 512w,
+  ./../images/PB04/tv-25370-768px.jpg 768w,
+  ./../images/PB04/tv-25370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-25370-1090px.jpg"
+  data-srcset="./../images/PB04/bd-25370-512px.jpg 512w,
+  ./../images/PB04/bd-25370-768px.jpg 768w,
+  ./../images/PB04/bd-25370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -540,29 +1310,85 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Usual shading/color/contrast treatment here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-25890.jpg" />
- <img src="./../images/PB04/bd-25890.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-25890-1090px.jpg"
+  data-srcset="./../images/PB04/tv-25890-512px.jpg 512w,
+  ./../images/PB04/tv-25890-768px.jpg 768w,
+  ./../images/PB04/tv-25890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-25890-1090px.jpg"
+  data-srcset="./../images/PB04/bd-25890-512px.jpg 512w,
+  ./../images/PB04/bd-25890-768px.jpg 768w,
+  ./../images/PB04/bd-25890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-25995.jpg" />
- <img src="./../images/PB04/bd-25995.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-25995-1090px.jpg"
+  data-srcset="./../images/PB04/tv-25995-512px.jpg 512w,
+  ./../images/PB04/tv-25995-768px.jpg 768w,
+  ./../images/PB04/tv-25995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-25995-1090px.jpg"
+  data-srcset="./../images/PB04/bd-25995-512px.jpg 512w,
+  ./../images/PB04/bd-25995-768px.jpg 768w,
+  ./../images/PB04/bd-25995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-26090.jpg" />
- <img src="./../images/PB04/bd-26090.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-26090-1090px.jpg"
+  data-srcset="./../images/PB04/tv-26090-512px.jpg 512w,
+  ./../images/PB04/tv-26090-768px.jpg 768w,
+  ./../images/PB04/tv-26090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-26090-1090px.jpg"
+  data-srcset="./../images/PB04/bd-26090-512px.jpg 512w,
+  ./../images/PB04/bd-26090-768px.jpg 768w,
+  ./../images/PB04/bd-26090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-26130.jpg" />
- <img src="./../images/PB04/bd-26130.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-26130-1090px.jpg"
+  data-srcset="./../images/PB04/tv-26130-512px.jpg 512w,
+  ./../images/PB04/tv-26130-768px.jpg 768w,
+  ./../images/PB04/tv-26130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-26130-1090px.jpg"
+  data-srcset="./../images/PB04/bd-26130-512px.jpg 512w,
+  ./../images/PB04/bd-26130-768px.jpg 768w,
+  ./../images/PB04/bd-26130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -570,15 +1396,43 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Here, Zeppeli and the background have been moved:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-26280.jpg" />
- <img src="./../images/PB04/bd-26280.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-26280-1090px.jpg"
+  data-srcset="./../images/PB04/tv-26280-512px.jpg 512w,
+  ./../images/PB04/tv-26280-768px.jpg 768w,
+  ./../images/PB04/tv-26280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-26280-1090px.jpg"
+  data-srcset="./../images/PB04/bd-26280-512px.jpg 512w,
+  ./../images/PB04/bd-26280-768px.jpg 768w,
+  ./../images/PB04/bd-26280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-26450.jpg" />
- <img src="./../images/PB04/bd-26450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-26450-1090px.jpg"
+  data-srcset="./../images/PB04/tv-26450-512px.jpg 512w,
+  ./../images/PB04/tv-26450-768px.jpg 768w,
+  ./../images/PB04/tv-26450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-26450-1090px.jpg"
+  data-srcset="./../images/PB04/bd-26450-512px.jpg 512w,
+  ./../images/PB04/bd-26450-768px.jpg 768w,
+  ./../images/PB04/bd-26450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -586,8 +1440,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - The usual shading thing:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-26490.jpg" />
- <img src="./../images/PB04/bd-26490.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-26490-1090px.jpg"
+  data-srcset="./../images/PB04/tv-26490-512px.jpg 512w,
+  ./../images/PB04/tv-26490-768px.jpg 768w,
+  ./../images/PB04/tv-26490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-26490-1090px.jpg"
+  data-srcset="./../images/PB04/bd-26490-512px.jpg 512w,
+  ./../images/PB04/bd-26490-768px.jpg 768w,
+  ./../images/PB04/bd-26490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -595,8 +1463,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Zeppeli and Jack both have been slightly redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-26511.jpg" />
- <img src="./../images/PB04/bd-26511.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-26511-1090px.jpg"
+  data-srcset="./../images/PB04/tv-26511-512px.jpg 512w,
+  ./../images/PB04/tv-26511-768px.jpg 768w,
+  ./../images/PB04/tv-26511-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-26511-1090px.jpg"
+  data-srcset="./../images/PB04/bd-26511-512px.jpg 512w,
+  ./../images/PB04/bd-26511-768px.jpg 768w,
+  ./../images/PB04/bd-26511-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -604,50 +1486,148 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Tunnel Vision Engaged:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-26571.jpg" />
- <img src="./../images/PB04/bd-26571.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-26571-1090px.jpg"
+  data-srcset="./../images/PB04/tv-26571-512px.jpg 512w,
+  ./../images/PB04/tv-26571-768px.jpg 768w,
+  ./../images/PB04/tv-26571-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-26571-1090px.jpg"
+  data-srcset="./../images/PB04/bd-26571-512px.jpg 512w,
+  ./../images/PB04/bd-26571-768px.jpg 768w,
+  ./../images/PB04/bd-26571-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-27070.jpg" />
- <img src="./../images/PB04/bd-27070.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-27070-1090px.jpg"
+  data-srcset="./../images/PB04/tv-27070-512px.jpg 512w,
+  ./../images/PB04/tv-27070-768px.jpg 768w,
+  ./../images/PB04/tv-27070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-27070-1090px.jpg"
+  data-srcset="./../images/PB04/bd-27070-512px.jpg 512w,
+  ./../images/PB04/bd-27070-768px.jpg 768w,
+  ./../images/PB04/bd-27070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-27150.jpg" />
- <img src="./../images/PB04/bd-27150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-27150-1090px.jpg"
+  data-srcset="./../images/PB04/tv-27150-512px.jpg 512w,
+  ./../images/PB04/tv-27150-768px.jpg 768w,
+  ./../images/PB04/tv-27150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-27150-1090px.jpg"
+  data-srcset="./../images/PB04/bd-27150-512px.jpg 512w,
+  ./../images/PB04/bd-27150-768px.jpg 768w,
+  ./../images/PB04/bd-27150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-27190.jpg" />
- <img src="./../images/PB04/bd-27190.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-27190-1090px.jpg"
+  data-srcset="./../images/PB04/tv-27190-512px.jpg 512w,
+  ./../images/PB04/tv-27190-768px.jpg 768w,
+  ./../images/PB04/tv-27190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-27190-1090px.jpg"
+  data-srcset="./../images/PB04/bd-27190-512px.jpg 512w,
+  ./../images/PB04/bd-27190-768px.jpg 768w,
+  ./../images/PB04/bd-27190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-27220.jpg" />
- <img src="./../images/PB04/bd-27220.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-27220-1090px.jpg"
+  data-srcset="./../images/PB04/tv-27220-512px.jpg 512w,
+  ./../images/PB04/tv-27220-768px.jpg 768w,
+  ./../images/PB04/tv-27220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-27220-1090px.jpg"
+  data-srcset="./../images/PB04/bd-27220-512px.jpg 512w,
+  ./../images/PB04/bd-27220-768px.jpg 768w,
+  ./../images/PB04/bd-27220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-28820.jpg" />
- <img src="./../images/PB04/bd-28820.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-28820-1090px.jpg"
+  data-srcset="./../images/PB04/tv-28820-512px.jpg 512w,
+  ./../images/PB04/tv-28820-768px.jpg 768w,
+  ./../images/PB04/tv-28820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-28820-1090px.jpg"
+  data-srcset="./../images/PB04/bd-28820-512px.jpg 512w,
+  ./../images/PB04/bd-28820-768px.jpg 768w,
+  ./../images/PB04/bd-28820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-28870.jpg" />
- <img src="./../images/PB04/bd-28870.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-28870-1090px.jpg"
+  data-srcset="./../images/PB04/tv-28870-512px.jpg 512w,
+  ./../images/PB04/tv-28870-768px.jpg 768w,
+  ./../images/PB04/tv-28870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-28870-1090px.jpg"
+  data-srcset="./../images/PB04/bd-28870-512px.jpg 512w,
+  ./../images/PB04/bd-28870-768px.jpg 768w,
+  ./../images/PB04/bd-28870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -655,8 +1635,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - They really amped up that knife flash in the BDs!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-29429.jpg" />
- <img src="./../images/PB04/bd-29429.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-29429-1090px.jpg"
+  data-srcset="./../images/PB04/tv-29429-512px.jpg 512w,
+  ./../images/PB04/tv-29429-768px.jpg 768w,
+  ./../images/PB04/tv-29429-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-29429-1090px.jpg"
+  data-srcset="./../images/PB04/bd-29429-512px.jpg 512w,
+  ./../images/PB04/bd-29429-768px.jpg 768w,
+  ./../images/PB04/bd-29429-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -664,8 +1658,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Here the zoom has been pulled out (and they drew that distinctive cheek line):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-29490.jpg" />
- <img src="./../images/PB04/bd-29490.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-29490-1090px.jpg"
+  data-srcset="./../images/PB04/tv-29490-512px.jpg 512w,
+  ./../images/PB04/tv-29490-768px.jpg 768w,
+  ./../images/PB04/tv-29490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-29490-1090px.jpg"
+  data-srcset="./../images/PB04/bd-29490-512px.jpg 512w,
+  ./../images/PB04/bd-29490-768px.jpg 768w,
+  ./../images/PB04/bd-29490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -673,8 +1681,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - And here he's been completely redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-29610.jpg" />
- <img src="./../images/PB04/bd-29610.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-29610-1090px.jpg"
+  data-srcset="./../images/PB04/tv-29610-512px.jpg 512w,
+  ./../images/PB04/tv-29610-768px.jpg 768w,
+  ./../images/PB04/tv-29610-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-29610-1090px.jpg"
+  data-srcset="./../images/PB04/bd-29610-512px.jpg 512w,
+  ./../images/PB04/bd-29610-768px.jpg 768w,
+  ./../images/PB04/bd-29610-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -682,8 +1704,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Here Zeppeli and Speedwagon's faces have been slightly retouched, and the wall colour is more muted:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-30170.jpg" />
- <img src="./../images/PB04/bd-30170.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-30170-1090px.jpg"
+  data-srcset="./../images/PB04/tv-30170-512px.jpg 512w,
+  ./../images/PB04/tv-30170-768px.jpg 768w,
+  ./../images/PB04/tv-30170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-30170-1090px.jpg"
+  data-srcset="./../images/PB04/bd-30170-512px.jpg 512w,
+  ./../images/PB04/bd-30170-768px.jpg 768w,
+  ./../images/PB04/bd-30170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -691,15 +1727,43 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - In the BDs the effect for the Hamon has been redrawn, and it's subtler and a bit cooler (in my opinion); the framing in the second comparison is also a bit different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-30526.jpg" />
- <img src="./../images/PB04/bd-30526.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-30526-1090px.jpg"
+  data-srcset="./../images/PB04/tv-30526-512px.jpg 512w,
+  ./../images/PB04/tv-30526-768px.jpg 768w,
+  ./../images/PB04/tv-30526-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-30526-1090px.jpg"
+  data-srcset="./../images/PB04/bd-30526-512px.jpg 512w,
+  ./../images/PB04/bd-30526-768px.jpg 768w,
+  ./../images/PB04/bd-30526-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-30575.jpg" />
- <img src="./../images/PB04/bd-30575.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-30575-1090px.jpg"
+  data-srcset="./../images/PB04/tv-30575-512px.jpg 512w,
+  ./../images/PB04/tv-30575-768px.jpg 768w,
+  ./../images/PB04/tv-30575-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-30575-1090px.jpg"
+  data-srcset="./../images/PB04/bd-30575-512px.jpg 512w,
+  ./../images/PB04/bd-30575-768px.jpg 768w,
+  ./../images/PB04/bd-30575-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -714,8 +1778,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - And now for some credits differences! Let's begin with a minor one; in the BDs they added Erina's surname (Full name in katakana: エリナ・ペンドルトン):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-31600.jpg" />
- <img src="./../images/PB04/bd-31600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-31600-1090px.jpg"
+  data-srcset="./../images/PB04/tv-31600-512px.jpg 512w,
+  ./../images/PB04/tv-31600-768px.jpg 768w,
+  ./../images/PB04/tv-31600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-31600-1090px.jpg"
+  data-srcset="./../images/PB04/bd-31600-512px.jpg 512w,
+  ./../images/PB04/bd-31600-768px.jpg 768w,
+  ./../images/PB04/bd-31600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -723,8 +1801,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Here the "modeling" in "3D modeling" (3Dモデリング) has been scaled down, and the last line has been placed slightly lower:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-32500.jpg" />
- <img src="./../images/PB04/bd-32500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-32500-1090px.jpg"
+  data-srcset="./../images/PB04/tv-32500-512px.jpg 512w,
+  ./../images/PB04/tv-32500-768px.jpg 768w,
+  ./../images/PB04/tv-32500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-32500-1090px.jpg"
+  data-srcset="./../images/PB04/bd-32500-512px.jpg 512w,
+  ./../images/PB04/bd-32500-768px.jpg 768w,
+  ./../images/PB04/bd-32500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -732,8 +1824,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - Production manager 熊田圭介 (Kumada Keisuke) has been added to the credits:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-33300.jpg" />
- <img src="./../images/PB04/bd-33300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-33300-1090px.jpg"
+  data-srcset="./../images/PB04/tv-33300-512px.jpg 512w,
+  ./../images/PB04/tv-33300-768px.jpg 768w,
+  ./../images/PB04/tv-33300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-33300-1090px.jpg"
+  data-srcset="./../images/PB04/bd-33300-512px.jpg 512w,
+  ./../images/PB04/bd-33300-768px.jpg 768w,
+  ./../images/PB04/bd-33300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -741,8 +1847,22 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 - And finally, Animators 糸井恵 (Itoi Megumi), 宝谷幸稔 (Hōtani Yukitoshi), 横山謙次 (Yokoyama Kenji) and 亀井隆広 (Kamei Takahiro) have been added to the credits, and the rest have been rearranged accordingly:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB04/tv-33500.jpg" />
- <img src="./../images/PB04/bd-33500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/tv-33500-1090px.jpg"
+  data-srcset="./../images/PB04/tv-33500-512px.jpg 512w,
+  ./../images/PB04/tv-33500-768px.jpg 768w,
+  ./../images/PB04/tv-33500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB04/bd-33500-1090px.jpg"
+  data-srcset="./../images/PB04/bd-33500-512px.jpg 512w,
+  ./../images/PB04/bd-33500-768px.jpg 768w,
+  ./../images/PB04/bd-33500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

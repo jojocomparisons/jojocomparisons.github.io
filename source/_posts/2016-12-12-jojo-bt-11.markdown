@@ -43,8 +43,22 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - In this shot, the purple background is slightly different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-05680.jpg" />
- <img src="./../images/BT11/bd-05680.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-05680-1090px.jpg"
+  data-srcset="./../images/BT11/tv-05680-512px.jpg 512w,
+  ./../images/BT11/tv-05680-768px.jpg 768w,
+  ./../images/BT11/tv-05680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-05680-1090px.jpg"
+  data-srcset="./../images/BT11/bd-05680-512px.jpg 512w,
+  ./../images/BT11/bd-05680-768px.jpg 768w,
+  ./../images/BT11/bd-05680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -52,8 +66,22 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - And this whole part of Straights pulling himself together (har har) has been uncensored as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-11288.jpg" />
- <img src="./../images/BT11/bd-11288.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-11288-1090px.jpg"
+  data-srcset="./../images/BT11/tv-11288-512px.jpg 512w,
+  ./../images/BT11/tv-11288-768px.jpg 768w,
+  ./../images/BT11/tv-11288-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-11288-1090px.jpg"
+  data-srcset="./../images/BT11/bd-11288-512px.jpg 512w,
+  ./../images/BT11/bd-11288-768px.jpg 768w,
+  ./../images/BT11/bd-11288-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -76,8 +104,22 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - Apparently David Production forgot to draw the vampire fangs on Straight for a bunch of shots of the TV version. Obviously the BDs correct this; here is the first of those shots:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-13080.jpg" />
- <img src="./../images/BT11/bd-13080.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-13080-1090px.jpg"
+  data-srcset="./../images/BT11/tv-13080-512px.jpg 512w,
+  ./../images/BT11/tv-13080-768px.jpg 768w,
+  ./../images/BT11/tv-13080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-13080-1090px.jpg"
+  data-srcset="./../images/BT11/bd-13080-512px.jpg 512w,
+  ./../images/BT11/bd-13080-768px.jpg 768w,
+  ./../images/BT11/bd-13080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -85,8 +127,22 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - This reporter's camera has been shaded differently in the BDs
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-13300.jpg" />
- <img src="./../images/BT11/bd-13300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-13300-1090px.jpg"
+  data-srcset="./../images/BT11/tv-13300-512px.jpg 512w,
+  ./../images/BT11/tv-13300-768px.jpg 768w,
+  ./../images/BT11/tv-13300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-13300-1090px.jpg"
+  data-srcset="./../images/BT11/bd-13300-512px.jpg 512w,
+  ./../images/BT11/bd-13300-768px.jpg 768w,
+  ./../images/BT11/bd-13300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -94,8 +150,22 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - Pretty much everything in this shot has been either moved or scaled:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-14250.jpg" />
- <img src="./../images/BT11/bd-14250.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-14250-1090px.jpg"
+  data-srcset="./../images/BT11/tv-14250-512px.jpg 512w,
+  ./../images/BT11/tv-14250-768px.jpg 768w,
+  ./../images/BT11/tv-14250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-14250-1090px.jpg"
+  data-srcset="./../images/BT11/bd-14250-512px.jpg 512w,
+  ./../images/BT11/bd-14250-768px.jpg 768w,
+  ./../images/BT11/bd-14250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -103,8 +173,22 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - Joseph's arm, nose and torso have been shaded better
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-14815.jpg" />
- <img src="./../images/BT11/bd-14815.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-14815-1090px.jpg"
+  data-srcset="./../images/BT11/tv-14815-512px.jpg 512w,
+  ./../images/BT11/tv-14815-768px.jpg 768w,
+  ./../images/BT11/tv-14815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-14815-1090px.jpg"
+  data-srcset="./../images/BT11/bd-14815-512px.jpg 512w,
+  ./../images/BT11/bd-14815-768px.jpg 768w,
+  ./../images/BT11/bd-14815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -112,8 +196,22 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - And Smokey's eyes have been retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-14900.jpg" />
- <img src="./../images/BT11/bd-14900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-14900-1090px.jpg"
+  data-srcset="./../images/BT11/tv-14900-512px.jpg 512w,
+  ./../images/BT11/tv-14900-768px.jpg 768w,
+  ./../images/BT11/tv-14900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-14900-1090px.jpg"
+  data-srcset="./../images/BT11/bd-14900-512px.jpg 512w,
+  ./../images/BT11/bd-14900-768px.jpg 768w,
+  ./../images/BT11/bd-14900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -121,8 +219,22 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - Straight's vampire fangs again here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-15510.jpg" />
- <img src="./../images/BT11/bd-15510.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-15510-1090px.jpg"
+  data-srcset="./../images/BT11/tv-15510-512px.jpg 512w,
+  ./../images/BT11/tv-15510-768px.jpg 768w,
+  ./../images/BT11/tv-15510-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-15510-1090px.jpg"
+  data-srcset="./../images/BT11/bd-15510-512px.jpg 512w,
+  ./../images/BT11/bd-15510-768px.jpg 768w,
+  ./../images/BT11/bd-15510-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -130,8 +242,22 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - Smokey has been completely redrawn and re-shaded in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-17150.jpg" />
- <img src="./../images/BT11/bd-17150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-17150-1090px.jpg"
+  data-srcset="./../images/BT11/tv-17150-512px.jpg 512w,
+  ./../images/BT11/tv-17150-768px.jpg 768w,
+  ./../images/BT11/tv-17150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-17150-1090px.jpg"
+  data-srcset="./../images/BT11/bd-17150-512px.jpg 512w,
+  ./../images/BT11/bd-17150-768px.jpg 768w,
+  ./../images/BT11/bd-17150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -139,14 +265,42 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - The vampire fangs strike again (in the BD version of the first shot Straights also has vertical pupils):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-17290.jpg" />
- <img src="./../images/BT11/bd-17290.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-17290-1090px.jpg"
+  data-srcset="./../images/BT11/tv-17290-512px.jpg 512w,
+  ./../images/BT11/tv-17290-768px.jpg 768w,
+  ./../images/BT11/tv-17290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-17290-1090px.jpg"
+  data-srcset="./../images/BT11/bd-17290-512px.jpg 512w,
+  ./../images/BT11/bd-17290-768px.jpg 768w,
+  ./../images/BT11/bd-17290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-18620.jpg" />
- <img src="./../images/BT11/bd-18620.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-18620-1090px.jpg"
+  data-srcset="./../images/BT11/tv-18620-512px.jpg 512w,
+  ./../images/BT11/tv-18620-768px.jpg 768w,
+  ./../images/BT11/tv-18620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-18620-1090px.jpg"
+  data-srcset="./../images/BT11/bd-18620-512px.jpg 512w,
+  ./../images/BT11/bd-18620-768px.jpg 768w,
+  ./../images/BT11/bd-18620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -154,8 +308,22 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - Pretty much everything has been retouched and re-shaded in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-19670.jpg" />
- <img src="./../images/BT11/bd-19670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-19670-1090px.jpg"
+  data-srcset="./../images/BT11/tv-19670-512px.jpg 512w,
+  ./../images/BT11/tv-19670-768px.jpg 768w,
+  ./../images/BT11/tv-19670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-19670-1090px.jpg"
+  data-srcset="./../images/BT11/bd-19670-512px.jpg 512w,
+  ./../images/BT11/bd-19670-768px.jpg 768w,
+  ./../images/BT11/bd-19670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -163,8 +331,22 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - Straights's vampire fangs have been drawn for one last time, and his eye wound is different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-19840.jpg" />
- <img src="./../images/BT11/bd-19840.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-19840-1090px.jpg"
+  data-srcset="./../images/BT11/tv-19840-512px.jpg 512w,
+  ./../images/BT11/tv-19840-768px.jpg 768w,
+  ./../images/BT11/tv-19840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-19840-1090px.jpg"
+  data-srcset="./../images/BT11/bd-19840-512px.jpg 512w,
+  ./../images/BT11/bd-19840-768px.jpg 768w,
+  ./../images/BT11/bd-19840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -172,26 +354,82 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - In these shots there are a bunch of minor retouches in Joseph's outlines, his arms, their hands and Straights' shading and positioning:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-20700.jpg" />
- <img src="./../images/BT11/bd-20700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-20700-1090px.jpg"
+  data-srcset="./../images/BT11/tv-20700-512px.jpg 512w,
+  ./../images/BT11/tv-20700-768px.jpg 768w,
+  ./../images/BT11/tv-20700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-20700-1090px.jpg"
+  data-srcset="./../images/BT11/bd-20700-512px.jpg 512w,
+  ./../images/BT11/bd-20700-768px.jpg 768w,
+  ./../images/BT11/bd-20700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-20830.jpg" />
- <img src="./../images/BT11/bd-20830.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-20830-1090px.jpg"
+  data-srcset="./../images/BT11/tv-20830-512px.jpg 512w,
+  ./../images/BT11/tv-20830-768px.jpg 768w,
+  ./../images/BT11/tv-20830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-20830-1090px.jpg"
+  data-srcset="./../images/BT11/bd-20830-512px.jpg 512w,
+  ./../images/BT11/bd-20830-768px.jpg 768w,
+  ./../images/BT11/bd-20830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-20910.jpg" />
- <img src="./../images/BT11/bd-20910.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-20910-1090px.jpg"
+  data-srcset="./../images/BT11/tv-20910-512px.jpg 512w,
+  ./../images/BT11/tv-20910-768px.jpg 768w,
+  ./../images/BT11/tv-20910-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-20910-1090px.jpg"
+  data-srcset="./../images/BT11/bd-20910-512px.jpg 512w,
+  ./../images/BT11/bd-20910-768px.jpg 768w,
+  ./../images/BT11/bd-20910-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-21930.jpg" />
- <img src="./../images/BT11/bd-21930.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-21930-1090px.jpg"
+  data-srcset="./../images/BT11/tv-21930-512px.jpg 512w,
+  ./../images/BT11/tv-21930-768px.jpg 768w,
+  ./../images/BT11/tv-21930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-21930-1090px.jpg"
+  data-srcset="./../images/BT11/bd-21930-512px.jpg 512w,
+  ./../images/BT11/bd-21930-768px.jpg 768w,
+  ./../images/BT11/bd-21930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -199,15 +437,43 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - Straights' death scene is more zoomed in in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-22680.jpg" />
- <img src="./../images/BT11/bd-22680.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-22680-1090px.jpg"
+  data-srcset="./../images/BT11/tv-22680-512px.jpg 512w,
+  ./../images/BT11/tv-22680-768px.jpg 768w,
+  ./../images/BT11/tv-22680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-22680-1090px.jpg"
+  data-srcset="./../images/BT11/bd-22680-512px.jpg 512w,
+  ./../images/BT11/bd-22680-768px.jpg 768w,
+  ./../images/BT11/bd-22680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-22700.jpg" />
- <img src="./../images/BT11/bd-22700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-22700-1090px.jpg"
+  data-srcset="./../images/BT11/tv-22700-512px.jpg 512w,
+  ./../images/BT11/tv-22700-768px.jpg 768w,
+  ./../images/BT11/tv-22700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-22700-1090px.jpg"
+  data-srcset="./../images/BT11/bd-22700-512px.jpg 512w,
+  ./../images/BT11/bd-22700-768px.jpg 768w,
+  ./../images/BT11/bd-22700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -215,8 +481,22 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - Oh, my! What is that pesky hand doing there in the top left corner? That's not good! We gotta censor that for the TV broadcast!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-23370.jpg" />
- <img src="./../images/BT11/bd-23370.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-23370-1090px.jpg"
+  data-srcset="./../images/BT11/tv-23370-512px.jpg 512w,
+  ./../images/BT11/tv-23370-768px.jpg 768w,
+  ./../images/BT11/tv-23370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-23370-1090px.jpg"
+  data-srcset="./../images/BT11/bd-23370-512px.jpg 512w,
+  ./../images/BT11/bd-23370-768px.jpg 768w,
+  ./../images/BT11/bd-23370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -224,8 +504,22 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - Your friendly neighborhood nazi man has slightly more reflective shades in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-24190.jpg" />
- <img src="./../images/BT11/bd-24190.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-24190-1090px.jpg"
+  data-srcset="./../images/BT11/tv-24190-512px.jpg 512w,
+  ./../images/BT11/tv-24190-768px.jpg 768w,
+  ./../images/BT11/tv-24190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-24190-1090px.jpg"
+  data-srcset="./../images/BT11/bd-24190-512px.jpg 512w,
+  ./../images/BT11/bd-24190-768px.jpg 768w,
+  ./../images/BT11/bd-24190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -233,8 +527,22 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - Oh, finally somebody fixed the light in the corridor! I swear to god, it's been broken for ages:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-25000.jpg" />
- <img src="./../images/BT11/bd-25000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-25000-1090px.jpg"
+  data-srcset="./../images/BT11/tv-25000-512px.jpg 512w,
+  ./../images/BT11/tv-25000-768px.jpg 768w,
+  ./../images/BT11/tv-25000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-25000-1090px.jpg"
+  data-srcset="./../images/BT11/bd-25000-512px.jpg 512w,
+  ./../images/BT11/bd-25000-768px.jpg 768w,
+  ./../images/BT11/bd-25000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -242,8 +550,22 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - Joseph has been completely redrawn in this shot here (he's also way bigger), and the shadows on the ground have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-25445.jpg" />
- <img src="./../images/BT11/bd-25445.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-25445-1090px.jpg"
+  data-srcset="./../images/BT11/tv-25445-512px.jpg 512w,
+  ./../images/BT11/tv-25445-768px.jpg 768w,
+  ./../images/BT11/tv-25445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-25445-1090px.jpg"
+  data-srcset="./../images/BT11/bd-25445-512px.jpg 512w,
+  ./../images/BT11/bd-25445-768px.jpg 768w,
+  ./../images/BT11/bd-25445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -251,15 +573,43 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - Looking a little too much like Jonathan here, huh, Joseph?:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-25447.jpg" />
- <img src="./../images/BT11/bd-25447.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-25447-1090px.jpg"
+  data-srcset="./../images/BT11/tv-25447-512px.jpg 512w,
+  ./../images/BT11/tv-25447-768px.jpg 768w,
+  ./../images/BT11/tv-25447-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-25447-1090px.jpg"
+  data-srcset="./../images/BT11/bd-25447-512px.jpg 512w,
+  ./../images/BT11/bd-25447-768px.jpg 768w,
+  ./../images/BT11/bd-25447-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-25470.jpg" />
- <img src="./../images/BT11/bd-25470.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-25470-1090px.jpg"
+  data-srcset="./../images/BT11/tv-25470-512px.jpg 512w,
+  ./../images/BT11/tv-25470-768px.jpg 768w,
+  ./../images/BT11/tv-25470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-25470-1090px.jpg"
+  data-srcset="./../images/BT11/bd-25470-512px.jpg 512w,
+  ./../images/BT11/bd-25470-768px.jpg 768w,
+  ./../images/BT11/bd-25470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -272,15 +622,43 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 - For some reason in the TV version, this kid in this last scene has two chins? Or two lower lips? Anyhow, it's been corrected in the BDs, and he's been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-30700.jpg" />
- <img src="./../images/BT11/bd-30700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-30700-1090px.jpg"
+  data-srcset="./../images/BT11/tv-30700-512px.jpg 512w,
+  ./../images/BT11/tv-30700-768px.jpg 768w,
+  ./../images/BT11/tv-30700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-30700-1090px.jpg"
+  data-srcset="./../images/BT11/bd-30700-512px.jpg 512w,
+  ./../images/BT11/bd-30700-768px.jpg 768w,
+  ./../images/BT11/bd-30700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT11/tv-30765.jpg" />
- <img src="./../images/BT11/bd-30765.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/tv-30765-1090px.jpg"
+  data-srcset="./../images/BT11/tv-30765-512px.jpg 512w,
+  ./../images/BT11/tv-30765-768px.jpg 768w,
+  ./../images/BT11/tv-30765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT11/bd-30765-1090px.jpg"
+  data-srcset="./../images/BT11/bd-30765-512px.jpg 512w,
+  ./../images/BT11/bd-30765-768px.jpg 768w,
+  ./../images/BT11/bd-30765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

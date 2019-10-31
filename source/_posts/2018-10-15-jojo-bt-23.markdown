@@ -23,8 +23,22 @@ Without further ado then, let's dive in!
 - Let's begin with a slightly redrawn Kars, flexing his muscly fingers in anticipation for his upcoming rock-paper-scissors championship finals:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-03200.jpg" />
- <img src="./../images/BT23/bd-03200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-03200-1090px.jpg"
+  data-srcset="./../images/BT23/tv-03200-512px.jpg 512w,
+  ./../images/BT23/tv-03200-768px.jpg 768w,
+  ./../images/BT23/tv-03200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-03200-1090px.jpg"
+  data-srcset="./../images/BT23/bd-03200-512px.jpg 512w,
+  ./../images/BT23/bd-03200-768px.jpg 768w,
+  ./../images/BT23/bd-03200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -32,8 +46,22 @@ Without further ado then, let's dive in!
 - In this shot both Wham, Joseph and the horn-wind effect between them have been moved, the whole shot itself is more distorted along the edges, there are some extra white effects which represent the wind, the background itself has been retouched, the two smaller fires no longer stand out that much against the bigger fire in the background and that... yellowy thing near Joseph is no longer there:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-03995.jpg" />
- <img src="./../images/BT23/bd-03995.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-03995-1090px.jpg"
+  data-srcset="./../images/BT23/tv-03995-512px.jpg 512w,
+  ./../images/BT23/tv-03995-768px.jpg 768w,
+  ./../images/BT23/tv-03995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-03995-1090px.jpg"
+  data-srcset="./../images/BT23/bd-03995-512px.jpg 512w,
+  ./../images/BT23/bd-03995-768px.jpg 768w,
+  ./../images/BT23/bd-03995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -41,8 +69,22 @@ Without further ado then, let's dive in!
 - Here, Joseph has been slightly moved, they added some white movement lines along the edges (and a slight distortion under them as well), and Caesar's bandana (rest in pepperoni) has been moved too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-04750.jpg" />
- <img src="./../images/BT23/bd-04750.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-04750-1090px.jpg"
+  data-srcset="./../images/BT23/tv-04750-512px.jpg 512w,
+  ./../images/BT23/tv-04750-768px.jpg 768w,
+  ./../images/BT23/tv-04750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-04750-1090px.jpg"
+  data-srcset="./../images/BT23/bd-04750-512px.jpg 512w,
+  ./../images/BT23/bd-04750-768px.jpg 768w,
+  ./../images/BT23/bd-04750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -50,22 +92,64 @@ Without further ado then, let's dive in!
 - This animation now has a darker vignette along the edges, and they also added another set of movement lines (black, this time):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-04770.jpg" />
- <img src="./../images/BT23/bd-04770.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-04770-1090px.jpg"
+  data-srcset="./../images/BT23/tv-04770-512px.jpg 512w,
+  ./../images/BT23/tv-04770-768px.jpg 768w,
+  ./../images/BT23/tv-04770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-04770-1090px.jpg"
+  data-srcset="./../images/BT23/bd-04770-512px.jpg 512w,
+  ./../images/BT23/bd-04770-768px.jpg 768w,
+  ./../images/BT23/bd-04770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-04775.jpg" />
- <img src="./../images/BT23/bd-04775.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-04775-1090px.jpg"
+  data-srcset="./../images/BT23/tv-04775-512px.jpg 512w,
+  ./../images/BT23/tv-04775-768px.jpg 768w,
+  ./../images/BT23/tv-04775-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-04775-1090px.jpg"
+  data-srcset="./../images/BT23/bd-04775-512px.jpg 512w,
+  ./../images/BT23/bd-04775-768px.jpg 768w,
+  ./../images/BT23/bd-04775-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-04780.jpg" />
- <img src="./../images/BT23/bd-04780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-04780-1090px.jpg"
+  data-srcset="./../images/BT23/tv-04780-512px.jpg 512w,
+  ./../images/BT23/tv-04780-768px.jpg 768w,
+  ./../images/BT23/tv-04780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-04780-1090px.jpg"
+  data-srcset="./../images/BT23/bd-04780-512px.jpg 512w,
+  ./../images/BT23/bd-04780-768px.jpg 768w,
+  ./../images/BT23/bd-04780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -73,8 +157,22 @@ Without further ado then, let's dive in!
 - Here, Joseph is sweating less and his right eye has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-05395.jpg" />
- <img src="./../images/BT23/bd-05395.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-05395-1090px.jpg"
+  data-srcset="./../images/BT23/tv-05395-512px.jpg 512w,
+  ./../images/BT23/tv-05395-768px.jpg 768w,
+  ./../images/BT23/tv-05395-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-05395-1090px.jpg"
+  data-srcset="./../images/BT23/bd-05395-512px.jpg 512w,
+  ./../images/BT23/bd-05395-768px.jpg 768w,
+  ./../images/BT23/bd-05395-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -82,8 +180,22 @@ Without further ado then, let's dive in!
 - Aha! That's what that yellow thing was back there! Anyway, here the perspective on the background has been changed... Is this the first time that happens? Anyway! The shading on Joseph's face is also different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-05945.jpg" />
- <img src="./../images/BT23/bd-05945.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-05945-1090px.jpg"
+  data-srcset="./../images/BT23/tv-05945-512px.jpg 512w,
+  ./../images/BT23/tv-05945-768px.jpg 768w,
+  ./../images/BT23/tv-05945-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-05945-1090px.jpg"
+  data-srcset="./../images/BT23/bd-05945-512px.jpg 512w,
+  ./../images/BT23/bd-05945-768px.jpg 768w,
+  ./../images/BT23/bd-05945-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -91,8 +203,22 @@ Without further ado then, let's dive in!
 - The scratch texture overlay is different here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-06205.jpg" />
- <img src="./../images/BT23/bd-06205.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-06205-1090px.jpg"
+  data-srcset="./../images/BT23/tv-06205-512px.jpg 512w,
+  ./../images/BT23/tv-06205-768px.jpg 768w,
+  ./../images/BT23/tv-06205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-06205-1090px.jpg"
+  data-srcset="./../images/BT23/bd-06205-512px.jpg 512w,
+  ./../images/BT23/bd-06205-768px.jpg 768w,
+  ./../images/BT23/bd-06205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -107,8 +233,22 @@ Without further ado then, let's dive in!
 - Here, this shot looks less distorted around the edges, the shadows on Kars are darker and the lines on his face have been removed as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-07270.jpg" />
- <img src="./../images/BT23/bd-07270.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-07270-1090px.jpg"
+  data-srcset="./../images/BT23/tv-07270-512px.jpg 512w,
+  ./../images/BT23/tv-07270-768px.jpg 768w,
+  ./../images/BT23/tv-07270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-07270-1090px.jpg"
+  data-srcset="./../images/BT23/bd-07270-512px.jpg 512w,
+  ./../images/BT23/bd-07270-768px.jpg 768w,
+  ./../images/BT23/bd-07270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -116,43 +256,127 @@ Without further ado then, let's dive in!
 - Here, both Joseph and Wham's arms have been retouched...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-07365.jpg" />
- <img src="./../images/BT23/bd-07365.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-07365-1090px.jpg"
+  data-srcset="./../images/BT23/tv-07365-512px.jpg 512w,
+  ./../images/BT23/tv-07365-768px.jpg 768w,
+  ./../images/BT23/tv-07365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-07365-1090px.jpg"
+  data-srcset="./../images/BT23/bd-07365-512px.jpg 512w,
+  ./../images/BT23/bd-07365-768px.jpg 768w,
+  ./../images/BT23/bd-07365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-07415.jpg" />
- <img src="./../images/BT23/bd-07415.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-07415-1090px.jpg"
+  data-srcset="./../images/BT23/tv-07415-512px.jpg 512w,
+  ./../images/BT23/tv-07415-768px.jpg 768w,
+  ./../images/BT23/tv-07415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-07415-1090px.jpg"
+  data-srcset="./../images/BT23/bd-07415-512px.jpg 512w,
+  ./../images/BT23/bd-07415-768px.jpg 768w,
+  ./../images/BT23/bd-07415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-07435.jpg" />
- <img src="./../images/BT23/bd-07435.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-07435-1090px.jpg"
+  data-srcset="./../images/BT23/tv-07435-512px.jpg 512w,
+  ./../images/BT23/tv-07435-768px.jpg 768w,
+  ./../images/BT23/tv-07435-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-07435-1090px.jpg"
+  data-srcset="./../images/BT23/bd-07435-512px.jpg 512w,
+  ./../images/BT23/bd-07435-768px.jpg 768w,
+  ./../images/BT23/bd-07435-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-07440.jpg" />
- <img src="./../images/BT23/bd-07440.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-07440-1090px.jpg"
+  data-srcset="./../images/BT23/tv-07440-512px.jpg 512w,
+  ./../images/BT23/tv-07440-768px.jpg 768w,
+  ./../images/BT23/tv-07440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-07440-1090px.jpg"
+  data-srcset="./../images/BT23/bd-07440-512px.jpg 512w,
+  ./../images/BT23/bd-07440-768px.jpg 768w,
+  ./../images/BT23/bd-07440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-07460.jpg" />
- <img src="./../images/BT23/bd-07460.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-07460-1090px.jpg"
+  data-srcset="./../images/BT23/tv-07460-512px.jpg 512w,
+  ./../images/BT23/tv-07460-768px.jpg 768w,
+  ./../images/BT23/tv-07460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-07460-1090px.jpg"
+  data-srcset="./../images/BT23/bd-07460-512px.jpg 512w,
+  ./../images/BT23/bd-07460-768px.jpg 768w,
+  ./../images/BT23/bd-07460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-07482.jpg" />
- <img src="./../images/BT23/bd-07482.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-07482-1090px.jpg"
+  data-srcset="./../images/BT23/tv-07482-512px.jpg 512w,
+  ./../images/BT23/tv-07482-768px.jpg 768w,
+  ./../images/BT23/tv-07482-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-07482-1090px.jpg"
+  data-srcset="./../images/BT23/bd-07482-512px.jpg 512w,
+  ./../images/BT23/bd-07482-768px.jpg 768w,
+  ./../images/BT23/bd-07482-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -160,8 +384,22 @@ Without further ado then, let's dive in!
 - ...and, in a couple of frames, they added a crack effect in the background. But... everything is cracked. Even the air:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-07425.jpg" />
- <img src="./../images/BT23/bd-07425.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-07425-1090px.jpg"
+  data-srcset="./../images/BT23/tv-07425-512px.jpg 512w,
+  ./../images/BT23/tv-07425-768px.jpg 768w,
+  ./../images/BT23/tv-07425-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-07425-1090px.jpg"
+  data-srcset="./../images/BT23/bd-07425-512px.jpg 512w,
+  ./../images/BT23/bd-07425-768px.jpg 768w,
+  ./../images/BT23/bd-07425-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -169,8 +407,22 @@ Without further ado then, let's dive in!
 - Here, the flowing blood has been moved, and the scratch texture overlay around the mouth is slightly different...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-09225.jpg" />
- <img src="./../images/BT23/bd-09225.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-09225-1090px.jpg"
+  data-srcset="./../images/BT23/tv-09225-512px.jpg 512w,
+  ./../images/BT23/tv-09225-768px.jpg 768w,
+  ./../images/BT23/tv-09225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-09225-1090px.jpg"
+  data-srcset="./../images/BT23/bd-09225-512px.jpg 512w,
+  ./../images/BT23/bd-09225-768px.jpg 768w,
+  ./../images/BT23/bd-09225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -178,8 +430,22 @@ Without further ado then, let's dive in!
 - ...and the lava-blood has also been fixed in a couple of frames (since it was slightly messed up in the TV version):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-09262.jpg" />
- <img src="./../images/BT23/bd-09262.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-09262-1090px.jpg"
+  data-srcset="./../images/BT23/tv-09262-512px.jpg 512w,
+  ./../images/BT23/tv-09262-768px.jpg 768w,
+  ./../images/BT23/tv-09262-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-09262-1090px.jpg"
+  data-srcset="./../images/BT23/bd-09262-512px.jpg 512w,
+  ./../images/BT23/bd-09262-768px.jpg 768w,
+  ./../images/BT23/bd-09262-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -187,8 +453,22 @@ Without further ado then, let's dive in!
 - And here, Joseph has received a darker scratch texture overlay, and he's now wearing the ring with the antidote on his inky dinky pinky:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-10000.jpg" />
- <img src="./../images/BT23/bd-10000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-10000-1090px.jpg"
+  data-srcset="./../images/BT23/tv-10000-512px.jpg 512w,
+  ./../images/BT23/tv-10000-768px.jpg 768w,
+  ./../images/BT23/tv-10000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-10000-1090px.jpg"
+  data-srcset="./../images/BT23/bd-10000-512px.jpg 512w,
+  ./../images/BT23/bd-10000-768px.jpg 768w,
+  ./../images/BT23/bd-10000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -196,22 +476,64 @@ Without further ado then, let's dive in!
 - Here, the smoke effect is different, and Joseph's upper lip area has also been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-10080.jpg" />
- <img src="./../images/BT23/bd-10080.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-10080-1090px.jpg"
+  data-srcset="./../images/BT23/tv-10080-512px.jpg 512w,
+  ./../images/BT23/tv-10080-768px.jpg 768w,
+  ./../images/BT23/tv-10080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-10080-1090px.jpg"
+  data-srcset="./../images/BT23/bd-10080-512px.jpg 512w,
+  ./../images/BT23/bd-10080-768px.jpg 768w,
+  ./../images/BT23/bd-10080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-10225.jpg" />
- <img src="./../images/BT23/bd-10225.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-10225-1090px.jpg"
+  data-srcset="./../images/BT23/tv-10225-512px.jpg 512w,
+  ./../images/BT23/tv-10225-768px.jpg 768w,
+  ./../images/BT23/tv-10225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-10225-1090px.jpg"
+  data-srcset="./../images/BT23/bd-10225-512px.jpg 512w,
+  ./../images/BT23/bd-10225-768px.jpg 768w,
+  ./../images/BT23/bd-10225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-10238.jpg" />
- <img src="./../images/BT23/bd-10238.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-10238-1090px.jpg"
+  data-srcset="./../images/BT23/tv-10238-512px.jpg 512w,
+  ./../images/BT23/tv-10238-768px.jpg 768w,
+  ./../images/BT23/tv-10238-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-10238-1090px.jpg"
+  data-srcset="./../images/BT23/bd-10238-512px.jpg 512w,
+  ./../images/BT23/bd-10238-768px.jpg 768w,
+  ./../images/BT23/bd-10238-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -219,8 +541,22 @@ Without further ado then, let's dive in!
 - The camera has been moved in this shot, the blur effect is completely different and the zombies have been retouched too (especially the eyes, which are now glowing):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-10885.jpg" />
- <img src="./../images/BT23/bd-10885.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-10885-1090px.jpg"
+  data-srcset="./../images/BT23/tv-10885-512px.jpg 512w,
+  ./../images/BT23/tv-10885-768px.jpg 768w,
+  ./../images/BT23/tv-10885-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-10885-1090px.jpg"
+  data-srcset="./../images/BT23/bd-10885-512px.jpg 512w,
+  ./../images/BT23/bd-10885-768px.jpg 768w,
+  ./../images/BT23/bd-10885-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -228,8 +564,22 @@ Without further ado then, let's dive in!
 - Here, the wounds have been uncensored, most things are brighter and Wham's lower jaw has been retouched too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-11165.jpg" />
- <img src="./../images/BT23/bd-11165.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-11165-1090px.jpg"
+  data-srcset="./../images/BT23/tv-11165-512px.jpg 512w,
+  ./../images/BT23/tv-11165-768px.jpg 768w,
+  ./../images/BT23/tv-11165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-11165-1090px.jpg"
+  data-srcset="./../images/BT23/bd-11165-512px.jpg 512w,
+  ./../images/BT23/bd-11165-768px.jpg 768w,
+  ./../images/BT23/bd-11165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -237,15 +587,43 @@ Without further ado then, let's dive in!
 - Here, Joseph, have a better set of eyes:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-12675.jpg" />
- <img src="./../images/BT23/bd-12675.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-12675-1090px.jpg"
+  data-srcset="./../images/BT23/tv-12675-512px.jpg 512w,
+  ./../images/BT23/tv-12675-768px.jpg 768w,
+  ./../images/BT23/tv-12675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-12675-1090px.jpg"
+  data-srcset="./../images/BT23/bd-12675-512px.jpg 512w,
+  ./../images/BT23/bd-12675-768px.jpg 768w,
+  ./../images/BT23/bd-12675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-12695.jpg" />
- <img src="./../images/BT23/bd-12695.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-12695-1090px.jpg"
+  data-srcset="./../images/BT23/tv-12695-512px.jpg 512w,
+  ./../images/BT23/tv-12695-768px.jpg 768w,
+  ./../images/BT23/tv-12695-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-12695-1090px.jpg"
+  data-srcset="./../images/BT23/bd-12695-512px.jpg 512w,
+  ./../images/BT23/bd-12695-768px.jpg 768w,
+  ./../images/BT23/bd-12695-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -253,8 +631,22 @@ Without further ado then, let's dive in!
 - Ah, another BD mistake... For some reason, a tiny bit of hair has been de-coloured here (this only lasts for a couple of frames, luckily):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-13225.jpg" />
- <img src="./../images/BT23/bd-13225.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-13225-1090px.jpg"
+  data-srcset="./../images/BT23/tv-13225-512px.jpg 512w,
+  ./../images/BT23/tv-13225-768px.jpg 768w,
+  ./../images/BT23/tv-13225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-13225-1090px.jpg"
+  data-srcset="./../images/BT23/bd-13225-512px.jpg 512w,
+  ./../images/BT23/bd-13225-768px.jpg 768w,
+  ./../images/BT23/bd-13225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -262,15 +654,43 @@ Without further ado then, let's dive in!
 - Kars is, once again, wearing less make-up here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-14095.jpg" />
- <img src="./../images/BT23/bd-14095.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-14095-1090px.jpg"
+  data-srcset="./../images/BT23/tv-14095-512px.jpg 512w,
+  ./../images/BT23/tv-14095-768px.jpg 768w,
+  ./../images/BT23/tv-14095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-14095-1090px.jpg"
+  data-srcset="./../images/BT23/bd-14095-512px.jpg 512w,
+  ./../images/BT23/bd-14095-768px.jpg 768w,
+  ./../images/BT23/bd-14095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-14200.jpg" />
- <img src="./../images/BT23/bd-14200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-14200-1090px.jpg"
+  data-srcset="./../images/BT23/tv-14200-512px.jpg 512w,
+  ./../images/BT23/tv-14200-768px.jpg 768w,
+  ./../images/BT23/tv-14200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-14200-1090px.jpg"
+  data-srcset="./../images/BT23/bd-14200-512px.jpg 512w,
+  ./../images/BT23/bd-14200-768px.jpg 768w,
+  ./../images/BT23/bd-14200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -278,8 +698,22 @@ Without further ado then, let's dive in!
 - In this flashback Wham has been moved, redrawn completely, and he's no longer draped in that thing; those two figures lying down below the altar have also been moved and retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-14275.jpg" />
- <img src="./../images/BT23/bd-14275.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-14275-1090px.jpg"
+  data-srcset="./../images/BT23/tv-14275-512px.jpg 512w,
+  ./../images/BT23/tv-14275-768px.jpg 768w,
+  ./../images/BT23/tv-14275-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-14275-1090px.jpg"
+  data-srcset="./../images/BT23/bd-14275-512px.jpg 512w,
+  ./../images/BT23/bd-14275-768px.jpg 768w,
+  ./../images/BT23/bd-14275-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -287,29 +721,85 @@ Without further ado then, let's dive in!
 - Ah, a complete redraw! How exciting:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-15040.jpg" />
- <img src="./../images/BT23/bd-15040.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-15040-1090px.jpg"
+  data-srcset="./../images/BT23/tv-15040-512px.jpg 512w,
+  ./../images/BT23/tv-15040-768px.jpg 768w,
+  ./../images/BT23/tv-15040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-15040-1090px.jpg"
+  data-srcset="./../images/BT23/bd-15040-512px.jpg 512w,
+  ./../images/BT23/bd-15040-768px.jpg 768w,
+  ./../images/BT23/bd-15040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-15115.jpg" />
- <img src="./../images/BT23/bd-15115.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-15115-1090px.jpg"
+  data-srcset="./../images/BT23/tv-15115-512px.jpg 512w,
+  ./../images/BT23/tv-15115-768px.jpg 768w,
+  ./../images/BT23/tv-15115-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-15115-1090px.jpg"
+  data-srcset="./../images/BT23/bd-15115-512px.jpg 512w,
+  ./../images/BT23/bd-15115-768px.jpg 768w,
+  ./../images/BT23/bd-15115-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-15120.jpg" />
- <img src="./../images/BT23/bd-15120.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-15120-1090px.jpg"
+  data-srcset="./../images/BT23/tv-15120-512px.jpg 512w,
+  ./../images/BT23/tv-15120-768px.jpg 768w,
+  ./../images/BT23/tv-15120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-15120-1090px.jpg"
+  data-srcset="./../images/BT23/bd-15120-512px.jpg 512w,
+  ./../images/BT23/bd-15120-768px.jpg 768w,
+  ./../images/BT23/bd-15120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-15165.jpg" />
- <img src="./../images/BT23/bd-15165.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-15165-1090px.jpg"
+  data-srcset="./../images/BT23/tv-15165-512px.jpg 512w,
+  ./../images/BT23/tv-15165-768px.jpg 768w,
+  ./../images/BT23/tv-15165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-15165-1090px.jpg"
+  data-srcset="./../images/BT23/bd-15165-512px.jpg 512w,
+  ./../images/BT23/bd-15165-768px.jpg 768w,
+  ./../images/BT23/bd-15165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -317,8 +807,22 @@ Without further ado then, let's dive in!
 - Here, all the zombies have been redrawn and re-shaded, and the top-right corner is also darker (and the bottom text is missing, but that's not new):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-16205.jpg" />
- <img src="./../images/BT23/bd-16205.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-16205-1090px.jpg"
+  data-srcset="./../images/BT23/tv-16205-512px.jpg 512w,
+  ./../images/BT23/tv-16205-768px.jpg 768w,
+  ./../images/BT23/tv-16205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-16205-1090px.jpg"
+  data-srcset="./../images/BT23/bd-16205-512px.jpg 512w,
+  ./../images/BT23/bd-16205-768px.jpg 768w,
+  ./../images/BT23/bd-16205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -326,8 +830,22 @@ Without further ado then, let's dive in!
 - The goons are looking better here as well...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-16845.jpg" />
- <img src="./../images/BT23/bd-16845.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-16845-1090px.jpg"
+  data-srcset="./../images/BT23/tv-16845-512px.jpg 512w,
+  ./../images/BT23/tv-16845-768px.jpg 768w,
+  ./../images/BT23/tv-16845-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-16845-1090px.jpg"
+  data-srcset="./../images/BT23/bd-16845-512px.jpg 512w,
+  ./../images/BT23/bd-16845-768px.jpg 768w,
+  ./../images/BT23/bd-16845-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -335,8 +853,22 @@ Without further ado then, let's dive in!
 - And here too! Plus, they've been uncensored (and the one on the left is even wearing pants now):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-17355.jpg" />
- <img src="./../images/BT23/bd-17355.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-17355-1090px.jpg"
+  data-srcset="./../images/BT23/tv-17355-512px.jpg 512w,
+  ./../images/BT23/tv-17355-768px.jpg 768w,
+  ./../images/BT23/tv-17355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-17355-1090px.jpg"
+  data-srcset="./../images/BT23/bd-17355-512px.jpg 512w,
+  ./../images/BT23/bd-17355-768px.jpg 768w,
+  ./../images/BT23/bd-17355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -344,8 +876,22 @@ Without further ado then, let's dive in!
 - Here, the highlights on Kars' hair are looking better, his shoulder has been retouched, and... for some reason, the strap for his foreahead thingie is missing:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-22414.jpg" />
- <img src="./../images/BT23/bd-22414.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-22414-1090px.jpg"
+  data-srcset="./../images/BT23/tv-22414-512px.jpg 512w,
+  ./../images/BT23/tv-22414-768px.jpg 768w,
+  ./../images/BT23/tv-22414-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-22414-1090px.jpg"
+  data-srcset="./../images/BT23/bd-22414-512px.jpg 512w,
+  ./../images/BT23/bd-22414-768px.jpg 768w,
+  ./../images/BT23/bd-22414-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -353,8 +899,22 @@ Without further ado then, let's dive in!
 - A few frames later, the strap appears, but is coloured differently (?):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-22420.jpg" />
- <img src="./../images/BT23/bd-22420.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-22420-1090px.jpg"
+  data-srcset="./../images/BT23/tv-22420-512px.jpg 512w,
+  ./../images/BT23/tv-22420-768px.jpg 768w,
+  ./../images/BT23/tv-22420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-22420-1090px.jpg"
+  data-srcset="./../images/BT23/bd-22420-512px.jpg 512w,
+  ./../images/BT23/bd-22420-768px.jpg 768w,
+  ./../images/BT23/bd-22420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -362,8 +922,22 @@ Without further ado then, let's dive in!
 - And finally, the shading on his neck and chin is lighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-22755.jpg" />
- <img src="./../images/BT23/bd-22755.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-22755-1090px.jpg"
+  data-srcset="./../images/BT23/tv-22755-512px.jpg 512w,
+  ./../images/BT23/tv-22755-768px.jpg 768w,
+  ./../images/BT23/tv-22755-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-22755-1090px.jpg"
+  data-srcset="./../images/BT23/bd-22755-512px.jpg 512w,
+  ./../images/BT23/bd-22755-768px.jpg 768w,
+  ./../images/BT23/bd-22755-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -371,8 +945,22 @@ Without further ado then, let's dive in!
 - Once again, the zombie goons are looking much better here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-23980.jpg" />
- <img src="./../images/BT23/bd-23980.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-23980-1090px.jpg"
+  data-srcset="./../images/BT23/tv-23980-512px.jpg 512w,
+  ./../images/BT23/tv-23980-768px.jpg 768w,
+  ./../images/BT23/tv-23980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-23980-1090px.jpg"
+  data-srcset="./../images/BT23/bd-23980-512px.jpg 512w,
+  ./../images/BT23/bd-23980-768px.jpg 768w,
+  ./../images/BT23/bd-23980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -387,8 +975,22 @@ Without further ado then, let's dive in!
 - And this front goon is also looking a little better here (more lines on the neck, a differently-coloured tongue):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-24225.jpg" />
- <img src="./../images/BT23/bd-24225.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-24225-1090px.jpg"
+  data-srcset="./../images/BT23/tv-24225-512px.jpg 512w,
+  ./../images/BT23/tv-24225-768px.jpg 768w,
+  ./../images/BT23/tv-24225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-24225-1090px.jpg"
+  data-srcset="./../images/BT23/bd-24225-512px.jpg 512w,
+  ./../images/BT23/bd-24225-768px.jpg 768w,
+  ./../images/BT23/bd-24225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -396,8 +998,22 @@ Without further ado then, let's dive in!
 - Joseph's arms are no longer scratched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-24950.jpg" />
- <img src="./../images/BT23/bd-24950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-24950-1090px.jpg"
+  data-srcset="./../images/BT23/tv-24950-512px.jpg 512w,
+  ./../images/BT23/tv-24950-768px.jpg 768w,
+  ./../images/BT23/tv-24950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-24950-1090px.jpg"
+  data-srcset="./../images/BT23/bd-24950-512px.jpg 512w,
+  ./../images/BT23/bd-24950-768px.jpg 768w,
+  ./../images/BT23/bd-24950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -405,8 +1021,22 @@ Without further ado then, let's dive in!
 - And Kars' nose is no longer shaded that much on the bottom:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-26795.jpg" />
- <img src="./../images/BT23/bd-26795.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-26795-1090px.jpg"
+  data-srcset="./../images/BT23/tv-26795-512px.jpg 512w,
+  ./../images/BT23/tv-26795-768px.jpg 768w,
+  ./../images/BT23/tv-26795-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-26795-1090px.jpg"
+  data-srcset="./../images/BT23/bd-26795-512px.jpg 512w,
+  ./../images/BT23/bd-26795-768px.jpg 768w,
+  ./../images/BT23/bd-26795-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -414,15 +1044,43 @@ Without further ado then, let's dive in!
 - In this bit of Kars doing one of the WEIRDEST THINGS he does in the entire series (and that's counting him transforming his hand into a squirrel), he's been retouched...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-29240.jpg" />
- <img src="./../images/BT23/bd-29240.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-29240-1090px.jpg"
+  data-srcset="./../images/BT23/tv-29240-512px.jpg 512w,
+  ./../images/BT23/tv-29240-768px.jpg 768w,
+  ./../images/BT23/tv-29240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-29240-1090px.jpg"
+  data-srcset="./../images/BT23/bd-29240-512px.jpg 512w,
+  ./../images/BT23/bd-29240-768px.jpg 768w,
+  ./../images/BT23/bd-29240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-29304.jpg" />
- <img src="./../images/BT23/bd-29304.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-29304-1090px.jpg"
+  data-srcset="./../images/BT23/tv-29304-512px.jpg 512w,
+  ./../images/BT23/tv-29304-768px.jpg 768w,
+  ./../images/BT23/tv-29304-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-29304-1090px.jpg"
+  data-srcset="./../images/BT23/bd-29304-512px.jpg 512w,
+  ./../images/BT23/bd-29304-768px.jpg 768w,
+  ./../images/BT23/bd-29304-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -437,8 +1095,22 @@ Without further ado then, let's dive in!
 - Let's end this episode on a familiar note! Our old friend 宝谷幸稔 (Hōtani Yukitoshi) has been added to the credits for this episode, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT23/tv-33416.jpg" />
- <img src="./../images/BT23/bd-33416.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/tv-33416-1090px.jpg"
+  data-srcset="./../images/BT23/tv-33416-512px.jpg 512w,
+  ./../images/BT23/tv-33416-768px.jpg 768w,
+  ./../images/BT23/tv-33416-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT23/bd-33416-1090px.jpg"
+  data-srcset="./../images/BT23/bd-33416-512px.jpg 512w,
+  ./../images/BT23/bd-33416-768px.jpg 768w,
+  ./../images/BT23/bd-33416-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

@@ -19,8 +19,22 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - For the first difference of today's episode, here we have a sharper, redrawn sister:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-03000.jpg" />
- <img src="./../images/PB08/bd-03000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-03000-1090px.jpg"
+  data-srcset="./../images/PB08/tv-03000-512px.jpg 512w,
+  ./../images/PB08/tv-03000-768px.jpg 768w,
+  ./../images/PB08/tv-03000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-03000-1090px.jpg"
+  data-srcset="./../images/PB08/bd-03000-512px.jpg 512w,
+  ./../images/PB08/bd-03000-768px.jpg 768w,
+  ./../images/PB08/bd-03000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -33,8 +47,22 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-06422.jpg" />
- <img src="./../images/PB08/bd-06422.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-06422-1090px.jpg"
+  data-srcset="./../images/PB08/tv-06422-512px.jpg 512w,
+  ./../images/PB08/tv-06422-768px.jpg 768w,
+  ./../images/PB08/tv-06422-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-06422-1090px.jpg"
+  data-srcset="./../images/PB08/bd-06422-512px.jpg 512w,
+  ./../images/PB08/bd-06422-768px.jpg 768w,
+  ./../images/PB08/bd-06422-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -42,8 +70,22 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - In this shot, a super tiny bit on Jonathan's chin was retouched; it's really minor, but he looks gorgeous in this frame so whatever, worth it:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-06617.jpg" />
- <img src="./../images/PB08/bd-06617.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-06617-1090px.jpg"
+  data-srcset="./../images/PB08/tv-06617-512px.jpg 512w,
+  ./../images/PB08/tv-06617-768px.jpg 768w,
+  ./../images/PB08/tv-06617-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-06617-1090px.jpg"
+  data-srcset="./../images/PB08/bd-06617-512px.jpg 512w,
+  ./../images/PB08/bd-06617-768px.jpg 768w,
+  ./../images/PB08/bd-06617-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -51,8 +93,22 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - Here, they retouched Jonathan's mouth and eye:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-08000.jpg" />
- <img src="./../images/PB08/bd-08000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-08000-1090px.jpg"
+  data-srcset="./../images/PB08/tv-08000-512px.jpg 512w,
+  ./../images/PB08/tv-08000-768px.jpg 768w,
+  ./../images/PB08/tv-08000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-08000-1090px.jpg"
+  data-srcset="./../images/PB08/bd-08000-512px.jpg 512w,
+  ./../images/PB08/bd-08000-768px.jpg 768w,
+  ./../images/PB08/bd-08000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -60,8 +116,22 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - This shot is a bit sharper and brighter... Except for the snake dude's head:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-08640.jpg" />
- <img src="./../images/PB08/bd-08640.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-08640-1090px.jpg"
+  data-srcset="./../images/PB08/tv-08640-512px.jpg 512w,
+  ./../images/PB08/tv-08640-768px.jpg 768w,
+  ./../images/PB08/tv-08640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-08640-1090px.jpg"
+  data-srcset="./../images/PB08/bd-08640-512px.jpg 512w,
+  ./../images/PB08/bd-08640-768px.jpg 768w,
+  ./../images/PB08/bd-08640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -69,8 +139,22 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - Poco's sister again here, with a new face:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-09030.jpg" />
- <img src="./../images/PB08/bd-09030.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-09030-1090px.jpg"
+  data-srcset="./../images/PB08/tv-09030-512px.jpg 512w,
+  ./../images/PB08/tv-09030-768px.jpg 768w,
+  ./../images/PB08/tv-09030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-09030-1090px.jpg"
+  data-srcset="./../images/PB08/bd-09030-512px.jpg 512w,
+  ./../images/PB08/bd-09030-768px.jpg 768w,
+  ./../images/PB08/bd-09030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -78,8 +162,22 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - Dio is no longer looking at his own nose here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-10075.jpg" />
- <img src="./../images/PB08/bd-10075.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-10075-1090px.jpg"
+  data-srcset="./../images/PB08/tv-10075-512px.jpg 512w,
+  ./../images/PB08/tv-10075-768px.jpg 768w,
+  ./../images/PB08/tv-10075-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-10075-1090px.jpg"
+  data-srcset="./../images/PB08/bd-10075-512px.jpg 512w,
+  ./../images/PB08/bd-10075-768px.jpg 768w,
+  ./../images/PB08/bd-10075-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -87,15 +185,43 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - ...and his face has been redrawn in these two shots:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-10440.jpg" />
- <img src="./../images/PB08/bd-10440.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-10440-1090px.jpg"
+  data-srcset="./../images/PB08/tv-10440-512px.jpg 512w,
+  ./../images/PB08/tv-10440-768px.jpg 768w,
+  ./../images/PB08/tv-10440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-10440-1090px.jpg"
+  data-srcset="./../images/PB08/bd-10440-512px.jpg 512w,
+  ./../images/PB08/bd-10440-768px.jpg 768w,
+  ./../images/PB08/bd-10440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-10675.jpg" />
- <img src="./../images/PB08/bd-10675.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-10675-1090px.jpg"
+  data-srcset="./../images/PB08/tv-10675-512px.jpg 512w,
+  ./../images/PB08/tv-10675-768px.jpg 768w,
+  ./../images/PB08/tv-10675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-10675-1090px.jpg"
+  data-srcset="./../images/PB08/bd-10675-512px.jpg 512w,
+  ./../images/PB08/bd-10675-768px.jpg 768w,
+  ./../images/PB08/bd-10675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -103,15 +229,43 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - The outlines in this shot are sharper, and that scratch texture was removed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-11810.jpg" />
- <img src="./../images/PB08/bd-11810.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-11810-1090px.jpg"
+  data-srcset="./../images/PB08/tv-11810-512px.jpg 512w,
+  ./../images/PB08/tv-11810-768px.jpg 768w,
+  ./../images/PB08/tv-11810-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-11810-1090px.jpg"
+  data-srcset="./../images/PB08/bd-11810-512px.jpg 512w,
+  ./../images/PB08/bd-11810-768px.jpg 768w,
+  ./../images/PB08/bd-11810-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-12000.jpg" />
- <img src="./../images/PB08/bd-12000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-12000-1090px.jpg"
+  data-srcset="./../images/PB08/tv-12000-512px.jpg 512w,
+  ./../images/PB08/tv-12000-768px.jpg 768w,
+  ./../images/PB08/tv-12000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-12000-1090px.jpg"
+  data-srcset="./../images/PB08/bd-12000-512px.jpg 512w,
+  ./../images/PB08/bd-12000-768px.jpg 768w,
+  ./../images/PB08/bd-12000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -119,15 +273,43 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - In this scene, there is no scratch texture on George, Bruford and Zeppeli's eyes (but there is on George's eyebrows):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-12020.jpg" />
- <img src="./../images/PB08/bd-12020.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-12020-1090px.jpg"
+  data-srcset="./../images/PB08/tv-12020-512px.jpg 512w,
+  ./../images/PB08/tv-12020-768px.jpg 768w,
+  ./../images/PB08/tv-12020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-12020-1090px.jpg"
+  data-srcset="./../images/PB08/bd-12020-512px.jpg 512w,
+  ./../images/PB08/bd-12020-768px.jpg 768w,
+  ./../images/PB08/bd-12020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-12065.jpg" />
- <img src="./../images/PB08/bd-12065.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-12065-1090px.jpg"
+  data-srcset="./../images/PB08/tv-12065-512px.jpg 512w,
+  ./../images/PB08/tv-12065-768px.jpg 768w,
+  ./../images/PB08/tv-12065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-12065-1090px.jpg"
+  data-srcset="./../images/PB08/bd-12065-512px.jpg 512w,
+  ./../images/PB08/bd-12065-768px.jpg 768w,
+  ./../images/PB08/bd-12065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -135,15 +317,43 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - The background is sharper and less transparent in this transition:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-14592.jpg" />
- <img src="./../images/PB08/bd-14592.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-14592-1090px.jpg"
+  data-srcset="./../images/PB08/tv-14592-512px.jpg 512w,
+  ./../images/PB08/tv-14592-768px.jpg 768w,
+  ./../images/PB08/tv-14592-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-14592-1090px.jpg"
+  data-srcset="./../images/PB08/bd-14592-512px.jpg 512w,
+  ./../images/PB08/bd-14592-768px.jpg 768w,
+  ./../images/PB08/bd-14592-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-14612.jpg" />
- <img src="./../images/PB08/bd-14612.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-14612-1090px.jpg"
+  data-srcset="./../images/PB08/tv-14612-512px.jpg 512w,
+  ./../images/PB08/tv-14612-768px.jpg 768w,
+  ./../images/PB08/tv-14612-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-14612-1090px.jpg"
+  data-srcset="./../images/PB08/bd-14612-512px.jpg 512w,
+  ./../images/PB08/bd-14612-768px.jpg 768w,
+  ./../images/PB08/bd-14612-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -151,8 +361,22 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - Pretty much everyone except Speedwagon has been retouched or redrawn in this shot, but holy hell take a look at Poco's sister in the TV version LOOK AT THAT FACE AND THAT HEAD FOR GOD'S SAKE:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-17920.jpg" />
- <img src="./../images/PB08/bd-17920.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-17920-1090px.jpg"
+  data-srcset="./../images/PB08/tv-17920-512px.jpg 512w,
+  ./../images/PB08/tv-17920-768px.jpg 768w,
+  ./../images/PB08/tv-17920-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-17920-1090px.jpg"
+  data-srcset="./../images/PB08/bd-17920-512px.jpg 512w,
+  ./../images/PB08/bd-17920-768px.jpg 768w,
+  ./../images/PB08/bd-17920-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -165,8 +389,22 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-19430.jpg" />
- <img src="./../images/PB08/bd-19430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-19430-1090px.jpg"
+  data-srcset="./../images/PB08/tv-19430-512px.jpg 512w,
+  ./../images/PB08/tv-19430-768px.jpg 768w,
+  ./../images/PB08/tv-19430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-19430-1090px.jpg"
+  data-srcset="./../images/PB08/bd-19430-512px.jpg 512w,
+  ./../images/PB08/bd-19430-768px.jpg 768w,
+  ./../images/PB08/bd-19430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -174,8 +412,22 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - Dio's wound has been redrawn here (but it still looks like lava):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-21430.jpg" />
- <img src="./../images/PB08/bd-21430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-21430-1090px.jpg"
+  data-srcset="./../images/PB08/tv-21430-512px.jpg 512w,
+  ./../images/PB08/tv-21430-768px.jpg 768w,
+  ./../images/PB08/tv-21430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-21430-1090px.jpg"
+  data-srcset="./../images/PB08/bd-21430-512px.jpg 512w,
+  ./../images/PB08/bd-21430-768px.jpg 768w,
+  ./../images/PB08/bd-21430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -183,8 +435,22 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - And here, Jonathan's eye has been redrawn; moreover, in the frames in which his mouth was half-opened, the TV version of the anime had mistakenly coloured the lower part of his mouth white instead of the top half; this has been corrected and his teeth have been fixed in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-21662.jpg" />
- <img src="./../images/PB08/bd-21662.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-21662-1090px.jpg"
+  data-srcset="./../images/PB08/tv-21662-512px.jpg 512w,
+  ./../images/PB08/tv-21662-768px.jpg 768w,
+  ./../images/PB08/tv-21662-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-21662-1090px.jpg"
+  data-srcset="./../images/PB08/bd-21662-512px.jpg 512w,
+  ./../images/PB08/bd-21662-768px.jpg 768w,
+  ./../images/PB08/bd-21662-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -192,15 +458,43 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - This scene is probably the one that grosses me out the most in the entirety of JoJo, and thanks to the BDs I can be even more grossed out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-22060.jpg" />
- <img src="./../images/PB08/bd-22060.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-22060-1090px.jpg"
+  data-srcset="./../images/PB08/tv-22060-512px.jpg 512w,
+  ./../images/PB08/tv-22060-768px.jpg 768w,
+  ./../images/PB08/tv-22060-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-22060-1090px.jpg"
+  data-srcset="./../images/PB08/bd-22060-512px.jpg 512w,
+  ./../images/PB08/bd-22060-768px.jpg 768w,
+  ./../images/PB08/bd-22060-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-22180.jpg" />
- <img src="./../images/PB08/bd-22180.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-22180-1090px.jpg"
+  data-srcset="./../images/PB08/tv-22180-512px.jpg 512w,
+  ./../images/PB08/tv-22180-768px.jpg 768w,
+  ./../images/PB08/tv-22180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-22180-1090px.jpg"
+  data-srcset="./../images/PB08/bd-22180-512px.jpg 512w,
+  ./../images/PB08/bd-22180-768px.jpg 768w,
+  ./../images/PB08/bd-22180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -208,15 +502,43 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - I know, Jonathan, I know. Me too (Dio has also been moved to the left):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-22530.jpg" />
- <img src="./../images/PB08/bd-22530.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-22530-1090px.jpg"
+  data-srcset="./../images/PB08/tv-22530-512px.jpg 512w,
+  ./../images/PB08/tv-22530-768px.jpg 768w,
+  ./../images/PB08/tv-22530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-22530-1090px.jpg"
+  data-srcset="./../images/PB08/bd-22530-512px.jpg 512w,
+  ./../images/PB08/bd-22530-768px.jpg 768w,
+  ./../images/PB08/bd-22530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-22600.jpg" />
- <img src="./../images/PB08/bd-22600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-22600-1090px.jpg"
+  data-srcset="./../images/PB08/tv-22600-512px.jpg 512w,
+  ./../images/PB08/tv-22600-768px.jpg 768w,
+  ./../images/PB08/tv-22600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-22600-1090px.jpg"
+  data-srcset="./../images/PB08/bd-22600-512px.jpg 512w,
+  ./../images/PB08/bd-22600-768px.jpg 768w,
+  ./../images/PB08/bd-22600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -229,15 +551,43 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-27300.jpg" />
- <img src="./../images/PB08/bd-27300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-27300-1090px.jpg"
+  data-srcset="./../images/PB08/tv-27300-512px.jpg 512w,
+  ./../images/PB08/tv-27300-768px.jpg 768w,
+  ./../images/PB08/tv-27300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-27300-1090px.jpg"
+  data-srcset="./../images/PB08/bd-27300-512px.jpg 512w,
+  ./../images/PB08/bd-27300-768px.jpg 768w,
+  ./../images/PB08/bd-27300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-27340.jpg" />
- <img src="./../images/PB08/bd-27340.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-27340-1090px.jpg"
+  data-srcset="./../images/PB08/tv-27340-512px.jpg 512w,
+  ./../images/PB08/tv-27340-768px.jpg 768w,
+  ./../images/PB08/tv-27340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-27340-1090px.jpg"
+  data-srcset="./../images/PB08/bd-27340-512px.jpg 512w,
+  ./../images/PB08/bd-27340-768px.jpg 768w,
+  ./../images/PB08/bd-27340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -245,8 +595,22 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - Both Dio and Speedwagon have been redrawn here, the screen division is different and they have been both slightly moved:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-27500.jpg" />
- <img src="./../images/PB08/bd-27500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-27500-1090px.jpg"
+  data-srcset="./../images/PB08/tv-27500-512px.jpg 512w,
+  ./../images/PB08/tv-27500-768px.jpg 768w,
+  ./../images/PB08/tv-27500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-27500-1090px.jpg"
+  data-srcset="./../images/PB08/bd-27500-512px.jpg 512w,
+  ./../images/PB08/bd-27500-768px.jpg 768w,
+  ./../images/PB08/bd-27500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -254,15 +618,43 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - These two shots are brighter too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-27550.jpg" />
- <img src="./../images/PB08/bd-27550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-27550-1090px.jpg"
+  data-srcset="./../images/PB08/tv-27550-512px.jpg 512w,
+  ./../images/PB08/tv-27550-768px.jpg 768w,
+  ./../images/PB08/tv-27550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-27550-1090px.jpg"
+  data-srcset="./../images/PB08/bd-27550-512px.jpg 512w,
+  ./../images/PB08/bd-27550-768px.jpg 768w,
+  ./../images/PB08/bd-27550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-27655.jpg" />
- <img src="./../images/PB08/bd-27655.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-27655-1090px.jpg"
+  data-srcset="./../images/PB08/tv-27655-512px.jpg 512w,
+  ./../images/PB08/tv-27655-768px.jpg 768w,
+  ./../images/PB08/tv-27655-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-27655-1090px.jpg"
+  data-srcset="./../images/PB08/bd-27655-512px.jpg 512w,
+  ./../images/PB08/bd-27655-768px.jpg 768w,
+  ./../images/PB08/bd-27655-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -277,8 +669,22 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - The usual brighter shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-28220.jpg" />
- <img src="./../images/PB08/bd-28220.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-28220-1090px.jpg"
+  data-srcset="./../images/PB08/tv-28220-512px.jpg 512w,
+  ./../images/PB08/tv-28220-768px.jpg 768w,
+  ./../images/PB08/tv-28220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-28220-1090px.jpg"
+  data-srcset="./../images/PB08/bd-28220-512px.jpg 512w,
+  ./../images/PB08/bd-28220-768px.jpg 768w,
+  ./../images/PB08/bd-28220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -286,8 +692,22 @@ Welcome back, everyone! Today we'll take a look at Episode #08 of Phantom Blood.
 - Poco has been shaded differently here, and his face has also been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB08/tv-30845.jpg" />
- <img src="./../images/PB08/bd-30845.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/tv-30845-1090px.jpg"
+  data-srcset="./../images/PB08/tv-30845-512px.jpg 512w,
+  ./../images/PB08/tv-30845-768px.jpg 768w,
+  ./../images/PB08/tv-30845-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB08/bd-30845-1090px.jpg"
+  data-srcset="./../images/PB08/bd-30845-512px.jpg 512w,
+  ./../images/PB08/bd-30845-768px.jpg 768w,
+  ./../images/PB08/bd-30845-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

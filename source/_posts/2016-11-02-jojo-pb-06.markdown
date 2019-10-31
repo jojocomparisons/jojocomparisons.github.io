@@ -26,8 +26,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - And in this shot, the background has been made brighter, and the glove on Jonathan's hand has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-05000.jpg" />
- <img src="./../images/PB06/bd-05000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-05000-1090px.jpg"
+  data-srcset="./../images/PB06/tv-05000-512px.jpg 512w,
+  ./../images/PB06/tv-05000-768px.jpg 768w,
+  ./../images/PB06/tv-05000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-05000-1090px.jpg"
+  data-srcset="./../images/PB06/bd-05000-512px.jpg 512w,
+  ./../images/PB06/bd-05000-768px.jpg 768w,
+  ./../images/PB06/bd-05000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -35,8 +49,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - Speedwagon has been completely redrawn in this shot (and thank goodness he was):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-05100.jpg" />
- <img src="./../images/PB06/bd-05100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-05100-1090px.jpg"
+  data-srcset="./../images/PB06/tv-05100-512px.jpg 512w,
+  ./../images/PB06/tv-05100-768px.jpg 768w,
+  ./../images/PB06/tv-05100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-05100-1090px.jpg"
+  data-srcset="./../images/PB06/bd-05100-512px.jpg 512w,
+  ./../images/PB06/bd-05100-768px.jpg 768w,
+  ./../images/PB06/bd-05100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -44,8 +72,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - JUST LOOK AT THIS THING! LOOK AT IT! WHAT WAS THAT FACE? WHO THOUGHT IT WAS OKAY?:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-05940.jpg" />
- <img src="./../images/PB06/bd-05940.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-05940-1090px.jpg"
+  data-srcset="./../images/PB06/tv-05940-512px.jpg 512w,
+  ./../images/PB06/tv-05940-768px.jpg 768w,
+  ./../images/PB06/tv-05940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-05940-1090px.jpg"
+  data-srcset="./../images/PB06/bd-05940-512px.jpg 512w,
+  ./../images/PB06/bd-05940-768px.jpg 768w,
+  ./../images/PB06/bd-05940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -53,8 +95,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - This shot is also brighter in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-06040.jpg" />
- <img src="./../images/PB06/bd-06040.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-06040-1090px.jpg"
+  data-srcset="./../images/PB06/tv-06040-512px.jpg 512w,
+  ./../images/PB06/tv-06040-768px.jpg 768w,
+  ./../images/PB06/tv-06040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-06040-1090px.jpg"
+  data-srcset="./../images/PB06/bd-06040-512px.jpg 512w,
+  ./../images/PB06/bd-06040-768px.jpg 768w,
+  ./../images/PB06/bd-06040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -69,8 +125,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - The dividing line in this split-screen shot has less of a neon-like quality to it, and both Speedwagon and Tarkus have been heavily retouched and re-shaded (also note the thicker outlines):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-06300.jpg" />
- <img src="./../images/PB06/bd-06300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-06300-1090px.jpg"
+  data-srcset="./../images/PB06/tv-06300-512px.jpg 512w,
+  ./../images/PB06/tv-06300-768px.jpg 768w,
+  ./../images/PB06/tv-06300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-06300-1090px.jpg"
+  data-srcset="./../images/PB06/bd-06300-512px.jpg 512w,
+  ./../images/PB06/bd-06300-768px.jpg 768w,
+  ./../images/PB06/bd-06300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -78,8 +148,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - The outlines are way thicker in this scene as well; Jonathan's eyes have also been retouched and the fire effects are better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-06450.jpg" />
- <img src="./../images/PB06/bd-06450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-06450-1090px.jpg"
+  data-srcset="./../images/PB06/tv-06450-512px.jpg 512w,
+  ./../images/PB06/tv-06450-768px.jpg 768w,
+  ./../images/PB06/tv-06450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-06450-1090px.jpg"
+  data-srcset="./../images/PB06/bd-06450-512px.jpg 512w,
+  ./../images/PB06/bd-06450-768px.jpg 768w,
+  ./../images/PB06/bd-06450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -104,8 +188,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - In this other shot, Speedwagon as been redrawn again, and the shading on Zeppeli has been retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-06900.jpg" />
- <img src="./../images/PB06/bd-06900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-06900-1090px.jpg"
+  data-srcset="./../images/PB06/tv-06900-512px.jpg 512w,
+  ./../images/PB06/tv-06900-768px.jpg 768w,
+  ./../images/PB06/tv-06900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-06900-1090px.jpg"
+  data-srcset="./../images/PB06/bd-06900-512px.jpg 512w,
+  ./../images/PB06/bd-06900-768px.jpg 768w,
+  ./../images/PB06/bd-06900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -113,8 +211,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - Here, Bruford's pupils have been drawn in:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-07570.jpg" />
- <img src="./../images/PB06/bd-07570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-07570-1090px.jpg"
+  data-srcset="./../images/PB06/tv-07570-512px.jpg 512w,
+  ./../images/PB06/tv-07570-768px.jpg 768w,
+  ./../images/PB06/tv-07570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-07570-1090px.jpg"
+  data-srcset="./../images/PB06/bd-07570-512px.jpg 512w,
+  ./../images/PB06/bd-07570-768px.jpg 768w,
+  ./../images/PB06/bd-07570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -129,8 +241,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - Here, Jonathan has been redrawn so that he's his usual B I G self, and the shading on Bruford has been slightly retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-09860.jpg" />
- <img src="./../images/PB06/bd-09860.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-09860-1090px.jpg"
+  data-srcset="./../images/PB06/tv-09860-512px.jpg 512w,
+  ./../images/PB06/tv-09860-768px.jpg 768w,
+  ./../images/PB06/tv-09860-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-09860-1090px.jpg"
+  data-srcset="./../images/PB06/bd-09860-512px.jpg 512w,
+  ./../images/PB06/bd-09860-768px.jpg 768w,
+  ./../images/PB06/bd-09860-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -138,8 +264,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - (P)Luck has been moved and scaled properly in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-12200.jpg" />
- <img src="./../images/PB06/bd-12200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-12200-1090px.jpg"
+  data-srcset="./../images/PB06/tv-12200-512px.jpg 512w,
+  ./../images/PB06/tv-12200-768px.jpg 768w,
+  ./../images/PB06/tv-12200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-12200-1090px.jpg"
+  data-srcset="./../images/PB06/bd-12200-512px.jpg 512w,
+  ./../images/PB06/bd-12200-768px.jpg 768w,
+  ./../images/PB06/bd-12200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -147,8 +287,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - Here, Jonathan's eyes and Zeppeli's eyes have been retouched and the scene is slightly more zoomed out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-13730.jpg" />
- <img src="./../images/PB06/bd-13730.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-13730-1090px.jpg"
+  data-srcset="./../images/PB06/tv-13730-512px.jpg 512w,
+  ./../images/PB06/tv-13730-768px.jpg 768w,
+  ./../images/PB06/tv-13730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-13730-1090px.jpg"
+  data-srcset="./../images/PB06/bd-13730-512px.jpg 512w,
+  ./../images/PB06/bd-13730-768px.jpg 768w,
+  ./../images/PB06/bd-13730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -156,8 +310,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - In this scene, everyone's face has been redrawn and the Hamon coursing through the leaf is slightly more varied in colour:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-18061.jpg" />
- <img src="./../images/PB06/bd-18061.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-18061-1090px.jpg"
+  data-srcset="./../images/PB06/tv-18061-512px.jpg 512w,
+  ./../images/PB06/tv-18061-768px.jpg 768w,
+  ./../images/PB06/tv-18061-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-18061-1090px.jpg"
+  data-srcset="./../images/PB06/bd-18061-512px.jpg 512w,
+  ./../images/PB06/bd-18061-768px.jpg 768w,
+  ./../images/PB06/bd-18061-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -165,8 +333,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - Jonathan's Big Pointy Chin has been tamed, and his mouth and ear have also been shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-18100.jpg" />
- <img src="./../images/PB06/bd-18100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-18100-1090px.jpg"
+  data-srcset="./../images/PB06/tv-18100-512px.jpg 512w,
+  ./../images/PB06/tv-18100-768px.jpg 768w,
+  ./../images/PB06/tv-18100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-18100-1090px.jpg"
+  data-srcset="./../images/PB06/bd-18100-512px.jpg 512w,
+  ./../images/PB06/bd-18100-768px.jpg 768w,
+  ./../images/PB06/bd-18100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -174,8 +356,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - Jonathan and Zeppeli have been massively redrawn in this shot, and as a result they no longer look as if they're criticizing your poorly-chosen tie:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-18700.jpg" />
- <img src="./../images/PB06/bd-18700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-18700-1090px.jpg"
+  data-srcset="./../images/PB06/tv-18700-512px.jpg 512w,
+  ./../images/PB06/tv-18700-768px.jpg 768w,
+  ./../images/PB06/tv-18700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-18700-1090px.jpg"
+  data-srcset="./../images/PB06/bd-18700-512px.jpg 512w,
+  ./../images/PB06/bd-18700-768px.jpg 768w,
+  ./../images/PB06/bd-18700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -190,8 +386,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - Zeppeli's eyes are different in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-19600.jpg" />
- <img src="./../images/PB06/bd-19600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-19600-1090px.jpg"
+  data-srcset="./../images/PB06/tv-19600-512px.jpg 512w,
+  ./../images/PB06/tv-19600-768px.jpg 768w,
+  ./../images/PB06/tv-19600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-19600-1090px.jpg"
+  data-srcset="./../images/PB06/bd-19600-512px.jpg 512w,
+  ./../images/PB06/bd-19600-768px.jpg 768w,
+  ./../images/PB06/bd-19600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -199,8 +409,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - Here, Tarkus' upper lip and nose have been shaded, and his pupils are more detailed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-20295.jpg" />
- <img src="./../images/PB06/bd-20295.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-20295-1090px.jpg"
+  data-srcset="./../images/PB06/tv-20295-512px.jpg 512w,
+  ./../images/PB06/tv-20295-768px.jpg 768w,
+  ./../images/PB06/tv-20295-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-20295-1090px.jpg"
+  data-srcset="./../images/PB06/bd-20295-512px.jpg 512w,
+  ./../images/PB06/bd-20295-768px.jpg 768w,
+  ./../images/PB06/bd-20295-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -208,8 +432,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - Just... Just look at this:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-20833.jpg" />
- <img src="./../images/PB06/bd-20833.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-20833-1090px.jpg"
+  data-srcset="./../images/PB06/tv-20833-512px.jpg 512w,
+  ./../images/PB06/tv-20833-768px.jpg 768w,
+  ./../images/PB06/tv-20833-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-20833-1090px.jpg"
+  data-srcset="./../images/PB06/bd-20833-512px.jpg 512w,
+  ./../images/PB06/bd-20833-768px.jpg 768w,
+  ./../images/PB06/bd-20833-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -217,15 +455,43 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - And, luckily, this shot has been completely redrawn as well. If you move the slider around fast enough it looks like somebody's scrambling Zeppeli's facial features around:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-24460.jpg" />
- <img src="./../images/PB06/bd-24460.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-24460-1090px.jpg"
+  data-srcset="./../images/PB06/tv-24460-512px.jpg 512w,
+  ./../images/PB06/tv-24460-768px.jpg 768w,
+  ./../images/PB06/tv-24460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-24460-1090px.jpg"
+  data-srcset="./../images/PB06/bd-24460-512px.jpg 512w,
+  ./../images/PB06/bd-24460-768px.jpg 768w,
+  ./../images/PB06/bd-24460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-24540.jpg" />
- <img src="./../images/PB06/bd-24540.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-24540-1090px.jpg"
+  data-srcset="./../images/PB06/tv-24540-512px.jpg 512w,
+  ./../images/PB06/tv-24540-768px.jpg 768w,
+  ./../images/PB06/tv-24540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-24540-1090px.jpg"
+  data-srcset="./../images/PB06/bd-24540-512px.jpg 512w,
+  ./../images/PB06/bd-24540-768px.jpg 768w,
+  ./../images/PB06/bd-24540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -233,8 +499,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - Poco has been retouched and moved up in this flashback scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-26280.jpg" />
- <img src="./../images/PB06/bd-26280.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-26280-1090px.jpg"
+  data-srcset="./../images/PB06/tv-26280-512px.jpg 512w,
+  ./../images/PB06/tv-26280-768px.jpg 768w,
+  ./../images/PB06/tv-26280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-26280-1090px.jpg"
+  data-srcset="./../images/PB06/bd-26280-512px.jpg 512w,
+  ./../images/PB06/bd-26280-768px.jpg 768w,
+  ./../images/PB06/bd-26280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -242,22 +522,64 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - LOOK AT HIS EYES:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-26675.jpg" />
- <img src="./../images/PB06/bd-26675.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-26675-1090px.jpg"
+  data-srcset="./../images/PB06/tv-26675-512px.jpg 512w,
+  ./../images/PB06/tv-26675-768px.jpg 768w,
+  ./../images/PB06/tv-26675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-26675-1090px.jpg"
+  data-srcset="./../images/PB06/bd-26675-512px.jpg 512w,
+  ./../images/PB06/bd-26675-768px.jpg 768w,
+  ./../images/PB06/bd-26675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-26760.jpg" />
- <img src="./../images/PB06/bd-26760.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-26760-1090px.jpg"
+  data-srcset="./../images/PB06/tv-26760-512px.jpg 512w,
+  ./../images/PB06/tv-26760-768px.jpg 768w,
+  ./../images/PB06/tv-26760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-26760-1090px.jpg"
+  data-srcset="./../images/PB06/bd-26760-512px.jpg 512w,
+  ./../images/PB06/bd-26760-768px.jpg 768w,
+  ./../images/PB06/bd-26760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-26840.jpg" />
- <img src="./../images/PB06/bd-26840.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-26840-1090px.jpg"
+  data-srcset="./../images/PB06/tv-26840-512px.jpg 512w,
+  ./../images/PB06/tv-26840-768px.jpg 768w,
+  ./../images/PB06/tv-26840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-26840-1090px.jpg"
+  data-srcset="./../images/PB06/bd-26840-512px.jpg 512w,
+  ./../images/PB06/bd-26840-768px.jpg 768w,
+  ./../images/PB06/bd-26840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -265,8 +587,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - Poco again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-27100.jpg" />
- <img src="./../images/PB06/bd-27100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-27100-1090px.jpg"
+  data-srcset="./../images/PB06/tv-27100-512px.jpg 512w,
+  ./../images/PB06/tv-27100-768px.jpg 768w,
+  ./../images/PB06/tv-27100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-27100-1090px.jpg"
+  data-srcset="./../images/PB06/bd-27100-512px.jpg 512w,
+  ./../images/PB06/bd-27100-768px.jpg 768w,
+  ./../images/PB06/bd-27100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -274,8 +610,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - In this shot, both Poco and... does his sister even have a name? Anyway, they've both been retouched, the onomatopoeia at the top has an added texture and the goofy motion lines they drew in the TV version have been substituted with a more realistic wind effect:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-27220.jpg" />
- <img src="./../images/PB06/bd-27220.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-27220-1090px.jpg"
+  data-srcset="./../images/PB06/tv-27220-512px.jpg 512w,
+  ./../images/PB06/tv-27220-768px.jpg 768w,
+  ./../images/PB06/tv-27220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-27220-1090px.jpg"
+  data-srcset="./../images/PB06/bd-27220-512px.jpg 512w,
+  ./../images/PB06/bd-27220-768px.jpg 768w,
+  ./../images/PB06/bd-27220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -283,8 +633,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - Poco has been redrawn and made taller again here, and his sister's face has been retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-27310.jpg" />
- <img src="./../images/PB06/bd-27310.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-27310-1090px.jpg"
+  data-srcset="./../images/PB06/tv-27310-512px.jpg 512w,
+  ./../images/PB06/tv-27310-768px.jpg 768w,
+  ./../images/PB06/tv-27310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-27310-1090px.jpg"
+  data-srcset="./../images/PB06/bd-27310-512px.jpg 512w,
+  ./../images/PB06/bd-27310-768px.jpg 768w,
+  ./../images/PB06/bd-27310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -292,8 +656,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - One last Poco redraw and we can go back to the real world:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-27400.jpg" />
- <img src="./../images/PB06/bd-27400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-27400-1090px.jpg"
+  data-srcset="./../images/PB06/tv-27400-512px.jpg 512w,
+  ./../images/PB06/tv-27400-768px.jpg 768w,
+  ./../images/PB06/tv-27400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-27400-1090px.jpg"
+  data-srcset="./../images/PB06/bd-27400-512px.jpg 512w,
+  ./../images/PB06/bd-27400-768px.jpg 768w,
+  ./../images/PB06/bd-27400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -301,8 +679,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - Zeppeli and Speedwagon's faces have been retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-30000.jpg" />
- <img src="./../images/PB06/bd-30000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-30000-1090px.jpg"
+  data-srcset="./../images/PB06/tv-30000-512px.jpg 512w,
+  ./../images/PB06/tv-30000-768px.jpg 768w,
+  ./../images/PB06/tv-30000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-30000-1090px.jpg"
+  data-srcset="./../images/PB06/bd-30000-512px.jpg 512w,
+  ./../images/PB06/bd-30000-768px.jpg 768w,
+  ./../images/PB06/bd-30000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -310,8 +702,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - Here they retouched Speedwagon's mouth, eye and that weird line under his eye they used to draw in the TV version:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-31140.jpg" />
- <img src="./../images/PB06/bd-31140.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-31140-1090px.jpg"
+  data-srcset="./../images/PB06/tv-31140-512px.jpg 512w,
+  ./../images/PB06/tv-31140-768px.jpg 768w,
+  ./../images/PB06/tv-31140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-31140-1090px.jpg"
+  data-srcset="./../images/PB06/bd-31140-512px.jpg 512w,
+  ./../images/PB06/bd-31140-768px.jpg 768w,
+  ./../images/PB06/bd-31140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -319,8 +725,22 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 - Aaand a final credit difference; here, in the BDs they added CG artist 工藤かよ(Kudō Kayo) and moved everything around slightly:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB06/tv-32500.jpg" />
- <img src="./../images/PB06/bd-32500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/tv-32500-1090px.jpg"
+  data-srcset="./../images/PB06/tv-32500-512px.jpg 512w,
+  ./../images/PB06/tv-32500-768px.jpg 768w,
+  ./../images/PB06/tv-32500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB06/bd-32500-1090px.jpg"
+  data-srcset="./../images/PB06/bd-32500-512px.jpg 512w,
+  ./../images/PB06/bd-32500-768px.jpg 768w,
+  ./../images/PB06/bd-32500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

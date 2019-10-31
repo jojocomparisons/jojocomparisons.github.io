@@ -19,8 +19,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Let's begin with a shot in which pretty much everything has been redrawn (and thank goodness it did):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-04360.jpg" />
- <img src="./../images/PB05/bd-04360.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-04360-1090px.jpg"
+  data-srcset="./../images/PB05/tv-04360-512px.jpg 512w,
+  ./../images/PB05/tv-04360-768px.jpg 768w,
+  ./../images/PB05/tv-04360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-04360-1090px.jpg"
+  data-srcset="./../images/PB05/bd-04360-512px.jpg 512w,
+  ./../images/PB05/bd-04360-768px.jpg 768w,
+  ./../images/PB05/bd-04360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -28,8 +42,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Here, Zeppeli's face has been re-shaded and re-drawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-04550.jpg" />
- <img src="./../images/PB05/bd-04550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-04550-1090px.jpg"
+  data-srcset="./../images/PB05/tv-04550-512px.jpg 512w,
+  ./../images/PB05/tv-04550-768px.jpg 768w,
+  ./../images/PB05/tv-04550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-04550-1090px.jpg"
+  data-srcset="./../images/PB05/bd-04550-512px.jpg 512w,
+  ./../images/PB05/bd-04550-768px.jpg 768w,
+  ./../images/PB05/bd-04550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,8 +65,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - And uncle Weed's face has been completely redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-04995.jpg" />
- <img src="./../images/PB05/bd-04995.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-04995-1090px.jpg"
+  data-srcset="./../images/PB05/tv-04995-512px.jpg 512w,
+  ./../images/PB05/tv-04995-768px.jpg 768w,
+  ./../images/PB05/tv-04995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-04995-1090px.jpg"
+  data-srcset="./../images/PB05/bd-04995-512px.jpg 512w,
+  ./../images/PB05/bd-04995-768px.jpg 768w,
+  ./../images/PB05/bd-04995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -46,8 +88,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Zeppeli's face has been sharpened and redrawn, and Jonathan's nose has been very slightly retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-05660.jpg" />
- <img src="./../images/PB05/bd-05660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-05660-1090px.jpg"
+  data-srcset="./../images/PB05/tv-05660-512px.jpg 512w,
+  ./../images/PB05/tv-05660-768px.jpg 768w,
+  ./../images/PB05/tv-05660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-05660-1090px.jpg"
+  data-srcset="./../images/PB05/bd-05660-512px.jpg 512w,
+  ./../images/PB05/bd-05660-768px.jpg 768w,
+  ./../images/PB05/bd-05660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -55,8 +111,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - "Hey guys, how about we, uh... How about we just redraw everything from scratch?":
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-06220.jpg" />
- <img src="./../images/PB05/bd-06220.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-06220-1090px.jpg"
+  data-srcset="./../images/PB05/tv-06220-512px.jpg 512w,
+  ./../images/PB05/tv-06220-768px.jpg 768w,
+  ./../images/PB05/tv-06220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-06220-1090px.jpg"
+  data-srcset="./../images/PB05/bd-06220-512px.jpg 512w,
+  ./../images/PB05/bd-06220-768px.jpg 768w,
+  ./../images/PB05/bd-06220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -71,8 +141,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - And his pupil is brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-08000.jpg" />
- <img src="./../images/PB05/bd-08000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-08000-1090px.jpg"
+  data-srcset="./../images/PB05/tv-08000-512px.jpg 512w,
+  ./../images/PB05/tv-08000-768px.jpg 768w,
+  ./../images/PB05/tv-08000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-08000-1090px.jpg"
+  data-srcset="./../images/PB05/bd-08000-512px.jpg 512w,
+  ./../images/PB05/bd-08000-768px.jpg 768w,
+  ./../images/PB05/bd-08000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -80,8 +164,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Another massively redrawn shot here. I think it's easier if you see the difference for yourselves:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-08200.jpg" />
- <img src="./../images/PB05/bd-08200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-08200-1090px.jpg"
+  data-srcset="./../images/PB05/tv-08200-512px.jpg 512w,
+  ./../images/PB05/tv-08200-768px.jpg 768w,
+  ./../images/PB05/tv-08200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-08200-1090px.jpg"
+  data-srcset="./../images/PB05/bd-08200-512px.jpg 512w,
+  ./../images/PB05/bd-08200-768px.jpg 768w,
+  ./../images/PB05/bd-08200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -89,8 +187,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Here the zombie is brighter and easier to see:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-08935.jpg" />
- <img src="./../images/PB05/bd-08935.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-08935-1090px.jpg"
+  data-srcset="./../images/PB05/tv-08935-512px.jpg 512w,
+  ./../images/PB05/tv-08935-768px.jpg 768w,
+  ./../images/PB05/tv-08935-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-08935-1090px.jpg"
+  data-srcset="./../images/PB05/bd-08935-512px.jpg 512w,
+  ./../images/PB05/bd-08935-768px.jpg 768w,
+  ./../images/PB05/bd-08935-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -115,15 +227,43 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Now I don't know who messed up here but in this shot there are two Dios. Two Entire Dios. This has been fixed in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-09320.jpg" />
- <img src="./../images/PB05/bd-09320.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-09320-1090px.jpg"
+  data-srcset="./../images/PB05/tv-09320-512px.jpg 512w,
+  ./../images/PB05/tv-09320-768px.jpg 768w,
+  ./../images/PB05/tv-09320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-09320-1090px.jpg"
+  data-srcset="./../images/PB05/bd-09320-512px.jpg 512w,
+  ./../images/PB05/bd-09320-768px.jpg 768w,
+  ./../images/PB05/bd-09320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-09390.jpg" />
- <img src="./../images/PB05/bd-09390.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-09390-1090px.jpg"
+  data-srcset="./../images/PB05/tv-09390-512px.jpg 512w,
+  ./../images/PB05/tv-09390-768px.jpg 768w,
+  ./../images/PB05/tv-09390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-09390-1090px.jpg"
+  data-srcset="./../images/PB05/bd-09390-512px.jpg 512w,
+  ./../images/PB05/bd-09390-768px.jpg 768w,
+  ./../images/PB05/bd-09390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -131,8 +271,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Do you remember how many redraws you've had?:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-10950.jpg" />
- <img src="./../images/PB05/bd-10950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-10950-1090px.jpg"
+  data-srcset="./../images/PB05/tv-10950-512px.jpg 512w,
+  ./../images/PB05/tv-10950-768px.jpg 768w,
+  ./../images/PB05/tv-10950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-10950-1090px.jpg"
+  data-srcset="./../images/PB05/bd-10950-512px.jpg 512w,
+  ./../images/PB05/bd-10950-768px.jpg 768w,
+  ./../images/PB05/bd-10950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -140,8 +294,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Here both Jonathan and Zeppeli have a slightly different shading; the outline of Jonathan's eyebrows also no longer shows through his bangs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-11040.jpg" />
- <img src="./../images/PB05/bd-11040.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-11040-1090px.jpg"
+  data-srcset="./../images/PB05/tv-11040-512px.jpg 512w,
+  ./../images/PB05/tv-11040-768px.jpg 768w,
+  ./../images/PB05/tv-11040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-11040-1090px.jpg"
+  data-srcset="./../images/PB05/bd-11040-512px.jpg 512w,
+  ./../images/PB05/bd-11040-768px.jpg 768w,
+  ./../images/PB05/bd-11040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -149,8 +317,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Another completely redrawn scene here; Jonathan no longer looks like a big upset baboon who's just had his bananas stolen:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-11135.jpg" />
- <img src="./../images/PB05/bd-11135.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-11135-1090px.jpg"
+  data-srcset="./../images/PB05/tv-11135-512px.jpg 512w,
+  ./../images/PB05/tv-11135-768px.jpg 768w,
+  ./../images/PB05/tv-11135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-11135-1090px.jpg"
+  data-srcset="./../images/PB05/bd-11135-512px.jpg 512w,
+  ./../images/PB05/bd-11135-768px.jpg 768w,
+  ./../images/PB05/bd-11135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -158,8 +340,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Zeppeli has been moved down, the background is different and blurred and there are some very pronounced wind effects in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-11320.jpg" />
- <img src="./../images/PB05/bd-11320.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-11320-1090px.jpg"
+  data-srcset="./../images/PB05/tv-11320-512px.jpg 512w,
+  ./../images/PB05/tv-11320-768px.jpg 768w,
+  ./../images/PB05/tv-11320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-11320-1090px.jpg"
+  data-srcset="./../images/PB05/bd-11320-512px.jpg 512w,
+  ./../images/PB05/bd-11320-768px.jpg 768w,
+  ./../images/PB05/bd-11320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -167,22 +363,64 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - In this scene Dio's ice has an added steam effect; the shattering part has been redrawn from the grounds up and Zeppeli's arm has been uncensored:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-12040.jpg" />
- <img src="./../images/PB05/bd-12040.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-12040-1090px.jpg"
+  data-srcset="./../images/PB05/tv-12040-512px.jpg 512w,
+  ./../images/PB05/tv-12040-768px.jpg 768w,
+  ./../images/PB05/tv-12040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-12040-1090px.jpg"
+  data-srcset="./../images/PB05/bd-12040-512px.jpg 512w,
+  ./../images/PB05/bd-12040-768px.jpg 768w,
+  ./../images/PB05/bd-12040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-12080.jpg" />
- <img src="./../images/PB05/bd-12080.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-12080-1090px.jpg"
+  data-srcset="./../images/PB05/tv-12080-512px.jpg 512w,
+  ./../images/PB05/tv-12080-768px.jpg 768w,
+  ./../images/PB05/tv-12080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-12080-1090px.jpg"
+  data-srcset="./../images/PB05/bd-12080-512px.jpg 512w,
+  ./../images/PB05/bd-12080-768px.jpg 768w,
+  ./../images/PB05/bd-12080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-12150.jpg" />
- <img src="./../images/PB05/bd-12150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-12150-1090px.jpg"
+  data-srcset="./../images/PB05/tv-12150-512px.jpg 512w,
+  ./../images/PB05/tv-12150-768px.jpg 768w,
+  ./../images/PB05/tv-12150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-12150-1090px.jpg"
+  data-srcset="./../images/PB05/bd-12150-512px.jpg 512w,
+  ./../images/PB05/bd-12150-768px.jpg 768w,
+  ./../images/PB05/bd-12150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -190,8 +428,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Here, the ice is shaded differently, Zeppeli's eyes have thicker outlines and his ear and chin have been shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-12200.jpg" />
- <img src="./../images/PB05/bd-12200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-12200-1090px.jpg"
+  data-srcset="./../images/PB05/tv-12200-512px.jpg 512w,
+  ./../images/PB05/tv-12200-768px.jpg 768w,
+  ./../images/PB05/tv-12200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-12200-1090px.jpg"
+  data-srcset="./../images/PB05/bd-12200-512px.jpg 512w,
+  ./../images/PB05/bd-12200-768px.jpg 768w,
+  ./../images/PB05/bd-12200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -199,22 +451,64 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - This whole part has been redrawn from the grounds up, and it's blurrier and with more wind effects, so that it looks less static:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-13400.jpg" />
- <img src="./../images/PB05/bd-13400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-13400-1090px.jpg"
+  data-srcset="./../images/PB05/tv-13400-512px.jpg 512w,
+  ./../images/PB05/tv-13400-768px.jpg 768w,
+  ./../images/PB05/tv-13400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-13400-1090px.jpg"
+  data-srcset="./../images/PB05/bd-13400-512px.jpg 512w,
+  ./../images/PB05/bd-13400-768px.jpg 768w,
+  ./../images/PB05/bd-13400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-13525.jpg" />
- <img src="./../images/PB05/bd-13525.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-13525-1090px.jpg"
+  data-srcset="./../images/PB05/tv-13525-512px.jpg 512w,
+  ./../images/PB05/tv-13525-768px.jpg 768w,
+  ./../images/PB05/tv-13525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-13525-1090px.jpg"
+  data-srcset="./../images/PB05/bd-13525-512px.jpg 512w,
+  ./../images/PB05/bd-13525-768px.jpg 768w,
+  ./../images/PB05/bd-13525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-13615.jpg" />
- <img src="./../images/PB05/bd-13615.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-13615-1090px.jpg"
+  data-srcset="./../images/PB05/tv-13615-512px.jpg 512w,
+  ./../images/PB05/tv-13615-768px.jpg 768w,
+  ./../images/PB05/tv-13615-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-13615-1090px.jpg"
+  data-srcset="./../images/PB05/bd-13615-512px.jpg 512w,
+  ./../images/PB05/bd-13615-768px.jpg 768w,
+  ./../images/PB05/bd-13615-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -229,8 +523,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Here, everyone's face has been retouched and Jonathan's forearm has been recoloured white:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-15780.jpg" />
- <img src="./../images/PB05/bd-15780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-15780-1090px.jpg"
+  data-srcset="./../images/PB05/tv-15780-512px.jpg 512w,
+  ./../images/PB05/tv-15780-768px.jpg 768w,
+  ./../images/PB05/tv-15780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-15780-1090px.jpg"
+  data-srcset="./../images/PB05/bd-15780-512px.jpg 512w,
+  ./../images/PB05/bd-15780-768px.jpg 768w,
+  ./../images/PB05/bd-15780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -238,8 +546,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Most of this shot has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-17570.jpg" />
- <img src="./../images/PB05/bd-17570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-17570-1090px.jpg"
+  data-srcset="./../images/PB05/tv-17570-512px.jpg 512w,
+  ./../images/PB05/tv-17570-768px.jpg 768w,
+  ./../images/PB05/tv-17570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-17570-1090px.jpg"
+  data-srcset="./../images/PB05/bd-17570-512px.jpg 512w,
+  ./../images/PB05/bd-17570-768px.jpg 768w,
+  ./../images/PB05/bd-17570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -247,8 +569,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Here, Tarkus' right eye has been coloured red and the background is blurred:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-17885.jpg" />
- <img src="./../images/PB05/bd-17885.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-17885-1090px.jpg"
+  data-srcset="./../images/PB05/tv-17885-512px.jpg 512w,
+  ./../images/PB05/tv-17885-768px.jpg 768w,
+  ./../images/PB05/tv-17885-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-17885-1090px.jpg"
+  data-srcset="./../images/PB05/bd-17885-512px.jpg 512w,
+  ./../images/PB05/bd-17885-768px.jpg 768w,
+  ./../images/PB05/bd-17885-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -256,8 +592,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - In this shot here, Zeppeli's eye, ear and hat are shaded differently, his collar is slightly lower, Speedwagon's neck is shaded and his mouth has been moved up a good inch or two:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-18285.jpg" />
- <img src="./../images/PB05/bd-18285.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-18285-1090px.jpg"
+  data-srcset="./../images/PB05/tv-18285-512px.jpg 512w,
+  ./../images/PB05/tv-18285-768px.jpg 768w,
+  ./../images/PB05/tv-18285-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-18285-1090px.jpg"
+  data-srcset="./../images/PB05/bd-18285-512px.jpg 512w,
+  ./../images/PB05/bd-18285-768px.jpg 768w,
+  ./../images/PB05/bd-18285-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -265,8 +615,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Here, Dio's head is way smaller:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-20430.jpg" />
- <img src="./../images/PB05/bd-20430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-20430-1090px.jpg"
+  data-srcset="./../images/PB05/tv-20430-512px.jpg 512w,
+  ./../images/PB05/tv-20430-768px.jpg 768w,
+  ./../images/PB05/tv-20430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-20430-1090px.jpg"
+  data-srcset="./../images/PB05/bd-20430-512px.jpg 512w,
+  ./../images/PB05/bd-20430-768px.jpg 768w,
+  ./../images/PB05/bd-20430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -274,8 +638,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - And here, his cheek and eyes have a less flat shading:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-20530.jpg" />
- <img src="./../images/PB05/bd-20530.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-20530-1090px.jpg"
+  data-srcset="./../images/PB05/tv-20530-512px.jpg 512w,
+  ./../images/PB05/tv-20530-768px.jpg 768w,
+  ./../images/PB05/tv-20530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-20530-1090px.jpg"
+  data-srcset="./../images/PB05/bd-20530-512px.jpg 512w,
+  ./../images/PB05/bd-20530-768px.jpg 768w,
+  ./../images/PB05/bd-20530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -283,8 +661,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Mary Stuart's chopped head has been uncensored:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-22890.jpg" />
- <img src="./../images/PB05/bd-22890.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-22890-1090px.jpg"
+  data-srcset="./../images/PB05/tv-22890-512px.jpg 512w,
+  ./../images/PB05/tv-22890-768px.jpg 768w,
+  ./../images/PB05/tv-22890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-22890-1090px.jpg"
+  data-srcset="./../images/PB05/bd-22890-512px.jpg 512w,
+  ./../images/PB05/bd-22890-768px.jpg 768w,
+  ./../images/PB05/bd-22890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -292,8 +684,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Here, the zoom is slightly closer:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-23100.jpg" />
- <img src="./../images/PB05/bd-23100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-23100-1090px.jpg"
+  data-srcset="./../images/PB05/tv-23100-512px.jpg 512w,
+  ./../images/PB05/tv-23100-768px.jpg 768w,
+  ./../images/PB05/tv-23100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-23100-1090px.jpg"
+  data-srcset="./../images/PB05/bd-23100-512px.jpg 512w,
+  ./../images/PB05/bd-23100-768px.jpg 768w,
+  ./../images/PB05/bd-23100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -301,8 +707,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - They gave a new face to Jonathan here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-24870.jpg" />
- <img src="./../images/PB05/bd-24870.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-24870-1090px.jpg"
+  data-srcset="./../images/PB05/tv-24870-512px.jpg 512w,
+  ./../images/PB05/tv-24870-768px.jpg 768w,
+  ./../images/PB05/tv-24870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-24870-1090px.jpg"
+  data-srcset="./../images/PB05/bd-24870-512px.jpg 512w,
+  ./../images/PB05/bd-24870-768px.jpg 768w,
+  ./../images/PB05/bd-24870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -315,8 +735,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-26000.jpg" />
- <img src="./../images/PB05/bd-26000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-26000-1090px.jpg"
+  data-srcset="./../images/PB05/tv-26000-512px.jpg 512w,
+  ./../images/PB05/tv-26000-768px.jpg 768w,
+  ./../images/PB05/tv-26000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-26000-1090px.jpg"
+  data-srcset="./../images/PB05/bd-26000-512px.jpg 512w,
+  ./../images/PB05/bd-26000-768px.jpg 768w,
+  ./../images/PB05/bd-26000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -324,8 +758,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Here, the skin tone of both the zombie and Bruford is slightly lighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-26020.jpg" />
- <img src="./../images/PB05/bd-26020.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-26020-1090px.jpg"
+  data-srcset="./../images/PB05/tv-26020-512px.jpg 512w,
+  ./../images/PB05/tv-26020-768px.jpg 768w,
+  ./../images/PB05/tv-26020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-26020-1090px.jpg"
+  data-srcset="./../images/PB05/bd-26020-512px.jpg 512w,
+  ./../images/PB05/bd-26020-768px.jpg 768w,
+  ./../images/PB05/bd-26020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -333,8 +781,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - In this shot, Jonathan has been completely redrawn and re-shaded, and Tarkus has been slightly moved and retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-26850.jpg" />
- <img src="./../images/PB05/bd-26850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-26850-1090px.jpg"
+  data-srcset="./../images/PB05/tv-26850-512px.jpg 512w,
+  ./../images/PB05/tv-26850-768px.jpg 768w,
+  ./../images/PB05/tv-26850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-26850-1090px.jpg"
+  data-srcset="./../images/PB05/bd-26850-512px.jpg 512w,
+  ./../images/PB05/bd-26850-768px.jpg 768w,
+  ./../images/PB05/bd-26850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -342,8 +804,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - The background is waaaaay brighter here, and there are more speed lines; the camera has also been moved a bit down:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-27420.jpg" />
- <img src="./../images/PB05/bd-27420.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-27420-1090px.jpg"
+  data-srcset="./../images/PB05/tv-27420-512px.jpg 512w,
+  ./../images/PB05/tv-27420-768px.jpg 768w,
+  ./../images/PB05/tv-27420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-27420-1090px.jpg"
+  data-srcset="./../images/PB05/bd-27420-512px.jpg 512w,
+  ./../images/PB05/bd-27420-768px.jpg 768w,
+  ./../images/PB05/bd-27420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -351,8 +827,22 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 - Here, Zeppeli and Speedwagon's wonky eyes have been redrawn and Speed Weed's upper lip has been shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB05/tv-27900.jpg" />
- <img src="./../images/PB05/bd-27900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/tv-27900-1090px.jpg"
+  data-srcset="./../images/PB05/tv-27900-512px.jpg 512w,
+  ./../images/PB05/tv-27900-768px.jpg 768w,
+  ./../images/PB05/tv-27900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB05/bd-27900-1090px.jpg"
+  data-srcset="./../images/PB05/bd-27900-512px.jpg 512w,
+  ./../images/PB05/bd-27900-768px.jpg 768w,
+  ./../images/PB05/bd-27900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

@@ -27,8 +27,22 @@ Let's get started!
 - Today's first difference is the now missing opening credits, which in the BD version have been moved to the opening proper:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-00050.jpg" />
- <img src="./../images/BT22/bd-00050.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-00050-1090px.jpg"
+  data-srcset="./../images/BT22/tv-00050-512px.jpg 512w,
+  ./../images/BT22/tv-00050-768px.jpg 768w,
+  ./../images/BT22/tv-00050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-00050-1090px.jpg"
+  data-srcset="./../images/BT22/bd-00050-512px.jpg 512w,
+  ./../images/BT22/bd-00050-768px.jpg 768w,
+  ./../images/BT22/bd-00050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -43,8 +57,22 @@ Let's get started!
 - Here, the guards standing this (admittedly not very pretty) Lisa Lisa are closer, and the background is instead a little more zoomed out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-00175.jpg" />
- <img src="./../images/BT22/bd-00175.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-00175-1090px.jpg"
+  data-srcset="./../images/BT22/tv-00175-512px.jpg 512w,
+  ./../images/BT22/tv-00175-768px.jpg 768w,
+  ./../images/BT22/tv-00175-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-00175-1090px.jpg"
+  data-srcset="./../images/BT22/bd-00175-512px.jpg 512w,
+  ./../images/BT22/bd-00175-768px.jpg 768w,
+  ./../images/BT22/bd-00175-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -52,8 +80,22 @@ Let's get started!
 - Here, Joseph has been completely redrawn, and both him and the carriage have been also moved by a few pixels (the scratch texture overlay is also slightly different):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-00320.jpg" />
- <img src="./../images/BT22/bd-00320.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-00320-1090px.jpg"
+  data-srcset="./../images/BT22/tv-00320-512px.jpg 512w,
+  ./../images/BT22/tv-00320-768px.jpg 768w,
+  ./../images/BT22/tv-00320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-00320-1090px.jpg"
+  data-srcset="./../images/BT22/bd-00320-512px.jpg 512w,
+  ./../images/BT22/bd-00320-768px.jpg 768w,
+  ./../images/BT22/bd-00320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -61,8 +103,22 @@ Let's get started!
 - This scene has a completely different lighting going on:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-00430.jpg" />
- <img src="./../images/BT22/bd-00430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-00430-1090px.jpg"
+  data-srcset="./../images/BT22/tv-00430-512px.jpg 512w,
+  ./../images/BT22/tv-00430-768px.jpg 768w,
+  ./../images/BT22/tv-00430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-00430-1090px.jpg"
+  data-srcset="./../images/BT22/bd-00430-512px.jpg 512w,
+  ./../images/BT22/bd-00430-768px.jpg 768w,
+  ./../images/BT22/bd-00430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -70,8 +126,22 @@ Let's get started!
 - The clouds have been moved here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-00520.jpg" />
- <img src="./../images/BT22/bd-00520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-00520-1090px.jpg"
+  data-srcset="./../images/BT22/tv-00520-512px.jpg 512w,
+  ./../images/BT22/tv-00520-768px.jpg 768w,
+  ./../images/BT22/tv-00520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-00520-1090px.jpg"
+  data-srcset="./../images/BT22/bd-00520-512px.jpg 512w,
+  ./../images/BT22/bd-00520-768px.jpg 768w,
+  ./../images/BT22/bd-00520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -79,8 +149,22 @@ Let's get started!
 - Wham has gracefully scooted away a little bit in the BD version of this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-01115.jpg" />
- <img src="./../images/BT22/bd-01115.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-01115-1090px.jpg"
+  data-srcset="./../images/BT22/tv-01115-512px.jpg 512w,
+  ./../images/BT22/tv-01115-768px.jpg 768w,
+  ./../images/BT22/tv-01115-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-01115-1090px.jpg"
+  data-srcset="./../images/BT22/bd-01115-512px.jpg 512w,
+  ./../images/BT22/bd-01115-768px.jpg 768w,
+  ./../images/BT22/bd-01115-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -88,15 +172,43 @@ Let's get started!
 - Another wildly redrawn Joseph, for your eyes only:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-01964.jpg" />
- <img src="./../images/BT22/bd-01964.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-01964-1090px.jpg"
+  data-srcset="./../images/BT22/tv-01964-512px.jpg 512w,
+  ./../images/BT22/tv-01964-768px.jpg 768w,
+  ./../images/BT22/tv-01964-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-01964-1090px.jpg"
+  data-srcset="./../images/BT22/bd-01964-512px.jpg 512w,
+  ./../images/BT22/bd-01964-768px.jpg 768w,
+  ./../images/BT22/bd-01964-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-02155.jpg" />
- <img src="./../images/BT22/bd-02155.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-02155-1090px.jpg"
+  data-srcset="./../images/BT22/tv-02155-512px.jpg 512w,
+  ./../images/BT22/tv-02155-768px.jpg 768w,
+  ./../images/BT22/tv-02155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-02155-1090px.jpg"
+  data-srcset="./../images/BT22/bd-02155-512px.jpg 512w,
+  ./../images/BT22/bd-02155-768px.jpg 768w,
+  ./../images/BT22/bd-02155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -111,8 +223,22 @@ Let's get started!
 - Here Joseph's face has been redrawn, he's been tilted to the left by approximately two pixels, his back is properly shaded...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-02920.jpg" />
- <img src="./../images/BT22/bd-02920.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-02920-1090px.jpg"
+  data-srcset="./../images/BT22/tv-02920-512px.jpg 512w,
+  ./../images/BT22/tv-02920-768px.jpg 768w,
+  ./../images/BT22/tv-02920-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-02920-1090px.jpg"
+  data-srcset="./../images/BT22/bd-02920-512px.jpg 512w,
+  ./../images/BT22/bd-02920-768px.jpg 768w,
+  ./../images/BT22/bd-02920-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -120,8 +246,22 @@ Let's get started!
 - ...and here, two spots (on his forearm and on one of his knuckles) are brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-02960.jpg" />
- <img src="./../images/BT22/bd-02960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-02960-1090px.jpg"
+  data-srcset="./../images/BT22/tv-02960-512px.jpg 512w,
+  ./../images/BT22/tv-02960-768px.jpg 768w,
+  ./../images/BT22/tv-02960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-02960-1090px.jpg"
+  data-srcset="./../images/BT22/bd-02960-512px.jpg 512w,
+  ./../images/BT22/bd-02960-768px.jpg 768w,
+  ./../images/BT22/bd-02960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -129,15 +269,43 @@ Let's get started!
 - Here, some bits on Wham have been shaded better, and the title is strangely missing (I'm assuming this is an error, since in the BD the title remains on screen for 59 frames, which is a little bit over two seconds...):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-03765.jpg" />
- <img src="./../images/BT22/bd-03765.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-03765-1090px.jpg"
+  data-srcset="./../images/BT22/tv-03765-512px.jpg 512w,
+  ./../images/BT22/tv-03765-768px.jpg 768w,
+  ./../images/BT22/tv-03765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-03765-1090px.jpg"
+  data-srcset="./../images/BT22/bd-03765-512px.jpg 512w,
+  ./../images/BT22/bd-03765-768px.jpg 768w,
+  ./../images/BT22/bd-03765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-03780.jpg" />
- <img src="./../images/BT22/bd-03780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-03780-1090px.jpg"
+  data-srcset="./../images/BT22/tv-03780-512px.jpg 512w,
+  ./../images/BT22/tv-03780-768px.jpg 768w,
+  ./../images/BT22/tv-03780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-03780-1090px.jpg"
+  data-srcset="./../images/BT22/bd-03780-512px.jpg 512w,
+  ./../images/BT22/bd-03780-768px.jpg 768w,
+  ./../images/BT22/bd-03780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -145,8 +313,22 @@ Let's get started!
 - This scene has a different lighting, an additional vignette around the edges...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-03828.jpg" />
- <img src="./../images/BT22/bd-03828.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-03828-1090px.jpg"
+  data-srcset="./../images/BT22/tv-03828-512px.jpg 512w,
+  ./../images/BT22/tv-03828-768px.jpg 768w,
+  ./../images/BT22/tv-03828-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-03828-1090px.jpg"
+  data-srcset="./../images/BT22/bd-03828-512px.jpg 512w,
+  ./../images/BT22/bd-03828-768px.jpg 768w,
+  ./../images/BT22/bd-03828-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -161,8 +343,22 @@ Let's get started!
 - Here, the rubble that Joseph  throws near Wham's carriage wheel is substantially bigger! I always thought that in the TV version they looked ridiculously small...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-04085.jpg" />
- <img src="./../images/BT22/bd-04085.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-04085-1090px.jpg"
+  data-srcset="./../images/BT22/tv-04085-512px.jpg 512w,
+  ./../images/BT22/tv-04085-768px.jpg 768w,
+  ./../images/BT22/tv-04085-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-04085-1090px.jpg"
+  data-srcset="./../images/BT22/bd-04085-512px.jpg 512w,
+  ./../images/BT22/bd-04085-768px.jpg 768w,
+  ./../images/BT22/bd-04085-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -170,8 +366,22 @@ Let's get started!
 - Another completely redrawn Joseph! What joy! The triangle they're using to split the screen is also smaller, the bandana is now behind the scarf, and a yellow bit on the scarf itself has been recoloured (although I don't like it much):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-04460.jpg" />
- <img src="./../images/BT22/bd-04460.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-04460-1090px.jpg"
+  data-srcset="./../images/BT22/tv-04460-512px.jpg 512w,
+  ./../images/BT22/tv-04460-768px.jpg 768w,
+  ./../images/BT22/tv-04460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-04460-1090px.jpg"
+  data-srcset="./../images/BT22/bd-04460-512px.jpg 512w,
+  ./../images/BT22/bd-04460-768px.jpg 768w,
+  ./../images/BT22/bd-04460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -179,22 +389,64 @@ Let's get started!
 - Here, Joseph has been retouched, reshaded, and the bandana has received a makeover:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-04616.jpg" />
- <img src="./../images/BT22/bd-04616.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-04616-1090px.jpg"
+  data-srcset="./../images/BT22/tv-04616-512px.jpg 512w,
+  ./../images/BT22/tv-04616-768px.jpg 768w,
+  ./../images/BT22/tv-04616-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-04616-1090px.jpg"
+  data-srcset="./../images/BT22/bd-04616-512px.jpg 512w,
+  ./../images/BT22/bd-04616-768px.jpg 768w,
+  ./../images/BT22/bd-04616-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-04625.jpg" />
- <img src="./../images/BT22/bd-04625.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-04625-1090px.jpg"
+  data-srcset="./../images/BT22/tv-04625-512px.jpg 512w,
+  ./../images/BT22/tv-04625-768px.jpg 768w,
+  ./../images/BT22/tv-04625-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-04625-1090px.jpg"
+  data-srcset="./../images/BT22/bd-04625-512px.jpg 512w,
+  ./../images/BT22/bd-04625-768px.jpg 768w,
+  ./../images/BT22/bd-04625-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-04730.jpg" />
- <img src="./../images/BT22/bd-04730.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-04730-1090px.jpg"
+  data-srcset="./../images/BT22/tv-04730-512px.jpg 512w,
+  ./../images/BT22/tv-04730-768px.jpg 768w,
+  ./../images/BT22/tv-04730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-04730-1090px.jpg"
+  data-srcset="./../images/BT22/bd-04730-512px.jpg 512w,
+  ./../images/BT22/bd-04730-768px.jpg 768w,
+  ./../images/BT22/bd-04730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -202,8 +454,22 @@ Let's get started!
 - The wheel has now been shaded more in this here scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-04760.jpg" />
- <img src="./../images/BT22/bd-04760.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-04760-1090px.jpg"
+  data-srcset="./../images/BT22/tv-04760-512px.jpg 512w,
+  ./../images/BT22/tv-04760-768px.jpg 768w,
+  ./../images/BT22/tv-04760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-04760-1090px.jpg"
+  data-srcset="./../images/BT22/bd-04760-512px.jpg 512w,
+  ./../images/BT22/bd-04760-768px.jpg 768w,
+  ./../images/BT22/bd-04760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -211,8 +477,22 @@ Let's get started!
 - A change of mood! Joseph is no longer grinning his smug grin here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-05445.jpg" />
- <img src="./../images/BT22/bd-05445.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-05445-1090px.jpg"
+  data-srcset="./../images/BT22/tv-05445-512px.jpg 512w,
+  ./../images/BT22/tv-05445-768px.jpg 768w,
+  ./../images/BT22/tv-05445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-05445-1090px.jpg"
+  data-srcset="./../images/BT22/bd-05445-512px.jpg 512w,
+  ./../images/BT22/bd-05445-768px.jpg 768w,
+  ./../images/BT22/bd-05445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -220,8 +500,22 @@ Let's get started!
 - Here, Kars has been shaded way more dramatically, and the fire looks a little brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-06100.jpg" />
- <img src="./../images/BT22/bd-06100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-06100-1090px.jpg"
+  data-srcset="./../images/BT22/tv-06100-512px.jpg 512w,
+  ./../images/BT22/tv-06100-768px.jpg 768w,
+  ./../images/BT22/tv-06100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-06100-1090px.jpg"
+  data-srcset="./../images/BT22/bd-06100-512px.jpg 512w,
+  ./../images/BT22/bd-06100-768px.jpg 768w,
+  ./../images/BT22/bd-06100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -229,8 +523,22 @@ Let's get started!
 - The same dramatic lighting is reflected in this scene, in which Lisa Lisa has also been _completely_ redrawn (and thank goodness for that)! The dividing line has also been slightly moved, and Lisa Lisa has received the same lighting makeover as Kars:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-06180.jpg" />
- <img src="./../images/BT22/bd-06180.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-06180-1090px.jpg"
+  data-srcset="./../images/BT22/tv-06180-512px.jpg 512w,
+  ./../images/BT22/tv-06180-768px.jpg 768w,
+  ./../images/BT22/tv-06180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-06180-1090px.jpg"
+  data-srcset="./../images/BT22/bd-06180-512px.jpg 512w,
+  ./../images/BT22/bd-06180-768px.jpg 768w,
+  ./../images/BT22/bd-06180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -238,8 +546,22 @@ Let's get started!
 - Here, Joseph's been moved and retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-06210.jpg" />
- <img src="./../images/BT22/bd-06210.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-06210-1090px.jpg"
+  data-srcset="./../images/BT22/tv-06210-512px.jpg 512w,
+  ./../images/BT22/tv-06210-768px.jpg 768w,
+  ./../images/BT22/tv-06210-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-06210-1090px.jpg"
+  data-srcset="./../images/BT22/bd-06210-512px.jpg 512w,
+  ./../images/BT22/bd-06210-768px.jpg 768w,
+  ./../images/BT22/bd-06210-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -247,8 +569,22 @@ Let's get started!
 - Joseph's chin is no longer clipping through his scarf here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-07205.jpg" />
- <img src="./../images/BT22/bd-07205.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-07205-1090px.jpg"
+  data-srcset="./../images/BT22/tv-07205-512px.jpg 512w,
+  ./../images/BT22/tv-07205-768px.jpg 768w,
+  ./../images/BT22/tv-07205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-07205-1090px.jpg"
+  data-srcset="./../images/BT22/bd-07205-512px.jpg 512w,
+  ./../images/BT22/bd-07205-768px.jpg 768w,
+  ./../images/BT22/bd-07205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -256,8 +592,22 @@ Let's get started!
 - In this scene, both pillar and man (heh, pillar man) in the foreground are bigger, and the smoke under Joseph's carriage is also slightly different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-07600.jpg" />
- <img src="./../images/BT22/bd-07600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-07600-1090px.jpg"
+  data-srcset="./../images/BT22/tv-07600-512px.jpg 512w,
+  ./../images/BT22/tv-07600-768px.jpg 768w,
+  ./../images/BT22/tv-07600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-07600-1090px.jpg"
+  data-srcset="./../images/BT22/bd-07600-512px.jpg 512w,
+  ./../images/BT22/bd-07600-768px.jpg 768w,
+  ./../images/BT22/bd-07600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -265,15 +615,43 @@ Let's get started!
 - Here, have a fantastically retouched Lisa Lisa:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-07685.jpg" />
- <img src="./../images/BT22/bd-07685.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-07685-1090px.jpg"
+  data-srcset="./../images/BT22/tv-07685-512px.jpg 512w,
+  ./../images/BT22/tv-07685-768px.jpg 768w,
+  ./../images/BT22/tv-07685-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-07685-1090px.jpg"
+  data-srcset="./../images/BT22/bd-07685-512px.jpg 512w,
+  ./../images/BT22/bd-07685-768px.jpg 768w,
+  ./../images/BT22/bd-07685-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-07760.jpg" />
- <img src="./../images/BT22/bd-07760.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-07760-1090px.jpg"
+  data-srcset="./../images/BT22/tv-07760-512px.jpg 512w,
+  ./../images/BT22/tv-07760-768px.jpg 768w,
+  ./../images/BT22/tv-07760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-07760-1090px.jpg"
+  data-srcset="./../images/BT22/bd-07760-512px.jpg 512w,
+  ./../images/BT22/bd-07760-768px.jpg 768w,
+  ./../images/BT22/bd-07760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -281,8 +659,22 @@ Let's get started!
 - Woo, what a difference! Joseph looks much better here and he's also been moved a little more in the top left corner; the background is a little more blurred, and the colouring looks much more vibrant and interesting! On top of that, they added a dark vignette around the edges too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-07945.jpg" />
- <img src="./../images/BT22/bd-07945.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-07945-1090px.jpg"
+  data-srcset="./../images/BT22/tv-07945-512px.jpg 512w,
+  ./../images/BT22/tv-07945-768px.jpg 768w,
+  ./../images/BT22/tv-07945-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-07945-1090px.jpg"
+  data-srcset="./../images/BT22/bd-07945-512px.jpg 512w,
+  ./../images/BT22/bd-07945-768px.jpg 768w,
+  ./../images/BT22/bd-07945-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -290,8 +682,22 @@ Let's get started!
 - You can see the same differences here... And Wham's also been moved and retouched too (and the dividing line has moved with him):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-08020.jpg" />
- <img src="./../images/BT22/bd-08020.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-08020-1090px.jpg"
+  data-srcset="./../images/BT22/tv-08020-512px.jpg 512w,
+  ./../images/BT22/tv-08020-768px.jpg 768w,
+  ./../images/BT22/tv-08020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-08020-1090px.jpg"
+  data-srcset="./../images/BT22/bd-08020-512px.jpg 512w,
+  ./../images/BT22/bd-08020-768px.jpg 768w,
+  ./../images/BT22/bd-08020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -299,15 +705,43 @@ Let's get started!
 - I think this change speaks for itself...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-08462.jpg" />
- <img src="./../images/BT22/bd-08462.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-08462-1090px.jpg"
+  data-srcset="./../images/BT22/tv-08462-512px.jpg 512w,
+  ./../images/BT22/tv-08462-768px.jpg 768w,
+  ./../images/BT22/tv-08462-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-08462-1090px.jpg"
+  data-srcset="./../images/BT22/bd-08462-512px.jpg 512w,
+  ./../images/BT22/bd-08462-768px.jpg 768w,
+  ./../images/BT22/bd-08462-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-08850.jpg" />
- <img src="./../images/BT22/bd-08850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-08850-1090px.jpg"
+  data-srcset="./../images/BT22/tv-08850-512px.jpg 512w,
+  ./../images/BT22/tv-08850-768px.jpg 768w,
+  ./../images/BT22/tv-08850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-08850-1090px.jpg"
+  data-srcset="./../images/BT22/bd-08850-512px.jpg 512w,
+  ./../images/BT22/bd-08850-768px.jpg 768w,
+  ./../images/BT22/bd-08850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -329,8 +763,22 @@ Let's get started!
 - Here, Kars has been redrawn and looks less... blocky. The inside of Lisa Lisa's mouth has also been recoloured:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-09456.jpg" />
- <img src="./../images/BT22/bd-09456.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-09456-1090px.jpg"
+  data-srcset="./../images/BT22/tv-09456-512px.jpg 512w,
+  ./../images/BT22/tv-09456-768px.jpg 768w,
+  ./../images/BT22/tv-09456-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-09456-1090px.jpg"
+  data-srcset="./../images/BT22/bd-09456-512px.jpg 512w,
+  ./../images/BT22/bd-09456-768px.jpg 768w,
+  ./../images/BT22/bd-09456-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -338,43 +786,127 @@ Let's get started!
 - Aah, I love animations where all frames have been redrawn... Let's take a look:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-09536.jpg" />
- <img src="./../images/BT22/bd-09536.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-09536-1090px.jpg"
+  data-srcset="./../images/BT22/tv-09536-512px.jpg 512w,
+  ./../images/BT22/tv-09536-768px.jpg 768w,
+  ./../images/BT22/tv-09536-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-09536-1090px.jpg"
+  data-srcset="./../images/BT22/bd-09536-512px.jpg 512w,
+  ./../images/BT22/bd-09536-768px.jpg 768w,
+  ./../images/BT22/bd-09536-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-09540.jpg" />
- <img src="./../images/BT22/bd-09540.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-09540-1090px.jpg"
+  data-srcset="./../images/BT22/tv-09540-512px.jpg 512w,
+  ./../images/BT22/tv-09540-768px.jpg 768w,
+  ./../images/BT22/tv-09540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-09540-1090px.jpg"
+  data-srcset="./../images/BT22/bd-09540-512px.jpg 512w,
+  ./../images/BT22/bd-09540-768px.jpg 768w,
+  ./../images/BT22/bd-09540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-09545.jpg" />
- <img src="./../images/BT22/bd-09545.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-09545-1090px.jpg"
+  data-srcset="./../images/BT22/tv-09545-512px.jpg 512w,
+  ./../images/BT22/tv-09545-768px.jpg 768w,
+  ./../images/BT22/tv-09545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-09545-1090px.jpg"
+  data-srcset="./../images/BT22/bd-09545-512px.jpg 512w,
+  ./../images/BT22/bd-09545-768px.jpg 768w,
+  ./../images/BT22/bd-09545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-09555.jpg" />
- <img src="./../images/BT22/bd-09555.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-09555-1090px.jpg"
+  data-srcset="./../images/BT22/tv-09555-512px.jpg 512w,
+  ./../images/BT22/tv-09555-768px.jpg 768w,
+  ./../images/BT22/tv-09555-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-09555-1090px.jpg"
+  data-srcset="./../images/BT22/bd-09555-512px.jpg 512w,
+  ./../images/BT22/bd-09555-768px.jpg 768w,
+  ./../images/BT22/bd-09555-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-09570.jpg" />
- <img src="./../images/BT22/bd-09570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-09570-1090px.jpg"
+  data-srcset="./../images/BT22/tv-09570-512px.jpg 512w,
+  ./../images/BT22/tv-09570-768px.jpg 768w,
+  ./../images/BT22/tv-09570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-09570-1090px.jpg"
+  data-srcset="./../images/BT22/bd-09570-512px.jpg 512w,
+  ./../images/BT22/bd-09570-768px.jpg 768w,
+  ./../images/BT22/bd-09570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-09580.jpg" />
- <img src="./../images/BT22/bd-09580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-09580-1090px.jpg"
+  data-srcset="./../images/BT22/tv-09580-512px.jpg 512w,
+  ./../images/BT22/tv-09580-768px.jpg 768w,
+  ./../images/BT22/tv-09580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-09580-1090px.jpg"
+  data-srcset="./../images/BT22/bd-09580-512px.jpg 512w,
+  ./../images/BT22/bd-09580-768px.jpg 768w,
+  ./../images/BT22/bd-09580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -396,8 +928,22 @@ Let's get started!
 - A bit of skin has been properly recoloured here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-09790.jpg" />
- <img src="./../images/BT22/bd-09790.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-09790-1090px.jpg"
+  data-srcset="./../images/BT22/tv-09790-512px.jpg 512w,
+  ./../images/BT22/tv-09790-768px.jpg 768w,
+  ./../images/BT22/tv-09790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-09790-1090px.jpg"
+  data-srcset="./../images/BT22/bd-09790-512px.jpg 512w,
+  ./../images/BT22/bd-09790-768px.jpg 768w,
+  ./../images/BT22/bd-09790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -405,8 +951,22 @@ Let's get started!
 - Aaaand let's take another deep dive! Let's start with the fact that Joseph is now... wearing a shirt:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-09795.jpg" />
- <img src="./../images/BT22/bd-09795.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-09795-1090px.jpg"
+  data-srcset="./../images/BT22/tv-09795-512px.jpg 512w,
+  ./../images/BT22/tv-09795-768px.jpg 768w,
+  ./../images/BT22/tv-09795-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-09795-1090px.jpg"
+  data-srcset="./../images/BT22/bd-09795-512px.jpg 512w,
+  ./../images/BT22/bd-09795-768px.jpg 768w,
+  ./../images/BT22/bd-09795-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -414,15 +974,43 @@ Let's get started!
 - He also looks way less happy about the whole situation:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-09800.jpg" />
- <img src="./../images/BT22/bd-09800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-09800-1090px.jpg"
+  data-srcset="./../images/BT22/tv-09800-512px.jpg 512w,
+  ./../images/BT22/tv-09800-768px.jpg 768w,
+  ./../images/BT22/tv-09800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-09800-1090px.jpg"
+  data-srcset="./../images/BT22/bd-09800-512px.jpg 512w,
+  ./../images/BT22/bd-09800-768px.jpg 768w,
+  ./../images/BT22/bd-09800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-09870.jpg" />
- <img src="./../images/BT22/bd-09870.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-09870-1090px.jpg"
+  data-srcset="./../images/BT22/tv-09870-512px.jpg 512w,
+  ./../images/BT22/tv-09870-768px.jpg 768w,
+  ./../images/BT22/tv-09870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-09870-1090px.jpg"
+  data-srcset="./../images/BT22/bd-09870-512px.jpg 512w,
+  ./../images/BT22/bd-09870-768px.jpg 768w,
+  ./../images/BT22/bd-09870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -437,8 +1025,22 @@ Let's get started!
 - Wham has been slightly moved here, and his face has been redrawn as well (I'm not sure about the end result, though):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-09895.jpg" />
- <img src="./../images/BT22/bd-09895.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-09895-1090px.jpg"
+  data-srcset="./../images/BT22/tv-09895-512px.jpg 512w,
+  ./../images/BT22/tv-09895-768px.jpg 768w,
+  ./../images/BT22/tv-09895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-09895-1090px.jpg"
+  data-srcset="./../images/BT22/bd-09895-512px.jpg 512w,
+  ./../images/BT22/bd-09895-768px.jpg 768w,
+  ./../images/BT22/bd-09895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -446,8 +1048,22 @@ Let's get started!
 - The blur is invereted in the BD version of this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-10050.jpg" />
- <img src="./../images/BT22/bd-10050.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-10050-1090px.jpg"
+  data-srcset="./../images/BT22/tv-10050-512px.jpg 512w,
+  ./../images/BT22/tv-10050-768px.jpg 768w,
+  ./../images/BT22/tv-10050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-10050-1090px.jpg"
+  data-srcset="./../images/BT22/bd-10050-512px.jpg 512w,
+  ./../images/BT22/bd-10050-768px.jpg 768w,
+  ./../images/BT22/bd-10050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -455,8 +1071,22 @@ Let's get started!
 - Joseph has been redrawn, and he's no longer falling off his damn horse:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-10065.jpg" />
- <img src="./../images/BT22/bd-10065.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-10065-1090px.jpg"
+  data-srcset="./../images/BT22/tv-10065-512px.jpg 512w,
+  ./../images/BT22/tv-10065-768px.jpg 768w,
+  ./../images/BT22/tv-10065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-10065-1090px.jpg"
+  data-srcset="./../images/BT22/bd-10065-512px.jpg 512w,
+  ./../images/BT22/bd-10065-768px.jpg 768w,
+  ./../images/BT22/bd-10065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -464,29 +1094,85 @@ Let's get started!
 - Ah, fantastic! *chef's kiss*:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-10095.jpg" />
- <img src="./../images/BT22/bd-10095.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-10095-1090px.jpg"
+  data-srcset="./../images/BT22/tv-10095-512px.jpg 512w,
+  ./../images/BT22/tv-10095-768px.jpg 768w,
+  ./../images/BT22/tv-10095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-10095-1090px.jpg"
+  data-srcset="./../images/BT22/bd-10095-512px.jpg 512w,
+  ./../images/BT22/bd-10095-768px.jpg 768w,
+  ./../images/BT22/bd-10095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-10097.jpg" />
- <img src="./../images/BT22/bd-10097.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-10097-1090px.jpg"
+  data-srcset="./../images/BT22/tv-10097-512px.jpg 512w,
+  ./../images/BT22/tv-10097-768px.jpg 768w,
+  ./../images/BT22/tv-10097-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-10097-1090px.jpg"
+  data-srcset="./../images/BT22/bd-10097-512px.jpg 512w,
+  ./../images/BT22/bd-10097-768px.jpg 768w,
+  ./../images/BT22/bd-10097-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-10140.jpg" />
- <img src="./../images/BT22/bd-10140.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-10140-1090px.jpg"
+  data-srcset="./../images/BT22/tv-10140-512px.jpg 512w,
+  ./../images/BT22/tv-10140-768px.jpg 768w,
+  ./../images/BT22/tv-10140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-10140-1090px.jpg"
+  data-srcset="./../images/BT22/bd-10140-512px.jpg 512w,
+  ./../images/BT22/bd-10140-768px.jpg 768w,
+  ./../images/BT22/bd-10140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-10245.jpg" />
- <img src="./../images/BT22/bd-10245.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-10245-1090px.jpg"
+  data-srcset="./../images/BT22/tv-10245-512px.jpg 512w,
+  ./../images/BT22/tv-10245-768px.jpg 768w,
+  ./../images/BT22/tv-10245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-10245-1090px.jpg"
+  data-srcset="./../images/BT22/bd-10245-512px.jpg 512w,
+  ./../images/BT22/bd-10245-768px.jpg 768w,
+  ./../images/BT22/bd-10245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -494,8 +1180,22 @@ Let's get started!
 - The clouds have been moved... Again. I don't really understand why, but here we go:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-10635.jpg" />
- <img src="./../images/BT22/bd-10635.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-10635-1090px.jpg"
+  data-srcset="./../images/BT22/tv-10635-512px.jpg 512w,
+  ./../images/BT22/tv-10635-768px.jpg 768w,
+  ./../images/BT22/tv-10635-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-10635-1090px.jpg"
+  data-srcset="./../images/BT22/bd-10635-512px.jpg 512w,
+  ./../images/BT22/bd-10635-768px.jpg 768w,
+  ./../images/BT22/bd-10635-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -510,8 +1210,22 @@ Let's get started!
 - ...and the colour and position are also a little different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-10660.jpg" />
- <img src="./../images/BT22/bd-10660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-10660-1090px.jpg"
+  data-srcset="./../images/BT22/tv-10660-512px.jpg 512w,
+  ./../images/BT22/tv-10660-768px.jpg 768w,
+  ./../images/BT22/tv-10660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-10660-1090px.jpg"
+  data-srcset="./../images/BT22/bd-10660-512px.jpg 512w,
+  ./../images/BT22/bd-10660-768px.jpg 768w,
+  ./../images/BT22/bd-10660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -519,8 +1233,22 @@ Let's get started!
 - The bit where Wham's arm goes into the horse (god, this sentence sounds wrong) is different in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-10790.jpg" />
- <img src="./../images/BT22/bd-10790.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-10790-1090px.jpg"
+  data-srcset="./../images/BT22/tv-10790-512px.jpg 512w,
+  ./../images/BT22/tv-10790-768px.jpg 768w,
+  ./../images/BT22/tv-10790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-10790-1090px.jpg"
+  data-srcset="./../images/BT22/bd-10790-512px.jpg 512w,
+  ./../images/BT22/bd-10790-768px.jpg 768w,
+  ./../images/BT22/bd-10790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -528,8 +1256,22 @@ Let's get started!
 - Joseph has been moved back a tad, so that it no longer looks as if he's hovering a little bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-10980.jpg" />
- <img src="./../images/BT22/bd-10980.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-10980-1090px.jpg"
+  data-srcset="./../images/BT22/tv-10980-512px.jpg 512w,
+  ./../images/BT22/tv-10980-768px.jpg 768w,
+  ./../images/BT22/tv-10980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-10980-1090px.jpg"
+  data-srcset="./../images/BT22/bd-10980-512px.jpg 512w,
+  ./../images/BT22/bd-10980-768px.jpg 768w,
+  ./../images/BT22/bd-10980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -537,50 +1279,148 @@ Let's get started!
 - Aaaand here we go again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-11380.jpg" />
- <img src="./../images/BT22/bd-11380.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-11380-1090px.jpg"
+  data-srcset="./../images/BT22/tv-11380-512px.jpg 512w,
+  ./../images/BT22/tv-11380-768px.jpg 768w,
+  ./../images/BT22/tv-11380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-11380-1090px.jpg"
+  data-srcset="./../images/BT22/bd-11380-512px.jpg 512w,
+  ./../images/BT22/bd-11380-768px.jpg 768w,
+  ./../images/BT22/bd-11380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-11438.jpg" />
- <img src="./../images/BT22/bd-11438.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-11438-1090px.jpg"
+  data-srcset="./../images/BT22/tv-11438-512px.jpg 512w,
+  ./../images/BT22/tv-11438-768px.jpg 768w,
+  ./../images/BT22/tv-11438-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-11438-1090px.jpg"
+  data-srcset="./../images/BT22/bd-11438-512px.jpg 512w,
+  ./../images/BT22/bd-11438-768px.jpg 768w,
+  ./../images/BT22/bd-11438-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-11440.jpg" />
- <img src="./../images/BT22/bd-11440.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-11440-1090px.jpg"
+  data-srcset="./../images/BT22/tv-11440-512px.jpg 512w,
+  ./../images/BT22/tv-11440-768px.jpg 768w,
+  ./../images/BT22/tv-11440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-11440-1090px.jpg"
+  data-srcset="./../images/BT22/bd-11440-512px.jpg 512w,
+  ./../images/BT22/bd-11440-768px.jpg 768w,
+  ./../images/BT22/bd-11440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-11445.jpg" />
- <img src="./../images/BT22/bd-11445.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-11445-1090px.jpg"
+  data-srcset="./../images/BT22/tv-11445-512px.jpg 512w,
+  ./../images/BT22/tv-11445-768px.jpg 768w,
+  ./../images/BT22/tv-11445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-11445-1090px.jpg"
+  data-srcset="./../images/BT22/bd-11445-512px.jpg 512w,
+  ./../images/BT22/bd-11445-768px.jpg 768w,
+  ./../images/BT22/bd-11445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-11457.jpg" />
- <img src="./../images/BT22/bd-11457.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-11457-1090px.jpg"
+  data-srcset="./../images/BT22/tv-11457-512px.jpg 512w,
+  ./../images/BT22/tv-11457-768px.jpg 768w,
+  ./../images/BT22/tv-11457-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-11457-1090px.jpg"
+  data-srcset="./../images/BT22/bd-11457-512px.jpg 512w,
+  ./../images/BT22/bd-11457-768px.jpg 768w,
+  ./../images/BT22/bd-11457-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-11465.jpg" />
- <img src="./../images/BT22/bd-11465.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-11465-1090px.jpg"
+  data-srcset="./../images/BT22/tv-11465-512px.jpg 512w,
+  ./../images/BT22/tv-11465-768px.jpg 768w,
+  ./../images/BT22/tv-11465-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-11465-1090px.jpg"
+  data-srcset="./../images/BT22/bd-11465-512px.jpg 512w,
+  ./../images/BT22/bd-11465-768px.jpg 768w,
+  ./../images/BT22/bd-11465-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-11475.jpg" />
- <img src="./../images/BT22/bd-11475.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-11475-1090px.jpg"
+  data-srcset="./../images/BT22/tv-11475-512px.jpg 512w,
+  ./../images/BT22/tv-11475-768px.jpg 768w,
+  ./../images/BT22/tv-11475-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-11475-1090px.jpg"
+  data-srcset="./../images/BT22/bd-11475-512px.jpg 512w,
+  ./../images/BT22/bd-11475-768px.jpg 768w,
+  ./../images/BT22/bd-11475-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -588,8 +1428,22 @@ Let's get started!
 - Whew! Let's move on... Here, Joseph is a little closer to the camera:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-11515.jpg" />
- <img src="./../images/BT22/bd-11515.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-11515-1090px.jpg"
+  data-srcset="./../images/BT22/tv-11515-512px.jpg 512w,
+  ./../images/BT22/tv-11515-768px.jpg 768w,
+  ./../images/BT22/tv-11515-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-11515-1090px.jpg"
+  data-srcset="./../images/BT22/bd-11515-512px.jpg 512w,
+  ./../images/BT22/bd-11515-768px.jpg 768w,
+  ./../images/BT22/bd-11515-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -597,8 +1451,22 @@ Let's get started!
 - Here we have another one of those errors that have been introduced with the redraws... Here, both Joseph and Wham have been moved more to the right, so that the scene is a little more centered (Wham's face has also been retouched), but... Joseph is no longer holding the reins with his foot! They're just... hovering there:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-11825.jpg" />
- <img src="./../images/BT22/bd-11825.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-11825-1090px.jpg"
+  data-srcset="./../images/BT22/tv-11825-512px.jpg 512w,
+  ./../images/BT22/tv-11825-768px.jpg 768w,
+  ./../images/BT22/tv-11825-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-11825-1090px.jpg"
+  data-srcset="./../images/BT22/bd-11825-512px.jpg 512w,
+  ./../images/BT22/bd-11825-768px.jpg 768w,
+  ./../images/BT22/bd-11825-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -606,8 +1474,22 @@ Let's get started!
 - Kars has also been moved and redrawn... And he looks a little less smug:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-11830.jpg" />
- <img src="./../images/BT22/bd-11830.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-11830-1090px.jpg"
+  data-srcset="./../images/BT22/tv-11830-512px.jpg 512w,
+  ./../images/BT22/tv-11830-768px.jpg 768w,
+  ./../images/BT22/tv-11830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-11830-1090px.jpg"
+  data-srcset="./../images/BT22/bd-11830-512px.jpg 512w,
+  ./../images/BT22/bd-11830-768px.jpg 768w,
+  ./../images/BT22/bd-11830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -622,8 +1504,22 @@ Let's get started!
 - Both Lisa Lisa and the camera have been moved, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-12485.jpg" />
- <img src="./../images/BT22/bd-12485.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-12485-1090px.jpg"
+  data-srcset="./../images/BT22/tv-12485-512px.jpg 512w,
+  ./../images/BT22/tv-12485-768px.jpg 768w,
+  ./../images/BT22/tv-12485-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-12485-1090px.jpg"
+  data-srcset="./../images/BT22/bd-12485-512px.jpg 512w,
+  ./../images/BT22/bd-12485-768px.jpg 768w,
+  ./../images/BT22/bd-12485-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -638,8 +1534,22 @@ Let's get started!
 - Kars has got a different background, here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-13875.jpg" />
- <img src="./../images/BT22/bd-13875.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-13875-1090px.jpg"
+  data-srcset="./../images/BT22/tv-13875-512px.jpg 512w,
+  ./../images/BT22/tv-13875-768px.jpg 768w,
+  ./../images/BT22/tv-13875-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-13875-1090px.jpg"
+  data-srcset="./../images/BT22/bd-13875-512px.jpg 512w,
+  ./../images/BT22/bd-13875-768px.jpg 768w,
+  ./../images/BT22/bd-13875-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -647,8 +1557,22 @@ Let's get started!
 - And here, Kars is taller, he's been retouched and the camera has also been moved:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-15100.jpg" />
- <img src="./../images/BT22/bd-15100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-15100-1090px.jpg"
+  data-srcset="./../images/BT22/tv-15100-512px.jpg 512w,
+  ./../images/BT22/tv-15100-768px.jpg 768w,
+  ./../images/BT22/tv-15100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-15100-1090px.jpg"
+  data-srcset="./../images/BT22/bd-15100-512px.jpg 512w,
+  ./../images/BT22/bd-15100-768px.jpg 768w,
+  ./../images/BT22/bd-15100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -656,15 +1580,43 @@ Let's get started!
 - Lisa Lisa has been redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-15101.jpg" />
- <img src="./../images/BT22/bd-15101.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-15101-1090px.jpg"
+  data-srcset="./../images/BT22/tv-15101-512px.jpg 512w,
+  ./../images/BT22/tv-15101-768px.jpg 768w,
+  ./../images/BT22/tv-15101-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-15101-1090px.jpg"
+  data-srcset="./../images/BT22/bd-15101-512px.jpg 512w,
+  ./../images/BT22/bd-15101-768px.jpg 768w,
+  ./../images/BT22/bd-15101-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-15180.jpg" />
- <img src="./../images/BT22/bd-15180.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-15180-1090px.jpg"
+  data-srcset="./../images/BT22/tv-15180-512px.jpg 512w,
+  ./../images/BT22/tv-15180-768px.jpg 768w,
+  ./../images/BT22/tv-15180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-15180-1090px.jpg"
+  data-srcset="./../images/BT22/bd-15180-512px.jpg 512w,
+  ./../images/BT22/bd-15180-768px.jpg 768w,
+  ./../images/BT22/bd-15180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -672,8 +1624,22 @@ Let's get started!
 - Here, Kars' mouth area is slightly less shaded, and the dude in the background has been removed entirely:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-15570.jpg" />
- <img src="./../images/BT22/bd-15570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-15570-1090px.jpg"
+  data-srcset="./../images/BT22/tv-15570-512px.jpg 512w,
+  ./../images/BT22/tv-15570-768px.jpg 768w,
+  ./../images/BT22/tv-15570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-15570-1090px.jpg"
+  data-srcset="./../images/BT22/bd-15570-512px.jpg 512w,
+  ./../images/BT22/bd-15570-768px.jpg 768w,
+  ./../images/BT22/bd-15570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -681,8 +1647,22 @@ Let's get started!
 - Here, Joseph has been moved, retouched and the background is also slightly different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-15885.jpg" />
- <img src="./../images/BT22/bd-15885.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-15885-1090px.jpg"
+  data-srcset="./../images/BT22/tv-15885-512px.jpg 512w,
+  ./../images/BT22/tv-15885-768px.jpg 768w,
+  ./../images/BT22/tv-15885-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-15885-1090px.jpg"
+  data-srcset="./../images/BT22/bd-15885-512px.jpg 512w,
+  ./../images/BT22/bd-15885-768px.jpg 768w,
+  ./../images/BT22/bd-15885-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -697,8 +1677,22 @@ Let's get started!
 - And the Wham on the left side of the screen has also been shaded better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-16570.jpg" />
- <img src="./../images/BT22/bd-16570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-16570-1090px.jpg"
+  data-srcset="./../images/BT22/tv-16570-512px.jpg 512w,
+  ./../images/BT22/tv-16570-768px.jpg 768w,
+  ./../images/BT22/tv-16570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-16570-1090px.jpg"
+  data-srcset="./../images/BT22/bd-16570-512px.jpg 512w,
+  ./../images/BT22/bd-16570-768px.jpg 768w,
+  ./../images/BT22/bd-16570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -706,50 +1700,148 @@ Let's get started!
 - Kars has been slightly moved and retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-16850.jpg" />
- <img src="./../images/BT22/bd-16850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-16850-1090px.jpg"
+  data-srcset="./../images/BT22/tv-16850-512px.jpg 512w,
+  ./../images/BT22/tv-16850-768px.jpg 768w,
+  ./../images/BT22/tv-16850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-16850-1090px.jpg"
+  data-srcset="./../images/BT22/bd-16850-512px.jpg 512w,
+  ./../images/BT22/bd-16850-768px.jpg 768w,
+  ./../images/BT22/bd-16850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-16856.jpg" />
- <img src="./../images/BT22/bd-16856.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-16856-1090px.jpg"
+  data-srcset="./../images/BT22/tv-16856-512px.jpg 512w,
+  ./../images/BT22/tv-16856-768px.jpg 768w,
+  ./../images/BT22/tv-16856-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-16856-1090px.jpg"
+  data-srcset="./../images/BT22/bd-16856-512px.jpg 512w,
+  ./../images/BT22/bd-16856-768px.jpg 768w,
+  ./../images/BT22/bd-16856-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-16870.jpg" />
- <img src="./../images/BT22/bd-16870.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-16870-1090px.jpg"
+  data-srcset="./../images/BT22/tv-16870-512px.jpg 512w,
+  ./../images/BT22/tv-16870-768px.jpg 768w,
+  ./../images/BT22/tv-16870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-16870-1090px.jpg"
+  data-srcset="./../images/BT22/bd-16870-512px.jpg 512w,
+  ./../images/BT22/bd-16870-768px.jpg 768w,
+  ./../images/BT22/bd-16870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-16875.jpg" />
- <img src="./../images/BT22/bd-16875.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-16875-1090px.jpg"
+  data-srcset="./../images/BT22/tv-16875-512px.jpg 512w,
+  ./../images/BT22/tv-16875-768px.jpg 768w,
+  ./../images/BT22/tv-16875-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-16875-1090px.jpg"
+  data-srcset="./../images/BT22/bd-16875-512px.jpg 512w,
+  ./../images/BT22/bd-16875-768px.jpg 768w,
+  ./../images/BT22/bd-16875-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-16900.jpg" />
- <img src="./../images/BT22/bd-16900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-16900-1090px.jpg"
+  data-srcset="./../images/BT22/tv-16900-512px.jpg 512w,
+  ./../images/BT22/tv-16900-768px.jpg 768w,
+  ./../images/BT22/tv-16900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-16900-1090px.jpg"
+  data-srcset="./../images/BT22/bd-16900-512px.jpg 512w,
+  ./../images/BT22/bd-16900-768px.jpg 768w,
+  ./../images/BT22/bd-16900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-16957.jpg" />
- <img src="./../images/BT22/bd-16957.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-16957-1090px.jpg"
+  data-srcset="./../images/BT22/tv-16957-512px.jpg 512w,
+  ./../images/BT22/tv-16957-768px.jpg 768w,
+  ./../images/BT22/tv-16957-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-16957-1090px.jpg"
+  data-srcset="./../images/BT22/bd-16957-512px.jpg 512w,
+  ./../images/BT22/bd-16957-768px.jpg 768w,
+  ./../images/BT22/bd-16957-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-16980.jpg" />
- <img src="./../images/BT22/bd-16980.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-16980-1090px.jpg"
+  data-srcset="./../images/BT22/tv-16980-512px.jpg 512w,
+  ./../images/BT22/tv-16980-768px.jpg 768w,
+  ./../images/BT22/tv-16980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-16980-1090px.jpg"
+  data-srcset="./../images/BT22/bd-16980-512px.jpg 512w,
+  ./../images/BT22/bd-16980-768px.jpg 768w,
+  ./../images/BT22/bd-16980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -757,8 +1849,22 @@ Let's get started!
 - These two crossbows have been scaled up and down (respectively):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-17350.jpg" />
- <img src="./../images/BT22/bd-17350.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-17350-1090px.jpg"
+  data-srcset="./../images/BT22/tv-17350-512px.jpg 512w,
+  ./../images/BT22/tv-17350-768px.jpg 768w,
+  ./../images/BT22/tv-17350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-17350-1090px.jpg"
+  data-srcset="./../images/BT22/bd-17350-512px.jpg 512w,
+  ./../images/BT22/bd-17350-768px.jpg 768w,
+  ./../images/BT22/bd-17350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -766,8 +1872,22 @@ Let's get started!
 - The... blood in this scene has been... "uncensored":
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-19000.jpg" />
- <img src="./../images/BT22/bd-19000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-19000-1090px.jpg"
+  data-srcset="./../images/BT22/tv-19000-512px.jpg 512w,
+  ./../images/BT22/tv-19000-768px.jpg 768w,
+  ./../images/BT22/tv-19000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-19000-1090px.jpg"
+  data-srcset="./../images/BT22/bd-19000-512px.jpg 512w,
+  ./../images/BT22/bd-19000-768px.jpg 768w,
+  ./../images/BT22/bd-19000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -775,15 +1895,43 @@ Let's get started!
 - This scene of Wham giving us a double thumbs-up has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-19180.jpg" />
- <img src="./../images/BT22/bd-19180.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-19180-1090px.jpg"
+  data-srcset="./../images/BT22/tv-19180-512px.jpg 512w,
+  ./../images/BT22/tv-19180-768px.jpg 768w,
+  ./../images/BT22/tv-19180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-19180-1090px.jpg"
+  data-srcset="./../images/BT22/bd-19180-512px.jpg 512w,
+  ./../images/BT22/bd-19180-768px.jpg 768w,
+  ./../images/BT22/bd-19180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-19235.jpg" />
- <img src="./../images/BT22/bd-19235.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-19235-1090px.jpg"
+  data-srcset="./../images/BT22/tv-19235-512px.jpg 512w,
+  ./../images/BT22/tv-19235-768px.jpg 768w,
+  ./../images/BT22/tv-19235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-19235-1090px.jpg"
+  data-srcset="./../images/BT22/bd-19235-512px.jpg 512w,
+  ./../images/BT22/bd-19235-768px.jpg 768w,
+  ./../images/BT22/bd-19235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -791,8 +1939,22 @@ Let's get started!
 - Aaand Joseph joins the redrawn party:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-19260.jpg" />
- <img src="./../images/BT22/bd-19260.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-19260-1090px.jpg"
+  data-srcset="./../images/BT22/tv-19260-512px.jpg 512w,
+  ./../images/BT22/tv-19260-768px.jpg 768w,
+  ./../images/BT22/tv-19260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-19260-1090px.jpg"
+  data-srcset="./../images/BT22/bd-19260-512px.jpg 512w,
+  ./../images/BT22/bd-19260-768px.jpg 768w,
+  ./../images/BT22/bd-19260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -800,29 +1962,85 @@ Let's get started!
 - Let's move on to a completely, radically different thing... Joseph has been slightly retouched and reshaded, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-20565.jpg" />
- <img src="./../images/BT22/bd-20565.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-20565-1090px.jpg"
+  data-srcset="./../images/BT22/tv-20565-512px.jpg 512w,
+  ./../images/BT22/tv-20565-768px.jpg 768w,
+  ./../images/BT22/tv-20565-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-20565-1090px.jpg"
+  data-srcset="./../images/BT22/bd-20565-512px.jpg 512w,
+  ./../images/BT22/bd-20565-768px.jpg 768w,
+  ./../images/BT22/bd-20565-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-20845.jpg" />
- <img src="./../images/BT22/bd-20845.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-20845-1090px.jpg"
+  data-srcset="./../images/BT22/tv-20845-512px.jpg 512w,
+  ./../images/BT22/tv-20845-768px.jpg 768w,
+  ./../images/BT22/tv-20845-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-20845-1090px.jpg"
+  data-srcset="./../images/BT22/bd-20845-512px.jpg 512w,
+  ./../images/BT22/bd-20845-768px.jpg 768w,
+  ./../images/BT22/bd-20845-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-21225.jpg" />
- <img src="./../images/BT22/bd-21225.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-21225-1090px.jpg"
+  data-srcset="./../images/BT22/tv-21225-512px.jpg 512w,
+  ./../images/BT22/tv-21225-768px.jpg 768w,
+  ./../images/BT22/tv-21225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-21225-1090px.jpg"
+  data-srcset="./../images/BT22/bd-21225-512px.jpg 512w,
+  ./../images/BT22/bd-21225-768px.jpg 768w,
+  ./../images/BT22/bd-21225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-21325.jpg" />
- <img src="./../images/BT22/bd-21325.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-21325-1090px.jpg"
+  data-srcset="./../images/BT22/tv-21325-512px.jpg 512w,
+  ./../images/BT22/tv-21325-768px.jpg 768w,
+  ./../images/BT22/tv-21325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-21325-1090px.jpg"
+  data-srcset="./../images/BT22/bd-21325-512px.jpg 512w,
+  ./../images/BT22/bd-21325-768px.jpg 768w,
+  ./../images/BT22/bd-21325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -830,8 +2048,22 @@ Let's get started!
 - And here, for something... horny:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-21580.jpg" />
- <img src="./../images/BT22/bd-21580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-21580-1090px.jpg"
+  data-srcset="./../images/BT22/tv-21580-512px.jpg 512w,
+  ./../images/BT22/tv-21580-768px.jpg 768w,
+  ./../images/BT22/tv-21580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-21580-1090px.jpg"
+  data-srcset="./../images/BT22/bd-21580-512px.jpg 512w,
+  ./../images/BT22/bd-21580-768px.jpg 768w,
+  ./../images/BT22/bd-21580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -839,15 +2071,43 @@ Let's get started!
 - Wham and the crossbow have both been retouched here. I'm not a crossbow expert, but that thing they removed near the trigger looked a bit... weird and out of place:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-22415.jpg" />
- <img src="./../images/BT22/bd-22415.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-22415-1090px.jpg"
+  data-srcset="./../images/BT22/tv-22415-512px.jpg 512w,
+  ./../images/BT22/tv-22415-768px.jpg 768w,
+  ./../images/BT22/tv-22415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-22415-1090px.jpg"
+  data-srcset="./../images/BT22/bd-22415-512px.jpg 512w,
+  ./../images/BT22/bd-22415-768px.jpg 768w,
+  ./../images/BT22/bd-22415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-22445.jpg" />
- <img src="./../images/BT22/bd-22445.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-22445-1090px.jpg"
+  data-srcset="./../images/BT22/tv-22445-512px.jpg 512w,
+  ./../images/BT22/tv-22445-768px.jpg 768w,
+  ./../images/BT22/tv-22445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-22445-1090px.jpg"
+  data-srcset="./../images/BT22/bd-22445-512px.jpg 512w,
+  ./../images/BT22/bd-22445-768px.jpg 768w,
+  ./../images/BT22/bd-22445-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -855,8 +2115,22 @@ Let's get started!
 - Lisa Lisa now has bottom teeth in some frames (and her tongue has been consequently moved a little bit up):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-23300.jpg" />
- <img src="./../images/BT22/bd-23300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-23300-1090px.jpg"
+  data-srcset="./../images/BT22/tv-23300-512px.jpg 512w,
+  ./../images/BT22/tv-23300-768px.jpg 768w,
+  ./../images/BT22/tv-23300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-23300-1090px.jpg"
+  data-srcset="./../images/BT22/bd-23300-512px.jpg 512w,
+  ./../images/BT22/bd-23300-768px.jpg 768w,
+  ./../images/BT22/bd-23300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -864,15 +2138,43 @@ Let's get started!
 - Joseph back at it again at Krispy Kreme:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-23535.jpg" />
- <img src="./../images/BT22/bd-23535.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-23535-1090px.jpg"
+  data-srcset="./../images/BT22/tv-23535-512px.jpg 512w,
+  ./../images/BT22/tv-23535-768px.jpg 768w,
+  ./../images/BT22/tv-23535-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-23535-1090px.jpg"
+  data-srcset="./../images/BT22/bd-23535-512px.jpg 512w,
+  ./../images/BT22/bd-23535-768px.jpg 768w,
+  ./../images/BT22/bd-23535-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-23610.jpg" />
- <img src="./../images/BT22/bd-23610.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-23610-1090px.jpg"
+  data-srcset="./../images/BT22/tv-23610-512px.jpg 512w,
+  ./../images/BT22/tv-23610-768px.jpg 768w,
+  ./../images/BT22/tv-23610-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-23610-1090px.jpg"
+  data-srcset="./../images/BT22/bd-23610-512px.jpg 512w,
+  ./../images/BT22/bd-23610-768px.jpg 768w,
+  ./../images/BT22/bd-23610-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -880,15 +2182,43 @@ Let's get started!
 - Wham has been retouched once more here, and the background clouds have been moved a little bit to the right:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-23875.jpg" />
- <img src="./../images/BT22/bd-23875.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-23875-1090px.jpg"
+  data-srcset="./../images/BT22/tv-23875-512px.jpg 512w,
+  ./../images/BT22/tv-23875-768px.jpg 768w,
+  ./../images/BT22/tv-23875-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-23875-1090px.jpg"
+  data-srcset="./../images/BT22/bd-23875-512px.jpg 512w,
+  ./../images/BT22/bd-23875-768px.jpg 768w,
+  ./../images/BT22/bd-23875-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-23965.jpg" />
- <img src="./../images/BT22/bd-23965.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-23965-1090px.jpg"
+  data-srcset="./../images/BT22/tv-23965-512px.jpg 512w,
+  ./../images/BT22/tv-23965-768px.jpg 768w,
+  ./../images/BT22/tv-23965-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-23965-1090px.jpg"
+  data-srcset="./../images/BT22/bd-23965-512px.jpg 512w,
+  ./../images/BT22/bd-23965-768px.jpg 768w,
+  ./../images/BT22/bd-23965-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -896,15 +2226,43 @@ Let's get started!
 - Wham's little nosie is now as shiny as the moon:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-24605.jpg" />
- <img src="./../images/BT22/bd-24605.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-24605-1090px.jpg"
+  data-srcset="./../images/BT22/tv-24605-512px.jpg 512w,
+  ./../images/BT22/tv-24605-768px.jpg 768w,
+  ./../images/BT22/tv-24605-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-24605-1090px.jpg"
+  data-srcset="./../images/BT22/bd-24605-512px.jpg 512w,
+  ./../images/BT22/bd-24605-768px.jpg 768w,
+  ./../images/BT22/bd-24605-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-24650.jpg" />
- <img src="./../images/BT22/bd-24650.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-24650-1090px.jpg"
+  data-srcset="./../images/BT22/tv-24650-512px.jpg 512w,
+  ./../images/BT22/tv-24650-768px.jpg 768w,
+  ./../images/BT22/tv-24650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-24650-1090px.jpg"
+  data-srcset="./../images/BT22/bd-24650-512px.jpg 512w,
+  ./../images/BT22/bd-24650-768px.jpg 768w,
+  ./../images/BT22/bd-24650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -912,15 +2270,43 @@ Let's get started!
 - Ok, I don't know why, but the top band on Wham's... turban thingie has been _unshaded_:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-25255.jpg" />
- <img src="./../images/BT22/bd-25255.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-25255-1090px.jpg"
+  data-srcset="./../images/BT22/tv-25255-512px.jpg 512w,
+  ./../images/BT22/tv-25255-768px.jpg 768w,
+  ./../images/BT22/tv-25255-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-25255-1090px.jpg"
+  data-srcset="./../images/BT22/bd-25255-512px.jpg 512w,
+  ./../images/BT22/bd-25255-768px.jpg 768w,
+  ./../images/BT22/bd-25255-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-25305.jpg" />
- <img src="./../images/BT22/bd-25305.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-25305-1090px.jpg"
+  data-srcset="./../images/BT22/tv-25305-512px.jpg 512w,
+  ./../images/BT22/tv-25305-768px.jpg 768w,
+  ./../images/BT22/tv-25305-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-25305-1090px.jpg"
+  data-srcset="./../images/BT22/bd-25305-512px.jpg 512w,
+  ./../images/BT22/bd-25305-768px.jpg 768w,
+  ./../images/BT22/bd-25305-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -942,8 +2328,22 @@ Let's get started!
 - The projectile shot by Joseph's crossbow has been moved in this here shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-25525.jpg" />
- <img src="./../images/BT22/bd-25525.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-25525-1090px.jpg"
+  data-srcset="./../images/BT22/tv-25525-512px.jpg 512w,
+  ./../images/BT22/tv-25525-768px.jpg 768w,
+  ./../images/BT22/tv-25525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-25525-1090px.jpg"
+  data-srcset="./../images/BT22/bd-25525-512px.jpg 512w,
+  ./../images/BT22/bd-25525-768px.jpg 768w,
+  ./../images/BT22/bd-25525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -951,8 +2351,22 @@ Let's get started!
 - Kars has been, once again, redrawn here, and the background has also been moved:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-25765.jpg" />
- <img src="./../images/BT22/bd-25765.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-25765-1090px.jpg"
+  data-srcset="./../images/BT22/tv-25765-512px.jpg 512w,
+  ./../images/BT22/tv-25765-768px.jpg 768w,
+  ./../images/BT22/tv-25765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-25765-1090px.jpg"
+  data-srcset="./../images/BT22/bd-25765-512px.jpg 512w,
+  ./../images/BT22/bd-25765-768px.jpg 768w,
+  ./../images/BT22/bd-25765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -960,43 +2374,127 @@ Let's get started!
 - Joseph again here... Plus, he now casts a shadow on the ground:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-26080.jpg" />
- <img src="./../images/BT22/bd-26080.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-26080-1090px.jpg"
+  data-srcset="./../images/BT22/tv-26080-512px.jpg 512w,
+  ./../images/BT22/tv-26080-768px.jpg 768w,
+  ./../images/BT22/tv-26080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-26080-1090px.jpg"
+  data-srcset="./../images/BT22/bd-26080-512px.jpg 512w,
+  ./../images/BT22/bd-26080-768px.jpg 768w,
+  ./../images/BT22/bd-26080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-26090.jpg" />
- <img src="./../images/BT22/bd-26090.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-26090-1090px.jpg"
+  data-srcset="./../images/BT22/tv-26090-512px.jpg 512w,
+  ./../images/BT22/tv-26090-768px.jpg 768w,
+  ./../images/BT22/tv-26090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-26090-1090px.jpg"
+  data-srcset="./../images/BT22/bd-26090-512px.jpg 512w,
+  ./../images/BT22/bd-26090-768px.jpg 768w,
+  ./../images/BT22/bd-26090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-26105.jpg" />
- <img src="./../images/BT22/bd-26105.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-26105-1090px.jpg"
+  data-srcset="./../images/BT22/tv-26105-512px.jpg 512w,
+  ./../images/BT22/tv-26105-768px.jpg 768w,
+  ./../images/BT22/tv-26105-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-26105-1090px.jpg"
+  data-srcset="./../images/BT22/bd-26105-512px.jpg 512w,
+  ./../images/BT22/bd-26105-768px.jpg 768w,
+  ./../images/BT22/bd-26105-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-26132.jpg" />
- <img src="./../images/BT22/bd-26132.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-26132-1090px.jpg"
+  data-srcset="./../images/BT22/tv-26132-512px.jpg 512w,
+  ./../images/BT22/tv-26132-768px.jpg 768w,
+  ./../images/BT22/tv-26132-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-26132-1090px.jpg"
+  data-srcset="./../images/BT22/bd-26132-512px.jpg 512w,
+  ./../images/BT22/bd-26132-768px.jpg 768w,
+  ./../images/BT22/bd-26132-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-26145.jpg" />
- <img src="./../images/BT22/bd-26145.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-26145-1090px.jpg"
+  data-srcset="./../images/BT22/tv-26145-512px.jpg 512w,
+  ./../images/BT22/tv-26145-768px.jpg 768w,
+  ./../images/BT22/tv-26145-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-26145-1090px.jpg"
+  data-srcset="./../images/BT22/bd-26145-512px.jpg 512w,
+  ./../images/BT22/bd-26145-768px.jpg 768w,
+  ./../images/BT22/bd-26145-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-26165.jpg" />
- <img src="./../images/BT22/bd-26165.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-26165-1090px.jpg"
+  data-srcset="./../images/BT22/tv-26165-512px.jpg 512w,
+  ./../images/BT22/tv-26165-768px.jpg 768w,
+  ./../images/BT22/tv-26165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-26165-1090px.jpg"
+  data-srcset="./../images/BT22/bd-26165-512px.jpg 512w,
+  ./../images/BT22/bd-26165-768px.jpg 768w,
+  ./../images/BT22/bd-26165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1004,15 +2502,43 @@ Let's get started!
 - Look at this smug son of a gun! In the first frames of this shot, everything has a redder tint, and the two corners are completely red (the overall tint normalizes a few frames later):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-26666.jpg" />
- <img src="./../images/BT22/bd-26666.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-26666-1090px.jpg"
+  data-srcset="./../images/BT22/tv-26666-512px.jpg 512w,
+  ./../images/BT22/tv-26666-768px.jpg 768w,
+  ./../images/BT22/tv-26666-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-26666-1090px.jpg"
+  data-srcset="./../images/BT22/bd-26666-512px.jpg 512w,
+  ./../images/BT22/bd-26666-768px.jpg 768w,
+  ./../images/BT22/bd-26666-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-26675.jpg" />
- <img src="./../images/BT22/bd-26675.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-26675-1090px.jpg"
+  data-srcset="./../images/BT22/tv-26675-512px.jpg 512w,
+  ./../images/BT22/tv-26675-768px.jpg 768w,
+  ./../images/BT22/tv-26675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-26675-1090px.jpg"
+  data-srcset="./../images/BT22/bd-26675-512px.jpg 512w,
+  ./../images/BT22/bd-26675-768px.jpg 768w,
+  ./../images/BT22/bd-26675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1020,22 +2546,64 @@ Let's get started!
 - Aaand once again with the redrawn Joseph, as before (but more smug):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-26830.jpg" />
- <img src="./../images/BT22/bd-26830.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-26830-1090px.jpg"
+  data-srcset="./../images/BT22/tv-26830-512px.jpg 512w,
+  ./../images/BT22/tv-26830-768px.jpg 768w,
+  ./../images/BT22/tv-26830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-26830-1090px.jpg"
+  data-srcset="./../images/BT22/bd-26830-512px.jpg 512w,
+  ./../images/BT22/bd-26830-768px.jpg 768w,
+  ./../images/BT22/bd-26830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-26835.jpg" />
- <img src="./../images/BT22/bd-26835.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-26835-1090px.jpg"
+  data-srcset="./../images/BT22/tv-26835-512px.jpg 512w,
+  ./../images/BT22/tv-26835-768px.jpg 768w,
+  ./../images/BT22/tv-26835-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-26835-1090px.jpg"
+  data-srcset="./../images/BT22/bd-26835-512px.jpg 512w,
+  ./../images/BT22/bd-26835-768px.jpg 768w,
+  ./../images/BT22/bd-26835-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-26850.jpg" />
- <img src="./../images/BT22/bd-26850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-26850-1090px.jpg"
+  data-srcset="./../images/BT22/tv-26850-512px.jpg 512w,
+  ./../images/BT22/tv-26850-768px.jpg 768w,
+  ./../images/BT22/tv-26850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-26850-1090px.jpg"
+  data-srcset="./../images/BT22/bd-26850-512px.jpg 512w,
+  ./../images/BT22/bd-26850-768px.jpg 768w,
+  ./../images/BT22/bd-26850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1043,15 +2611,43 @@ Let's get started!
 - Joseph is looking much smoother here! He no longer looks like a sketch:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-26915.jpg" />
- <img src="./../images/BT22/bd-26915.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-26915-1090px.jpg"
+  data-srcset="./../images/BT22/tv-26915-512px.jpg 512w,
+  ./../images/BT22/tv-26915-768px.jpg 768w,
+  ./../images/BT22/tv-26915-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-26915-1090px.jpg"
+  data-srcset="./../images/BT22/bd-26915-512px.jpg 512w,
+  ./../images/BT22/bd-26915-768px.jpg 768w,
+  ./../images/BT22/bd-26915-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-27100.jpg" />
- <img src="./../images/BT22/bd-27100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-27100-1090px.jpg"
+  data-srcset="./../images/BT22/tv-27100-512px.jpg 512w,
+  ./../images/BT22/tv-27100-768px.jpg 768w,
+  ./../images/BT22/tv-27100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-27100-1090px.jpg"
+  data-srcset="./../images/BT22/bd-27100-512px.jpg 512w,
+  ./../images/BT22/bd-27100-768px.jpg 768w,
+  ./../images/BT22/bd-27100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1059,8 +2655,22 @@ Let's get started!
 - And here, the whole picture has been moved around a tiiiiny bit (and, most notably, the two blood spurts):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-27150.jpg" />
- <img src="./../images/BT22/bd-27150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-27150-1090px.jpg"
+  data-srcset="./../images/BT22/tv-27150-512px.jpg 512w,
+  ./../images/BT22/tv-27150-768px.jpg 768w,
+  ./../images/BT22/tv-27150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-27150-1090px.jpg"
+  data-srcset="./../images/BT22/bd-27150-512px.jpg 512w,
+  ./../images/BT22/bd-27150-768px.jpg 768w,
+  ./../images/BT22/bd-27150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1068,15 +2678,43 @@ Let's get started!
 - Oh, would you look at that? Joseph again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-27355.jpg" />
- <img src="./../images/BT22/bd-27355.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-27355-1090px.jpg"
+  data-srcset="./../images/BT22/tv-27355-512px.jpg 512w,
+  ./../images/BT22/tv-27355-768px.jpg 768w,
+  ./../images/BT22/tv-27355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-27355-1090px.jpg"
+  data-srcset="./../images/BT22/bd-27355-512px.jpg 512w,
+  ./../images/BT22/bd-27355-768px.jpg 768w,
+  ./../images/BT22/bd-27355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-27380.jpg" />
- <img src="./../images/BT22/bd-27380.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-27380-1090px.jpg"
+  data-srcset="./../images/BT22/tv-27380-512px.jpg 512w,
+  ./../images/BT22/tv-27380-768px.jpg 768w,
+  ./../images/BT22/tv-27380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-27380-1090px.jpg"
+  data-srcset="./../images/BT22/bd-27380-512px.jpg 512w,
+  ./../images/BT22/bd-27380-768px.jpg 768w,
+  ./../images/BT22/bd-27380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1084,22 +2722,64 @@ Let's get started!
 - Wham has been moved, retouched and re-shaded in some bits, and the lava/blood things have also been made a little better (more lava-like?):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-28600.jpg" />
- <img src="./../images/BT22/bd-28600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-28600-1090px.jpg"
+  data-srcset="./../images/BT22/tv-28600-512px.jpg 512w,
+  ./../images/BT22/tv-28600-768px.jpg 768w,
+  ./../images/BT22/tv-28600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-28600-1090px.jpg"
+  data-srcset="./../images/BT22/bd-28600-512px.jpg 512w,
+  ./../images/BT22/bd-28600-768px.jpg 768w,
+  ./../images/BT22/bd-28600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-28638.jpg" />
- <img src="./../images/BT22/bd-28638.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-28638-1090px.jpg"
+  data-srcset="./../images/BT22/tv-28638-512px.jpg 512w,
+  ./../images/BT22/tv-28638-768px.jpg 768w,
+  ./../images/BT22/tv-28638-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-28638-1090px.jpg"
+  data-srcset="./../images/BT22/bd-28638-512px.jpg 512w,
+  ./../images/BT22/bd-28638-768px.jpg 768w,
+  ./../images/BT22/bd-28638-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-28675.jpg" />
- <img src="./../images/BT22/bd-28675.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-28675-1090px.jpg"
+  data-srcset="./../images/BT22/tv-28675-512px.jpg 512w,
+  ./../images/BT22/tv-28675-768px.jpg 768w,
+  ./../images/BT22/tv-28675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-28675-1090px.jpg"
+  data-srcset="./../images/BT22/bd-28675-512px.jpg 512w,
+  ./../images/BT22/bd-28675-768px.jpg 768w,
+  ./../images/BT22/bd-28675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1107,50 +2787,148 @@ Let's get started!
 - Joseph is now looking at the camera, some details have been retouched and most things have been moved a little bit down:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-28690.jpg" />
- <img src="./../images/BT22/bd-28690.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-28690-1090px.jpg"
+  data-srcset="./../images/BT22/tv-28690-512px.jpg 512w,
+  ./../images/BT22/tv-28690-768px.jpg 768w,
+  ./../images/BT22/tv-28690-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-28690-1090px.jpg"
+  data-srcset="./../images/BT22/bd-28690-512px.jpg 512w,
+  ./../images/BT22/bd-28690-768px.jpg 768w,
+  ./../images/BT22/bd-28690-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-28760.jpg" />
- <img src="./../images/BT22/bd-28760.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-28760-1090px.jpg"
+  data-srcset="./../images/BT22/tv-28760-512px.jpg 512w,
+  ./../images/BT22/tv-28760-768px.jpg 768w,
+  ./../images/BT22/tv-28760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-28760-1090px.jpg"
+  data-srcset="./../images/BT22/bd-28760-512px.jpg 512w,
+  ./../images/BT22/bd-28760-768px.jpg 768w,
+  ./../images/BT22/bd-28760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-28775.jpg" />
- <img src="./../images/BT22/bd-28775.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-28775-1090px.jpg"
+  data-srcset="./../images/BT22/tv-28775-512px.jpg 512w,
+  ./../images/BT22/tv-28775-768px.jpg 768w,
+  ./../images/BT22/tv-28775-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-28775-1090px.jpg"
+  data-srcset="./../images/BT22/bd-28775-512px.jpg 512w,
+  ./../images/BT22/bd-28775-768px.jpg 768w,
+  ./../images/BT22/bd-28775-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-28800.jpg" />
- <img src="./../images/BT22/bd-28800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-28800-1090px.jpg"
+  data-srcset="./../images/BT22/tv-28800-512px.jpg 512w,
+  ./../images/BT22/tv-28800-768px.jpg 768w,
+  ./../images/BT22/tv-28800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-28800-1090px.jpg"
+  data-srcset="./../images/BT22/bd-28800-512px.jpg 512w,
+  ./../images/BT22/bd-28800-768px.jpg 768w,
+  ./../images/BT22/bd-28800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-28835.jpg" />
- <img src="./../images/BT22/bd-28835.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-28835-1090px.jpg"
+  data-srcset="./../images/BT22/tv-28835-512px.jpg 512w,
+  ./../images/BT22/tv-28835-768px.jpg 768w,
+  ./../images/BT22/tv-28835-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-28835-1090px.jpg"
+  data-srcset="./../images/BT22/bd-28835-512px.jpg 512w,
+  ./../images/BT22/bd-28835-768px.jpg 768w,
+  ./../images/BT22/bd-28835-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-28880.jpg" />
- <img src="./../images/BT22/bd-28880.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-28880-1090px.jpg"
+  data-srcset="./../images/BT22/tv-28880-512px.jpg 512w,
+  ./../images/BT22/tv-28880-768px.jpg 768w,
+  ./../images/BT22/tv-28880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-28880-1090px.jpg"
+  data-srcset="./../images/BT22/bd-28880-512px.jpg 512w,
+  ./../images/BT22/bd-28880-768px.jpg 768w,
+  ./../images/BT22/bd-28880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-28889.jpg" />
- <img src="./../images/BT22/bd-28889.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-28889-1090px.jpg"
+  data-srcset="./../images/BT22/tv-28889-512px.jpg 512w,
+  ./../images/BT22/tv-28889-768px.jpg 768w,
+  ./../images/BT22/tv-28889-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-28889-1090px.jpg"
+  data-srcset="./../images/BT22/bd-28889-512px.jpg 512w,
+  ./../images/BT22/bd-28889-768px.jpg 768w,
+  ./../images/BT22/bd-28889-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1158,8 +2936,22 @@ Let's get started!
 - Most frames in this animation have been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-28915.jpg" />
- <img src="./../images/BT22/bd-28915.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-28915-1090px.jpg"
+  data-srcset="./../images/BT22/tv-28915-512px.jpg 512w,
+  ./../images/BT22/tv-28915-768px.jpg 768w,
+  ./../images/BT22/tv-28915-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-28915-1090px.jpg"
+  data-srcset="./../images/BT22/bd-28915-512px.jpg 512w,
+  ./../images/BT22/bd-28915-768px.jpg 768w,
+  ./../images/BT22/bd-28915-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1172,8 +2964,22 @@ Let's get started!
 - Joseph is smaller here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-29070.jpg" />
- <img src="./../images/BT22/bd-29070.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-29070-1090px.jpg"
+  data-srcset="./../images/BT22/tv-29070-512px.jpg 512w,
+  ./../images/BT22/tv-29070-768px.jpg 768w,
+  ./../images/BT22/tv-29070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-29070-1090px.jpg"
+  data-srcset="./../images/BT22/bd-29070-512px.jpg 512w,
+  ./../images/BT22/bd-29070-768px.jpg 768w,
+  ./../images/BT22/bd-29070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1181,8 +2987,22 @@ Let's get started!
 - ...while Wham has been moved up:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-29155.jpg" />
- <img src="./../images/BT22/bd-29155.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-29155-1090px.jpg"
+  data-srcset="./../images/BT22/tv-29155-512px.jpg 512w,
+  ./../images/BT22/tv-29155-768px.jpg 768w,
+  ./../images/BT22/tv-29155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-29155-1090px.jpg"
+  data-srcset="./../images/BT22/bd-29155-512px.jpg 512w,
+  ./../images/BT22/bd-29155-768px.jpg 768w,
+  ./../images/BT22/bd-29155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1190,57 +3010,169 @@ Let's get started!
 - The framing of this animation is slightly different, and a bunch of frames have been (surprise, surprise) retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-29830.jpg" />
- <img src="./../images/BT22/bd-29830.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-29830-1090px.jpg"
+  data-srcset="./../images/BT22/tv-29830-512px.jpg 512w,
+  ./../images/BT22/tv-29830-768px.jpg 768w,
+  ./../images/BT22/tv-29830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-29830-1090px.jpg"
+  data-srcset="./../images/BT22/bd-29830-512px.jpg 512w,
+  ./../images/BT22/bd-29830-768px.jpg 768w,
+  ./../images/BT22/bd-29830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-29940.jpg" />
- <img src="./../images/BT22/bd-29940.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-29940-1090px.jpg"
+  data-srcset="./../images/BT22/tv-29940-512px.jpg 512w,
+  ./../images/BT22/tv-29940-768px.jpg 768w,
+  ./../images/BT22/tv-29940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-29940-1090px.jpg"
+  data-srcset="./../images/BT22/bd-29940-512px.jpg 512w,
+  ./../images/BT22/bd-29940-768px.jpg 768w,
+  ./../images/BT22/bd-29940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-29970.jpg" />
- <img src="./../images/BT22/bd-29970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-29970-1090px.jpg"
+  data-srcset="./../images/BT22/tv-29970-512px.jpg 512w,
+  ./../images/BT22/tv-29970-768px.jpg 768w,
+  ./../images/BT22/tv-29970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-29970-1090px.jpg"
+  data-srcset="./../images/BT22/bd-29970-512px.jpg 512w,
+  ./../images/BT22/bd-29970-768px.jpg 768w,
+  ./../images/BT22/bd-29970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-30005.jpg" />
- <img src="./../images/BT22/bd-30005.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-30005-1090px.jpg"
+  data-srcset="./../images/BT22/tv-30005-512px.jpg 512w,
+  ./../images/BT22/tv-30005-768px.jpg 768w,
+  ./../images/BT22/tv-30005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-30005-1090px.jpg"
+  data-srcset="./../images/BT22/bd-30005-512px.jpg 512w,
+  ./../images/BT22/bd-30005-768px.jpg 768w,
+  ./../images/BT22/bd-30005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-30049.jpg" />
- <img src="./../images/BT22/bd-30049.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-30049-1090px.jpg"
+  data-srcset="./../images/BT22/tv-30049-512px.jpg 512w,
+  ./../images/BT22/tv-30049-768px.jpg 768w,
+  ./../images/BT22/tv-30049-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-30049-1090px.jpg"
+  data-srcset="./../images/BT22/bd-30049-512px.jpg 512w,
+  ./../images/BT22/bd-30049-768px.jpg 768w,
+  ./../images/BT22/bd-30049-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-30050.jpg" />
- <img src="./../images/BT22/bd-30050.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-30050-1090px.jpg"
+  data-srcset="./../images/BT22/tv-30050-512px.jpg 512w,
+  ./../images/BT22/tv-30050-768px.jpg 768w,
+  ./../images/BT22/tv-30050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-30050-1090px.jpg"
+  data-srcset="./../images/BT22/bd-30050-512px.jpg 512w,
+  ./../images/BT22/bd-30050-768px.jpg 768w,
+  ./../images/BT22/bd-30050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-30052.jpg" />
- <img src="./../images/BT22/bd-30052.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-30052-1090px.jpg"
+  data-srcset="./../images/BT22/tv-30052-512px.jpg 512w,
+  ./../images/BT22/tv-30052-768px.jpg 768w,
+  ./../images/BT22/tv-30052-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-30052-1090px.jpg"
+  data-srcset="./../images/BT22/bd-30052-512px.jpg 512w,
+  ./../images/BT22/bd-30052-768px.jpg 768w,
+  ./../images/BT22/bd-30052-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-30055.jpg" />
- <img src="./../images/BT22/bd-30055.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-30055-1090px.jpg"
+  data-srcset="./../images/BT22/tv-30055-512px.jpg 512w,
+  ./../images/BT22/tv-30055-768px.jpg 768w,
+  ./../images/BT22/tv-30055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-30055-1090px.jpg"
+  data-srcset="./../images/BT22/bd-30055-512px.jpg 512w,
+  ./../images/BT22/bd-30055-768px.jpg 768w,
+  ./../images/BT22/bd-30055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1248,15 +3180,43 @@ Let's get started!
 - Joseph (ft. Wham's hands) have been moved in this scene, most lines are thinner, they've both received a (light and gentle) retouching treatment, and there's a new source of light behind them (namely, the big fire in the middle of the arena):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-30290.jpg" />
- <img src="./../images/BT22/bd-30290.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-30290-1090px.jpg"
+  data-srcset="./../images/BT22/tv-30290-512px.jpg 512w,
+  ./../images/BT22/tv-30290-768px.jpg 768w,
+  ./../images/BT22/tv-30290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-30290-1090px.jpg"
+  data-srcset="./../images/BT22/bd-30290-512px.jpg 512w,
+  ./../images/BT22/bd-30290-768px.jpg 768w,
+  ./../images/BT22/bd-30290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-30405.jpg" />
- <img src="./../images/BT22/bd-30405.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-30405-1090px.jpg"
+  data-srcset="./../images/BT22/tv-30405-512px.jpg 512w,
+  ./../images/BT22/tv-30405-768px.jpg 768w,
+  ./../images/BT22/tv-30405-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-30405-1090px.jpg"
+  data-srcset="./../images/BT22/bd-30405-512px.jpg 512w,
+  ./../images/BT22/bd-30405-768px.jpg 768w,
+  ./../images/BT22/bd-30405-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1264,8 +3224,22 @@ Let's get started!
 - Wham is bigger here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-30490.jpg" />
- <img src="./../images/BT22/bd-30490.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-30490-1090px.jpg"
+  data-srcset="./../images/BT22/tv-30490-512px.jpg 512w,
+  ./../images/BT22/tv-30490-768px.jpg 768w,
+  ./../images/BT22/tv-30490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-30490-1090px.jpg"
+  data-srcset="./../images/BT22/bd-30490-512px.jpg 512w,
+  ./../images/BT22/bd-30490-768px.jpg 768w,
+  ./../images/BT22/bd-30490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1273,8 +3247,22 @@ Let's get started!
 - The background behind Kars has been changed (again) here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-30975.jpg" />
- <img src="./../images/BT22/bd-30975.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-30975-1090px.jpg"
+  data-srcset="./../images/BT22/tv-30975-512px.jpg 512w,
+  ./../images/BT22/tv-30975-768px.jpg 768w,
+  ./../images/BT22/tv-30975-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-30975-1090px.jpg"
+  data-srcset="./../images/BT22/bd-30975-512px.jpg 512w,
+  ./../images/BT22/bd-30975-768px.jpg 768w,
+  ./../images/BT22/bd-30975-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1282,8 +3270,22 @@ Let's get started!
 - A tiny line on Joseph's nose (which was, presumably, an error) has been removed in the BD version:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-31180.jpg" />
- <img src="./../images/BT22/bd-31180.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-31180-1090px.jpg"
+  data-srcset="./../images/BT22/tv-31180-512px.jpg 512w,
+  ./../images/BT22/tv-31180-768px.jpg 768w,
+  ./../images/BT22/tv-31180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-31180-1090px.jpg"
+  data-srcset="./../images/BT22/bd-31180-512px.jpg 512w,
+  ./../images/BT22/bd-31180-768px.jpg 768w,
+  ./../images/BT22/bd-31180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1298,8 +3300,22 @@ Let's get started!
 - And the top of Joseph's hair is more see-through:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-31520.jpg" />
- <img src="./../images/BT22/bd-31520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-31520-1090px.jpg"
+  data-srcset="./../images/BT22/tv-31520-512px.jpg 512w,
+  ./../images/BT22/tv-31520-768px.jpg 768w,
+  ./../images/BT22/tv-31520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-31520-1090px.jpg"
+  data-srcset="./../images/BT22/bd-31520-512px.jpg 512w,
+  ./../images/BT22/bd-31520-768px.jpg 768w,
+  ./../images/BT22/bd-31520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1307,8 +3323,22 @@ Let's get started!
 - Let's wrap this ridiculously humongous comparison with one... credit difference! Check out the newly added 小美野雅彦 (Komino Masahiko) and 石本峻一 (Ishimoto Shun'ichi - you might remember him from Battle Tendency #19), at the bottom! Animation Director 寺井佳史 (Terai Yoshifumi) has also been moved to the right to make space for the two new arrivals:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT22/tv-33500.jpg" />
- <img src="./../images/BT22/bd-33500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/tv-33500-1090px.jpg"
+  data-srcset="./../images/BT22/tv-33500-512px.jpg 512w,
+  ./../images/BT22/tv-33500-768px.jpg 768w,
+  ./../images/BT22/tv-33500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT22/bd-33500-1090px.jpg"
+  data-srcset="./../images/BT22/bd-33500-512px.jpg 512w,
+  ./../images/BT22/bd-33500-768px.jpg 768w,
+  ./../images/BT22/bd-33500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

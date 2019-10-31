@@ -33,8 +33,22 @@ Hey everyone! Welcome back for an (early) Phantom Blood #09! This one was probab
 - In a bunch of frames, the top part of Erina's hat was a little wonky in the TV version; this has been corrected:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB09/tv-08030.jpg" />
- <img src="./../images/PB09/bd-08030.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB09/tv-08030-1090px.jpg"
+  data-srcset="./../images/PB09/tv-08030-512px.jpg 512w,
+  ./../images/PB09/tv-08030-768px.jpg 768w,
+  ./../images/PB09/tv-08030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB09/bd-08030-1090px.jpg"
+  data-srcset="./../images/PB09/bd-08030-512px.jpg 512w,
+  ./../images/PB09/bd-08030-768px.jpg 768w,
+  ./../images/PB09/bd-08030-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -66,8 +80,22 @@ Hey everyone! Welcome back for an (early) Phantom Blood #09! This one was probab
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB09/tv-16745.jpg" />
- <img src="./../images/PB09/bd-16745.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB09/tv-16745-1090px.jpg"
+  data-srcset="./../images/PB09/tv-16745-512px.jpg 512w,
+  ./../images/PB09/tv-16745-768px.jpg 768w,
+  ./../images/PB09/tv-16745-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB09/bd-16745-1090px.jpg"
+  data-srcset="./../images/PB09/bd-16745-512px.jpg 512w,
+  ./../images/PB09/bd-16745-768px.jpg 768w,
+  ./../images/PB09/bd-16745-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -75,8 +103,22 @@ Hey everyone! Welcome back for an (early) Phantom Blood #09! This one was probab
 - A very long series of brighter scenes here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB09/tv-19500.jpg" />
- <img src="./../images/PB09/bd-19500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB09/tv-19500-1090px.jpg"
+  data-srcset="./../images/PB09/tv-19500-512px.jpg 512w,
+  ./../images/PB09/tv-19500-768px.jpg 768w,
+  ./../images/PB09/tv-19500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB09/bd-19500-1090px.jpg"
+  data-srcset="./../images/PB09/bd-19500-512px.jpg 512w,
+  ./../images/PB09/bd-19500-768px.jpg 768w,
+  ./../images/PB09/bd-19500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -124,8 +166,22 @@ Hey everyone! Welcome back for an (early) Phantom Blood #09! This one was probab
 - And to top it all off, a final difference in the very last frame of Phantom Blood: Speedwagon's chin, Jonathan's eyes and his mouth have all been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB09/tv-31100.jpg" />
- <img src="./../images/PB09/bd-31100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB09/tv-31100-1090px.jpg"
+  data-srcset="./../images/PB09/tv-31100-512px.jpg 512w,
+  ./../images/PB09/tv-31100-768px.jpg 768w,
+  ./../images/PB09/tv-31100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB09/bd-31100-1090px.jpg"
+  data-srcset="./../images/PB09/bd-31100-512px.jpg 512w,
+  ./../images/PB09/bd-31100-768px.jpg 768w,
+  ./../images/PB09/bd-31100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

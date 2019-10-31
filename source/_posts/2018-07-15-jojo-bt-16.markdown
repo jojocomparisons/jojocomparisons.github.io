@@ -28,8 +28,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - The first comparison for today is this slightly retouched Caesar, along with his also retouched bandana and hair:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-01312.jpg" />
- <img src="./../images/BT16/bd-01312.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-01312-1090px.jpg"
+  data-srcset="./../images/BT16/tv-01312-512px.jpg 512w,
+  ./../images/BT16/tv-01312-768px.jpg 768w,
+  ./../images/BT16/tv-01312-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-01312-1090px.jpg"
+  data-srcset="./../images/BT16/bd-01312-512px.jpg 512w,
+  ./../images/BT16/bd-01312-768px.jpg 768w,
+  ./../images/BT16/bd-01312-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,8 +51,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - In this bit, the hamon effects are a little brighter in the BD version:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-01585.jpg" />
- <img src="./../images/BT16/bd-01585.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-01585-1090px.jpg"
+  data-srcset="./../images/BT16/tv-01585-512px.jpg 512w,
+  ./../images/BT16/tv-01585-768px.jpg 768w,
+  ./../images/BT16/tv-01585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-01585-1090px.jpg"
+  data-srcset="./../images/BT16/bd-01585-512px.jpg 512w,
+  ./../images/BT16/bd-01585-768px.jpg 768w,
+  ./../images/BT16/bd-01585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -46,8 +74,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - In this beautiful sequence that perfectly showcases just how handsome Joseph is, the BD version adds more water droplet and a little bit of a bloom effect:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-01645.jpg" />
- <img src="./../images/BT16/bd-01645.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-01645-1090px.jpg"
+  data-srcset="./../images/BT16/tv-01645-512px.jpg 512w,
+  ./../images/BT16/tv-01645-768px.jpg 768w,
+  ./../images/BT16/tv-01645-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-01645-1090px.jpg"
+  data-srcset="./../images/BT16/bd-01645-512px.jpg 512w,
+  ./../images/BT16/bd-01645-768px.jpg 768w,
+  ./../images/BT16/bd-01645-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -55,8 +97,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - "See this glove, Joseph? It's been retouched for the BD release, so that it no longer looks like one of the fingers is shorter than the others":
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-01910.jpg" />
- <img src="./../images/BT16/bd-01910.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-01910-1090px.jpg"
+  data-srcset="./../images/BT16/tv-01910-512px.jpg 512w,
+  ./../images/BT16/tv-01910-768px.jpg 768w,
+  ./../images/BT16/tv-01910-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-01910-1090px.jpg"
+  data-srcset="./../images/BT16/bd-01910-512px.jpg 512w,
+  ./../images/BT16/bd-01910-768px.jpg 768w,
+  ./../images/BT16/bd-01910-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -65,8 +121,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-02480.jpg" />
- <img src="./../images/BT16/bd-02480.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-02480-1090px.jpg"
+  data-srcset="./../images/BT16/tv-02480-512px.jpg 512w,
+  ./../images/BT16/tv-02480-768px.jpg 768w,
+  ./../images/BT16/tv-02480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-02480-1090px.jpg"
+  data-srcset="./../images/BT16/bd-02480-512px.jpg 512w,
+  ./../images/BT16/bd-02480-768px.jpg 768w,
+  ./../images/BT16/bd-02480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -74,8 +144,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Here, the inside of Joseph's ear has been recoloured, the gondola driver has been redrawn in a more natural position and the gondola itself has been retouched. Fun fact: that iron bit at the tip of the gondola is called "ferro di prua", and the six small "teeth" you can see protruding towards the outside of the gondola represent the six districts of Venice (called "sestieri"), while the one that protrudes towards the inside represents the Giudecca island. Well done on this correction, David Pro!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-05289.jpg" />
- <img src="./../images/BT16/bd-05289.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-05289-1090px.jpg"
+  data-srcset="./../images/BT16/tv-05289-512px.jpg 512w,
+  ./../images/BT16/tv-05289-768px.jpg 768w,
+  ./../images/BT16/tv-05289-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-05289-1090px.jpg"
+  data-srcset="./../images/BT16/bd-05289-512px.jpg 512w,
+  ./../images/BT16/bd-05289-768px.jpg 768w,
+  ./../images/BT16/bd-05289-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -83,8 +167,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Here, Joseph has been retouched and moved slightly up-right:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-05316.jpg" />
- <img src="./../images/BT16/bd-05311.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-05316-1090px.jpg"
+  data-srcset="./../images/BT16/tv-05316-512px.jpg 512w,
+  ./../images/BT16/tv-05316-768px.jpg 768w,
+  ./../images/BT16/tv-05316-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-05311-1090px.jpg"
+  data-srcset="./../images/BT16/bd-05311-512px.jpg 512w,
+  ./../images/BT16/bd-05311-768px.jpg 768w,
+  ./../images/BT16/bd-05311-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -92,8 +190,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - In this bit, the gondola has been slightly moved, and the water level is a little higher:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-05500.jpg" />
- <img src="./../images/BT16/bd-05500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-05500-1090px.jpg"
+  data-srcset="./../images/BT16/tv-05500-512px.jpg 512w,
+  ./../images/BT16/tv-05500-768px.jpg 768w,
+  ./../images/BT16/tv-05500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-05500-1090px.jpg"
+  data-srcset="./../images/BT16/bd-05500-512px.jpg 512w,
+  ./../images/BT16/bd-05500-768px.jpg 768w,
+  ./../images/BT16/bd-05500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -101,8 +213,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Here we have a whole bunch of different things: Caesar's bandana's now coloured properly, the rope tying the gondola to the pier has been retouched, Lisa Lisa and her oar have been redrawn completely, the gondola itself has been sliiightly moved and the ferro di prua bit is now looking much, much better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-05660.jpg" />
- <img src="./../images/BT16/bd-05660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-05660-1090px.jpg"
+  data-srcset="./../images/BT16/tv-05660-512px.jpg 512w,
+  ./../images/BT16/tv-05660-768px.jpg 768w,
+  ./../images/BT16/tv-05660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-05660-1090px.jpg"
+  data-srcset="./../images/BT16/bd-05660-512px.jpg 512w,
+  ./../images/BT16/bd-05660-768px.jpg 768w,
+  ./../images/BT16/bd-05660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -110,8 +236,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - The camera has been slightly moved in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-05700.jpg" />
- <img src="./../images/BT16/bd-05700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-05700-1090px.jpg"
+  data-srcset="./../images/BT16/tv-05700-512px.jpg 512w,
+  ./../images/BT16/tv-05700-768px.jpg 768w,
+  ./../images/BT16/tv-05700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-05700-1090px.jpg"
+  data-srcset="./../images/BT16/bd-05700-512px.jpg 512w,
+  ./../images/BT16/bd-05700-768px.jpg 768w,
+  ./../images/BT16/bd-05700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -119,8 +259,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - The shading in this shot is a little smoother, and Caesar's eyes have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-05770.jpg" />
- <img src="./../images/BT16/bd-05770.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-05770-1090px.jpg"
+  data-srcset="./../images/BT16/tv-05770-512px.jpg 512w,
+  ./../images/BT16/tv-05770-768px.jpg 768w,
+  ./../images/BT16/tv-05770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-05770-1090px.jpg"
+  data-srcset="./../images/BT16/bd-05770-512px.jpg 512w,
+  ./../images/BT16/bd-05770-768px.jpg 768w,
+  ./../images/BT16/bd-05770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -128,8 +282,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Lisa Lisa and the background have been moved here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-05856.jpg" />
- <img src="./../images/BT16/bd-05856.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-05856-1090px.jpg"
+  data-srcset="./../images/BT16/tv-05856-512px.jpg 512w,
+  ./../images/BT16/tv-05856-768px.jpg 768w,
+  ./../images/BT16/tv-05856-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-05856-1090px.jpg"
+  data-srcset="./../images/BT16/bd-05856-512px.jpg 512w,
+  ./../images/BT16/bd-05856-768px.jpg 768w,
+  ./../images/BT16/bd-05856-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -137,8 +305,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Oh boy, DPro did it again... Both Caesar and Joseph are looking much, much worse here, and a lot stuff has been either scaled or moved around:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-05880.jpg" />
- <img src="./../images/BT16/bd-05880.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-05880-1090px.jpg"
+  data-srcset="./../images/BT16/tv-05880-512px.jpg 512w,
+  ./../images/BT16/tv-05880-768px.jpg 768w,
+  ./../images/BT16/tv-05880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-05880-1090px.jpg"
+  data-srcset="./../images/BT16/bd-05880-512px.jpg 512w,
+  ./../images/BT16/bd-05880-768px.jpg 768w,
+  ./../images/BT16/bd-05880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -146,8 +328,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Lisa Lisa has been moved around here, and the shading is better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-05950.jpg" />
- <img src="./../images/BT16/bd-05950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-05950-1090px.jpg"
+  data-srcset="./../images/BT16/tv-05950-512px.jpg 512w,
+  ./../images/BT16/tv-05950-768px.jpg 768w,
+  ./../images/BT16/tv-05950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-05950-1090px.jpg"
+  data-srcset="./../images/BT16/bd-05950-512px.jpg 512w,
+  ./../images/BT16/bd-05950-768px.jpg 768w,
+  ./../images/BT16/bd-05950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -155,8 +351,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Here basically everything has been retouched or moved around, and Lisa Lisa now has an additional animation when she lands on the oar:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-06055.jpg" />
- <img src="./../images/BT16/bd-06055.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-06055-1090px.jpg"
+  data-srcset="./../images/BT16/tv-06055-512px.jpg 512w,
+  ./../images/BT16/tv-06055-768px.jpg 768w,
+  ./../images/BT16/tv-06055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-06055-1090px.jpg"
+  data-srcset="./../images/BT16/bd-06055-512px.jpg 512w,
+  ./../images/BT16/bd-06055-768px.jpg 768w,
+  ./../images/BT16/bd-06055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -169,8 +379,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - And again here! The gondola is way closer to Lisa Lisa and looks much better (as does Lisa Lisa), the oar is now slightly floating from the water and Lisa Lisa's clothes are now animated:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-06165.jpg" />
- <img src="./../images/BT16/bd-06165.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-06165-1090px.jpg"
+  data-srcset="./../images/BT16/tv-06165-512px.jpg 512w,
+  ./../images/BT16/tv-06165-768px.jpg 768w,
+  ./../images/BT16/tv-06165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-06165-1090px.jpg"
+  data-srcset="./../images/BT16/bd-06165-512px.jpg 512w,
+  ./../images/BT16/bd-06165-768px.jpg 768w,
+  ./../images/BT16/bd-06165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -190,24 +414,66 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - In this series of comparisons, Lisa Lisa has been moved (and later redrawn), the oar is sharper and the bit with Joseph has also been heavily retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-06365.jpg" />
- <img src="./../images/BT16/bd-06365.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-06365-1090px.jpg"
+  data-srcset="./../images/BT16/tv-06365-512px.jpg 512w,
+  ./../images/BT16/tv-06365-768px.jpg 768w,
+  ./../images/BT16/tv-06365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-06365-1090px.jpg"
+  data-srcset="./../images/BT16/bd-06365-512px.jpg 512w,
+  ./../images/BT16/bd-06365-768px.jpg 768w,
+  ./../images/BT16/bd-06365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-06377.jpg" />
- <img src="./../images/BT16/bd-06377.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-06377-1090px.jpg"
+  data-srcset="./../images/BT16/tv-06377-512px.jpg 512w,
+  ./../images/BT16/tv-06377-768px.jpg 768w,
+  ./../images/BT16/tv-06377-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-06377-1090px.jpg"
+  data-srcset="./../images/BT16/bd-06377-512px.jpg 512w,
+  ./../images/BT16/bd-06377-768px.jpg 768w,
+  ./../images/BT16/bd-06377-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-06426.jpg" />
- <img src="./../images/BT16/bd-06426.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-06426-1090px.jpg"
+  data-srcset="./../images/BT16/tv-06426-512px.jpg 512w,
+  ./../images/BT16/tv-06426-768px.jpg 768w,
+  ./../images/BT16/tv-06426-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-06426-1090px.jpg"
+  data-srcset="./../images/BT16/bd-06426-512px.jpg 512w,
+  ./../images/BT16/bd-06426-768px.jpg 768w,
+  ./../images/BT16/bd-06426-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -222,24 +488,66 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - In the first part of this scene, the genera lighting is different and Joseph's face has been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-06515.jpg" />
- <img src="./../images/BT16/bd-06515.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-06515-1090px.jpg"
+  data-srcset="./../images/BT16/tv-06515-512px.jpg 512w,
+  ./../images/BT16/tv-06515-768px.jpg 768w,
+  ./../images/BT16/tv-06515-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-06515-1090px.jpg"
+  data-srcset="./../images/BT16/bd-06515-512px.jpg 512w,
+  ./../images/BT16/bd-06515-768px.jpg 768w,
+  ./../images/BT16/bd-06515-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-06522.jpg" />
- <img src="./../images/BT16/bd-06522.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-06522-1090px.jpg"
+  data-srcset="./../images/BT16/tv-06522-512px.jpg 512w,
+  ./../images/BT16/tv-06522-768px.jpg 768w,
+  ./../images/BT16/tv-06522-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-06522-1090px.jpg"
+  data-srcset="./../images/BT16/bd-06522-512px.jpg 512w,
+  ./../images/BT16/bd-06522-768px.jpg 768w,
+  ./../images/BT16/bd-06522-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-06525.jpg" />
- <img src="./../images/BT16/bd-06525.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-06525-1090px.jpg"
+  data-srcset="./../images/BT16/tv-06525-512px.jpg 512w,
+  ./../images/BT16/tv-06525-768px.jpg 768w,
+  ./../images/BT16/tv-06525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-06525-1090px.jpg"
+  data-srcset="./../images/BT16/bd-06525-512px.jpg 512w,
+  ./../images/BT16/bd-06525-768px.jpg 768w,
+  ./../images/BT16/bd-06525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -247,8 +555,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - And when we get a closer look at his hands and feet, the colours are different, the dividers are brighter and the onomatopoeias have been recoloured:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-06555.jpg" />
- <img src="./../images/BT16/bd-06555.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-06555-1090px.jpg"
+  data-srcset="./../images/BT16/tv-06555-512px.jpg 512w,
+  ./../images/BT16/tv-06555-768px.jpg 768w,
+  ./../images/BT16/tv-06555-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-06555-1090px.jpg"
+  data-srcset="./../images/BT16/bd-06555-512px.jpg 512w,
+  ./../images/BT16/bd-06555-768px.jpg 768w,
+  ./../images/BT16/bd-06555-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -263,15 +585,43 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Most lines are slightly thicker here, and both Lisa Lisa and her scarf have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-07345.jpg" />
- <img src="./../images/BT16/bd-07345.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-07345-1090px.jpg"
+  data-srcset="./../images/BT16/tv-07345-512px.jpg 512w,
+  ./../images/BT16/tv-07345-768px.jpg 768w,
+  ./../images/BT16/tv-07345-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-07345-1090px.jpg"
+  data-srcset="./../images/BT16/bd-07345-512px.jpg 512w,
+  ./../images/BT16/bd-07345-768px.jpg 768w,
+  ./../images/BT16/bd-07345-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-07400.jpg" />
- <img src="./../images/BT16/bd-07400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-07400-1090px.jpg"
+  data-srcset="./../images/BT16/tv-07400-512px.jpg 512w,
+  ./../images/BT16/tv-07400-768px.jpg 768w,
+  ./../images/BT16/tv-07400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-07400-1090px.jpg"
+  data-srcset="./../images/BT16/bd-07400-512px.jpg 512w,
+  ./../images/BT16/bd-07400-768px.jpg 768w,
+  ./../images/BT16/bd-07400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -279,8 +629,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Here they added part of the artificial shore, warped the water and hamon effects and retouched all three faces:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-07480.jpg" />
- <img src="./../images/BT16/bd-07480.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-07480-1090px.jpg"
+  data-srcset="./../images/BT16/tv-07480-512px.jpg 512w,
+  ./../images/BT16/tv-07480-768px.jpg 768w,
+  ./../images/BT16/tv-07480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-07480-1090px.jpg"
+  data-srcset="./../images/BT16/bd-07480-512px.jpg 512w,
+  ./../images/BT16/bd-07480-768px.jpg 768w,
+  ./../images/BT16/bd-07480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -288,8 +652,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Joseph's eyes have been retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-07600.jpg" />
- <img src="./../images/BT16/bd-07600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-07600-1090px.jpg"
+  data-srcset="./../images/BT16/tv-07600-512px.jpg 512w,
+  ./../images/BT16/tv-07600-768px.jpg 768w,
+  ./../images/BT16/tv-07600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-07600-1090px.jpg"
+  data-srcset="./../images/BT16/bd-07600-512px.jpg 512w,
+  ./../images/BT16/bd-07600-768px.jpg 768w,
+  ./../images/BT16/bd-07600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -297,8 +675,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - This shot has been completely tweaked:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-07735.jpg" />
- <img src="./../images/BT16/bd-07735.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-07735-1090px.jpg"
+  data-srcset="./../images/BT16/tv-07735-512px.jpg 512w,
+  ./../images/BT16/tv-07735-768px.jpg 768w,
+  ./../images/BT16/tv-07735-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-07735-1090px.jpg"
+  data-srcset="./../images/BT16/bd-07735-512px.jpg 512w,
+  ./../images/BT16/bd-07735-768px.jpg 768w,
+  ./../images/BT16/bd-07735-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -306,8 +698,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Almost everything has been redrawn in this bit here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-08015.jpg" />
- <img src="./../images/BT16/bd-08015.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-08015-1090px.jpg"
+  data-srcset="./../images/BT16/tv-08015-512px.jpg 512w,
+  ./../images/BT16/tv-08015-768px.jpg 768w,
+  ./../images/BT16/tv-08015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-08015-1090px.jpg"
+  data-srcset="./../images/BT16/bd-08015-512px.jpg 512w,
+  ./../images/BT16/bd-08015-768px.jpg 768w,
+  ./../images/BT16/bd-08015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -322,8 +728,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Seriously, DPro? Again? The redraws here are, again, pretty bad, the colours are flatter and the shading is less well made, the splashes of water are slightly warped and she's got no bracelets on:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-08110.jpg" />
- <img src="./../images/BT16/bd-08110.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-08110-1090px.jpg"
+  data-srcset="./../images/BT16/tv-08110-512px.jpg 512w,
+  ./../images/BT16/tv-08110-768px.jpg 768w,
+  ./../images/BT16/tv-08110-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-08110-1090px.jpg"
+  data-srcset="./../images/BT16/bd-08110-512px.jpg 512w,
+  ./../images/BT16/bd-08110-768px.jpg 768w,
+  ./../images/BT16/bd-08110-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -338,8 +758,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Here both Lisa Lisa and the oar have been slightly moved around, the splashes of water are different, the shading on the oar has been retouched and Lisa Lisa's afterimages are sharper and brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-08180.jpg" />
- <img src="./../images/BT16/bd-08180.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-08180-1090px.jpg"
+  data-srcset="./../images/BT16/tv-08180-512px.jpg 512w,
+  ./../images/BT16/tv-08180-768px.jpg 768w,
+  ./../images/BT16/tv-08180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-08180-1090px.jpg"
+  data-srcset="./../images/BT16/bd-08180-512px.jpg 512w,
+  ./../images/BT16/bd-08180-768px.jpg 768w,
+  ./../images/BT16/bd-08180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -359,8 +793,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-08605.jpg" />
- <img src="./../images/BT16/bd-08605.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-08605-1090px.jpg"
+  data-srcset="./../images/BT16/tv-08605-512px.jpg 512w,
+  ./../images/BT16/tv-08605-768px.jpg 768w,
+  ./../images/BT16/tv-08605-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-08605-1090px.jpg"
+  data-srcset="./../images/BT16/bd-08605-512px.jpg 512w,
+  ./../images/BT16/bd-08605-768px.jpg 768w,
+  ./../images/BT16/bd-08605-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -368,8 +816,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Here, Joseph has been slightly moved and retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-08970.jpg" />
- <img src="./../images/BT16/bd-08971.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-08970-1090px.jpg"
+  data-srcset="./../images/BT16/tv-08970-512px.jpg 512w,
+  ./../images/BT16/tv-08970-768px.jpg 768w,
+  ./../images/BT16/tv-08970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-08971-1090px.jpg"
+  data-srcset="./../images/BT16/bd-08971-512px.jpg 512w,
+  ./../images/BT16/bd-08971-768px.jpg 768w,
+  ./../images/BT16/bd-08971-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -377,8 +839,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Caesar's neck has been shaded differently here, and his eyes have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-09525.jpg" />
- <img src="./../images/BT16/bd-09525.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-09525-1090px.jpg"
+  data-srcset="./../images/BT16/tv-09525-512px.jpg 512w,
+  ./../images/BT16/tv-09525-768px.jpg 768w,
+  ./../images/BT16/tv-09525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-09525-1090px.jpg"
+  data-srcset="./../images/BT16/bd-09525-512px.jpg 512w,
+  ./../images/BT16/bd-09525-768px.jpg 768w,
+  ./../images/BT16/bd-09525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -386,8 +862,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Here, the water looks different, Lisa Lisa has been shaded differently, and Joseph's eyes have been tweaked slightly:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-09735.jpg" />
- <img src="./../images/BT16/bd-09735.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-09735-1090px.jpg"
+  data-srcset="./../images/BT16/tv-09735-512px.jpg 512w,
+  ./../images/BT16/tv-09735-768px.jpg 768w,
+  ./../images/BT16/tv-09735-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-09735-1090px.jpg"
+  data-srcset="./../images/BT16/bd-09735-512px.jpg 512w,
+  ./../images/BT16/bd-09735-768px.jpg 768w,
+  ./../images/BT16/bd-09735-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -395,8 +885,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Lisa Lisa's mouth has been slightly moved here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-10195.jpg" />
- <img src="./../images/BT16/bd-10195.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-10195-1090px.jpg"
+  data-srcset="./../images/BT16/tv-10195-512px.jpg 512w,
+  ./../images/BT16/tv-10195-768px.jpg 768w,
+  ./../images/BT16/tv-10195-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-10195-1090px.jpg"
+  data-srcset="./../images/BT16/bd-10195-512px.jpg 512w,
+  ./../images/BT16/bd-10195-768px.jpg 768w,
+  ./../images/BT16/bd-10195-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -404,8 +908,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - The background has been moved here, and Caesar's eye area has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-10600.jpg" />
- <img src="./../images/BT16/bd-10600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-10600-1090px.jpg"
+  data-srcset="./../images/BT16/tv-10600-512px.jpg 512w,
+  ./../images/BT16/tv-10600-768px.jpg 768w,
+  ./../images/BT16/tv-10600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-10600-1090px.jpg"
+  data-srcset="./../images/BT16/bd-10600-512px.jpg 512w,
+  ./../images/BT16/bd-10600-768px.jpg 768w,
+  ./../images/BT16/bd-10600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -413,8 +931,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Lisa Lisa's eyes have been retouched, her cheeks look a little less flat and a tiny bit on the right part of her jawline has been fixed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-12290.jpg" />
- <img src="./../images/BT16/bd-12290.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-12290-1090px.jpg"
+  data-srcset="./../images/BT16/tv-12290-512px.jpg 512w,
+  ./../images/BT16/tv-12290-768px.jpg 768w,
+  ./../images/BT16/tv-12290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-12290-1090px.jpg"
+  data-srcset="./../images/BT16/bd-12290-512px.jpg 512w,
+  ./../images/BT16/bd-12290-768px.jpg 768w,
+  ./../images/BT16/bd-12290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -422,8 +954,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Caesar's proportions have been tweaked, and he's been retouched overall:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-12400.jpg" />
- <img src="./../images/BT16/bd-12400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-12400-1090px.jpg"
+  data-srcset="./../images/BT16/tv-12400-512px.jpg 512w,
+  ./../images/BT16/tv-12400-768px.jpg 768w,
+  ./../images/BT16/tv-12400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-12400-1090px.jpg"
+  data-srcset="./../images/BT16/bd-12400-512px.jpg 512w,
+  ./../images/BT16/bd-12400-768px.jpg 768w,
+  ./../images/BT16/bd-12400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -431,8 +977,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - The animation of the onomatopoeias fading out is different in the BDs: it no longer fades, but whizzes out with a blurrier animation (it's not very easy to spot in a video, so you'll have to settle for a single frame):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-12834.jpg" />
- <img src="./../images/BT16/bd-12834.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-12834-1090px.jpg"
+  data-srcset="./../images/BT16/tv-12834-512px.jpg 512w,
+  ./../images/BT16/tv-12834-768px.jpg 768w,
+  ./../images/BT16/tv-12834-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-12834-1090px.jpg"
+  data-srcset="./../images/BT16/bd-12834-512px.jpg 512w,
+  ./../images/BT16/bd-12834-768px.jpg 768w,
+  ./../images/BT16/bd-12834-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -440,8 +1000,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Here, Caesar's been very slightly moved, he's wearing a glove on his left hand and a little bit of his bandana has been coloured properly:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-12930.jpg" />
- <img src="./../images/BT16/bd-12930.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-12930-1090px.jpg"
+  data-srcset="./../images/BT16/tv-12930-512px.jpg 512w,
+  ./../images/BT16/tv-12930-768px.jpg 768w,
+  ./../images/BT16/tv-12930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-12930-1090px.jpg"
+  data-srcset="./../images/BT16/bd-12930-512px.jpg 512w,
+  ./../images/BT16/bd-12930-768px.jpg 768w,
+  ./../images/BT16/bd-12930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -449,8 +1023,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - The pillar and Joseph have been shaded differently here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-13450.jpg" />
- <img src="./../images/BT16/bd-13450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-13450-1090px.jpg"
+  data-srcset="./../images/BT16/tv-13450-512px.jpg 512w,
+  ./../images/BT16/tv-13450-768px.jpg 768w,
+  ./../images/BT16/tv-13450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-13450-1090px.jpg"
+  data-srcset="./../images/BT16/bd-13450-512px.jpg 512w,
+  ./../images/BT16/bd-13450-768px.jpg 768w,
+  ./../images/BT16/bd-13450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -465,8 +1053,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Joseph has been retouched and reshaded here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-15380.jpg" />
- <img src="./../images/BT16/bd-15380.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-15380-1090px.jpg"
+  data-srcset="./../images/BT16/tv-15380-512px.jpg 512w,
+  ./../images/BT16/tv-15380-768px.jpg 768w,
+  ./../images/BT16/tv-15380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-15380-1090px.jpg"
+  data-srcset="./../images/BT16/bd-15380-512px.jpg 512w,
+  ./../images/BT16/bd-15380-768px.jpg 768w,
+  ./../images/BT16/bd-15380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -474,8 +1076,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - The knives have been redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-16525.jpg" />
- <img src="./../images/BT16/bd-16525.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-16525-1090px.jpg"
+  data-srcset="./../images/BT16/tv-16525-512px.jpg 512w,
+  ./../images/BT16/tv-16525-768px.jpg 768w,
+  ./../images/BT16/tv-16525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-16525-1090px.jpg"
+  data-srcset="./../images/BT16/bd-16525-512px.jpg 512w,
+  ./../images/BT16/bd-16525-768px.jpg 768w,
+  ./../images/BT16/bd-16525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -483,8 +1099,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - This flashback scene has been recoloured, is slightly blurrier and Caesar has been retouched as before:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-19370.jpg" />
- <img src="./../images/BT16/bd-19370.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-19370-1090px.jpg"
+  data-srcset="./../images/BT16/tv-19370-512px.jpg 512w,
+  ./../images/BT16/tv-19370-768px.jpg 768w,
+  ./../images/BT16/tv-19370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-19370-1090px.jpg"
+  data-srcset="./../images/BT16/bd-19370-512px.jpg 512w,
+  ./../images/BT16/bd-19370-768px.jpg 768w,
+  ./../images/BT16/bd-19370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -499,8 +1129,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - And the background in between two of Joseph's bangs has been slightly recoloured:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-20377.jpg" />
- <img src="./../images/BT16/bd-20377.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-20377-1090px.jpg"
+  data-srcset="./../images/BT16/tv-20377-512px.jpg 512w,
+  ./../images/BT16/tv-20377-768px.jpg 768w,
+  ./../images/BT16/tv-20377-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-20377-1090px.jpg"
+  data-srcset="./../images/BT16/bd-20377-512px.jpg 512w,
+  ./../images/BT16/bd-20377-768px.jpg 768w,
+  ./../images/BT16/bd-20377-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -508,8 +1152,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - The background is slightly brighter here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-21800.jpg" />
- <img src="./../images/BT16/bd-21800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-21800-1090px.jpg"
+  data-srcset="./../images/BT16/tv-21800-512px.jpg 512w,
+  ./../images/BT16/tv-21800-768px.jpg 768w,
+  ./../images/BT16/tv-21800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-21800-1090px.jpg"
+  data-srcset="./../images/BT16/bd-21800-512px.jpg 512w,
+  ./../images/BT16/bd-21800-768px.jpg 768w,
+  ./../images/BT16/bd-21800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -524,8 +1182,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Here, have some brighter hamon sparks:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-23755.jpg" />
- <img src="./../images/BT16/bd-23755.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-23755-1090px.jpg"
+  data-srcset="./../images/BT16/tv-23755-512px.jpg 512w,
+  ./../images/BT16/tv-23755-768px.jpg 768w,
+  ./../images/BT16/tv-23755-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-23755-1090px.jpg"
+  data-srcset="./../images/BT16/bd-23755-512px.jpg 512w,
+  ./../images/BT16/bd-23755-768px.jpg 768w,
+  ./../images/BT16/bd-23755-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -540,8 +1212,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Caesar's been retouched and slightly reshaded here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-25535.jpg" />
- <img src="./../images/BT16/bd-25535.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-25535-1090px.jpg"
+  data-srcset="./../images/BT16/tv-25535-512px.jpg 512w,
+  ./../images/BT16/tv-25535-768px.jpg 768w,
+  ./../images/BT16/tv-25535-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-25535-1090px.jpg"
+  data-srcset="./../images/BT16/bd-25535-512px.jpg 512w,
+  ./../images/BT16/bd-25535-768px.jpg 768w,
+  ./../images/BT16/bd-25535-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -556,8 +1242,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Caesar's eyes, nose and neck have been retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-26528.jpg" />
- <img src="./../images/BT16/bd-26528.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-26528-1090px.jpg"
+  data-srcset="./../images/BT16/tv-26528-512px.jpg 512w,
+  ./../images/BT16/tv-26528-768px.jpg 768w,
+  ./../images/BT16/tv-26528-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-26528-1090px.jpg"
+  data-srcset="./../images/BT16/bd-26528-512px.jpg 512w,
+  ./../images/BT16/bd-26528-768px.jpg 768w,
+  ./../images/BT16/bd-26528-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -572,15 +1272,43 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - This bit is brighter in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-27300.jpg" />
- <img src="./../images/BT16/bd-27300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-27300-1090px.jpg"
+  data-srcset="./../images/BT16/tv-27300-512px.jpg 512w,
+  ./../images/BT16/tv-27300-768px.jpg 768w,
+  ./../images/BT16/tv-27300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-27300-1090px.jpg"
+  data-srcset="./../images/BT16/bd-27300-512px.jpg 512w,
+  ./../images/BT16/bd-27300-768px.jpg 768w,
+  ./../images/BT16/bd-27300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-27355.jpg" />
- <img src="./../images/BT16/bd-27355.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-27355-1090px.jpg"
+  data-srcset="./../images/BT16/tv-27355-512px.jpg 512w,
+  ./../images/BT16/tv-27355-768px.jpg 768w,
+  ./../images/BT16/tv-27355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-27355-1090px.jpg"
+  data-srcset="./../images/BT16/bd-27355-512px.jpg 512w,
+  ./../images/BT16/bd-27355-768px.jpg 768w,
+  ./../images/BT16/bd-27355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -595,8 +1323,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - Here, this beautiful Italian boy has been slightly moved to the left, and his eye area is looking much better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-29900.jpg" />
- <img src="./../images/BT16/bd-29900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-29900-1090px.jpg"
+  data-srcset="./../images/BT16/tv-29900-512px.jpg 512w,
+  ./../images/BT16/tv-29900-768px.jpg 768w,
+  ./../images/BT16/tv-29900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-29900-1090px.jpg"
+  data-srcset="./../images/BT16/bd-29900-512px.jpg 512w,
+  ./../images/BT16/bd-29900-768px.jpg 768w,
+  ./../images/BT16/bd-29900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -604,8 +1346,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - The BDs have no credits in the final part of the episode, because they added the ending:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-30900.jpg" />
- <img src="./../images/BT16/bd-30900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-30900-1090px.jpg"
+  data-srcset="./../images/BT16/tv-30900-512px.jpg 512w,
+  ./../images/BT16/tv-30900-768px.jpg 768w,
+  ./../images/BT16/tv-30900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-30900-1090px.jpg"
+  data-srcset="./../images/BT16/bd-30900-512px.jpg 512w,
+  ./../images/BT16/bd-30900-768px.jpg 768w,
+  ./../images/BT16/bd-30900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -613,8 +1369,22 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 - And here, Caesar has been slightly moved, his face has been retouched, the bandana and that suspender-looking thing he's got going on his chest have also been shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT16/tv-31660.jpg" />
- <img src="./../images/BT16/bd-31660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/tv-31660-1090px.jpg"
+  data-srcset="./../images/BT16/tv-31660-512px.jpg 512w,
+  ./../images/BT16/tv-31660-768px.jpg 768w,
+  ./../images/BT16/tv-31660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT16/bd-31660-1090px.jpg"
+  data-srcset="./../images/BT16/bd-31660-512px.jpg 512w,
+  ./../images/BT16/bd-31660-768px.jpg 768w,
+  ./../images/BT16/bd-31660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

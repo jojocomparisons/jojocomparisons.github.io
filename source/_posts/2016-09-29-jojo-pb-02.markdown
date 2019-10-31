@@ -19,8 +19,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - In the pre-opening scene, the BDs give us a nice bit of introduction as to what we're seeing. 1888, London, East End:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-00150.jpg" />
- <img src="./../images/PB02/bd-00150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-00150-1090px.jpg"
+  data-srcset="./../images/PB02/tv-00150-512px.jpg 512w,
+  ./../images/PB02/tv-00150-768px.jpg 768w,
+  ./../images/PB02/tv-00150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-00150-1090px.jpg"
+  data-srcset="./../images/PB02/bd-00150-512px.jpg 512w,
+  ./../images/PB02/bd-00150-768px.jpg 768w,
+  ./../images/PB02/bd-00150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -28,8 +42,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Here we have the first bit of uncensored gore for this episode (they also toned down on the shadows):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-00240.jpg" />
- <img src="./../images/PB02/bd-00240.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-00240-1090px.jpg"
+  data-srcset="./../images/PB02/tv-00240-512px.jpg 512w,
+  ./../images/PB02/tv-00240-768px.jpg 768w,
+  ./../images/PB02/tv-00240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-00240-1090px.jpg"
+  data-srcset="./../images/PB02/bd-00240-512px.jpg 512w,
+  ./../images/PB02/bd-00240-768px.jpg 768w,
+  ./../images/PB02/bd-00240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,8 +65,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - And here as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-00245.jpg" />
- <img src="./../images/PB02/bd-00245.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-00245-1090px.jpg"
+  data-srcset="./../images/PB02/tv-00245-512px.jpg 512w,
+  ./../images/PB02/tv-00245-768px.jpg 768w,
+  ./../images/PB02/tv-00245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-00245-1090px.jpg"
+  data-srcset="./../images/PB02/bd-00245-512px.jpg 512w,
+  ./../images/PB02/bd-00245-768px.jpg 768w,
+  ./../images/PB02/bd-00245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -46,8 +88,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - The reflection on Jack the Ripper's blade is shorter (I know, I know, who cares):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-00338.jpg" />
- <img src="./../images/PB02/bd-00338.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-00338-1090px.jpg"
+  data-srcset="./../images/PB02/tv-00338-512px.jpg 512w,
+  ./../images/PB02/tv-00338-768px.jpg 768w,
+  ./../images/PB02/tv-00338-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-00338-1090px.jpg"
+  data-srcset="./../images/PB02/bd-00338-512px.jpg 512w,
+  ./../images/PB02/bd-00338-768px.jpg 768w,
+  ./../images/PB02/bd-00338-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -55,8 +111,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - This shot of the daily newspaper has an added vignette:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-00400.jpg" />
- <img src="./../images/PB02/bd-00400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-00400-1090px.jpg"
+  data-srcset="./../images/PB02/tv-00400-512px.jpg 512w,
+  ./../images/PB02/tv-00400-768px.jpg 768w,
+  ./../images/PB02/tv-00400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-00400-1090px.jpg"
+  data-srcset="./../images/PB02/bd-00400-512px.jpg 512w,
+  ./../images/PB02/bd-00400-768px.jpg 768w,
+  ./../images/PB02/bd-00400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -64,8 +134,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Aaaand here come the redraws! Let's begin with Dio in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-06000.jpg" />
- <img src="./../images/PB02/bd-06000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-06000-1090px.jpg"
+  data-srcset="./../images/PB02/tv-06000-512px.jpg 512w,
+  ./../images/PB02/tv-06000-768px.jpg 768w,
+  ./../images/PB02/tv-06000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-06000-1090px.jpg"
+  data-srcset="./../images/PB02/bd-06000-512px.jpg 512w,
+  ./../images/PB02/bd-06000-768px.jpg 768w,
+  ./../images/PB02/bd-06000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -73,8 +157,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - WHAT'S THAT YOU SAY? YOU WANT IT TO BE MORE DRAMATIC? YOU WANT IT REDDER? AND WITH MORE THINGS ON THE SCREEN? ALRIGHT, I GUESS:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-06290.jpg" />
- <img src="./../images/PB02/bd-06290.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-06290-1090px.jpg"
+  data-srcset="./../images/PB02/tv-06290-512px.jpg 512w,
+  ./../images/PB02/tv-06290-768px.jpg 768w,
+  ./../images/PB02/tv-06290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-06290-1090px.jpg"
+  data-srcset="./../images/PB02/bd-06290-512px.jpg 512w,
+  ./../images/PB02/bd-06290-768px.jpg 768w,
+  ./../images/PB02/bd-06290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -82,8 +180,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - The scratch pattern they've put in this scene is slightly different in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-06760.jpg" />
- <img src="./../images/PB02/bd-06760.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-06760-1090px.jpg"
+  data-srcset="./../images/PB02/tv-06760-512px.jpg 512w,
+  ./../images/PB02/tv-06760-768px.jpg 768w,
+  ./../images/PB02/tv-06760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-06760-1090px.jpg"
+  data-srcset="./../images/PB02/bd-06760-512px.jpg 512w,
+  ./../images/PB02/bd-06760-768px.jpg 768w,
+  ./../images/PB02/bd-06760-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -91,15 +203,43 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Dio has been redrawn, and the interviewers' eyeballs have been shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-06870.jpg" />
- <img src="./../images/PB02/bd-06870.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-06870-1090px.jpg"
+  data-srcset="./../images/PB02/tv-06870-512px.jpg 512w,
+  ./../images/PB02/tv-06870-768px.jpg 768w,
+  ./../images/PB02/tv-06870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-06870-1090px.jpg"
+  data-srcset="./../images/PB02/bd-06870-512px.jpg 512w,
+  ./../images/PB02/bd-06870-768px.jpg 768w,
+  ./../images/PB02/bd-06870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-07130.jpg" />
- <img src="./../images/PB02/bd-07130.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-07130-1090px.jpg"
+  data-srcset="./../images/PB02/tv-07130-512px.jpg 512w,
+  ./../images/PB02/tv-07130-768px.jpg 768w,
+  ./../images/PB02/tv-07130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-07130-1090px.jpg"
+  data-srcset="./../images/PB02/bd-07130-512px.jpg 512w,
+  ./../images/PB02/bd-07130-768px.jpg 768w,
+  ./../images/PB02/bd-07130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -107,8 +247,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - The strokes in this shot are way thicker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-07150.jpg" />
- <img src="./../images/PB02/bd-07150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-07150-1090px.jpg"
+  data-srcset="./../images/PB02/tv-07150-512px.jpg 512w,
+  ./../images/PB02/tv-07150-768px.jpg 768w,
+  ./../images/PB02/tv-07150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-07150-1090px.jpg"
+  data-srcset="./../images/PB02/bd-07150-512px.jpg 512w,
+  ./../images/PB02/bd-07150-768px.jpg 768w,
+  ./../images/PB02/bd-07150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -116,8 +270,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - "Those are some very nice arrows" "Oh, thank you" "Why though?" "I'm not sure":
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-07200.jpg" />
- <img src="./../images/PB02/bd-07200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-07200-1090px.jpg"
+  data-srcset="./../images/PB02/tv-07200-512px.jpg 512w,
+  ./../images/PB02/tv-07200-768px.jpg 768w,
+  ./../images/PB02/tv-07200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-07200-1090px.jpg"
+  data-srcset="./../images/PB02/bd-07200-512px.jpg 512w,
+  ./../images/PB02/bd-07200-768px.jpg 768w,
+  ./../images/PB02/bd-07200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -125,15 +293,43 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Dio and Jonathan are both redrawn in these shots:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-08190.jpg" />
- <img src="./../images/PB02/bd-08190.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-08190-1090px.jpg"
+  data-srcset="./../images/PB02/tv-08190-512px.jpg 512w,
+  ./../images/PB02/tv-08190-768px.jpg 768w,
+  ./../images/PB02/tv-08190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-08190-1090px.jpg"
+  data-srcset="./../images/PB02/bd-08190-512px.jpg 512w,
+  ./../images/PB02/bd-08190-768px.jpg 768w,
+  ./../images/PB02/bd-08190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-08480.jpg" />
- <img src="./../images/PB02/bd-08480.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-08480-1090px.jpg"
+  data-srcset="./../images/PB02/tv-08480-512px.jpg 512w,
+  ./../images/PB02/tv-08480-768px.jpg 768w,
+  ./../images/PB02/tv-08480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-08480-1090px.jpg"
+  data-srcset="./../images/PB02/bd-08480-512px.jpg 512w,
+  ./../images/PB02/bd-08480-768px.jpg 768w,
+  ./../images/PB02/bd-08480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -141,8 +337,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - George is not immune to the redrawings. If you look close enough even the bed has a thicker outline:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-08840.jpg" />
- <img src="./../images/PB02/bd-08840.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-08840-1090px.jpg"
+  data-srcset="./../images/PB02/tv-08840-512px.jpg 512w,
+  ./../images/PB02/tv-08840-768px.jpg 768w,
+  ./../images/PB02/tv-08840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-08840-1090px.jpg"
+  data-srcset="./../images/PB02/bd-08840-512px.jpg 512w,
+  ./../images/PB02/bd-08840-768px.jpg 768w,
+  ./../images/PB02/bd-08840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -150,8 +360,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Sneaky Dio is not sneaky enough to get past David pro's redrawing pencils:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-11440.jpg" />
- <img src="./../images/PB02/bd-11440.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-11440-1090px.jpg"
+  data-srcset="./../images/PB02/tv-11440-512px.jpg 512w,
+  ./../images/PB02/tv-11440-768px.jpg 768w,
+  ./../images/PB02/tv-11440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-11440-1090px.jpg"
+  data-srcset="./../images/PB02/bd-11440-512px.jpg 512w,
+  ./../images/PB02/bd-11440-768px.jpg 768w,
+  ./../images/PB02/bd-11440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -159,43 +383,127 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - The BDs give Jonathan a sharper shade of surprise:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-11470.jpg" />
- <img src="./../images/PB02/bd-11470.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-11470-1090px.jpg"
+  data-srcset="./../images/PB02/tv-11470-512px.jpg 512w,
+  ./../images/PB02/tv-11470-768px.jpg 768w,
+  ./../images/PB02/tv-11470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-11470-1090px.jpg"
+  data-srcset="./../images/PB02/bd-11470-512px.jpg 512w,
+  ./../images/PB02/bd-11470-768px.jpg 768w,
+  ./../images/PB02/bd-11470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-11500.jpg" />
- <img src="./../images/PB02/bd-11500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-11500-1090px.jpg"
+  data-srcset="./../images/PB02/tv-11500-512px.jpg 512w,
+  ./../images/PB02/tv-11500-768px.jpg 768w,
+  ./../images/PB02/tv-11500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-11500-1090px.jpg"
+  data-srcset="./../images/PB02/bd-11500-512px.jpg 512w,
+  ./../images/PB02/bd-11500-768px.jpg 768w,
+  ./../images/PB02/bd-11500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-12790.jpg" />
- <img src="./../images/PB02/bd-12790.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-12790-1090px.jpg"
+  data-srcset="./../images/PB02/tv-12790-512px.jpg 512w,
+  ./../images/PB02/tv-12790-768px.jpg 768w,
+  ./../images/PB02/tv-12790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-12790-1090px.jpg"
+  data-srcset="./../images/PB02/bd-12790-512px.jpg 512w,
+  ./../images/PB02/bd-12790-768px.jpg 768w,
+  ./../images/PB02/bd-12790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-13216.jpg" />
- <img src="./../images/PB02/bd-13216.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-13216-1090px.jpg"
+  data-srcset="./../images/PB02/tv-13216-512px.jpg 512w,
+  ./../images/PB02/tv-13216-768px.jpg 768w,
+  ./../images/PB02/tv-13216-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-13216-1090px.jpg"
+  data-srcset="./../images/PB02/bd-13216-512px.jpg 512w,
+  ./../images/PB02/bd-13216-768px.jpg 768w,
+  ./../images/PB02/bd-13216-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-13218.jpg" />
- <img src="./../images/PB02/bd-13218.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-13218-1090px.jpg"
+  data-srcset="./../images/PB02/tv-13218-512px.jpg 512w,
+  ./../images/PB02/tv-13218-768px.jpg 768w,
+  ./../images/PB02/tv-13218-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-13218-1090px.jpg"
+  data-srcset="./../images/PB02/bd-13218-512px.jpg 512w,
+  ./../images/PB02/bd-13218-768px.jpg 768w,
+  ./../images/PB02/bd-13218-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-13260.jpg" />
- <img src="./../images/PB02/bd-13260.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-13260-1090px.jpg"
+  data-srcset="./../images/PB02/tv-13260-512px.jpg 512w,
+  ./../images/PB02/tv-13260-768px.jpg 768w,
+  ./../images/PB02/tv-13260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-13260-1090px.jpg"
+  data-srcset="./../images/PB02/bd-13260-512px.jpg 512w,
+  ./../images/PB02/bd-13260-768px.jpg 768w,
+  ./../images/PB02/bd-13260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -203,8 +511,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Dio no longer looks as if he has no idea what's going on:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-13400.jpg" />
- <img src="./../images/PB02/bd-13400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-13400-1090px.jpg"
+  data-srcset="./../images/PB02/tv-13400-512px.jpg 512w,
+  ./../images/PB02/tv-13400-768px.jpg 768w,
+  ./../images/PB02/tv-13400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-13400-1090px.jpg"
+  data-srcset="./../images/PB02/bd-13400-512px.jpg 512w,
+  ./../images/PB02/bd-13400-768px.jpg 768w,
+  ./../images/PB02/bd-13400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -217,8 +539,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-15150.jpg" />
- <img src="./../images/PB02/bd-15150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-15150-1090px.jpg"
+  data-srcset="./../images/PB02/tv-15150-512px.jpg 512w,
+  ./../images/PB02/tv-15150-768px.jpg 768w,
+  ./../images/PB02/tv-15150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-15150-1090px.jpg"
+  data-srcset="./../images/PB02/bd-15150-512px.jpg 512w,
+  ./../images/PB02/bd-15150-768px.jpg 768w,
+  ./../images/PB02/bd-15150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -226,8 +562,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Dio has been redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-17750.jpg" />
- <img src="./../images/PB02/bd-17750.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-17750-1090px.jpg"
+  data-srcset="./../images/PB02/tv-17750-512px.jpg 512w,
+  ./../images/PB02/tv-17750-768px.jpg 768w,
+  ./../images/PB02/tv-17750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-17750-1090px.jpg"
+  data-srcset="./../images/PB02/bd-17750-512px.jpg 512w,
+  ./../images/PB02/bd-17750-768px.jpg 768w,
+  ./../images/PB02/bd-17750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -235,8 +585,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - The BD tells us that this was "Two days later, London":
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-17990.jpg" />
- <img src="./../images/PB02/bd-17990.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-17990-1090px.jpg"
+  data-srcset="./../images/PB02/tv-17990-512px.jpg 512w,
+  ./../images/PB02/tv-17990-768px.jpg 768w,
+  ./../images/PB02/tv-17990-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-17990-1090px.jpg"
+  data-srcset="./../images/PB02/bd-17990-512px.jpg 512w,
+  ./../images/PB02/bd-17990-768px.jpg 768w,
+  ./../images/PB02/bd-17990-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -244,15 +608,43 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Thankfully Jonathan's face in this scene was redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-18600.jpg" />
- <img src="./../images/PB02/bd-18600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-18600-1090px.jpg"
+  data-srcset="./../images/PB02/tv-18600-512px.jpg 512w,
+  ./../images/PB02/tv-18600-768px.jpg 768w,
+  ./../images/PB02/tv-18600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-18600-1090px.jpg"
+  data-srcset="./../images/PB02/bd-18600-512px.jpg 512w,
+  ./../images/PB02/bd-18600-768px.jpg 768w,
+  ./../images/PB02/bd-18600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-18680.jpg" />
- <img src="./../images/PB02/bd-18680.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-18680-1090px.jpg"
+  data-srcset="./../images/PB02/tv-18680-512px.jpg 512w,
+  ./../images/PB02/tv-18680-768px.jpg 768w,
+  ./../images/PB02/tv-18680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-18680-1090px.jpg"
+  data-srcset="./../images/PB02/bd-18680-512px.jpg 512w,
+  ./../images/PB02/bd-18680-768px.jpg 768w,
+  ./../images/PB02/bd-18680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -288,8 +680,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - We interrupt this stream of gory uncensored animations to bring you some breaking news! The shoe in the bottom left corner is for some reason brighter (riveting, huh?):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-28350.jpg" />
- <img src="./../images/PB02/bd-28350.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-28350-1090px.jpg"
+  data-srcset="./../images/PB02/tv-28350-512px.jpg 512w,
+  ./../images/PB02/tv-28350-768px.jpg 768w,
+  ./../images/PB02/tv-28350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-28350-1090px.jpg"
+  data-srcset="./../images/PB02/bd-28350-512px.jpg 512w,
+  ./../images/PB02/bd-28350-768px.jpg 768w,
+  ./../images/PB02/bd-28350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -318,8 +724,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - And now for some good ol' credit mistakes! Speedweed's voice actor (Ueda Yōji) was previously misspelled as 上田耀司, while instead it's 上田燿司; if you don't see anything different, here it is: the second to last kanji is not 耀, but 燿. Small difference, but still:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-31560.jpg" />
- <img src="./../images/PB02/bd-31560.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-31560-1090px.jpg"
+  data-srcset="./../images/PB02/tv-31560-512px.jpg 512w,
+  ./../images/PB02/tv-31560-768px.jpg 768w,
+  ./../images/PB02/tv-31560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-31560-1090px.jpg"
+  data-srcset="./../images/PB02/bd-31560-512px.jpg 512w,
+  ./../images/PB02/bd-31560-768px.jpg 768w,
+  ./../images/PB02/bd-31560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -327,8 +747,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - Not one, but two misspelled names: both 辻秀一 (Tsuji Shūichi) and 辻健志 (Tsuji Kenji)'s surnames (辻) apparently only have one "drop" on the left side:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-32270.jpg" />
- <img src="./../images/PB02/bd-32270.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-32270-1090px.jpg"
+  data-srcset="./../images/PB02/tv-32270-512px.jpg 512w,
+  ./../images/PB02/tv-32270-768px.jpg 768w,
+  ./../images/PB02/tv-32270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-32270-1090px.jpg"
+  data-srcset="./../images/PB02/bd-32270-512px.jpg 512w,
+  ./../images/PB02/bd-32270-768px.jpg 768w,
+  ./../images/PB02/bd-32270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -336,8 +770,22 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 - And finally, here 小松原聖 (Komatsubara Kiyoshi)'s name is spaced differently; since in japanese three-kanji surnames are somewhat rarer, I suppose they chose to put a clearer separation between the surname and the name, to avoid confusions:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/PB02/tv-32850.jpg" />
- <img src="./../images/PB02/bd-32850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/tv-32850-1090px.jpg"
+  data-srcset="./../images/PB02/tv-32850-512px.jpg 512w,
+  ./../images/PB02/tv-32850-768px.jpg 768w,
+  ./../images/PB02/tv-32850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/PB02/bd-32850-1090px.jpg"
+  data-srcset="./../images/PB02/bd-32850-512px.jpg 512w,
+  ./../images/PB02/bd-32850-768px.jpg 768w,
+  ./../images/PB02/bd-32850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

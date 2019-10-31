@@ -21,8 +21,22 @@ Now then, without further ado, let's go!
 - Let's begin with an uncensored, mangled face:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT10/tv-06490.jpg" />
- <img src="./../images/BT10/bd-06490.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/tv-06490-1090px.jpg"
+  data-srcset="./../images/BT10/tv-06490-512px.jpg 512w,
+  ./../images/BT10/tv-06490-768px.jpg 768w,
+  ./../images/BT10/tv-06490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/bd-06490-1090px.jpg"
+  data-srcset="./../images/BT10/bd-06490-512px.jpg 512w,
+  ./../images/BT10/bd-06490-768px.jpg 768w,
+  ./../images/BT10/bd-06490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,8 +51,22 @@ Now then, without further ado, let's go!
 - Even old speedwagon is not safe from a couple of retouches:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT10/tv-11900.jpg" />
- <img src="./../images/BT10/bd-11900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/tv-11900-1090px.jpg"
+  data-srcset="./../images/BT10/tv-11900-512px.jpg 512w,
+  ./../images/BT10/tv-11900-768px.jpg 768w,
+  ./../images/BT10/tv-11900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/bd-11900-1090px.jpg"
+  data-srcset="./../images/BT10/bd-11900-512px.jpg 512w,
+  ./../images/BT10/bd-11900-768px.jpg 768w,
+  ./../images/BT10/bd-11900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -46,8 +74,22 @@ Now then, without further ado, let's go!
 - And we have another uncensored wound here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT10/tv-14190.jpg" />
- <img src="./../images/BT10/bd-14190.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/tv-14190-1090px.jpg"
+  data-srcset="./../images/BT10/tv-14190-512px.jpg 512w,
+  ./../images/BT10/tv-14190-768px.jpg 768w,
+  ./../images/BT10/tv-14190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/bd-14190-1090px.jpg"
+  data-srcset="./../images/BT10/bd-14190-512px.jpg 512w,
+  ./../images/BT10/bd-14190-768px.jpg 768w,
+  ./../images/BT10/bd-14190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -55,8 +97,22 @@ Now then, without further ado, let's go!
 - Joseph's face has been redrawn here, and his ridiculously long bangs shortened:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT10/tv-16970.jpg" />
- <img src="./../images/BT10/bd-16970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/tv-16970-1090px.jpg"
+  data-srcset="./../images/BT10/tv-16970-512px.jpg 512w,
+  ./../images/BT10/tv-16970-768px.jpg 768w,
+  ./../images/BT10/tv-16970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/bd-16970-1090px.jpg"
+  data-srcset="./../images/BT10/bd-16970-512px.jpg 512w,
+  ./../images/BT10/bd-16970-768px.jpg 768w,
+  ./../images/BT10/bd-16970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -64,29 +120,85 @@ Now then, without further ado, let's go!
 - In these four very boring shots, the word TAXI on the side of this... well, Taxi, has been made more visible:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT10/tv-17700.jpg" />
- <img src="./../images/BT10/bd-17700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/tv-17700-1090px.jpg"
+  data-srcset="./../images/BT10/tv-17700-512px.jpg 512w,
+  ./../images/BT10/tv-17700-768px.jpg 768w,
+  ./../images/BT10/tv-17700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/bd-17700-1090px.jpg"
+  data-srcset="./../images/BT10/bd-17700-512px.jpg 512w,
+  ./../images/BT10/bd-17700-768px.jpg 768w,
+  ./../images/BT10/bd-17700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT10/tv-18260.jpg" />
- <img src="./../images/BT10/bd-18260.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/tv-18260-1090px.jpg"
+  data-srcset="./../images/BT10/tv-18260-512px.jpg 512w,
+  ./../images/BT10/tv-18260-768px.jpg 768w,
+  ./../images/BT10/tv-18260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/bd-18260-1090px.jpg"
+  data-srcset="./../images/BT10/bd-18260-512px.jpg 512w,
+  ./../images/BT10/bd-18260-768px.jpg 768w,
+  ./../images/BT10/bd-18260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT10/tv-19325.jpg" />
- <img src="./../images/BT10/bd-19325.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/tv-19325-1090px.jpg"
+  data-srcset="./../images/BT10/tv-19325-512px.jpg 512w,
+  ./../images/BT10/tv-19325-768px.jpg 768w,
+  ./../images/BT10/tv-19325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/bd-19325-1090px.jpg"
+  data-srcset="./../images/BT10/bd-19325-512px.jpg 512w,
+  ./../images/BT10/bd-19325-768px.jpg 768w,
+  ./../images/BT10/bd-19325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT10/tv-19800.jpg" />
- <img src="./../images/BT10/bd-19800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/tv-19800-1090px.jpg"
+  data-srcset="./../images/BT10/tv-19800-512px.jpg 512w,
+  ./../images/BT10/tv-19800-768px.jpg 768w,
+  ./../images/BT10/tv-19800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/bd-19800-1090px.jpg"
+  data-srcset="./../images/BT10/bd-19800-512px.jpg 512w,
+  ./../images/BT10/bd-19800-768px.jpg 768w,
+  ./../images/BT10/bd-19800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -94,8 +206,22 @@ Now then, without further ado, let's go!
 - This hand wound has been uncensored and the overall shot is brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/BT10/tv-24130.jpg" />
- <img src="./../images/BT10/bd-24130.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/tv-24130-1090px.jpg"
+  data-srcset="./../images/BT10/tv-24130-512px.jpg 512w,
+  ./../images/BT10/tv-24130-768px.jpg 768w,
+  ./../images/BT10/tv-24130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/BT10/bd-24130-1090px.jpg"
+  data-srcset="./../images/BT10/bd-24130-512px.jpg 512w,
+  ./../images/BT10/bd-24130-768px.jpg 768w,
+  ./../images/BT10/bd-24130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
