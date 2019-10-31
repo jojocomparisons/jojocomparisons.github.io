@@ -19,8 +19,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Let's begin with this shot, in which both Josuke's and Rohan's faces have been retouched (as well as a bit on top of Josuke's pompadour), and the top of the frame is less dark:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-00355.jpg" />
- <img src="./../images/DIU28/bd-00355.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-00355-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-00355-512px.jpg 512w,
+  ./../images/DIU28/tv-00355-768px.jpg 768w,
+  ./../images/DIU28/tv-00355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-00355-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-00355-512px.jpg 512w,
+  ./../images/DIU28/bd-00355-768px.jpg 768w,
+  ./../images/DIU28/bd-00355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -28,15 +42,43 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Rohan's finger has been uncensored:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-02494.jpg" />
- <img src="./../images/DIU28/bd-02494.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-02494-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-02494-512px.jpg 512w,
+  ./../images/DIU28/tv-02494-768px.jpg 768w,
+  ./../images/DIU28/tv-02494-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-02494-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-02494-512px.jpg 512w,
+  ./../images/DIU28/bd-02494-768px.jpg 768w,
+  ./../images/DIU28/bd-02494-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-02510.jpg" />
- <img src="./../images/DIU28/bd-02510.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-02510-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-02510-512px.jpg 512w,
+  ./../images/DIU28/tv-02510-768px.jpg 768w,
+  ./../images/DIU28/tv-02510-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-02510-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-02510-512px.jpg 512w,
+  ./../images/DIU28/bd-02510-768px.jpg 768w,
+  ./../images/DIU28/bd-02510-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -44,8 +86,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - In the opening they added Action Animation Director 三室健太 (Mimuro Kenta), on the left:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-03695.jpg" />
- <img src="./../images/DIU28/bd-03695.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-03695-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-03695-512px.jpg 512w,
+  ./../images/DIU28/tv-03695-768px.jpg 768w,
+  ./../images/DIU28/tv-03695-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-03695-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-03695-512px.jpg 512w,
+  ./../images/DIU28/bd-03695-768px.jpg 768w,
+  ./../images/DIU28/bd-03695-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -53,8 +109,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - And oh, my, what is this? An opening redraw? Well... In a way, yes! In this shot of Rohan and Yukako breaking out their coolest poses, their faces have both been retouched (although I prefer the TV version...). However, this was a redraw originally present in the TV version as well, it just came further down the line (episode #37, to be precise); the BDs just have the final version from the start. To be fair, this redraw was also in last week's opening, but I didn't notice because the OPs were entirely different (in the TV broadcast they still had the half-finished version with some recycled bits from the anime at the end), so my bad, I guess! Here, I'll shut up now:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-03860.jpg" />
- <img src="./../images/DIU28/bd-03860.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-03860-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-03860-512px.jpg 512w,
+  ./../images/DIU28/tv-03860-768px.jpg 768w,
+  ./../images/DIU28/tv-03860-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-03860-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-03860-512px.jpg 512w,
+  ./../images/DIU28/bd-03860-768px.jpg 768w,
+  ./../images/DIU28/bd-03860-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -62,8 +132,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Alright, back to the main course! In this shot, Rohan's finger is once again uncensored, and there is a different lighting on a bunch of things: Josuke's chair, the chips on the ground, left of the table, the magnifying glass and the can on the tray:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-04627.jpg" />
- <img src="./../images/DIU28/bd-04627.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-04627-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-04627-512px.jpg 512w,
+  ./../images/DIU28/tv-04627-768px.jpg 768w,
+  ./../images/DIU28/tv-04627-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-04627-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-04627-512px.jpg 512w,
+  ./../images/DIU28/bd-04627-768px.jpg 768w,
+  ./../images/DIU28/bd-04627-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -71,15 +155,43 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - In this shot, Rohan's finger has been uncensored again, and there is a different lighting on most things, really. I think it would be quicker to just show you:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-04850.jpg" />
- <img src="./../images/DIU28/bd-04850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-04850-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-04850-512px.jpg 512w,
+  ./../images/DIU28/tv-04850-768px.jpg 768w,
+  ./../images/DIU28/tv-04850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-04850-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-04850-512px.jpg 512w,
+  ./../images/DIU28/bd-04850-768px.jpg 768w,
+  ./../images/DIU28/bd-04850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-04895.jpg" />
- <img src="./../images/DIU28/bd-04895.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-04895-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-04895-512px.jpg 512w,
+  ./../images/DIU28/tv-04895-768px.jpg 768w,
+  ./../images/DIU28/tv-04895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-04895-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-04895-512px.jpg 512w,
+  ./../images/DIU28/bd-04895-768px.jpg 768w,
+  ./../images/DIU28/bd-04895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -87,8 +199,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Rohan's uncensored finger once again here, plus a darker lighting on the chips and the blood:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-04940.jpg" />
- <img src="./../images/DIU28/bd-04940.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-04940-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-04940-512px.jpg 512w,
+  ./../images/DIU28/tv-04940-768px.jpg 768w,
+  ./../images/DIU28/tv-04940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-04940-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-04940-512px.jpg 512w,
+  ./../images/DIU28/bd-04940-768px.jpg 768w,
+  ./../images/DIU28/bd-04940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -96,8 +222,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - The lighting is once again different here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-05355.jpg" />
- <img src="./../images/DIU28/bd-05355.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-05355-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-05355-512px.jpg 512w,
+  ./../images/DIU28/tv-05355-768px.jpg 768w,
+  ./../images/DIU28/tv-05355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-05355-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-05355-512px.jpg 512w,
+  ./../images/DIU28/bd-05355-768px.jpg 768w,
+  ./../images/DIU28/bd-05355-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -105,8 +245,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Rohan's finger again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-05608.jpg" />
- <img src="./../images/DIU28/bd-05608.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-05608-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-05608-512px.jpg 512w,
+  ./../images/DIU28/tv-05608-768px.jpg 768w,
+  ./../images/DIU28/tv-05608-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-05608-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-05608-512px.jpg 512w,
+  ./../images/DIU28/bd-05608-768px.jpg 768w,
+  ./../images/DIU28/bd-05608-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -114,8 +268,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - In this shot the rule sheet is darker, has a shadow and has been placed slightly differently. And the uncensored finger, of course:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-06000.jpg" />
- <img src="./../images/DIU28/bd-06000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-06000-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-06000-512px.jpg 512w,
+  ./../images/DIU28/tv-06000-768px.jpg 768w,
+  ./../images/DIU28/tv-06000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-06000-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-06000-512px.jpg 512w,
+  ./../images/DIU28/bd-06000-768px.jpg 768w,
+  ./../images/DIU28/bd-06000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -123,8 +291,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Here, Josuke's eyes and Tamami's face have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-08925.jpg" />
- <img src="./../images/DIU28/bd-08925.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-08925-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-08925-512px.jpg 512w,
+  ./../images/DIU28/tv-08925-768px.jpg 768w,
+  ./../images/DIU28/tv-08925-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-08925-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-08925-512px.jpg 512w,
+  ./../images/DIU28/bd-08925-768px.jpg 768w,
+  ./../images/DIU28/bd-08925-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -132,8 +314,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - In this shot, the Josuke in the foreground is lighter and Tamami's scar is back:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-09630.jpg" />
- <img src="./../images/DIU28/bd-09630.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-09630-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-09630-512px.jpg 512w,
+  ./../images/DIU28/tv-09630-768px.jpg 768w,
+  ./../images/DIU28/tv-09630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-09630-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-09630-512px.jpg 512w,
+  ./../images/DIU28/bd-09630-768px.jpg 768w,
+  ./../images/DIU28/bd-09630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -141,8 +337,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Here we have the same differences as the last comparison, plus Rohan's weird-ass shirt now looks like it should, and the holes in his neck have also been given some depth:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-09700.jpg" />
- <img src="./../images/DIU28/bd-09700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-09700-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-09700-512px.jpg 512w,
+  ./../images/DIU28/tv-09700-768px.jpg 768w,
+  ./../images/DIU28/tv-09700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-09700-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-09700-512px.jpg 512w,
+  ./../images/DIU28/bd-09700-768px.jpg 768w,
+  ./../images/DIU28/bd-09700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -150,8 +360,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Rohan's shirt holes again here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-11695.jpg" />
- <img src="./../images/DIU28/bd-11695.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-11695-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-11695-512px.jpg 512w,
+  ./../images/DIU28/tv-11695-768px.jpg 768w,
+  ./../images/DIU28/tv-11695-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-11695-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-11695-512px.jpg 512w,
+  ./../images/DIU28/bd-11695-768px.jpg 768w,
+  ./../images/DIU28/bd-11695-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -166,15 +390,43 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Crazy Diamond has been moved here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-12500.jpg" />
- <img src="./../images/DIU28/bd-12500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-12500-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-12500-512px.jpg 512w,
+  ./../images/DIU28/tv-12500-768px.jpg 768w,
+  ./../images/DIU28/tv-12500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-12500-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-12500-512px.jpg 512w,
+  ./../images/DIU28/bd-12500-768px.jpg 768w,
+  ./../images/DIU28/bd-12500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-12565.jpg" />
- <img src="./../images/DIU28/bd-12565.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-12565-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-12565-512px.jpg 512w,
+  ./../images/DIU28/tv-12565-768px.jpg 768w,
+  ./../images/DIU28/tv-12565-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-12565-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-12565-512px.jpg 512w,
+  ./../images/DIU28/bd-12565-768px.jpg 768w,
+  ./../images/DIU28/bd-12565-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -182,8 +434,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Hayato's backpack now has a red bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-13395.jpg" />
- <img src="./../images/DIU28/bd-13395.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-13395-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-13395-512px.jpg 512w,
+  ./../images/DIU28/tv-13395-768px.jpg 768w,
+  ./../images/DIU28/tv-13395-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-13395-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-13395-512px.jpg 512w,
+  ./../images/DIU28/bd-13395-768px.jpg 768w,
+  ./../images/DIU28/bd-13395-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -191,8 +457,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Here, Josuke's facial features have been shuffled around a bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-15000.jpg" />
- <img src="./../images/DIU28/bd-15000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-15000-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-15000-512px.jpg 512w,
+  ./../images/DIU28/tv-15000-768px.jpg 768w,
+  ./../images/DIU28/tv-15000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-15000-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-15000-512px.jpg 512w,
+  ./../images/DIU28/bd-15000-768px.jpg 768w,
+  ./../images/DIU28/bd-15000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -200,8 +480,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - And here, his peace symbol looks way better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-15055.jpg" />
- <img src="./../images/DIU28/bd-15055.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-15055-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-15055-512px.jpg 512w,
+  ./../images/DIU28/tv-15055-768px.jpg 768w,
+  ./../images/DIU28/tv-15055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-15055-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-15055-512px.jpg 512w,
+  ./../images/DIU28/bd-15055-768px.jpg 768w,
+  ./../images/DIU28/bd-15055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -209,8 +503,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - This shot is more zoomed out and the bottom of the frame is no longer dark, Mikitaka's piercing and the star on his chest have been slightly moved around, some lines on his face have been retouched, and the spaceship symbol now has its red tractor beam (thanks, <a href="https://jojocomparisons.github.io/jojo-diu-27/#comment-3270469867">Dr.Shit-A-Crit</a>!):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-15100.jpg" />
- <img src="./../images/DIU28/bd-15100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-15100-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-15100-512px.jpg 512w,
+  ./../images/DIU28/tv-15100-768px.jpg 768w,
+  ./../images/DIU28/tv-15100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-15100-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-15100-512px.jpg 512w,
+  ./../images/DIU28/bd-15100-768px.jpg 768w,
+  ./../images/DIU28/bd-15100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -218,8 +526,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Here, thankfully, both Josuke and Mikitaka's faces have been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-15130.jpg" />
- <img src="./../images/DIU28/bd-15130.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-15130-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-15130-512px.jpg 512w,
+  ./../images/DIU28/tv-15130-768px.jpg 768w,
+  ./../images/DIU28/tv-15130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-15130-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-15130-512px.jpg 512w,
+  ./../images/DIU28/bd-15130-768px.jpg 768w,
+  ./../images/DIU28/bd-15130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -227,8 +549,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - In this shot, Mikitaka's nose piercing is smaller, Josuke's eyes are looking better and the peace symbol no longer has that weird shadow behind it:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-15490.jpg" />
- <img src="./../images/DIU28/bd-15490.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-15490-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-15490-512px.jpg 512w,
+  ./../images/DIU28/tv-15490-768px.jpg 768w,
+  ./../images/DIU28/tv-15490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-15490-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-15490-512px.jpg 512w,
+  ./../images/DIU28/bd-15490-768px.jpg 768w,
+  ./../images/DIU28/bd-15490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -236,8 +572,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - And here, Mikitaka's face, Josuke's eyes and Mikitaka's symbols are all looking better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-16020.jpg" />
- <img src="./../images/DIU28/bd-16020.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-16020-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-16020-512px.jpg 512w,
+  ./../images/DIU28/tv-16020-768px.jpg 768w,
+  ./../images/DIU28/tv-16020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-16020-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-16020-512px.jpg 512w,
+  ./../images/DIU28/bd-16020-768px.jpg 768w,
+  ./../images/DIU28/bd-16020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -245,8 +595,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Both Josuke and Mikitaka's faces have been retouched here, and the alien boy now has the planet symbol back on his collar:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-16090.jpg" />
- <img src="./../images/DIU28/bd-16090.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-16090-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-16090-512px.jpg 512w,
+  ./../images/DIU28/tv-16090-768px.jpg 768w,
+  ./../images/DIU28/tv-16090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-16090-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-16090-512px.jpg 512w,
+  ./../images/DIU28/bd-16090-768px.jpg 768w,
+  ./../images/DIU28/bd-16090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -254,8 +618,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Change of scene! Here, Rohan's headband has been recoloured to be consistent with the other scenes, and there's now a shadow under his right arm:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-18240.jpg" />
- <img src="./../images/DIU28/bd-18240.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-18240-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-18240-512px.jpg 512w,
+  ./../images/DIU28/tv-18240-768px.jpg 768w,
+  ./../images/DIU28/tv-18240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-18240-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-18240-512px.jpg 512w,
+  ./../images/DIU28/bd-18240-768px.jpg 768w,
+  ./../images/DIU28/bd-18240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -263,8 +641,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - In this shot, there is a new sign on the left warning people that the tunnel is a 重大事故現場 (or, in English, a place where a serious accident has happened):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-18300.jpg" />
- <img src="./../images/DIU28/bd-18300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-18300-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-18300-512px.jpg 512w,
+  ./../images/DIU28/tv-18300-768px.jpg 768w,
+  ./../images/DIU28/tv-18300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-18300-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-18300-512px.jpg 512w,
+  ./../images/DIU28/bd-18300-768px.jpg 768w,
+  ./../images/DIU28/bd-18300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -279,8 +671,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Rohan has his earring in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-18560.jpg" />
- <img src="./../images/DIU28/bd-18560.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-18560-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-18560-512px.jpg 512w,
+  ./../images/DIU28/tv-18560-768px.jpg 768w,
+  ./../images/DIU28/tv-18560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-18560-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-18560-512px.jpg 512w,
+  ./../images/DIU28/bd-18560-768px.jpg 768w,
+  ./../images/DIU28/bd-18560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -288,15 +694,43 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - In these two shots, that purple banner on the left of the frame has been removed, and for some reason the old dude in the back has been moved... But you can still see the reflection where he used to be in the second frame. Spooky:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-19400.jpg" />
- <img src="./../images/DIU28/bd-19400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-19400-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-19400-512px.jpg 512w,
+  ./../images/DIU28/tv-19400-768px.jpg 768w,
+  ./../images/DIU28/tv-19400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-19400-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-19400-512px.jpg 512w,
+  ./../images/DIU28/bd-19400-768px.jpg 768w,
+  ./../images/DIU28/bd-19400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-19580.jpg" />
- <img src="./../images/DIU28/bd-19580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-19580-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-19580-512px.jpg 512w,
+  ./../images/DIU28/tv-19580-768px.jpg 768w,
+  ./../images/DIU28/tv-19580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-19580-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-19580-512px.jpg 512w,
+  ./../images/DIU28/bd-19580-768px.jpg 768w,
+  ./../images/DIU28/bd-19580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -304,8 +738,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Rohan's shirt has been recoloured properly:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-19735.jpg" />
- <img src="./../images/DIU28/bd-19735.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-19735-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-19735-512px.jpg 512w,
+  ./../images/DIU28/tv-19735-768px.jpg 768w,
+  ./../images/DIU28/tv-19735-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-19735-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-19735-512px.jpg 512w,
+  ./../images/DIU28/bd-19735-768px.jpg 768w,
+  ./../images/DIU28/bd-19735-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -313,8 +761,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - The 重大事故現場 sign has been added here as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-20170.jpg" />
- <img src="./../images/DIU28/bd-20170.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-20170-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-20170-512px.jpg 512w,
+  ./../images/DIU28/tv-20170-768px.jpg 768w,
+  ./../images/DIU28/tv-20170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-20170-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-20170-512px.jpg 512w,
+  ./../images/DIU28/bd-20170-768px.jpg 768w,
+  ./../images/DIU28/bd-20170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -322,8 +784,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - In this shot, both Josuke and Rohan's faces have been retouched, and the overall lighting is slightly different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-20955.jpg" />
- <img src="./../images/DIU28/bd-20955.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-20955-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-20955-512px.jpg 512w,
+  ./../images/DIU28/tv-20955-768px.jpg 768w,
+  ./../images/DIU28/tv-20955-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-20955-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-20955-512px.jpg 512w,
+  ./../images/DIU28/bd-20955-768px.jpg 768w,
+  ./../images/DIU28/bd-20955-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -331,8 +807,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Here we have the sign once again, and the whole tunnel has been moved down a bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-21115.jpg" />
- <img src="./../images/DIU28/bd-21115.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-21115-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-21115-512px.jpg 512w,
+  ./../images/DIU28/tv-21115-768px.jpg 768w,
+  ./../images/DIU28/tv-21115-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-21115-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-21115-512px.jpg 512w,
+  ./../images/DIU28/bd-21115-768px.jpg 768w,
+  ./../images/DIU28/bd-21115-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -340,8 +830,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - Rohan, the background and the movement lines on the sides have all been moved around, and his bike's tail lights have been recoloured:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-24195.jpg" />
- <img src="./../images/DIU28/bd-24195.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-24195-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-24195-512px.jpg 512w,
+  ./../images/DIU28/tv-24195-768px.jpg 768w,
+  ./../images/DIU28/tv-24195-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-24195-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-24195-512px.jpg 512w,
+  ./../images/DIU28/bd-24195-768px.jpg 768w,
+  ./../images/DIU28/bd-24195-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -349,8 +853,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - And now for a couple of ending differences! Mikitaka shows up here, instead of episode #35 (for a breakdown of the other glaring differences see episode #25's <a href="https://jojocomparisons.github.io/jojo-diu-25/">comparison</a>):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-33040.jpg" />
- <img src="./../images/DIU28/bd-33040.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-33040-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-33040-512px.jpg 512w,
+  ./../images/DIU28/tv-33040-768px.jpg 768w,
+  ./../images/DIU28/tv-33040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-33040-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-33040-512px.jpg 512w,
+  ./../images/DIU28/bd-33040-768px.jpg 768w,
+  ./../images/DIU28/bd-33040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -358,8 +876,22 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 - And the same goes for RPS kid, who again shows up here instead of episode #35. I wonder why they only put him in now, and not in episode #26's ending... Weird:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU28/tv-33165.jpg" />
- <img src="./../images/DIU28/bd-33165.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/tv-33165-1090px.jpg"
+  data-srcset="./../images/DIU28/tv-33165-512px.jpg 512w,
+  ./../images/DIU28/tv-33165-768px.jpg 768w,
+  ./../images/DIU28/tv-33165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU28/bd-33165-1090px.jpg"
+  data-srcset="./../images/DIU28/bd-33165-512px.jpg 512w,
+  ./../images/DIU28/bd-33165-768px.jpg 768w,
+  ./../images/DIU28/bd-33165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

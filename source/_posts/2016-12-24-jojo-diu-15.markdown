@@ -31,8 +31,22 @@ Hey hey hey, everybody! I know that you're all sad and heart-broken now that Dia
 - In this shot, a small part of the lines of this door were a bit off in the TV version:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU15/tv-08520.jpg" />
- <img src="./../images/DIU15/bd-08520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/tv-08520-1090px.jpg"
+  data-srcset="./../images/DIU15/tv-08520-512px.jpg 512w,
+  ./../images/DIU15/tv-08520-768px.jpg 768w,
+  ./../images/DIU15/tv-08520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/bd-08520-1090px.jpg"
+  data-srcset="./../images/DIU15/bd-08520-512px.jpg 512w,
+  ./../images/DIU15/bd-08520-768px.jpg 768w,
+  ./../images/DIU15/bd-08520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -40,8 +54,22 @@ Hey hey hey, everybody! I know that you're all sad and heart-broken now that Dia
 - Here we have a first for this blog! An eyecatch comparison! Here, the Stand name and the Stand user were swapped in the TV version; the BDs obviously fix that:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU15/tv-15125.jpg" />
- <img src="./../images/DIU15/bd-15125.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/tv-15125-1090px.jpg"
+  data-srcset="./../images/DIU15/tv-15125-512px.jpg 512w,
+  ./../images/DIU15/tv-15125-768px.jpg 768w,
+  ./../images/DIU15/tv-15125-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/bd-15125-1090px.jpg"
+  data-srcset="./../images/DIU15/bd-15125-512px.jpg 512w,
+  ./../images/DIU15/bd-15125-768px.jpg 768w,
+  ./../images/DIU15/bd-15125-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -49,8 +77,22 @@ Hey hey hey, everybody! I know that you're all sad and heart-broken now that Dia
 - Koichi's finger books make a return in this episode, too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU15/tv-15770.jpg" />
- <img src="./../images/DIU15/bd-15770.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/tv-15770-1090px.jpg"
+  data-srcset="./../images/DIU15/tv-15770-512px.jpg 512w,
+  ./../images/DIU15/tv-15770-768px.jpg 768w,
+  ./../images/DIU15/tv-15770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/bd-15770-1090px.jpg"
+  data-srcset="./../images/DIU15/bd-15770-512px.jpg 512w,
+  ./../images/DIU15/bd-15770-768px.jpg 768w,
+  ./../images/DIU15/bd-15770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -65,8 +107,22 @@ Hey hey hey, everybody! I know that you're all sad and heart-broken now that Dia
 - In the flashback sequence, Tomoko's coat changed colour between scenes; this has been corrected in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU15/tv-27430.jpg" />
- <img src="./../images/DIU15/bd-27430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/tv-27430-1090px.jpg"
+  data-srcset="./../images/DIU15/tv-27430-512px.jpg 512w,
+  ./../images/DIU15/tv-27430-768px.jpg 768w,
+  ./../images/DIU15/tv-27430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/bd-27430-1090px.jpg"
+  data-srcset="./../images/DIU15/bd-27430-512px.jpg 512w,
+  ./../images/DIU15/bd-27430-768px.jpg 768w,
+  ./../images/DIU15/bd-27430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -74,8 +130,22 @@ Hey hey hey, everybody! I know that you're all sad and heart-broken now that Dia
 - And with this scene, the BDs have a slight lens distortion on the borders; the car also shakes when it starts moving, and they added Fauxsuke's jacket on the ground:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU15/tv-29025.jpg" />
- <img src="./../images/DIU15/bd-29025.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/tv-29025-1090px.jpg"
+  data-srcset="./../images/DIU15/tv-29025-512px.jpg 512w,
+  ./../images/DIU15/tv-29025-768px.jpg 768w,
+  ./../images/DIU15/tv-29025-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/bd-29025-1090px.jpg"
+  data-srcset="./../images/DIU15/bd-29025-512px.jpg 512w,
+  ./../images/DIU15/bd-29025-768px.jpg 768w,
+  ./../images/DIU15/bd-29025-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -86,8 +156,22 @@ Hey hey hey, everybody! I know that you're all sad and heart-broken now that Dia
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU15/tv-29055.jpg" />
- <img src="./../images/DIU15/bd-29055.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/tv-29055-1090px.jpg"
+  data-srcset="./../images/DIU15/tv-29055-512px.jpg 512w,
+  ./../images/DIU15/tv-29055-768px.jpg 768w,
+  ./../images/DIU15/tv-29055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/bd-29055-1090px.jpg"
+  data-srcset="./../images/DIU15/bd-29055-512px.jpg 512w,
+  ./../images/DIU15/bd-29055-768px.jpg 768w,
+  ./../images/DIU15/bd-29055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -95,15 +179,43 @@ Hey hey hey, everybody! I know that you're all sad and heart-broken now that Dia
 - In these two shots here, Rohan's pen has been recoloured from green to brown:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU15/tv-30700.jpg" />
- <img src="./../images/DIU15/bd-30700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/tv-30700-1090px.jpg"
+  data-srcset="./../images/DIU15/tv-30700-512px.jpg 512w,
+  ./../images/DIU15/tv-30700-768px.jpg 768w,
+  ./../images/DIU15/tv-30700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/bd-30700-1090px.jpg"
+  data-srcset="./../images/DIU15/bd-30700-512px.jpg 512w,
+  ./../images/DIU15/bd-30700-768px.jpg 768w,
+  ./../images/DIU15/bd-30700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU15/tv-30800.jpg" />
- <img src="./../images/DIU15/bd-30800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/tv-30800-1090px.jpg"
+  data-srcset="./../images/DIU15/tv-30800-512px.jpg 512w,
+  ./../images/DIU15/tv-30800-768px.jpg 768w,
+  ./../images/DIU15/tv-30800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/bd-30800-1090px.jpg"
+  data-srcset="./../images/DIU15/bd-30800-512px.jpg 512w,
+  ./../images/DIU15/bd-30800-768px.jpg 768w,
+  ./../images/DIU15/bd-30800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -111,8 +223,22 @@ Hey hey hey, everybody! I know that you're all sad and heart-broken now that Dia
 - And let's tie this up with a credit difference! For some reason, the script for the TV version of this episode was credited to ヤスカワショウゴ (Yasukawa Shōgo), when it was written instead by 小林靖子 (Kobayashi Yasuko):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU15/tv-33820.jpg" />
- <img src="./../images/DIU15/bd-33820.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/tv-33820-1090px.jpg"
+  data-srcset="./../images/DIU15/tv-33820-512px.jpg 512w,
+  ./../images/DIU15/tv-33820-768px.jpg 768w,
+  ./../images/DIU15/tv-33820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU15/bd-33820-1090px.jpg"
+  data-srcset="./../images/DIU15/bd-33820-512px.jpg 512w,
+  ./../images/DIU15/bd-33820-768px.jpg 768w,
+  ./../images/DIU15/bd-33820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

@@ -19,8 +19,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Let's start with a minor difference. In this transition, they changed the cloud pattern behind the plane:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-02531.jpg" />
- <img src="./../images/DIU12/bd-02531.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-02531-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-02531-512px.jpg 512w,
+  ./../images/DIU12/tv-02531-768px.jpg 768w,
+  ./../images/DIU12/tv-02531-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-02531-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-02531-512px.jpg 512w,
+  ./../images/DIU12/bd-02531-768px.jpg 768w,
+  ./../images/DIU12/bd-02531-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -28,8 +42,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Here, Jotaro's neck has been darkened a bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-02695.jpg" />
- <img src="./../images/DIU12/bd-02695.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-02695-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-02695-512px.jpg 512w,
+  ./../images/DIU12/tv-02695-768px.jpg 768w,
+  ./../images/DIU12/tv-02695-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-02695-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-02695-512px.jpg 512w,
+  ./../images/DIU12/bd-02695-768px.jpg 768w,
+  ./../images/DIU12/bd-02695-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,8 +65,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - And here, as with episode one, they moved その２ ("Part 2") slightly to the right; they also shaded... those things in the background (are they windows? Holes? We'll never know):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-05180.jpg" />
- <img src="./../images/DIU12/bd-05180.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-05180-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-05180-512px.jpg 512w,
+  ./../images/DIU12/tv-05180-768px.jpg 768w,
+  ./../images/DIU12/tv-05180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-05180-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-05180-512px.jpg 512w,
+  ./../images/DIU12/bd-05180-768px.jpg 768w,
+  ./../images/DIU12/bd-05180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -46,8 +88,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Josuke and Koichi have been scaled down to a more reasonable size here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-05450.jpg" />
- <img src="./../images/DIU12/bd-05450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-05450-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-05450-512px.jpg 512w,
+  ./../images/DIU12/tv-05450-768px.jpg 768w,
+  ./../images/DIU12/tv-05450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-05450-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-05450-512px.jpg 512w,
+  ./../images/DIU12/bd-05450-768px.jpg 768w,
+  ./../images/DIU12/bd-05450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -69,8 +125,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Here, the BDs corrected a slight error that was present in the TV version (when moving Akira's jaw, a couple of frames had parts of his cheek overlapping his hair and ear):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-09095.jpg" />
- <img src="./../images/DIU12/bd-09095.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-09095-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-09095-512px.jpg 512w,
+  ./../images/DIU12/tv-09095-768px.jpg 768w,
+  ./../images/DIU12/tv-09095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-09095-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-09095-512px.jpg 512w,
+  ./../images/DIU12/bd-09095-768px.jpg 768w,
+  ./../images/DIU12/bd-09095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -83,15 +153,43 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-09230.jpg" />
- <img src="./../images/DIU12/bd-09230.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-09230-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-09230-512px.jpg 512w,
+  ./../images/DIU12/tv-09230-768px.jpg 768w,
+  ./../images/DIU12/tv-09230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-09230-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-09230-512px.jpg 512w,
+  ./../images/DIU12/bd-09230-768px.jpg 768w,
+  ./../images/DIU12/bd-09230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-09250.jpg" />
- <img src="./../images/DIU12/bd-09250.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-09250-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-09250-512px.jpg 512w,
+  ./../images/DIU12/tv-09250-768px.jpg 768w,
+  ./../images/DIU12/tv-09250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-09250-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-09250-512px.jpg 512w,
+  ./../images/DIU12/bd-09250-768px.jpg 768w,
+  ./../images/DIU12/bd-09250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -106,8 +204,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - In this shot, both Akira and Josuke have been moved a bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-12440.jpg" />
- <img src="./../images/DIU12/bd-12440.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-12440-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-12440-512px.jpg 512w,
+  ./../images/DIU12/tv-12440-768px.jpg 768w,
+  ./../images/DIU12/tv-12440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-12440-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-12440-512px.jpg 512w,
+  ./../images/DIU12/bd-12440-768px.jpg 768w,
+  ./../images/DIU12/bd-12440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -122,15 +234,43 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - In these shots, the background has been moved:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-13250.jpg" />
- <img src="./../images/DIU12/bd-13250.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-13250-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-13250-512px.jpg 512w,
+  ./../images/DIU12/tv-13250-768px.jpg 768w,
+  ./../images/DIU12/tv-13250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-13250-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-13250-512px.jpg 512w,
+  ./../images/DIU12/bd-13250-768px.jpg 768w,
+  ./../images/DIU12/bd-13250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-13310.jpg" />
- <img src="./../images/DIU12/bd-13310.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-13310-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-13310-512px.jpg 512w,
+  ./../images/DIU12/tv-13310-768px.jpg 768w,
+  ./../images/DIU12/tv-13310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-13310-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-13310-512px.jpg 512w,
+  ./../images/DIU12/bd-13310-768px.jpg 768w,
+  ./../images/DIU12/bd-13310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -138,8 +278,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - And here, the zoom has been pulled slightly out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-13865.jpg" />
- <img src="./../images/DIU12/bd-13865.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-13865-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-13865-512px.jpg 512w,
+  ./../images/DIU12/tv-13865-768px.jpg 768w,
+  ./../images/DIU12/tv-13865-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-13865-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-13865-512px.jpg 512w,
+  ./../images/DIU12/bd-13865-768px.jpg 768w,
+  ./../images/DIU12/bd-13865-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -147,15 +301,43 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Thankfully, both Crazy Diamond and Josuke's faces have been completely redrawn in this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-13930.jpg" />
- <img src="./../images/DIU12/bd-13930.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-13930-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-13930-512px.jpg 512w,
+  ./../images/DIU12/tv-13930-768px.jpg 768w,
+  ./../images/DIU12/tv-13930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-13930-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-13930-512px.jpg 512w,
+  ./../images/DIU12/bd-13930-768px.jpg 768w,
+  ./../images/DIU12/bd-13930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-13950.jpg" />
- <img src="./../images/DIU12/bd-13950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-13950-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-13950-512px.jpg 512w,
+  ./../images/DIU12/tv-13950-768px.jpg 768w,
+  ./../images/DIU12/tv-13950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-13950-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-13950-512px.jpg 512w,
+  ./../images/DIU12/bd-13950-768px.jpg 768w,
+  ./../images/DIU12/bd-13950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -163,8 +345,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - The speed lines in this animation of Crazy Diamond trying to kick RHCP are different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-13965.jpg" />
- <img src="./../images/DIU12/bd-13965.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-13965-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-13965-512px.jpg 512w,
+  ./../images/DIU12/tv-13965-768px.jpg 768w,
+  ./../images/DIU12/tv-13965-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-13965-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-13965-512px.jpg 512w,
+  ./../images/DIU12/bd-13965-768px.jpg 768w,
+  ./../images/DIU12/bd-13965-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -179,8 +375,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - And here, the image has been moved up by like ten pixels. Yeah, no, I don't get it either:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-14107.jpg" />
- <img src="./../images/DIU12/bd-14107.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-14107-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-14107-512px.jpg 512w,
+  ./../images/DIU12/tv-14107-768px.jpg 768w,
+  ./../images/DIU12/tv-14107-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-14107-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-14107-512px.jpg 512w,
+  ./../images/DIU12/bd-14107-768px.jpg 768w,
+  ./../images/DIU12/bd-14107-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -195,15 +405,43 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - RHCP is tinier in these two shots:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-14690.jpg" />
- <img src="./../images/DIU12/bd-14690.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-14690-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-14690-512px.jpg 512w,
+  ./../images/DIU12/tv-14690-768px.jpg 768w,
+  ./../images/DIU12/tv-14690-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-14690-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-14690-512px.jpg 512w,
+  ./../images/DIU12/bd-14690-768px.jpg 768w,
+  ./../images/DIU12/bd-14690-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-14720.jpg" />
- <img src="./../images/DIU12/bd-14720.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-14720-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-14720-512px.jpg 512w,
+  ./../images/DIU12/tv-14720-768px.jpg 768w,
+  ./../images/DIU12/tv-14720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-14720-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-14720-512px.jpg 512w,
+  ./../images/DIU12/bd-14720-768px.jpg 768w,
+  ./../images/DIU12/bd-14720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -211,8 +449,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - And here he's been moved down:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-14816.jpg" />
- <img src="./../images/DIU12/bd-14816.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-14816-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-14816-512px.jpg 512w,
+  ./../images/DIU12/tv-14816-768px.jpg 768w,
+  ./../images/DIU12/tv-14816-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-14816-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-14816-512px.jpg 512w,
+  ./../images/DIU12/bd-14816-768px.jpg 768w,
+  ./../images/DIU12/bd-14816-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -220,8 +472,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Here, the sparks at the far right of this shot are different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-14843.jpg" />
- <img src="./../images/DIU12/bd-14843.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-14843-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-14843-512px.jpg 512w,
+  ./../images/DIU12/tv-14843-768px.jpg 768w,
+  ./../images/DIU12/tv-14843-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-14843-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-14843-512px.jpg 512w,
+  ./../images/DIU12/bd-14843-768px.jpg 768w,
+  ./../images/DIU12/bd-14843-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -229,8 +495,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - RHCP has been moved again here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-14880.jpg" />
- <img src="./../images/DIU12/bd-14880.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-14880-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-14880-512px.jpg 512w,
+  ./../images/DIU12/tv-14880-768px.jpg 768w,
+  ./../images/DIU12/tv-14880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-14880-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-14880-512px.jpg 512w,
+  ./../images/DIU12/bd-14880-768px.jpg 768w,
+  ./../images/DIU12/bd-14880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -238,8 +518,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - JOSUKE! YOU FORGOT YOUR TEETH:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-15200.jpg" />
- <img src="./../images/DIU12/bd-15200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-15200-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-15200-512px.jpg 512w,
+  ./../images/DIU12/tv-15200-768px.jpg 768w,
+  ./../images/DIU12/tv-15200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-15200-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-15200-512px.jpg 512w,
+  ./../images/DIU12/bd-15200-768px.jpg 768w,
+  ./../images/DIU12/bd-15200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -247,22 +541,64 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - "And then, Okuyasu suddenly realized that he was not on a magical boat trip":
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-17272.jpg" />
- <img src="./../images/DIU12/bd-17272.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-17272-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-17272-512px.jpg 512w,
+  ./../images/DIU12/tv-17272-768px.jpg 768w,
+  ./../images/DIU12/tv-17272-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-17272-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-17272-512px.jpg 512w,
+  ./../images/DIU12/bd-17272-768px.jpg 768w,
+  ./../images/DIU12/bd-17272-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-17280.jpg" />
- <img src="./../images/DIU12/bd-17280.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-17280-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-17280-512px.jpg 512w,
+  ./../images/DIU12/tv-17280-768px.jpg 768w,
+  ./../images/DIU12/tv-17280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-17280-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-17280-512px.jpg 512w,
+  ./../images/DIU12/bd-17280-768px.jpg 768w,
+  ./../images/DIU12/bd-17280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-17360.jpg" />
- <img src="./../images/DIU12/bd-17360.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-17360-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-17360-512px.jpg 512w,
+  ./../images/DIU12/tv-17360-768px.jpg 768w,
+  ./../images/DIU12/tv-17360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-17360-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-17360-512px.jpg 512w,
+  ./../images/DIU12/bd-17360-768px.jpg 768w,
+  ./../images/DIU12/bd-17360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -270,8 +606,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - They added some nice lighting effects in this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-17400.jpg" />
- <img src="./../images/DIU12/bd-17400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-17400-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-17400-512px.jpg 512w,
+  ./../images/DIU12/tv-17400-768px.jpg 768w,
+  ./../images/DIU12/tv-17400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-17400-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-17400-512px.jpg 512w,
+  ./../images/DIU12/bd-17400-768px.jpg 768w,
+  ./../images/DIU12/bd-17400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -279,15 +629,43 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - In these two shots, they added a wristwatch on Akira's wrist, and moved his pupil so that he's looking at it (the TV version does look a bit weird in retrospective); in the first one RHCP has also been moved down:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-17759.jpg" />
- <img src="./../images/DIU12/bd-17759.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-17759-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-17759-512px.jpg 512w,
+  ./../images/DIU12/tv-17759-768px.jpg 768w,
+  ./../images/DIU12/tv-17759-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-17759-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-17759-512px.jpg 512w,
+  ./../images/DIU12/bd-17759-768px.jpg 768w,
+  ./../images/DIU12/bd-17759-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-17780.jpg" />
- <img src="./../images/DIU12/bd-17780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-17780-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-17780-512px.jpg 512w,
+  ./../images/DIU12/tv-17780-768px.jpg 768w,
+  ./../images/DIU12/tv-17780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-17780-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-17780-512px.jpg 512w,
+  ./../images/DIU12/bd-17780-768px.jpg 768w,
+  ./../images/DIU12/bd-17780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -295,8 +673,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - This shot has been shaded better and the two students in the foreground have been blurred:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-18230.jpg" />
- <img src="./../images/DIU12/bd-18230.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-18230-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-18230-512px.jpg 512w,
+  ./../images/DIU12/tv-18230-768px.jpg 768w,
+  ./../images/DIU12/tv-18230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-18230-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-18230-512px.jpg 512w,
+  ./../images/DIU12/bd-18230-768px.jpg 768w,
+  ./../images/DIU12/bd-18230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -304,8 +696,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Here they added some dust effects:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-19280.jpg" />
- <img src="./../images/DIU12/bd-19280.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-19280-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-19280-512px.jpg 512w,
+  ./../images/DIU12/tv-19280-768px.jpg 768w,
+  ./../images/DIU12/tv-19280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-19280-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-19280-512px.jpg 512w,
+  ./../images/DIU12/bd-19280-768px.jpg 768w,
+  ./../images/DIU12/bd-19280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -320,8 +726,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - RHCP has been moved again here (man, they really were not happy with *any* of RHCP's original positions, were they):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-19630.jpg" />
- <img src="./../images/DIU12/bd-19630.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-19630-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-19630-512px.jpg 512w,
+  ./../images/DIU12/tv-19630-768px.jpg 768w,
+  ./../images/DIU12/tv-19630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-19630-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-19630-512px.jpg 512w,
+  ./../images/DIU12/bd-19630-768px.jpg 768w,
+  ./../images/DIU12/bd-19630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -329,8 +749,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - The tire in the background has been removed, as in all likelihood it was precisely the one Josuke used to trap RHCP:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-19900.jpg" />
- <img src="./../images/DIU12/bd-19900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-19900-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-19900-512px.jpg 512w,
+  ./../images/DIU12/tv-19900-768px.jpg 768w,
+  ./../images/DIU12/tv-19900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-19900-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-19900-512px.jpg 512w,
+  ./../images/DIU12/bd-19900-768px.jpg 768w,
+  ./../images/DIU12/bd-19900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -338,8 +772,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Another very slight camera change:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-20140.jpg" />
- <img src="./../images/DIU12/bd-20140.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-20140-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-20140-512px.jpg 512w,
+  ./../images/DIU12/tv-20140-768px.jpg 768w,
+  ./../images/DIU12/tv-20140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-20140-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-20140-512px.jpg 512w,
+  ./../images/DIU12/bd-20140-768px.jpg 768w,
+  ./../images/DIU12/bd-20140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -354,8 +802,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Akira's guitar jack is now steel-coloured:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-21010.jpg" />
- <img src="./../images/DIU12/bd-21010.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-21010-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-21010-512px.jpg 512w,
+  ./../images/DIU12/tv-21010-768px.jpg 768w,
+  ./../images/DIU12/tv-21010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-21010-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-21010-512px.jpg 512w,
+  ./../images/DIU12/bd-21010-768px.jpg 768w,
+  ./../images/DIU12/bd-21010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -363,8 +825,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - In this shot, the shading on Josuke's temple and cheek has been slightly retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-21095.jpg" />
- <img src="./../images/DIU12/bd-21095.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-21095-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-21095-512px.jpg 512w,
+  ./../images/DIU12/tv-21095-768px.jpg 768w,
+  ./../images/DIU12/tv-21095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-21095-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-21095-512px.jpg 512w,
+  ./../images/DIU12/bd-21095-768px.jpg 768w,
+  ./../images/DIU12/bd-21095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -372,8 +848,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Yet another camera change:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-21905.jpg" />
- <img src="./../images/DIU12/bd-21905.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-21905-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-21905-512px.jpg 512w,
+  ./../images/DIU12/tv-21905-768px.jpg 768w,
+  ./../images/DIU12/tv-21905-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-21905-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-21905-512px.jpg 512w,
+  ./../images/DIU12/bd-21905-768px.jpg 768w,
+  ./../images/DIU12/bd-21905-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -388,8 +878,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Joseph's face has been slightly retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-23190.jpg" />
- <img src="./../images/DIU12/bd-23190.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-23190-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-23190-512px.jpg 512w,
+  ./../images/DIU12/tv-23190-768px.jpg 768w,
+  ./../images/DIU12/tv-23190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-23190-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-23190-512px.jpg 512w,
+  ./../images/DIU12/bd-23190-768px.jpg 768w,
+  ./../images/DIU12/bd-23190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -397,8 +901,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - And his mouth is a bit more closed in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-23385.jpg" />
- <img src="./../images/DIU12/bd-23385.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-23385-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-23385-512px.jpg 512w,
+  ./../images/DIU12/tv-23385-768px.jpg 768w,
+  ./../images/DIU12/tv-23385-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-23385-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-23385-512px.jpg 512w,
+  ./../images/DIU12/bd-23385-768px.jpg 768w,
+  ./../images/DIU12/bd-23385-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -406,8 +924,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - The lower bit of Okuyasu's shirt has also been re-shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-23390.jpg" />
- <img src="./../images/DIU12/bd-23390.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-23390-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-23390-512px.jpg 512w,
+  ./../images/DIU12/tv-23390-768px.jpg 768w,
+  ./../images/DIU12/tv-23390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-23390-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-23390-512px.jpg 512w,
+  ./../images/DIU12/bd-23390-768px.jpg 768w,
+  ./../images/DIU12/bd-23390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -415,8 +947,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - We can see the pier and the lighthouse through the window boat here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-24331.jpg" />
- <img src="./../images/DIU12/bd-24331.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-24331-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-24331-512px.jpg 512w,
+  ./../images/DIU12/tv-24331-768px.jpg 768w,
+  ./../images/DIU12/tv-24331-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-24331-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-24331-512px.jpg 512w,
+  ./../images/DIU12/bd-24331-768px.jpg 768w,
+  ./../images/DIU12/bd-24331-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -431,8 +977,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - A tiny bit of outline on Josuke's lapel has been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-25245.jpg" />
- <img src="./../images/DIU12/bd-25245.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-25245-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-25245-512px.jpg 512w,
+  ./../images/DIU12/tv-25245-768px.jpg 768w,
+  ./../images/DIU12/tv-25245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-25245-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-25245-512px.jpg 512w,
+  ./../images/DIU12/bd-25245-768px.jpg 768w,
+  ./../images/DIU12/bd-25245-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -447,8 +1007,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - This floor is slightly more slanted in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-26260.jpg" />
- <img src="./../images/DIU12/bd-26260.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-26260-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-26260-512px.jpg 512w,
+  ./../images/DIU12/tv-26260-768px.jpg 768w,
+  ./../images/DIU12/tv-26260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-26260-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-26260-512px.jpg 512w,
+  ./../images/DIU12/bd-26260-768px.jpg 768w,
+  ./../images/DIU12/bd-26260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -456,8 +1030,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - The transition into Josuke's eyes has been centered better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-26326.jpg" />
- <img src="./../images/DIU12/bd-26326.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-26326-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-26326-512px.jpg 512w,
+  ./../images/DIU12/tv-26326-768px.jpg 768w,
+  ./../images/DIU12/tv-26326-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-26326-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-26326-512px.jpg 512w,
+  ./../images/DIU12/bd-26326-768px.jpg 768w,
+  ./../images/DIU12/bd-26326-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -465,8 +1053,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - Initially I thought this correction was a simple sweat drop being recoloured from purple to white, but as one commenter (<a href="https://jojocomparisons.github.io/jojo-diu-12/#comment-3032675623">MANDUCK</a>) pointed out, the BDs actually made a *mistake* in correcting this, since it was supposed to be part of Akira's face tattoo:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-27390.jpg" />
- <img src="./../images/DIU12/bd-27390.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-27390-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-27390-512px.jpg 512w,
+  ./../images/DIU12/tv-27390-768px.jpg 768w,
+  ./../images/DIU12/tv-27390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-27390-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-27390-512px.jpg 512w,
+  ./../images/DIU12/bd-27390-768px.jpg 768w,
+  ./../images/DIU12/bd-27390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -474,8 +1076,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - In the TV version, Okuyasu just stands there with his mouth agape for a bunch of frames; this has been corrected in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-27400.jpg" />
- <img src="./../images/DIU12/bd-27400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-27400-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-27400-512px.jpg 512w,
+  ./../images/DIU12/tv-27400-768px.jpg 768w,
+  ./../images/DIU12/tv-27400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-27400-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-27400-512px.jpg 512w,
+  ./../images/DIU12/bd-27400-768px.jpg 768w,
+  ./../images/DIU12/bd-27400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -483,8 +1099,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - In this shot, Joseph has been completely redrawn. He no longer looks like a frail old man, but we can see that he's still the Huge McLargestein he was in his youth:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-28020.jpg" />
- <img src="./../images/DIU12/bd-28020.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-28020-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-28020-512px.jpg 512w,
+  ./../images/DIU12/tv-28020-768px.jpg 768w,
+  ./../images/DIU12/tv-28020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-28020-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-28020-512px.jpg 512w,
+  ./../images/DIU12/bd-28020-768px.jpg 768w,
+  ./../images/DIU12/bd-28020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -499,8 +1129,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - As is the framing of this other scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-28340.jpg" />
- <img src="./../images/DIU12/bd-28340.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-28340-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-28340-512px.jpg 512w,
+  ./../images/DIU12/tv-28340-768px.jpg 768w,
+  ./../images/DIU12/tv-28340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-28340-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-28340-512px.jpg 512w,
+  ./../images/DIU12/bd-28340-768px.jpg 768w,
+  ./../images/DIU12/bd-28340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -508,8 +1152,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - And here, the zombified RHCP has been completely redrawn and it is ABSOLUTELY TERRIFYING:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-28565.jpg" />
- <img src="./../images/DIU12/bd-28565.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-28565-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-28565-512px.jpg 512w,
+  ./../images/DIU12/tv-28565-768px.jpg 768w,
+  ./../images/DIU12/tv-28565-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-28565-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-28565-512px.jpg 512w,
+  ./../images/DIU12/bd-28565-768px.jpg 768w,
+  ./../images/DIU12/bd-28565-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -524,8 +1182,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - In this scene, Akira's eyes and the Speedwagon patch on his arm have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-29095.jpg" />
- <img src="./../images/DIU12/bd-29095.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-29095-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-29095-512px.jpg 512w,
+  ./../images/DIU12/tv-29095-768px.jpg 768w,
+  ./../images/DIU12/tv-29095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-29095-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-29095-512px.jpg 512w,
+  ./../images/DIU12/bd-29095-768px.jpg 768w,
+  ./../images/DIU12/bd-29095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -533,22 +1205,64 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - In this scene, Joseph's eyes have been redrawn, and as a results he looks more focused and less senile:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-29717.jpg" />
- <img src="./../images/DIU12/bd-29717.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-29717-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-29717-512px.jpg 512w,
+  ./../images/DIU12/tv-29717-768px.jpg 768w,
+  ./../images/DIU12/tv-29717-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-29717-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-29717-512px.jpg 512w,
+  ./../images/DIU12/bd-29717-768px.jpg 768w,
+  ./../images/DIU12/bd-29717-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-29730.jpg" />
- <img src="./../images/DIU12/bd-29730.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-29730-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-29730-512px.jpg 512w,
+  ./../images/DIU12/tv-29730-768px.jpg 768w,
+  ./../images/DIU12/tv-29730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-29730-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-29730-512px.jpg 512w,
+  ./../images/DIU12/bd-29730-768px.jpg 768w,
+  ./../images/DIU12/bd-29730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-29750.jpg" />
- <img src="./../images/DIU12/bd-29750.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-29750-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-29750-512px.jpg 512w,
+  ./../images/DIU12/tv-29750-768px.jpg 768w,
+  ./../images/DIU12/tv-29750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-29750-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-29750-512px.jpg 512w,
+  ./../images/DIU12/bd-29750-768px.jpg 768w,
+  ./../images/DIU12/bd-29750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -556,8 +1270,22 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - For some reason, this red container is slightly darker in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-29800.jpg" />
- <img src="./../images/DIU12/bd-29800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-29800-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-29800-512px.jpg 512w,
+  ./../images/DIU12/tv-29800-768px.jpg 768w,
+  ./../images/DIU12/tv-29800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-29800-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-29800-512px.jpg 512w,
+  ./../images/DIU12/bd-29800-768px.jpg 768w,
+  ./../images/DIU12/bd-29800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -565,15 +1293,43 @@ Hello everybody, and welcome back for the second part of Red Hot Chili Pepper! T
 - And to finish this whole analysis, a quick look at a better shaded and uncensored chopped hand:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-32080.jpg" />
- <img src="./../images/DIU12/bd-32080.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-32080-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-32080-512px.jpg 512w,
+  ./../images/DIU12/tv-32080-768px.jpg 768w,
+  ./../images/DIU12/tv-32080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-32080-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-32080-512px.jpg 512w,
+  ./../images/DIU12/bd-32080-768px.jpg 768w,
+  ./../images/DIU12/bd-32080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU12/tv-32135.jpg" />
- <img src="./../images/DIU12/bd-32135.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/tv-32135-1090px.jpg"
+  data-srcset="./../images/DIU12/tv-32135-512px.jpg 512w,
+  ./../images/DIU12/tv-32135-768px.jpg 768w,
+  ./../images/DIU12/tv-32135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU12/bd-32135-1090px.jpg"
+  data-srcset="./../images/DIU12/bd-32135-512px.jpg 512w,
+  ./../images/DIU12/bd-32135-768px.jpg 768w,
+  ./../images/DIU12/bd-32135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

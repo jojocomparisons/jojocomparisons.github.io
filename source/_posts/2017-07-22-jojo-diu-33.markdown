@@ -23,8 +23,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Let's begin with basically the same difference as the last one from the last comparison. I quote: "Josuke's eyes have been retouched, you can sort of see one of the holes in his uniform, the hand gash is back again and Tomoko has been shaded a little bit better". Plus, Josuke's chin has also been slightly cleaned up:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-00205.jpg" />
- <img src="./../images/DIU33/bd-00205.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-00205-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-00205-512px.jpg 512w,
+  ./../images/DIU33/tv-00205-768px.jpg 768w,
+  ./../images/DIU33/tv-00205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-00205-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-00205-512px.jpg 512w,
+  ./../images/DIU33/bd-00205-768px.jpg 768w,
+  ./../images/DIU33/bd-00205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -32,8 +46,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Here, Josuke's face shape is slightly different (and the shade on his neck has also been moved slightly down), his eye area has been retouched and the symbols on his collar are looking better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-00420.jpg" />
- <img src="./../images/DIU33/bd-00420.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-00420-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-00420-512px.jpg 512w,
+  ./../images/DIU33/tv-00420-768px.jpg 768w,
+  ./../images/DIU33/tv-00420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-00420-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-00420-512px.jpg 512w,
+  ./../images/DIU33/bd-00420-768px.jpg 768w,
+  ./../images/DIU33/bd-00420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -41,8 +69,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - In this shot, Josuke's face shape is different again, his eye is looking much better, there's a shadow in his ear and the line in his neck is slightly longer:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-00545.jpg" />
- <img src="./../images/DIU33/bd-00545.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-00545-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-00545-512px.jpg 512w,
+  ./../images/DIU33/tv-00545-768px.jpg 768w,
+  ./../images/DIU33/tv-00545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-00545-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-00545-512px.jpg 512w,
+  ./../images/DIU33/bd-00545-768px.jpg 768w,
+  ./../images/DIU33/bd-00545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -50,14 +92,42 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Let's go back to our nasty boy Rohan! Here we have a... sort of uncensored couple of frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-01990.jpg" />
- <img src="./../images/DIU33/bd-01990.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-01990-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-01990-512px.jpg 512w,
+  ./../images/DIU33/tv-01990-768px.jpg 768w,
+  ./../images/DIU33/tv-01990-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-01990-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-01990-512px.jpg 512w,
+  ./../images/DIU33/bd-01990-768px.jpg 768w,
+  ./../images/DIU33/bd-01990-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-02065.jpg" />
- <img src="./../images/DIU33/bd-02065.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-02065-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-02065-512px.jpg 512w,
+  ./../images/DIU33/tv-02065-768px.jpg 768w,
+  ./../images/DIU33/tv-02065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-02065-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-02065-512px.jpg 512w,
+  ./../images/DIU33/bd-02065-768px.jpg 768w,
+  ./../images/DIU33/bd-02065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -65,8 +135,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - And again, this poor dude's back is slightly redder here, and the background has been shaded differently:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-02200.jpg" />
- <img src="./../images/DIU33/bd-02200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-02200-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-02200-512px.jpg 512w,
+  ./../images/DIU33/tv-02200-768px.jpg 768w,
+  ./../images/DIU33/tv-02200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-02200-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-02200-512px.jpg 512w,
+  ./../images/DIU33/bd-02200-768px.jpg 768w,
+  ./../images/DIU33/bd-02200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -74,14 +158,42 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Here, have two other uncensored frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-02400.jpg" />
- <img src="./../images/DIU33/bd-02400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-02400-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-02400-512px.jpg 512w,
+  ./../images/DIU33/tv-02400-768px.jpg 768w,
+  ./../images/DIU33/tv-02400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-02400-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-02400-512px.jpg 512w,
+  ./../images/DIU33/bd-02400-768px.jpg 768w,
+  ./../images/DIU33/bd-02400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-02660.jpg" />
- <img src="./../images/DIU33/bd-02660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-02660-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-02660-512px.jpg 512w,
+  ./../images/DIU33/tv-02660-768px.jpg 768w,
+  ./../images/DIU33/tv-02660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-02660-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-02660-512px.jpg 512w,
+  ./../images/DIU33/bd-02660-768px.jpg 768w,
+  ./../images/DIU33/bd-02660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -89,8 +201,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - In this frame, they remembered to draw a couple of Rohan's shirt holes:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-02690.jpg" />
- <img src="./../images/DIU33/bd-02690.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-02690-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-02690-512px.jpg 512w,
+  ./../images/DIU33/tv-02690-768px.jpg 768w,
+  ./../images/DIU33/tv-02690-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-02690-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-02690-512px.jpg 512w,
+  ./../images/DIU33/bd-02690-768px.jpg 768w,
+  ./../images/DIU33/bd-02690-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -98,8 +224,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - ...and his collar is slightly different in a couple of frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-02741.jpg" />
- <img src="./../images/DIU33/bd-02741.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-02741-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-02741-512px.jpg 512w,
+  ./../images/DIU33/tv-02741-768px.jpg 768w,
+  ./../images/DIU33/tv-02741-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-02741-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-02741-512px.jpg 512w,
+  ./../images/DIU33/bd-02741-768px.jpg 768w,
+  ./../images/DIU33/bd-02741-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -107,8 +247,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Here we have another *sort of* uncensored back, plus the shading is different on a few things. There's also the usual distortion around the edges, plus a slight blur to accompany it:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-02835.jpg" />
- <img src="./../images/DIU33/bd-02835.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-02835-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-02835-512px.jpg 512w,
+  ./../images/DIU33/tv-02835-768px.jpg 768w,
+  ./../images/DIU33/tv-02835-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-02835-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-02835-512px.jpg 512w,
+  ./../images/DIU33/bd-02835-768px.jpg 768w,
+  ./../images/DIU33/bd-02835-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -116,8 +270,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Minako is 10 years younger here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-05790.jpg" />
- <img src="./../images/DIU33/bd-05790.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-05790-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-05790-512px.jpg 512w,
+  ./../images/DIU33/tv-05790-768px.jpg 768w,
+  ./../images/DIU33/tv-05790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-05790-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-05790-512px.jpg 512w,
+  ./../images/DIU33/bd-05790-768px.jpg 768w,
+  ./../images/DIU33/bd-05790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -125,8 +293,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - In this shot Cheap Trick's chin area is darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-06700.jpg" />
- <img src="./../images/DIU33/bd-06700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-06700-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-06700-512px.jpg 512w,
+  ./../images/DIU33/tv-06700-768px.jpg 768w,
+  ./../images/DIU33/tv-06700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-06700-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-06700-512px.jpg 512w,
+  ./../images/DIU33/bd-06700-768px.jpg 768w,
+  ./../images/DIU33/bd-06700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -134,8 +316,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - And here, a couple of Rohan's shirt holes have been moved around:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-07260.jpg" />
- <img src="./../images/DIU33/bd-07260.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-07260-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-07260-512px.jpg 512w,
+  ./../images/DIU33/tv-07260-768px.jpg 768w,
+  ./../images/DIU33/tv-07260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-07260-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-07260-512px.jpg 512w,
+  ./../images/DIU33/bd-07260-768px.jpg 768w,
+  ./../images/DIU33/bd-07260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -143,8 +339,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - In this shot (look, I know I always start these as "In this shot" or with "Here", but I have no idea what to do to give this a bit of variety!) Cheap Trick's chin and mouth have been shaded differently, and the background is different as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-08005.jpg" />
- <img src="./../images/DIU33/bd-08005.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-08005-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-08005-512px.jpg 512w,
+  ./../images/DIU33/tv-08005-768px.jpg 768w,
+  ./../images/DIU33/tv-08005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-08005-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-08005-512px.jpg 512w,
+  ./../images/DIU33/bd-08005-768px.jpg 768w,
+  ./../images/DIU33/bd-08005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -152,8 +362,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Rohan's cheekbone line and nose have been redrawn here, one of his sweat drops now has a shadow (IMPORTANT), Cheap Trick has some bits which are blacker and its eyes have been veeery slightly retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-09430.jpg" />
- <img src="./../images/DIU33/bd-09430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-09430-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-09430-512px.jpg 512w,
+  ./../images/DIU33/tv-09430-768px.jpg 768w,
+  ./../images/DIU33/tv-09430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-09430-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-09430-512px.jpg 512w,
+  ./../images/DIU33/bd-09430-768px.jpg 768w,
+  ./../images/DIU33/bd-09430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -168,8 +392,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - In this very zoomed-in frame, the gash on Josuke's hand is back, and his eye has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-10254.jpg" />
- <img src="./../images/DIU33/bd-10254.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-10254-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-10254-512px.jpg 512w,
+  ./../images/DIU33/tv-10254-768px.jpg 768w,
+  ./../images/DIU33/tv-10254-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-10254-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-10254-512px.jpg 512w,
+  ./../images/DIU33/bd-10254-768px.jpg 768w,
+  ./../images/DIU33/bd-10254-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -177,8 +415,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Here we have... *less* distortion, Josuke's pupil has been retouched and his collar is no longer missing half an anchor:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-10670.jpg" />
- <img src="./../images/DIU33/bd-10670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-10670-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-10670-512px.jpg 512w,
+  ./../images/DIU33/tv-10670-768px.jpg 768w,
+  ./../images/DIU33/tv-10670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-10670-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-10670-512px.jpg 512w,
+  ./../images/DIU33/bd-10670-768px.jpg 768w,
+  ./../images/DIU33/bd-10670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -186,14 +438,42 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - In this scene, both the silhouettes and their actual faces have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-10800.jpg" />
- <img src="./../images/DIU33/bd-10800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-10800-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-10800-512px.jpg 512w,
+  ./../images/DIU33/tv-10800-768px.jpg 768w,
+  ./../images/DIU33/tv-10800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-10800-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-10800-512px.jpg 512w,
+  ./../images/DIU33/bd-10800-768px.jpg 768w,
+  ./../images/DIU33/bd-10800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-11100.jpg" />
- <img src="./../images/DIU33/bd-11100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-11100-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-11100-512px.jpg 512w,
+  ./../images/DIU33/tv-11100-768px.jpg 768w,
+  ./../images/DIU33/tv-11100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-11100-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-11100-512px.jpg 512w,
+  ./../images/DIU33/bd-11100-768px.jpg 768w,
+  ./../images/DIU33/bd-11100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -201,8 +481,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - The camera has been positioned differently here (well, ok, there is no *actual* camera, but you get what I mean); Terunosuke also looks slightly less like a Yu-gi-oh character:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-11450.jpg" />
- <img src="./../images/DIU33/bd-11450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-11450-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-11450-512px.jpg 512w,
+  ./../images/DIU33/tv-11450-768px.jpg 768w,
+  ./../images/DIU33/tv-11450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-11450-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-11450-512px.jpg 512w,
+  ./../images/DIU33/bd-11450-768px.jpg 768w,
+  ./../images/DIU33/bd-11450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -210,8 +504,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Both face have been redrawn here, Josuke's hand also looks better and the zoom is different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-12400.jpg" />
- <img src="./../images/DIU33/bd-12400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-12400-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-12400-512px.jpg 512w,
+  ./../images/DIU33/tv-12400-768px.jpg 768w,
+  ./../images/DIU33/tv-12400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-12400-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-12400-512px.jpg 512w,
+  ./../images/DIU33/bd-12400-768px.jpg 768w,
+  ./../images/DIU33/bd-12400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -219,8 +527,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - This very nice shot has been slightly zoomed in:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-12500.jpg" />
- <img src="./../images/DIU33/bd-12500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-12500-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-12500-512px.jpg 512w,
+  ./../images/DIU33/tv-12500-768px.jpg 768w,
+  ./../images/DIU33/tv-12500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-12500-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-12500-512px.jpg 512w,
+  ./../images/DIU33/bd-12500-768px.jpg 768w,
+  ./../images/DIU33/bd-12500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -228,8 +550,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - There's a ton of differences here, but mostly CRAZY DIAMOND! Look at that face:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-14000.jpg" />
- <img src="./../images/DIU33/bd-14000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-14000-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-14000-512px.jpg 512w,
+  ./../images/DIU33/tv-14000-768px.jpg 768w,
+  ./../images/DIU33/tv-14000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-14000-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-14000-512px.jpg 512w,
+  ./../images/DIU33/bd-14000-768px.jpg 768w,
+  ./../images/DIU33/bd-14000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -237,8 +573,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Rohan's shirt has waaay more details in the BDs, and his left hand is no longer separated from his arm by a line:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-18905.jpg" />
- <img src="./../images/DIU33/bd-18905.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-18905-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-18905-512px.jpg 512w,
+  ./../images/DIU33/tv-18905-768px.jpg 768w,
+  ./../images/DIU33/tv-18905-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-18905-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-18905-512px.jpg 512w,
+  ./../images/DIU33/bd-18905-768px.jpg 768w,
+  ./../images/DIU33/bd-18905-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -246,14 +596,42 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Yuuya is more handsome here, and the S on his dumb baby tie is thinner:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-21170.jpg" />
- <img src="./../images/DIU33/bd-21170.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-21170-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-21170-512px.jpg 512w,
+  ./../images/DIU33/tv-21170-768px.jpg 768w,
+  ./../images/DIU33/tv-21170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-21170-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-21170-512px.jpg 512w,
+  ./../images/DIU33/bd-21170-768px.jpg 768w,
+  ./../images/DIU33/bd-21170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-21220.jpg" />
- <img src="./../images/DIU33/bd-21220.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-21220-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-21220-512px.jpg 512w,
+  ./../images/DIU33/tv-21220-768px.jpg 768w,
+  ./../images/DIU33/tv-21220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-21220-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-21220-512px.jpg 512w,
+  ./../images/DIU33/bd-21220-768px.jpg 768w,
+  ./../images/DIU33/bd-21220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -261,8 +639,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Here, Yuuya's eyes, and Highway Star's facial features have been rearranged a bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-22360.jpg" />
- <img src="./../images/DIU33/bd-22360.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-22360-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-22360-512px.jpg 512w,
+  ./../images/DIU33/tv-22360-768px.jpg 768w,
+  ./../images/DIU33/tv-22360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-22360-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-22360-512px.jpg 512w,
+  ./../images/DIU33/bd-22360-768px.jpg 768w,
+  ./../images/DIU33/bd-22360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -277,8 +669,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Again, his face has been retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-23415.jpg" />
- <img src="./../images/DIU33/bd-23415.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-23415-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-23415-512px.jpg 512w,
+  ./../images/DIU33/tv-23415-768px.jpg 768w,
+  ./../images/DIU33/tv-23415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-23415-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-23415-512px.jpg 512w,
+  ./../images/DIU33/bd-23415-768px.jpg 768w,
+  ./../images/DIU33/bd-23415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -286,8 +692,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - The car is no longer mysteriously invisible here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-23850.jpg" />
- <img src="./../images/DIU33/bd-23850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-23850-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-23850-512px.jpg 512w,
+  ./../images/DIU33/tv-23850-768px.jpg 768w,
+  ./../images/DIU33/tv-23850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-23850-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-23850-512px.jpg 512w,
+  ./../images/DIU33/bd-23850-768px.jpg 768w,
+  ./../images/DIU33/bd-23850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -295,8 +715,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Boy, Yuuya's face has been retouched quite a bit in this episode, huh:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-24000.jpg" />
- <img src="./../images/DIU33/bd-24000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-24000-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-24000-512px.jpg 512w,
+  ./../images/DIU33/tv-24000-768px.jpg 768w,
+  ./../images/DIU33/tv-24000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-24000-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-24000-512px.jpg 512w,
+  ./../images/DIU33/bd-24000-768px.jpg 768w,
+  ./../images/DIU33/bd-24000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -304,8 +738,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - This explosion is way brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-26036.jpg" />
- <img src="./../images/DIU33/bd-26036.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-26036-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-26036-512px.jpg 512w,
+  ./../images/DIU33/tv-26036-768px.jpg 768w,
+  ./../images/DIU33/tv-26036-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-26036-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-26036-512px.jpg 512w,
+  ./../images/DIU33/bd-26036-768px.jpg 768w,
+  ./../images/DIU33/bd-26036-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -313,8 +761,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Here, Yuuya has legs...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-26670.jpg" />
- <img src="./../images/DIU33/bd-26670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-26670-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-26670-512px.jpg 512w,
+  ./../images/DIU33/tv-26670-768px.jpg 768w,
+  ./../images/DIU33/tv-26670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-26670-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-26670-512px.jpg 512w,
+  ./../images/DIU33/bd-26670-768px.jpg 768w,
+  ./../images/DIU33/bd-26670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -329,8 +791,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Here, Terunosuke has received a makeover in the head-neck area:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-27600.jpg" />
- <img src="./../images/DIU33/bd-27600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-27600-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-27600-512px.jpg 512w,
+  ./../images/DIU33/tv-27600-768px.jpg 768w,
+  ./../images/DIU33/tv-27600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-27600-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-27600-512px.jpg 512w,
+  ./../images/DIU33/bd-27600-768px.jpg 768w,
+  ./../images/DIU33/bd-27600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -338,8 +814,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - The holes on Josuke's uniform are back again here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-27650.jpg" />
- <img src="./../images/DIU33/bd-27650.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-27650-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-27650-512px.jpg 512w,
+  ./../images/DIU33/tv-27650-768px.jpg 768w,
+  ./../images/DIU33/tv-27650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-27650-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-27650-512px.jpg 512w,
+  ./../images/DIU33/bd-27650-768px.jpg 768w,
+  ./../images/DIU33/bd-27650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -347,8 +837,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Here we have a big'un! First of all, the sky is slightly differently shaded, then Terunosuke's eye has been slightly retouched, Josuke's entire face is looking better and MAH BOY KOICHI is looking even baller:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-28250.jpg" />
- <img src="./../images/DIU33/bd-28250.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-28250-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-28250-512px.jpg 512w,
+  ./../images/DIU33/tv-28250-768px.jpg 768w,
+  ./../images/DIU33/tv-28250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-28250-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-28250-512px.jpg 512w,
+  ./../images/DIU33/bd-28250-768px.jpg 768w,
+  ./../images/DIU33/bd-28250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -356,8 +860,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Here, while Josuke shows us what he learned from his nephew, we can see that the shading on his left cheek is slightly different, and the bandage has been moved:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-28615.jpg" />
- <img src="./../images/DIU33/bd-28615.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-28615-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-28615-512px.jpg 512w,
+  ./../images/DIU33/tv-28615-768px.jpg 768w,
+  ./../images/DIU33/tv-28615-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-28615-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-28615-512px.jpg 512w,
+  ./../images/DIU33/bd-28615-768px.jpg 768w,
+  ./../images/DIU33/bd-28615-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -365,8 +883,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - The crew is back, and it's looking even more smug than it used to! Every face has been retouched, and Josuke's collar has also been recoloured, his anchor symbol is looking better and the clouds in the background have slightly different shading:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-29835.jpg" />
- <img src="./../images/DIU33/bd-29835.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-29835-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-29835-512px.jpg 512w,
+  ./../images/DIU33/tv-29835-768px.jpg 768w,
+  ./../images/DIU33/tv-29835-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-29835-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-29835-512px.jpg 512w,
+  ./../images/DIU33/bd-29835-768px.jpg 768w,
+  ./../images/DIU33/bd-29835-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -374,8 +906,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Here, Josuke's nails look slightly less weird:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-30620.jpg" />
- <img src="./../images/DIU33/bd-30620.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-30620-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-30620-512px.jpg 512w,
+  ./../images/DIU33/tv-30620-768px.jpg 768w,
+  ./../images/DIU33/tv-30620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-30620-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-30620-512px.jpg 512w,
+  ./../images/DIU33/bd-30620-768px.jpg 768w,
+  ./../images/DIU33/bd-30620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -383,8 +929,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - In this shot, Josuke's eyes have been slightly retouched, and you can see the tiniest tip of his hand gash:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-30750.jpg" />
- <img src="./../images/DIU33/bd-30750.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-30750-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-30750-512px.jpg 512w,
+  ./../images/DIU33/tv-30750-768px.jpg 768w,
+  ./../images/DIU33/tv-30750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-30750-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-30750-512px.jpg 512w,
+  ./../images/DIU33/bd-30750-768px.jpg 768w,
+  ./../images/DIU33/bd-30750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -392,8 +952,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Back to Rohan! Cheap Trick's black bits are back here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-31300.jpg" />
- <img src="./../images/DIU33/bd-31300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-31300-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-31300-512px.jpg 512w,
+  ./../images/DIU33/tv-31300-768px.jpg 768w,
+  ./../images/DIU33/tv-31300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-31300-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-31300-512px.jpg 512w,
+  ./../images/DIU33/bd-31300-768px.jpg 768w,
+  ./../images/DIU33/bd-31300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -401,8 +975,22 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 - Let's go to the credits for a last quick difference! Here, as you can see on the right, the third row from the bottom is missing the last character (佐): 制作進行補 is "Assistant production advance" (no, I don't know what that means either), and the extra 佐 also means "assistance"; in fact, 補佐 (*hosa*) does usually mean "assistance", but usually you wouldn't find this compound at the end of a job description, so I'm assuming it was just a typo:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU33/tv-33670.jpg" />
- <img src="./../images/DIU33/bd-33670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/tv-33670-1090px.jpg"
+  data-srcset="./../images/DIU33/tv-33670-512px.jpg 512w,
+  ./../images/DIU33/tv-33670-768px.jpg 768w,
+  ./../images/DIU33/tv-33670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU33/bd-33670-1090px.jpg"
+  data-srcset="./../images/DIU33/bd-33670-512px.jpg 512w,
+  ./../images/DIU33/bd-33670-768px.jpg 768w,
+  ./../images/DIU33/bd-33670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

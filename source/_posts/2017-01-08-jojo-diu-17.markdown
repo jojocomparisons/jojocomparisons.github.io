@@ -21,22 +21,64 @@ Without further ado, let's get right to it!
 - For today's entrée, may I suggest a redrawn Morioh emblem? I have no idea why, but in the TV version, it was missing its central bit. This has, of course, been fixed in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-00112.jpg" />
- <img src="./../images/DIU17/bd-00112.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-00112-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-00112-512px.jpg 512w,
+  ./../images/DIU17/tv-00112-768px.jpg 768w,
+  ./../images/DIU17/tv-00112-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-00112-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-00112-512px.jpg 512w,
+  ./../images/DIU17/bd-00112-768px.jpg 768w,
+  ./../images/DIU17/bd-00112-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-00730.jpg" />
- <img src="./../images/DIU17/bd-00730.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-00730-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-00730-512px.jpg 512w,
+  ./../images/DIU17/tv-00730-768px.jpg 768w,
+  ./../images/DIU17/tv-00730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-00730-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-00730-512px.jpg 512w,
+  ./../images/DIU17/bd-00730-768px.jpg 768w,
+  ./../images/DIU17/bd-00730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-01285.jpg" />
- <img src="./../images/DIU17/bd-01285.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-01285-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-01285-512px.jpg 512w,
+  ./../images/DIU17/tv-01285-768px.jpg 768w,
+  ./../images/DIU17/tv-01285-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-01285-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-01285-512px.jpg 512w,
+  ./../images/DIU17/bd-01285-768px.jpg 768w,
+  ./../images/DIU17/bd-01285-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -44,8 +86,22 @@ Without further ado, let's get right to it!
 - Don't talk to me or my son or my fucked up collar and tie ever again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-01810.jpg" />
- <img src="./../images/DIU17/bd-01810.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-01810-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-01810-512px.jpg 512w,
+  ./../images/DIU17/tv-01810-768px.jpg 768w,
+  ./../images/DIU17/tv-01810-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-01810-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-01810-512px.jpg 512w,
+  ./../images/DIU17/bd-01810-768px.jpg 768w,
+  ./../images/DIU17/bd-01810-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -53,8 +109,22 @@ Without further ado, let's get right to it!
 - Again with the M:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-01850.jpg" />
- <img src="./../images/DIU17/bd-01850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-01850-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-01850-512px.jpg 512w,
+  ./../images/DIU17/tv-01850-768px.jpg 768w,
+  ./../images/DIU17/tv-01850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-01850-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-01850-512px.jpg 512w,
+  ./../images/DIU17/bd-01850-768px.jpg 768w,
+  ./../images/DIU17/bd-01850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -62,8 +132,22 @@ Without further ado, let's get right to it!
 - In this shot, Koichi's back to his smaller self, a tire on the leftmost car has been moved and the shadows under the cars are lighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-02330.jpg" />
- <img src="./../images/DIU17/bd-02330.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-02330-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-02330-512px.jpg 512w,
+  ./../images/DIU17/tv-02330-768px.jpg 768w,
+  ./../images/DIU17/tv-02330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-02330-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-02330-512px.jpg 512w,
+  ./../images/DIU17/bd-02330-768px.jpg 768w,
+  ./../images/DIU17/bd-02330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -78,8 +162,22 @@ Without further ado, let's get right to it!
 - In this shot here, the dividing lines have been made blacker, the shot with the 本間 (Honma) nameplate has been centered better and the shots with the 小野寺 (Onodera) and 沼倉 (Numakura) nameplates have been swapped, to reflect the order in which Rohan names them:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-03470.jpg" />
- <img src="./../images/DIU17/bd-03470.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-03470-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-03470-512px.jpg 512w,
+  ./../images/DIU17/tv-03470-768px.jpg 768w,
+  ./../images/DIU17/tv-03470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-03470-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-03470-512px.jpg 512w,
+  ./../images/DIU17/bd-03470-768px.jpg 768w,
+  ./../images/DIU17/bd-03470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -94,8 +192,22 @@ Without further ado, let's get right to it!
 - Throughout this episode, The 露 kanji on Rohan's shirt (which, funnily enough means "dew", can indicate the country of Russia but more importantly is the Ro in Rohan's name) has been either forgotten or drawn weird; here's a weird 露 now fixed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-08955.jpg" />
- <img src="./../images/DIU17/bd-08955.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-08955-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-08955-512px.jpg 512w,
+  ./../images/DIU17/tv-08955-768px.jpg 768w,
+  ./../images/DIU17/tv-08955-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-08955-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-08955-512px.jpg 512w,
+  ./../images/DIU17/bd-08955-768px.jpg 768w,
+  ./../images/DIU17/bd-08955-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -103,8 +215,22 @@ Without further ado, let's get right to it!
 - Flashback Arnold has been uncensored:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-11000.jpg" />
- <img src="./../images/DIU17/bd-11000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-11000-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-11000-512px.jpg 512w,
+  ./../images/DIU17/tv-11000-768px.jpg 768w,
+  ./../images/DIU17/tv-11000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-11000-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-11000-512px.jpg 512w,
+  ./../images/DIU17/bd-11000-768px.jpg 768w,
+  ./../images/DIU17/bd-11000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -126,15 +252,43 @@ Without further ado, let's get right to it!
 - Have a couple more shots of this dead doggo for good measure:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-12520.jpg" />
- <img src="./../images/DIU17/bd-12520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-12520-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-12520-512px.jpg 512w,
+  ./../images/DIU17/tv-12520-768px.jpg 768w,
+  ./../images/DIU17/tv-12520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-12520-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-12520-512px.jpg 512w,
+  ./../images/DIU17/bd-12520-768px.jpg 768w,
+  ./../images/DIU17/bd-12520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-12550.jpg" />
- <img src="./../images/DIU17/bd-12550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-12550-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-12550-512px.jpg 512w,
+  ./../images/DIU17/tv-12550-768px.jpg 768w,
+  ./../images/DIU17/tv-12550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-12550-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-12550-512px.jpg 512w,
+  ./../images/DIU17/bd-12550-768px.jpg 768w,
+  ./../images/DIU17/bd-12550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -142,15 +296,43 @@ Without further ado, let's get right to it!
 - And again here, plus a less flat shading on both Arnold and Best Girl's legs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-12745.jpg" />
- <img src="./../images/DIU17/bd-12745.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-12745-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-12745-512px.jpg 512w,
+  ./../images/DIU17/tv-12745-768px.jpg 768w,
+  ./../images/DIU17/tv-12745-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-12745-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-12745-512px.jpg 512w,
+  ./../images/DIU17/bd-12745-768px.jpg 768w,
+  ./../images/DIU17/bd-12745-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-12815.jpg" />
- <img src="./../images/DIU17/bd-12815.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-12815-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-12815-512px.jpg 512w,
+  ./../images/DIU17/tv-12815-768px.jpg 768w,
+  ./../images/DIU17/tv-12815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-12815-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-12815-512px.jpg 512w,
+  ./../images/DIU17/bd-12815-768px.jpg 768w,
+  ./../images/DIU17/bd-12815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -158,15 +340,43 @@ Without further ado, let's get right to it!
 - And here we have another couple of shots of Arnold:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-12850.jpg" />
- <img src="./../images/DIU17/bd-12850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-12850-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-12850-512px.jpg 512w,
+  ./../images/DIU17/tv-12850-768px.jpg 768w,
+  ./../images/DIU17/tv-12850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-12850-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-12850-512px.jpg 512w,
+  ./../images/DIU17/bd-12850-768px.jpg 768w,
+  ./../images/DIU17/bd-12850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-12970.jpg" />
- <img src="./../images/DIU17/bd-12970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-12970-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-12970-512px.jpg 512w,
+  ./../images/DIU17/tv-12970-768px.jpg 768w,
+  ./../images/DIU17/tv-12970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-12970-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-12970-512px.jpg 512w,
+  ./../images/DIU17/bd-12970-768px.jpg 768w,
+  ./../images/DIU17/bd-12970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -174,8 +384,22 @@ Without further ado, let's get right to it!
 - We interrupt this constant stream of dead dogs to point out that the colours in this eyecatch are a bit softer in the BD version:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-13180.jpg" />
- <img src="./../images/DIU17/bd-13180.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-13180-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-13180-512px.jpg 512w,
+  ./../images/DIU17/tv-13180-768px.jpg 768w,
+  ./../images/DIU17/tv-13180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-13180-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-13180-512px.jpg 512w,
+  ./../images/DIU17/bd-13180-768px.jpg 768w,
+  ./../images/DIU17/bd-13180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -183,8 +407,22 @@ Without further ado, let's get right to it!
 - Alright, back to the slashed neck:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-13225.jpg" />
- <img src="./../images/DIU17/bd-13225.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-13225-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-13225-512px.jpg 512w,
+  ./../images/DIU17/tv-13225-768px.jpg 768w,
+  ./../images/DIU17/tv-13225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-13225-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-13225-512px.jpg 512w,
+  ./../images/DIU17/bd-13225-768px.jpg 768w,
+  ./../images/DIU17/bd-13225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -192,8 +430,22 @@ Without further ado, let's get right to it!
 - Spot the difference! Nah, I'm just gonna tell you. A tiny bit on Rohan's neck was slightly messed up for a handful of frames; of course, this has been fixed in the BDs, or I wouldn't be talking about it right now and you wouldn't be reading this sentence, or this one, or even this one:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-13785.jpg" />
- <img src="./../images/DIU17/bd-13785.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-13785-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-13785-512px.jpg 512w,
+  ./../images/DIU17/tv-13785-768px.jpg 768w,
+  ./../images/DIU17/tv-13785-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-13785-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-13785-512px.jpg 512w,
+  ./../images/DIU17/bd-13785-768px.jpg 768w,
+  ./../images/DIU17/bd-13785-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -201,8 +453,22 @@ Without further ado, let's get right to it!
 - Rohan forgot the 露 on his shirt here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-14490.jpg" />
- <img src="./../images/DIU17/bd-14490.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-14490-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-14490-512px.jpg 512w,
+  ./../images/DIU17/tv-14490-768px.jpg 768w,
+  ./../images/DIU17/tv-14490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-14490-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-14490-512px.jpg 512w,
+  ./../images/DIU17/bd-14490-768px.jpg 768w,
+  ./../images/DIU17/bd-14490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -210,15 +476,43 @@ Without further ado, let's get right to it!
 - Yeah, I know, Arnold. Me too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-14700.jpg" />
- <img src="./../images/DIU17/bd-14700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-14700-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-14700-512px.jpg 512w,
+  ./../images/DIU17/tv-14700-768px.jpg 768w,
+  ./../images/DIU17/tv-14700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-14700-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-14700-512px.jpg 512w,
+  ./../images/DIU17/bd-14700-768px.jpg 768w,
+  ./../images/DIU17/bd-14700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-15240.jpg" />
- <img src="./../images/DIU17/bd-15240.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-15240-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-15240-512px.jpg 512w,
+  ./../images/DIU17/tv-15240-768px.jpg 768w,
+  ./../images/DIU17/tv-15240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-15240-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-15240-512px.jpg 512w,
+  ./../images/DIU17/bd-15240-768px.jpg 768w,
+  ./../images/DIU17/bd-15240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -226,8 +520,22 @@ Without further ado, let's get right to it!
 - His neck is uncensored again here, and there's also a slight vignette:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-15260.jpg" />
- <img src="./../images/DIU17/bd-15260.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-15260-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-15260-512px.jpg 512w,
+  ./../images/DIU17/tv-15260-768px.jpg 768w,
+  ./../images/DIU17/tv-15260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-15260-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-15260-512px.jpg 512w,
+  ./../images/DIU17/bd-15260-768px.jpg 768w,
+  ./../images/DIU17/bd-15260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -235,8 +543,22 @@ Without further ado, let's get right to it!
 - The lines on Reimi are also thicker here, which makes her stand out from the background more:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-15500.jpg" />
- <img src="./../images/DIU17/bd-15500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-15500-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-15500-512px.jpg 512w,
+  ./../images/DIU17/tv-15500-768px.jpg 768w,
+  ./../images/DIU17/tv-15500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-15500-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-15500-512px.jpg 512w,
+  ./../images/DIU17/bd-15500-768px.jpg 768w,
+  ./../images/DIU17/bd-15500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -244,8 +566,22 @@ Without further ado, let's get right to it!
 - "What are you looking at? Yeah, me again":
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-15870.jpg" />
- <img src="./../images/DIU17/bd-15870.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-15870-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-15870-512px.jpg 512w,
+  ./../images/DIU17/tv-15870-768px.jpg 768w,
+  ./../images/DIU17/tv-15870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-15870-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-15870-512px.jpg 512w,
+  ./../images/DIU17/bd-15870-768px.jpg 768w,
+  ./../images/DIU17/bd-15870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -253,8 +589,22 @@ Without further ado, let's get right to it!
 - The shading on a tiny bit of Reimi's hair has been removed in a couple of frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-16105.jpg" />
- <img src="./../images/DIU17/bd-16105.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-16105-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-16105-512px.jpg 512w,
+  ./../images/DIU17/tv-16105-768px.jpg 768w,
+  ./../images/DIU17/tv-16105-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-16105-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-16105-512px.jpg 512w,
+  ./../images/DIU17/bd-16105-768px.jpg 768w,
+  ./../images/DIU17/bd-16105-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -262,8 +612,22 @@ Without further ado, let's get right to it!
 - Rohan is no longer bald in this shot! The thick outline on his jaw has also been removed, and the details on his earring are brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-16250.jpg" />
- <img src="./../images/DIU17/bd-16250.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-16250-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-16250-512px.jpg 512w,
+  ./../images/DIU17/tv-16250-768px.jpg 768w,
+  ./../images/DIU17/tv-16250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-16250-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-16250-512px.jpg 512w,
+  ./../images/DIU17/bd-16250-768px.jpg 768w,
+  ./../images/DIU17/bd-16250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -271,15 +635,43 @@ Without further ado, let's get right to it!
 - A redrawn face? That's so thoughtful of you! You shouldn't have!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-16405.jpg" />
- <img src="./../images/DIU17/bd-16405.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-16405-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-16405-512px.jpg 512w,
+  ./../images/DIU17/tv-16405-768px.jpg 768w,
+  ./../images/DIU17/tv-16405-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-16405-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-16405-512px.jpg 512w,
+  ./../images/DIU17/bd-16405-768px.jpg 768w,
+  ./../images/DIU17/bd-16405-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-16430.jpg" />
- <img src="./../images/DIU17/bd-16430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-16430-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-16430-512px.jpg 512w,
+  ./../images/DIU17/tv-16430-768px.jpg 768w,
+  ./../images/DIU17/tv-16430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-16430-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-16430-512px.jpg 512w,
+  ./../images/DIU17/bd-16430-768px.jpg 768w,
+  ./../images/DIU17/bd-16430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -287,15 +679,43 @@ Without further ado, let's get right to it!
 - Come on, Arnold, go away! Let me work in peace:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-17310.jpg" />
- <img src="./../images/DIU17/bd-17310.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-17310-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-17310-512px.jpg 512w,
+  ./../images/DIU17/tv-17310-768px.jpg 768w,
+  ./../images/DIU17/tv-17310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-17310-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-17310-512px.jpg 512w,
+  ./../images/DIU17/bd-17310-768px.jpg 768w,
+  ./../images/DIU17/bd-17310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-19630.jpg" />
- <img src="./../images/DIU17/bd-19630.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-19630-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-19630-512px.jpg 512w,
+  ./../images/DIU17/tv-19630-768px.jpg 768w,
+  ./../images/DIU17/tv-19630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-19630-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-19630-512px.jpg 512w,
+  ./../images/DIU17/bd-19630-768px.jpg 768w,
+  ./../images/DIU17/bd-19630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -303,8 +723,22 @@ Without further ado, let's get right to it!
 - Rohan's freaky shadeless palms have been fixed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-20040.jpg" />
- <img src="./../images/DIU17/bd-20040.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-20040-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-20040-512px.jpg 512w,
+  ./../images/DIU17/tv-20040-768px.jpg 768w,
+  ./../images/DIU17/tv-20040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-20040-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-20040-512px.jpg 512w,
+  ./../images/DIU17/bd-20040-768px.jpg 768w,
+  ./../images/DIU17/bd-20040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -312,15 +746,43 @@ Without further ado, let's get right to it!
 - Arnold again in these two shots:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-21260.jpg" />
- <img src="./../images/DIU17/bd-21260.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-21260-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-21260-512px.jpg 512w,
+  ./../images/DIU17/tv-21260-768px.jpg 768w,
+  ./../images/DIU17/tv-21260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-21260-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-21260-512px.jpg 512w,
+  ./../images/DIU17/bd-21260-768px.jpg 768w,
+  ./../images/DIU17/bd-21260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-21650.jpg" />
- <img src="./../images/DIU17/bd-21650.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-21650-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-21650-512px.jpg 512w,
+  ./../images/DIU17/tv-21650-768px.jpg 768w,
+  ./../images/DIU17/tv-21650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-21650-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-21650-512px.jpg 512w,
+  ./../images/DIU17/bd-21650-768px.jpg 768w,
+  ./../images/DIU17/bd-21650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -328,8 +790,22 @@ Without further ado, let's get right to it!
 - In this split shot, Koichi's eyes have been redrawn, Rohan's droopy left eye has been repositioned and he no longer looks like a goth teen:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-21980.jpg" />
- <img src="./../images/DIU17/bd-21980.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-21980-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-21980-512px.jpg 512w,
+  ./../images/DIU17/tv-21980-768px.jpg 768w,
+  ./../images/DIU17/tv-21980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-21980-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-21980-512px.jpg 512w,
+  ./../images/DIU17/bd-21980-768px.jpg 768w,
+  ./../images/DIU17/bd-21980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -337,8 +813,22 @@ Without further ado, let's get right to it!
 - Jojo's Bizarre Adventure Part 4: Arnold is Unbreakable:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-22165.jpg" />
- <img src="./../images/DIU17/bd-22165.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-22165-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-22165-512px.jpg 512w,
+  ./../images/DIU17/tv-22165-768px.jpg 768w,
+  ./../images/DIU17/tv-22165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-22165-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-22165-512px.jpg 512w,
+  ./../images/DIU17/bd-22165-768px.jpg 768w,
+  ./../images/DIU17/bd-22165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -346,8 +836,22 @@ Without further ado, let's get right to it!
 - In this shot, the usual 露 has been re-added to Rohan's shirt, and the aura behind him is slightly different (if you have trouble finding the difference in the aura, look at the right of his neck):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-24624.jpg" />
- <img src="./../images/DIU17/bd-24624.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-24624-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-24624-512px.jpg 512w,
+  ./../images/DIU17/tv-24624-768px.jpg 768w,
+  ./../images/DIU17/tv-24624-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-24624-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-24624-512px.jpg 512w,
+  ./../images/DIU17/bd-24624-768px.jpg 768w,
+  ./../images/DIU17/bd-24624-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -355,22 +859,64 @@ Without further ado, let's get right to it!
 - One last Arnold compilation for the road:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-25558.jpg" />
- <img src="./../images/DIU17/bd-25558.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-25558-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-25558-512px.jpg 512w,
+  ./../images/DIU17/tv-25558-768px.jpg 768w,
+  ./../images/DIU17/tv-25558-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-25558-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-25558-512px.jpg 512w,
+  ./../images/DIU17/bd-25558-768px.jpg 768w,
+  ./../images/DIU17/bd-25558-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-25655.jpg" />
- <img src="./../images/DIU17/bd-25655.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-25655-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-25655-512px.jpg 512w,
+  ./../images/DIU17/tv-25655-768px.jpg 768w,
+  ./../images/DIU17/tv-25655-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-25655-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-25655-512px.jpg 512w,
+  ./../images/DIU17/bd-25655-768px.jpg 768w,
+  ./../images/DIU17/bd-25655-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-25955.jpg" />
- <img src="./../images/DIU17/bd-25955.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-25955-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-25955-512px.jpg 512w,
+  ./../images/DIU17/tv-25955-768px.jpg 768w,
+  ./../images/DIU17/tv-25955-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-25955-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-25955-512px.jpg 512w,
+  ./../images/DIU17/bd-25955-768px.jpg 768w,
+  ./../images/DIU17/bd-25955-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -378,8 +924,22 @@ Without further ado, let's get right to it!
 - And one last fixed 露, for old times' sake:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-26050.jpg" />
- <img src="./../images/DIU17/bd-26050.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-26050-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-26050-512px.jpg 512w,
+  ./../images/DIU17/tv-26050-768px.jpg 768w,
+  ./../images/DIU17/tv-26050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-26050-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-26050-512px.jpg 512w,
+  ./../images/DIU17/bd-26050-768px.jpg 768w,
+  ./../images/DIU17/bd-26050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -387,29 +947,85 @@ Without further ado, let's get right to it!
 - Look who finally showed up! It's Kira's first appearance! And with him, of course, his uncensored girlfriend:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-32895.jpg" />
- <img src="./../images/DIU17/bd-32895.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-32895-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-32895-512px.jpg 512w,
+  ./../images/DIU17/tv-32895-768px.jpg 768w,
+  ./../images/DIU17/tv-32895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-32895-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-32895-512px.jpg 512w,
+  ./../images/DIU17/bd-32895-768px.jpg 768w,
+  ./../images/DIU17/bd-32895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-32965.jpg" />
- <img src="./../images/DIU17/bd-32965.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-32965-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-32965-512px.jpg 512w,
+  ./../images/DIU17/tv-32965-768px.jpg 768w,
+  ./../images/DIU17/tv-32965-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-32965-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-32965-512px.jpg 512w,
+  ./../images/DIU17/bd-32965-768px.jpg 768w,
+  ./../images/DIU17/bd-32965-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-33000.jpg" />
- <img src="./../images/DIU17/bd-33000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-33000-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-33000-512px.jpg 512w,
+  ./../images/DIU17/tv-33000-768px.jpg 768w,
+  ./../images/DIU17/tv-33000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-33000-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-33000-512px.jpg 512w,
+  ./../images/DIU17/bd-33000-768px.jpg 768w,
+  ./../images/DIU17/bd-33000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU17/tv-33208.jpg" />
- <img src="./../images/DIU17/bd-33208.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/tv-33208-1090px.jpg"
+  data-srcset="./../images/DIU17/tv-33208-512px.jpg 512w,
+  ./../images/DIU17/tv-33208-768px.jpg 768w,
+  ./../images/DIU17/tv-33208-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU17/bd-33208-1090px.jpg"
+  data-srcset="./../images/DIU17/bd-33208-512px.jpg 512w,
+  ./../images/DIU17/bd-33208-768px.jpg 768w,
+  ./../images/DIU17/bd-33208-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

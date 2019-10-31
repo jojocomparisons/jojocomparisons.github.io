@@ -19,8 +19,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - The first comparison for today concerns the その１ ("Part 1") in the title, which is a little more spaced and moved to the right in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-04240.jpg" />
- <img src="./../images/DIU14/bd-04240.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-04240-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-04240-512px.jpg 512w,
+  ./../images/DIU14/tv-04240-768px.jpg 768w,
+  ./../images/DIU14/tv-04240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-04240-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-04240-512px.jpg 512w,
+  ./../images/DIU14/bd-04240-768px.jpg 768w,
+  ./../images/DIU14/bd-04240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -28,8 +42,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - In this shot here, Hazamada was missing his bottom belt. This has been fixed in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-06080.jpg" />
- <img src="./../images/DIU14/bd-06080.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-06080-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-06080-512px.jpg 512w,
+  ./../images/DIU14/tv-06080-768px.jpg 768w,
+  ./../images/DIU14/tv-06080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-06080-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-06080-512px.jpg 512w,
+  ./../images/DIU14/bd-06080-768px.jpg 768w,
+  ./../images/DIU14/bd-06080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,8 +65,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - In a bunch of TV frames, there is a red dot approximately in the top right corner, which moves together with Rohan; this was probably a remnant of the animation process, or simply a mistake. Anyway, this has been removed in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-08330.jpg" />
- <img src="./../images/DIU14/bd-08330.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-08330-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-08330-512px.jpg 512w,
+  ./../images/DIU14/tv-08330-768px.jpg 768w,
+  ./../images/DIU14/tv-08330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-08330-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-08330-512px.jpg 512w,
+  ./../images/DIU14/bd-08330-768px.jpg 768w,
+  ./../images/DIU14/bd-08330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -46,8 +88,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - Alright, this might get the prize for "tiniest difference ever", but if you look very closely, in this (gorgeous) shot of Rohan, the shading on his headband is veeeeery slightly different above his left eyebrow. It's a few pixels big, but hey... That's my job, you know:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-09375.jpg" />
- <img src="./../images/DIU14/bd-09375.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-09375-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-09375-512px.jpg 512w,
+  ./../images/DIU14/tv-09375-768px.jpg 768w,
+  ./../images/DIU14/tv-09375-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-09375-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-09375-512px.jpg 512w,
+  ./../images/DIU14/bd-09375-768px.jpg 768w,
+  ./../images/DIU14/bd-09375-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -55,8 +111,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - The spider has a smaller white... Thing? I don't know what that is, but here you go:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-09805.jpg" />
- <img src="./../images/DIU14/bd-09805.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-09805-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-09805-512px.jpg 512w,
+  ./../images/DIU14/tv-09805-768px.jpg 768w,
+  ./../images/DIU14/tv-09805-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-09805-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-09805-512px.jpg 512w,
+  ./../images/DIU14/bd-09805-768px.jpg 768w,
+  ./../images/DIU14/bd-09805-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -78,8 +148,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - Have some more uncensored spider:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-10045.jpg" />
- <img src="./../images/DIU14/bd-10045.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-10045-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-10045-512px.jpg 512w,
+  ./../images/DIU14/tv-10045-768px.jpg 768w,
+  ./../images/DIU14/tv-10045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-10045-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-10045-512px.jpg 512w,
+  ./../images/DIU14/bd-10045-768px.jpg 768w,
+  ./../images/DIU14/bd-10045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -87,8 +171,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - And again here; the yellow part of the cutter is also shaded slightly differently:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-10080.jpg" />
- <img src="./../images/DIU14/bd-10080.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-10080-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-10080-512px.jpg 512w,
+  ./../images/DIU14/tv-10080-768px.jpg 768w,
+  ./../images/DIU14/tv-10080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-10080-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-10080-512px.jpg 512w,
+  ./../images/DIU14/bd-10080-768px.jpg 768w,
+  ./../images/DIU14/bd-10080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -96,8 +194,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - Same as the last one here, plus a slightly lighter overlay texture on top of Rohan:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-10285.jpg" />
- <img src="./../images/DIU14/bd-10285.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-10285-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-10285-512px.jpg 512w,
+  ./../images/DIU14/tv-10285-768px.jpg 768w,
+  ./../images/DIU14/tv-10285-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-10285-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-10285-512px.jpg 512w,
+  ./../images/DIU14/bd-10285-768px.jpg 768w,
+  ./../images/DIU14/bd-10285-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -105,8 +217,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - Come on and lick that uncensored spider already:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-10350.jpg" />
- <img src="./../images/DIU14/bd-10350.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-10350-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-10350-512px.jpg 512w,
+  ./../images/DIU14/tv-10350-768px.jpg 768w,
+  ./../images/DIU14/tv-10350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-10350-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-10350-512px.jpg 512w,
+  ./../images/DIU14/bd-10350-768px.jpg 768w,
+  ./../images/DIU14/bd-10350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -121,8 +247,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - Here, they drew the missing chest pockets on Rohan's coat thingie, and his jaw has also been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-10566.jpg" />
- <img src="./../images/DIU14/bd-10566.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-10566-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-10566-512px.jpg 512w,
+  ./../images/DIU14/tv-10566-768px.jpg 768w,
+  ./../images/DIU14/tv-10566-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-10566-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-10566-512px.jpg 512w,
+  ./../images/DIU14/bd-10566-768px.jpg 768w,
+  ./../images/DIU14/bd-10566-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -130,8 +270,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - Rohan's chest pockets again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-11050.jpg" />
- <img src="./../images/DIU14/bd-11050.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-11050-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-11050-512px.jpg 512w,
+  ./../images/DIU14/tv-11050-768px.jpg 768w,
+  ./../images/DIU14/tv-11050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-11050-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-11050-512px.jpg 512w,
+  ./../images/DIU14/bd-11050-768px.jpg 768w,
+  ./../images/DIU14/bd-11050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -139,8 +293,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - In a couple of TV frames, Rohan's left earring was not connected to his ear. You can guess that they fixed that in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-11095.jpg" />
- <img src="./../images/DIU14/bd-11095.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-11095-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-11095-512px.jpg 512w,
+  ./../images/DIU14/tv-11095-768px.jpg 768w,
+  ./../images/DIU14/tv-11095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-11095-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-11095-512px.jpg 512w,
+  ./../images/DIU14/bd-11095-768px.jpg 768w,
+  ./../images/DIU14/bd-11095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -148,8 +316,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - In this comparison there are three differences: the trash bin on the left of the table, the... How do you call that bit of decoration that goes under the tables? Anyway, that, and Rohan's shadow:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-17325.jpg" />
- <img src="./../images/DIU14/bd-17325.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-17325-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-17325-512px.jpg 512w,
+  ./../images/DIU14/tv-17325-768px.jpg 768w,
+  ./../images/DIU14/tv-17325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-17325-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-17325-512px.jpg 512w,
+  ./../images/DIU14/bd-17325-768px.jpg 768w,
+  ./../images/DIU14/bd-17325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -157,8 +339,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - The hole in Koichi's chest is shaped differently here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-17710.jpg" />
- <img src="./../images/DIU14/bd-17710.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-17710-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-17710-512px.jpg 512w,
+  ./../images/DIU14/tv-17710-768px.jpg 768w,
+  ./../images/DIU14/tv-17710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-17710-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-17710-512px.jpg 512w,
+  ./../images/DIU14/bd-17710-768px.jpg 768w,
+  ./../images/DIU14/bd-17710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -173,8 +369,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - The shading on Koichi's eye is darker here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-19790.jpg" />
- <img src="./../images/DIU14/bd-19790.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-19790-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-19790-512px.jpg 512w,
+  ./../images/DIU14/tv-19790-768px.jpg 768w,
+  ./../images/DIU14/tv-19790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-19790-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-19790-512px.jpg 512w,
+  ./../images/DIU14/bd-19790-768px.jpg 768w,
+  ./../images/DIU14/bd-19790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -182,8 +392,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - And again here; plus, the column in the middle of his face-book (I swear to god this was not an intentional pun) is darker. As a kind anon pointed out, a character in the book itself has also been corrected: it is the last one of 小林玉実 (Kobayashi Tamami)'s name, which was spelled incorrectly as 小林玉美. Funnily enough, that last character (美) means "beautiful, pretty", and can usually be found in female names:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-19840.jpg" />
- <img src="./../images/DIU14/bd-19840.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-19840-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-19840-512px.jpg 512w,
+  ./../images/DIU14/tv-19840-768px.jpg 768w,
+  ./../images/DIU14/tv-19840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-19840-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-19840-512px.jpg 512w,
+  ./../images/DIU14/bd-19840-768px.jpg 768w,
+  ./../images/DIU14/bd-19840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -191,8 +415,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - All the shadows on Koichi's Heaven's Door books are darker here, and the book texture on his face (better now?) has been shifted down by a couple of pixels:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-20070.jpg" />
- <img src="./../images/DIU14/bd-20070.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-20070-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-20070-512px.jpg 512w,
+  ./../images/DIU14/tv-20070-768px.jpg 768w,
+  ./../images/DIU14/tv-20070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-20070-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-20070-512px.jpg 512w,
+  ./../images/DIU14/bd-20070-768px.jpg 768w,
+  ./../images/DIU14/bd-20070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -200,8 +438,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - In a bunch of scenes where Koichi is not shot straight from the front, the texture of the book on his face has been slightly warped and shaded better, to make it look less flat:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-21100.jpg" />
- <img src="./../images/DIU14/bd-21100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-21100-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-21100-512px.jpg 512w,
+  ./../images/DIU14/tv-21100-768px.jpg 768w,
+  ./../images/DIU14/tv-21100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-21100-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-21100-512px.jpg 512w,
+  ./../images/DIU14/bd-21100-768px.jpg 768w,
+  ./../images/DIU14/bd-21100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -209,8 +461,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - Here, the BDs added a tiny book on Koichi's ear:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-21290.jpg" />
- <img src="./../images/DIU14/bd-21290.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-21290-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-21290-512px.jpg 512w,
+  ./../images/DIU14/tv-21290-768px.jpg 768w,
+  ./../images/DIU14/tv-21290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-21290-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-21290-512px.jpg 512w,
+  ./../images/DIU14/bd-21290-768px.jpg 768w,
+  ./../images/DIU14/bd-21290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -225,8 +491,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - Once again here, we have a warped book texture on Koichi's face; all the remaining book textures have also been shaded better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-21850.jpg" />
- <img src="./../images/DIU14/bd-21850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-21850-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-21850-512px.jpg 512w,
+  ./../images/DIU14/tv-21850-768px.jpg 768w,
+  ./../images/DIU14/tv-21850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-21850-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-21850-512px.jpg 512w,
+  ./../images/DIU14/bd-21850-768px.jpg 768w,
+  ./../images/DIU14/bd-21850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -234,8 +514,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - Here, they added several tiny books on Koichi's hands and fingers, and consequently shortened his uniform's right sleeve:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-24900.jpg" />
- <img src="./../images/DIU14/bd-24900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-24900-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-24900-512px.jpg 512w,
+  ./../images/DIU14/tv-24900-768px.jpg 768w,
+  ./../images/DIU14/tv-24900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-24900-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-24900-512px.jpg 512w,
+  ./../images/DIU14/bd-24900-768px.jpg 768w,
+  ./../images/DIU14/bd-24900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -243,8 +537,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - Here, the neck book's missing texture has been drawn in:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-27150.jpg" />
- <img src="./../images/DIU14/bd-27150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-27150-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-27150-512px.jpg 512w,
+  ./../images/DIU14/tv-27150-768px.jpg 768w,
+  ./../images/DIU14/tv-27150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-27150-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-27150-512px.jpg 512w,
+  ./../images/DIU14/bd-27150-768px.jpg 768w,
+  ./../images/DIU14/bd-27150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -252,22 +560,64 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - In this scene of Koichi opening the door to Rohan's house, there are a number of small differences. His bag is way more detailed, the door is now level with the right side, the arm bangle... thing on his right wrist is shaded differently, as he enters there is a piece of uniform which was missing the highlight and is now fixed, and some parts of the door have a brighter shading:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-30800.jpg" />
- <img src="./../images/DIU14/bd-30800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-30800-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-30800-512px.jpg 512w,
+  ./../images/DIU14/tv-30800-768px.jpg 768w,
+  ./../images/DIU14/tv-30800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-30800-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-30800-512px.jpg 512w,
+  ./../images/DIU14/bd-30800-768px.jpg 768w,
+  ./../images/DIU14/bd-30800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-30830.jpg" />
- <img src="./../images/DIU14/bd-30830.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-30830-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-30830-512px.jpg 512w,
+  ./../images/DIU14/tv-30830-768px.jpg 768w,
+  ./../images/DIU14/tv-30830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-30830-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-30830-512px.jpg 512w,
+  ./../images/DIU14/bd-30830-768px.jpg 768w,
+  ./../images/DIU14/bd-30830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-30841.jpg" />
- <img src="./../images/DIU14/bd-30841.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-30841-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-30841-512px.jpg 512w,
+  ./../images/DIU14/tv-30841-768px.jpg 768w,
+  ./../images/DIU14/tv-30841-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-30841-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-30841-512px.jpg 512w,
+  ./../images/DIU14/bd-30841-768px.jpg 768w,
+  ./../images/DIU14/bd-30841-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -275,8 +625,22 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 - And we close off this comparison with this shot of Rohan's office! The thing on the right of his desk is slightly taller, and Rohan's trash bin now complies with regular Earth perspective normatives:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU14/tv-31639.jpg" />
- <img src="./../images/DIU14/bd-31639.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/tv-31639-1090px.jpg"
+  data-srcset="./../images/DIU14/tv-31639-512px.jpg 512w,
+  ./../images/DIU14/tv-31639-768px.jpg 768w,
+  ./../images/DIU14/tv-31639-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU14/bd-31639-1090px.jpg"
+  data-srcset="./../images/DIU14/bd-31639-512px.jpg 512w,
+  ./../images/DIU14/bd-31639-768px.jpg 768w,
+  ./../images/DIU14/bd-31639-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

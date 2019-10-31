@@ -19,15 +19,43 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Today's first comparison is this couple of shots in which Kira's face and hair have been retouched and reshaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-00600.jpg" />
- <img src="./../images/DIU36/bd-00600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-00600-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-00600-512px.jpg 512w,
+  ./../images/DIU36/tv-00600-768px.jpg 768w,
+  ./../images/DIU36/tv-00600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-00600-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-00600-512px.jpg 512w,
+  ./../images/DIU36/bd-00600-768px.jpg 768w,
+  ./../images/DIU36/bd-00600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-00740.jpg" />
- <img src="./../images/DIU36/bd-00740.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-00740-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-00740-512px.jpg 512w,
+  ./../images/DIU36/tv-00740-768px.jpg 768w,
+  ./../images/DIU36/tv-00740-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-00740-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-00740-512px.jpg 512w,
+  ./../images/DIU36/bd-00740-768px.jpg 768w,
+  ./../images/DIU36/bd-00740-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -35,8 +63,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - You vs. the son your mother tells you not to worry about:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-01650.jpg" />
- <img src="./../images/DIU36/bd-01650.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-01650-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-01650-512px.jpg 512w,
+  ./../images/DIU36/tv-01650-768px.jpg 768w,
+  ./../images/DIU36/tv-01650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-01650-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-01650-512px.jpg 512w,
+  ./../images/DIU36/bd-01650-768px.jpg 768w,
+  ./../images/DIU36/bd-01650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -44,8 +86,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - The clock face and numbers have been retouched again here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-02850.jpg" />
- <img src="./../images/DIU36/bd-02850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-02850-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-02850-512px.jpg 512w,
+  ./../images/DIU36/tv-02850-768px.jpg 768w,
+  ./../images/DIU36/tv-02850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-02850-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-02850-512px.jpg 512w,
+  ./../images/DIU36/bd-02850-768px.jpg 768w,
+  ./../images/DIU36/bd-02850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -53,15 +109,43 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Here we have a shot of Hayato with a whole bunch of differences. In random order: his book half has been re-shaded, the shade below his neck is different, the inside of his mouth is a flat colour instead of being shaded, his eyes have been re-shaded, the onomatopoeia has bigger, more jagged borders and the colour gradient on it is different. Oh, and his mouth also moves in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-03340.jpg" />
- <img src="./../images/DIU36/bd-03340.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-03340-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-03340-512px.jpg 512w,
+  ./../images/DIU36/tv-03340-768px.jpg 768w,
+  ./../images/DIU36/tv-03340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-03340-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-03340-512px.jpg 512w,
+  ./../images/DIU36/bd-03340-768px.jpg 768w,
+  ./../images/DIU36/bd-03340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-03383.jpg" />
- <img src="./../images/DIU36/bd-03383.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-03383-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-03383-512px.jpg 512w,
+  ./../images/DIU36/tv-03383-768px.jpg 768w,
+  ./../images/DIU36/tv-03383-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-03383-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-03383-512px.jpg 512w,
+  ./../images/DIU36/bd-03383-768px.jpg 768w,
+  ./../images/DIU36/bd-03383-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -74,8 +158,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Hayato's mouth has been animated again here, and the shade around his mouth and eye are different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-03490.jpg" />
- <img src="./../images/DIU36/bd-03490.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-03490-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-03490-512px.jpg 512w,
+  ./../images/DIU36/tv-03490-768px.jpg 768w,
+  ./../images/DIU36/tv-03490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-03490-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-03490-512px.jpg 512w,
+  ./../images/DIU36/bd-03490-768px.jpg 768w,
+  ./../images/DIU36/bd-03490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -88,8 +186,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Here, the book half of Hayato's face has way less lines on it:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-03810.jpg" />
- <img src="./../images/DIU36/bd-03810.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-03810-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-03810-512px.jpg 512w,
+  ./../images/DIU36/tv-03810-768px.jpg 768w,
+  ./../images/DIU36/tv-03810-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-03810-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-03810-512px.jpg 512w,
+  ./../images/DIU36/bd-03810-768px.jpg 768w,
+  ./../images/DIU36/bd-03810-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -97,8 +209,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Kira's tie is darker here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-06290.jpg" />
- <img src="./../images/DIU36/bd-06290.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-06290-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-06290-512px.jpg 512w,
+  ./../images/DIU36/tv-06290-768px.jpg 768w,
+  ./../images/DIU36/tv-06290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-06290-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-06290-512px.jpg 512w,
+  ./../images/DIU36/bd-06290-768px.jpg 768w,
+  ./../images/DIU36/bd-06290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -106,8 +232,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - In this shot Kira's chin has been shaded properly, and the insides of his mouth are darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-06580.jpg" />
- <img src="./../images/DIU36/bd-06580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-06580-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-06580-512px.jpg 512w,
+  ./../images/DIU36/tv-06580-768px.jpg 768w,
+  ./../images/DIU36/tv-06580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-06580-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-06580-512px.jpg 512w,
+  ./../images/DIU36/bd-06580-768px.jpg 768w,
+  ./../images/DIU36/bd-06580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -115,15 +255,43 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Hayato's face has been redrawn here, and in the last couple of frames the shading on his backpack's left shoulder strap has been inverted:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-06800.jpg" />
- <img src="./../images/DIU36/bd-06800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-06800-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-06800-512px.jpg 512w,
+  ./../images/DIU36/tv-06800-768px.jpg 768w,
+  ./../images/DIU36/tv-06800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-06800-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-06800-512px.jpg 512w,
+  ./../images/DIU36/bd-06800-768px.jpg 768w,
+  ./../images/DIU36/bd-06800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-06945.jpg" />
- <img src="./../images/DIU36/bd-06945.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-06945-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-06945-512px.jpg 512w,
+  ./../images/DIU36/tv-06945-768px.jpg 768w,
+  ./../images/DIU36/tv-06945-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-06945-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-06945-512px.jpg 512w,
+  ./../images/DIU36/bd-06945-768px.jpg 768w,
+  ./../images/DIU36/bd-06945-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -131,8 +299,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Here we have two spots which have a slightly darker shade in the BDs: one is near Hayato's nose, and the other is on the left side of Kira's head:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-07000.jpg" />
- <img src="./../images/DIU36/bd-07000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-07000-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-07000-512px.jpg 512w,
+  ./../images/DIU36/tv-07000-768px.jpg 768w,
+  ./../images/DIU36/tv-07000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-07000-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-07000-512px.jpg 512w,
+  ./../images/DIU36/bd-07000-768px.jpg 768w,
+  ./../images/DIU36/bd-07000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -140,8 +322,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - And here we can see that background Kira has been shaded slightly darker as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-07165.jpg" />
- <img src="./../images/DIU36/bd-07165.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-07165-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-07165-512px.jpg 512w,
+  ./../images/DIU36/tv-07165-768px.jpg 768w,
+  ./../images/DIU36/tv-07165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-07165-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-07165-512px.jpg 512w,
+  ./../images/DIU36/bd-07165-768px.jpg 768w,
+  ./../images/DIU36/bd-07165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -156,15 +352,43 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Rohan has no right earring in these two shots (because it fell off during the explosion):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-08460.jpg" />
- <img src="./../images/DIU36/bd-08460.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-08460-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-08460-512px.jpg 512w,
+  ./../images/DIU36/tv-08460-768px.jpg 768w,
+  ./../images/DIU36/tv-08460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-08460-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-08460-512px.jpg 512w,
+  ./../images/DIU36/bd-08460-768px.jpg 768w,
+  ./../images/DIU36/bd-08460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-08470.jpg" />
- <img src="./../images/DIU36/bd-08470.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-08470-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-08470-512px.jpg 512w,
+  ./../images/DIU36/tv-08470-768px.jpg 768w,
+  ./../images/DIU36/tv-08470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-08470-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-08470-512px.jpg 512w,
+  ./../images/DIU36/bd-08470-768px.jpg 768w,
+  ./../images/DIU36/bd-08470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -172,15 +396,43 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Did someone order a dead dog? Did I already say this exact same thing on this blog before? We will never know:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-08530.jpg" />
- <img src="./../images/DIU36/bd-08530.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-08530-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-08530-512px.jpg 512w,
+  ./../images/DIU36/tv-08530-768px.jpg 768w,
+  ./../images/DIU36/tv-08530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-08530-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-08530-512px.jpg 512w,
+  ./../images/DIU36/bd-08530-768px.jpg 768w,
+  ./../images/DIU36/bd-08530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-08605.jpg" />
- <img src="./../images/DIU36/bd-08605.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-08605-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-08605-512px.jpg 512w,
+  ./../images/DIU36/tv-08605-768px.jpg 768w,
+  ./../images/DIU36/tv-08605-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-08605-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-08605-512px.jpg 512w,
+  ./../images/DIU36/bd-08605-768px.jpg 768w,
+  ./../images/DIU36/bd-08605-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -188,15 +440,43 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Rohan's earring has once again disappeared from the BDs, and when the camera pulls away his face has been very very slightly retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-08635.jpg" />
- <img src="./../images/DIU36/bd-08635.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-08635-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-08635-512px.jpg 512w,
+  ./../images/DIU36/tv-08635-768px.jpg 768w,
+  ./../images/DIU36/tv-08635-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-08635-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-08635-512px.jpg 512w,
+  ./../images/DIU36/bd-08635-768px.jpg 768w,
+  ./../images/DIU36/bd-08635-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-08702.jpg" />
- <img src="./../images/DIU36/bd-08702.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-08702-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-08702-512px.jpg 512w,
+  ./../images/DIU36/tv-08702-768px.jpg 768w,
+  ./../images/DIU36/tv-08702-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-08702-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-08702-512px.jpg 512w,
+  ./../images/DIU36/bd-08702-768px.jpg 768w,
+  ./../images/DIU36/bd-08702-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -204,8 +484,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - In this shot Hayato has a retouched face, and the BDs have removed that thing from Josuke's uniform. I like to imagine that it's a big yellow button that says HONK IF YOU LOVE MY HAIR:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-12970.jpg" />
- <img src="./../images/DIU36/bd-12970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-12970-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-12970-512px.jpg 512w,
+  ./../images/DIU36/tv-12970-768px.jpg 768w,
+  ./../images/DIU36/tv-12970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-12970-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-12970-512px.jpg 512w,
+  ./../images/DIU36/bd-12970-768px.jpg 768w,
+  ./../images/DIU36/bd-12970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -213,8 +507,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Here, Hayato has a new shade on his neck, and his waistcoat has an extra line running along its inner edges (there's probably a fancy sartorial word to refer to that, but I have no idea what it is):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-13060.jpg" />
- <img src="./../images/DIU36/bd-13060.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-13060-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-13060-512px.jpg 512w,
+  ./../images/DIU36/tv-13060-768px.jpg 768w,
+  ./../images/DIU36/tv-13060-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-13060-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-13060-512px.jpg 512w,
+  ./../images/DIU36/bd-13060-768px.jpg 768w,
+  ./../images/DIU36/bd-13060-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -222,8 +530,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Josuke is plain looking better here, and his Pomp Has Been Enlarged:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-13285.jpg" />
- <img src="./../images/DIU36/bd-13285.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-13285-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-13285-512px.jpg 512w,
+  ./../images/DIU36/tv-13285-768px.jpg 768w,
+  ./../images/DIU36/tv-13285-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-13285-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-13285-512px.jpg 512w,
+  ./../images/DIU36/bd-13285-768px.jpg 768w,
+  ./../images/DIU36/bd-13285-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -231,8 +553,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Hayato doesn't seem too pleased with the fact that God has cast one of His most potent tractor beams on his ass, and his name tag has also been drawn on his backpack:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-13870.jpg" />
- <img src="./../images/DIU36/bd-13870.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-13870-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-13870-512px.jpg 512w,
+  ./../images/DIU36/tv-13870-768px.jpg 768w,
+  ./../images/DIU36/tv-13870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-13870-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-13870-512px.jpg 512w,
+  ./../images/DIU36/bd-13870-768px.jpg 768w,
+  ./../images/DIU36/bd-13870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -247,8 +583,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Hayato's face is looking slightly better here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-17000.jpg" />
- <img src="./../images/DIU36/bd-17000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-17000-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-17000-512px.jpg 512w,
+  ./../images/DIU36/tv-17000-768px.jpg 768w,
+  ./../images/DIU36/tv-17000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-17000-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-17000-512px.jpg 512w,
+  ./../images/DIU36/bd-17000-768px.jpg 768w,
+  ./../images/DIU36/bd-17000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -256,15 +606,43 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - In these two shots here, the blanket Stray Cat's sleeping on has received a healthy amount of highlights, poor Stray Cat has its leaves back and his eyes have been retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-23070.jpg" />
- <img src="./../images/DIU36/bd-23070.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-23070-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-23070-512px.jpg 512w,
+  ./../images/DIU36/tv-23070-768px.jpg 768w,
+  ./../images/DIU36/tv-23070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-23070-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-23070-512px.jpg 512w,
+  ./../images/DIU36/bd-23070-768px.jpg 768w,
+  ./../images/DIU36/bd-23070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-23100.jpg" />
- <img src="./../images/DIU36/bd-23100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-23100-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-23100-512px.jpg 512w,
+  ./../images/DIU36/tv-23100-768px.jpg 768w,
+  ./../images/DIU36/tv-23100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-23100-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-23100-512px.jpg 512w,
+  ./../images/DIU36/bd-23100-768px.jpg 768w,
+  ./../images/DIU36/bd-23100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -272,8 +650,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Kira's face is looking better here, and his tie and buttons have both been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-24105.jpg" />
- <img src="./../images/DIU36/bd-24105.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-24105-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-24105-512px.jpg 512w,
+  ./../images/DIU36/tv-24105-768px.jpg 768w,
+  ./../images/DIU36/tv-24105-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-24105-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-24105-512px.jpg 512w,
+  ./../images/DIU36/bd-24105-768px.jpg 768w,
+  ./../images/DIU36/bd-24105-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -281,8 +673,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Kira's eyes have been retouched here, and the top of Shinobu's head has a slightly darker shade:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-25400.jpg" />
- <img src="./../images/DIU36/bd-25400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-25400-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-25400-512px.jpg 512w,
+  ./../images/DIU36/tv-25400-768px.jpg 768w,
+  ./../images/DIU36/tv-25400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-25400-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-25400-512px.jpg 512w,
+  ./../images/DIU36/bd-25400-768px.jpg 768w,
+  ./../images/DIU36/bd-25400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -290,8 +696,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - For some reason in the BDs Hayato has not yet finished putting his backpack on, so his right shoulder strap is still hanging:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-26120.jpg" />
- <img src="./../images/DIU36/bd-26120.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-26120-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-26120-512px.jpg 512w,
+  ./../images/DIU36/tv-26120-768px.jpg 768w,
+  ./../images/DIU36/tv-26120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-26120-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-26120-512px.jpg 512w,
+  ./../images/DIU36/bd-26120-768px.jpg 768w,
+  ./../images/DIU36/bd-26120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -299,8 +719,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Both Kira and Shinobu's faces have been retouched here, and Kira's tie is looking better as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-26285.jpg" />
- <img src="./../images/DIU36/bd-26285.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-26285-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-26285-512px.jpg 512w,
+  ./../images/DIU36/tv-26285-768px.jpg 768w,
+  ./../images/DIU36/tv-26285-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-26285-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-26285-512px.jpg 512w,
+  ./../images/DIU36/bd-26285-768px.jpg 768w,
+  ./../images/DIU36/bd-26285-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -308,8 +742,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - The right strap is, once again, no longer on Hayato's shoulder, and for some reason he's wearing A shoe now. Yes, only one. He's still wearing just a sock on his other foot. Apologies for the uninteresting frame, but it's the only one in which both differences can be seen at once:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-26295.jpg" />
- <img src="./../images/DIU36/bd-26295.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-26295-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-26295-512px.jpg 512w,
+  ./../images/DIU36/tv-26295-768px.jpg 768w,
+  ./../images/DIU36/tv-26295-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-26295-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-26295-512px.jpg 512w,
+  ./../images/DIU36/bd-26295-768px.jpg 768w,
+  ./../images/DIU36/bd-26295-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -317,8 +765,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - This scene here is more zoomed out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-26475.jpg" />
- <img src="./../images/DIU36/bd-26475.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-26475-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-26475-512px.jpg 512w,
+  ./../images/DIU36/tv-26475-768px.jpg 768w,
+  ./../images/DIU36/tv-26475-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-26475-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-26475-512px.jpg 512w,
+  ./../images/DIU36/bd-26475-768px.jpg 768w,
+  ./../images/DIU36/bd-26475-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -326,8 +788,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - In this shot, Hayato's eyes have been moved so that he's looking more to the left, Kira is no longer holding his bag but instead has Hayato's hat (in the opposite hand):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-29000.jpg" />
- <img src="./../images/DIU36/bd-29000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-29000-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-29000-512px.jpg 512w,
+  ./../images/DIU36/tv-29000-768px.jpg 768w,
+  ./../images/DIU36/tv-29000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-29000-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-29000-512px.jpg 512w,
+  ./../images/DIU36/bd-29000-768px.jpg 768w,
+  ./../images/DIU36/bd-29000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -335,8 +811,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Rohan no longer looks 100% disgusted with everything here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-29100.jpg" />
- <img src="./../images/DIU36/bd-29100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-29100-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-29100-512px.jpg 512w,
+  ./../images/DIU36/tv-29100-768px.jpg 768w,
+  ./../images/DIU36/tv-29100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-29100-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-29100-512px.jpg 512w,
+  ./../images/DIU36/bd-29100-768px.jpg 768w,
+  ./../images/DIU36/bd-29100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -344,8 +834,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Hayato's eyes and nose have been redrawn here, Kira's face looks a bit better and Hayato's hat has swapped hands:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-29120.jpg" />
- <img src="./../images/DIU36/bd-29120.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-29120-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-29120-512px.jpg 512w,
+  ./../images/DIU36/tv-29120-768px.jpg 768w,
+  ./../images/DIU36/tv-29120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-29120-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-29120-512px.jpg 512w,
+  ./../images/DIU36/bd-29120-768px.jpg 768w,
+  ./../images/DIU36/bd-29120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -353,22 +857,64 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Hayato's left eye is now encircled by what will become the eye hole of his book:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-29230.jpg" />
- <img src="./../images/DIU36/bd-29230.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-29230-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-29230-512px.jpg 512w,
+  ./../images/DIU36/tv-29230-768px.jpg 768w,
+  ./../images/DIU36/tv-29230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-29230-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-29230-512px.jpg 512w,
+  ./../images/DIU36/bd-29230-768px.jpg 768w,
+  ./../images/DIU36/bd-29230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-29300.jpg" />
- <img src="./../images/DIU36/bd-29300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-29300-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-29300-512px.jpg 512w,
+  ./../images/DIU36/tv-29300-768px.jpg 768w,
+  ./../images/DIU36/tv-29300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-29300-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-29300-512px.jpg 512w,
+  ./../images/DIU36/bd-29300-768px.jpg 768w,
+  ./../images/DIU36/bd-29300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-31250.jpg" />
- <img src="./../images/DIU36/bd-31250.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-31250-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-31250-512px.jpg 512w,
+  ./../images/DIU36/tv-31250-768px.jpg 768w,
+  ./../images/DIU36/tv-31250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-31250-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-31250-512px.jpg 512w,
+  ./../images/DIU36/bd-31250-768px.jpg 768w,
+  ./../images/DIU36/bd-31250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -376,8 +922,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Kira now opens his mouth while talking, in this bit here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-31325.jpg" />
- <img src="./../images/DIU36/bd-31325.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-31325-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-31325-512px.jpg 512w,
+  ./../images/DIU36/tv-31325-768px.jpg 768w,
+  ./../images/DIU36/tv-31325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-31325-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-31325-512px.jpg 512w,
+  ./../images/DIU36/bd-31325-768px.jpg 768w,
+  ./../images/DIU36/bd-31325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -385,8 +945,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - His tie, belt and mouth have also been retouched, here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-31390.jpg" />
- <img src="./../images/DIU36/bd-31390.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-31390-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-31390-512px.jpg 512w,
+  ./../images/DIU36/tv-31390-768px.jpg 768w,
+  ./../images/DIU36/tv-31390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-31390-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-31390-512px.jpg 512w,
+  ./../images/DIU36/bd-31390-768px.jpg 768w,
+  ./../images/DIU36/bd-31390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -394,8 +968,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - The hole Stray Cat made has no longer disappeared in thin air:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-32075.jpg" />
- <img src="./../images/DIU36/bd-32075.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-32075-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-32075-512px.jpg 512w,
+  ./../images/DIU36/tv-32075-768px.jpg 768w,
+  ./../images/DIU36/tv-32075-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-32075-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-32075-512px.jpg 512w,
+  ./../images/DIU36/bd-32075-768px.jpg 768w,
+  ./../images/DIU36/bd-32075-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -403,8 +991,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Here, Hayato's mouth has been closed, his eyes have been retouched and Killer Queen looks overall better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-32602.jpg" />
- <img src="./../images/DIU36/bd-32602.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-32602-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-32602-512px.jpg 512w,
+  ./../images/DIU36/tv-32602-768px.jpg 768w,
+  ./../images/DIU36/tv-32602-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-32602-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-32602-512px.jpg 512w,
+  ./../images/DIU36/bd-32602-768px.jpg 768w,
+  ./../images/DIU36/bd-32602-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -419,8 +1021,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Here, the big shade on Kira's hand has been turned into a highlight; they also drew the hole in his suit and removed a line on the left side of his pocket:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-33060.jpg" />
- <img src="./../images/DIU36/bd-33060.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-33060-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-33060-512px.jpg 512w,
+  ./../images/DIU36/tv-33060-768px.jpg 768w,
+  ./../images/DIU36/tv-33060-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-33060-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-33060-512px.jpg 512w,
+  ./../images/DIU36/bd-33060-768px.jpg 768w,
+  ./../images/DIU36/bd-33060-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -428,8 +1044,22 @@ Hey hey, everyone, welcome back! Sorry for the skipped week, but my code editor 
 - Here, Kira's shirt and tie have been redrawn, his neck has been shaded more and one of the lines on his eyes is a bit thicker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU36/tv-33450.jpg" />
- <img src="./../images/DIU36/bd-33450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/tv-33450-1090px.jpg"
+  data-srcset="./../images/DIU36/tv-33450-512px.jpg 512w,
+  ./../images/DIU36/tv-33450-768px.jpg 768w,
+  ./../images/DIU36/tv-33450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU36/bd-33450-1090px.jpg"
+  data-srcset="./../images/DIU36/bd-33450-512px.jpg 512w,
+  ./../images/DIU36/bd-33450-768px.jpg 768w,
+  ./../images/DIU36/bd-33450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

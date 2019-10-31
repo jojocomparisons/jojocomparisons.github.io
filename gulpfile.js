@@ -26,7 +26,7 @@ var gulpIgnore = require('gulp-ignore');
 
 gulp.task('create-thumbnails', function () {
   return gulp
-    .src('source/images/VA27/{bd,tv}-*.jpg')
+    .src('source/images/HOWTO/{bd,tv}-*.jpg')
     .pipe(
       $.responsive(
         {
@@ -45,12 +45,12 @@ gulp.task('create-thumbnails', function () {
         }
       )
     )
-    .pipe(gulp.dest('source/images/VA27/src'))
+    .pipe(gulp.dest('source/images/HOWTO/src'))
 });
 
 gulp.task('enlarge-thumbnails', gulp.series('create-thumbnails', function() {
   return gulp
-    .src('source/images/VA27/src/{bd,tv}-*.jpg')
+    .src('source/images/HOWTO/src/{bd,tv}-*.jpg')
     .pipe(
       $.responsive(
         {
@@ -66,12 +66,12 @@ gulp.task('enlarge-thumbnails', gulp.series('create-thumbnails', function() {
         }
       )
     )
-    .pipe(gulp.dest('source/images/VA27/src', {overwrite: true}))
+    .pipe(gulp.dest('source/images/HOWTO/src', {overwrite: true}))
 }));
 
 gulp.task('thumbnails', gulp.series('enlarge-thumbnails', function() {
   return gulp
-    .src('source/images/VA27/src/{bd,tv}-*.jpg')
+    .src('source/images/HOWTO/src/{bd,tv}-*.jpg')
     .pipe(
       $.responsive(
         {
@@ -82,27 +82,27 @@ gulp.task('thumbnails', gulp.series('enlarge-thumbnails', function() {
         }
       )
     )
-    .pipe(gulp.dest('source/images/VA27/src', {overwrite: true}))
+    .pipe(gulp.dest('source/images/HOWTO/src', {overwrite: true}))
 }));
 
 gulp.task('move', function() {
   return gulp
-  .src('source/images/VA27/!(*px|*headerJP)*.jpg')
-  .pipe(gulp.dest('../OCTOBACKUP/old-images/VA27'))
+  .src('source/images/HOWTO/!(*px|*header)*.png')
+  .pipe(gulp.dest('../OCTOBACKUP/old-images/HOWTO'))
 });
 
 gulp.task('clean', function() {
-  return del(['source/images/VA27/!(*px|*headerJP)*.jpg']);
+  return del(['source/images/HOWTO/!(*px|*header)*.png']);
 });
 
 gulp.task('create-responsive', function () {
   return gulp
-    .src('source/images/VA27/{bd,tv}*.jpg')
+    .src('source/images/HOWTO/*.png')
     .pipe(
       $.responsive(
         {
           // Resize all JPG images to three different sizes: 200, 500, and 630 pixels
-          '*.jpg': [
+          '*': [
             {
               width: 512,
               rename: { suffix: '-512px' }
@@ -126,19 +126,19 @@ gulp.task('create-responsive', function () {
         }
       )
     )
-    .pipe(gulp.dest('source/images/VA27'))
+    .pipe(gulp.dest('source/images/HOWTO'))
 });
 
 gulp.task('resize', gulp.series('create-responsive', 'move', 'clean'));
 
 gulp.task('resize-headers', function () {
   return gulp
-    .src('source/images/**/[0-9][0-9]-header*.jpg')
+    .src('source/images/HOWTO/header.jpg')
     .pipe(
       $.responsive(
         {
           // Resize all JPG images to three different sizes: 200, 500, and 630 pixels
-          '**/*.jpg':{
+          '*.jpg':{
               width: 1090,
               //rename: { suffix: '-1090px'},
               //width: 1090,
@@ -157,11 +157,11 @@ gulp.task('resize-headers', function () {
         }
       )
     )
-    .pipe(gulp.dest('source/images'))
+    .pipe(gulp.dest('source/images/HOWTO'))
 });
 
 gulp.task('count', function() {
-  return gulp.src('source/images/VA27/!(*px|*headerJP)*.jpg')
+  return gulp.src('source/images/HOWTO/!(*px|*headerJP)*.jpg')
     .pipe((function() {
       return new through.obj(function(file, enc, next) {
         gutil.log(file.path);

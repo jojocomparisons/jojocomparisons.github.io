@@ -23,8 +23,22 @@ Let's go!
 - Today's first comparison is this brighter shot of SHA right here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-09627.jpg" />
- <img src="./../images/DIU23/bd-09627.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-09627-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-09627-512px.jpg 512w,
+  ./../images/DIU23/tv-09627-768px.jpg 768w,
+  ./../images/DIU23/tv-09627-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-09627-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-09627-512px.jpg 512w,
+  ./../images/DIU23/bd-09627-768px.jpg 768w,
+  ./../images/DIU23/bd-09627-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -32,8 +46,22 @@ Let's go!
 - Both Koichi and Jotaro's faces have received a massive upgrade in this shot here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-09675.jpg" />
- <img src="./../images/DIU23/bd-09675.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-09675-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-09675-512px.jpg 512w,
+  ./../images/DIU23/tv-09675-768px.jpg 768w,
+  ./../images/DIU23/tv-09675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-09675-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-09675-512px.jpg 512w,
+  ./../images/DIU23/bd-09675-768px.jpg 768w,
+  ./../images/DIU23/bd-09675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -41,8 +69,22 @@ Let's go!
 - Jotaro now looks slightly less bored with the whole situation, and his hat no longer defies the three canonical dimensions:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-10200.jpg" />
- <img src="./../images/DIU23/bd-10200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-10200-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-10200-512px.jpg 512w,
+  ./../images/DIU23/tv-10200-768px.jpg 768w,
+  ./../images/DIU23/tv-10200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-10200-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-10200-512px.jpg 512w,
+  ./../images/DIU23/bd-10200-768px.jpg 768w,
+  ./../images/DIU23/bd-10200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -50,8 +92,22 @@ Let's go!
 - Okay, this is hilarious to me. In this shot, Koichi now has a bloody cut on his cheek, his right pupil has been retouched, but... Just. Just look at that Jotaro redraw:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-10247.jpg" />
- <img src="./../images/DIU23/bd-10247.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-10247-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-10247-512px.jpg 512w,
+  ./../images/DIU23/tv-10247-768px.jpg 768w,
+  ./../images/DIU23/tv-10247-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-10247-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-10247-512px.jpg 512w,
+  ./../images/DIU23/bd-10247-768px.jpg 768w,
+  ./../images/DIU23/bd-10247-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -59,8 +115,22 @@ Let's go!
 - In this shot, Jotaro has, once again, that weird purse-like thing on his belt, and the shadows beneath him and Koichi are slightly lighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-10395.jpg" />
- <img src="./../images/DIU23/bd-10395.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-10395-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-10395-512px.jpg 512w,
+  ./../images/DIU23/tv-10395-768px.jpg 768w,
+  ./../images/DIU23/tv-10395-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-10395-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-10395-512px.jpg 512w,
+  ./../images/DIU23/bd-10395-768px.jpg 768w,
+  ./../images/DIU23/bd-10395-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -68,8 +138,22 @@ Let's go!
 - Another brighter explosion here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-10973.jpg" />
- <img src="./../images/DIU23/bd-10973.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-10973-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-10973-512px.jpg 512w,
+  ./../images/DIU23/tv-10973-768px.jpg 768w,
+  ./../images/DIU23/tv-10973-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-10973-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-10973-512px.jpg 512w,
+  ./../images/DIU23/bd-10973-768px.jpg 768w,
+  ./../images/DIU23/bd-10973-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -77,8 +161,22 @@ Let's go!
 - The dust particles in the air from the SHA explosion are scattered differently in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-11060.jpg" />
- <img src="./../images/DIU23/bd-11060.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-11060-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-11060-512px.jpg 512w,
+  ./../images/DIU23/tv-11060-768px.jpg 768w,
+  ./../images/DIU23/tv-11060-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-11060-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-11060-512px.jpg 512w,
+  ./../images/DIU23/bd-11060-768px.jpg 768w,
+  ./../images/DIU23/bd-11060-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -86,8 +184,22 @@ Let's go!
 - In this shot, the missing wound has been, once again, drawn on Koichi's cheek:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-11153.jpg" />
- <img src="./../images/DIU23/bd-11153.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-11153-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-11153-512px.jpg 512w,
+  ./../images/DIU23/tv-11153-768px.jpg 768w,
+  ./../images/DIU23/tv-11153-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-11153-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-11153-512px.jpg 512w,
+  ./../images/DIU23/bd-11153-768px.jpg 768w,
+  ./../images/DIU23/bd-11153-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -95,8 +207,22 @@ Let's go!
 - Here, the usual pouch has been added, and the belt running across Jotaro's chest has also been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-11195.jpg" />
- <img src="./../images/DIU23/bd-11195.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-11195-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-11195-512px.jpg 512w,
+  ./../images/DIU23/tv-11195-768px.jpg 768w,
+  ./../images/DIU23/tv-11195-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-11195-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-11195-512px.jpg 512w,
+  ./../images/DIU23/bd-11195-768px.jpg 768w,
+  ./../images/DIU23/bd-11195-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -104,8 +230,22 @@ Let's go!
 - The wound on Jotaro's hand is bigger here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-12450.jpg" />
- <img src="./../images/DIU23/bd-12450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-12450-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-12450-512px.jpg 512w,
+  ./../images/DIU23/tv-12450-768px.jpg 768w,
+  ./../images/DIU23/tv-12450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-12450-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-12450-512px.jpg 512w,
+  ./../images/DIU23/bd-12450-768px.jpg 768w,
+  ./../images/DIU23/bd-12450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -120,8 +260,22 @@ Let's go!
 - Josuke's collar has been redrawn here, and the shading lines on both his neck and ear have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-23680.jpg" />
- <img src="./../images/DIU23/bd-23680.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-23680-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-23680-512px.jpg 512w,
+  ./../images/DIU23/tv-23680-768px.jpg 768w,
+  ./../images/DIU23/tv-23680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-23680-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-23680-512px.jpg 512w,
+  ./../images/DIU23/bd-23680-768px.jpg 768w,
+  ./../images/DIU23/bd-23680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -143,8 +297,22 @@ Let's go!
 - In this shot, the outlines are a bit thicker, and Koichi now has a gash on his back:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-29430.jpg" />
- <img src="./../images/DIU23/bd-29430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-29430-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-29430-512px.jpg 512w,
+  ./../images/DIU23/tv-29430-768px.jpg 768w,
+  ./../images/DIU23/tv-29430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-29430-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-29430-512px.jpg 512w,
+  ./../images/DIU23/bd-29430-768px.jpg 768w,
+  ./../images/DIU23/bd-29430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -152,15 +320,43 @@ Let's go!
 - In this shot, all the skulls on Kira's tie have been retouched, and he's also got an extra one; his neck, ears and mouth have also been shaded better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-30180.jpg" />
- <img src="./../images/DIU23/bd-30180.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-30180-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-30180-512px.jpg 512w,
+  ./../images/DIU23/tv-30180-768px.jpg 768w,
+  ./../images/DIU23/tv-30180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-30180-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-30180-512px.jpg 512w,
+  ./../images/DIU23/bd-30180-768px.jpg 768w,
+  ./../images/DIU23/bd-30180-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-30240.jpg" />
- <img src="./../images/DIU23/bd-30240.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-30240-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-30240-512px.jpg 512w,
+  ./../images/DIU23/tv-30240-768px.jpg 768w,
+  ./../images/DIU23/tv-30240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-30240-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-30240-512px.jpg 512w,
+  ./../images/DIU23/bd-30240-768px.jpg 768w,
+  ./../images/DIU23/bd-30240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -168,15 +364,43 @@ Let's go!
 - Koichi's face has been retouched in this couple of frames, and in the second one he's also shaded a bit better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-31360.jpg" />
- <img src="./../images/DIU23/bd-31360.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-31360-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-31360-512px.jpg 512w,
+  ./../images/DIU23/tv-31360-768px.jpg 768w,
+  ./../images/DIU23/tv-31360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-31360-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-31360-512px.jpg 512w,
+  ./../images/DIU23/bd-31360-768px.jpg 768w,
+  ./../images/DIU23/bd-31360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-31460.jpg" />
- <img src="./../images/DIU23/bd-31460.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-31460-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-31460-512px.jpg 512w,
+  ./../images/DIU23/tv-31460-768px.jpg 768w,
+  ./../images/DIU23/tv-31460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-31460-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-31460-512px.jpg 512w,
+  ./../images/DIU23/bd-31460-768px.jpg 768w,
+  ./../images/DIU23/bd-31460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -184,8 +408,22 @@ Let's go!
 - It's time for one last credit difference! In this part of the credits, the second-to-last kanji in the name of animator 福田周平 (Fukuda Shūhei) was mistakenly written as 修. While 周 and 修 may look different, their pronounciation is the same (しゅう, shū); therefore, this error was probably derived from a mistyped name. Have a look:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU23/tv-32640.jpg" />
- <img src="./../images/DIU23/bd-32640.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/tv-32640-1090px.jpg"
+  data-srcset="./../images/DIU23/tv-32640-512px.jpg 512w,
+  ./../images/DIU23/tv-32640-768px.jpg 768w,
+  ./../images/DIU23/tv-32640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU23/bd-32640-1090px.jpg"
+  data-srcset="./../images/DIU23/bd-32640-512px.jpg 512w,
+  ./../images/DIU23/bd-32640-768px.jpg 768w,
+  ./../images/DIU23/bd-32640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

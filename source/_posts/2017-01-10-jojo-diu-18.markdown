@@ -23,8 +23,22 @@ Let's get to it, then!
 - To start off this very brief comparison, both Okuyasu and Josuke's face have been retouched in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU18/tv-07765.jpg" />
- <img src="./../images/DIU18/bd-07765.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU18/tv-07765-1090px.jpg"
+  data-srcset="./../images/DIU18/tv-07765-512px.jpg 512w,
+  ./../images/DIU18/tv-07765-768px.jpg 768w,
+  ./../images/DIU18/tv-07765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU18/bd-07765-1090px.jpg"
+  data-srcset="./../images/DIU18/bd-07765-512px.jpg 512w,
+  ./../images/DIU18/bd-07765-768px.jpg 768w,
+  ./../images/DIU18/bd-07765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,15 +51,43 @@ Let's get to it, then!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU18/tv-18300.jpg" />
- <img src="./../images/DIU18/bd-18300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU18/tv-18300-1090px.jpg"
+  data-srcset="./../images/DIU18/tv-18300-512px.jpg 512w,
+  ./../images/DIU18/tv-18300-768px.jpg 768w,
+  ./../images/DIU18/tv-18300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU18/bd-18300-1090px.jpg"
+  data-srcset="./../images/DIU18/bd-18300-512px.jpg 512w,
+  ./../images/DIU18/bd-18300-768px.jpg 768w,
+  ./../images/DIU18/bd-18300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU18/tv-18440.jpg" />
- <img src="./../images/DIU18/bd-18440.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU18/tv-18440-1090px.jpg"
+  data-srcset="./../images/DIU18/tv-18440-512px.jpg 512w,
+  ./../images/DIU18/tv-18440-768px.jpg 768w,
+  ./../images/DIU18/tv-18440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU18/bd-18440-1090px.jpg"
+  data-srcset="./../images/DIU18/bd-18440-512px.jpg 512w,
+  ./../images/DIU18/bd-18440-768px.jpg 768w,
+  ./../images/DIU18/bd-18440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -53,8 +95,22 @@ Let's get to it, then!
 - Here we have an exclusive look at the invincible trio, enjoying one moment of rest. If you look on the front of the booklet Okuyasu's holding, you'll see that the ー in バンゴー (a katakana rendition of 番号, "number") has been coloured white:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU18/tv-28260.jpg" />
- <img src="./../images/DIU18/bd-28260.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU18/tv-28260-1090px.jpg"
+  data-srcset="./../images/DIU18/tv-28260-512px.jpg 512w,
+  ./../images/DIU18/tv-28260-768px.jpg 768w,
+  ./../images/DIU18/tv-28260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU18/bd-28260-1090px.jpg"
+  data-srcset="./../images/DIU18/bd-28260-512px.jpg 512w,
+  ./../images/DIU18/bd-28260-768px.jpg 768w,
+  ./../images/DIU18/bd-28260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -62,8 +118,22 @@ Let's get to it, then!
 - And then we have a couple of credits differences... Yeah, the episode itself is already over! In this first one, the グラフィックモデル制作協力 (Graphic Model Work Assistance) in the middle has been spaced differently:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU18/tv-32990.jpg" />
- <img src="./../images/DIU18/bd-32990.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU18/tv-32990-1090px.jpg"
+  data-srcset="./../images/DIU18/tv-32990-512px.jpg 512w,
+  ./../images/DIU18/tv-32990-768px.jpg 768w,
+  ./../images/DIU18/tv-32990-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU18/bd-32990-1090px.jpg"
+  data-srcset="./../images/DIU18/bd-32990-512px.jpg 512w,
+  ./../images/DIU18/bd-32990-768px.jpg 768w,
+  ./../images/DIU18/bd-32990-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -71,8 +141,22 @@ Let's get to it, then!
 - And here, the last kanji in animation director 渡邊葉瑠 (Watanabe Haru)'s name (on the right, bottom name on the left column) was previously mistakenly written as 溜 instead of 瑠 (the radical is 氵instead of 王). This was fixed in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU18/tv-33770.jpg" />
- <img src="./../images/DIU18/bd-33770.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU18/tv-33770-1090px.jpg"
+  data-srcset="./../images/DIU18/tv-33770-512px.jpg 512w,
+  ./../images/DIU18/tv-33770-768px.jpg 768w,
+  ./../images/DIU18/tv-33770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU18/bd-33770-1090px.jpg"
+  data-srcset="./../images/DIU18/bd-33770-512px.jpg 512w,
+  ./../images/DIU18/bd-33770-768px.jpg 768w,
+  ./../images/DIU18/bd-33770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

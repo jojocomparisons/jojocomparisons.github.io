@@ -26,8 +26,22 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 - The neck bit of Angelo has been trimmed, the rock is shaded slightly differently and his hair is a couple of millimeters longer:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU03/tv-08990.jpg" />
- <img src="./../images/DIU03/bd-08990.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/tv-08990-1090px.jpg"
+  data-srcset="./../images/DIU03/tv-08990-512px.jpg 512w,
+  ./../images/DIU03/tv-08990-768px.jpg 768w,
+  ./../images/DIU03/tv-08990-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/bd-08990-1090px.jpg"
+  data-srcset="./../images/DIU03/bd-08990-512px.jpg 512w,
+  ./../images/DIU03/bd-08990-768px.jpg 768w,
+  ./../images/DIU03/bd-08990-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -35,8 +49,22 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 - Josuke has an aura in this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU03/tv-09170.jpg" />
- <img src="./../images/DIU03/bd-09170.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/tv-09170-1090px.jpg"
+  data-srcset="./../images/DIU03/tv-09170-512px.jpg 512w,
+  ./../images/DIU03/tv-09170-768px.jpg 768w,
+  ./../images/DIU03/tv-09170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/bd-09170-1090px.jpg"
+  data-srcset="./../images/DIU03/bd-09170-512px.jpg 512w,
+  ./../images/DIU03/bd-09170-768px.jpg 768w,
+  ./../images/DIU03/bd-09170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -51,8 +79,22 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 - Bits of Jotaro's car have been changed from blue to black:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU03/tv-18580.jpg" />
- <img src="./../images/DIU03/bd-18580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/tv-18580-1090px.jpg"
+  data-srcset="./../images/DIU03/tv-18580-512px.jpg 512w,
+  ./../images/DIU03/tv-18580-768px.jpg 768w,
+  ./../images/DIU03/tv-18580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/bd-18580-1090px.jpg"
+  data-srcset="./../images/DIU03/bd-18580-512px.jpg 512w,
+  ./../images/DIU03/bd-18580-768px.jpg 768w,
+  ./../images/DIU03/bd-18580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -67,8 +109,22 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 - Likewise, here Enya's photo has been centered:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU03/tv-19430.jpg" />
- <img src="./../images/DIU03/bd-19430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/tv-19430-1090px.jpg"
+  data-srcset="./../images/DIU03/tv-19430-512px.jpg 512w,
+  ./../images/DIU03/tv-19430-768px.jpg 768w,
+  ./../images/DIU03/tv-19430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/bd-19430-1090px.jpg"
+  data-srcset="./../images/DIU03/bd-19430-512px.jpg 512w,
+  ./../images/DIU03/bd-19430-768px.jpg 768w,
+  ./../images/DIU03/bd-19430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -76,29 +132,85 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 - Koichi's neck wound has been uncensored:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU03/tv-20610.jpg" />
- <img src="./../images/DIU03/bd-20610.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/tv-20610-1090px.jpg"
+  data-srcset="./../images/DIU03/tv-20610-512px.jpg 512w,
+  ./../images/DIU03/tv-20610-768px.jpg 768w,
+  ./../images/DIU03/tv-20610-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/bd-20610-1090px.jpg"
+  data-srcset="./../images/DIU03/bd-20610-512px.jpg 512w,
+  ./../images/DIU03/bd-20610-768px.jpg 768w,
+  ./../images/DIU03/bd-20610-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU03/tv-20675.jpg" />
- <img src="./../images/DIU03/bd-20675.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/tv-20675-1090px.jpg"
+  data-srcset="./../images/DIU03/tv-20675-512px.jpg 512w,
+  ./../images/DIU03/tv-20675-768px.jpg 768w,
+  ./../images/DIU03/tv-20675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/bd-20675-1090px.jpg"
+  data-srcset="./../images/DIU03/bd-20675-512px.jpg 512w,
+  ./../images/DIU03/bd-20675-768px.jpg 768w,
+  ./../images/DIU03/bd-20675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU03/tv-21410.jpg" />
- <img src="./../images/DIU03/bd-21410.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/tv-21410-1090px.jpg"
+  data-srcset="./../images/DIU03/tv-21410-512px.jpg 512w,
+  ./../images/DIU03/tv-21410-768px.jpg 768w,
+  ./../images/DIU03/tv-21410-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/bd-21410-1090px.jpg"
+  data-srcset="./../images/DIU03/bd-21410-512px.jpg 512w,
+  ./../images/DIU03/bd-21410-768px.jpg 768w,
+  ./../images/DIU03/bd-21410-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU03/tv-24560.jpg" />
- <img src="./../images/DIU03/bd-24560.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/tv-24560-1090px.jpg"
+  data-srcset="./../images/DIU03/tv-24560-512px.jpg 512w,
+  ./../images/DIU03/tv-24560-768px.jpg 768w,
+  ./../images/DIU03/tv-24560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/bd-24560-1090px.jpg"
+  data-srcset="./../images/DIU03/bd-24560-512px.jpg 512w,
+  ./../images/DIU03/bd-24560-768px.jpg 768w,
+  ./../images/DIU03/bd-24560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -113,8 +225,22 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 - Okuyasu's right cheekbone has been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU03/tv-26535.jpg" />
- <img src="./../images/DIU03/bd-26535.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/tv-26535-1090px.jpg"
+  data-srcset="./../images/DIU03/tv-26535-512px.jpg 512w,
+  ./../images/DIU03/tv-26535-768px.jpg 768w,
+  ./../images/DIU03/tv-26535-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/bd-26535-1090px.jpg"
+  data-srcset="./../images/DIU03/bd-26535-512px.jpg 512w,
+  ./../images/DIU03/bd-26535-768px.jpg 768w,
+  ./../images/DIU03/bd-26535-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -122,8 +248,22 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 - Josuke has an aura in this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU03/tv-27900.jpg" />
- <img src="./../images/DIU03/bd-27900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/tv-27900-1090px.jpg"
+  data-srcset="./../images/DIU03/tv-27900-512px.jpg 512w,
+  ./../images/DIU03/tv-27900-768px.jpg 768w,
+  ./../images/DIU03/tv-27900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/bd-27900-1090px.jpg"
+  data-srcset="./../images/DIU03/bd-27900-512px.jpg 512w,
+  ./../images/DIU03/bd-27900-768px.jpg 768w,
+  ./../images/DIU03/bd-27900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -131,8 +271,22 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 - Koichi's neck wound is uncensored again in this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU03/tv-31700.jpg" />
- <img src="./../images/DIU03/bd-31700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/tv-31700-1090px.jpg"
+  data-srcset="./../images/DIU03/tv-31700-512px.jpg 512w,
+  ./../images/DIU03/tv-31700-768px.jpg 768w,
+  ./../images/DIU03/tv-31700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/bd-31700-1090px.jpg"
+  data-srcset="./../images/DIU03/bd-31700-512px.jpg 512w,
+  ./../images/DIU03/bd-31700-768px.jpg 768w,
+  ./../images/DIU03/bd-31700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -140,8 +294,22 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 - In the ending credits, 仕上げ ("Finishing touches") has been corrected to 仕上; this was not an error, since it can be written both ways, but it was probably done for consistency with the same word, used further down below in the same screenshot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU03/tv-32800.jpg" />
- <img src="./../images/DIU03/bd-32800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/tv-32800-1090px.jpg"
+  data-srcset="./../images/DIU03/tv-32800-512px.jpg 512w,
+  ./../images/DIU03/tv-32800-768px.jpg 768w,
+  ./../images/DIU03/tv-32800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU03/bd-32800-1090px.jpg"
+  data-srcset="./../images/DIU03/bd-32800-512px.jpg 512w,
+  ./../images/DIU03/bd-32800-768px.jpg 768w,
+  ./../images/DIU03/bd-32800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

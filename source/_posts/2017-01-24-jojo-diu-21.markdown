@@ -27,8 +27,22 @@ Let's get right to it!
 - Let's begin with a rather minor difference. In this scene of Kira putting a ring on her *girlfriend*'s hand, two very tiny bits on his nails were not properly coloured black; this has been fixed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-01231.jpg" />
- <img src="./../images/DIU21/bd-01231.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-01231-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-01231-512px.jpg 512w,
+  ./../images/DIU21/tv-01231-768px.jpg 768w,
+  ./../images/DIU21/tv-01231-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-01231-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-01231-512px.jpg 512w,
+  ./../images/DIU21/bd-01231-768px.jpg 768w,
+  ./../images/DIU21/bd-01231-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -36,8 +50,22 @@ Let's get right to it!
 - In this shot, the hand is uncensored; plus, the handkerchief and the plate with the toast have been swapped:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-01495.jpg" />
- <img src="./../images/DIU21/bd-01495.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-01495-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-01495-512px.jpg 512w,
+  ./../images/DIU21/tv-01495-768px.jpg 768w,
+  ./../images/DIU21/tv-01495-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-01495-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-01495-512px.jpg 512w,
+  ./../images/DIU21/bd-01495-768px.jpg 768w,
+  ./../images/DIU21/bd-01495-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -45,8 +73,22 @@ Let's get right to it!
 - Ah, the joy of choosing lunch with your partner... Apart from the obviously uncensored wrist, the croquettes in the shelf just below the sandwiches have also been shaded a little bit better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-05385.jpg" />
- <img src="./../images/DIU21/bd-05385.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-05385-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-05385-512px.jpg 512w,
+  ./../images/DIU21/tv-05385-768px.jpg 768w,
+  ./../images/DIU21/tv-05385-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-05385-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-05385-512px.jpg 512w,
+  ./../images/DIU21/bd-05385-768px.jpg 768w,
+  ./../images/DIU21/bd-05385-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -54,29 +96,85 @@ Let's get right to it!
 - Man, Kira's girlfriend sure looks beautiful in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-05805.jpg" />
- <img src="./../images/DIU21/bd-05805.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-05805-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-05805-512px.jpg 512w,
+  ./../images/DIU21/tv-05805-768px.jpg 768w,
+  ./../images/DIU21/tv-05805-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-05805-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-05805-512px.jpg 512w,
+  ./../images/DIU21/bd-05805-768px.jpg 768w,
+  ./../images/DIU21/bd-05805-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-06041.jpg" />
- <img src="./../images/DIU21/bd-06041.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-06041-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-06041-512px.jpg 512w,
+  ./../images/DIU21/tv-06041-768px.jpg 768w,
+  ./../images/DIU21/tv-06041-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-06041-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-06041-512px.jpg 512w,
+  ./../images/DIU21/bd-06041-768px.jpg 768w,
+  ./../images/DIU21/bd-06041-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-07000.jpg" />
- <img src="./../images/DIU21/bd-07000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-07000-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-07000-512px.jpg 512w,
+  ./../images/DIU21/tv-07000-768px.jpg 768w,
+  ./../images/DIU21/tv-07000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-07000-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-07000-512px.jpg 512w,
+  ./../images/DIU21/bd-07000-768px.jpg 768w,
+  ./../images/DIU21/bd-07000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-07200.jpg" />
- <img src="./../images/DIU21/bd-07200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-07200-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-07200-512px.jpg 512w,
+  ./../images/DIU21/tv-07200-768px.jpg 768w,
+  ./../images/DIU21/tv-07200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-07200-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-07200-512px.jpg 512w,
+  ./../images/DIU21/bd-07200-768px.jpg 768w,
+  ./../images/DIU21/bd-07200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -84,8 +182,22 @@ Let's get right to it!
 - Another uncensored hand here, plus the shading on Kira's right shoulder and hand looks more natural:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-07300.jpg" />
- <img src="./../images/DIU21/bd-07300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-07300-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-07300-512px.jpg 512w,
+  ./../images/DIU21/tv-07300-768px.jpg 768w,
+  ./../images/DIU21/tv-07300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-07300-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-07300-512px.jpg 512w,
+  ./../images/DIU21/bd-07300-768px.jpg 768w,
+  ./../images/DIU21/bd-07300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -93,8 +205,22 @@ Let's get right to it!
 - Aand back to the regularly scheduled uncensored hand:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-07350.jpg" />
- <img src="./../images/DIU21/bd-07350.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-07350-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-07350-512px.jpg 512w,
+  ./../images/DIU21/tv-07350-768px.jpg 768w,
+  ./../images/DIU21/tv-07350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-07350-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-07350-512px.jpg 512w,
+  ./../images/DIU21/bd-07350-768px.jpg 768w,
+  ./../images/DIU21/bd-07350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -102,22 +228,64 @@ Let's get right to it!
 - Here we have three shots, each one with the usual uncensored hand, plus three different things. The first one (and, to a lesser extent, the third one) has slightly retouched eyes on Kira, the second one has an overall different stance that leads to a smoother transition to the following torso position, and in the third one, the perfume bottle in Kira's hand has been slightly retouched. Check 'em out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-07400.jpg" />
- <img src="./../images/DIU21/bd-07400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-07400-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-07400-512px.jpg 512w,
+  ./../images/DIU21/tv-07400-768px.jpg 768w,
+  ./../images/DIU21/tv-07400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-07400-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-07400-512px.jpg 512w,
+  ./../images/DIU21/bd-07400-768px.jpg 768w,
+  ./../images/DIU21/bd-07400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-07441.jpg" />
- <img src="./../images/DIU21/bd-07441.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-07441-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-07441-512px.jpg 512w,
+  ./../images/DIU21/tv-07441-768px.jpg 768w,
+  ./../images/DIU21/tv-07441-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-07441-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-07441-512px.jpg 512w,
+  ./../images/DIU21/bd-07441-768px.jpg 768w,
+  ./../images/DIU21/bd-07441-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-07510.jpg" />
- <img src="./../images/DIU21/bd-07510.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-07510-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-07510-512px.jpg 512w,
+  ./../images/DIU21/tv-07510-768px.jpg 768w,
+  ./../images/DIU21/tv-07510-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-07510-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-07510-512px.jpg 512w,
+  ./../images/DIU21/bd-07510-768px.jpg 768w,
+  ./../images/DIU21/bd-07510-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -125,22 +293,64 @@ Let's get right to it!
 - Ah, what a healthy relationship:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-07520.jpg" />
- <img src="./../images/DIU21/bd-07520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-07520-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-07520-512px.jpg 512w,
+  ./../images/DIU21/tv-07520-768px.jpg 768w,
+  ./../images/DIU21/tv-07520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-07520-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-07520-512px.jpg 512w,
+  ./../images/DIU21/bd-07520-768px.jpg 768w,
+  ./../images/DIU21/bd-07520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-07950.jpg" />
- <img src="./../images/DIU21/bd-07950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-07950-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-07950-512px.jpg 512w,
+  ./../images/DIU21/tv-07950-768px.jpg 768w,
+  ./../images/DIU21/tv-07950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-07950-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-07950-512px.jpg 512w,
+  ./../images/DIU21/bd-07950-768px.jpg 768w,
+  ./../images/DIU21/bd-07950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-08400.jpg" />
- <img src="./../images/DIU21/bd-08400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-08400-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-08400-512px.jpg 512w,
+  ./../images/DIU21/tv-08400-768px.jpg 768w,
+  ./../images/DIU21/tv-08400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-08400-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-08400-512px.jpg 512w,
+  ./../images/DIU21/bd-08400-768px.jpg 768w,
+  ./../images/DIU21/bd-08400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -148,15 +358,43 @@ Let's get right to it!
 - In the next couple of comparisons, Josuke's mouth and Okuyasu's face have all been retouched; in the second one, the missing BILLION has also been added back on Okuyasu's left sleeve:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-08775.jpg" />
- <img src="./../images/DIU21/bd-08775.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-08775-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-08775-512px.jpg 512w,
+  ./../images/DIU21/tv-08775-768px.jpg 768w,
+  ./../images/DIU21/tv-08775-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-08775-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-08775-512px.jpg 512w,
+  ./../images/DIU21/bd-08775-768px.jpg 768w,
+  ./../images/DIU21/bd-08775-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-09000.jpg" />
- <img src="./../images/DIU21/bd-09000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-09000-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-09000-512px.jpg 512w,
+  ./../images/DIU21/tv-09000-768px.jpg 768w,
+  ./../images/DIU21/tv-09000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-09000-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-09000-512px.jpg 512w,
+  ./../images/DIU21/bd-09000-768px.jpg 768w,
+  ./../images/DIU21/bd-09000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -164,8 +402,22 @@ Let's get right to it!
 - Here it is! The dog that started everything! He's been slightly re-shaded, and his legs have also been redrawn in some frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-10425.jpg" />
- <img src="./../images/DIU21/bd-10425.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-10425-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-10425-512px.jpg 512w,
+  ./../images/DIU21/tv-10425-768px.jpg 768w,
+  ./../images/DIU21/tv-10425-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-10425-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-10425-512px.jpg 512w,
+  ./../images/DIU21/bd-10425-768px.jpg 768w,
+  ./../images/DIU21/bd-10425-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -173,15 +425,43 @@ Let's get right to it!
 - A brighter background and a new layer of shading on top of Kira make for a better couple of shots here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-11120.jpg" />
- <img src="./../images/DIU21/bd-11120.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-11120-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-11120-512px.jpg 512w,
+  ./../images/DIU21/tv-11120-768px.jpg 768w,
+  ./../images/DIU21/tv-11120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-11120-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-11120-512px.jpg 512w,
+  ./../images/DIU21/bd-11120-768px.jpg 768w,
+  ./../images/DIU21/bd-11120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-11160.jpg" />
- <img src="./../images/DIU21/bd-11160.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-11160-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-11160-512px.jpg 512w,
+  ./../images/DIU21/tv-11160-768px.jpg 768w,
+  ./../images/DIU21/tv-11160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-11160-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-11160-512px.jpg 512w,
+  ./../images/DIU21/bd-11160-768px.jpg 768w,
+  ./../images/DIU21/bd-11160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -189,8 +469,22 @@ Let's get right to it!
 - In this close-up of Kira, his eyes and the area behind his nose have been shaded a little bit better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-11190.jpg" />
- <img src="./../images/DIU21/bd-11190.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-11190-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-11190-512px.jpg 512w,
+  ./../images/DIU21/tv-11190-768px.jpg 768w,
+  ./../images/DIU21/tv-11190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-11190-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-11190-512px.jpg 512w,
+  ./../images/DIU21/bd-11190-768px.jpg 768w,
+  ./../images/DIU21/bd-11190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -198,15 +492,43 @@ Let's get right to it!
 - Kira, Shigechi, Josuke and Okuyasu's faces have all been retouched in this shot; the lady in the bakery behind has also been moved to the left:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-13315.jpg" />
- <img src="./../images/DIU21/bd-13315.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-13315-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-13315-512px.jpg 512w,
+  ./../images/DIU21/tv-13315-768px.jpg 768w,
+  ./../images/DIU21/tv-13315-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-13315-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-13315-512px.jpg 512w,
+  ./../images/DIU21/bd-13315-768px.jpg 768w,
+  ./../images/DIU21/bd-13315-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-13565.jpg" />
- <img src="./../images/DIU21/bd-13565.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-13565-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-13565-512px.jpg 512w,
+  ./../images/DIU21/tv-13565-768px.jpg 768w,
+  ./../images/DIU21/tv-13565-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-13565-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-13565-512px.jpg 512w,
+  ./../images/DIU21/bd-13565-768px.jpg 768w,
+  ./../images/DIU21/bd-13565-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -214,8 +536,22 @@ Let's get right to it!
 - Again, Josuke and Okuyasu's faces have been redrawn here; the anchor and yen symbols on their collars have also been added in:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-13800.jpg" />
- <img src="./../images/DIU21/bd-13800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-13800-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-13800-512px.jpg 512w,
+  ./../images/DIU21/tv-13800-768px.jpg 768w,
+  ./../images/DIU21/tv-13800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-13800-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-13800-512px.jpg 512w,
+  ./../images/DIU21/bd-13800-768px.jpg 768w,
+  ./../images/DIU21/bd-13800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -230,8 +566,22 @@ Let's get right to it!
 - In this shot, both Josuke and Okuyasu's faces look better, and everyone in the background has either been resized or moved slightly:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-15200.jpg" />
- <img src="./../images/DIU21/bd-15200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-15200-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-15200-512px.jpg 512w,
+  ./../images/DIU21/tv-15200-768px.jpg 768w,
+  ./../images/DIU21/tv-15200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-15200-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-15200-512px.jpg 512w,
+  ./../images/DIU21/bd-15200-768px.jpg 768w,
+  ./../images/DIU21/bd-15200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -239,15 +589,43 @@ Let's get right to it!
 - Kira's face has been retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-17745.jpg" />
- <img src="./../images/DIU21/bd-17745.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-17745-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-17745-512px.jpg 512w,
+  ./../images/DIU21/tv-17745-768px.jpg 768w,
+  ./../images/DIU21/tv-17745-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-17745-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-17745-512px.jpg 512w,
+  ./../images/DIU21/bd-17745-768px.jpg 768w,
+  ./../images/DIU21/bd-17745-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-17845.jpg" />
- <img src="./../images/DIU21/bd-17845.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-17845-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-17845-512px.jpg 512w,
+  ./../images/DIU21/tv-17845-768px.jpg 768w,
+  ./../images/DIU21/tv-17845-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-17845-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-17845-512px.jpg 512w,
+  ./../images/DIU21/bd-17845-768px.jpg 768w,
+  ./../images/DIU21/bd-17845-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -255,8 +633,22 @@ Let's get right to it!
 - Practically all the shots of Kira under the... Wait, what's that thing again? Anyway, every shot of him under there have been slightly retouched. This is the first of them! No sweat, thinner lines and it seems like everything's been redrawn, although it looks really similar:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-19340.jpg" />
- <img src="./../images/DIU21/bd-19340.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-19340-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-19340-512px.jpg 512w,
+  ./../images/DIU21/tv-19340-768px.jpg 768w,
+  ./../images/DIU21/tv-19340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-19340-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-19340-512px.jpg 512w,
+  ./../images/DIU21/bd-19340-768px.jpg 768w,
+  ./../images/DIU21/bd-19340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -264,8 +656,22 @@ Let's get right to it!
 - Shigechi's eyes have been redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-19560.jpg" />
- <img src="./../images/DIU21/bd-19560.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-19560-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-19560-512px.jpg 512w,
+  ./../images/DIU21/tv-19560-768px.jpg 768w,
+  ./../images/DIU21/tv-19560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-19560-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-19560-512px.jpg 512w,
+  ./../images/DIU21/bd-19560-768px.jpg 768w,
+  ./../images/DIU21/bd-19560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -273,8 +679,22 @@ Let's get right to it!
 - Here, Kira's tie and shirt are both sharper, the light effect on his left knee is less bright and, as before, almost everything looks as if it's been tweaked, retouched and redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-19800.jpg" />
- <img src="./../images/DIU21/bd-19800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-19800-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-19800-512px.jpg 512w,
+  ./../images/DIU21/tv-19800-768px.jpg 768w,
+  ./../images/DIU21/tv-19800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-19800-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-19800-512px.jpg 512w,
+  ./../images/DIU21/bd-19800-768px.jpg 768w,
+  ./../images/DIU21/bd-19800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -282,15 +702,43 @@ Let's get right to it!
 - Again, a couple of tweaked Kiras for you:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-20960.jpg" />
- <img src="./../images/DIU21/bd-20960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-20960-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-20960-512px.jpg 512w,
+  ./../images/DIU21/tv-20960-768px.jpg 768w,
+  ./../images/DIU21/tv-20960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-20960-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-20960-512px.jpg 512w,
+  ./../images/DIU21/bd-20960-768px.jpg 768w,
+  ./../images/DIU21/bd-20960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-22840.jpg" />
- <img src="./../images/DIU21/bd-22840.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-22840-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-22840-512px.jpg 512w,
+  ./../images/DIU21/tv-22840-768px.jpg 768w,
+  ./../images/DIU21/tv-22840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-22840-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-22840-512px.jpg 512w,
+  ./../images/DIU21/bd-22840-768px.jpg 768w,
+  ./../images/DIU21/bd-22840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -298,8 +746,22 @@ Let's get right to it!
 - Plenty of frames in this animation of Shigechi freaking out have been retouched. Not the awful Josuke in the background, though! Nah, he looks fine, am I right? Anyway, if I showed you an animation of it you probably wouldn't notice the differences since they're all pretty minor. Have a bunch of frames instead! In this first one, some of the balls on Shigechi's uniform are smaller:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-23015.jpg" />
- <img src="./../images/DIU21/bd-23015.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-23015-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-23015-512px.jpg 512w,
+  ./../images/DIU21/tv-23015-768px.jpg 768w,
+  ./../images/DIU21/tv-23015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-23015-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-23015-512px.jpg 512w,
+  ./../images/DIU21/bd-23015-768px.jpg 768w,
+  ./../images/DIU21/bd-23015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -307,8 +769,22 @@ Let's get right to it!
 - Shigechi's eyes are more focused now, and a tiny bit of his uniform is shaded differently:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-23018.jpg" />
- <img src="./../images/DIU21/bd-23018.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-23018-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-23018-512px.jpg 512w,
+  ./../images/DIU21/tv-23018-768px.jpg 768w,
+  ./../images/DIU21/tv-23018-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-23018-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-23018-512px.jpg 512w,
+  ./../images/DIU21/bd-23018-768px.jpg 768w,
+  ./../images/DIU21/bd-23018-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -316,8 +792,22 @@ Let's get right to it!
 - Shigechi's eyes again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-23020.jpg" />
- <img src="./../images/DIU21/bd-23020.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-23020-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-23020-512px.jpg 512w,
+  ./../images/DIU21/tv-23020-768px.jpg 768w,
+  ./../images/DIU21/tv-23020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-23020-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-23020-512px.jpg 512w,
+  ./../images/DIU21/bd-23020-768px.jpg 768w,
+  ./../images/DIU21/bd-23020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -325,8 +815,22 @@ Let's get right to it!
 - Both his eyes and his eyebrows have been retouched here; plus, the center of his uniform is less shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-23035.jpg" />
- <img src="./../images/DIU21/bd-23035.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-23035-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-23035-512px.jpg 512w,
+  ./../images/DIU21/tv-23035-768px.jpg 768w,
+  ./../images/DIU21/tv-23035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-23035-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-23035-512px.jpg 512w,
+  ./../images/DIU21/bd-23035-768px.jpg 768w,
+  ./../images/DIU21/bd-23035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -334,8 +838,22 @@ Let's get right to it!
 - In this last frame of the animation, there's one extra ball on Shigechi's vest and the bottom of it has been properly shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-23100.jpg" />
- <img src="./../images/DIU21/bd-23100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-23100-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-23100-512px.jpg 512w,
+  ./../images/DIU21/tv-23100-768px.jpg 768w,
+  ./../images/DIU21/tv-23100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-23100-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-23100-512px.jpg 512w,
+  ./../images/DIU21/bd-23100-768px.jpg 768w,
+  ./../images/DIU21/bd-23100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -343,15 +861,43 @@ Let's get right to it!
 - Whew! Now that that's over, we can get back to what really matters. Here's another retouched Kira:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-23740.jpg" />
- <img src="./../images/DIU21/bd-23740.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-23740-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-23740-512px.jpg 512w,
+  ./../images/DIU21/tv-23740-768px.jpg 768w,
+  ./../images/DIU21/tv-23740-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-23740-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-23740-512px.jpg 512w,
+  ./../images/DIU21/bd-23740-768px.jpg 768w,
+  ./../images/DIU21/bd-23740-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-23880.jpg" />
- <img src="./../images/DIU21/bd-23880.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-23880-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-23880-512px.jpg 512w,
+  ./../images/DIU21/tv-23880-768px.jpg 768w,
+  ./../images/DIU21/tv-23880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-23880-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-23880-512px.jpg 512w,
+  ./../images/DIU21/bd-23880-768px.jpg 768w,
+  ./../images/DIU21/bd-23880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -359,8 +905,22 @@ Let's get right to it!
 - Kira no longer looks like he's turning his nose up at something here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-24440.jpg" />
- <img src="./../images/DIU21/bd-24440.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-24440-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-24440-512px.jpg 512w,
+  ./../images/DIU21/tv-24440-768px.jpg 768w,
+  ./../images/DIU21/tv-24440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-24440-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-24440-512px.jpg 512w,
+  ./../images/DIU21/bd-24440-768px.jpg 768w,
+  ./../images/DIU21/bd-24440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -373,8 +933,22 @@ Let's get right to it!
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-24570.jpg" />
- <img src="./../images/DIU21/bd-24570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-24570-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-24570-512px.jpg 512w,
+  ./../images/DIU21/tv-24570-768px.jpg 768w,
+  ./../images/DIU21/tv-24570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-24570-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-24570-512px.jpg 512w,
+  ./../images/DIU21/bd-24570-768px.jpg 768w,
+  ./../images/DIU21/bd-24570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -382,29 +956,85 @@ Let's get right to it!
 - Ah, finally! Another bunch of uncensored hand shots for you:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-27715.jpg" />
- <img src="./../images/DIU21/bd-27715.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-27715-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-27715-512px.jpg 512w,
+  ./../images/DIU21/tv-27715-768px.jpg 768w,
+  ./../images/DIU21/tv-27715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-27715-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-27715-512px.jpg 512w,
+  ./../images/DIU21/bd-27715-768px.jpg 768w,
+  ./../images/DIU21/bd-27715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-27780.jpg" />
- <img src="./../images/DIU21/bd-27780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-27780-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-27780-512px.jpg 512w,
+  ./../images/DIU21/tv-27780-768px.jpg 768w,
+  ./../images/DIU21/tv-27780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-27780-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-27780-512px.jpg 512w,
+  ./../images/DIU21/bd-27780-768px.jpg 768w,
+  ./../images/DIU21/bd-27780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-27900.jpg" />
- <img src="./../images/DIU21/bd-27900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-27900-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-27900-512px.jpg 512w,
+  ./../images/DIU21/tv-27900-768px.jpg 768w,
+  ./../images/DIU21/tv-27900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-27900-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-27900-512px.jpg 512w,
+  ./../images/DIU21/bd-27900-768px.jpg 768w,
+  ./../images/DIU21/bd-27900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-28100.jpg" />
- <img src="./../images/DIU21/bd-28100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-28100-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-28100-512px.jpg 512w,
+  ./../images/DIU21/tv-28100-768px.jpg 768w,
+  ./../images/DIU21/tv-28100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-28100-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-28100-512px.jpg 512w,
+  ./../images/DIU21/bd-28100-768px.jpg 768w,
+  ./../images/DIU21/bd-28100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -412,8 +1042,22 @@ Let's get right to it!
 - And again here; plus, for some reason, the top right corner is slightly darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-28420.jpg" />
- <img src="./../images/DIU21/bd-28420.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-28420-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-28420-512px.jpg 512w,
+  ./../images/DIU21/tv-28420-768px.jpg 768w,
+  ./../images/DIU21/tv-28420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-28420-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-28420-512px.jpg 512w,
+  ./../images/DIU21/bd-28420-768px.jpg 768w,
+  ./../images/DIU21/bd-28420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -421,15 +1065,43 @@ Let's get right to it!
 - And back to the purer, simpler uncensored hand shots - Kira's looking real good in the first one:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-28800.jpg" />
- <img src="./../images/DIU21/bd-28800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-28800-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-28800-512px.jpg 512w,
+  ./../images/DIU21/tv-28800-768px.jpg 768w,
+  ./../images/DIU21/tv-28800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-28800-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-28800-512px.jpg 512w,
+  ./../images/DIU21/bd-28800-768px.jpg 768w,
+  ./../images/DIU21/bd-28800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-28950.jpg" />
- <img src="./../images/DIU21/bd-28950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-28950-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-28950-512px.jpg 512w,
+  ./../images/DIU21/tv-28950-768px.jpg 768w,
+  ./../images/DIU21/tv-28950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-28950-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-28950-512px.jpg 512w,
+  ./../images/DIU21/bd-28950-768px.jpg 768w,
+  ./../images/DIU21/bd-28950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -437,15 +1109,43 @@ Let's get right to it!
 - These two shots are more zoomed out in the BDs, and Kira has been retouched, especially in the eye area (thanks, Patrick Falcon!):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-30000.jpg" />
- <img src="./../images/DIU21/bd-30000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-30000-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-30000-512px.jpg 512w,
+  ./../images/DIU21/tv-30000-768px.jpg 768w,
+  ./../images/DIU21/tv-30000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-30000-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-30000-512px.jpg 512w,
+  ./../images/DIU21/bd-30000-768px.jpg 768w,
+  ./../images/DIU21/bd-30000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-30330.jpg" />
- <img src="./../images/DIU21/bd-30330.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-30330-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-30330-512px.jpg 512w,
+  ./../images/DIU21/tv-30330-768px.jpg 768w,
+  ./../images/DIU21/tv-30330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-30330-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-30330-512px.jpg 512w,
+  ./../images/DIU21/bd-30330-768px.jpg 768w,
+  ./../images/DIU21/bd-30330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -453,8 +1153,22 @@ Let's get right to it!
 - Kira's, once again, been retouched in this shot here. Most lines are also thicker, his eyes look slightly more menacing and his hair is coloured differently near the bangs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-31000.jpg" />
- <img src="./../images/DIU21/bd-31000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-31000-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-31000-512px.jpg 512w,
+  ./../images/DIU21/tv-31000-768px.jpg 768w,
+  ./../images/DIU21/tv-31000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-31000-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-31000-512px.jpg 512w,
+  ./../images/DIU21/bd-31000-768px.jpg 768w,
+  ./../images/DIU21/bd-31000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -462,8 +1176,22 @@ Let's get right to it!
 - And, finally! Finally, here we are! Let's take a look at how Killer Queen looks in the BDs. First of all, the cat skull emblems on his fists and shoulder look waaay better, and even in this first comparison, you can see they retouched his eyes. The aura is also less transparent and the sky is brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-31833.jpg" />
- <img src="./../images/DIU21/bd-31833.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-31833-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-31833-512px.jpg 512w,
+  ./../images/DIU21/tv-31833-768px.jpg 768w,
+  ./../images/DIU21/tv-31833-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-31833-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-31833-512px.jpg 512w,
+  ./../images/DIU21/bd-31833-768px.jpg 768w,
+  ./../images/DIU21/bd-31833-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -471,8 +1199,22 @@ Let's get right to it!
 - Here, you can see that there's more black in the aura, and it looks slightly darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-31845.jpg" />
- <img src="./../images/DIU21/bd-31845.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-31845-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-31845-512px.jpg 512w,
+  ./../images/DIU21/tv-31845-768px.jpg 768w,
+  ./../images/DIU21/tv-31845-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-31845-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-31845-512px.jpg 512w,
+  ./../images/DIU21/bd-31845-768px.jpg 768w,
+  ./../images/DIU21/bd-31845-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -480,8 +1222,22 @@ Let's get right to it!
 - And here, finally, we can take a look at Killer Queen in its full redrawn glory. Alright, alright, I'll be the first to admit it doesn't look *that* different, but the lines are way better, and it no longer looks like he's been drawn by an eight-year old. The design stayed the same, but it's a more competent drawing:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-31868.jpg" />
- <img src="./../images/DIU21/bd-31868.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-31868-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-31868-512px.jpg 512w,
+  ./../images/DIU21/tv-31868-768px.jpg 768w,
+  ./../images/DIU21/tv-31868-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-31868-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-31868-512px.jpg 512w,
+  ./../images/DIU21/bd-31868-768px.jpg 768w,
+  ./../images/DIU21/bd-31868-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -489,8 +1245,22 @@ Let's get right to it!
 - And, in this zoomed-out shot, we can see that Killer Queen has a retouched face and slightly better-shaded legs; the school in the background is also brighter, probably to create more contrast. The aura is also different!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-31900.jpg" />
- <img src="./../images/DIU21/bd-31900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-31900-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-31900-512px.jpg 512w,
+  ./../images/DIU21/tv-31900-768px.jpg 768w,
+  ./../images/DIU21/tv-31900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-31900-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-31900-512px.jpg 512w,
+  ./../images/DIU21/bd-31900-768px.jpg 768w,
+  ./../images/DIU21/bd-31900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -498,15 +1268,43 @@ Let's get right to it!
 - The episode itself is over, but don't go away yet! It's time for a couple of credits differences! Wait, where are you going...? Anyway! Here's the opposite of a couple of episodes ago. "BUSAN DR" is no longer all caps, and has been rendered as "Busan Dr."
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-32680.jpg" />
- <img src="./../images/DIU21/bd-32680.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-32680-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-32680-512px.jpg 512w,
+  ./../images/DIU21/tv-32680-768px.jpg 768w,
+  ./../images/DIU21/tv-32680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-32680-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-32680-512px.jpg 512w,
+  ./../images/DIU21/bd-32680-768px.jpg 768w,
+  ./../images/DIU21/bd-32680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-32816.jpg" />
- <img src="./../images/DIU21/bd-32816.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-32816-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-32816-512px.jpg 512w,
+  ./../images/DIU21/tv-32816-768px.jpg 768w,
+  ./../images/DIU21/tv-32816-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-32816-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-32816-512px.jpg 512w,
+  ./../images/DIU21/bd-32816-768px.jpg 768w,
+  ./../images/DIU21/bd-32816-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -514,8 +1312,22 @@ Let's get right to it!
 - And here, TRAM ANH's name has been spaced better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU21/tv-32900.jpg" />
- <img src="./../images/DIU21/bd-32900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/tv-32900-1090px.jpg"
+  data-srcset="./../images/DIU21/tv-32900-512px.jpg 512w,
+  ./../images/DIU21/tv-32900-768px.jpg 768w,
+  ./../images/DIU21/tv-32900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU21/bd-32900-1090px.jpg"
+  data-srcset="./../images/DIU21/bd-32900-512px.jpg 512w,
+  ./../images/DIU21/bd-32900-768px.jpg 768w,
+  ./../images/DIU21/bd-32900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

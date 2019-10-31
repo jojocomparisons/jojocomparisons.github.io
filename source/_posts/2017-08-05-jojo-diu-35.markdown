@@ -19,8 +19,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Let's start with good ol' Arnold, uncensored again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-00300.jpg" />
- <img src="./../images/DIU35/bd-00300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-00300-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-00300-512px.jpg 512w,
+  ./../images/DIU35/tv-00300-768px.jpg 768w,
+  ./../images/DIU35/tv-00300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-00300-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-00300-512px.jpg 512w,
+  ./../images/DIU35/bd-00300-768px.jpg 768w,
+  ./../images/DIU35/bd-00300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -35,8 +49,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - ...his left eye has also been retouched, and there's a cut on his cheek:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-00920.jpg" />
- <img src="./../images/DIU35/bd-00920.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-00920-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-00920-512px.jpg 512w,
+  ./../images/DIU35/tv-00920-768px.jpg 768w,
+  ./../images/DIU35/tv-00920-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-00920-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-00920-512px.jpg 512w,
+  ./../images/DIU35/bd-00920-768px.jpg 768w,
+  ./../images/DIU35/bd-00920-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -44,8 +72,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Arnold again here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-01035.jpg" />
- <img src="./../images/DIU35/bd-01035.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-01035-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-01035-512px.jpg 512w,
+  ./../images/DIU35/tv-01035-768px.jpg 768w,
+  ./../images/DIU35/tv-01035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-01035-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-01035-512px.jpg 512w,
+  ./../images/DIU35/bd-01035-768px.jpg 768w,
+  ./../images/DIU35/bd-01035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -53,15 +95,43 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Back to the Kawajiris! In this scene, Shinobu has been moved slightly to the right, which might make no sense at the start, but when she gets near the closet you can see that she's been moved so that she's opening the right door instead of the left one:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-02310.jpg" />
- <img src="./../images/DIU35/bd-02310.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-02310-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-02310-512px.jpg 512w,
+  ./../images/DIU35/tv-02310-768px.jpg 768w,
+  ./../images/DIU35/tv-02310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-02310-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-02310-512px.jpg 512w,
+  ./../images/DIU35/bd-02310-768px.jpg 768w,
+  ./../images/DIU35/bd-02310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-02379.jpg" />
- <img src="./../images/DIU35/bd-02379.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-02379-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-02379-512px.jpg 512w,
+  ./../images/DIU35/tv-02379-768px.jpg 768w,
+  ./../images/DIU35/tv-02379-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-02379-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-02379-512px.jpg 512w,
+  ./../images/DIU35/bd-02379-768px.jpg 768w,
+  ./../images/DIU35/bd-02379-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -69,29 +139,85 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - We interrupt your regularly scheduled Kawajiris for a quick trip at the Higashikata residence, where we can see that Josuke's face, collar and bangles have all been retouched in this collection of frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-05895.jpg" />
- <img src="./../images/DIU35/bd-05895.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-05895-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-05895-512px.jpg 512w,
+  ./../images/DIU35/tv-05895-768px.jpg 768w,
+  ./../images/DIU35/tv-05895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-05895-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-05895-512px.jpg 512w,
+  ./../images/DIU35/bd-05895-768px.jpg 768w,
+  ./../images/DIU35/bd-05895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-05900.jpg" />
- <img src="./../images/DIU35/bd-05900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-05900-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-05900-512px.jpg 512w,
+  ./../images/DIU35/tv-05900-768px.jpg 768w,
+  ./../images/DIU35/tv-05900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-05900-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-05900-512px.jpg 512w,
+  ./../images/DIU35/bd-05900-768px.jpg 768w,
+  ./../images/DIU35/bd-05900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-05920.jpg" />
- <img src="./../images/DIU35/bd-05920.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-05920-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-05920-512px.jpg 512w,
+  ./../images/DIU35/tv-05920-768px.jpg 768w,
+  ./../images/DIU35/tv-05920-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-05920-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-05920-512px.jpg 512w,
+  ./../images/DIU35/bd-05920-768px.jpg 768w,
+  ./../images/DIU35/bd-05920-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-06095.jpg" />
- <img src="./../images/DIU35/bd-06095.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-06095-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-06095-512px.jpg 512w,
+  ./../images/DIU35/tv-06095-768px.jpg 768w,
+  ./../images/DIU35/tv-06095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-06095-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-06095-512px.jpg 512w,
+  ./../images/DIU35/bd-06095-768px.jpg 768w,
+  ./../images/DIU35/bd-06095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -99,15 +225,43 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Josuke's eyes have been redrawn here, but I'm not super sure about the end result:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-06100.jpg" />
- <img src="./../images/DIU35/bd-06100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-06100-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-06100-512px.jpg 512w,
+  ./../images/DIU35/tv-06100-768px.jpg 768w,
+  ./../images/DIU35/tv-06100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-06100-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-06100-512px.jpg 512w,
+  ./../images/DIU35/bd-06100-768px.jpg 768w,
+  ./../images/DIU35/bd-06100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-06185.jpg" />
- <img src="./../images/DIU35/bd-06185.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-06185-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-06185-512px.jpg 512w,
+  ./../images/DIU35/tv-06185-768px.jpg 768w,
+  ./../images/DIU35/tv-06185-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-06185-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-06185-512px.jpg 512w,
+  ./../images/DIU35/bd-06185-768px.jpg 768w,
+  ./../images/DIU35/bd-06185-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -115,8 +269,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Back to the main course! Here, Hayato's right eye has been slightly moved, there's a new shade on the tip of his nose and one line near his mouth has been removed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-07995.jpg" />
- <img src="./../images/DIU35/bd-07995.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-07995-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-07995-512px.jpg 512w,
+  ./../images/DIU35/tv-07995-768px.jpg 768w,
+  ./../images/DIU35/tv-07995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-07995-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-07995-512px.jpg 512w,
+  ./../images/DIU35/bd-07995-768px.jpg 768w,
+  ./../images/DIU35/bd-07995-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -124,8 +292,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Some frames later, when Kira shows up too, both faces have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-08015.jpg" />
- <img src="./../images/DIU35/bd-08015.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-08015-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-08015-512px.jpg 512w,
+  ./../images/DIU35/tv-08015-768px.jpg 768w,
+  ./../images/DIU35/tv-08015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-08015-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-08015-512px.jpg 512w,
+  ./../images/DIU35/bd-08015-768px.jpg 768w,
+  ./../images/DIU35/bd-08015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -133,15 +315,43 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Daddy Kira's back, and you know what that means... Yeah, the stupid holes on that side of his polaroid, and the stupid stripes on his stupid pajama arms:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-08370.jpg" />
- <img src="./../images/DIU35/bd-08370.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-08370-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-08370-512px.jpg 512w,
+  ./../images/DIU35/tv-08370-768px.jpg 768w,
+  ./../images/DIU35/tv-08370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-08370-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-08370-512px.jpg 512w,
+  ./../images/DIU35/bd-08370-768px.jpg 768w,
+  ./../images/DIU35/bd-08370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-08420.jpg" />
- <img src="./../images/DIU35/bd-08420.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-08420-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-08420-512px.jpg 512w,
+  ./../images/DIU35/tv-08420-768px.jpg 768w,
+  ./../images/DIU35/tv-08420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-08420-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-08420-512px.jpg 512w,
+  ./../images/DIU35/bd-08420-768px.jpg 768w,
+  ./../images/DIU35/bd-08420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -149,8 +359,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Kira Sr.'s face has been retouched here, and oh gee guess what, the arms of his pajamas are striped:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-08705.jpg" />
- <img src="./../images/DIU35/bd-08705.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-08705-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-08705-512px.jpg 512w,
+  ./../images/DIU35/tv-08705-768px.jpg 768w,
+  ./../images/DIU35/tv-08705-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-08705-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-08705-512px.jpg 512w,
+  ./../images/DIU35/bd-08705-768px.jpg 768w,
+  ./../images/DIU35/bd-08705-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -158,8 +382,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Kira, my dude, you have serious issues:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-09100.jpg" />
- <img src="./../images/DIU35/bd-09100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-09100-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-09100-512px.jpg 512w,
+  ./../images/DIU35/tv-09100-768px.jpg 768w,
+  ./../images/DIU35/tv-09100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-09100-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-09100-512px.jpg 512w,
+  ./../images/DIU35/bd-09100-768px.jpg 768w,
+  ./../images/DIU35/bd-09100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -167,8 +405,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Here we have, on top of the usual changes, two slightly retouched eyes:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-09205.jpg" />
- <img src="./../images/DIU35/bd-09205.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-09205-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-09205-512px.jpg 512w,
+  ./../images/DIU35/tv-09205-768px.jpg 768w,
+  ./../images/DIU35/tv-09205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-09205-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-09205-512px.jpg 512w,
+  ./../images/DIU35/bd-09205-768px.jpg 768w,
+  ./../images/DIU35/bd-09205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -176,8 +428,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - The Dad Was Moved, And The Stripes Were Added (2017):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-09700.jpg" />
- <img src="./../images/DIU35/bd-09700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-09700-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-09700-512px.jpg 512w,
+  ./../images/DIU35/tv-09700-768px.jpg 768w,
+  ./../images/DIU35/tv-09700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-09700-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-09700-512px.jpg 512w,
+  ./../images/DIU35/bd-09700-768px.jpg 768w,
+  ./../images/DIU35/bd-09700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -185,8 +451,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - The shading on Kira's eye is less flat...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-09805.jpg" />
- <img src="./../images/DIU35/bd-09805.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-09805-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-09805-512px.jpg 512w,
+  ./../images/DIU35/tv-09805-768px.jpg 768w,
+  ./../images/DIU35/tv-09805-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-09805-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-09805-512px.jpg 512w,
+  ./../images/DIU35/bd-09805-768px.jpg 768w,
+  ./../images/DIU35/bd-09805-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -201,8 +481,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - ...and, of course, the stripes are back, and Kira's hands have been shaded better. The background has also been moved and there's a new shade below The Dad's left eye:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-09855.jpg" />
- <img src="./../images/DIU35/bd-09855.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-09855-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-09855-512px.jpg 512w,
+  ./../images/DIU35/tv-09855-768px.jpg 768w,
+  ./../images/DIU35/tv-09855-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-09855-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-09855-512px.jpg 512w,
+  ./../images/DIU35/bd-09855-768px.jpg 768w,
+  ./../images/DIU35/bd-09855-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -210,15 +504,43 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - In this scene, some of Kira's mouth positions have been retouched, and there's a very slight distortion in the background:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-10160.jpg" />
- <img src="./../images/DIU35/bd-10160.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-10160-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-10160-512px.jpg 512w,
+  ./../images/DIU35/tv-10160-768px.jpg 768w,
+  ./../images/DIU35/tv-10160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-10160-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-10160-512px.jpg 512w,
+  ./../images/DIU35/bd-10160-768px.jpg 768w,
+  ./../images/DIU35/bd-10160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-10170.jpg" />
- <img src="./../images/DIU35/bd-10170.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-10170-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-10170-512px.jpg 512w,
+  ./../images/DIU35/tv-10170-768px.jpg 768w,
+  ./../images/DIU35/tv-10170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-10170-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-10170-512px.jpg 512w,
+  ./../images/DIU35/bd-10170-768px.jpg 768w,
+  ./../images/DIU35/bd-10170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -226,8 +548,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - I wonder what's different here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-10220.jpg" />
- <img src="./../images/DIU35/bd-10220.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-10220-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-10220-512px.jpg 512w,
+  ./../images/DIU35/tv-10220-768px.jpg 768w,
+  ./../images/DIU35/tv-10220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-10220-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-10220-512px.jpg 512w,
+  ./../images/DIU35/bd-10220-768px.jpg 768w,
+  ./../images/DIU35/bd-10220-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -235,8 +571,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Ok, let's just establish that I won't talk about the stripes or the polaroid holes when they show up, and instead say something if there's anything *else* that's different. For example, here! Check out that hole:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-10345.jpg" />
- <img src="./../images/DIU35/bd-10345.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-10345-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-10345-512px.jpg 512w,
+  ./../images/DIU35/tv-10345-768px.jpg 768w,
+  ./../images/DIU35/tv-10345-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-10345-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-10345-512px.jpg 512w,
+  ./../images/DIU35/bd-10345-768px.jpg 768w,
+  ./../images/DIU35/bd-10345-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -244,8 +594,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - And again here; Mr. Kira's eye and nostril have also been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-10435.jpg" />
- <img src="./../images/DIU35/bd-10435.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-10435-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-10435-512px.jpg 512w,
+  ./../images/DIU35/tv-10435-768px.jpg 768w,
+  ./../images/DIU35/tv-10435-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-10435-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-10435-512px.jpg 512w,
+  ./../images/DIU35/bd-10435-768px.jpg 768w,
+  ./../images/DIU35/bd-10435-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -253,8 +617,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - They remembered to draw the polaroid frame here (along with its black background), and Papa Kira has been shaded slightly differently:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-10460.jpg" />
- <img src="./../images/DIU35/bd-10460.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-10460-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-10460-512px.jpg 512w,
+  ./../images/DIU35/tv-10460-768px.jpg 768w,
+  ./../images/DIU35/tv-10460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-10460-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-10460-512px.jpg 512w,
+  ./../images/DIU35/bd-10460-768px.jpg 768w,
+  ./../images/DIU35/bd-10460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -262,8 +640,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - O u c h:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-10550.jpg" />
- <img src="./../images/DIU35/bd-10550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-10550-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-10550-512px.jpg 512w,
+  ./../images/DIU35/tv-10550-768px.jpg 768w,
+  ./../images/DIU35/tv-10550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-10550-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-10550-512px.jpg 512w,
+  ./../images/DIU35/bd-10550-768px.jpg 768w,
+  ./../images/DIU35/bd-10550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -276,8 +668,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Here, aside from the two uncensored owies, there's a *slightly* different shade on Kira's ear, chin and Pop's hair and ear:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-10740.jpg" />
- <img src="./../images/DIU35/bd-10740.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-10740-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-10740-512px.jpg 512w,
+  ./../images/DIU35/tv-10740-768px.jpg 768w,
+  ./../images/DIU35/tv-10740-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-10740-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-10740-512px.jpg 512w,
+  ./../images/DIU35/bd-10740-768px.jpg 768w,
+  ./../images/DIU35/bd-10740-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -285,8 +691,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Hayato's face is more HD here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-12450.jpg" />
- <img src="./../images/DIU35/bd-12450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-12450-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-12450-512px.jpg 512w,
+  ./../images/DIU35/tv-12450-768px.jpg 768w,
+  ./../images/DIU35/tv-12450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-12450-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-12450-512px.jpg 512w,
+  ./../images/DIU35/bd-12450-768px.jpg 768w,
+  ./../images/DIU35/bd-12450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -294,8 +714,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - I wonder, I wonder:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-12570.jpg" />
- <img src="./../images/DIU35/bd-12570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-12570-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-12570-512px.jpg 512w,
+  ./../images/DIU35/tv-12570-768px.jpg 768w,
+  ./../images/DIU35/tv-12570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-12570-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-12570-512px.jpg 512w,
+  ./../images/DIU35/bd-12570-768px.jpg 768w,
+  ./../images/DIU35/bd-12570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -303,8 +737,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - The backside of the polaroid has been completely redrawn here (and in many other spots as well):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-12820.jpg" />
- <img src="./../images/DIU35/bd-12820.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-12820-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-12820-512px.jpg 512w,
+  ./../images/DIU35/tv-12820-768px.jpg 768w,
+  ./../images/DIU35/tv-12820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-12820-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-12820-512px.jpg 512w,
+  ./../images/DIU35/bd-12820-768px.jpg 768w,
+  ./../images/DIU35/bd-12820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -312,8 +760,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Old Kira's eye area has been retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-12930.jpg" />
- <img src="./../images/DIU35/bd-12930.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-12930-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-12930-512px.jpg 512w,
+  ./../images/DIU35/tv-12930-768px.jpg 768w,
+  ./../images/DIU35/tv-12930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-12930-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-12930-512px.jpg 512w,
+  ./../images/DIU35/bd-12930-768px.jpg 768w,
+  ./../images/DIU35/bd-12930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -321,8 +783,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - The back of the polaroid is, again, different here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-13100.jpg" />
- <img src="./../images/DIU35/bd-13100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-13100-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-13100-512px.jpg 512w,
+  ./../images/DIU35/tv-13100-768px.jpg 768w,
+  ./../images/DIU35/tv-13100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-13100-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-13100-512px.jpg 512w,
+  ./../images/DIU35/bd-13100-768px.jpg 768w,
+  ./../images/DIU35/bd-13100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -330,8 +806,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Mr. Big Kira's eyes look better here as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-13270.jpg" />
- <img src="./../images/DIU35/bd-13270.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-13270-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-13270-512px.jpg 512w,
+  ./../images/DIU35/tv-13270-768px.jpg 768w,
+  ./../images/DIU35/tv-13270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-13270-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-13270-512px.jpg 512w,
+  ./../images/DIU35/bd-13270-768px.jpg 768w,
+  ./../images/DIU35/bd-13270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -339,8 +829,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Kira the 1st has been completely redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-13430.jpg" />
- <img src="./../images/DIU35/bd-13430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-13430-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-13430-512px.jpg 512w,
+  ./../images/DIU35/tv-13430-768px.jpg 768w,
+  ./../images/DIU35/tv-13430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-13430-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-13430-512px.jpg 512w,
+  ./../images/DIU35/bd-13430-768px.jpg 768w,
+  ./../images/DIU35/bd-13430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -348,8 +852,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Hmmmmmmm:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-13480.jpg" />
- <img src="./../images/DIU35/bd-13480.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-13480-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-13480-512px.jpg 512w,
+  ./../images/DIU35/tv-13480-768px.jpg 768w,
+  ./../images/DIU35/tv-13480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-13480-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-13480-512px.jpg 512w,
+  ./../images/DIU35/bd-13480-768px.jpg 768w,
+  ./../images/DIU35/bd-13480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -357,15 +875,43 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - All food, liquid, plates and cutlery have been shaded better here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-14580.jpg" />
- <img src="./../images/DIU35/bd-14580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-14580-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-14580-512px.jpg 512w,
+  ./../images/DIU35/tv-14580-768px.jpg 768w,
+  ./../images/DIU35/tv-14580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-14580-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-14580-512px.jpg 512w,
+  ./../images/DIU35/bd-14580-768px.jpg 768w,
+  ./../images/DIU35/bd-14580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-14750.jpg" />
- <img src="./../images/DIU35/bd-14750.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-14750-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-14750-512px.jpg 512w,
+  ./../images/DIU35/tv-14750-768px.jpg 768w,
+  ./../images/DIU35/tv-14750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-14750-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-14750-512px.jpg 512w,
+  ./../images/DIU35/bd-14750-768px.jpg 768w,
+  ./../images/DIU35/bd-14750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -373,8 +919,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - When Shinobu closes her eyes, her tears no longer magically disappear:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-14828.jpg" />
- <img src="./../images/DIU35/bd-14828.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-14828-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-14828-512px.jpg 512w,
+  ./../images/DIU35/tv-14828-768px.jpg 768w,
+  ./../images/DIU35/tv-14828-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-14828-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-14828-512px.jpg 512w,
+  ./../images/DIU35/bd-14828-768px.jpg 768w,
+  ./../images/DIU35/bd-14828-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -382,8 +942,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Here, both Shinobu and Hayato's faces have been redrawn, and the bit between Shinobu's neck and her hair is no longer coloured wrong:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-15200.jpg" />
- <img src="./../images/DIU35/bd-15200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-15200-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-15200-512px.jpg 512w,
+  ./../images/DIU35/tv-15200-768px.jpg 768w,
+  ./../images/DIU35/tv-15200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-15200-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-15200-512px.jpg 512w,
+  ./../images/DIU35/bd-15200-768px.jpg 768w,
+  ./../images/DIU35/bd-15200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -391,15 +965,43 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Here, the corners of Kira's eyes have been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-15365.jpg" />
- <img src="./../images/DIU35/bd-15365.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-15365-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-15365-512px.jpg 512w,
+  ./../images/DIU35/tv-15365-768px.jpg 768w,
+  ./../images/DIU35/tv-15365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-15365-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-15365-512px.jpg 512w,
+  ./../images/DIU35/bd-15365-768px.jpg 768w,
+  ./../images/DIU35/bd-15365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-15410.jpg" />
- <img src="./../images/DIU35/bd-15410.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-15410-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-15410-512px.jpg 512w,
+  ./../images/DIU35/tv-15410-768px.jpg 768w,
+  ./../images/DIU35/tv-15410-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-15410-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-15410-512px.jpg 512w,
+  ./../images/DIU35/bd-15410-768px.jpg 768w,
+  ./../images/DIU35/bd-15410-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -407,8 +1009,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Here Kira's eyes, Shinobu's face and Hayato's eyes+mouth have all been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-15560.jpg" />
- <img src="./../images/DIU35/bd-15560.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-15560-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-15560-512px.jpg 512w,
+  ./../images/DIU35/tv-15560-768px.jpg 768w,
+  ./../images/DIU35/tv-15560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-15560-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-15560-512px.jpg 512w,
+  ./../images/DIU35/bd-15560-768px.jpg 768w,
+  ./../images/DIU35/bd-15560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -416,8 +1032,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - I never noticed it, but Hayato's breakfast was floating in the TV version of this frame, and his table mat was a bit messed up; this has all been fixed in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-16060.jpg" />
- <img src="./../images/DIU35/bd-16060.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-16060-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-16060-512px.jpg 512w,
+  ./../images/DIU35/tv-16060-768px.jpg 768w,
+  ./../images/DIU35/tv-16060-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-16060-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-16060-512px.jpg 512w,
+  ./../images/DIU35/bd-16060-768px.jpg 768w,
+  ./../images/DIU35/bd-16060-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -425,22 +1055,64 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - In this scene, Hayato has a bunch of little differences: a small shade on his brow, the shading on the underside of his bangs and his left hand's fingers in the third frame:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-16265.jpg" />
- <img src="./../images/DIU35/bd-16265.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-16265-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-16265-512px.jpg 512w,
+  ./../images/DIU35/tv-16265-768px.jpg 768w,
+  ./../images/DIU35/tv-16265-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-16265-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-16265-512px.jpg 512w,
+  ./../images/DIU35/bd-16265-768px.jpg 768w,
+  ./../images/DIU35/bd-16265-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-16320.jpg" />
- <img src="./../images/DIU35/bd-16320.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-16320-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-16320-512px.jpg 512w,
+  ./../images/DIU35/tv-16320-768px.jpg 768w,
+  ./../images/DIU35/tv-16320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-16320-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-16320-512px.jpg 512w,
+  ./../images/DIU35/bd-16320-768px.jpg 768w,
+  ./../images/DIU35/bd-16320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-16370.jpg" />
- <img src="./../images/DIU35/bd-16370.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-16370-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-16370-512px.jpg 512w,
+  ./../images/DIU35/tv-16370-768px.jpg 768w,
+  ./../images/DIU35/tv-16370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-16370-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-16370-512px.jpg 512w,
+  ./../images/DIU35/bd-16370-768px.jpg 768w,
+  ./../images/DIU35/bd-16370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -448,8 +1120,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - This is a weird one. Hayato's face has been retouched in this part here, but his walking animation is just... One frame, while in the TV version it was less static. I don't know, I'm not sure I understand. Maybe it was done to give him the looks of someone who's walking uncomfortably, instead of a little kid who's just going merrily his way? Who knows. Ah, the background also goes by slower:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-16650.jpg" />
- <img src="./../images/DIU35/bd-16650.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-16650-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-16650-512px.jpg 512w,
+  ./../images/DIU35/tv-16650-768px.jpg 768w,
+  ./../images/DIU35/tv-16650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-16650-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-16650-512px.jpg 512w,
+  ./../images/DIU35/bd-16650-768px.jpg 768w,
+  ./../images/DIU35/bd-16650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -462,8 +1148,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - The car has been shaded way better in the BDs, but unfortunately Rohan still looks like a fish:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-19280.jpg" />
- <img src="./../images/DIU35/bd-19280.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-19280-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-19280-512px.jpg 512w,
+  ./../images/DIU35/tv-19280-768px.jpg 768w,
+  ./../images/DIU35/tv-19280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-19280-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-19280-512px.jpg 512w,
+  ./../images/DIU35/bd-19280-768px.jpg 768w,
+  ./../images/DIU35/bd-19280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -471,8 +1171,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Rohan's eyes are looking slightly better here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-19575.jpg" />
- <img src="./../images/DIU35/bd-19575.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-19575-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-19575-512px.jpg 512w,
+  ./../images/DIU35/tv-19575-768px.jpg 768w,
+  ./../images/DIU35/tv-19575-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-19575-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-19575-512px.jpg 512w,
+  ./../images/DIU35/bd-19575-768px.jpg 768w,
+  ./../images/DIU35/bd-19575-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -480,8 +1194,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - As in Episode #31, Kosaku has been retouched in this picture:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-19900.jpg" />
- <img src="./../images/DIU35/bd-19900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-19900-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-19900-512px.jpg 512w,
+  ./../images/DIU35/tv-19900-768px.jpg 768w,
+  ./../images/DIU35/tv-19900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-19900-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-19900-512px.jpg 512w,
+  ./../images/DIU35/bd-19900-768px.jpg 768w,
+  ./../images/DIU35/bd-19900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -489,8 +1217,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Rohan has been moved a bit to the left here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-19950.jpg" />
- <img src="./../images/DIU35/bd-19950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-19950-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-19950-512px.jpg 512w,
+  ./../images/DIU35/tv-19950-768px.jpg 768w,
+  ./../images/DIU35/tv-19950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-19950-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-19950-512px.jpg 512w,
+  ./../images/DIU35/bd-19950-768px.jpg 768w,
+  ./../images/DIU35/bd-19950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -498,8 +1240,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - A bit of Hayato's waistcoat was miscoloured in the TV version, and has been fixed in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-20065.jpg" />
- <img src="./../images/DIU35/bd-20065.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-20065-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-20065-512px.jpg 512w,
+  ./../images/DIU35/tv-20065-768px.jpg 768w,
+  ./../images/DIU35/tv-20065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-20065-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-20065-512px.jpg 512w,
+  ./../images/DIU35/bd-20065-768px.jpg 768w,
+  ./../images/DIU35/bd-20065-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -514,8 +1270,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Rohan's face has been retouched here, and Hayato's face... flap? no longer has the book texture:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-20725.jpg" />
- <img src="./../images/DIU35/bd-20725.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-20725-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-20725-512px.jpg 512w,
+  ./../images/DIU35/tv-20725-768px.jpg 768w,
+  ./../images/DIU35/tv-20725-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-20725-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-20725-512px.jpg 512w,
+  ./../images/DIU35/bd-20725-768px.jpg 768w,
+  ./../images/DIU35/bd-20725-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -523,8 +1293,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - The writings on Hayato's book-face have been shuffled around, Rohan no longer stands there with his mouth agape and the shade on his neck and shoulder is different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-21510.jpg" />
- <img src="./../images/DIU35/bd-21510.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-21510-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-21510-512px.jpg 512w,
+  ./../images/DIU35/tv-21510-768px.jpg 768w,
+  ./../images/DIU35/tv-21510-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-21510-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-21510-512px.jpg 512w,
+  ./../images/DIU35/bd-21510-768px.jpg 768w,
+  ./../images/DIU35/bd-21510-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -532,8 +1316,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Rohan's eye area has been retouched here, and the line on top of his mouth is also slightly different. Also, the rightmost pen on his stripper shirt no longer has that extra line:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-22160.jpg" />
- <img src="./../images/DIU35/bd-22160.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-22160-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-22160-512px.jpg 512w,
+  ./../images/DIU35/tv-22160-768px.jpg 768w,
+  ./../images/DIU35/tv-22160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-22160-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-22160-512px.jpg 512w,
+  ./../images/DIU35/bd-22160-768px.jpg 768w,
+  ./../images/DIU35/bd-22160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -541,8 +1339,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - In the clock half of this split screen closeup, Rohan's skin no longer looks like lead, the clock has been completely re-coloured and reshaded, and half of the numbers are no longer flipped:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-22250.jpg" />
- <img src="./../images/DIU35/bd-22250.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-22250-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-22250-512px.jpg 512w,
+  ./../images/DIU35/tv-22250-768px.jpg 768w,
+  ./../images/DIU35/tv-22250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-22250-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-22250-512px.jpg 512w,
+  ./../images/DIU35/bd-22250-768px.jpg 768w,
+  ./../images/DIU35/bd-22250-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -550,8 +1362,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Hayato's mouth is open here, and some lines over his eyes have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-22570.jpg" />
- <img src="./../images/DIU35/bd-22570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-22570-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-22570-512px.jpg 512w,
+  ./../images/DIU35/tv-22570-768px.jpg 768w,
+  ./../images/DIU35/tv-22570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-22570-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-22570-512px.jpg 512w,
+  ./../images/DIU35/bd-22570-768px.jpg 768w,
+  ./../images/DIU35/bd-22570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -559,8 +1385,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - The writings have been shuffled around again here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-22970.jpg" />
- <img src="./../images/DIU35/bd-22970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-22970-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-22970-512px.jpg 512w,
+  ./../images/DIU35/tv-22970-768px.jpg 768w,
+  ./../images/DIU35/tv-22970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-22970-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-22970-512px.jpg 512w,
+  ./../images/DIU35/bd-22970-768px.jpg 768w,
+  ./../images/DIU35/bd-22970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -568,8 +1408,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - The first character in 定禅寺 (Jōzenji, the name of a temple - and I'm assuming also a district - in Sendai) was previously mistakenly written as 浄 (which can also be pronounced "jō"); this was corrected in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-23040.jpg" />
- <img src="./../images/DIU35/bd-23040.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-23040-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-23040-512px.jpg 512w,
+  ./../images/DIU35/tv-23040-768px.jpg 768w,
+  ./../images/DIU35/tv-23040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-23040-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-23040-512px.jpg 512w,
+  ./../images/DIU35/bd-23040-768px.jpg 768w,
+  ./../images/DIU35/bd-23040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -577,8 +1431,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Hayato's whole head has been redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-23270.jpg" />
- <img src="./../images/DIU35/bd-23270.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-23270-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-23270-512px.jpg 512w,
+  ./../images/DIU35/tv-23270-768px.jpg 768w,
+  ./../images/DIU35/tv-23270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-23270-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-23270-512px.jpg 512w,
+  ./../images/DIU35/bd-23270-768px.jpg 768w,
+  ./../images/DIU35/bd-23270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -586,8 +1454,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - The kanji again here, plus a slightly different shade around that part:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-23650.jpg" />
- <img src="./../images/DIU35/bd-23650.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-23650-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-23650-512px.jpg 512w,
+  ./../images/DIU35/tv-23650-768px.jpg 768w,
+  ./../images/DIU35/tv-23650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-23650-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-23650-512px.jpg 512w,
+  ./../images/DIU35/bd-23650-768px.jpg 768w,
+  ./../images/DIU35/bd-23650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -595,22 +1477,64 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Rohan's face has been retouched in this collection of smug frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-23663.jpg" />
- <img src="./../images/DIU35/bd-23663.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-23663-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-23663-512px.jpg 512w,
+  ./../images/DIU35/tv-23663-768px.jpg 768w,
+  ./../images/DIU35/tv-23663-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-23663-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-23663-512px.jpg 512w,
+  ./../images/DIU35/bd-23663-768px.jpg 768w,
+  ./../images/DIU35/bd-23663-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-23670.jpg" />
- <img src="./../images/DIU35/bd-23670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-23670-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-23670-512px.jpg 512w,
+  ./../images/DIU35/tv-23670-768px.jpg 768w,
+  ./../images/DIU35/tv-23670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-23670-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-23670-512px.jpg 512w,
+  ./../images/DIU35/bd-23670-768px.jpg 768w,
+  ./../images/DIU35/bd-23670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-23705.jpg" />
- <img src="./../images/DIU35/bd-23705.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-23705-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-23705-512px.jpg 512w,
+  ./../images/DIU35/tv-23705-768px.jpg 768w,
+  ./../images/DIU35/tv-23705-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-23705-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-23705-512px.jpg 512w,
+  ./../images/DIU35/bd-23705-768px.jpg 768w,
+  ./../images/DIU35/bd-23705-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -618,8 +1542,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - In this shade there's a bunch of different things: Rohan is actually looking at the book, most of the shading on Hayato is different and his left eye area has been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-23970.jpg" />
- <img src="./../images/DIU35/bd-23970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-23970-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-23970-512px.jpg 512w,
+  ./../images/DIU35/tv-23970-768px.jpg 768w,
+  ./../images/DIU35/tv-23970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-23970-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-23970-512px.jpg 512w,
+  ./../images/DIU35/bd-23970-768px.jpg 768w,
+  ./../images/DIU35/bd-23970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -627,15 +1565,43 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Here, the part below the book is no longer skin-coloured, and there's one bit of the book which has been shaded differently. Additionally, the middle bunch of papers is now just one page:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24050.jpg" />
- <img src="./../images/DIU35/bd-24050.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24050-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24050-512px.jpg 512w,
+  ./../images/DIU35/tv-24050-768px.jpg 768w,
+  ./../images/DIU35/tv-24050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24050-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24050-512px.jpg 512w,
+  ./../images/DIU35/bd-24050-768px.jpg 768w,
+  ./../images/DIU35/bd-24050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24145.jpg" />
- <img src="./../images/DIU35/bd-24145.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24145-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24145-512px.jpg 512w,
+  ./../images/DIU35/tv-24145-768px.jpg 768w,
+  ./../images/DIU35/tv-24145-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24145-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24145-512px.jpg 512w,
+  ./../images/DIU35/bd-24145-768px.jpg 768w,
+  ./../images/DIU35/bd-24145-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -643,15 +1609,43 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - In addition to the usual retouched left eye of Hayato, Killer Queen's head has also been (thankfully) redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24170.jpg" />
- <img src="./../images/DIU35/bd-24170.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24170-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24170-512px.jpg 512w,
+  ./../images/DIU35/tv-24170-768px.jpg 768w,
+  ./../images/DIU35/tv-24170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24170-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24170-512px.jpg 512w,
+  ./../images/DIU35/bd-24170-768px.jpg 768w,
+  ./../images/DIU35/bd-24170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24240.jpg" />
- <img src="./../images/DIU35/bd-24240.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24240-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24240-512px.jpg 512w,
+  ./../images/DIU35/tv-24240-768px.jpg 768w,
+  ./../images/DIU35/tv-24240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24240-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24240-512px.jpg 512w,
+  ./../images/DIU35/bd-24240-768px.jpg 768w,
+  ./../images/DIU35/bd-24240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -666,8 +1660,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Hayato has also been moved a bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24325.jpg" />
- <img src="./../images/DIU35/bd-24325.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24325-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24325-512px.jpg 512w,
+  ./../images/DIU35/tv-24325-768px.jpg 768w,
+  ./../images/DIU35/tv-24325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24325-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24325-512px.jpg 512w,
+  ./../images/DIU35/bd-24325-768px.jpg 768w,
+  ./../images/DIU35/bd-24325-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -675,22 +1683,64 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Killer Queen's head is looking MUCH better here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24330.jpg" />
- <img src="./../images/DIU35/bd-24330.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24330-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24330-512px.jpg 512w,
+  ./../images/DIU35/tv-24330-768px.jpg 768w,
+  ./../images/DIU35/tv-24330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24330-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24330-512px.jpg 512w,
+  ./../images/DIU35/bd-24330-768px.jpg 768w,
+  ./../images/DIU35/bd-24330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24335.jpg" />
- <img src="./../images/DIU35/bd-24335.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24335-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24335-512px.jpg 512w,
+  ./../images/DIU35/tv-24335-768px.jpg 768w,
+  ./../images/DIU35/tv-24335-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24335-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24335-512px.jpg 512w,
+  ./../images/DIU35/bd-24335-768px.jpg 768w,
+  ./../images/DIU35/bd-24335-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24350.jpg" />
- <img src="./../images/DIU35/bd-24350.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24350-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24350-512px.jpg 512w,
+  ./../images/DIU35/tv-24350-768px.jpg 768w,
+  ./../images/DIU35/tv-24350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24350-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24350-512px.jpg 512w,
+  ./../images/DIU35/bd-24350-768px.jpg 768w,
+  ./../images/DIU35/bd-24350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -698,8 +1748,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - In this shot, Rohan's hairband is no longer part of his forehead, the penhead button now actually is a penhead (is that even a word?), some of his teeth have been shaded and his left earring has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24510.jpg" />
- <img src="./../images/DIU35/bd-24510.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24510-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24510-512px.jpg 512w,
+  ./../images/DIU35/tv-24510-768px.jpg 768w,
+  ./../images/DIU35/tv-24510-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24510-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24510-512px.jpg 512w,
+  ./../images/DIU35/bd-24510-768px.jpg 768w,
+  ./../images/DIU35/bd-24510-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -712,64 +1776,190 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24540.jpg" />
- <img src="./../images/DIU35/bd-24540.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24540-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24540-512px.jpg 512w,
+  ./../images/DIU35/tv-24540-768px.jpg 768w,
+  ./../images/DIU35/tv-24540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24540-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24540-512px.jpg 512w,
+  ./../images/DIU35/bd-24540-768px.jpg 768w,
+  ./../images/DIU35/bd-24540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24570.jpg" />
- <img src="./../images/DIU35/bd-24570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24570-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24570-512px.jpg 512w,
+  ./../images/DIU35/tv-24570-768px.jpg 768w,
+  ./../images/DIU35/tv-24570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24570-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24570-512px.jpg 512w,
+  ./../images/DIU35/bd-24570-768px.jpg 768w,
+  ./../images/DIU35/bd-24570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24585.jpg" />
- <img src="./../images/DIU35/bd-24585.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24585-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24585-512px.jpg 512w,
+  ./../images/DIU35/tv-24585-768px.jpg 768w,
+  ./../images/DIU35/tv-24585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24585-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24585-512px.jpg 512w,
+  ./../images/DIU35/bd-24585-768px.jpg 768w,
+  ./../images/DIU35/bd-24585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24610.jpg" />
- <img src="./../images/DIU35/bd-24610.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24610-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24610-512px.jpg 512w,
+  ./../images/DIU35/tv-24610-768px.jpg 768w,
+  ./../images/DIU35/tv-24610-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24610-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24610-512px.jpg 512w,
+  ./../images/DIU35/bd-24610-768px.jpg 768w,
+  ./../images/DIU35/bd-24610-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24650.jpg" />
- <img src="./../images/DIU35/bd-24650.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24650-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24650-512px.jpg 512w,
+  ./../images/DIU35/tv-24650-768px.jpg 768w,
+  ./../images/DIU35/tv-24650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24650-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24650-512px.jpg 512w,
+  ./../images/DIU35/bd-24650-768px.jpg 768w,
+  ./../images/DIU35/bd-24650-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24710.jpg" />
- <img src="./../images/DIU35/bd-24710.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24710-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24710-512px.jpg 512w,
+  ./../images/DIU35/tv-24710-768px.jpg 768w,
+  ./../images/DIU35/tv-24710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24710-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24710-512px.jpg 512w,
+  ./../images/DIU35/bd-24710-768px.jpg 768w,
+  ./../images/DIU35/bd-24710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24715.jpg" />
- <img src="./../images/DIU35/bd-24715.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24715-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24715-512px.jpg 512w,
+  ./../images/DIU35/tv-24715-768px.jpg 768w,
+  ./../images/DIU35/tv-24715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24715-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24715-512px.jpg 512w,
+  ./../images/DIU35/bd-24715-768px.jpg 768w,
+  ./../images/DIU35/bd-24715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24720.jpg" />
- <img src="./../images/DIU35/bd-24720.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24720-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24720-512px.jpg 512w,
+  ./../images/DIU35/tv-24720-768px.jpg 768w,
+  ./../images/DIU35/tv-24720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24720-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24720-512px.jpg 512w,
+  ./../images/DIU35/bd-24720-768px.jpg 768w,
+  ./../images/DIU35/bd-24720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24731.jpg" />
- <img src="./../images/DIU35/bd-24731.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24731-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24731-512px.jpg 512w,
+  ./../images/DIU35/tv-24731-768px.jpg 768w,
+  ./../images/DIU35/tv-24731-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24731-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24731-512px.jpg 512w,
+  ./../images/DIU35/bd-24731-768px.jpg 768w,
+  ./../images/DIU35/bd-24731-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -782,8 +1972,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-24950.jpg" />
- <img src="./../images/DIU35/bd-24950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-24950-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-24950-512px.jpg 512w,
+  ./../images/DIU35/tv-24950-768px.jpg 768w,
+  ./../images/DIU35/tv-24950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-24950-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-24950-512px.jpg 512w,
+  ./../images/DIU35/bd-24950-768px.jpg 768w,
+  ./../images/DIU35/bd-24950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -791,8 +1995,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Hayato's mouth is open again here, his left eye has been retouched again and there is a shading below the page:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-25230.jpg" />
- <img src="./../images/DIU35/bd-25230.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-25230-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-25230-512px.jpg 512w,
+  ./../images/DIU35/tv-25230-768px.jpg 768w,
+  ./../images/DIU35/tv-25230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-25230-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-25230-512px.jpg 512w,
+  ./../images/DIU35/bd-25230-768px.jpg 768w,
+  ./../images/DIU35/bd-25230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -800,8 +2018,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Here, the bg has been moved, the traffic light is different and a house on the left has been redrawn completely for some reason:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-26000.jpg" />
- <img src="./../images/DIU35/bd-26000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-26000-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-26000-512px.jpg 512w,
+  ./../images/DIU35/tv-26000-768px.jpg 768w,
+  ./../images/DIU35/tv-26000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-26000-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-26000-512px.jpg 512w,
+  ./../images/DIU35/bd-26000-768px.jpg 768w,
+  ./../images/DIU35/bd-26000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -816,22 +2048,64 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - There's blood around Rohan's mouth in this bunch of frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-26420.jpg" />
- <img src="./../images/DIU35/bd-26420.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-26420-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-26420-512px.jpg 512w,
+  ./../images/DIU35/tv-26420-768px.jpg 768w,
+  ./../images/DIU35/tv-26420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-26420-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-26420-512px.jpg 512w,
+  ./../images/DIU35/bd-26420-768px.jpg 768w,
+  ./../images/DIU35/bd-26420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-26600.jpg" />
- <img src="./../images/DIU35/bd-26600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-26600-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-26600-512px.jpg 512w,
+  ./../images/DIU35/tv-26600-768px.jpg 768w,
+  ./../images/DIU35/tv-26600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-26600-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-26600-512px.jpg 512w,
+  ./../images/DIU35/bd-26600-768px.jpg 768w,
+  ./../images/DIU35/bd-26600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-26720.jpg" />
- <img src="./../images/DIU35/bd-26720.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-26720-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-26720-512px.jpg 512w,
+  ./../images/DIU35/tv-26720-768px.jpg 768w,
+  ./../images/DIU35/tv-26720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-26720-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-26720-512px.jpg 512w,
+  ./../images/DIU35/bd-26720-768px.jpg 768w,
+  ./../images/DIU35/bd-26720-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -844,15 +2118,43 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-26885.jpg" />
- <img src="./../images/DIU35/bd-26885.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-26885-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-26885-512px.jpg 512w,
+  ./../images/DIU35/tv-26885-768px.jpg 768w,
+  ./../images/DIU35/tv-26885-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-26885-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-26885-512px.jpg 512w,
+  ./../images/DIU35/bd-26885-768px.jpg 768w,
+  ./../images/DIU35/bd-26885-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-26920.jpg" />
- <img src="./../images/DIU35/bd-26920.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-26920-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-26920-512px.jpg 512w,
+  ./../images/DIU35/tv-26920-768px.jpg 768w,
+  ./../images/DIU35/tv-26920-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-26920-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-26920-512px.jpg 512w,
+  ./../images/DIU35/bd-26920-768px.jpg 768w,
+  ./../images/DIU35/bd-26920-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -860,8 +2162,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - The wall has been coloured differently here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-27640.jpg" />
- <img src="./../images/DIU35/bd-27640.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-27640-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-27640-512px.jpg 512w,
+  ./../images/DIU35/tv-27640-768px.jpg 768w,
+  ./../images/DIU35/tv-27640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-27640-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-27640-512px.jpg 512w,
+  ./../images/DIU35/bd-27640-768px.jpg 768w,
+  ./../images/DIU35/bd-27640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -876,8 +2192,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - This scene has more zoom and is overall different, while in the TV version it's basically just a more zoomed-in version of the previous shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-27920.jpg" />
- <img src="./../images/DIU35/bd-27920.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-27920-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-27920-512px.jpg 512w,
+  ./../images/DIU35/tv-27920-768px.jpg 768w,
+  ./../images/DIU35/tv-27920-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-27920-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-27920-512px.jpg 512w,
+  ./../images/DIU35/bd-27920-768px.jpg 768w,
+  ./../images/DIU35/bd-27920-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -885,8 +2215,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - The green bit of Kira's tie is darker in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-28780.jpg" />
- <img src="./../images/DIU35/bd-28780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-28780-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-28780-512px.jpg 512w,
+  ./../images/DIU35/tv-28780-768px.jpg 768w,
+  ./../images/DIU35/tv-28780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-28780-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-28780-512px.jpg 512w,
+  ./../images/DIU35/bd-28780-768px.jpg 768w,
+  ./../images/DIU35/bd-28780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -894,8 +2238,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - In this real footage of Hayato using his psychokinesis to hold his mother and a teapot hostage, his face has been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-29160.jpg" />
- <img src="./../images/DIU35/bd-29160.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-29160-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-29160-512px.jpg 512w,
+  ./../images/DIU35/tv-29160-768px.jpg 768w,
+  ./../images/DIU35/tv-29160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-29160-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-29160-512px.jpg 512w,
+  ./../images/DIU35/bd-29160-768px.jpg 768w,
+  ./../images/DIU35/bd-29160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -903,8 +2261,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Hayato's right elbow is behind the table here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-29320.jpg" />
- <img src="./../images/DIU35/bd-29320.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-29320-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-29320-512px.jpg 512w,
+  ./../images/DIU35/tv-29320-768px.jpg 768w,
+  ./../images/DIU35/tv-29320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-29320-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-29320-512px.jpg 512w,
+  ./../images/DIU35/bd-29320-768px.jpg 768w,
+  ./../images/DIU35/bd-29320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -912,8 +2284,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Here, Kira's hand actually casts a shadow, and the motif in the teapot's blue part no longer stops abruptly on the left:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-29770.jpg" />
- <img src="./../images/DIU35/bd-29770.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-29770-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-29770-512px.jpg 512w,
+  ./../images/DIU35/tv-29770-768px.jpg 768w,
+  ./../images/DIU35/tv-29770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-29770-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-29770-512px.jpg 512w,
+  ./../images/DIU35/bd-29770-768px.jpg 768w,
+  ./../images/DIU35/bd-29770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -921,8 +2307,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - In this shot, Kira's tie has been redrawn and no longer disappears, the line near his cheekbone is thicker and the shading on his face is different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-29830.jpg" />
- <img src="./../images/DIU35/bd-29830.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-29830-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-29830-512px.jpg 512w,
+  ./../images/DIU35/tv-29830-768px.jpg 768w,
+  ./../images/DIU35/tv-29830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-29830-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-29830-512px.jpg 512w,
+  ./../images/DIU35/bd-29830-768px.jpg 768w,
+  ./../images/DIU35/bd-29830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -930,8 +2330,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - This whole flashback sequence looks much, much better in the BDs. Almost everything is darker, has a heavy vignette along the edge of the frame and a heavy texture on top, and the hues have been shifted:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-30550.jpg" />
- <img src="./../images/DIU35/bd-30550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-30550-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-30550-512px.jpg 512w,
+  ./../images/DIU35/tv-30550-768px.jpg 768w,
+  ./../images/DIU35/tv-30550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-30550-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-30550-512px.jpg 512w,
+  ./../images/DIU35/bd-30550-768px.jpg 768w,
+  ./../images/DIU35/bd-30550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -939,8 +2353,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - And again here, plus a massive zoom-in and distortion...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-30585.jpg" />
- <img src="./../images/DIU35/bd-30585.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-30585-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-30585-512px.jpg 512w,
+  ./../images/DIU35/tv-30585-768px.jpg 768w,
+  ./../images/DIU35/tv-30585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-30585-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-30585-512px.jpg 512w,
+  ./../images/DIU35/bd-30585-768px.jpg 768w,
+  ./../images/DIU35/bd-30585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -955,8 +2383,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - And here too. In addition, they also drew in Kira's lower teeth:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-30620.jpg" />
- <img src="./../images/DIU35/bd-30620.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-30620-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-30620-512px.jpg 512w,
+  ./../images/DIU35/tv-30620-768px.jpg 768w,
+  ./../images/DIU35/tv-30620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-30620-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-30620-512px.jpg 512w,
+  ./../images/DIU35/bd-30620-768px.jpg 768w,
+  ./../images/DIU35/bd-30620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -969,8 +2411,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-30665.jpg" />
- <img src="./../images/DIU35/bd-30665.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-30665-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-30665-512px.jpg 512w,
+  ./../images/DIU35/tv-30665-768px.jpg 768w,
+  ./../images/DIU35/tv-30665-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-30665-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-30665-512px.jpg 512w,
+  ./../images/DIU35/bd-30665-768px.jpg 768w,
+  ./../images/DIU35/bd-30665-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -979,8 +2435,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - And oh! Look! Here too!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-30680.jpg" />
- <img src="./../images/DIU35/bd-30680.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-30680-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-30680-512px.jpg 512w,
+  ./../images/DIU35/tv-30680-768px.jpg 768w,
+  ./../images/DIU35/tv-30680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-30680-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-30680-512px.jpg 512w,
+  ./../images/DIU35/bd-30680-768px.jpg 768w,
+  ./../images/DIU35/bd-30680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -988,8 +2458,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - And one more for the road (plus all the additional changes listed before, in the non-flashback version:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-30730.jpg" />
- <img src="./../images/DIU35/bd-30730.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-30730-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-30730-512px.jpg 512w,
+  ./../images/DIU35/tv-30730-768px.jpg 768w,
+  ./../images/DIU35/tv-30730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-30730-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-30730-512px.jpg 512w,
+  ./../images/DIU35/bd-30730-768px.jpg 768w,
+  ./../images/DIU35/bd-30730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1002,8 +2486,22 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-30890.jpg" />
- <img src="./../images/DIU35/bd-30878.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-30890-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-30890-512px.jpg 512w,
+  ./../images/DIU35/tv-30890-768px.jpg 768w,
+  ./../images/DIU35/tv-30890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-30878-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-30878-512px.jpg 512w,
+  ./../images/DIU35/bd-30878-768px.jpg 768w,
+  ./../images/DIU35/bd-30878-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1011,15 +2509,43 @@ Hello, everybody, and welcome back to this silly blog! Today we'll be heading in
 - Here, both Kira and Hayato's faces have been retouched, the shading on the chair is slightly different and the heat from the tea makes different puffs of vapour:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-31460.jpg" />
- <img src="./../images/DIU35/bd-31460.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-31460-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-31460-512px.jpg 512w,
+  ./../images/DIU35/tv-31460-768px.jpg 768w,
+  ./../images/DIU35/tv-31460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-31460-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-31460-512px.jpg 512w,
+  ./../images/DIU35/bd-31460-768px.jpg 768w,
+  ./../images/DIU35/bd-31460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU35/tv-31655.jpg" />
- <img src="./../images/DIU35/bd-31655.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/tv-31655-1090px.jpg"
+  data-srcset="./../images/DIU35/tv-31655-512px.jpg 512w,
+  ./../images/DIU35/tv-31655-768px.jpg 768w,
+  ./../images/DIU35/tv-31655-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU35/bd-31655-1090px.jpg"
+  data-srcset="./../images/DIU35/bd-31655-512px.jpg 512w,
+  ./../images/DIU35/bd-31655-768px.jpg 768w,
+  ./../images/DIU35/bd-31655-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

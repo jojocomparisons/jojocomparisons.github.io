@@ -19,22 +19,64 @@ Hey, everybody! Welcome back to JoJo's Bizarre Comparisons. Today we're going to
 - In the scene where Tonio is talking about all the Italian tomato-based recipes, almost all the dishes have been either redrawn or re-shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-10152.jpg" />
- <img src="./../images/DIU10/bd-10152.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-10152-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-10152-512px.jpg 512w,
+  ./../images/DIU10/tv-10152-768px.jpg 768w,
+  ./../images/DIU10/tv-10152-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-10152-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-10152-512px.jpg 512w,
+  ./../images/DIU10/bd-10152-768px.jpg 768w,
+  ./../images/DIU10/bd-10152-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-10207.jpg" />
- <img src="./../images/DIU10/bd-10207.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-10207-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-10207-512px.jpg 512w,
+  ./../images/DIU10/tv-10207-768px.jpg 768w,
+  ./../images/DIU10/tv-10207-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-10207-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-10207-512px.jpg 512w,
+  ./../images/DIU10/bd-10207-768px.jpg 768w,
+  ./../images/DIU10/bd-10207-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-10270.jpg" />
- <img src="./../images/DIU10/bd-10270.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-10270-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-10270-512px.jpg 512w,
+  ./../images/DIU10/tv-10270-768px.jpg 768w,
+  ./../images/DIU10/tv-10270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-10270-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-10270-512px.jpg 512w,
+  ./../images/DIU10/bd-10270-768px.jpg 768w,
+  ./../images/DIU10/bd-10270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -42,8 +84,22 @@ Hey, everybody! Welcome back to JoJo's Bizarre Comparisons. Today we're going to
 - And here, the "stripes" that divide Okuyasu from the rest of the screen have been toned down (they're no longer as neon bright as they were in the TV version), and so was the slight aura around Okuyasu:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-11910.jpg" />
- <img src="./../images/DIU10/bd-11910.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-11910-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-11910-512px.jpg 512w,
+  ./../images/DIU10/tv-11910-768px.jpg 768w,
+  ./../images/DIU10/tv-11910-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-11910-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-11910-512px.jpg 512w,
+  ./../images/DIU10/bd-11910-768px.jpg 768w,
+  ./../images/DIU10/bd-11910-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -51,15 +107,43 @@ Hey, everybody! Welcome back to JoJo's Bizarre Comparisons. Today we're going to
 - In this scene here, a very small bit on Josuke's armband has been recoloured to be darker in a couple of frames; the fork on Okuyasu's side of the table has also been moved from his right to his left:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-12380.jpg" />
- <img src="./../images/DIU10/bd-12380.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-12380-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-12380-512px.jpg 512w,
+  ./../images/DIU10/tv-12380-768px.jpg 768w,
+  ./../images/DIU10/tv-12380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-12380-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-12380-512px.jpg 512w,
+  ./../images/DIU10/bd-12380-768px.jpg 768w,
+  ./../images/DIU10/bd-12380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-12430.jpg" />
- <img src="./../images/DIU10/bd-12430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-12430-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-12430-512px.jpg 512w,
+  ./../images/DIU10/tv-12430-768px.jpg 768w,
+  ./../images/DIU10/tv-12430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-12430-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-12430-512px.jpg 512w,
+  ./../images/DIU10/bd-12430-768px.jpg 768w,
+  ./../images/DIU10/bd-12430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -67,29 +151,85 @@ Hey, everybody! Welcome back to JoJo's Bizarre Comparisons. Today we're going to
 - This scene of Okuyasu scratching his shoulder away has been uncensored (and the lines are slightly sharper, but that might just be an encoding issue):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-13840.jpg" />
- <img src="./../images/DIU10/bd-13840.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-13840-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-13840-512px.jpg 512w,
+  ./../images/DIU10/tv-13840-768px.jpg 768w,
+  ./../images/DIU10/tv-13840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-13840-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-13840-512px.jpg 512w,
+  ./../images/DIU10/bd-13840-768px.jpg 768w,
+  ./../images/DIU10/bd-13840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-14785.jpg" />
- <img src="./../images/DIU10/bd-14785.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-14785-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-14785-512px.jpg 512w,
+  ./../images/DIU10/tv-14785-768px.jpg 768w,
+  ./../images/DIU10/tv-14785-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-14785-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-14785-512px.jpg 512w,
+  ./../images/DIU10/bd-14785-768px.jpg 768w,
+  ./../images/DIU10/bd-14785-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-14840.jpg" />
- <img src="./../images/DIU10/bd-14840.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-14840-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-14840-512px.jpg 512w,
+  ./../images/DIU10/tv-14840-768px.jpg 768w,
+  ./../images/DIU10/tv-14840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-14840-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-14840-512px.jpg 512w,
+  ./../images/DIU10/bd-14840-768px.jpg 768w,
+  ./../images/DIU10/bd-14840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-15005.jpg" />
- <img src="./../images/DIU10/bd-15005.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-15005-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-15005-512px.jpg 512w,
+  ./../images/DIU10/tv-15005-768px.jpg 768w,
+  ./../images/DIU10/tv-15005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-15005-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-15005-512px.jpg 512w,
+  ./../images/DIU10/bd-15005-768px.jpg 768w,
+  ./../images/DIU10/bd-15005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -97,15 +237,43 @@ Hey, everybody! Welcome back to JoJo's Bizarre Comparisons. Today we're going to
 - Here we can have an uncensored look at the doggo exploding his guts out; the aforementioned stripes have also been toned down again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-25370.jpg" />
- <img src="./../images/DIU10/bd-25370.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-25370-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-25370-512px.jpg 512w,
+  ./../images/DIU10/tv-25370-768px.jpg 768w,
+  ./../images/DIU10/tv-25370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-25370-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-25370-512px.jpg 512w,
+  ./../images/DIU10/bd-25370-768px.jpg 768w,
+  ./../images/DIU10/bd-25370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-25380.jpg" />
- <img src="./../images/DIU10/bd-25380.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-25380-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-25380-512px.jpg 512w,
+  ./../images/DIU10/tv-25380-768px.jpg 768w,
+  ./../images/DIU10/tv-25380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-25380-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-25380-512px.jpg 512w,
+  ./../images/DIU10/bd-25380-768px.jpg 768w,
+  ./../images/DIU10/bd-25380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -118,36 +286,106 @@ Hey, everybody! Welcome back to JoJo's Bizarre Comparisons. Today we're going to
 - And here, it is Okuyasu whose uncensored innards we can finally take a look at:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-26950.jpg" />
- <img src="./../images/DIU10/bd-26950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-26950-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-26950-512px.jpg 512w,
+  ./../images/DIU10/tv-26950-768px.jpg 768w,
+  ./../images/DIU10/tv-26950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-26950-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-26950-512px.jpg 512w,
+  ./../images/DIU10/bd-26950-768px.jpg 768w,
+  ./../images/DIU10/bd-26950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-26980.jpg" />
- <img src="./../images/DIU10/bd-26980.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-26980-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-26980-512px.jpg 512w,
+  ./../images/DIU10/tv-26980-768px.jpg 768w,
+  ./../images/DIU10/tv-26980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-26980-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-26980-512px.jpg 512w,
+  ./../images/DIU10/bd-26980-768px.jpg 768w,
+  ./../images/DIU10/bd-26980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-27015.jpg" />
- <img src="./../images/DIU10/bd-27015.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-27015-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-27015-512px.jpg 512w,
+  ./../images/DIU10/tv-27015-768px.jpg 768w,
+  ./../images/DIU10/tv-27015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-27015-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-27015-512px.jpg 512w,
+  ./../images/DIU10/bd-27015-768px.jpg 768w,
+  ./../images/DIU10/bd-27015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-27170.jpg" />
- <img src="./../images/DIU10/bd-27170.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-27170-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-27170-512px.jpg 512w,
+  ./../images/DIU10/tv-27170-768px.jpg 768w,
+  ./../images/DIU10/tv-27170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-27170-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-27170-512px.jpg 512w,
+  ./../images/DIU10/bd-27170-768px.jpg 768w,
+  ./../images/DIU10/bd-27170-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU10/tv-27320.jpg" />
- <img src="./../images/DIU10/bd-27320.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/tv-27320-1090px.jpg"
+  data-srcset="./../images/DIU10/tv-27320-512px.jpg 512w,
+  ./../images/DIU10/tv-27320-768px.jpg 768w,
+  ./../images/DIU10/tv-27320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU10/bd-27320-1090px.jpg"
+  data-srcset="./../images/DIU10/bd-27320-512px.jpg 512w,
+  ./../images/DIU10/bd-27320-768px.jpg 768w,
+  ./../images/DIU10/bd-27320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

@@ -26,22 +26,64 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - In the BD, the clock is some seconds ahead:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-00820.jpg" />
- <img src="./../images/DIU37/bd-00820.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-00820-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-00820-512px.jpg 512w,
+  ./../images/DIU37/tv-00820-768px.jpg 768w,
+  ./../images/DIU37/tv-00820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-00820-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-00820-512px.jpg 512w,
+  ./../images/DIU37/bd-00820-768px.jpg 768w,
+  ./../images/DIU37/bd-00820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-00940.jpg" />
- <img src="./../images/DIU37/bd-00940.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-00940-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-00940-512px.jpg 512w,
+  ./../images/DIU37/tv-00940-768px.jpg 768w,
+  ./../images/DIU37/tv-00940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-00940-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-00940-512px.jpg 512w,
+  ./../images/DIU37/bd-00940-768px.jpg 768w,
+  ./../images/DIU37/bd-00940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-01609.jpg" />
- <img src="./../images/DIU37/bd-01609.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-01609-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-01609-512px.jpg 512w,
+  ./../images/DIU37/tv-01609-768px.jpg 768w,
+  ./../images/DIU37/tv-01609-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-01609-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-01609-512px.jpg 512w,
+  ./../images/DIU37/bd-01609-768px.jpg 768w,
+  ./../images/DIU37/bd-01609-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -49,8 +91,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - And again here. Hayato's backpack has also been drawn lying on the ground next to him:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-01700.jpg" />
- <img src="./../images/DIU37/bd-01700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-01700-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-01700-512px.jpg 512w,
+  ./../images/DIU37/tv-01700-768px.jpg 768w,
+  ./../images/DIU37/tv-01700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-01700-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-01700-512px.jpg 512w,
+  ./../images/DIU37/bd-01700-768px.jpg 768w,
+  ./../images/DIU37/bd-01700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -58,8 +114,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Here, Kira's face has been retouched, Hayato's head has been turned so he's looking at his fake dad, and the backpack is back(pack):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-02600.jpg" />
- <img src="./../images/DIU37/bd-02600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-02600-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-02600-512px.jpg 512w,
+  ./../images/DIU37/tv-02600-768px.jpg 768w,
+  ./../images/DIU37/tv-02600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-02600-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-02600-512px.jpg 512w,
+  ./../images/DIU37/bd-02600-768px.jpg 768w,
+  ./../images/DIU37/bd-02600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -67,8 +137,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Here, Kira's right shirt sleeve has been striped, and that pesky backpack has been drawn once again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-03100.jpg" />
- <img src="./../images/DIU37/bd-03100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-03100-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-03100-512px.jpg 512w,
+  ./../images/DIU37/tv-03100-768px.jpg 768w,
+  ./../images/DIU37/tv-03100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-03100-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-03100-512px.jpg 512w,
+  ./../images/DIU37/bd-03100-768px.jpg 768w,
+  ./../images/DIU37/bd-03100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -76,8 +160,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - He attacc... He protecc... But most importantly... He baccpacc:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-06430.jpg" />
- <img src="./../images/DIU37/bd-06430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-06430-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-06430-512px.jpg 512w,
+  ./../images/DIU37/tv-06430-768px.jpg 768w,
+  ./../images/DIU37/tv-06430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-06430-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-06430-512px.jpg 512w,
+  ./../images/DIU37/bd-06430-768px.jpg 768w,
+  ./../images/DIU37/bd-06430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -90,8 +188,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-06620.jpg" />
- <img src="./../images/DIU37/bd-06620.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-06620-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-06620-512px.jpg 512w,
+  ./../images/DIU37/tv-06620-768px.jpg 768w,
+  ./../images/DIU37/tv-06620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-06620-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-06620-512px.jpg 512w,
+  ./../images/DIU37/bd-06620-768px.jpg 768w,
+  ./../images/DIU37/bd-06620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -99,8 +211,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Here, the white speed lines have been aligned to the black ones, and the backpack strikes again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-06930.jpg" />
- <img src="./../images/DIU37/bd-06930.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-06930-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-06930-512px.jpg 512w,
+  ./../images/DIU37/tv-06930-768px.jpg 768w,
+  ./../images/DIU37/tv-06930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-06930-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-06930-512px.jpg 512w,
+  ./../images/DIU37/bd-06930-768px.jpg 768w,
+  ./../images/DIU37/bd-06930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -108,8 +234,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Both Kira and Hayato's faces have been retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-07386.jpg" />
- <img src="./../images/DIU37/bd-07386.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-07386-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-07386-512px.jpg 512w,
+  ./../images/DIU37/tv-07386-768px.jpg 768w,
+  ./../images/DIU37/tv-07386-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-07386-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-07386-512px.jpg 512w,
+  ./../images/DIU37/bd-07386-768px.jpg 768w,
+  ./../images/DIU37/bd-07386-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -117,8 +257,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Take a wild guess homie:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-07550.jpg" />
- <img src="./../images/DIU37/bd-07550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-07550-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-07550-512px.jpg 512w,
+  ./../images/DIU37/tv-07550-768px.jpg 768w,
+  ./../images/DIU37/tv-07550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-07550-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-07550-512px.jpg 512w,
+  ./../images/DIU37/bd-07550-768px.jpg 768w,
+  ./../images/DIU37/bd-07550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -126,8 +280,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - The overlay texture is slightly different here, Kira's shirt stripes are a bit thicker and his missing right sleeve has been drawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-07900.jpg" />
- <img src="./../images/DIU37/bd-07900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-07900-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-07900-512px.jpg 512w,
+  ./../images/DIU37/tv-07900-768px.jpg 768w,
+  ./../images/DIU37/tv-07900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-07900-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-07900-512px.jpg 512w,
+  ./../images/DIU37/bd-07900-768px.jpg 768w,
+  ./../images/DIU37/bd-07900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -142,22 +310,64 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Hayato's face has been retouched in this bunch of frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-09100.jpg" />
- <img src="./../images/DIU37/bd-09100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-09100-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-09100-512px.jpg 512w,
+  ./../images/DIU37/tv-09100-768px.jpg 768w,
+  ./../images/DIU37/tv-09100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-09100-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-09100-512px.jpg 512w,
+  ./../images/DIU37/bd-09100-768px.jpg 768w,
+  ./../images/DIU37/bd-09100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-09165.jpg" />
- <img src="./../images/DIU37/bd-09165.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-09165-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-09165-512px.jpg 512w,
+  ./../images/DIU37/tv-09165-768px.jpg 768w,
+  ./../images/DIU37/tv-09165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-09165-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-09165-512px.jpg 512w,
+  ./../images/DIU37/bd-09165-768px.jpg 768w,
+  ./../images/DIU37/bd-09165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-09175.jpg" />
- <img src="./../images/DIU37/bd-09175.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-09175-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-09175-512px.jpg 512w,
+  ./../images/DIU37/tv-09175-768px.jpg 768w,
+  ./../images/DIU37/tv-09175-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-09175-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-09175-512px.jpg 512w,
+  ./../images/DIU37/bd-09175-768px.jpg 768w,
+  ./../images/DIU37/bd-09175-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -165,8 +375,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Here, Josuke's aura has a different shape, Okuyasu's eyes have been retouched and most of the symbols on his uniform have been redrawn (or drawn in. I'm looking at you, 億):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-09580.jpg" />
- <img src="./../images/DIU37/bd-09580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-09580-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-09580-512px.jpg 512w,
+  ./../images/DIU37/tv-09580-768px.jpg 768w,
+  ./../images/DIU37/tv-09580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-09580-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-09580-512px.jpg 512w,
+  ./../images/DIU37/bd-09580-768px.jpg 768w,
+  ./../images/DIU37/bd-09580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -174,8 +398,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - In this shot, Kosaku has been retouched as usual, the background is darker along the bottom of the frame, and the photo itself is... Slightly zoomed out? I mean the inside of the photo:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-09600.jpg" />
- <img src="./../images/DIU37/bd-09600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-09600-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-09600-512px.jpg 512w,
+  ./../images/DIU37/tv-09600-768px.jpg 768w,
+  ./../images/DIU37/tv-09600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-09600-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-09600-512px.jpg 512w,
+  ./../images/DIU37/bd-09600-768px.jpg 768w,
+  ./../images/DIU37/bd-09600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -183,8 +421,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - David pro remembered to draw the hole in Kira's chest here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-11315.jpg" />
- <img src="./../images/DIU37/bd-11315.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-11315-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-11315-512px.jpg 512w,
+  ./../images/DIU37/tv-11315-768px.jpg 768w,
+  ./../images/DIU37/tv-11315-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-11315-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-11315-512px.jpg 512w,
+  ./../images/DIU37/bd-11315-768px.jpg 768w,
+  ./../images/DIU37/bd-11315-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -192,8 +444,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Here, Killer Queen's face has been redrawn, Kira also looks much better and Okuyasu's face has been retouched. 億 and BILLION have also been swapped, and Killer Queen's crotch area is slightly less visible:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-11370.jpg" />
- <img src="./../images/DIU37/bd-11370.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-11370-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-11370-512px.jpg 512w,
+  ./../images/DIU37/tv-11370-768px.jpg 768w,
+  ./../images/DIU37/tv-11370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-11370-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-11370-512px.jpg 512w,
+  ./../images/DIU37/bd-11370-768px.jpg 768w,
+  ./../images/DIU37/bd-11370-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -201,8 +467,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - In this shot, Josuke has gotten back the second heart on his collar:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-12000.jpg" />
- <img src="./../images/DIU37/bd-12000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-12000-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-12000-512px.jpg 512w,
+  ./../images/DIU37/tv-12000-768px.jpg 768w,
+  ./../images/DIU37/tv-12000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-12000-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-12000-512px.jpg 512w,
+  ./../images/DIU37/bd-12000-768px.jpg 768w,
+  ./../images/DIU37/bd-12000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -224,8 +504,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - In this shot, Killer Queen's upper body has been redrawn and Kira's face has been retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-14140.jpg" />
- <img src="./../images/DIU37/bd-14140.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-14140-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-14140-512px.jpg 512w,
+  ./../images/DIU37/tv-14140-768px.jpg 768w,
+  ./../images/DIU37/tv-14140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-14140-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-14140-512px.jpg 512w,
+  ./../images/DIU37/bd-14140-768px.jpg 768w,
+  ./../images/DIU37/bd-14140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -233,8 +527,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Okuyasu has been (sort of) uncensored again here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-14230.jpg" />
- <img src="./../images/DIU37/bd-14230.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-14230-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-14230-512px.jpg 512w,
+  ./../images/DIU37/tv-14230-768px.jpg 768w,
+  ./../images/DIU37/tv-14230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-14230-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-14230-512px.jpg 512w,
+  ./../images/DIU37/bd-14230-768px.jpg 768w,
+  ./../images/DIU37/bd-14230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -242,8 +550,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - The shadow on Hayato's eyes extends up to his forehead in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-14450.jpg" />
- <img src="./../images/DIU37/bd-14450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-14450-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-14450-512px.jpg 512w,
+  ./../images/DIU37/tv-14450-768px.jpg 768w,
+  ./../images/DIU37/tv-14450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-14450-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-14450-512px.jpg 512w,
+  ./../images/DIU37/bd-14450-768px.jpg 768w,
+  ./../images/DIU37/bd-14450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -251,8 +573,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Stray Cat, Killer Queen and Kira's faces have all been retouched in this iconic frame:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-15000.jpg" />
- <img src="./../images/DIU37/bd-15000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-15000-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-15000-512px.jpg 512w,
+  ./../images/DIU37/tv-15000-768px.jpg 768w,
+  ./../images/DIU37/tv-15000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-15000-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-15000-512px.jpg 512w,
+  ./../images/DIU37/bd-15000-768px.jpg 768w,
+  ./../images/DIU37/bd-15000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -260,8 +596,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - It's amazing what a few retouches can do to make a scene better. Here, Josuke, Kira, Killer Queen and Stray Cat have all been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-15350.jpg" />
- <img src="./../images/DIU37/bd-15350.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-15350-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-15350-512px.jpg 512w,
+  ./../images/DIU37/tv-15350-768px.jpg 768w,
+  ./../images/DIU37/tv-15350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-15350-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-15350-512px.jpg 512w,
+  ./../images/DIU37/bd-15350-768px.jpg 768w,
+  ./../images/DIU37/bd-15350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -269,8 +619,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Rohan has his arms crossed in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-16100.jpg" />
- <img src="./../images/DIU37/bd-16100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-16100-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-16100-512px.jpg 512w,
+  ./../images/DIU37/tv-16100-768px.jpg 768w,
+  ./../images/DIU37/tv-16100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-16100-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-16100-512px.jpg 512w,
+  ./../images/DIU37/bd-16100-768px.jpg 768w,
+  ./../images/DIU37/bd-16100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -278,8 +642,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Here we can see once again Okuyasu's uncensored-ish wound, and some stray bits off Killer Queen's aura have been removed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-16485.jpg" />
- <img src="./../images/DIU37/bd-16485.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-16485-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-16485-512px.jpg 512w,
+  ./../images/DIU37/tv-16485-768px.jpg 768w,
+  ./../images/DIU37/tv-16485-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-16485-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-16485-512px.jpg 512w,
+  ./../images/DIU37/bd-16485-768px.jpg 768w,
+  ./../images/DIU37/bd-16485-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -287,8 +665,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Our boy looks much better here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-16540.jpg" />
- <img src="./../images/DIU37/bd-16540.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-16540-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-16540-512px.jpg 512w,
+  ./../images/DIU37/tv-16540-768px.jpg 768w,
+  ./../images/DIU37/tv-16540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-16540-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-16540-512px.jpg 512w,
+  ./../images/DIU37/bd-16540-768px.jpg 768w,
+  ./../images/DIU37/bd-16540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -296,8 +688,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Both Josuke and Hayato's faces have been retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-17000.jpg" />
- <img src="./../images/DIU37/bd-17000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-17000-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-17000-512px.jpg 512w,
+  ./../images/DIU37/tv-17000-768px.jpg 768w,
+  ./../images/DIU37/tv-17000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-17000-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-17000-512px.jpg 512w,
+  ./../images/DIU37/bd-17000-768px.jpg 768w,
+  ./../images/DIU37/bd-17000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -305,8 +711,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - In this shot, Kira's got a dramatic anime shade on his eyes and forehead, his tie looks much better and his jacket now has buttons; Killer Queen has also been retouched here and there:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-19100.jpg" />
- <img src="./../images/DIU37/bd-19100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-19100-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-19100-512px.jpg 512w,
+  ./../images/DIU37/tv-19100-768px.jpg 768w,
+  ./../images/DIU37/tv-19100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-19100-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-19100-512px.jpg 512w,
+  ./../images/DIU37/bd-19100-768px.jpg 768w,
+  ./../images/DIU37/bd-19100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -314,8 +734,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Here, Killer Queen and Stray Cat's heads have both been redrawn; the emblems on KQ's shoulders (and crotch?) also look better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-19160.jpg" />
- <img src="./../images/DIU37/bd-19160.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-19160-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-19160-512px.jpg 512w,
+  ./../images/DIU37/tv-19160-768px.jpg 768w,
+  ./../images/DIU37/tv-19160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-19160-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-19160-512px.jpg 512w,
+  ./../images/DIU37/bd-19160-768px.jpg 768w,
+  ./../images/DIU37/bd-19160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -323,8 +757,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - And here, panning away, Hayato's eyes and nose have been retouched and... Oh god, that right hand, thank goodness:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-19225.jpg" />
- <img src="./../images/DIU37/bd-19225.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-19225-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-19225-512px.jpg 512w,
+  ./../images/DIU37/tv-19225-768px.jpg 768w,
+  ./../images/DIU37/tv-19225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-19225-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-19225-512px.jpg 512w,
+  ./../images/DIU37/bd-19225-768px.jpg 768w,
+  ./../images/DIU37/bd-19225-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -332,15 +780,43 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - In these shots, Kira's face has been completely redrawn, and his tie is looking better too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-19710.jpg" />
- <img src="./../images/DIU37/bd-19710.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-19710-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-19710-512px.jpg 512w,
+  ./../images/DIU37/tv-19710-768px.jpg 768w,
+  ./../images/DIU37/tv-19710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-19710-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-19710-512px.jpg 512w,
+  ./../images/DIU37/bd-19710-768px.jpg 768w,
+  ./../images/DIU37/bd-19710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-20035.jpg" />
- <img src="./../images/DIU37/bd-20035.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-20035-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-20035-512px.jpg 512w,
+  ./../images/DIU37/tv-20035-768px.jpg 768w,
+  ./../images/DIU37/tv-20035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-20035-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-20035-512px.jpg 512w,
+  ./../images/DIU37/bd-20035-768px.jpg 768w,
+  ./../images/DIU37/bd-20035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -348,8 +824,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Here, the anime shade is back on Kira's forehead; Josuke's face has also been retouched and is more bloodied, and the symbols on his uniform are also looking better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-20096.jpg" />
- <img src="./../images/DIU37/bd-20096.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-20096-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-20096-512px.jpg 512w,
+  ./../images/DIU37/tv-20096-768px.jpg 768w,
+  ./../images/DIU37/tv-20096-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-20096-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-20096-512px.jpg 512w,
+  ./../images/DIU37/bd-20096-768px.jpg 768w,
+  ./../images/DIU37/bd-20096-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -357,8 +847,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - In this shot of Okuyasu reenacting Ophelia's death without the water, we can once again take a peek at his chewed-up sides, and we can also see BILLION on his left arm:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-20235.jpg" />
- <img src="./../images/DIU37/bd-20235.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-20235-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-20235-512px.jpg 512w,
+  ./../images/DIU37/tv-20235-768px.jpg 768w,
+  ./../images/DIU37/tv-20235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-20235-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-20235-512px.jpg 512w,
+  ./../images/DIU37/bd-20235-768px.jpg 768w,
+  ./../images/DIU37/bd-20235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -366,8 +870,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - And again here, plus a different shading on Okuyasu:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-20405.jpg" />
- <img src="./../images/DIU37/bd-20405.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-20405-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-20405-512px.jpg 512w,
+  ./../images/DIU37/tv-20405-768px.jpg 768w,
+  ./../images/DIU37/tv-20405-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-20405-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-20405-512px.jpg 512w,
+  ./../images/DIU37/bd-20405-768px.jpg 768w,
+  ./../images/DIU37/bd-20405-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -375,8 +893,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - The End of Evangelion (1997), Hideaki Anno:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-20640.jpg" />
- <img src="./../images/DIU37/bd-20640.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-20640-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-20640-512px.jpg 512w,
+  ./../images/DIU37/tv-20640-768px.jpg 768w,
+  ./../images/DIU37/tv-20640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-20640-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-20640-512px.jpg 512w,
+  ./../images/DIU37/bd-20640-768px.jpg 768w,
+  ./../images/DIU37/bd-20640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -384,8 +916,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - For some reason, Josuke's face is _less_ bloodied here, and it looks a bit worse. Okuyasu has also been uncensored and re-shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-20715.jpg" />
- <img src="./../images/DIU37/bd-20715.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-20715-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-20715-512px.jpg 512w,
+  ./../images/DIU37/tv-20715-768px.jpg 768w,
+  ./../images/DIU37/tv-20715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-20715-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-20715-512px.jpg 512w,
+  ./../images/DIU37/bd-20715-768px.jpg 768w,
+  ./../images/DIU37/bd-20715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -393,8 +939,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Ok, this is the first uncensored Okuyasu that's at least a little gross:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-21550.jpg" />
- <img src="./../images/DIU37/bd-21550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-21550-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-21550-512px.jpg 512w,
+  ./../images/DIU37/tv-21550-768px.jpg 768w,
+  ./../images/DIU37/tv-21550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-21550-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-21550-512px.jpg 512w,
+  ./../images/DIU37/bd-21550-768px.jpg 768w,
+  ./../images/DIU37/bd-21550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -402,8 +962,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Killer Queen's head and neck have been redrawn here; Kira's face has also been retouched, his jacket has his hole back, and Killer Queen's skull emblems are looking better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-21780.jpg" />
- <img src="./../images/DIU37/bd-21780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-21780-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-21780-512px.jpg 512w,
+  ./../images/DIU37/tv-21780-768px.jpg 768w,
+  ./../images/DIU37/tv-21780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-21780-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-21780-512px.jpg 512w,
+  ./../images/DIU37/bd-21780-768px.jpg 768w,
+  ./../images/DIU37/bd-21780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -411,8 +985,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Another mangled Okuyasu, another missing BILLION redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-22770.jpg" />
- <img src="./../images/DIU37/bd-22770.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-22770-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-22770-512px.jpg 512w,
+  ./../images/DIU37/tv-22770-768px.jpg 768w,
+  ./../images/DIU37/tv-22770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-22770-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-22770-512px.jpg 512w,
+  ./../images/DIU37/bd-22770-768px.jpg 768w,
+  ./../images/DIU37/bd-22770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -420,8 +1008,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Killer Queen is looking much better here, and so is Kira's face! Ah, the hole in his jacket is also back:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-23190.jpg" />
- <img src="./../images/DIU37/bd-23190.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-23190-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-23190-512px.jpg 512w,
+  ./../images/DIU37/tv-23190-768px.jpg 768w,
+  ./../images/DIU37/tv-23190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-23190-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-23190-512px.jpg 512w,
+  ./../images/DIU37/bd-23190-768px.jpg 768w,
+  ./../images/DIU37/bd-23190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -436,8 +1038,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Josuke has an aura in this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-24392.jpg" />
- <img src="./../images/DIU37/bd-24392.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-24392-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-24392-512px.jpg 512w,
+  ./../images/DIU37/tv-24392-768px.jpg 768w,
+  ./../images/DIU37/tv-24392-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-24392-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-24392-512px.jpg 512w,
+  ./../images/DIU37/bd-24392-768px.jpg 768w,
+  ./../images/DIU37/bd-24392-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -445,8 +1061,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - In this bit of Hayato doing the most badass thing he's ever done in the series, the camera has been moved a tiny bit, and the pavement in the background is blurrier:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-24490.jpg" />
- <img src="./../images/DIU37/bd-24490.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-24490-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-24490-512px.jpg 512w,
+  ./../images/DIU37/tv-24490-768px.jpg 768w,
+  ./../images/DIU37/tv-24490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-24490-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-24490-512px.jpg 512w,
+  ./../images/DIU37/bd-24490-768px.jpg 768w,
+  ./../images/DIU37/bd-24490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -454,8 +1084,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - The shading is a bit less flat here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-24520.jpg" />
- <img src="./../images/DIU37/bd-24520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-24520-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-24520-512px.jpg 512w,
+  ./../images/DIU37/tv-24520-768px.jpg 768w,
+  ./../images/DIU37/tv-24520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-24520-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-24520-512px.jpg 512w,
+  ./../images/DIU37/bd-24520-768px.jpg 768w,
+  ./../images/DIU37/bd-24520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -463,8 +1107,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - One last uncensored Okuyasu, for the road! Oh, and the houses in the background have also been shaded slightly differently:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-24860.jpg" />
- <img src="./../images/DIU37/bd-24860.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-24860-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-24860-512px.jpg 512w,
+  ./../images/DIU37/tv-24860-768px.jpg 768w,
+  ./../images/DIU37/tv-24860-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-24860-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-24860-512px.jpg 512w,
+  ./../images/DIU37/bd-24860-768px.jpg 768w,
+  ./../images/DIU37/bd-24860-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -472,8 +1130,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Killer Queen and Stray Cat's heads have, once again, been redrawn, and all the emblems are looking better here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-26000.jpg" />
- <img src="./../images/DIU37/bd-26000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-26000-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-26000-512px.jpg 512w,
+  ./../images/DIU37/tv-26000-768px.jpg 768w,
+  ./../images/DIU37/tv-26000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-26000-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-26000-512px.jpg 512w,
+  ./../images/DIU37/bd-26000-768px.jpg 768w,
+  ./../images/DIU37/bd-26000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -481,8 +1153,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - There's a slight vignette around the edges of this scene, and Josuke's aura is much bigger:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-26045.jpg" />
- <img src="./../images/DIU37/bd-26045.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-26045-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-26045-512px.jpg 512w,
+  ./../images/DIU37/tv-26045-768px.jpg 768w,
+  ./../images/DIU37/tv-26045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-26045-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-26045-512px.jpg 512w,
+  ./../images/DIU37/bd-26045-768px.jpg 768w,
+  ./../images/DIU37/bd-26045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -490,8 +1176,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Kira's face and Killer Queen's upper body have both been retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-26900.jpg" />
- <img src="./../images/DIU37/bd-26900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-26900-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-26900-512px.jpg 512w,
+  ./../images/DIU37/tv-26900-768px.jpg 768w,
+  ./../images/DIU37/tv-26900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-26900-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-26900-512px.jpg 512w,
+  ./../images/DIU37/bd-26900-768px.jpg 768w,
+  ./../images/DIU37/bd-26900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -499,8 +1199,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Both Josuke and Hayato's eye areas have been retouched in this shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-26930.jpg" />
- <img src="./../images/DIU37/bd-26930.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-26930-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-26930-512px.jpg 512w,
+  ./../images/DIU37/tv-26930-768px.jpg 768w,
+  ./../images/DIU37/tv-26930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-26930-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-26930-512px.jpg 512w,
+  ./../images/DIU37/bd-26930-768px.jpg 768w,
+  ./../images/DIU37/bd-26930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -508,8 +1222,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Kira's eyebrows are darker here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-28530.jpg" />
- <img src="./../images/DIU37/bd-28530.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-28530-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-28530-512px.jpg 512w,
+  ./../images/DIU37/tv-28530-768px.jpg 768w,
+  ./../images/DIU37/tv-28530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-28530-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-28530-512px.jpg 512w,
+  ./../images/DIU37/bd-28530-768px.jpg 768w,
+  ./../images/DIU37/bd-28530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -517,15 +1245,43 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Both Kira and Killer Queen's faces have been retouched here, and Kira's tie skulls are also looking a bit better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-29230.jpg" />
- <img src="./../images/DIU37/bd-29230.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-29230-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-29230-512px.jpg 512w,
+  ./../images/DIU37/tv-29230-768px.jpg 768w,
+  ./../images/DIU37/tv-29230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-29230-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-29230-512px.jpg 512w,
+  ./../images/DIU37/bd-29230-768px.jpg 768w,
+  ./../images/DIU37/bd-29230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-29260.jpg" />
- <img src="./../images/DIU37/bd-29260.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-29260-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-29260-512px.jpg 512w,
+  ./../images/DIU37/tv-29260-768px.jpg 768w,
+  ./../images/DIU37/tv-29260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-29260-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-29260-512px.jpg 512w,
+  ./../images/DIU37/bd-29260-768px.jpg 768w,
+  ./../images/DIU37/bd-29260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -533,8 +1289,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Here, 億 is back on Okuyasu's shoulder, and the cross over his face has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-30430.jpg" />
- <img src="./../images/DIU37/bd-30430.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-30430-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-30430-512px.jpg 512w,
+  ./../images/DIU37/tv-30430-768px.jpg 768w,
+  ./../images/DIU37/tv-30430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-30430-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-30430-512px.jpg 512w,
+  ./../images/DIU37/bd-30430-768px.jpg 768w,
+  ./../images/DIU37/bd-30430-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -554,22 +1324,64 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-32080.jpg" />
- <img src="./../images/DIU37/bd-32080.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-32080-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-32080-512px.jpg 512w,
+  ./../images/DIU37/tv-32080-768px.jpg 768w,
+  ./../images/DIU37/tv-32080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-32080-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-32080-512px.jpg 512w,
+  ./../images/DIU37/bd-32080-768px.jpg 768w,
+  ./../images/DIU37/bd-32080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-32150.jpg" />
- <img src="./../images/DIU37/bd-32150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-32150-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-32150-512px.jpg 512w,
+  ./../images/DIU37/tv-32150-768px.jpg 768w,
+  ./../images/DIU37/tv-32150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-32150-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-32150-512px.jpg 512w,
+  ./../images/DIU37/bd-32150-768px.jpg 768w,
+  ./../images/DIU37/bd-32150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-32166.jpg" />
- <img src="./../images/DIU37/bd-32166.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-32166-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-32166-512px.jpg 512w,
+  ./../images/DIU37/tv-32166-768px.jpg 768w,
+  ./../images/DIU37/tv-32166-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-32166-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-32166-512px.jpg 512w,
+  ./../images/DIU37/bd-32166-768px.jpg 768w,
+  ./../images/DIU37/bd-32166-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -577,8 +1389,22 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 - Let's have ourselves one last credit difference, before we put this episode to rest! Here, the last character in the third line from the bottom (テディ―, "Teddy") was changed from a ー to a ―. They might look similar, but they have different functions! The first one is just a normal dash, while the second one indicates that the last syllable's vowel needs to be elongated. It was probably just a typo:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU37/tv-32640.jpg" />
- <img src="./../images/DIU37/bd-32640.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/tv-32640-1090px.jpg"
+  data-srcset="./../images/DIU37/tv-32640-512px.jpg 512w,
+  ./../images/DIU37/tv-32640-768px.jpg 768w,
+  ./../images/DIU37/tv-32640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU37/bd-32640-1090px.jpg"
+  data-srcset="./../images/DIU37/bd-32640-512px.jpg 512w,
+  ./../images/DIU37/bd-32640-768px.jpg 768w,
+  ./../images/DIU37/bd-32640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

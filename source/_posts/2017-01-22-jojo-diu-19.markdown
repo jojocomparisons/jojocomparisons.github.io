@@ -23,8 +23,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - For the first comparison of today we have this shot, in which the missing anchor and BILLION on Josuke and Okuyasu's uniforms have been drawn in; the outline for the 億 kanji on Okuyasu's right arm also has a black outline:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-03070.jpg" />
- <img src="./../images/DIU19/bd-03070.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-03070-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-03070-512px.jpg 512w,
+  ./../images/DIU19/tv-03070-768px.jpg 768w,
+  ./../images/DIU19/tv-03070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-03070-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-03070-512px.jpg 512w,
+  ./../images/DIU19/bd-03070-768px.jpg 768w,
+  ./../images/DIU19/bd-03070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -32,8 +46,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - In a couple of frames, Josuke's mouth has also been slightly moved:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-03083.jpg" />
- <img src="./../images/DIU19/bd-03083.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-03083-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-03083-512px.jpg 512w,
+  ./../images/DIU19/tv-03083-768px.jpg 768w,
+  ./../images/DIU19/tv-03083-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-03083-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-03083-512px.jpg 512w,
+  ./../images/DIU19/bd-03083-768px.jpg 768w,
+  ./../images/DIU19/bd-03083-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -41,15 +69,43 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - In this shot, Okuyasu has been retouched; most notably, as you'll see in the first comparison, Okuyasu had two pupils for a bunch of frames:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-04649.jpg" />
- <img src="./../images/DIU19/bd-04649.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-04649-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-04649-512px.jpg 512w,
+  ./../images/DIU19/tv-04649-768px.jpg 768w,
+  ./../images/DIU19/tv-04649-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-04649-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-04649-512px.jpg 512w,
+  ./../images/DIU19/bd-04649-768px.jpg 768w,
+  ./../images/DIU19/bd-04649-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-04670.jpg" />
- <img src="./../images/DIU19/bd-04670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-04670-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-04670-512px.jpg 512w,
+  ./../images/DIU19/tv-04670-768px.jpg 768w,
+  ./../images/DIU19/tv-04670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-04670-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-04670-512px.jpg 512w,
+  ./../images/DIU19/bd-04670-768px.jpg 768w,
+  ./../images/DIU19/bd-04670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -57,8 +113,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - Here we have arguably the worst shot of Josuke, and in the BDs it's... Slightly better. All three have been retouched and have some additional shaded areas in the BD version:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-05555.jpg" />
- <img src="./../images/DIU19/bd-05555.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-05555-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-05555-512px.jpg 512w,
+  ./../images/DIU19/tv-05555-768px.jpg 768w,
+  ./../images/DIU19/tv-05555-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-05555-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-05555-512px.jpg 512w,
+  ./../images/DIU19/bd-05555-768px.jpg 768w,
+  ./../images/DIU19/bd-05555-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -66,8 +136,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - That weird banker dude has a mouth-looking mouth in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-05655.jpg" />
- <img src="./../images/DIU19/bd-05655.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-05655-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-05655-512px.jpg 512w,
+  ./../images/DIU19/tv-05655-768px.jpg 768w,
+  ./../images/DIU19/tv-05655-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-05655-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-05655-512px.jpg 512w,
+  ./../images/DIU19/bd-05655-768px.jpg 768w,
+  ./../images/DIU19/bd-05655-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -75,8 +159,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - Here, Okuyasu has some redrawn eyes, so that he's no longer staring into space:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-05945.jpg" />
- <img src="./../images/DIU19/bd-05945.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-05945-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-05945-512px.jpg 512w,
+  ./../images/DIU19/tv-05945-768px.jpg 768w,
+  ./../images/DIU19/tv-05945-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-05945-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-05945-512px.jpg 512w,
+  ./../images/DIU19/bd-05945-768px.jpg 768w,
+  ./../images/DIU19/bd-05945-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -84,8 +182,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - Ok, I lied, *this* was the ugliest shot of Josuke, and luckily it looks better in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-06070.jpg" />
- <img src="./../images/DIU19/bd-06070.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-06070-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-06070-512px.jpg 512w,
+  ./../images/DIU19/tv-06070-768px.jpg 768w,
+  ./../images/DIU19/tv-06070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-06070-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-06070-512px.jpg 512w,
+  ./../images/DIU19/bd-06070-768px.jpg 768w,
+  ./../images/DIU19/bd-06070-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -93,8 +205,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - Here, the banker no longer has only half his back, and the telephone is in frame earlier:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-06200.jpg" />
- <img src="./../images/DIU19/bd-06200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-06200-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-06200-512px.jpg 512w,
+  ./../images/DIU19/tv-06200-768px.jpg 768w,
+  ./../images/DIU19/tv-06200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-06200-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-06200-512px.jpg 512w,
+  ./../images/DIU19/bd-06200-768px.jpg 768w,
+  ./../images/DIU19/bd-06200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -102,8 +228,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - His hand also no longer phases through the telephone:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-06235.jpg" />
- <img src="./../images/DIU19/bd-06235.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-06235-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-06235-512px.jpg 512w,
+  ./../images/DIU19/tv-06235-768px.jpg 768w,
+  ./../images/DIU19/tv-06235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-06235-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-06235-512px.jpg 512w,
+  ./../images/DIU19/bd-06235-768px.jpg 768w,
+  ./../images/DIU19/bd-06235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -111,8 +251,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - Another redrawn Josuke face! Man, this really wasn't a good episode for him, huh:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-06615.jpg" />
- <img src="./../images/DIU19/bd-06615.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-06615-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-06615-512px.jpg 512w,
+  ./../images/DIU19/tv-06615-768px.jpg 768w,
+  ./../images/DIU19/tv-06615-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-06615-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-06615-512px.jpg 512w,
+  ./../images/DIU19/bd-06615-768px.jpg 768w,
+  ./../images/DIU19/bd-06615-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -127,8 +281,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - Alright, here's poor Okuyasu's getting mangled and chewed up by Harvest in all its glory:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-14069.jpg" />
- <img src="./../images/DIU19/bd-14069.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-14069-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-14069-512px.jpg 512w,
+  ./../images/DIU19/tv-14069-768px.jpg 768w,
+  ./../images/DIU19/tv-14069-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-14069-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-14069-512px.jpg 512w,
+  ./../images/DIU19/bd-14069-768px.jpg 768w,
+  ./../images/DIU19/bd-14069-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -144,8 +312,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-15480.jpg" />
- <img src="./../images/DIU19/bd-15480.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-15480-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-15480-512px.jpg 512w,
+  ./../images/DIU19/tv-15480-768px.jpg 768w,
+  ./../images/DIU19/tv-15480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-15480-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-15480-512px.jpg 512w,
+  ./../images/DIU19/bd-15480-768px.jpg 768w,
+  ./../images/DIU19/bd-15480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -160,8 +342,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - Shigechi's teeth no longer break the rules of reality in this bit here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-17135.jpg" />
- <img src="./../images/DIU19/bd-17135.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-17135-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-17135-512px.jpg 512w,
+  ./../images/DIU19/tv-17135-768px.jpg 768w,
+  ./../images/DIU19/tv-17135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-17135-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-17135-512px.jpg 512w,
+  ./../images/DIU19/bd-17135-768px.jpg 768w,
+  ./../images/DIU19/bd-17135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -169,8 +365,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - There's a bunch of different things in this shot here. Both Josuke and Okuyasu's faces have been retouched, Okuyasu has the missing 億 kanji on his shoulder, the windows on the truck behind them are now transparent and the shading below said truck is a bit darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-17290.jpg" />
- <img src="./../images/DIU19/bd-17290.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-17290-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-17290-512px.jpg 512w,
+  ./../images/DIU19/tv-17290-768px.jpg 768w,
+  ./../images/DIU19/tv-17290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-17290-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-17290-512px.jpg 512w,
+  ./../images/DIU19/bd-17290-768px.jpg 768w,
+  ./../images/DIU19/bd-17290-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -178,8 +388,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - Once again, they drew in the missing 億 here; plus, Okuyasu's left eyebrow is thicker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-17700.jpg" />
- <img src="./../images/DIU19/bd-17700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-17700-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-17700-512px.jpg 512w,
+  ./../images/DIU19/tv-17700-768px.jpg 768w,
+  ./../images/DIU19/tv-17700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-17700-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-17700-512px.jpg 512w,
+  ./../images/DIU19/bd-17700-768px.jpg 768w,
+  ./../images/DIU19/bd-17700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -187,8 +411,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - Here, Josuke has been heavily retouched. His face is looking better, he has his earring, his bangles (OOOOWEEEEOOOOO) have been shaded properly, the heart and peace symbols on his uniform are better (I mean the peace symbol was just a plain circle in the TV version, for crying out loud), and he's no longer missing a chunk of his chest:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-18455.jpg" />
- <img src="./../images/DIU19/bd-18455.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-18455-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-18455-512px.jpg 512w,
+  ./../images/DIU19/tv-18455-768px.jpg 768w,
+  ./../images/DIU19/tv-18455-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-18455-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-18455-512px.jpg 512w,
+  ./../images/DIU19/bd-18455-768px.jpg 768w,
+  ./../images/DIU19/bd-18455-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -196,8 +434,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - In this shot, Shigechi has eyebrows, his right ear has been shaded better, the shading on the lottery ticket looks more convincing and his eyes have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-20560.jpg" />
- <img src="./../images/DIU19/bd-20560.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-20560-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-20560-512px.jpg 512w,
+  ./../images/DIU19/tv-20560-768px.jpg 768w,
+  ./../images/DIU19/tv-20560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-20560-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-20560-512px.jpg 512w,
+  ./../images/DIU19/bd-20560-768px.jpg 768w,
+  ./../images/DIU19/bd-20560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -205,8 +457,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - And when Josuke slides in frame, the white of his eye has a slightly darker shading and the overlay texture is a little bit different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-20700.jpg" />
- <img src="./../images/DIU19/bd-20700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-20700-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-20700-512px.jpg 512w,
+  ./../images/DIU19/tv-20700-768px.jpg 768w,
+  ./../images/DIU19/tv-20700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-20700-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-20700-512px.jpg 512w,
+  ./../images/DIU19/bd-20700-768px.jpg 768w,
+  ./../images/DIU19/bd-20700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -214,8 +480,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - Okuyasu's uniform now has its previously missing distinctive marks here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-21010.jpg" />
- <img src="./../images/DIU19/bd-21010.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-21010-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-21010-512px.jpg 512w,
+  ./../images/DIU19/tv-21010-768px.jpg 768w,
+  ./../images/DIU19/tv-21010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-21010-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-21010-512px.jpg 512w,
+  ./../images/DIU19/bd-21010-768px.jpg 768w,
+  ./../images/DIU19/bd-21010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -223,29 +503,85 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - Have bunch of better-looking BILLIONs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-21205.jpg" />
- <img src="./../images/DIU19/bd-21205.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-21205-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-21205-512px.jpg 512w,
+  ./../images/DIU19/tv-21205-768px.jpg 768w,
+  ./../images/DIU19/tv-21205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-21205-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-21205-512px.jpg 512w,
+  ./../images/DIU19/bd-21205-768px.jpg 768w,
+  ./../images/DIU19/bd-21205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-21229.jpg" />
- <img src="./../images/DIU19/bd-21229.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-21229-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-21229-512px.jpg 512w,
+  ./../images/DIU19/tv-21229-768px.jpg 768w,
+  ./../images/DIU19/tv-21229-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-21229-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-21229-512px.jpg 512w,
+  ./../images/DIU19/bd-21229-768px.jpg 768w,
+  ./../images/DIU19/bd-21229-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-21232.jpg" />
- <img src="./../images/DIU19/bd-21232.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-21232-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-21232-512px.jpg 512w,
+  ./../images/DIU19/tv-21232-768px.jpg 768w,
+  ./../images/DIU19/tv-21232-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-21232-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-21232-512px.jpg 512w,
+  ./../images/DIU19/bd-21232-768px.jpg 768w,
+  ./../images/DIU19/bd-21232-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-21238.jpg" />
- <img src="./../images/DIU19/bd-21238.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-21238-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-21238-512px.jpg 512w,
+  ./../images/DIU19/tv-21238-768px.jpg 768w,
+  ./../images/DIU19/tv-21238-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-21238-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-21238-512px.jpg 512w,
+  ./../images/DIU19/bd-21238-768px.jpg 768w,
+  ./../images/DIU19/bd-21238-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -253,8 +589,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - Here we have another uncensored wound (although you can't really see it); there are also way more blood particles:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-21970.jpg" />
- <img src="./../images/DIU19/bd-21970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-21970-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-21970-512px.jpg 512w,
+  ./../images/DIU19/tv-21970-768px.jpg 768w,
+  ./../images/DIU19/tv-21970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-21970-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-21970-512px.jpg 512w,
+  ./../images/DIU19/bd-21970-768px.jpg 768w,
+  ./../images/DIU19/bd-21970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -262,15 +612,43 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - Again with the missing 億 (it's not really missing in the second comparison, but it wasn't in the right position, and from the little we can see of it it doesn't really look like a convincing 億):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-21980.jpg" />
- <img src="./../images/DIU19/bd-21980.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-21980-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-21980-512px.jpg 512w,
+  ./../images/DIU19/tv-21980-768px.jpg 768w,
+  ./../images/DIU19/tv-21980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-21980-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-21980-512px.jpg 512w,
+  ./../images/DIU19/bd-21980-768px.jpg 768w,
+  ./../images/DIU19/bd-21980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-22165.jpg" />
- <img src="./../images/DIU19/bd-22165.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-22165-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-22165-512px.jpg 512w,
+  ./../images/DIU19/tv-22165-768px.jpg 768w,
+  ./../images/DIU19/tv-22165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-22165-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-22165-512px.jpg 512w,
+  ./../images/DIU19/bd-22165-768px.jpg 768w,
+  ./../images/DIU19/bd-22165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -278,8 +656,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - From here on, there will be a bunch of uncensored shots of Josuke's slashed eyelid; this is the first of them:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-23155.jpg" />
- <img src="./../images/DIU19/bd-23155.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-23155-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-23155-512px.jpg 512w,
+  ./../images/DIU19/tv-23155-768px.jpg 768w,
+  ./../images/DIU19/tv-23155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-23155-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-23155-512px.jpg 512w,
+  ./../images/DIU19/bd-23155-768px.jpg 768w,
+  ./../images/DIU19/bd-23155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -287,8 +679,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - BILLION strikes back:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-23230.jpg" />
- <img src="./../images/DIU19/bd-23230.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-23230-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-23230-512px.jpg 512w,
+  ./../images/DIU19/tv-23230-768px.jpg 768w,
+  ./../images/DIU19/tv-23230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-23230-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-23230-512px.jpg 512w,
+  ./../images/DIU19/bd-23230-768px.jpg 768w,
+  ./../images/DIU19/bd-23230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -296,15 +702,43 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - Again with the eyelid; for some reason this is way more disturbing to me than Okuyasu's leg getting chewed up by Harvest:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-23480.jpg" />
- <img src="./../images/DIU19/bd-23480.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-23480-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-23480-512px.jpg 512w,
+  ./../images/DIU19/tv-23480-768px.jpg 768w,
+  ./../images/DIU19/tv-23480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-23480-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-23480-512px.jpg 512w,
+  ./../images/DIU19/bd-23480-768px.jpg 768w,
+  ./../images/DIU19/bd-23480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-23550.jpg" />
- <img src="./../images/DIU19/bd-23550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-23550-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-23550-512px.jpg 512w,
+  ./../images/DIU19/tv-23550-768px.jpg 768w,
+  ./../images/DIU19/tv-23550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-23550-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-23550-512px.jpg 512w,
+  ./../images/DIU19/bd-23550-768px.jpg 768w,
+  ./../images/DIU19/bd-23550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -312,8 +746,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - This comparison is the sum of the two last comparisons:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-24390.jpg" />
- <img src="./../images/DIU19/bd-24390.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-24390-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-24390-512px.jpg 512w,
+  ./../images/DIU19/tv-24390-768px.jpg 768w,
+  ./../images/DIU19/tv-24390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-24390-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-24390-512px.jpg 512w,
+  ./../images/DIU19/bd-24390-768px.jpg 768w,
+  ./../images/DIU19/bd-24390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -321,36 +769,106 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - Have another bunch of uncensored eyelids. You know you like them, you creeps!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-24820.jpg" />
- <img src="./../images/DIU19/bd-24820.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-24820-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-24820-512px.jpg 512w,
+  ./../images/DIU19/tv-24820-768px.jpg 768w,
+  ./../images/DIU19/tv-24820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-24820-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-24820-512px.jpg 512w,
+  ./../images/DIU19/bd-24820-768px.jpg 768w,
+  ./../images/DIU19/bd-24820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-24900.jpg" />
- <img src="./../images/DIU19/bd-24900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-24900-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-24900-512px.jpg 512w,
+  ./../images/DIU19/tv-24900-768px.jpg 768w,
+  ./../images/DIU19/tv-24900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-24900-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-24900-512px.jpg 512w,
+  ./../images/DIU19/bd-24900-768px.jpg 768w,
+  ./../images/DIU19/bd-24900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-25215.jpg" />
- <img src="./../images/DIU19/bd-25215.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-25215-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-25215-512px.jpg 512w,
+  ./../images/DIU19/tv-25215-768px.jpg 768w,
+  ./../images/DIU19/tv-25215-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-25215-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-25215-512px.jpg 512w,
+  ./../images/DIU19/bd-25215-768px.jpg 768w,
+  ./../images/DIU19/bd-25215-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-26840.jpg" />
- <img src="./../images/DIU19/bd-26840.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-26840-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-26840-512px.jpg 512w,
+  ./../images/DIU19/tv-26840-768px.jpg 768w,
+  ./../images/DIU19/tv-26840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-26840-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-26840-512px.jpg 512w,
+  ./../images/DIU19/bd-26840-768px.jpg 768w,
+  ./../images/DIU19/bd-26840-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-27500.jpg" />
- <img src="./../images/DIU19/bd-27500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-27500-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-27500-512px.jpg 512w,
+  ./../images/DIU19/tv-27500-768px.jpg 768w,
+  ./../images/DIU19/tv-27500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-27500-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-27500-512px.jpg 512w,
+  ./../images/DIU19/bd-27500-768px.jpg 768w,
+  ./../images/DIU19/bd-27500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -365,15 +883,43 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - In this shot, the anchor on Josuke's collar is no longer missing its leftmost half, and when Shigechi closes his mouth the blood no longer circles around it; in the second comparison, the BDs also added back the missing line on Josuke's neck:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-29015.jpg" />
- <img src="./../images/DIU19/bd-29015.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-29015-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-29015-512px.jpg 512w,
+  ./../images/DIU19/tv-29015-768px.jpg 768w,
+  ./../images/DIU19/tv-29015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-29015-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-29015-512px.jpg 512w,
+  ./../images/DIU19/bd-29015-768px.jpg 768w,
+  ./../images/DIU19/bd-29015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-29200.jpg" />
- <img src="./../images/DIU19/bd-29200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-29200-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-29200-512px.jpg 512w,
+  ./../images/DIU19/tv-29200-768px.jpg 768w,
+  ./../images/DIU19/tv-29200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-29200-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-29200-512px.jpg 512w,
+  ./../images/DIU19/bd-29200-768px.jpg 768w,
+  ./../images/DIU19/bd-29200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -381,8 +927,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - And a last uncensored eyelid for the road. Take it! It's on the house:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-29600.jpg" />
- <img src="./../images/DIU19/bd-29600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-29600-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-29600-512px.jpg 512w,
+  ./../images/DIU19/tv-29600-768px.jpg 768w,
+  ./../images/DIU19/tv-29600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-29600-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-29600-512px.jpg 512w,
+  ./../images/DIU19/bd-29600-768px.jpg 768w,
+  ./../images/DIU19/bd-29600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -390,36 +950,106 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - Aaand the episode is over! But wait! There's a bunch of differences in the credits too! A bunch of DR. movie staffmembers' names have been made ALL CAPS as is customary in the credits (the second-to-last comparison in this small bunch also has completely different names):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-32530.jpg" />
- <img src="./../images/DIU19/bd-32530.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-32530-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-32530-512px.jpg 512w,
+  ./../images/DIU19/tv-32530-768px.jpg 768w,
+  ./../images/DIU19/tv-32530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-32530-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-32530-512px.jpg 512w,
+  ./../images/DIU19/bd-32530-768px.jpg 768w,
+  ./../images/DIU19/bd-32530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-32660.jpg" />
- <img src="./../images/DIU19/bd-32660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-32660-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-32660-512px.jpg 512w,
+  ./../images/DIU19/tv-32660-768px.jpg 768w,
+  ./../images/DIU19/tv-32660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-32660-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-32660-512px.jpg 512w,
+  ./../images/DIU19/bd-32660-768px.jpg 768w,
+  ./../images/DIU19/bd-32660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-32730.jpg" />
- <img src="./../images/DIU19/bd-32730.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-32730-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-32730-512px.jpg 512w,
+  ./../images/DIU19/tv-32730-768px.jpg 768w,
+  ./../images/DIU19/tv-32730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-32730-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-32730-512px.jpg 512w,
+  ./../images/DIU19/bd-32730-768px.jpg 768w,
+  ./../images/DIU19/bd-32730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-32780.jpg" />
- <img src="./../images/DIU19/bd-32780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-32780-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-32780-512px.jpg 512w,
+  ./../images/DIU19/tv-32780-768px.jpg 768w,
+  ./../images/DIU19/tv-32780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-32780-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-32780-512px.jpg 512w,
+  ./../images/DIU19/bd-32780-768px.jpg 768w,
+  ./../images/DIU19/bd-32780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-33750.jpg" />
- <img src="./../images/DIU19/bd-33750.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-33750-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-33750-512px.jpg 512w,
+  ./../images/DIU19/tv-33750-768px.jpg 768w,
+  ./../images/DIU19/tv-33750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-33750-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-33750-512px.jpg 512w,
+  ./../images/DIU19/bd-33750-768px.jpg 768w,
+  ./../images/DIU19/bd-33750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -427,8 +1057,22 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 - And here we have, once again, the ALL CAPS on the right; also, on the left, 演出 ("Animation Direction/Episode Direction") has been spaced more:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU19/tv-33845.jpg" />
- <img src="./../images/DIU19/bd-33845.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/tv-33845-1090px.jpg"
+  data-srcset="./../images/DIU19/tv-33845-512px.jpg 512w,
+  ./../images/DIU19/tv-33845-768px.jpg 768w,
+  ./../images/DIU19/tv-33845-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU19/bd-33845-1090px.jpg"
+  data-srcset="./../images/DIU19/bd-33845-512px.jpg 512w,
+  ./../images/DIU19/bd-33845-768px.jpg 768w,
+  ./../images/DIU19/bd-33845-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

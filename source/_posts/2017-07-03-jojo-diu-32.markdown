@@ -19,8 +19,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Today's first comparison is this frame, in which we can see that Heaven's Door's face is looking much, much better; his hat is also transparent, and Rohan's face has also been slightly retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-00560.jpg" />
- <img src="./../images/DIU32/bd-00560.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-00560-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-00560-512px.jpg 512w,
+  ./../images/DIU32/tv-00560-768px.jpg 768w,
+  ./../images/DIU32/tv-00560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-00560-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-00560-512px.jpg 512w,
+  ./../images/DIU32/bd-00560-768px.jpg 768w,
+  ./../images/DIU32/bd-00560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -28,8 +42,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - This frame is slightly more zoomed in, Rohan's face has been retouched (and he's actually looking at the dude in front of him), and the bits of skin we can see through his diva shirt holes are darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-00850.jpg" />
- <img src="./../images/DIU32/bd-00850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-00850-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-00850-512px.jpg 512w,
+  ./../images/DIU32/tv-00850-768px.jpg 768w,
+  ./../images/DIU32/tv-00850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-00850-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-00850-512px.jpg 512w,
+  ./../images/DIU32/bd-00850-768px.jpg 768w,
+  ./../images/DIU32/bd-00850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,8 +65,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - And again here (minus the zoom, plus the shade on his neck and some better-looking earrings):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-01210.jpg" />
- <img src="./../images/DIU32/bd-01210.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-01210-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-01210-512px.jpg 512w,
+  ./../images/DIU32/tv-01210-768px.jpg 768w,
+  ./../images/DIU32/tv-01210-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-01210-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-01210-512px.jpg 512w,
+  ./../images/DIU32/bd-01210-768px.jpg 768w,
+  ./../images/DIU32/bd-01210-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -46,22 +88,64 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Here we have three brutal, very very gory frames uncensored. Are you ready? This is some pretty nasty stuff... You have been warned!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-02551.jpg" />
- <img src="./../images/DIU32/bd-02551.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-02551-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-02551-512px.jpg 512w,
+  ./../images/DIU32/tv-02551-768px.jpg 768w,
+  ./../images/DIU32/tv-02551-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-02551-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-02551-512px.jpg 512w,
+  ./../images/DIU32/bd-02551-768px.jpg 768w,
+  ./../images/DIU32/bd-02551-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-02620.jpg" />
- <img src="./../images/DIU32/bd-02620.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-02620-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-02620-512px.jpg 512w,
+  ./../images/DIU32/tv-02620-768px.jpg 768w,
+  ./../images/DIU32/tv-02620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-02620-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-02620-512px.jpg 512w,
+  ./../images/DIU32/bd-02620-768px.jpg 768w,
+  ./../images/DIU32/bd-02620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-03340.jpg" />
- <img src="./../images/DIU32/bd-03340.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-03340-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-03340-512px.jpg 512w,
+  ./../images/DIU32/tv-03340-768px.jpg 768w,
+  ./../images/DIU32/tv-03340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-03340-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-03340-512px.jpg 512w,
+  ./../images/DIU32/bd-03340-768px.jpg 768w,
+  ./../images/DIU32/bd-03340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -69,8 +153,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - In this very significant frame, you can see that Josuke actually cast a shadow on the background in the TV version, this has been changed in the BDs (and the shadow itself is a different color):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-04805.jpg" />
- <img src="./../images/DIU32/bd-04805.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-04805-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-04805-512px.jpg 512w,
+  ./../images/DIU32/tv-04805-768px.jpg 768w,
+  ./../images/DIU32/tv-04805-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-04805-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-04805-512px.jpg 512w,
+  ./../images/DIU32/bd-04805-768px.jpg 768w,
+  ./../images/DIU32/bd-04805-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -78,8 +176,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - When the camera pans up, Josuke is slightly higher up:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-04921.jpg" />
- <img src="./../images/DIU32/bd-04921.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-04921-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-04921-512px.jpg 512w,
+  ./../images/DIU32/tv-04921-768px.jpg 768w,
+  ./../images/DIU32/tv-04921-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-04921-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-04921-512px.jpg 512w,
+  ./../images/DIU32/bd-04921-768px.jpg 768w,
+  ./../images/DIU32/bd-04921-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -87,8 +199,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - In this shot, the wire Josuke's holding is darker and thicker, there's a slight distortion around the edges, Tower Boy's hand has been retouched and some parts of the tower have been shaded differently to give it more depth:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-05000.jpg" />
- <img src="./../images/DIU32/bd-05000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-05000-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-05000-512px.jpg 512w,
+  ./../images/DIU32/tv-05000-768px.jpg 768w,
+  ./../images/DIU32/tv-05000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-05000-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-05000-512px.jpg 512w,
+  ./../images/DIU32/bd-05000-768px.jpg 768w,
+  ./../images/DIU32/bd-05000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -96,8 +222,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Josuke's collar hearts have been recoloured here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-05280.jpg" />
- <img src="./../images/DIU32/bd-05280.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-05280-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-05280-512px.jpg 512w,
+  ./../images/DIU32/tv-05280-768px.jpg 768w,
+  ./../images/DIU32/tv-05280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-05280-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-05280-512px.jpg 512w,
+  ./../images/DIU32/bd-05280-768px.jpg 768w,
+  ./../images/DIU32/bd-05280-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -105,8 +245,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - In this frame, Mikitaka has been redrawn and re-shaded, and the shading on the background and on the hand in the foreground is different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-07100.jpg" />
- <img src="./../images/DIU32/bd-07100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-07100-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-07100-512px.jpg 512w,
+  ./../images/DIU32/tv-07100-768px.jpg 768w,
+  ./../images/DIU32/tv-07100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-07100-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-07100-512px.jpg 512w,
+  ./../images/DIU32/bd-07100-768px.jpg 768w,
+  ./../images/DIU32/bd-07100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -114,8 +268,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Just... I can't list all the changes in this one. There's just too many! Take a look for yourself:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-07400.jpg" />
- <img src="./../images/DIU32/bd-07400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-07400-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-07400-512px.jpg 512w,
+  ./../images/DIU32/tv-07400-768px.jpg 768w,
+  ./../images/DIU32/tv-07400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-07400-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-07400-512px.jpg 512w,
+  ./../images/DIU32/bd-07400-768px.jpg 768w,
+  ./../images/DIU32/bd-07400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -123,8 +291,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - The shading in this frame is different, and Josuke's collar colour is swapped:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-07620.jpg" />
- <img src="./../images/DIU32/bd-07620.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-07620-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-07620-512px.jpg 512w,
+  ./../images/DIU32/tv-07620-768px.jpg 768w,
+  ./../images/DIU32/tv-07620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-07620-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-07620-512px.jpg 512w,
+  ./../images/DIU32/bd-07620-768px.jpg 768w,
+  ./../images/DIU32/bd-07620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -132,8 +314,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Here, Josuke's eyes have been retouched and the wound on his cheek is a bit more bloody:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-09010.jpg" />
- <img src="./../images/DIU32/bd-09010.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-09010-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-09010-512px.jpg 512w,
+  ./../images/DIU32/tv-09010-768px.jpg 768w,
+  ./../images/DIU32/tv-09010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-09010-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-09010-512px.jpg 512w,
+  ./../images/DIU32/bd-09010-768px.jpg 768w,
+  ./../images/DIU32/bd-09010-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -141,8 +337,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Oh, look! A wound:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-09300.jpg" />
- <img src="./../images/DIU32/bd-09300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-09300-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-09300-512px.jpg 512w,
+  ./../images/DIU32/tv-09300-768px.jpg 768w,
+  ./../images/DIU32/tv-09300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-09300-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-09300-512px.jpg 512w,
+  ./../images/DIU32/bd-09300-768px.jpg 768w,
+  ./../images/DIU32/bd-09300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -150,8 +360,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - In this frame, Josuke's uniform is more tattered:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-09550.jpg" />
- <img src="./../images/DIU32/bd-09550.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-09550-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-09550-512px.jpg 512w,
+  ./../images/DIU32/tv-09550-768px.jpg 768w,
+  ./../images/DIU32/tv-09550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-09550-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-09550-512px.jpg 512w,
+  ./../images/DIU32/bd-09550-768px.jpg 768w,
+  ./../images/DIU32/bd-09550-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -159,8 +383,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - This shot is more zoomed out, Josuke's uniform is tattered again, his face has been retouched and the background is slightly lighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-10130.jpg" />
- <img src="./../images/DIU32/bd-10130.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-10130-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-10130-512px.jpg 512w,
+  ./../images/DIU32/tv-10130-768px.jpg 768w,
+  ./../images/DIU32/tv-10130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-10130-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-10130-512px.jpg 512w,
+  ./../images/DIU32/bd-10130-768px.jpg 768w,
+  ./../images/DIU32/bd-10130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -168,8 +406,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Here our three Pretty Boys' Pretty Faces have been all retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-12000.jpg" />
- <img src="./../images/DIU32/bd-12000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-12000-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-12000-512px.jpg 512w,
+  ./../images/DIU32/tv-12000-768px.jpg 768w,
+  ./../images/DIU32/tv-12000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-12000-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-12000-512px.jpg 512w,
+  ./../images/DIU32/bd-12000-768px.jpg 768w,
+  ./../images/DIU32/bd-12000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -177,8 +429,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - And here... Kanedaichi (I had to google his name) has joined the Pretty Boys club, and Mikitaka's symbols have also been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-12610.jpg" />
- <img src="./../images/DIU32/bd-12610.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-12610-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-12610-512px.jpg 512w,
+  ./../images/DIU32/tv-12610-768px.jpg 768w,
+  ./../images/DIU32/tv-12610-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-12610-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-12610-512px.jpg 512w,
+  ./../images/DIU32/bd-12610-768px.jpg 768w,
+  ./../images/DIU32/bd-12610-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -186,8 +452,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - In this frame, the holes in Josuke's uniform are no longer bottomless pits of blood, and everybody's face has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-13460.jpg" />
- <img src="./../images/DIU32/bd-13460.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-13460-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-13460-512px.jpg 512w,
+  ./../images/DIU32/tv-13460-768px.jpg 768w,
+  ./../images/DIU32/tv-13460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-13460-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-13460-512px.jpg 512w,
+  ./../images/DIU32/bd-13460-768px.jpg 768w,
+  ./../images/DIU32/bd-13460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -195,8 +475,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Them ole uniform holes have been retouched here as well, and again, look at their faces:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-13950.jpg" />
- <img src="./../images/DIU32/bd-13950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-13950-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-13950-512px.jpg 512w,
+  ./../images/DIU32/tv-13950-768px.jpg 768w,
+  ./../images/DIU32/tv-13950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-13950-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-13950-512px.jpg 512w,
+  ./../images/DIU32/bd-13950-768px.jpg 768w,
+  ./../images/DIU32/bd-13950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -204,8 +498,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Rohan got completely redrawn here! Look at how smug he looks! Too bad that other dude still looks like he's been scribbled in by a 8-year old:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-14500.jpg" />
- <img src="./../images/DIU32/bd-14500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-14500-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-14500-512px.jpg 512w,
+  ./../images/DIU32/tv-14500-768px.jpg 768w,
+  ./../images/DIU32/tv-14500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-14500-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-14500-512px.jpg 512w,
+  ./../images/DIU32/bd-14500-768px.jpg 768w,
+  ./../images/DIU32/bd-14500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -213,8 +521,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Zooooom out:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-14800.jpg" />
- <img src="./../images/DIU32/bd-14800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-14800-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-14800-512px.jpg 512w,
+  ./../images/DIU32/tv-14800-768px.jpg 768w,
+  ./../images/DIU32/tv-14800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-14800-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-14800-512px.jpg 512w,
+  ./../images/DIU32/bd-14800-768px.jpg 768w,
+  ./../images/DIU32/bd-14800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -222,8 +544,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Mikitaka's face and his symbols have been retouched here, and the clothes hung out to dry have also been coloured:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-15630.jpg" />
- <img src="./../images/DIU32/bd-15630.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-15630-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-15630-512px.jpg 512w,
+  ./../images/DIU32/tv-15630-768px.jpg 768w,
+  ./../images/DIU32/tv-15630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-15630-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-15630-512px.jpg 512w,
+  ./../images/DIU32/bd-15630-768px.jpg 768w,
+  ./../images/DIU32/bd-15630-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -231,8 +567,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Everything looks better here! Everything!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-15700.jpg" />
- <img src="./../images/DIU32/bd-15700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-15700-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-15700-512px.jpg 512w,
+  ./../images/DIU32/tv-15700-768px.jpg 768w,
+  ./../images/DIU32/tv-15700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-15700-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-15700-512px.jpg 512w,
+  ./../images/DIU32/bd-15700-768px.jpg 768w,
+  ./../images/DIU32/bd-15700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -240,15 +590,43 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - This scene is slightly brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-16400.jpg" />
- <img src="./../images/DIU32/bd-16400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-16400-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-16400-512px.jpg 512w,
+  ./../images/DIU32/tv-16400-768px.jpg 768w,
+  ./../images/DIU32/tv-16400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-16400-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-16400-512px.jpg 512w,
+  ./../images/DIU32/bd-16400-768px.jpg 768w,
+  ./../images/DIU32/bd-16400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-16460.jpg" />
- <img src="./../images/DIU32/bd-16460.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-16460-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-16460-512px.jpg 512w,
+  ./../images/DIU32/tv-16460-768px.jpg 768w,
+  ./../images/DIU32/tv-16460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-16460-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-16460-512px.jpg 512w,
+  ./../images/DIU32/bd-16460-768px.jpg 768w,
+  ./../images/DIU32/bd-16460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -256,8 +634,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - The roses have been recoloured/shaded here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-18500.jpg" />
- <img src="./../images/DIU32/bd-18500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-18500-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-18500-512px.jpg 512w,
+  ./../images/DIU32/tv-18500-768px.jpg 768w,
+  ./../images/DIU32/tv-18500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-18500-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-18500-512px.jpg 512w,
+  ./../images/DIU32/bd-18500-768px.jpg 768w,
+  ./../images/DIU32/bd-18500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -265,8 +657,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Josuke's hand gash did not magically heal here, and his eyes have been slightly retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-19310.jpg" />
- <img src="./../images/DIU32/bd-19310.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-19310-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-19310-512px.jpg 512w,
+  ./../images/DIU32/tv-19310-768px.jpg 768w,
+  ./../images/DIU32/tv-19310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-19310-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-19310-512px.jpg 512w,
+  ./../images/DIU32/bd-19310-768px.jpg 768w,
+  ./../images/DIU32/bd-19310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -274,8 +680,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - And when the camera zooms in real close to Yuuya, the bottom of the frame is slightly darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-19605.jpg" />
- <img src="./../images/DIU32/bd-19605.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-19605-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-19605-512px.jpg 512w,
+  ./../images/DIU32/tv-19605-768px.jpg 768w,
+  ./../images/DIU32/tv-19605-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-19605-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-19605-512px.jpg 512w,
+  ./../images/DIU32/bd-19605-768px.jpg 768w,
+  ./../images/DIU32/bd-19605-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -283,8 +703,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Here, Yuuya's fangirls have all been retouched, Yuuya has eyebrows and his chin tattoo (...it is a tattoo, right?) spells H☆S like it's supposed to:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-19800.jpg" />
- <img src="./../images/DIU32/bd-19800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-19800-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-19800-512px.jpg 512w,
+  ./../images/DIU32/tv-19800-768px.jpg 768w,
+  ./../images/DIU32/tv-19800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-19800-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-19800-512px.jpg 512w,
+  ./../images/DIU32/bd-19800-768px.jpg 768w,
+  ./../images/DIU32/bd-19800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -297,8 +731,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-20000.jpg" />
- <img src="./../images/DIU32/bd-20000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-20000-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-20000-512px.jpg 512w,
+  ./../images/DIU32/tv-20000-768px.jpg 768w,
+  ./../images/DIU32/tv-20000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-20000-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-20000-512px.jpg 512w,
+  ./../images/DIU32/bd-20000-768px.jpg 768w,
+  ./../images/DIU32/bd-20000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -306,8 +754,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - In this shot the middle fangirl's mouth has been centered better, and the background is slightly different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-20688.jpg" />
- <img src="./../images/DIU32/bd-20688.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-20688-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-20688-512px.jpg 512w,
+  ./../images/DIU32/tv-20688-768px.jpg 768w,
+  ./../images/DIU32/tv-20688-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-20688-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-20688-512px.jpg 512w,
+  ./../images/DIU32/bd-20688-768px.jpg 768w,
+  ./../images/DIU32/bd-20688-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -315,8 +777,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Here, the fangirls all have their tattoos (...they are tat- alright, alright, I'll stop it), the middle one's face has been retouched, the holes in Josuke's uniform have been recoloured and the shadow on his forehead is slightly darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-21000.jpg" />
- <img src="./../images/DIU32/bd-21000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-21000-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-21000-512px.jpg 512w,
+  ./../images/DIU32/tv-21000-768px.jpg 768w,
+  ./../images/DIU32/tv-21000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-21000-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-21000-512px.jpg 512w,
+  ./../images/DIU32/bd-21000-768px.jpg 768w,
+  ./../images/DIU32/bd-21000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -324,8 +800,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - In this very handsome shot of Josuke, the BD adds the usual slight distortion at the edges, the shading is all-around different, his right ear is shaded and there's a bit of extra highlight near his left cheekbone:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-21050.jpg" />
- <img src="./../images/DIU32/bd-21050.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-21050-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-21050-512px.jpg 512w,
+  ./../images/DIU32/tv-21050-768px.jpg 768w,
+  ./../images/DIU32/tv-21050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-21050-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-21050-512px.jpg 512w,
+  ./../images/DIU32/bd-21050-768px.jpg 768w,
+  ./../images/DIU32/bd-21050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -333,8 +823,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Here, Josuke's face has been retouched, and the hole on his arm has been recoloured:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-22616.jpg" />
- <img src="./../images/DIU32/bd-22616.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-22616-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-22616-512px.jpg 512w,
+  ./../images/DIU32/tv-22616-768px.jpg 768w,
+  ./../images/DIU32/tv-22616-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-22616-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-22616-512px.jpg 512w,
+  ./../images/DIU32/bd-22616-768px.jpg 768w,
+  ./../images/DIU32/bd-22616-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -342,8 +846,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - And here the gash on his hand is back, the uniform hole has been recoloured once again, and there's a bit of his hand which was previously blue and is now pink:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-22800.jpg" />
- <img src="./../images/DIU32/bd-22800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-22800-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-22800-512px.jpg 512w,
+  ./../images/DIU32/tv-22800-768px.jpg 768w,
+  ./../images/DIU32/tv-22800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-22800-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-22800-512px.jpg 512w,
+  ./../images/DIU32/bd-22800-768px.jpg 768w,
+  ./../images/DIU32/bd-22800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -351,8 +869,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - In this scene, the background is slightly different around the edges, the shading is different on both of  them, there's an extra glint in Josuke's eyes and the whole shot is some pixels higher:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-23815.jpg" />
- <img src="./../images/DIU32/bd-23815.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-23815-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-23815-512px.jpg 512w,
+  ./../images/DIU32/tv-23815-768px.jpg 768w,
+  ./../images/DIU32/tv-23815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-23815-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-23815-512px.jpg 512w,
+  ./../images/DIU32/bd-23815-768px.jpg 768w,
+  ./../images/DIU32/bd-23815-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -360,8 +892,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Here, Josuke's eye area has been retouched, the front bit of his collar is darker and some parts of the background have been shaded differently:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-23900.jpg" />
- <img src="./../images/DIU32/bd-23900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-23900-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-23900-512px.jpg 512w,
+  ./../images/DIU32/tv-23900-768px.jpg 768w,
+  ./../images/DIU32/tv-23900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-23900-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-23900-512px.jpg 512w,
+  ./../images/DIU32/bd-23900-768px.jpg 768w,
+  ./../images/DIU32/bd-23900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -369,8 +915,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - In this scene Yuuya has a better face, his shade has a different colour and the shadow under his bag is a bit different. Now for Josuke! His hair now has a highlight, his uniform has the usual holes in it and the missing bit at the back of his collar has been drawn in:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-25095.jpg" />
- <img src="./../images/DIU32/bd-25095.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-25095-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-25095-512px.jpg 512w,
+  ./../images/DIU32/tv-25095-768px.jpg 768w,
+  ./../images/DIU32/tv-25095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-25095-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-25095-512px.jpg 512w,
+  ./../images/DIU32/bd-25095-768px.jpg 768w,
+  ./../images/DIU32/bd-25095-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -378,8 +938,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - The background in this scene is distorted in an entirely different way:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-25295.jpg" />
- <img src="./../images/DIU32/bd-25295.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-25295-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-25295-512px.jpg 512w,
+  ./../images/DIU32/tv-25295-768px.jpg 768w,
+  ./../images/DIU32/tv-25295-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-25295-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-25295-512px.jpg 512w,
+  ./../images/DIU32/bd-25295-768px.jpg 768w,
+  ./../images/DIU32/bd-25295-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -387,8 +961,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Here, if you squint really hard, you'll see that Josuke's uniform has been retouched to have the usual holes, and there's the usual distortion around the edges. Most lines are also slightly thicker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-25450.jpg" />
- <img src="./../images/DIU32/bd-25450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-25450-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-25450-512px.jpg 512w,
+  ./../images/DIU32/tv-25450-768px.jpg 768w,
+  ./../images/DIU32/tv-25450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-25450-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-25450-512px.jpg 512w,
+  ./../images/DIU32/bd-25450-768px.jpg 768w,
+  ./../images/DIU32/bd-25450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -396,8 +984,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - This frame has, once again, ye olde distortion around the edges, and Yuuya's shadow has a slightly different colour:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-25600.jpg" />
- <img src="./../images/DIU32/bd-25600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-25600-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-25600-512px.jpg 512w,
+  ./../images/DIU32/tv-25600-768px.jpg 768w,
+  ./../images/DIU32/tv-25600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-25600-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-25600-512px.jpg 512w,
+  ./../images/DIU32/bd-25600-768px.jpg 768w,
+  ./../images/DIU32/bd-25600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -405,8 +1007,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Another slightly distorted frame! Josuke has also been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-25700.jpg" />
- <img src="./../images/DIU32/bd-25700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-25700-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-25700-512px.jpg 512w,
+  ./../images/DIU32/tv-25700-768px.jpg 768w,
+  ./../images/DIU32/tv-25700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-25700-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-25700-512px.jpg 512w,
+  ./../images/DIU32/bd-25700-768px.jpg 768w,
+  ./../images/DIU32/bd-25700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -414,8 +1030,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Ok, please, let's take a moment to appreciate just how utterly fucked up the peace symbol was in the TV version. I mean, honestly. If there was a Top 10 ranking of all the times that goddamn thing has been drawn wrong this would probably be up there. Number One Most Disappointing Scribble. Congratulations. Yes, there are other differences in this frame, namely the holes in his uniform, the usual distortion, the highlight in his hair and the missing earring, but that peace symbol just takes the cake:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-25800.jpg" />
- <img src="./../images/DIU32/bd-25800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-25800-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-25800-512px.jpg 512w,
+  ./../images/DIU32/tv-25800-768px.jpg 768w,
+  ./../images/DIU32/tv-25800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-25800-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-25800-512px.jpg 512w,
+  ./../images/DIU32/bd-25800-768px.jpg 768w,
+  ./../images/DIU32/bd-25800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -423,8 +1053,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Another frame, another difference! Or differenceS! The highlight in Josuke's hair is blurred and doesn't go as far around the big ol' steakhead, most shading in this frame is slightly different and there's a slight distortion around the edge:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-25820.jpg" />
- <img src="./../images/DIU32/bd-25820.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-25820-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-25820-512px.jpg 512w,
+  ./../images/DIU32/tv-25820-768px.jpg 768w,
+  ./../images/DIU32/tv-25820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-25820-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-25820-512px.jpg 512w,
+  ./../images/DIU32/bd-25820-768px.jpg 768w,
+  ./../images/DIU32/bd-25820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -432,8 +1076,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Another completely reshaded frame here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-26450.jpg" />
- <img src="./../images/DIU32/bd-26450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-26450-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-26450-512px.jpg 512w,
+  ./../images/DIU32/tv-26450-768px.jpg 768w,
+  ./../images/DIU32/tv-26450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-26450-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-26450-512px.jpg 512w,
+  ./../images/DIU32/bd-26450-768px.jpg 768w,
+  ./../images/DIU32/bd-26450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -441,15 +1099,43 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - In this scene, Tomoko's face has been retouched, the edge of the light rays has been blurred and the shading in the background is darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-26480.jpg" />
- <img src="./../images/DIU32/bd-26480.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-26480-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-26480-512px.jpg 512w,
+  ./../images/DIU32/tv-26480-768px.jpg 768w,
+  ./../images/DIU32/tv-26480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-26480-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-26480-512px.jpg 512w,
+  ./../images/DIU32/bd-26480-768px.jpg 768w,
+  ./../images/DIU32/bd-26480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-26525.jpg" />
- <img src="./../images/DIU32/bd-26525.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-26525-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-26525-512px.jpg 512w,
+  ./../images/DIU32/tv-26525-768px.jpg 768w,
+  ./../images/DIU32/tv-26525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-26525-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-26525-512px.jpg 512w,
+  ./../images/DIU32/bd-26525-768px.jpg 768w,
+  ./../images/DIU32/bd-26525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -457,8 +1143,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Here, that dang distortion is back (you can see it if you look at Yuuya's right shoulder), the shading on his face is a bit darker and the background has been unskewed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-31215.jpg" />
- <img src="./../images/DIU32/bd-31215.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-31215-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-31215-512px.jpg 512w,
+  ./../images/DIU32/tv-31215-768px.jpg 768w,
+  ./../images/DIU32/tv-31215-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-31215-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-31215-512px.jpg 512w,
+  ./../images/DIU32/bd-31215-768px.jpg 768w,
+  ./../images/DIU32/bd-31215-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -466,8 +1166,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - Ah, who would have thought? Another slight distortion:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-31380.jpg" />
- <img src="./../images/DIU32/bd-31380.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-31380-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-31380-512px.jpg 512w,
+  ./../images/DIU32/tv-31380-768px.jpg 768w,
+  ./../images/DIU32/tv-31380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-31380-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-31380-512px.jpg 512w,
+  ./../images/DIU32/bd-31380-768px.jpg 768w,
+  ./../images/DIU32/bd-31380-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -482,8 +1196,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - As you can see from this comparison, Yuuya has his tattoo (...it i-) back:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-31800.jpg" />
- <img src="./../images/DIU32/bd-31800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-31800-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-31800-512px.jpg 512w,
+  ./../images/DIU32/tv-31800-768px.jpg 768w,
+  ./../images/DIU32/tv-31800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-31800-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-31800-512px.jpg 512w,
+  ./../images/DIU32/bd-31800-768px.jpg 768w,
+  ./../images/DIU32/bd-31800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -498,8 +1226,22 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 - In this frame, Josuke's eyes have been retouched, you can sort of see one of the holes in his uniform, the hand gash is back again and Tomoko has been shaded a little bit better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU32/tv-31950.jpg" />
- <img src="./../images/DIU32/bd-31950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/tv-31950-1090px.jpg"
+  data-srcset="./../images/DIU32/tv-31950-512px.jpg 512w,
+  ./../images/DIU32/tv-31950-768px.jpg 768w,
+  ./../images/DIU32/tv-31950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU32/bd-31950-1090px.jpg"
+  data-srcset="./../images/DIU32/bd-31950-512px.jpg 512w,
+  ./../images/DIU32/bd-31950-768px.jpg 768w,
+  ./../images/DIU32/bd-31950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

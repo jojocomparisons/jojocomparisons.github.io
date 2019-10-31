@@ -19,8 +19,22 @@ Hello everybody, and welcome back! Today we're gonna take a look at another unde
 - In this scene, they recoloured the bag and the hand (as commenter Patrick Falcon <a href="https://jojocomparisons.github.io/jojo-diu-09/#comment-3058912453">pointed out</a>, this is in fact a palette swap from Josuke's to Okuyasu's! Good catch there!):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU09/tv-00040.jpg" />
- <img src="./../images/DIU09/bd-00040.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU09/tv-00040-1090px.jpg"
+  data-srcset="./../images/DIU09/tv-00040-512px.jpg 512w,
+  ./../images/DIU09/tv-00040-768px.jpg 768w,
+  ./../images/DIU09/tv-00040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU09/bd-00040-1090px.jpg"
+  data-srcset="./../images/DIU09/bd-00040-512px.jpg 512w,
+  ./../images/DIU09/bd-00040-768px.jpg 768w,
+  ./../images/DIU09/bd-00040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

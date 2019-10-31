@@ -19,8 +19,22 @@ Hi there, and welcome back for a look at the differences in Episode #04! Nothing
 - Koichi's neck wound has been uncensored again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU04/tv-06260.jpg" />
- <img src="./../images/DIU04/bd-06260.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/tv-06260-1090px.jpg"
+  data-srcset="./../images/DIU04/tv-06260-512px.jpg 512w,
+  ./../images/DIU04/tv-06260-768px.jpg 768w,
+  ./../images/DIU04/tv-06260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/bd-06260-1090px.jpg"
+  data-srcset="./../images/DIU04/bd-06260-512px.jpg 512w,
+  ./../images/DIU04/bd-06260-768px.jpg 768w,
+  ./../images/DIU04/bd-06260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -28,8 +42,22 @@ Hi there, and welcome back for a look at the differences in Episode #04! Nothing
 - This is a weird thing to write, but in this scene the blood on the ground near Okuyasu's head has been *erased*, because of consistency with the following scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU04/tv-06890.jpg" />
- <img src="./../images/DIU04/bd-06890.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/tv-06890-1090px.jpg"
+  data-srcset="./../images/DIU04/tv-06890-512px.jpg 512w,
+  ./../images/DIU04/tv-06890-768px.jpg 768w,
+  ./../images/DIU04/tv-06890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/bd-06890-1090px.jpg"
+  data-srcset="./../images/DIU04/bd-06890-512px.jpg 512w,
+  ./../images/DIU04/bd-06890-768px.jpg 768w,
+  ./../images/DIU04/bd-06890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,8 +65,22 @@ Hi there, and welcome back for a look at the differences in Episode #04! Nothing
 - Koichi's neck wound again:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU04/tv-11900.jpg" />
- <img src="./../images/DIU04/bd-11900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/tv-11900-1090px.jpg"
+  data-srcset="./../images/DIU04/tv-11900-512px.jpg 512w,
+  ./../images/DIU04/tv-11900-768px.jpg 768w,
+  ./../images/DIU04/tv-11900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/bd-11900-1090px.jpg"
+  data-srcset="./../images/DIU04/bd-11900-512px.jpg 512w,
+  ./../images/DIU04/bd-11900-768px.jpg 768w,
+  ./../images/DIU04/bd-11900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -46,8 +88,22 @@ Hi there, and welcome back for a look at the differences in Episode #04! Nothing
 - There's blood on Josuke's left shoulder:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU04/tv-19275.jpg" />
- <img src="./../images/DIU04/bd-19275.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/tv-19275-1090px.jpg"
+  data-srcset="./../images/DIU04/tv-19275-512px.jpg 512w,
+  ./../images/DIU04/tv-19275-768px.jpg 768w,
+  ./../images/DIU04/tv-19275-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/bd-19275-1090px.jpg"
+  data-srcset="./../images/DIU04/bd-19275-512px.jpg 512w,
+  ./../images/DIU04/bd-19275-768px.jpg 768w,
+  ./../images/DIU04/bd-19275-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -55,15 +111,43 @@ Hi there, and welcome back for a look at the differences in Episode #04! Nothing
 - Part of Josuke's face is covered in blood (it's more clearly visible in the second couple of screenshots):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU04/tv-19690.jpg" />
- <img src="./../images/DIU04/bd-19690.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/tv-19690-1090px.jpg"
+  data-srcset="./../images/DIU04/tv-19690-512px.jpg 512w,
+  ./../images/DIU04/tv-19690-768px.jpg 768w,
+  ./../images/DIU04/tv-19690-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/bd-19690-1090px.jpg"
+  data-srcset="./../images/DIU04/bd-19690-512px.jpg 512w,
+  ./../images/DIU04/bd-19690-768px.jpg 768w,
+  ./../images/DIU04/bd-19690-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU04/tv-20100.jpg" />
- <img src="./../images/DIU04/bd-20100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/tv-20100-1090px.jpg"
+  data-srcset="./../images/DIU04/tv-20100-512px.jpg 512w,
+  ./../images/DIU04/tv-20100-768px.jpg 768w,
+  ./../images/DIU04/tv-20100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/bd-20100-1090px.jpg"
+  data-srcset="./../images/DIU04/bd-20100-512px.jpg 512w,
+  ./../images/DIU04/bd-20100-768px.jpg 768w,
+  ./../images/DIU04/bd-20100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -78,8 +162,22 @@ Hi there, and welcome back for a look at the differences in Episode #04! Nothing
 - Koichi now has a cut on his cheek:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU04/tv-28765.jpg" />
- <img src="./../images/DIU04/bd-28765.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/tv-28765-1090px.jpg"
+  data-srcset="./../images/DIU04/tv-28765-512px.jpg 512w,
+  ./../images/DIU04/tv-28765-768px.jpg 768w,
+  ./../images/DIU04/tv-28765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/bd-28765-1090px.jpg"
+  data-srcset="./../images/DIU04/bd-28765-512px.jpg 512w,
+  ./../images/DIU04/bd-28765-768px.jpg 768w,
+  ./../images/DIU04/bd-28765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -87,8 +185,22 @@ Hi there, and welcome back for a look at the differences in Episode #04! Nothing
 - Once again, more blood on Josuke's face:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU04/tv-28900.jpg" />
- <img src="./../images/DIU04/bd-28900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/tv-28900-1090px.jpg"
+  data-srcset="./../images/DIU04/tv-28900-512px.jpg 512w,
+  ./../images/DIU04/tv-28900-768px.jpg 768w,
+  ./../images/DIU04/tv-28900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/bd-28900-1090px.jpg"
+  data-srcset="./../images/DIU04/bd-28900-512px.jpg 512w,
+  ./../images/DIU04/bd-28900-768px.jpg 768w,
+  ./../images/DIU04/bd-28900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -96,8 +208,22 @@ Hi there, and welcome back for a look at the differences in Episode #04! Nothing
 - 吉本雅一 (Yoshimoto Masakazu) has been removed from the end credits:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU04/tv-32520.jpg" />
- <img src="./../images/DIU04/bd-32520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/tv-32520-1090px.jpg"
+  data-srcset="./../images/DIU04/tv-32520-512px.jpg 512w,
+  ./../images/DIU04/tv-32520-768px.jpg 768w,
+  ./../images/DIU04/tv-32520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/bd-32520-1090px.jpg"
+  data-srcset="./../images/DIU04/bd-32520-512px.jpg 512w,
+  ./../images/DIU04/bd-32520-768px.jpg 768w,
+  ./../images/DIU04/bd-32520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -105,8 +231,22 @@ Hi there, and welcome back for a look at the differences in Episode #04! Nothing
 - And here, 姉崎早也花 (Anezaki Kashiwa)'s name was previously misspelled as 早也香. This has been corrected; 暁 (Akatsuki) has also been added, further down:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU04/tv-32596.jpg" />
- <img src="./../images/DIU04/bd-32596.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/tv-32596-1090px.jpg"
+  data-srcset="./../images/DIU04/tv-32596-512px.jpg 512w,
+  ./../images/DIU04/tv-32596-768px.jpg 768w,
+  ./../images/DIU04/tv-32596-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU04/bd-32596-1090px.jpg"
+  data-srcset="./../images/DIU04/bd-32596-512px.jpg 512w,
+  ./../images/DIU04/bd-32596-768px.jpg 768w,
+  ./../images/DIU04/bd-32596-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

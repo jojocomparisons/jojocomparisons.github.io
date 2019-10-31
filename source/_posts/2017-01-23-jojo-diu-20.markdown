@@ -23,8 +23,22 @@ Let's go!
 - The first comparison for today is this shot, in which both the truck and Yukako have been slightly shifted and retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-00899.jpg" />
- <img src="./../images/DIU20/bd-00899.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-00899-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-00899-512px.jpg 512w,
+  ./../images/DIU20/tv-00899-768px.jpg 768w,
+  ./../images/DIU20/tv-00899-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-00899-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-00899-512px.jpg 512w,
+  ./../images/DIU20/bd-00899-768px.jpg 768w,
+  ./../images/DIU20/bd-00899-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -39,8 +53,22 @@ Let's go!
 - In this beautiful shot of Yukako, her facial features have been very slightly retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-07045.jpg" />
- <img src="./../images/DIU20/bd-07045.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-07045-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-07045-512px.jpg 512w,
+  ./../images/DIU20/tv-07045-768px.jpg 768w,
+  ./../images/DIU20/tv-07045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-07045-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-07045-512px.jpg 512w,
+  ./../images/DIU20/bd-07045-768px.jpg 768w,
+  ./../images/DIU20/bd-07045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -48,15 +76,43 @@ Let's go!
 - The dude in the back has received a makeover and now looks less generic and... slightly more like Kosaku Kawajiri? (but I'm sure that's a coincidence):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-08575.jpg" />
- <img src="./../images/DIU20/bd-08575.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-08575-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-08575-512px.jpg 512w,
+  ./../images/DIU20/tv-08575-768px.jpg 768w,
+  ./../images/DIU20/tv-08575-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-08575-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-08575-512px.jpg 512w,
+  ./../images/DIU20/bd-08575-768px.jpg 768w,
+  ./../images/DIU20/bd-08575-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-08625.jpg" />
- <img src="./../images/DIU20/bd-08625.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-08625-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-08625-512px.jpg 512w,
+  ./../images/DIU20/tv-08625-768px.jpg 768w,
+  ./../images/DIU20/tv-08625-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-08625-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-08625-512px.jpg 512w,
+  ./../images/DIU20/bd-08625-768px.jpg 768w,
+  ./../images/DIU20/bd-08625-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -64,8 +120,22 @@ Let's go!
 - In this shot, the roses on Yukako's sleeves were missing from a few frames; they have been drawn in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-14135.jpg" />
- <img src="./../images/DIU20/bd-14135.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-14135-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-14135-512px.jpg 512w,
+  ./../images/DIU20/tv-14135-768px.jpg 768w,
+  ./../images/DIU20/tv-14135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-14135-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-14135-512px.jpg 512w,
+  ./../images/DIU20/bd-14135-768px.jpg 768w,
+  ./../images/DIU20/bd-14135-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -73,8 +143,22 @@ Let's go!
 - Here, Yukako has her wristwatch:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-14960.jpg" />
- <img src="./../images/DIU20/bd-14960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-14960-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-14960-512px.jpg 512w,
+  ./../images/DIU20/tv-14960-768px.jpg 768w,
+  ./../images/DIU20/tv-14960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-14960-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-14960-512px.jpg 512w,
+  ./../images/DIU20/bd-14960-768px.jpg 768w,
+  ./../images/DIU20/bd-14960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -82,8 +166,22 @@ Let's go!
 - In this shot of everybody's favourite flamingo, the buttons are coloured different, the eyes and rightmost earring have been retouched and the headband now covers all of his head instead of just stopping there:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-15165.jpg" />
- <img src="./../images/DIU20/bd-15165.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-15165-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-15165-512px.jpg 512w,
+  ./../images/DIU20/tv-15165-768px.jpg 768w,
+  ./../images/DIU20/tv-15165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-15165-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-15165-512px.jpg 512w,
+  ./../images/DIU20/bd-15165-768px.jpg 768w,
+  ./../images/DIU20/bd-15165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -91,15 +189,43 @@ Let's go!
 - Here, this tiny Yukako has a better looking face, plus the added sleeve roses and wristwatch:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-16707.jpg" />
- <img src="./../images/DIU20/bd-16707.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-16707-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-16707-512px.jpg 512w,
+  ./../images/DIU20/tv-16707-768px.jpg 768w,
+  ./../images/DIU20/tv-16707-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-16707-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-16707-512px.jpg 512w,
+  ./../images/DIU20/bd-16707-768px.jpg 768w,
+  ./../images/DIU20/bd-16707-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-16776.jpg" />
- <img src="./../images/DIU20/bd-16776.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-16776-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-16776-512px.jpg 512w,
+  ./../images/DIU20/tv-16776-768px.jpg 768w,
+  ./../images/DIU20/tv-16776-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-16776-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-16776-512px.jpg 512w,
+  ./../images/DIU20/bd-16776-768px.jpg 768w,
+  ./../images/DIU20/bd-16776-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -119,15 +245,43 @@ Let's go!
 - The rose and wristwatch again!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-18340.jpg" />
- <img src="./../images/DIU20/bd-18340.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-18340-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-18340-512px.jpg 512w,
+  ./../images/DIU20/tv-18340-768px.jpg 768w,
+  ./../images/DIU20/tv-18340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-18340-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-18340-512px.jpg 512w,
+  ./../images/DIU20/bd-18340-768px.jpg 768w,
+  ./../images/DIU20/bd-18340-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-18580.jpg" />
- <img src="./../images/DIU20/bd-18580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-18580-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-18580-512px.jpg 512w,
+  ./../images/DIU20/tv-18580-768px.jpg 768w,
+  ./../images/DIU20/tv-18580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-18580-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-18580-512px.jpg 512w,
+  ./../images/DIU20/bd-18580-768px.jpg 768w,
+  ./../images/DIU20/bd-18580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -142,8 +296,22 @@ Let's go!
 - Here we have another slightly retouched Yukako; her eye... slot? Thing? And her left cheek mostly:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-23802.jpg" />
- <img src="./../images/DIU20/bd-23802.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-23802-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-23802-512px.jpg 512w,
+  ./../images/DIU20/tv-23802-768px.jpg 768w,
+  ./../images/DIU20/tv-23802-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-23802-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-23802-512px.jpg 512w,
+  ./../images/DIU20/bd-23802-768px.jpg 768w,
+  ./../images/DIU20/bd-23802-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -151,15 +319,43 @@ Let's go!
 - In these shots of Aya, there are a bit more highlights in her hair and ear:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-23910.jpg" />
- <img src="./../images/DIU20/bd-23910.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-23910-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-23910-512px.jpg 512w,
+  ./../images/DIU20/tv-23910-768px.jpg 768w,
+  ./../images/DIU20/tv-23910-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-23910-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-23910-512px.jpg 512w,
+  ./../images/DIU20/bd-23910-768px.jpg 768w,
+  ./../images/DIU20/bd-23910-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-23967.jpg" />
- <img src="./../images/DIU20/bd-23967.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-23967-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-23967-512px.jpg 512w,
+  ./../images/DIU20/tv-23967-768px.jpg 768w,
+  ./../images/DIU20/tv-23967-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-23967-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-23967-512px.jpg 512w,
+  ./../images/DIU20/bd-23967-768px.jpg 768w,
+  ./../images/DIU20/bd-23967-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -167,8 +363,22 @@ Let's go!
 - HD Remastered Yukako (now in 4K Dolby Surround):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-25328.jpg" />
- <img src="./../images/DIU20/bd-25328.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-25328-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-25328-512px.jpg 512w,
+  ./../images/DIU20/tv-25328-768px.jpg 768w,
+  ./../images/DIU20/tv-25328-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-25328-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-25328-512px.jpg 512w,
+  ./../images/DIU20/bd-25328-768px.jpg 768w,
+  ./../images/DIU20/bd-25328-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -176,8 +386,22 @@ Let's go!
 - Here, most of the bottles on the ground have been recoloured, as has been that... Hideous purple thing on the right:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-26695.jpg" />
- <img src="./../images/DIU20/bd-26695.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-26695-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-26695-512px.jpg 512w,
+  ./../images/DIU20/tv-26695-768px.jpg 768w,
+  ./../images/DIU20/tv-26695-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-26695-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-26695-512px.jpg 512w,
+  ./../images/DIU20/bd-26695-768px.jpg 768w,
+  ./../images/DIU20/bd-26695-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -185,8 +409,22 @@ Let's go!
 - Yukako's face has been redrawn here, and Echoes' green aura is different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-31780.jpg" />
- <img src="./../images/DIU20/bd-31780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-31780-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-31780-512px.jpg 512w,
+  ./../images/DIU20/tv-31780-768px.jpg 768w,
+  ./../images/DIU20/tv-31780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-31780-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-31780-512px.jpg 512w,
+  ./../images/DIU20/bd-31780-768px.jpg 768w,
+  ./../images/DIU20/bd-31780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -194,8 +432,22 @@ Let's go!
 - And here, the eye slots in the background are smaller and there are more of them; Yukako's face is also looking better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU20/tv-32175.jpg" />
- <img src="./../images/DIU20/bd-32175.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/tv-32175-1090px.jpg"
+  data-srcset="./../images/DIU20/tv-32175-512px.jpg 512w,
+  ./../images/DIU20/tv-32175-768px.jpg 768w,
+  ./../images/DIU20/tv-32175-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU20/bd-32175-1090px.jpg"
+  data-srcset="./../images/DIU20/bd-32175-512px.jpg 512w,
+  ./../images/DIU20/bd-32175-768px.jpg 768w,
+  ./../images/DIU20/bd-32175-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

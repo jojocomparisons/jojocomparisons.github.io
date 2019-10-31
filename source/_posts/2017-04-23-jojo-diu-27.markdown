@@ -19,8 +19,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Today's first comparison already needs both a video and *two* image comparison! Here's Mikitaka being hit by the arrow, slightly more tilted and completely redrawn; Kira senior has also received the same treatment:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-00700.jpg" />
- <img src="./../images/DIU27/bd-00700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-00700-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-00700-512px.jpg 512w,
+  ./../images/DIU27/tv-00700-768px.jpg 768w,
+  ./../images/DIU27/tv-00700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-00700-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-00700-512px.jpg 512w,
+  ./../images/DIU27/bd-00700-768px.jpg 768w,
+  ./../images/DIU27/bd-00700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -31,8 +45,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 </video>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-00740.jpg" />
- <img src="./../images/DIU27/bd-00740.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-00740-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-00740-512px.jpg 512w,
+  ./../images/DIU27/tv-00740-768px.jpg 768w,
+  ./../images/DIU27/tv-00740-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-00740-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-00740-512px.jpg 512w,
+  ./../images/DIU27/bd-00740-768px.jpg 768w,
+  ./../images/DIU27/bd-00740-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -40,22 +68,64 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Another couple of redrawn Mikitakas for your eyes only (you'll see a lot of him this episode):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-00770.jpg" />
- <img src="./../images/DIU27/bd-00770.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-00770-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-00770-512px.jpg 512w,
+  ./../images/DIU27/tv-00770-768px.jpg 768w,
+  ./../images/DIU27/tv-00770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-00770-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-00770-512px.jpg 512w,
+  ./../images/DIU27/bd-00770-768px.jpg 768w,
+  ./../images/DIU27/bd-00770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-00841.jpg" />
- <img src="./../images/DIU27/bd-00841.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-00841-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-00841-512px.jpg 512w,
+  ./../images/DIU27/tv-00841-768px.jpg 768w,
+  ./../images/DIU27/tv-00841-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-00841-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-00841-512px.jpg 512w,
+  ./../images/DIU27/bd-00841-768px.jpg 768w,
+  ./../images/DIU27/bd-00841-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-00888.jpg" />
- <img src="./../images/DIU27/bd-00888.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-00888-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-00888-512px.jpg 512w,
+  ./../images/DIU27/tv-00888-768px.jpg 768w,
+  ./../images/DIU27/tv-00888-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-00888-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-00888-512px.jpg 512w,
+  ./../images/DIU27/bd-00888-768px.jpg 768w,
+  ./../images/DIU27/bd-00888-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -63,8 +133,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - In this shot both the grass in the foreground and Mikitaka and the clouds (which, by the way, would be an excellent name for an indie dreampop band) are blurrier:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01044.jpg" />
- <img src="./../images/DIU27/bd-01044.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01044-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01044-512px.jpg 512w,
+  ./../images/DIU27/tv-01044-768px.jpg 768w,
+  ./../images/DIU27/tv-01044-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01044-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01044-512px.jpg 512w,
+  ./../images/DIU27/bd-01044-768px.jpg 768w,
+  ./../images/DIU27/bd-01044-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -72,15 +156,43 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - And another couple of redrawn Mikitakas before the Kawajiris show up and steal the scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01045.jpg" />
- <img src="./../images/DIU27/bd-01045.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01045-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01045-512px.jpg 512w,
+  ./../images/DIU27/tv-01045-768px.jpg 768w,
+  ./../images/DIU27/tv-01045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01045-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01045-512px.jpg 512w,
+  ./../images/DIU27/bd-01045-768px.jpg 768w,
+  ./../images/DIU27/bd-01045-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01100.jpg" />
- <img src="./../images/DIU27/bd-01100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01100-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01100-512px.jpg 512w,
+  ./../images/DIU27/tv-01100-768px.jpg 768w,
+  ./../images/DIU27/tv-01100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01100-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01100-512px.jpg 512w,
+  ./../images/DIU27/bd-01100-768px.jpg 768w,
+  ./../images/DIU27/bd-01100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -88,15 +200,43 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Alright, so! This is this site's first BIG EDIT: when I first wrote this post, I dismissed all the differences in the opening because, at the time, it was well known that the version that aired on TV was half-finished, and most things were changed by episode #28, but I no longer think that's an acceptable thing to do! So, here you go, here's a detailed comparison of the opening as well! For the first different thing, you can see that the writing in the center has been moved down a little bit:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01350.jpg" />
- <img src="./../images/DIU27/bd-01350.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01350-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01350-512px.jpg 512w,
+  ./../images/DIU27/tv-01350-768px.jpg 768w,
+  ./../images/DIU27/tv-01350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01350-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01350-512px.jpg 512w,
+  ./../images/DIU27/bd-01350-768px.jpg 768w,
+  ./../images/DIU27/bd-01350-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01375.jpg" />
- <img src="./../images/DIU27/bd-01375.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01375-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01375-512px.jpg 512w,
+  ./../images/DIU27/tv-01375-768px.jpg 768w,
+  ./../images/DIU27/tv-01375-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01375-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01375-512px.jpg 512w,
+  ./../images/DIU27/bd-01375-768px.jpg 768w,
+  ./../images/DIU27/bd-01375-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -104,8 +244,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Kosaku's jacket has also been retouched in a couple of frames, and if you move the separator left and right very quickly it looks like he's subtly dancing a very polite boogie:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01420.jpg" />
- <img src="./../images/DIU27/bd-01420.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01420-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01420-512px.jpg 512w,
+  ./../images/DIU27/tv-01420-768px.jpg 768w,
+  ./../images/DIU27/tv-01420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01420-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01420-512px.jpg 512w,
+  ./../images/DIU27/bd-01420-768px.jpg 768w,
+  ./../images/DIU27/bd-01420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -113,8 +267,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here, Kosaku's more distant from the camera, and _everybody else_ in the background has also been moved around (Koichi's particularly humorous):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01505.jpg" />
- <img src="./../images/DIU27/bd-01505.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01505-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01505-512px.jpg 512w,
+  ./../images/DIU27/tv-01505-768px.jpg 768w,
+  ./../images/DIU27/tv-01505-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01505-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01505-512px.jpg 512w,
+  ./../images/DIU27/bd-01505-768px.jpg 768w,
+  ./../images/DIU27/bd-01505-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -122,8 +290,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here, the justice sun-clock thingy in the background has a much softer lighting, the sky is black instead of blue, the sea is also looking different, Josuke's silhouettes now have a reflection and have also been moved up (as has been the camera itself, although by much less):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01570.jpg" />
- <img src="./../images/DIU27/bd-01570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01570-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01570-512px.jpg 512w,
+  ./../images/DIU27/tv-01570-768px.jpg 768w,
+  ./../images/DIU27/tv-01570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01570-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01570-512px.jpg 512w,
+  ./../images/DIU27/bd-01570-768px.jpg 768w,
+  ./../images/DIU27/bd-01570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -131,15 +313,43 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - As you can see here, the background continues to be darker and there's an additional... "gritty" texture overlay here and there:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01670.jpg" />
- <img src="./../images/DIU27/bd-01670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01670-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01670-512px.jpg 512w,
+  ./../images/DIU27/tv-01670-768px.jpg 768w,
+  ./../images/DIU27/tv-01670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01670-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01670-512px.jpg 512w,
+  ./../images/DIU27/bd-01670-768px.jpg 768w,
+  ./../images/DIU27/bd-01670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01780.jpg" />
- <img src="./../images/DIU27/bd-01780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01780-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01780-512px.jpg 512w,
+  ./../images/DIU27/tv-01780-768px.jpg 768w,
+  ./../images/DIU27/tv-01780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01780-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01780-512px.jpg 512w,
+  ./../images/DIU27/bd-01780-768px.jpg 768w,
+  ./../images/DIU27/bd-01780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -147,8 +357,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - The camera also moves differently towards the end (this is the final frame of the sequence):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01825.jpg" />
- <img src="./../images/DIU27/bd-01825.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01825-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01825-512px.jpg 512w,
+  ./../images/DIU27/tv-01825-768px.jpg 768w,
+  ./../images/DIU27/tv-01825-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01825-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01825-512px.jpg 512w,
+  ./../images/DIU27/bd-01825-768px.jpg 768w,
+  ./../images/DIU27/bd-01825-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -156,8 +380,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - The distortion in this sequence is way way different, there's a slightly dark vignette around the edges, the banister to the right has been redrawn, the door has a different shading and a different knob too:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01826.jpg" />
- <img src="./../images/DIU27/bd-01826.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01826-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01826-512px.jpg 512w,
+  ./../images/DIU27/tv-01826-768px.jpg 768w,
+  ./../images/DIU27/tv-01826-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01826-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01826-512px.jpg 512w,
+  ./../images/DIU27/bd-01826-768px.jpg 768w,
+  ./../images/DIU27/bd-01826-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -165,22 +403,64 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Rohan has also been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01850.jpg" />
- <img src="./../images/DIU27/bd-01850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01850-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01850-512px.jpg 512w,
+  ./../images/DIU27/tv-01850-768px.jpg 768w,
+  ./../images/DIU27/tv-01850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01850-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01850-512px.jpg 512w,
+  ./../images/DIU27/bd-01850-768px.jpg 768w,
+  ./../images/DIU27/bd-01850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01860.jpg" />
- <img src="./../images/DIU27/bd-01860.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01860-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01860-512px.jpg 512w,
+  ./../images/DIU27/tv-01860-768px.jpg 768w,
+  ./../images/DIU27/tv-01860-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01860-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01860-512px.jpg 512w,
+  ./../images/DIU27/bd-01860-768px.jpg 768w,
+  ./../images/DIU27/bd-01860-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01870.jpg" />
- <img src="./../images/DIU27/bd-01870.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01870-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01870-512px.jpg 512w,
+  ./../images/DIU27/tv-01870-768px.jpg 768w,
+  ./../images/DIU27/tv-01870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01870-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01870-512px.jpg 512w,
+  ./../images/DIU27/bd-01870-768px.jpg 768w,
+  ./../images/DIU27/bd-01870-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -195,8 +475,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - And in addition to that, this frame where half of the chair mysteriously vanished in thin air (taking with it the banister too) has also been fixed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01943.jpg" />
- <img src="./../images/DIU27/bd-01943.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01943-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01943-512px.jpg 512w,
+  ./../images/DIU27/tv-01943-768px.jpg 768w,
+  ./../images/DIU27/tv-01943-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01943-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01943-512px.jpg 512w,
+  ./../images/DIU27/bd-01943-768px.jpg 768w,
+  ./../images/DIU27/bd-01943-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -204,8 +498,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - The sun is inverted in this bit here, and the camera is also a little different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-01975.jpg" />
- <img src="./../images/DIU27/bd-01975.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-01975-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-01975-512px.jpg 512w,
+  ./../images/DIU27/tv-01975-768px.jpg 768w,
+  ./../images/DIU27/tv-01975-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-01975-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-01975-512px.jpg 512w,
+  ./../images/DIU27/bd-01975-768px.jpg 768w,
+  ./../images/DIU27/bd-01975-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -220,8 +528,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Both Shinobu and the background have slightly different colours here, and the red on the credits is not as vibrant:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-02090.jpg" />
- <img src="./../images/DIU27/bd-02090.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-02090-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-02090-512px.jpg 512w,
+  ./../images/DIU27/tv-02090-768px.jpg 768w,
+  ./../images/DIU27/tv-02090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-02090-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-02090-512px.jpg 512w,
+  ./../images/DIU27/bd-02090-768px.jpg 768w,
+  ./../images/DIU27/bd-02090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -236,8 +558,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Apart from all the Kosakus and Shinobus being lit differently and the credits being at different stages of fade-in, you'll see how all the Kosaku's left shoulders are no longer see-through but are instead completely absent:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-02167.jpg" />
- <img src="./../images/DIU27/bd-02167.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-02167-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-02167-512px.jpg 512w,
+  ./../images/DIU27/tv-02167-768px.jpg 768w,
+  ./../images/DIU27/tv-02167-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-02167-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-02167-512px.jpg 512w,
+  ./../images/DIU27/bd-02167-768px.jpg 768w,
+  ./../images/DIU27/bd-02167-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -245,8 +581,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here, all the green bits at the left of the credits have been moved down a little bit, and the names of the two singers (青木カレン - Aoki Karen and ハセガワダイスケ - Hasegawa Daisuke) are more compact:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-02190.jpg" />
- <img src="./../images/DIU27/bd-02190.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-02190-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-02190-512px.jpg 512w,
+  ./../images/DIU27/tv-02190-768px.jpg 768w,
+  ./../images/DIU27/tv-02190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-02190-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-02190-512px.jpg 512w,
+  ./../images/DIU27/bd-02190-768px.jpg 768w,
+  ./../images/DIU27/bd-02190-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -254,8 +604,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - As you can see from this frame, some of the floating Kawajiris fade in more slowly in the BD version, and the credits are also a little different. The right side of the credits has been properly aligned to the right and, in addition to that, Action Animation Director 三室健太 (Mimuro Kenta) has been added on the left side and 小谷聖悟 (Kotani Seigo) has been added to the right, under the Motion Graphics section:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-02305.jpg" />
- <img src="./../images/DIU27/bd-02305.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-02305-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-02305-512px.jpg 512w,
+  ./../images/DIU27/tv-02305-768px.jpg 768w,
+  ./../images/DIU27/tv-02305-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-02305-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-02305-512px.jpg 512w,
+  ./../images/DIU27/bd-02305-768px.jpg 768w,
+  ./../images/DIU27/bd-02305-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -263,8 +627,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - In this section of the opening, the background is looking very different (more filters, that same "gritty" overlay on most things), and in addition to that the camera is different and there are some new Rohan and Yukako silhouettes...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-02425.jpg" />
- <img src="./../images/DIU27/bd-02425.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-02425-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-02425-512px.jpg 512w,
+  ./../images/DIU27/tv-02425-768px.jpg 768w,
+  ./../images/DIU27/tv-02425-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-02425-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-02425-512px.jpg 512w,
+  ./../images/DIU27/bd-02425-768px.jpg 768w,
+  ./../images/DIU27/bd-02425-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -279,8 +657,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Compare the last frame of the previous animation for a quick look at how completely different it all is:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-02500.jpg" />
- <img src="./../images/DIU27/bd-02500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-02500-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-02500-512px.jpg 512w,
+  ./../images/DIU27/tv-02500-768px.jpg 768w,
+  ./../images/DIU27/tv-02500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-02500-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-02500-512px.jpg 512w,
+  ./../images/DIU27/bd-02500-768px.jpg 768w,
+  ./../images/DIU27/bd-02500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -295,15 +687,43 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here, have a couple of frames from the previous bit, just to take a closer look at the differences (I personally think that the first TV frame was very, very cool):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-02525.jpg" />
- <img src="./../images/DIU27/bd-02525.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-02525-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-02525-512px.jpg 512w,
+  ./../images/DIU27/tv-02525-768px.jpg 768w,
+  ./../images/DIU27/tv-02525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-02525-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-02525-512px.jpg 512w,
+  ./../images/DIU27/bd-02525-768px.jpg 768w,
+  ./../images/DIU27/bd-02525-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-02556.jpg" />
- <img src="./../images/DIU27/bd-02556.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-02556-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-02556-512px.jpg 512w,
+  ./../images/DIU27/tv-02556-768px.jpg 768w,
+  ./../images/DIU27/tv-02556-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-02556-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-02556-512px.jpg 512w,
+  ./../images/DIU27/bd-02556-768px.jpg 768w,
+  ./../images/DIU27/bd-02556-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -311,8 +731,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - The background has been slightly moved, here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-02620.jpg" />
- <img src="./../images/DIU27/bd-02620.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-02620-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-02620-512px.jpg 512w,
+  ./../images/DIU27/tv-02620-768px.jpg 768w,
+  ./../images/DIU27/tv-02620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-02620-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-02620-512px.jpg 512w,
+  ./../images/DIU27/bd-02620-768px.jpg 768w,
+  ./../images/DIU27/bd-02620-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -320,22 +754,64 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - The Morioh logo's colours are more vibrant, and the background (when visible) is less dark here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-02625.jpg" />
- <img src="./../images/DIU27/bd-02625.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-02625-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-02625-512px.jpg 512w,
+  ./../images/DIU27/tv-02625-768px.jpg 768w,
+  ./../images/DIU27/tv-02625-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-02625-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-02625-512px.jpg 512w,
+  ./../images/DIU27/bd-02625-768px.jpg 768w,
+  ./../images/DIU27/bd-02625-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-02660.jpg" />
- <img src="./../images/DIU27/bd-02660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-02660-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-02660-512px.jpg 512w,
+  ./../images/DIU27/tv-02660-768px.jpg 768w,
+  ./../images/DIU27/tv-02660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-02660-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-02660-512px.jpg 512w,
+  ./../images/DIU27/bd-02660-768px.jpg 768w,
+  ./../images/DIU27/bd-02660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-02700.jpg" />
- <img src="./../images/DIU27/bd-02700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-02700-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-02700-512px.jpg 512w,
+  ./../images/DIU27/tv-02700-768px.jpg 768w,
+  ./../images/DIU27/tv-02700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-02700-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-02700-512px.jpg 512w,
+  ./../images/DIU27/bd-02700-768px.jpg 768w,
+  ./../images/DIU27/bd-02700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -343,8 +819,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here, most colours are different and everything just looks... Better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-02777.jpg" />
- <img src="./../images/DIU27/bd-02777.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-02777-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-02777-512px.jpg 512w,
+  ./../images/DIU27/tv-02777-768px.jpg 768w,
+  ./../images/DIU27/tv-02777-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-02777-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-02777-512px.jpg 512w,
+  ./../images/DIU27/bd-02777-768px.jpg 768w,
+  ./../images/DIU27/bd-02777-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -352,8 +842,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here, the camera is a little more zoomed in, and the numbers now have properly cut-out holes:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-02827.jpg" />
- <img src="./../images/DIU27/bd-02827.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-02827-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-02827-512px.jpg 512w,
+  ./../images/DIU27/tv-02827-768px.jpg 768w,
+  ./../images/DIU27/tv-02827-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-02827-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-02827-512px.jpg 512w,
+  ./../images/DIU27/bd-02827-768px.jpg 768w,
+  ./../images/DIU27/bd-02827-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -373,8 +877,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - And, in this final shot, most faces have been retouched, and a bunch of clothes have received the same treatment! In addition to that, the bottom line of the credits is now a little bigger and has the same pink aura as the one above it, and if you look at the right, just behind Tonio, you'll see that there is a new stand there! But... I'm not 100% sure who that is supposed to be! Is it Earth, Wind & Water? Yuuya? Highway Star? Let me know, because I've squinted at this frame for at least five minutes without really getting it:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-03174.jpg" />
- <img src="./../images/DIU27/bd-03174.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-03174-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-03174-512px.jpg 512w,
+  ./../images/DIU27/tv-03174-768px.jpg 768w,
+  ./../images/DIU27/tv-03174-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-03174-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-03174-512px.jpg 512w,
+  ./../images/DIU27/bd-03174-768px.jpg 768w,
+  ./../images/DIU27/bd-03174-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -382,8 +900,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Whew! Let's go back to the main episode! In this shot, Jotaro is no longer holding a blank piece of paper and the book on the table has a proper cover:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-03660.jpg" />
- <img src="./../images/DIU27/bd-03660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-03660-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-03660-512px.jpg 512w,
+  ./../images/DIU27/tv-03660-768px.jpg 768w,
+  ./../images/DIU27/tv-03660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-03660-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-03660-512px.jpg 512w,
+  ./../images/DIU27/bd-03660-768px.jpg 768w,
+  ./../images/DIU27/bd-03660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -391,8 +923,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - In this scene of Kira Yoshikage having a metaphorical erection the hand has been retouched, the nails grow way less and the shadow under his ring and middle fingers has been corrected:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-04988.jpg" />
- <img src="./../images/DIU27/bd-04988.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-04988-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-04988-512px.jpg 512w,
+  ./../images/DIU27/tv-04988-768px.jpg 768w,
+  ./../images/DIU27/tv-04988-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-04988-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-04988-512px.jpg 512w,
+  ./../images/DIU27/bd-04988-768px.jpg 768w,
+  ./../images/DIU27/bd-04988-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -400,15 +946,43 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Alright, I hope you like Shinobu, because this next part's gonna be all about her! Let's start with a completely redrawn and repositioned Shinobu (even the door handle, the teapot and tea cup have all been redrawn):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06200.jpg" />
- <img src="./../images/DIU27/bd-06200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06200-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06200-512px.jpg 512w,
+  ./../images/DIU27/tv-06200-768px.jpg 768w,
+  ./../images/DIU27/tv-06200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06200-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06200-512px.jpg 512w,
+  ./../images/DIU27/bd-06200-768px.jpg 768w,
+  ./../images/DIU27/bd-06200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06260.jpg" />
- <img src="./../images/DIU27/bd-06260.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06260-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06260-512px.jpg 512w,
+  ./../images/DIU27/tv-06260-768px.jpg 768w,
+  ./../images/DIU27/tv-06260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06260-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06260-512px.jpg 512w,
+  ./../images/DIU27/bd-06260-768px.jpg 768w,
+  ./../images/DIU27/bd-06260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -416,8 +990,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - And again here, plus a redrawn Kosaku:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06300.jpg" />
- <img src="./../images/DIU27/bd-06300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06300-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06300-512px.jpg 512w,
+  ./../images/DIU27/tv-06300-768px.jpg 768w,
+  ./../images/DIU27/tv-06300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06300-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06300-512px.jpg 512w,
+  ./../images/DIU27/bd-06300-768px.jpg 768w,
+  ./../images/DIU27/bd-06300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -425,15 +1013,43 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Back to Shinobu:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06440.jpg" />
- <img src="./../images/DIU27/bd-06440.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06440-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06440-512px.jpg 512w,
+  ./../images/DIU27/tv-06440-768px.jpg 768w,
+  ./../images/DIU27/tv-06440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06440-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06440-512px.jpg 512w,
+  ./../images/DIU27/bd-06440-768px.jpg 768w,
+  ./../images/DIU27/bd-06440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06515.jpg" />
- <img src="./../images/DIU27/bd-06515.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06515-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06515-512px.jpg 512w,
+  ./../images/DIU27/tv-06515-768px.jpg 768w,
+  ./../images/DIU27/tv-06515-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06515-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06515-512px.jpg 512w,
+  ./../images/DIU27/bd-06515-768px.jpg 768w,
+  ./../images/DIU27/bd-06515-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -441,64 +1057,190 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - This here sequence is one of those rare moments in which every single frame needs to be compared and savoured deeply, so there you are. Breathe deeply and inhale the pungent fragrance of QUALITY:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06600.jpg" />
- <img src="./../images/DIU27/bd-06600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06600-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06600-512px.jpg 512w,
+  ./../images/DIU27/tv-06600-768px.jpg 768w,
+  ./../images/DIU27/tv-06600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06600-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06600-512px.jpg 512w,
+  ./../images/DIU27/bd-06600-768px.jpg 768w,
+  ./../images/DIU27/bd-06600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06700.jpg" />
- <img src="./../images/DIU27/bd-06700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06700-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06700-512px.jpg 512w,
+  ./../images/DIU27/tv-06700-768px.jpg 768w,
+  ./../images/DIU27/tv-06700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06700-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06700-512px.jpg 512w,
+  ./../images/DIU27/bd-06700-768px.jpg 768w,
+  ./../images/DIU27/bd-06700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06750.jpg" />
- <img src="./../images/DIU27/bd-06750.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06750-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06750-512px.jpg 512w,
+  ./../images/DIU27/tv-06750-768px.jpg 768w,
+  ./../images/DIU27/tv-06750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06750-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06750-512px.jpg 512w,
+  ./../images/DIU27/bd-06750-768px.jpg 768w,
+  ./../images/DIU27/bd-06750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06788.jpg" />
- <img src="./../images/DIU27/bd-06788.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06788-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06788-512px.jpg 512w,
+  ./../images/DIU27/tv-06788-768px.jpg 768w,
+  ./../images/DIU27/tv-06788-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06788-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06788-512px.jpg 512w,
+  ./../images/DIU27/bd-06788-768px.jpg 768w,
+  ./../images/DIU27/bd-06788-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06792.jpg" />
- <img src="./../images/DIU27/bd-06792.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06792-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06792-512px.jpg 512w,
+  ./../images/DIU27/tv-06792-768px.jpg 768w,
+  ./../images/DIU27/tv-06792-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06792-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06792-512px.jpg 512w,
+  ./../images/DIU27/bd-06792-768px.jpg 768w,
+  ./../images/DIU27/bd-06792-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06795.jpg" />
- <img src="./../images/DIU27/bd-06795.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06795-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06795-512px.jpg 512w,
+  ./../images/DIU27/tv-06795-768px.jpg 768w,
+  ./../images/DIU27/tv-06795-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06795-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06795-512px.jpg 512w,
+  ./../images/DIU27/bd-06795-768px.jpg 768w,
+  ./../images/DIU27/bd-06795-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06798.jpg" />
- <img src="./../images/DIU27/bd-06798.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06798-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06798-512px.jpg 512w,
+  ./../images/DIU27/tv-06798-768px.jpg 768w,
+  ./../images/DIU27/tv-06798-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06798-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06798-512px.jpg 512w,
+  ./../images/DIU27/bd-06798-768px.jpg 768w,
+  ./../images/DIU27/bd-06798-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06800.jpg" />
- <img src="./../images/DIU27/bd-06800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06800-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06800-512px.jpg 512w,
+  ./../images/DIU27/tv-06800-768px.jpg 768w,
+  ./../images/DIU27/tv-06800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06800-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06800-512px.jpg 512w,
+  ./../images/DIU27/bd-06800-768px.jpg 768w,
+  ./../images/DIU27/bd-06800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06835.jpg" />
- <img src="./../images/DIU27/bd-06835.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06835-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06835-512px.jpg 512w,
+  ./../images/DIU27/tv-06835-768px.jpg 768w,
+  ./../images/DIU27/tv-06835-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06835-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06835-512px.jpg 512w,
+  ./../images/DIU27/bd-06835-768px.jpg 768w,
+  ./../images/DIU27/bd-06835-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -513,43 +1255,127 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Aand that scene's over! ...But don't think I'm not gonna do another frame-by-frame comparison! How about another one... Right now?:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06875.jpg" />
- <img src="./../images/DIU27/bd-06875.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06875-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06875-512px.jpg 512w,
+  ./../images/DIU27/tv-06875-768px.jpg 768w,
+  ./../images/DIU27/tv-06875-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06875-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06875-512px.jpg 512w,
+  ./../images/DIU27/bd-06875-768px.jpg 768w,
+  ./../images/DIU27/bd-06875-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06890.jpg" />
- <img src="./../images/DIU27/bd-06890.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06890-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06890-512px.jpg 512w,
+  ./../images/DIU27/tv-06890-768px.jpg 768w,
+  ./../images/DIU27/tv-06890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06890-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06890-512px.jpg 512w,
+  ./../images/DIU27/bd-06890-768px.jpg 768w,
+  ./../images/DIU27/bd-06890-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06900.jpg" />
- <img src="./../images/DIU27/bd-06900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06900-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06900-512px.jpg 512w,
+  ./../images/DIU27/tv-06900-768px.jpg 768w,
+  ./../images/DIU27/tv-06900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06900-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06900-512px.jpg 512w,
+  ./../images/DIU27/bd-06900-768px.jpg 768w,
+  ./../images/DIU27/bd-06900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06925.jpg" />
- <img src="./../images/DIU27/bd-06925.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06925-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06925-512px.jpg 512w,
+  ./../images/DIU27/tv-06925-768px.jpg 768w,
+  ./../images/DIU27/tv-06925-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06925-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06925-512px.jpg 512w,
+  ./../images/DIU27/bd-06925-768px.jpg 768w,
+  ./../images/DIU27/bd-06925-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06940.jpg" />
- <img src="./../images/DIU27/bd-06940.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06940-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06940-512px.jpg 512w,
+  ./../images/DIU27/tv-06940-768px.jpg 768w,
+  ./../images/DIU27/tv-06940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06940-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06940-512px.jpg 512w,
+  ./../images/DIU27/bd-06940-768px.jpg 768w,
+  ./../images/DIU27/bd-06940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06945.jpg" />
- <img src="./../images/DIU27/bd-06945.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06945-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06945-512px.jpg 512w,
+  ./../images/DIU27/tv-06945-768px.jpg 768w,
+  ./../images/DIU27/tv-06945-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06945-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06945-512px.jpg 512w,
+  ./../images/DIU27/bd-06945-768px.jpg 768w,
+  ./../images/DIU27/bd-06945-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -557,36 +1383,106 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - ...And another one:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06960.jpg" />
- <img src="./../images/DIU27/bd-06960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06960-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06960-512px.jpg 512w,
+  ./../images/DIU27/tv-06960-768px.jpg 768w,
+  ./../images/DIU27/tv-06960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06960-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06960-512px.jpg 512w,
+  ./../images/DIU27/bd-06960-768px.jpg 768w,
+  ./../images/DIU27/bd-06960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06970.jpg" />
- <img src="./../images/DIU27/bd-06970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06970-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06970-512px.jpg 512w,
+  ./../images/DIU27/tv-06970-768px.jpg 768w,
+  ./../images/DIU27/tv-06970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06970-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06970-512px.jpg 512w,
+  ./../images/DIU27/bd-06970-768px.jpg 768w,
+  ./../images/DIU27/bd-06970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06975.jpg" />
- <img src="./../images/DIU27/bd-06975.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06975-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06975-512px.jpg 512w,
+  ./../images/DIU27/tv-06975-768px.jpg 768w,
+  ./../images/DIU27/tv-06975-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06975-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06975-512px.jpg 512w,
+  ./../images/DIU27/bd-06975-768px.jpg 768w,
+  ./../images/DIU27/bd-06975-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-06980.jpg" />
- <img src="./../images/DIU27/bd-06980.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-06980-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-06980-512px.jpg 512w,
+  ./../images/DIU27/tv-06980-768px.jpg 768w,
+  ./../images/DIU27/tv-06980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-06980-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-06980-512px.jpg 512w,
+  ./../images/DIU27/bd-06980-768px.jpg 768w,
+  ./../images/DIU27/bd-06980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-07015.jpg" />
- <img src="./../images/DIU27/bd-07015.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-07015-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-07015-512px.jpg 512w,
+  ./../images/DIU27/tv-07015-768px.jpg 768w,
+  ./../images/DIU27/tv-07015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-07015-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-07015-512px.jpg 512w,
+  ./../images/DIU27/bd-07015-768px.jpg 768w,
+  ./../images/DIU27/bd-07015-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -601,8 +1497,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here, Shinobu has been completely redrawn...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-07235.jpg" />
- <img src="./../images/DIU27/bd-07235.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-07235-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-07235-512px.jpg 512w,
+  ./../images/DIU27/tv-07235-768px.jpg 768w,
+  ./../images/DIU27/tv-07235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-07235-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-07235-512px.jpg 512w,
+  ./../images/DIU27/bd-07235-768px.jpg 768w,
+  ./../images/DIU27/bd-07235-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -617,8 +1527,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Now for a very minor difference: a spot on Shinobu's hair has been recoloured here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-07495.jpg" />
- <img src="./../images/DIU27/bd-07495.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-07495-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-07495-512px.jpg 512w,
+  ./../images/DIU27/tv-07495-768px.jpg 768w,
+  ./../images/DIU27/tv-07495-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-07495-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-07495-512px.jpg 512w,
+  ./../images/DIU27/bd-07495-768px.jpg 768w,
+  ./../images/DIU27/bd-07495-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -626,8 +1550,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - And in this scene she now has a bra:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-08655.jpg" />
- <img src="./../images/DIU27/bd-08655.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-08655-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-08655-512px.jpg 512w,
+  ./../images/DIU27/tv-08655-768px.jpg 768w,
+  ./../images/DIU27/tv-08655-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-08655-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-08655-512px.jpg 512w,
+  ./../images/DIU27/bd-08655-768px.jpg 768w,
+  ./../images/DIU27/bd-08655-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -635,8 +1573,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Alright, that's enough Shinobu for today! Let's get back to our boys! In this scene, the wrinkles on the 億 are no longer on top of the kanji, the usual BILLION has been added to Okuyasu's left arm, Josuke is slightly closer to him and there's a slightly darker shading on the bottom of the frame. In a bunch of today's comparisons, the sky will also be brighter; I'll not mention it every time because that would be a bit boring, just keep that in mind:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-09360.jpg" />
- <img src="./../images/DIU27/bd-09360.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-09360-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-09360-512px.jpg 512w,
+  ./../images/DIU27/tv-09360-768px.jpg 768w,
+  ./../images/DIU27/tv-09360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-09360-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-09360-512px.jpg 512w,
+  ./../images/DIU27/bd-09360-768px.jpg 768w,
+  ./../images/DIU27/bd-09360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -644,8 +1596,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Josuke's left eye has been *slightly* retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-09420.jpg" />
- <img src="./../images/DIU27/bd-09420.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-09420-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-09420-512px.jpg 512w,
+  ./../images/DIU27/tv-09420-768px.jpg 768w,
+  ./../images/DIU27/tv-09420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-09420-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-09420-512px.jpg 512w,
+  ./../images/DIU27/bd-09420-768px.jpg 768w,
+  ./../images/DIU27/bd-09420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -653,8 +1619,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - And his whole face is looking better here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-09470.jpg" />
- <img src="./../images/DIU27/bd-09470.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-09470-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-09470-512px.jpg 512w,
+  ./../images/DIU27/tv-09470-768px.jpg 768w,
+  ./../images/DIU27/tv-09470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-09470-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-09470-512px.jpg 512w,
+  ./../images/DIU27/bd-09470-768px.jpg 768w,
+  ./../images/DIU27/bd-09470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -662,8 +1642,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here both Jo and Oku's noses have been retouched, every line is slightly thicker, the usual BILLION is back where it belongs, and the shading on Okuyasu's chest has been properly coloured in:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-09765.jpg" />
- <img src="./../images/DIU27/bd-09765.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-09765-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-09765-512px.jpg 512w,
+  ./../images/DIU27/tv-09765-768px.jpg 768w,
+  ./../images/DIU27/tv-09765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-09765-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-09765-512px.jpg 512w,
+  ./../images/DIU27/bd-09765-768px.jpg 768w,
+  ./../images/DIU27/bd-09765-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -671,8 +1665,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here both their faces have been (thankfully) retouched, the edges of the grass are more consistent, Okuyasu's left arm has been recoloured and there is a very slight distortion on the edges:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-10247.jpg" />
- <img src="./../images/DIU27/bd-10247.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-10247-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-10247-512px.jpg 512w,
+  ./../images/DIU27/tv-10247-768px.jpg 768w,
+  ./../images/DIU27/tv-10247-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-10247-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-10247-512px.jpg 512w,
+  ./../images/DIU27/bd-10247-768px.jpg 768w,
+  ./../images/DIU27/bd-10247-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -680,8 +1688,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - In this scene Josuke's collar has been recoloured and the shading on his chest area is different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-10450.jpg" />
- <img src="./../images/DIU27/bd-10450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-10450-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-10450-512px.jpg 512w,
+  ./../images/DIU27/tv-10450-768px.jpg 768w,
+  ./../images/DIU27/tv-10450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-10450-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-10450-512px.jpg 512w,
+  ./../images/DIU27/bd-10450-768px.jpg 768w,
+  ./../images/DIU27/bd-10450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -689,8 +1711,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - ...And when he turns around, they drew the missing second heart in his collar, and the two tiny tips of the anchor on the opposite collar have been removed:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-10480.jpg" />
- <img src="./../images/DIU27/bd-10480.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-10480-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-10480-512px.jpg 512w,
+  ./../images/DIU27/tv-10480-768px.jpg 768w,
+  ./../images/DIU27/tv-10480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-10480-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-10480-512px.jpg 512w,
+  ./../images/DIU27/bd-10480-768px.jpg 768w,
+  ./../images/DIU27/bd-10480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -698,8 +1734,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here, both Josuke and Okuyasu's faces have been redrawn, once again the 億 is back, Josuke's collar has been retouched and recoloured and the shading on and under Mikitaka is different:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-10570.jpg" />
- <img src="./../images/DIU27/bd-10570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-10570-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-10570-512px.jpg 512w,
+  ./../images/DIU27/tv-10570-768px.jpg 768w,
+  ./../images/DIU27/tv-10570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-10570-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-10570-512px.jpg 512w,
+  ./../images/DIU27/bd-10570-768px.jpg 768w,
+  ./../images/DIU27/bd-10570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -707,8 +1757,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - In this scene of Mikitaka rising from the ground like the alien boy he is, there are three differences, but they don't appear together. First, Josuke and Okuyasu's redrawn heads...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-10980.jpg" />
- <img src="./../images/DIU27/bd-10980.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-10980-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-10980-512px.jpg 512w,
+  ./../images/DIU27/tv-10980-768px.jpg 768w,
+  ./../images/DIU27/tv-10980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-10980-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-10980-512px.jpg 512w,
+  ./../images/DIU27/bd-10980-768px.jpg 768w,
+  ./../images/DIU27/bd-10980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -716,8 +1780,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - ...then a new shade on Mikitaka's hand...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-11000.jpg" />
- <img src="./../images/DIU27/bd-11000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-11000-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-11000-512px.jpg 512w,
+  ./../images/DIU27/tv-11000-768px.jpg 768w,
+  ./../images/DIU27/tv-11000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-11000-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-11000-512px.jpg 512w,
+  ./../images/DIU27/bd-11000-768px.jpg 768w,
+  ./../images/DIU27/bd-11000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -725,8 +1803,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - ...and finally, they drew the missing symbols on his chest:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-11005.jpg" />
- <img src="./../images/DIU27/bd-11005.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-11005-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-11005-512px.jpg 512w,
+  ./../images/DIU27/tv-11005-768px.jpg 768w,
+  ./../images/DIU27/tv-11005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-11005-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-11005-512px.jpg 512w,
+  ./../images/DIU27/bd-11005-768px.jpg 768w,
+  ./../images/DIU27/bd-11005-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -734,8 +1826,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Moving on, here's a bunch of new things on Okuyasu's uniform, a new (and very tiny) shade under Josuke's chin. The line over his mouth has also been removed in the BDs, and the ones delineating his cheekbones are shorter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-11200.jpg" />
- <img src="./../images/DIU27/bd-11200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-11200-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-11200-512px.jpg 512w,
+  ./../images/DIU27/tv-11200-768px.jpg 768w,
+  ./../images/DIU27/tv-11200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-11200-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-11200-512px.jpg 512w,
+  ./../images/DIU27/bd-11200-768px.jpg 768w,
+  ./../images/DIU27/bd-11200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -743,8 +1849,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here, there's a new shade under Mikitaka's chin, and the planet symbol has been added to his collar:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-11240.jpg" />
- <img src="./../images/DIU27/bd-11240.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-11240-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-11240-512px.jpg 512w,
+  ./../images/DIU27/tv-11240-768px.jpg 768w,
+  ./../images/DIU27/tv-11240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-11240-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-11240-512px.jpg 512w,
+  ./../images/DIU27/bd-11240-768px.jpg 768w,
+  ./../images/DIU27/bd-11240-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -752,8 +1872,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Again with the neck shade here, plus a shorter piercing... cord? String? That thing:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-11260.jpg" />
- <img src="./../images/DIU27/bd-11260.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-11260-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-11260-512px.jpg 512w,
+  ./../images/DIU27/tv-11260-768px.jpg 768w,
+  ./../images/DIU27/tv-11260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-11260-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-11260-512px.jpg 512w,
+  ./../images/DIU27/bd-11260-768px.jpg 768w,
+  ./../images/DIU27/bd-11260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -761,8 +1895,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here, the symbols on Mikitaka's chest have all been redrawn, a corner on the bottom left of his uniform is no longer see-through and Josuke+Okuyasu's faces have been redrawn:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-11420.jpg" />
- <img src="./../images/DIU27/bd-11420.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-11420-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-11420-512px.jpg 512w,
+  ./../images/DIU27/tv-11420-768px.jpg 768w,
+  ./../images/DIU27/tv-11420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-11420-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-11420-512px.jpg 512w,
+  ./../images/DIU27/bd-11420-768px.jpg 768w,
+  ./../images/DIU27/bd-11420-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -770,64 +1918,190 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - This might be one of my favourite redraws in all of DiU. Just... Look at this. Okay, I agree, you probably didn't need to look at *all* these very similar frames, but I want everybody to look at the universe's prettiest Alien Boy (oh yeah, Josuke and Okuyasu are also looking sharp):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-11485.jpg" />
- <img src="./../images/DIU27/bd-11485.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-11485-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-11485-512px.jpg 512w,
+  ./../images/DIU27/tv-11485-768px.jpg 768w,
+  ./../images/DIU27/tv-11485-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-11485-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-11485-512px.jpg 512w,
+  ./../images/DIU27/bd-11485-768px.jpg 768w,
+  ./../images/DIU27/bd-11485-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-11490.jpg" />
- <img src="./../images/DIU27/bd-11490.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-11490-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-11490-512px.jpg 512w,
+  ./../images/DIU27/tv-11490-768px.jpg 768w,
+  ./../images/DIU27/tv-11490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-11490-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-11490-512px.jpg 512w,
+  ./../images/DIU27/bd-11490-768px.jpg 768w,
+  ./../images/DIU27/bd-11490-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-11493.jpg" />
- <img src="./../images/DIU27/bd-11493.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-11493-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-11493-512px.jpg 512w,
+  ./../images/DIU27/tv-11493-768px.jpg 768w,
+  ./../images/DIU27/tv-11493-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-11493-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-11493-512px.jpg 512w,
+  ./../images/DIU27/bd-11493-768px.jpg 768w,
+  ./../images/DIU27/bd-11493-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-11495.jpg" />
- <img src="./../images/DIU27/bd-11495.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-11495-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-11495-512px.jpg 512w,
+  ./../images/DIU27/tv-11495-768px.jpg 768w,
+  ./../images/DIU27/tv-11495-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-11495-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-11495-512px.jpg 512w,
+  ./../images/DIU27/bd-11495-768px.jpg 768w,
+  ./../images/DIU27/bd-11495-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-11498.jpg" />
- <img src="./../images/DIU27/bd-11498.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-11498-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-11498-512px.jpg 512w,
+  ./../images/DIU27/tv-11498-768px.jpg 768w,
+  ./../images/DIU27/tv-11498-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-11498-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-11498-512px.jpg 512w,
+  ./../images/DIU27/bd-11498-768px.jpg 768w,
+  ./../images/DIU27/bd-11498-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-11520.jpg" />
- <img src="./../images/DIU27/bd-11520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-11520-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-11520-512px.jpg 512w,
+  ./../images/DIU27/tv-11520-768px.jpg 768w,
+  ./../images/DIU27/tv-11520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-11520-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-11520-512px.jpg 512w,
+  ./../images/DIU27/bd-11520-768px.jpg 768w,
+  ./../images/DIU27/bd-11520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-11540.jpg" />
- <img src="./../images/DIU27/bd-11540.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-11540-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-11540-512px.jpg 512w,
+  ./../images/DIU27/tv-11540-768px.jpg 768w,
+  ./../images/DIU27/tv-11540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-11540-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-11540-512px.jpg 512w,
+  ./../images/DIU27/bd-11540-768px.jpg 768w,
+  ./../images/DIU27/bd-11540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-11590.jpg" />
- <img src="./../images/DIU27/bd-11590.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-11590-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-11590-512px.jpg 512w,
+  ./../images/DIU27/tv-11590-768px.jpg 768w,
+  ./../images/DIU27/tv-11590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-11590-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-11590-512px.jpg 512w,
+  ./../images/DIU27/bd-11590-768px.jpg 768w,
+  ./../images/DIU27/bd-11590-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-11900.jpg" />
- <img src="./../images/DIU27/bd-11900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-11900-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-11900-512px.jpg 512w,
+  ./../images/DIU27/tv-11900-768px.jpg 768w,
+  ./../images/DIU27/tv-11900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-11900-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-11900-512px.jpg 512w,
+  ./../images/DIU27/bd-11900-768px.jpg 768w,
+  ./../images/DIU27/bd-11900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -835,8 +2109,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - This shot is slightly distorted around the edges, Josuke, Okuyasu and Mikitaka have all been retouched and their shadows are slightly less dark:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-11980.jpg" />
- <img src="./../images/DIU27/bd-11980.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-11980-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-11980-512px.jpg 512w,
+  ./../images/DIU27/tv-11980-768px.jpg 768w,
+  ./../images/DIU27/tv-11980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-11980-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-11980-512px.jpg 512w,
+  ./../images/DIU27/bd-11980-768px.jpg 768w,
+  ./../images/DIU27/bd-11980-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -844,8 +2132,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - There's a darker shade on the bottom of this frame, and Okuyasu has magically gained a nose (thanks, <a href="https://jojocomparisons.github.io/jojo-diu-27/#comment-3280615460">Onionne</a>!):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-12075.jpg" />
- <img src="./../images/DIU27/bd-12075.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-12075-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-12075-512px.jpg 512w,
+  ./../images/DIU27/tv-12075-768px.jpg 768w,
+  ./../images/DIU27/tv-12075-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-12075-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-12075-512px.jpg 512w,
+  ./../images/DIU27/bd-12075-768px.jpg 768w,
+  ./../images/DIU27/bd-12075-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -853,8 +2155,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - "I wish I was in my spaceship playing video games. These people are weird. My feet hurt. I'm hungry." (or, if you really want to know, a retouched Mikitaka and Okuyasu, a darker shade on the crop circle and a slightly better cheek and jaw on Josuke):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-12310.jpg" />
- <img src="./../images/DIU27/bd-12310.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-12310-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-12310-512px.jpg 512w,
+  ./../images/DIU27/tv-12310-768px.jpg 768w,
+  ./../images/DIU27/tv-12310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-12310-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-12310-512px.jpg 512w,
+  ./../images/DIU27/bd-12310-768px.jpg 768w,
+  ./../images/DIU27/bd-12310-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -862,22 +2178,64 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - I love when everything is different in a comparison, because I can just say "everything" and not have to elaborate further. Except I'm elaborating further right now on the reasons why I like when a comparison is completely redrawn. Ah, nevermind:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-12702.jpg" />
- <img src="./../images/DIU27/bd-12702.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-12702-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-12702-512px.jpg 512w,
+  ./../images/DIU27/tv-12702-768px.jpg 768w,
+  ./../images/DIU27/tv-12702-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-12702-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-12702-512px.jpg 512w,
+  ./../images/DIU27/bd-12702-768px.jpg 768w,
+  ./../images/DIU27/bd-12702-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-12715.jpg" />
- <img src="./../images/DIU27/bd-12715.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-12715-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-12715-512px.jpg 512w,
+  ./../images/DIU27/tv-12715-768px.jpg 768w,
+  ./../images/DIU27/tv-12715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-12715-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-12715-512px.jpg 512w,
+  ./../images/DIU27/bd-12715-768px.jpg 768w,
+  ./../images/DIU27/bd-12715-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-12750.jpg" />
- <img src="./../images/DIU27/bd-12750.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-12750-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-12750-512px.jpg 512w,
+  ./../images/DIU27/tv-12750-768px.jpg 768w,
+  ./../images/DIU27/tv-12750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-12750-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-12750-512px.jpg 512w,
+  ./../images/DIU27/bd-12750-768px.jpg 768w,
+  ./../images/DIU27/bd-12750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -885,8 +2243,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Gotta move that star and triangle lower, son:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-12865.jpg" />
- <img src="./../images/DIU27/bd-12865.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-12865-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-12865-512px.jpg 512w,
+  ./../images/DIU27/tv-12865-768px.jpg 768w,
+  ./../images/DIU27/tv-12865-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-12865-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-12865-512px.jpg 512w,
+  ./../images/DIU27/bd-12865-768px.jpg 768w,
+  ./../images/DIU27/bd-12865-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -894,8 +2266,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here, the symbols on Mikitaka's uniform are drawn better, there's a shade under his chin and the white parts of Okuyasu's uniform are less white:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-13140.jpg" />
- <img src="./../images/DIU27/bd-13140.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-13140-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-13140-512px.jpg 512w,
+  ./../images/DIU27/tv-13140-768px.jpg 768w,
+  ./../images/DIU27/tv-13140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-13140-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-13140-512px.jpg 512w,
+  ./../images/DIU27/bd-13140-768px.jpg 768w,
+  ./../images/DIU27/bd-13140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -903,8 +2289,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - There's a bunch of different things in this one! First off, both Josuke and Okuyasu's eyes have been retouched; then, Josuke's mouth no longer has that weird line on top of it, and to top it off his uniform is longer:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-13365.jpg" />
- <img src="./../images/DIU27/bd-13365.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-13365-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-13365-512px.jpg 512w,
+  ./../images/DIU27/tv-13365-768px.jpg 768w,
+  ./../images/DIU27/tv-13365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-13365-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-13365-512px.jpg 512w,
+  ./../images/DIU27/bd-13365-768px.jpg 768w,
+  ./../images/DIU27/bd-13365-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -912,8 +2312,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - The spaceship symbol on Mikitaka's chest now has the red triangle underneath (which I'm assuming is the exhaust from the engine or something), and a small shade on his left shoulder has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-13475.jpg" />
- <img src="./../images/DIU27/bd-13475.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-13475-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-13475-512px.jpg 512w,
+  ./../images/DIU27/tv-13475-768px.jpg 768w,
+  ./../images/DIU27/tv-13475-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-13475-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-13475-512px.jpg 512w,
+  ./../images/DIU27/bd-13475-768px.jpg 768w,
+  ./../images/DIU27/bd-13475-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -921,8 +2335,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here, both Josuke and Okuyasu's faces and collars have been retouched, and Mikitaka's symbols have been improved a bit as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-13520.jpg" />
- <img src="./../images/DIU27/bd-13520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-13520-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-13520-512px.jpg 512w,
+  ./../images/DIU27/tv-13520-768px.jpg 768w,
+  ./../images/DIU27/tv-13520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-13520-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-13520-512px.jpg 512w,
+  ./../images/DIU27/bd-13520-768px.jpg 768w,
+  ./../images/DIU27/bd-13520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -930,8 +2358,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here, the dollar sign on Oku's collar has been redrawn. The shade in his right sleeve and on the back of his collar have also been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-13730.jpg" />
- <img src="./../images/DIU27/bd-13730.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-13730-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-13730-512px.jpg 512w,
+  ./../images/DIU27/tv-13730-768px.jpg 768w,
+  ./../images/DIU27/tv-13730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-13730-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-13730-512px.jpg 512w,
+  ./../images/DIU27/bd-13730-768px.jpg 768w,
+  ./../images/DIU27/bd-13730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -939,8 +2381,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - In this shot Josuke's face and Okuyasu's eyelids have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-14110.jpg" />
- <img src="./../images/DIU27/bd-14110.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-14110-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-14110-512px.jpg 512w,
+  ./../images/DIU27/tv-14110-768px.jpg 768w,
+  ./../images/DIU27/tv-14110-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-14110-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-14110-512px.jpg 512w,
+  ./../images/DIU27/bd-14110-768px.jpg 768w,
+  ./../images/DIU27/bd-14110-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -948,8 +2404,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Mikitaka remembered to put on his piercing string:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-14330.jpg" />
- <img src="./../images/DIU27/bd-14330.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-14330-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-14330-512px.jpg 512w,
+  ./../images/DIU27/tv-14330-768px.jpg 768w,
+  ./../images/DIU27/tv-14330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-14330-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-14330-512px.jpg 512w,
+  ./../images/DIU27/bd-14330-768px.jpg 768w,
+  ./../images/DIU27/bd-14330-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -957,36 +2427,106 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - "Hey kids, wanna buy some weed?"":
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-14515.jpg" />
- <img src="./../images/DIU27/bd-14515.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-14515-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-14515-512px.jpg 512w,
+  ./../images/DIU27/tv-14515-768px.jpg 768w,
+  ./../images/DIU27/tv-14515-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-14515-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-14515-512px.jpg 512w,
+  ./../images/DIU27/bd-14515-768px.jpg 768w,
+  ./../images/DIU27/bd-14515-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-14619.jpg" />
- <img src="./../images/DIU27/bd-14619.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-14619-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-14619-512px.jpg 512w,
+  ./../images/DIU27/tv-14619-768px.jpg 768w,
+  ./../images/DIU27/tv-14619-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-14619-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-14619-512px.jpg 512w,
+  ./../images/DIU27/bd-14619-768px.jpg 768w,
+  ./../images/DIU27/bd-14619-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-14622.jpg" />
- <img src="./../images/DIU27/bd-14622.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-14622-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-14622-512px.jpg 512w,
+  ./../images/DIU27/tv-14622-768px.jpg 768w,
+  ./../images/DIU27/tv-14622-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-14622-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-14622-512px.jpg 512w,
+  ./../images/DIU27/bd-14622-768px.jpg 768w,
+  ./../images/DIU27/bd-14622-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-14640.jpg" />
- <img src="./../images/DIU27/bd-14640.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-14640-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-14640-512px.jpg 512w,
+  ./../images/DIU27/tv-14640-768px.jpg 768w,
+  ./../images/DIU27/tv-14640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-14640-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-14640-512px.jpg 512w,
+  ./../images/DIU27/bd-14640-768px.jpg 768w,
+  ./../images/DIU27/bd-14640-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-14675.jpg" />
- <img src="./../images/DIU27/bd-14675.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-14675-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-14675-512px.jpg 512w,
+  ./../images/DIU27/tv-14675-768px.jpg 768w,
+  ./../images/DIU27/tv-14675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-14675-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-14675-512px.jpg 512w,
+  ./../images/DIU27/bd-14675-768px.jpg 768w,
+  ./../images/DIU27/bd-14675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -994,15 +2534,43 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - "Wait, this isn't weed":
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-14780.jpg" />
- <img src="./../images/DIU27/bd-14780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-14780-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-14780-512px.jpg 512w,
+  ./../images/DIU27/tv-14780-768px.jpg 768w,
+  ./../images/DIU27/tv-14780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-14780-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-14780-512px.jpg 512w,
+  ./../images/DIU27/bd-14780-768px.jpg 768w,
+  ./../images/DIU27/bd-14780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-14895.jpg" />
- <img src="./../images/DIU27/bd-14895.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-14895-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-14895-512px.jpg 512w,
+  ./../images/DIU27/tv-14895-768px.jpg 768w,
+  ./../images/DIU27/tv-14895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-14895-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-14895-512px.jpg 512w,
+  ./../images/DIU27/bd-14895-768px.jpg 768w,
+  ./../images/DIU27/bd-14895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1010,15 +2578,43 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Ah, I love total redraws like this one:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-14900.jpg" />
- <img src="./../images/DIU27/bd-14900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-14900-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-14900-512px.jpg 512w,
+  ./../images/DIU27/tv-14900-768px.jpg 768w,
+  ./../images/DIU27/tv-14900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-14900-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-14900-512px.jpg 512w,
+  ./../images/DIU27/bd-14900-768px.jpg 768w,
+  ./../images/DIU27/bd-14900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-15000.jpg" />
- <img src="./../images/DIU27/bd-15000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-15000-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-15000-512px.jpg 512w,
+  ./../images/DIU27/tv-15000-768px.jpg 768w,
+  ./../images/DIU27/tv-15000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-15000-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-15000-512px.jpg 512w,
+  ./../images/DIU27/bd-15000-768px.jpg 768w,
+  ./../images/DIU27/bd-15000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1026,8 +2622,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Bless you, David:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-15050.jpg" />
- <img src="./../images/DIU27/bd-15050.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-15050-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-15050-512px.jpg 512w,
+  ./../images/DIU27/tv-15050-768px.jpg 768w,
+  ./../images/DIU27/tv-15050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-15050-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-15050-512px.jpg 512w,
+  ./../images/DIU27/bd-15050-768px.jpg 768w,
+  ./../images/DIU27/bd-15050-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1035,8 +2645,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - The inside of Mikitaka's mouth has been recoloured here and every line is thicker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-15405.jpg" />
- <img src="./../images/DIU27/bd-15405.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-15405-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-15405-512px.jpg 512w,
+  ./../images/DIU27/tv-15405-768px.jpg 768w,
+  ./../images/DIU27/tv-15405-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-15405-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-15405-512px.jpg 512w,
+  ./../images/DIU27/bd-15405-768px.jpg 768w,
+  ./../images/DIU27/bd-15405-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1044,8 +2668,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Luckily, most of this frame has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-15520.jpg" />
- <img src="./../images/DIU27/bd-15520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-15520-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-15520-512px.jpg 512w,
+  ./../images/DIU27/tv-15520-768px.jpg 768w,
+  ./../images/DIU27/tv-15520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-15520-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-15520-512px.jpg 512w,
+  ./../images/DIU27/bd-15520-768px.jpg 768w,
+  ./../images/DIU27/bd-15520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1053,8 +2691,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - And here both Josuke and Mikitaka's faces have been retouches, there now are highlights in Josuke and Okuyasu's hair, Mikitaka's hand has been retouched and he's now holding... something? Okuyasu's eyebrow has also been slightly retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-15530.jpg" />
- <img src="./../images/DIU27/bd-15530.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-15530-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-15530-512px.jpg 512w,
+  ./../images/DIU27/tv-15530-768px.jpg 768w,
+  ./../images/DIU27/tv-15530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-15530-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-15530-512px.jpg 512w,
+  ./../images/DIU27/bd-15530-768px.jpg 768w,
+  ./../images/DIU27/bd-15530-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1062,8 +2714,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Aw yeah, baby! Another total redraw here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-15900.jpg" />
- <img src="./../images/DIU27/bd-15900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-15900-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-15900-512px.jpg 512w,
+  ./../images/DIU27/tv-15900-768px.jpg 768w,
+  ./../images/DIU27/tv-15900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-15900-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-15900-512px.jpg 512w,
+  ./../images/DIU27/bd-15900-768px.jpg 768w,
+  ./../images/DIU27/bd-15900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1071,8 +2737,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - In this shot, both Mikitaka and Okuyasu's faces have been retouched, and Josuke's pompadour is slightly less square. The usual BILLION is also back where it belongs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-16200.jpg" />
- <img src="./../images/DIU27/bd-16200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-16200-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-16200-512px.jpg 512w,
+  ./../images/DIU27/tv-16200-768px.jpg 768w,
+  ./../images/DIU27/tv-16200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-16200-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-16200-512px.jpg 512w,
+  ./../images/DIU27/bd-16200-768px.jpg 768w,
+  ./../images/DIU27/bd-16200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1080,8 +2760,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - They just keep forgetting BILLION and 億, huh?:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-16398.jpg" />
- <img src="./../images/DIU27/bd-16400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-16398-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-16398-512px.jpg 512w,
+  ./../images/DIU27/tv-16398-768px.jpg 768w,
+  ./../images/DIU27/tv-16398-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-16400-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-16400-512px.jpg 512w,
+  ./../images/DIU27/bd-16400-768px.jpg 768w,
+  ./../images/DIU27/bd-16400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1089,8 +2783,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - And here, Mikitaka's piercing cord has been redrawn, his face and hand have been retouched and he also has some round golden pin-like thingies on his uniform collar:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-16480.jpg" />
- <img src="./../images/DIU27/bd-16480.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-16480-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-16480-512px.jpg 512w,
+  ./../images/DIU27/tv-16480-768px.jpg 768w,
+  ./../images/DIU27/tv-16480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-16480-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-16480-512px.jpg 512w,
+  ./../images/DIU27/bd-16480-768px.jpg 768w,
+  ./../images/DIU27/bd-16480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1098,8 +2806,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - In this shot both Josuke and Mikitaka's faces have been redrawn (as well as Josuke's hand, look at that thing):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-16500.jpg" />
- <img src="./../images/DIU27/bd-16500.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-16500-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-16500-512px.jpg 512w,
+  ./../images/DIU27/tv-16500-768px.jpg 768w,
+  ./../images/DIU27/tv-16500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-16500-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-16500-512px.jpg 512w,
+  ./../images/DIU27/bd-16500-768px.jpg 768w,
+  ./../images/DIU27/bd-16500-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1107,8 +2829,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - This shot is so much better it's almost unrecognizable:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-16660.jpg" />
- <img src="./../images/DIU27/bd-16660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-16660-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-16660-512px.jpg 512w,
+  ./../images/DIU27/tv-16660-768px.jpg 768w,
+  ./../images/DIU27/tv-16660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-16660-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-16660-512px.jpg 512w,
+  ./../images/DIU27/bd-16660-768px.jpg 768w,
+  ./../images/DIU27/bd-16660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1116,8 +2852,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Both Josuke and Okuyasu's faces and heads have been redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-16960.jpg" />
- <img src="./../images/DIU27/bd-16960.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-16960-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-16960-512px.jpg 512w,
+  ./../images/DIU27/tv-16960-768px.jpg 768w,
+  ./../images/DIU27/tv-16960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-16960-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-16960-512px.jpg 512w,
+  ./../images/DIU27/bd-16960-768px.jpg 768w,
+  ./../images/DIU27/bd-16960-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1125,8 +2875,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here Mikitaka's face and hand have both been retouched, the inside of his mouth has been recoloured, a couple of drawing errors in the infinite-like symbol on his uniform and in his hair have been corrected, the shading on Josuke and Okuyasu is darker and Okuyasu's bottom belt is shaded better. Phew!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-17165.jpg" />
- <img src="./../images/DIU27/bd-17165.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-17165-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-17165-512px.jpg 512w,
+  ./../images/DIU27/tv-17165-768px.jpg 768w,
+  ./../images/DIU27/tv-17165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-17165-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-17165-512px.jpg 512w,
+  ./../images/DIU27/bd-17165-768px.jpg 768w,
+  ./../images/DIU27/bd-17165-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1134,15 +2898,43 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Ahhh, another complete redraw! Feast your eyes on this goodness and take a look at Okuyasu's goddamn head in the TV version:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-17895.jpg" />
- <img src="./../images/DIU27/bd-17895.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-17895-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-17895-512px.jpg 512w,
+  ./../images/DIU27/tv-17895-768px.jpg 768w,
+  ./../images/DIU27/tv-17895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-17895-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-17895-512px.jpg 512w,
+  ./../images/DIU27/bd-17895-768px.jpg 768w,
+  ./../images/DIU27/bd-17895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-17950.jpg" />
- <img src="./../images/DIU27/bd-17950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-17950-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-17950-512px.jpg 512w,
+  ./../images/DIU27/tv-17950-768px.jpg 768w,
+  ./../images/DIU27/tv-17950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-17950-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-17950-512px.jpg 512w,
+  ./../images/DIU27/bd-17950-768px.jpg 768w,
+  ./../images/DIU27/bd-17950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1150,8 +2942,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Okuyasu's no longer high on that daNK alien ku$sh:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-18215.jpg" />
- <img src="./../images/DIU27/bd-18215.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-18215-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-18215-512px.jpg 512w,
+  ./../images/DIU27/tv-18215-768px.jpg 768w,
+  ./../images/DIU27/tv-18215-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-18215-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-18215-512px.jpg 512w,
+  ./../images/DIU27/bd-18215-768px.jpg 768w,
+  ./../images/DIU27/bd-18215-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1159,8 +2965,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - In this scene every symbol has been retouched (the only one that didn't need fixing was the anchor on Josuke's collar):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-18560.jpg" />
- <img src="./../images/DIU27/bd-18560.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-18560-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-18560-512px.jpg 512w,
+  ./../images/DIU27/tv-18560-768px.jpg 768w,
+  ./../images/DIU27/tv-18560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-18560-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-18560-512px.jpg 512w,
+  ./../images/DIU27/bd-18560-768px.jpg 768w,
+  ./../images/DIU27/bd-18560-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1168,8 +2988,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Same as before, and on top of that Josuke's face has been retouched, his collar recoloured and his shirt properly shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-18930.jpg" />
- <img src="./../images/DIU27/bd-18930.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-18930-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-18930-512px.jpg 512w,
+  ./../images/DIU27/tv-18930-768px.jpg 768w,
+  ./../images/DIU27/tv-18930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-18930-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-18930-512px.jpg 512w,
+  ./../images/DIU27/bd-18930-768px.jpg 768w,
+  ./../images/DIU27/bd-18930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1177,8 +3011,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Another total redraw! Look at that!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-19040.jpg" />
- <img src="./../images/DIU27/bd-19040.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-19040-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-19040-512px.jpg 512w,
+  ./../images/DIU27/tv-19040-768px.jpg 768w,
+  ./../images/DIU27/tv-19040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-19040-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-19040-512px.jpg 512w,
+  ./../images/DIU27/bd-19040-768px.jpg 768w,
+  ./../images/DIU27/bd-19040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1186,8 +3034,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - In the scene where Mikitaka freaks out about the ambulance, they added a new texture overlay on the edge of the frame, retouched Mikitaka's eyes and cheeks, and also made the background slightly less dark:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-19200.jpg" />
- <img src="./../images/DIU27/bd-19200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-19200-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-19200-512px.jpg 512w,
+  ./../images/DIU27/tv-19200-768px.jpg 768w,
+  ./../images/DIU27/tv-19200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-19200-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-19200-512px.jpg 512w,
+  ./../images/DIU27/bd-19200-768px.jpg 768w,
+  ./../images/DIU27/bd-19200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1195,8 +3057,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here, Mikitaka's hands have also been recoloured to match the colour of his face, which is now covered in blisters. The shade under his nose piercing is also a bit lighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-19230.jpg" />
- <img src="./../images/DIU27/bd-19230.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-19230-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-19230-512px.jpg 512w,
+  ./../images/DIU27/tv-19230-768px.jpg 768w,
+  ./../images/DIU27/tv-19230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-19230-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-19230-512px.jpg 512w,
+  ./../images/DIU27/bd-19230-768px.jpg 768w,
+  ./../images/DIU27/bd-19230-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1204,8 +3080,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - And here same as before, plus 億 is no longer surrounded by a weird box, the shade under Josuke's mouth has been properly filled in, the line on his nose is no longer black and the shading near his right eye has been ever so slightly retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-19265.jpg" />
- <img src="./../images/DIU27/bd-19265.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-19265-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-19265-512px.jpg 512w,
+  ./../images/DIU27/tv-19265-768px.jpg 768w,
+  ./../images/DIU27/tv-19265-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-19265-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-19265-512px.jpg 512w,
+  ./../images/DIU27/bd-19265-768px.jpg 768w,
+  ./../images/DIU27/bd-19265-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1213,8 +3103,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here every face has been retouched, the usual missing BILLION has been redrawn, Mikitaka's hands have been recoloured and there's now a shadow under his bag:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-19440.jpg" />
- <img src="./../images/DIU27/bd-19440.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-19440-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-19440-512px.jpg 512w,
+  ./../images/DIU27/tv-19440-768px.jpg 768w,
+  ./../images/DIU27/tv-19440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-19440-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-19440-512px.jpg 512w,
+  ./../images/DIU27/bd-19440-768px.jpg 768w,
+  ./../images/DIU27/bd-19440-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1222,8 +3126,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Mikitaka's hands and neck have been recoloured here as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-19480.jpg" />
- <img src="./../images/DIU27/bd-19480.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-19480-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-19480-512px.jpg 512w,
+  ./../images/DIU27/tv-19480-768px.jpg 768w,
+  ./../images/DIU27/tv-19480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-19480-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-19480-512px.jpg 512w,
+  ./../images/DIU27/bd-19480-768px.jpg 768w,
+  ./../images/DIU27/bd-19480-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1231,8 +3149,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - His hands again here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-19580.jpg" />
- <img src="./../images/DIU27/bd-19580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-19580-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-19580-512px.jpg 512w,
+  ./../images/DIU27/tv-19580-768px.jpg 768w,
+  ./../images/DIU27/tv-19580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-19580-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-19580-512px.jpg 512w,
+  ./../images/DIU27/bd-19580-768px.jpg 768w,
+  ./../images/DIU27/bd-19580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1240,8 +3172,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Josuke and Okuyasu are both looking a little more like human beings here, and the bottom of the frame is also darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-19660.jpg" />
- <img src="./../images/DIU27/bd-19660.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-19660-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-19660-512px.jpg 512w,
+  ./../images/DIU27/tv-19660-768px.jpg 768w,
+  ./../images/DIU27/tv-19660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-19660-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-19660-512px.jpg 512w,
+  ./../images/DIU27/bd-19660-768px.jpg 768w,
+  ./../images/DIU27/bd-19660-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1249,15 +3195,43 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Another complete redraw!:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-19685.jpg" />
- <img src="./../images/DIU27/bd-19685.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-19685-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-19685-512px.jpg 512w,
+  ./../images/DIU27/tv-19685-768px.jpg 768w,
+  ./../images/DIU27/tv-19685-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-19685-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-19685-512px.jpg 512w,
+  ./../images/DIU27/bd-19685-768px.jpg 768w,
+  ./../images/DIU27/bd-19685-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-19810.jpg" />
- <img src="./../images/DIU27/bd-19810.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-19810-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-19810-512px.jpg 512w,
+  ./../images/DIU27/tv-19810-768px.jpg 768w,
+  ./../images/DIU27/tv-19810-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-19810-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-19810-512px.jpg 512w,
+  ./../images/DIU27/bd-19810-768px.jpg 768w,
+  ./../images/DIU27/bd-19810-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1265,8 +3239,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - In this frame, both their uniforms have their missing symbols and writings and whatever, and Josuke's face has also been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-19820.jpg" />
- <img src="./../images/DIU27/bd-19820.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-19820-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-19820-512px.jpg 512w,
+  ./../images/DIU27/tv-19820-768px.jpg 768w,
+  ./../images/DIU27/tv-19820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-19820-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-19820-512px.jpg 512w,
+  ./../images/DIU27/bd-19820-768px.jpg 768w,
+  ./../images/DIU27/bd-19820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1274,22 +3262,64 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Josuke has been completely redrawn in this scene, and Okuyasu (when he's in frame) has also been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-19950.jpg" />
- <img src="./../images/DIU27/bd-19950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-19950-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-19950-512px.jpg 512w,
+  ./../images/DIU27/tv-19950-768px.jpg 768w,
+  ./../images/DIU27/tv-19950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-19950-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-19950-512px.jpg 512w,
+  ./../images/DIU27/bd-19950-768px.jpg 768w,
+  ./../images/DIU27/bd-19950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-20000.jpg" />
- <img src="./../images/DIU27/bd-20000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-20000-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-20000-512px.jpg 512w,
+  ./../images/DIU27/tv-20000-768px.jpg 768w,
+  ./../images/DIU27/tv-20000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-20000-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-20000-512px.jpg 512w,
+  ./../images/DIU27/bd-20000-768px.jpg 768w,
+  ./../images/DIU27/bd-20000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-20040.jpg" />
- <img src="./../images/DIU27/bd-20040.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-20040-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-20040-512px.jpg 512w,
+  ./../images/DIU27/tv-20040-768px.jpg 768w,
+  ./../images/DIU27/tv-20040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-20040-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-20040-512px.jpg 512w,
+  ./../images/DIU27/bd-20040-768px.jpg 768w,
+  ./../images/DIU27/bd-20040-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1297,22 +3327,64 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Mikitaka's hands again here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-20160.jpg" />
- <img src="./../images/DIU27/bd-20160.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-20160-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-20160-512px.jpg 512w,
+  ./../images/DIU27/tv-20160-768px.jpg 768w,
+  ./../images/DIU27/tv-20160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-20160-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-20160-512px.jpg 512w,
+  ./../images/DIU27/bd-20160-768px.jpg 768w,
+  ./../images/DIU27/bd-20160-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-20260.jpg" />
- <img src="./../images/DIU27/bd-20260.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-20260-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-20260-512px.jpg 512w,
+  ./../images/DIU27/tv-20260-768px.jpg 768w,
+  ./../images/DIU27/tv-20260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-20260-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-20260-512px.jpg 512w,
+  ./../images/DIU27/bd-20260-768px.jpg 768w,
+  ./../images/DIU27/bd-20260-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-20320.jpg" />
- <img src="./../images/DIU27/bd-20320.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-20320-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-20320-512px.jpg 512w,
+  ./../images/DIU27/tv-20320-768px.jpg 768w,
+  ./../images/DIU27/tv-20320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-20320-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-20320-512px.jpg 512w,
+  ./../images/DIU27/bd-20320-768px.jpg 768w,
+  ./../images/DIU27/bd-20320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1320,8 +3392,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - And again here, plus a more consistent shading on Josuke, around his face and neck:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-20460.jpg" />
- <img src="./../images/DIU27/bd-20460.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-20460-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-20460-512px.jpg 512w,
+  ./../images/DIU27/tv-20460-768px.jpg 768w,
+  ./../images/DIU27/tv-20460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-20460-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-20460-512px.jpg 512w,
+  ./../images/DIU27/bd-20460-768px.jpg 768w,
+  ./../images/DIU27/bd-20460-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1329,8 +3415,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Even his face has been recoloured here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-20545.jpg" />
- <img src="./../images/DIU27/bd-20545.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-20545-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-20545-512px.jpg 512w,
+  ./../images/DIU27/tv-20545-768px.jpg 768w,
+  ./../images/DIU27/tv-20545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-20545-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-20545-512px.jpg 512w,
+  ./../images/DIU27/bd-20545-768px.jpg 768w,
+  ./../images/DIU27/bd-20545-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1338,8 +3438,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Josuke's head area has been retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-21905.jpg" />
- <img src="./../images/DIU27/bd-21905.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-21905-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-21905-512px.jpg 512w,
+  ./../images/DIU27/tv-21905-768px.jpg 768w,
+  ./../images/DIU27/tv-21905-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-21905-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-21905-512px.jpg 512w,
+  ./../images/DIU27/bd-21905-768px.jpg 768w,
+  ./../images/DIU27/bd-21905-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1347,8 +3461,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Mikitaka's face and uniform symbols have been properly drawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-22210.jpg" />
- <img src="./../images/DIU27/bd-22210.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-22210-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-22210-512px.jpg 512w,
+  ./../images/DIU27/tv-22210-768px.jpg 768w,
+  ./../images/DIU27/tv-22210-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-22210-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-22210-512px.jpg 512w,
+  ./../images/DIU27/bd-22210-768px.jpg 768w,
+  ./../images/DIU27/bd-22210-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1356,8 +3484,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - His eyes have been retouched here, and his collar recoloured:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-22450.jpg" />
- <img src="./../images/DIU27/bd-22450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-22450-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-22450-512px.jpg 512w,
+  ./../images/DIU27/tv-22450-768px.jpg 768w,
+  ./../images/DIU27/tv-22450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-22450-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-22450-512px.jpg 512w,
+  ./../images/DIU27/bd-22450-768px.jpg 768w,
+  ./../images/DIU27/bd-22450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1365,8 +3507,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - In this shot, they remembered to draw his nose piercing + cord and the planets on his collar; his eyes have also been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-22805.jpg" />
- <img src="./../images/DIU27/bd-22805.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-22805-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-22805-512px.jpg 512w,
+  ./../images/DIU27/tv-22805-768px.jpg 768w,
+  ./../images/DIU27/tv-22805-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-22805-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-22805-512px.jpg 512w,
+  ./../images/DIU27/bd-22805-768px.jpg 768w,
+  ./../images/DIU27/bd-22805-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1374,8 +3530,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Both faces have been retouched here (plus a tiny bit of Josuke's hair):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-23670.jpg" />
- <img src="./../images/DIU27/bd-23670.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-23670-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-23670-512px.jpg 512w,
+  ./../images/DIU27/tv-23670-768px.jpg 768w,
+  ./../images/DIU27/tv-23670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-23670-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-23670-512px.jpg 512w,
+  ./../images/DIU27/bd-23670-768px.jpg 768w,
+  ./../images/DIU27/bd-23670-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1383,8 +3553,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here Mikitaka's face, hair and collar have all been retouched, and the railing Josuke is leaning on is no longer transparent:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-24320.jpg" />
- <img src="./../images/DIU27/bd-24320.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-24320-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-24320-512px.jpg 512w,
+  ./../images/DIU27/tv-24320-768px.jpg 768w,
+  ./../images/DIU27/tv-24320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-24320-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-24320-512px.jpg 512w,
+  ./../images/DIU27/bd-24320-768px.jpg 768w,
+  ./../images/DIU27/bd-24320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1392,8 +3576,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - In this other shot, that one symbol on Mikitaka's chest has been recoloured red, and Josuke has a darker shade in the bottom left corner. His eye has also been slightly retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-24950.jpg" />
- <img src="./../images/DIU27/bd-24950.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-24950-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-24950-512px.jpg 512w,
+  ./../images/DIU27/tv-24950-768px.jpg 768w,
+  ./../images/DIU27/tv-24950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-24950-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-24950-512px.jpg 512w,
+  ./../images/DIU27/bd-24950-768px.jpg 768w,
+  ./../images/DIU27/bd-24950-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1401,8 +3599,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Phew! That's the last we'll see of Mikitaka in this episode, luckily! I love the dude, but it seems David pro was really struggling with how to draw him properly. Now let's go pay a visit to our favourite mangaka! Here he is, in his full glory and with a decent face:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-27600.jpg" />
- <img src="./../images/DIU27/bd-27600.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-27600-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-27600-512px.jpg 512w,
+  ./../images/DIU27/tv-27600-768px.jpg 768w,
+  ./../images/DIU27/tv-27600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-27600-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-27600-512px.jpg 512w,
+  ./../images/DIU27/bd-27600-768px.jpg 768w,
+  ./../images/DIU27/bd-27600-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1410,8 +3622,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - In this shot, Rohan has a sort of vignette along the edges:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-27730.jpg" />
- <img src="./../images/DIU27/bd-27730.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-27730-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-27730-512px.jpg 512w,
+  ./../images/DIU27/tv-27730-768px.jpg 768w,
+  ./../images/DIU27/tv-27730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-27730-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-27730-512px.jpg 512w,
+  ./../images/DIU27/bd-27730-768px.jpg 768w,
+  ./../images/DIU27/bd-27730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1419,8 +3645,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here, Josuke's face, collar and symbols have all been retouched. Who wouldn't trust such a pure face?:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-29570.jpg" />
- <img src="./../images/DIU27/bd-29570.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-29570-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-29570-512px.jpg 512w,
+  ./../images/DIU27/tv-29570-768px.jpg 768w,
+  ./../images/DIU27/tv-29570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-29570-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-29570-512px.jpg 512w,
+  ./../images/DIU27/bd-29570-768px.jpg 768w,
+  ./../images/DIU27/bd-29570-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1428,8 +3668,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Here, the bottom of Rohan and the chips is slightly darker, Josuke's eyes have been slightly retouched and Rohan's hand is looking way better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-30925.jpg" />
- <img src="./../images/DIU27/bd-30925.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-30925-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-30925-512px.jpg 512w,
+  ./../images/DIU27/tv-30925-768px.jpg 768w,
+  ./../images/DIU27/tv-30925-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-30925-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-30925-512px.jpg 512w,
+  ./../images/DIU27/bd-30925-768px.jpg 768w,
+  ./../images/DIU27/bd-30925-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -1437,8 +3691,22 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 - Look at this cutie! The pattern in his hair is inverted, and his right ear has been properly shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU27/tv-31450.jpg" />
- <img src="./../images/DIU27/bd-31450.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/tv-31450-1090px.jpg"
+  data-srcset="./../images/DIU27/tv-31450-512px.jpg 512w,
+  ./../images/DIU27/tv-31450-768px.jpg 768w,
+  ./../images/DIU27/tv-31450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU27/bd-31450-1090px.jpg"
+  data-srcset="./../images/DIU27/bd-31450-512px.jpg 512w,
+  ./../images/DIU27/bd-31450-768px.jpg 768w,
+  ./../images/DIU27/bd-31450-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

@@ -35,15 +35,43 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - Kira's victim's hand is uncensored:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU01/tv-01150.jpg" />
- <img src="./../images/DIU01/bd-01150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/tv-01150-1090px.jpg"
+  data-srcset="./../images/DIU01/tv-01150-512px.jpg 512w,
+  ./../images/DIU01/tv-01150-768px.jpg 768w,
+  ./../images/DIU01/tv-01150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/bd-01150-1090px.jpg"
+  data-srcset="./../images/DIU01/bd-01150-512px.jpg 512w,
+  ./../images/DIU01/bd-01150-768px.jpg 768w,
+  ./../images/DIU01/bd-01150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU01/tv-01200.jpg" />
- <img src="./../images/DIU01/bd-01200.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/tv-01200-1090px.jpg"
+  data-srcset="./../images/DIU01/tv-01200-512px.jpg 512w,
+  ./../images/DIU01/tv-01200-768px.jpg 768w,
+  ./../images/DIU01/tv-01200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/bd-01200-1090px.jpg"
+  data-srcset="./../images/DIU01/bd-01200-512px.jpg 512w,
+  ./../images/DIU01/bd-01200-768px.jpg 768w,
+  ./../images/DIU01/bd-01200-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -51,8 +79,22 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - Art director 加藤恵 (Katō Megumi) has been moved from the end credits to the opening credits:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU01/tv-01675.jpg" />
- <img src="./../images/DIU01/bd-01675.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/tv-01675-1090px.jpg"
+  data-srcset="./../images/DIU01/tv-01675-512px.jpg 512w,
+  ./../images/DIU01/tv-01675-768px.jpg 768w,
+  ./../images/DIU01/tv-01675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/bd-01675-1090px.jpg"
+  data-srcset="./../images/DIU01/bd-01675-512px.jpg 512w,
+  ./../images/DIU01/bd-01675-768px.jpg 768w,
+  ./../images/DIU01/bd-01675-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -60,8 +102,22 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - The episode title is (very) slightly brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU01/tv-02940.jpg" />
- <img src="./../images/DIU01/bd-02940.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/tv-02940-1090px.jpg"
+  data-srcset="./../images/DIU01/tv-02940-512px.jpg 512w,
+  ./../images/DIU01/tv-02940-768px.jpg 768w,
+  ./../images/DIU01/tv-02940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/bd-02940-1090px.jpg"
+  data-srcset="./../images/DIU01/bd-02940-512px.jpg 512w,
+  ./../images/DIU01/bd-02940-768px.jpg 768w,
+  ./../images/DIU01/bd-02940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -76,8 +132,22 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - Jotaro's coattails are redrawn to be slightly less elevated and more natural-looking:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU01/tv-04900.jpg" />
- <img src="./../images/DIU01/bd-04900.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/tv-04900-1090px.jpg"
+  data-srcset="./../images/DIU01/tv-04900-512px.jpg 512w,
+  ./../images/DIU01/tv-04900-768px.jpg 768w,
+  ./../images/DIU01/tv-04900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/bd-04900-1090px.jpg"
+  data-srcset="./../images/DIU01/bd-04900-512px.jpg 512w,
+  ./../images/DIU01/bd-04900-768px.jpg 768w,
+  ./../images/DIU01/bd-04900-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -92,8 +162,22 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - The aforementioned blonde punk has a very very slightly darker right eyebrow:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU01/tv-09740.jpg" />
- <img src="./../images/DIU01/bd-09740.jpg"/>
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/tv-09740-1090px.jpg"
+  data-srcset="./../images/DIU01/tv-09740-512px.jpg 512w,
+  ./../images/DIU01/tv-09740-768px.jpg 768w,
+  ./../images/DIU01/tv-09740-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/bd-09740-1090px.jpg"
+  data-srcset="./../images/DIU01/bd-09740-512px.jpg 512w,
+  ./../images/DIU01/bd-09740-768px.jpg 768w,
+  ./../images/DIU01/bd-09740-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw"/>
 </div>
 
 <br>
@@ -101,8 +185,22 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - Koichi has a thinner outer border in this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU01/tv-17300.jpg" />
- <img src="./../images/DIU01/bd-17300.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/tv-17300-1090px.jpg"
+  data-srcset="./../images/DIU01/tv-17300-512px.jpg 512w,
+  ./../images/DIU01/tv-17300-768px.jpg 768w,
+  ./../images/DIU01/tv-17300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/bd-17300-1090px.jpg"
+  data-srcset="./../images/DIU01/bd-17300-512px.jpg 512w,
+  ./../images/DIU01/bd-17300-768px.jpg 768w,
+  ./../images/DIU01/bd-17300-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -110,8 +208,22 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - Koichi's mouth has been properly shaded here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU01/tv-19820.jpg" />
- <img src="./../images/DIU01/bd-19820.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/tv-19820-1090px.jpg"
+  data-srcset="./../images/DIU01/tv-19820-512px.jpg 512w,
+  ./../images/DIU01/tv-19820-768px.jpg 768w,
+  ./../images/DIU01/tv-19820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/bd-19820-1090px.jpg"
+  data-srcset="./../images/DIU01/bd-19820-512px.jpg 512w,
+  ./../images/DIU01/bd-19820-768px.jpg 768w,
+  ./../images/DIU01/bd-19820-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -126,8 +238,22 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - Josuke has a bighter and pinker aura in this scene:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU01/tv-28940.jpg" />
- <img src="./../images/DIU01/bd-28940.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/tv-28940-1090px.jpg"
+  data-srcset="./../images/DIU01/tv-28940-512px.jpg 512w,
+  ./../images/DIU01/tv-28940-768px.jpg 768w,
+  ./../images/DIU01/tv-28940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/bd-28940-1090px.jpg"
+  data-srcset="./../images/DIU01/bd-28940-512px.jpg 512w,
+  ./../images/DIU01/bd-28940-768px.jpg 768w,
+  ./../images/DIU01/bd-28940-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -142,22 +268,64 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - Crazy Diamond's punch has been uncensored (the second censoring is a bit hard to spot):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU01/tv-29710.jpg" />
- <img src="./../images/DIU01/bd-29710.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/tv-29710-1090px.jpg"
+  data-srcset="./../images/DIU01/tv-29710-512px.jpg 512w,
+  ./../images/DIU01/tv-29710-768px.jpg 768w,
+  ./../images/DIU01/tv-29710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/bd-29710-1090px.jpg"
+  data-srcset="./../images/DIU01/bd-29710-512px.jpg 512w,
+  ./../images/DIU01/bd-29710-768px.jpg 768w,
+  ./../images/DIU01/bd-29710-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU01/tv-29800.jpg" />
- <img src="./../images/DIU01/bd-29800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/tv-29800-1090px.jpg"
+  data-srcset="./../images/DIU01/tv-29800-512px.jpg 512w,
+  ./../images/DIU01/tv-29800-768px.jpg 768w,
+  ./../images/DIU01/tv-29800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/bd-29800-1090px.jpg"
+  data-srcset="./../images/DIU01/bd-29800-512px.jpg 512w,
+  ./../images/DIU01/bd-29800-768px.jpg 768w,
+  ./../images/DIU01/bd-29800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU01/tv-29897.jpg" />
- <img src="./../images/DIU01/bd-29897.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/tv-29897-1090px.jpg"
+  data-srcset="./../images/DIU01/tv-29897-512px.jpg 512w,
+  ./../images/DIU01/tv-29897-768px.jpg 768w,
+  ./../images/DIU01/tv-29897-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/bd-29897-1090px.jpg"
+  data-srcset="./../images/DIU01/bd-29897-512px.jpg 512w,
+  ./../images/DIU01/bd-29897-768px.jpg 768w,
+  ./../images/DIU01/bd-29897-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -165,8 +333,22 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - Several people have been removed from the end credits:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU01/tv-31390.jpg" />
- <img src="./../images/DIU01/bd-31390.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/tv-31390-1090px.jpg"
+  data-srcset="./../images/DIU01/tv-31390-512px.jpg 512w,
+  ./../images/DIU01/tv-31390-768px.jpg 768w,
+  ./../images/DIU01/tv-31390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/bd-31390-1090px.jpg"
+  data-srcset="./../images/DIU01/bd-31390-512px.jpg 512w,
+  ./../images/DIU01/bd-31390-768px.jpg 768w,
+  ./../images/DIU01/bd-31390-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -174,8 +356,22 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - Same as before here, plus they rewrote 仕上げ (Finishing touches) as 仕上; it's not really a spelling mistake but more of a consistency thing, since it can be written both ways and further on they settle on the latter spelling:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU01/tv-31540.jpg" />
- <img src="./../images/DIU01/bd-31540.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/tv-31540-1090px.jpg"
+  data-srcset="./../images/DIU01/tv-31540-512px.jpg 512w,
+  ./../images/DIU01/tv-31540-768px.jpg 768w,
+  ./../images/DIU01/tv-31540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/bd-31540-1090px.jpg"
+  data-srcset="./../images/DIU01/bd-31540-512px.jpg 512w,
+  ./../images/DIU01/bd-31540-768px.jpg 768w,
+  ./../images/DIU01/bd-31540-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -183,8 +379,22 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - As stated earlier, 加藤恵 (Katō Megumi) is no longer in the ending credits:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU01/tv-31750.jpg" />
- <img src="./../images/DIU01/bd-31750.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/tv-31750-1090px.jpg"
+  data-srcset="./../images/DIU01/tv-31750-512px.jpg 512w,
+  ./../images/DIU01/tv-31750-768px.jpg 768w,
+  ./../images/DIU01/tv-31750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/bd-31750-1090px.jpg"
+  data-srcset="./../images/DIU01/bd-31750-512px.jpg 512w,
+  ./../images/DIU01/bd-31750-768px.jpg 768w,
+  ./../images/DIU01/bd-31750-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -192,8 +402,22 @@ Alright, let's kick this off with a comparison of Episode #01! Seeing as this is
 - The "next time" card is slightly brighter:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU01/tv-33970.jpg" />
- <img src="./../images/DIU01/bd-33970.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/tv-33970-1090px.jpg"
+  data-srcset="./../images/DIU01/tv-33970-512px.jpg 512w,
+  ./../images/DIU01/tv-33970-768px.jpg 768w,
+  ./../images/DIU01/tv-33970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU01/bd-33970-1090px.jpg"
+  data-srcset="./../images/DIU01/bd-33970-512px.jpg 512w,
+  ./../images/DIU01/bd-33970-768px.jpg 768w,
+  ./../images/DIU01/bd-33970-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

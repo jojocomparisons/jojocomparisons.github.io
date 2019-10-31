@@ -19,8 +19,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Let's begin with the first one of said retouched faces (plus a more shaded collar):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-00470.jpg" />
- <img src="./../images/DIU30/bd-00470.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-00470-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-00470-512px.jpg 512w,
+  ./../images/DIU30/tv-00470-768px.jpg 768w,
+  ./../images/DIU30/tv-00470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-00470-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-00470-512px.jpg 512w,
+  ./../images/DIU30/bd-00470-768px.jpg 768w,
+  ./../images/DIU30/bd-00470-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -28,8 +42,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Next we have Shinobu, sporting a slightly thinner face. Her mouth has also been slightly moved:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-05360.jpg" />
- <img src="./../images/DIU30/bd-05360.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-05360-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-05360-512px.jpg 512w,
+  ./../images/DIU30/tv-05360-768px.jpg 768w,
+  ./../images/DIU30/tv-05360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-05360-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-05360-512px.jpg 512w,
+  ./../images/DIU30/bd-05360-768px.jpg 768w,
+  ./../images/DIU30/bd-05360-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,22 +65,64 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - These three following shots demonstrate that Araki doesn't kill just dogs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-07055.jpg" />
- <img src="./../images/DIU30/bd-07055.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-07055-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-07055-512px.jpg 512w,
+  ./../images/DIU30/tv-07055-768px.jpg 768w,
+  ./../images/DIU30/tv-07055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-07055-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-07055-512px.jpg 512w,
+  ./../images/DIU30/bd-07055-768px.jpg 768w,
+  ./../images/DIU30/bd-07055-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-07085.jpg" />
- <img src="./../images/DIU30/bd-07085.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-07085-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-07085-512px.jpg 512w,
+  ./../images/DIU30/tv-07085-768px.jpg 768w,
+  ./../images/DIU30/tv-07085-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-07085-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-07085-512px.jpg 512w,
+  ./../images/DIU30/bd-07085-768px.jpg 768w,
+  ./../images/DIU30/bd-07085-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-07520.jpg" />
- <img src="./../images/DIU30/bd-07520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-07520-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-07520-512px.jpg 512w,
+  ./../images/DIU30/tv-07520-768px.jpg 768w,
+  ./../images/DIU30/tv-07520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-07520-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-07520-512px.jpg 512w,
+  ./../images/DIU30/bd-07520-768px.jpg 768w,
+  ./../images/DIU30/bd-07520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -60,8 +130,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - In this last uncensored shot of... Does the cat even have a name? Is it Tama? Or is Tama the name of the other cat the Kawajiris kept? Anyway, in this last uncensored shot of *the cat*, the last piece of glass on the right has been made bigger, the last wound has more blood dripping down its leg and belly, and the blood on the floor now has a more blurred outline:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-07580.jpg" />
- <img src="./../images/DIU30/bd-07580.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-07580-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-07580-512px.jpg 512w,
+  ./../images/DIU30/tv-07580-768px.jpg 768w,
+  ./../images/DIU30/tv-07580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-07580-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-07580-512px.jpg 512w,
+  ./../images/DIU30/bd-07580-768px.jpg 768w,
+  ./../images/DIU30/bd-07580-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -76,8 +160,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Prepare yourselves for some pretty gross shit. Alright. You prepared? Here we go:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-10415.jpg" />
- <img src="./../images/DIU30/bd-10415.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-10415-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-10415-512px.jpg 512w,
+  ./../images/DIU30/tv-10415-768px.jpg 768w,
+  ./../images/DIU30/tv-10415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-10415-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-10415-512px.jpg 512w,
+  ./../images/DIU30/bd-10415-768px.jpg 768w,
+  ./../images/DIU30/bd-10415-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -90,8 +188,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - I know, I know. That is pretty gross. In this next shot, the uncensoring continues, plus Stray Cat in the foreground is slightly darker:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-10520.jpg" />
- <img src="./../images/DIU30/bd-10520.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-10520-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-10520-512px.jpg 512w,
+  ./../images/DIU30/tv-10520-768px.jpg 768w,
+  ./../images/DIU30/tv-10520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-10520-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-10520-512px.jpg 512w,
+  ./../images/DIU30/bd-10520-768px.jpg 768w,
+  ./../images/DIU30/bd-10520-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -99,8 +211,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Uncensored again! As you can see, David pro recreated very faithfully Araki's complete inability to draw feet that actually look like feet:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-10830.jpg" />
- <img src="./../images/DIU30/bd-10830.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-10830-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-10830-512px.jpg 512w,
+  ./../images/DIU30/tv-10830-768px.jpg 768w,
+  ./../images/DIU30/tv-10830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-10830-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-10830-512px.jpg 512w,
+  ./../images/DIU30/bd-10830-768px.jpg 768w,
+  ./../images/DIU30/bd-10830-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -108,8 +234,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - In this shot they added the missing sandal, and Shinobu's eye area has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-10930.jpg" />
- <img src="./../images/DIU30/bd-10930.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-10930-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-10930-512px.jpg 512w,
+  ./../images/DIU30/tv-10930-768px.jpg 768w,
+  ./../images/DIU30/tv-10930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-10930-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-10930-512px.jpg 512w,
+  ./../images/DIU30/bd-10930-768px.jpg 768w,
+  ./../images/DIU30/bd-10930-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -117,8 +257,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - I'm starting to think Araki just hates animals in general:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-11150.jpg" />
- <img src="./../images/DIU30/bd-11150.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-11150-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-11150-512px.jpg 512w,
+  ./../images/DIU30/tv-11150-768px.jpg 768w,
+  ./../images/DIU30/tv-11150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-11150-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-11150-512px.jpg 512w,
+  ./../images/DIU30/bd-11150-768px.jpg 768w,
+  ./../images/DIU30/bd-11150-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -126,8 +280,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Here, Kira has an additional set of darker shadows, and some lines of his face have also been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-12140.jpg" />
- <img src="./../images/DIU30/bd-12140.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-12140-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-12140-512px.jpg 512w,
+  ./../images/DIU30/tv-12140-768px.jpg 768w,
+  ./../images/DIU30/tv-12140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-12140-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-12140-512px.jpg 512w,
+  ./../images/DIU30/bd-12140-768px.jpg 768w,
+  ./../images/DIU30/bd-12140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -135,8 +303,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Kira's face has been retouched again here (you'll get used to it by the end), and his shirt has received the same treatment:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-12400.jpg" />
- <img src="./../images/DIU30/bd-12400.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-12400-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-12400-512px.jpg 512w,
+  ./../images/DIU30/tv-12400-768px.jpg 768w,
+  ./../images/DIU30/tv-12400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-12400-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-12400-512px.jpg 512w,
+  ./../images/DIU30/bd-12400-768px.jpg 768w,
+  ./../images/DIU30/bd-12400-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -144,8 +326,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - It's incredible what a difference it makes to the overall design if you just make the eyes proportionate with the rest of the face, eh?:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-12680.jpg" />
- <img src="./../images/DIU30/bd-12680.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-12680-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-12680-512px.jpg 512w,
+  ./../images/DIU30/tv-12680-768px.jpg 768w,
+  ./../images/DIU30/tv-12680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-12680-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-12680-512px.jpg 512w,
+  ./../images/DIU30/bd-12680-768px.jpg 768w,
+  ./../images/DIU30/bd-12680-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -153,8 +349,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - In this shot of the cutest cat/plant hybrid you'll ever see in your miserable existence, Stray Cat's eyes have been redrawn, and a couple of bits have been re-shaded...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-12735.jpg" />
- <img src="./../images/DIU30/bd-12735.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-12735-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-12735-512px.jpg 512w,
+  ./../images/DIU30/tv-12735-768px.jpg 768w,
+  ./../images/DIU30/tv-12735-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-12735-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-12735-512px.jpg 512w,
+  ./../images/DIU30/bd-12735-768px.jpg 768w,
+  ./../images/DIU30/bd-12735-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -162,8 +372,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - ...and the camera then zooms out, moving a bit more to the left in the BDs:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-12912.jpg" />
- <img src="./../images/DIU30/bd-12912.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-12912-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-12912-512px.jpg 512w,
+  ./../images/DIU30/tv-12912-768px.jpg 768w,
+  ./../images/DIU30/tv-12912-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-12912-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-12912-512px.jpg 512w,
+  ./../images/DIU30/bd-12912-768px.jpg 768w,
+  ./../images/DIU30/bd-12912-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -171,8 +395,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Kira's face has been once again slightly retouched in this here shot (his eyes also have a pupil now):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-13275.jpg" />
- <img src="./../images/DIU30/bd-13275.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-13275-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-13275-512px.jpg 512w,
+  ./../images/DIU30/tv-13275-768px.jpg 768w,
+  ./../images/DIU30/tv-13275-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-13275-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-13275-512px.jpg 512w,
+  ./../images/DIU30/bd-13275-768px.jpg 768w,
+  ./../images/DIU30/bd-13275-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -180,8 +418,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - The center of Stray Cat's face is darker in this VERY CUTE SHOT:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-13335.jpg" />
- <img src="./../images/DIU30/bd-13335.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-13335-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-13335-512px.jpg 512w,
+  ./../images/DIU30/tv-13335-768px.jpg 768w,
+  ./../images/DIU30/tv-13335-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-13335-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-13335-512px.jpg 512w,
+  ./../images/DIU30/bd-13335-768px.jpg 768w,
+  ./../images/DIU30/bd-13335-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -196,8 +448,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Here, Kira's face has been completely redrawn (hurray!), the reddish... things on the back of Stray Cat have been shaded, and the shading on Kira is darker near the bottom:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-13880.jpg" />
- <img src="./../images/DIU30/bd-13880.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-13880-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-13880-512px.jpg 512w,
+  ./../images/DIU30/tv-13880-768px.jpg 768w,
+  ./../images/DIU30/tv-13880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-13880-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-13880-512px.jpg 512w,
+  ./../images/DIU30/bd-13880-768px.jpg 768w,
+  ./../images/DIU30/bd-13880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -205,8 +471,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - A couple of very minor retouches on Kira's face here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-14035.jpg" />
- <img src="./../images/DIU30/bd-14035.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-14035-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-14035-512px.jpg 512w,
+  ./../images/DIU30/tv-14035-768px.jpg 768w,
+  ./../images/DIU30/tv-14035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-14035-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-14035-512px.jpg 512w,
+  ./../images/DIU30/bd-14035-768px.jpg 768w,
+  ./../images/DIU30/bd-14035-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -214,8 +494,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - ...some bigger eyes here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-15080.jpg" />
- <img src="./../images/DIU30/bd-15080.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-15080-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-15080-512px.jpg 512w,
+  ./../images/DIU30/tv-15080-768px.jpg 768w,
+  ./../images/DIU30/tv-15080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-15080-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-15080-512px.jpg 512w,
+  ./../images/DIU30/bd-15080-768px.jpg 768w,
+  ./../images/DIU30/bd-15080-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -223,8 +517,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - ...and his face again here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-15155.jpg" />
- <img src="./../images/DIU30/bd-15155.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-15155-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-15155-512px.jpg 512w,
+  ./../images/DIU30/tv-15155-768px.jpg 768w,
+  ./../images/DIU30/tv-15155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-15155-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-15155-512px.jpg 512w,
+  ./../images/DIU30/bd-15155-768px.jpg 768w,
+  ./../images/DIU30/bd-15155-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -232,8 +540,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Stray Cat's center is darker again here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-15770.jpg" />
- <img src="./../images/DIU30/bd-15770.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-15770-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-15770-512px.jpg 512w,
+  ./../images/DIU30/tv-15770-768px.jpg 768w,
+  ./../images/DIU30/tv-15770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-15770-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-15770-512px.jpg 512w,
+  ./../images/DIU30/bd-15770-768px.jpg 768w,
+  ./../images/DIU30/bd-15770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -241,8 +563,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - In this shot, both Kira and Killer Queen's faces have been retouched (look at that KQ! It no longer has that dent on his forehead!), Kira's tie has been retouched and his shirt no longer has four buttons on the collar:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-15875.jpg" />
- <img src="./../images/DIU30/bd-15875.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-15875-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-15875-512px.jpg 512w,
+  ./../images/DIU30/tv-15875-768px.jpg 768w,
+  ./../images/DIU30/tv-15875-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-15875-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-15875-512px.jpg 512w,
+  ./../images/DIU30/bd-15875-768px.jpg 768w,
+  ./../images/DIU30/bd-15875-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -250,8 +586,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Both Kira and Shinobu's faces have been heavily retouched here...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-16265.jpg" />
- <img src="./../images/DIU30/bd-16265.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-16265-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-16265-512px.jpg 512w,
+  ./../images/DIU30/tv-16265-768px.jpg 768w,
+  ./../images/DIU30/tv-16265-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-16265-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-16265-512px.jpg 512w,
+  ./../images/DIU30/bd-16265-768px.jpg 768w,
+  ./../images/DIU30/bd-16265-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -259,8 +609,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - ...and, when the shot zooms out, we can see that Kira's tie and collar have also been retouched, and Stray Cat has been moved like five pixels up:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-16320.jpg" />
- <img src="./../images/DIU30/bd-16320.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-16320-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-16320-512px.jpg 512w,
+  ./../images/DIU30/tv-16320-768px.jpg 768w,
+  ./../images/DIU30/tv-16320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-16320-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-16320-512px.jpg 512w,
+  ./../images/DIU30/bd-16320-768px.jpg 768w,
+  ./../images/DIU30/bd-16320-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -268,8 +632,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - In this shot of Stray Cat yelling at a foot, the heel of Kira's shoe is made from a darker leather:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-16876.jpg" />
- <img src="./../images/DIU30/bd-16876.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-16876-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-16876-512px.jpg 512w,
+  ./../images/DIU30/tv-16876-768px.jpg 768w,
+  ./../images/DIU30/tv-16876-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-16876-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-16876-512px.jpg 512w,
+  ./../images/DIU30/bd-16876-768px.jpg 768w,
+  ./../images/DIU30/bd-16876-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -277,8 +655,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Kira looks a little less bored here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-16990.jpg" />
- <img src="./../images/DIU30/bd-16990.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-16990-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-16990-512px.jpg 512w,
+  ./../images/DIU30/tv-16990-768px.jpg 768w,
+  ./../images/DIU30/tv-16990-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-16990-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-16990-512px.jpg 512w,
+  ./../images/DIU30/bd-16990-768px.jpg 768w,
+  ./../images/DIU30/bd-16990-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -286,8 +678,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - His eye has been slightly retouched here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-17000.jpg" />
- <img src="./../images/DIU30/bd-17000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-17000-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-17000-512px.jpg 512w,
+  ./../images/DIU30/tv-17000-768px.jpg 768w,
+  ./../images/DIU30/tv-17000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-17000-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-17000-512px.jpg 512w,
+  ./../images/DIU30/bd-17000-768px.jpg 768w,
+  ./../images/DIU30/bd-17000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -295,8 +701,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Kira's heel once again in this almost-upskirt shot:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-17120.jpg" />
- <img src="./../images/DIU30/bd-17120.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-17120-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-17120-512px.jpg 512w,
+  ./../images/DIU30/tv-17120-768px.jpg 768w,
+  ./../images/DIU30/tv-17120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-17120-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-17120-512px.jpg 512w,
+  ./../images/DIU30/bd-17120-768px.jpg 768w,
+  ./../images/DIU30/bd-17120-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -304,15 +724,43 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Here's a couple of retouched Kira faces:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-17270.jpg" />
- <img src="./../images/DIU30/bd-17270.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-17270-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-17270-512px.jpg 512w,
+  ./../images/DIU30/tv-17270-768px.jpg 768w,
+  ./../images/DIU30/tv-17270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-17270-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-17270-512px.jpg 512w,
+  ./../images/DIU30/bd-17270-768px.jpg 768w,
+  ./../images/DIU30/bd-17270-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-19745.jpg" />
- <img src="./../images/DIU30/bd-19745.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-19745-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-19745-512px.jpg 512w,
+  ./../images/DIU30/tv-19745-768px.jpg 768w,
+  ./../images/DIU30/tv-19745-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-19745-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-19745-512px.jpg 512w,
+  ./../images/DIU30/bd-19745-768px.jpg 768w,
+  ./../images/DIU30/bd-19745-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -320,8 +768,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - And again here, plus his belt has a buckle now:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-19770.jpg" />
- <img src="./../images/DIU30/bd-19770.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-19770-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-19770-512px.jpg 512w,
+  ./../images/DIU30/tv-19770-768px.jpg 768w,
+  ./../images/DIU30/tv-19770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-19770-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-19770-512px.jpg 512w,
+  ./../images/DIU30/bd-19770-768px.jpg 768w,
+  ./../images/DIU30/bd-19770-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -329,8 +791,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - In this split shot, Kira has BIGGU SHOULDERS, his eyes have been retouched and Killer Queen has received a very slight makeover:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-20100.jpg" />
- <img src="./../images/DIU30/bd-20100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-20100-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-20100-512px.jpg 512w,
+  ./../images/DIU30/tv-20100-768px.jpg 768w,
+  ./../images/DIU30/tv-20100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-20100-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-20100-512px.jpg 512w,
+  ./../images/DIU30/bd-20100-768px.jpg 768w,
+  ./../images/DIU30/bd-20100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -338,8 +814,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Kira is once again looking less bored here, and the sky is slightly brighter behind him:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-20205.jpg" />
- <img src="./../images/DIU30/bd-20205.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-20205-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-20205-512px.jpg 512w,
+  ./../images/DIU30/tv-20205-768px.jpg 768w,
+  ./../images/DIU30/tv-20205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-20205-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-20205-512px.jpg 512w,
+  ./../images/DIU30/bd-20205-768px.jpg 768w,
+  ./../images/DIU30/bd-20205-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -347,8 +837,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Man, they really didn't get his eyes right in the TV version:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-21090.jpg" />
- <img src="./../images/DIU30/bd-21090.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-21090-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-21090-512px.jpg 512w,
+  ./../images/DIU30/tv-21090-768px.jpg 768w,
+  ./../images/DIU30/tv-21090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-21090-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-21090-512px.jpg 512w,
+  ./../images/DIU30/bd-21090-768px.jpg 768w,
+  ./../images/DIU30/bd-21090-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -356,8 +860,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Now this is what I call a redrawn face! Shinobu's face is also slightly less shaded:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-22100.jpg" />
- <img src="./../images/DIU30/bd-22100.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-22100-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-22100-512px.jpg 512w,
+  ./../images/DIU30/tv-22100-768px.jpg 768w,
+  ./../images/DIU30/tv-22100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-22100-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-22100-512px.jpg 512w,
+  ./../images/DIU30/bd-22100-768px.jpg 768w,
+  ./../images/DIU30/bd-22100-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -365,8 +883,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - In this shot, Shinobu and Kira's pants have slightly darker shades, and Kira's face is looking better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-23000.jpg" />
- <img src="./../images/DIU30/bd-23000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-23000-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-23000-512px.jpg 512w,
+  ./../images/DIU30/tv-23000-768px.jpg 768w,
+  ./../images/DIU30/tv-23000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-23000-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-23000-512px.jpg 512w,
+  ./../images/DIU30/bd-23000-768px.jpg 768w,
+  ./../images/DIU30/bd-23000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -374,8 +906,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Here, the books on the desk are darker and Hayato's face has been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-25850.jpg" />
- <img src="./../images/DIU30/bd-25850.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-25850-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-25850-512px.jpg 512w,
+  ./../images/DIU30/tv-25850-768px.jpg 768w,
+  ./../images/DIU30/tv-25850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-25850-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-25850-512px.jpg 512w,
+  ./../images/DIU30/bd-25850-768px.jpg 768w,
+  ./../images/DIU30/bd-25850-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -383,8 +929,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - In this shot, Hayato's waistcoat is shorter on his shoulder...:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-26730.jpg" />
- <img src="./../images/DIU30/bd-26730.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-26730-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-26730-512px.jpg 512w,
+  ./../images/DIU30/tv-26730-768px.jpg 768w,
+  ./../images/DIU30/tv-26730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-26730-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-26730-512px.jpg 512w,
+  ./../images/DIU30/bd-26730-768px.jpg 768w,
+  ./../images/DIU30/bd-26730-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -392,8 +952,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - ...and when he turns around, his face has been slightly retouched as well:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-26800.jpg" />
- <img src="./../images/DIU30/bd-26800.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-26800-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-26800-512px.jpg 512w,
+  ./../images/DIU30/tv-26800-768px.jpg 768w,
+  ./../images/DIU30/tv-26800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-26800-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-26800-512px.jpg 512w,
+  ./../images/DIU30/bd-26800-768px.jpg 768w,
+  ./../images/DIU30/bd-26800-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -401,15 +975,43 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - A couple of retouched faces (I'm so grateful for the first one):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-28130.jpg" />
- <img src="./../images/DIU30/bd-28130.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-28130-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-28130-512px.jpg 512w,
+  ./../images/DIU30/tv-28130-768px.jpg 768w,
+  ./../images/DIU30/tv-28130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-28130-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-28130-512px.jpg 512w,
+  ./../images/DIU30/bd-28130-768px.jpg 768w,
+  ./../images/DIU30/bd-28130-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-28140.jpg" />
- <img src="./../images/DIU30/bd-28140.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-28140-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-28140-512px.jpg 512w,
+  ./../images/DIU30/tv-28140-768px.jpg 768w,
+  ./../images/DIU30/tv-28140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-28140-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-28140-512px.jpg 512w,
+  ./../images/DIU30/bd-28140-768px.jpg 768w,
+  ./../images/DIU30/bd-28140-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -417,8 +1019,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - In this shot of Hayato finding out he's not that into BDSM, his face has been redrawn and the air effects look better:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-29700.jpg" />
- <img src="./../images/DIU30/bd-29700.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-29700-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-29700-512px.jpg 512w,
+  ./../images/DIU30/tv-29700-768px.jpg 768w,
+  ./../images/DIU30/tv-29700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-29700-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-29700-512px.jpg 512w,
+  ./../images/DIU30/bd-29700-768px.jpg 768w,
+  ./../images/DIU30/bd-29700-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -426,8 +1042,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Here Kira has a waay smaller jaw, his brow is more furrowed and he has been shaded more:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-31780.jpg" />
- <img src="./../images/DIU30/bd-31780.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-31780-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-31780-512px.jpg 512w,
+  ./../images/DIU30/tv-31780-768px.jpg 768w,
+  ./../images/DIU30/tv-31780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-31780-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-31780-512px.jpg 512w,
+  ./../images/DIU30/bd-31780-768px.jpg 768w,
+  ./../images/DIU30/bd-31780-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -435,8 +1065,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - Alright, the episode itself is over! Now for a couple of ending differences. Fist, I have to apologize: these differences were probably in since the BD started using the Kosaku version, but since the TV version was stuck with the Kira version of the ending, I couldn't do a proper comparison. As you can see here, the rat in the diamond looks better (how many times have you heard these words in this particular order?):
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-33790.jpg" />
- <img src="./../images/DIU30/bd-33790.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-33790-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-33790-512px.jpg 512w,
+  ./../images/DIU30/tv-33790-768px.jpg 768w,
+  ./../images/DIU30/tv-33790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-33790-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-33790-512px.jpg 512w,
+  ./../images/DIU30/bd-33790-768px.jpg 768w,
+  ./../images/DIU30/bd-33790-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -444,8 +1088,22 @@ Hiya, everyone! Welcome back to Jojo's Bizarre Comparisons! This week we're goin
 - And, in this final shot, the J is slightly smaller while the background is a bit more zoomed in:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU30/tv-33925.jpg" />
- <img src="./../images/DIU30/bd-33925.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/tv-33925-1090px.jpg"
+  data-srcset="./../images/DIU30/tv-33925-512px.jpg 512w,
+  ./../images/DIU30/tv-33925-768px.jpg 768w,
+  ./../images/DIU30/tv-33925-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU30/bd-33925-1090px.jpg"
+  data-srcset="./../images/DIU30/bd-33925-512px.jpg 512w,
+  ./../images/DIU30/bd-33925-768px.jpg 768w,
+  ./../images/DIU30/bd-33925-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>

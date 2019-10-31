@@ -19,8 +19,22 @@ Hey again, everyone! Welcome back to JoJo's Bizarre Comparison, and would you lo
 - Let's begin this brief comparison with a very minor retouch. In this shot, the corner of Josuke's jaw has been smoothed and it doesn't look as angular:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU13/tv-07000.jpg" />
- <img src="./../images/DIU13/bd-07000.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/tv-07000-1090px.jpg"
+  data-srcset="./../images/DIU13/tv-07000-512px.jpg 512w,
+  ./../images/DIU13/tv-07000-768px.jpg 768w,
+  ./../images/DIU13/tv-07000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/bd-07000-1090px.jpg"
+  data-srcset="./../images/DIU13/bd-07000-512px.jpg 512w,
+  ./../images/DIU13/bd-07000-768px.jpg 768w,
+  ./../images/DIU13/bd-07000-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -28,8 +42,22 @@ Hey again, everyone! Welcome back to JoJo's Bizarre Comparison, and would you lo
 - Here, in the BDs you can see the tip of the second heart on Josuke's collar:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU13/tv-07885.jpg" />
- <img src="./../images/DIU13/bd-07885.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/tv-07885-1090px.jpg"
+  data-srcset="./../images/DIU13/tv-07885-512px.jpg 512w,
+  ./../images/DIU13/tv-07885-768px.jpg 768w,
+  ./../images/DIU13/tv-07885-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/bd-07885-1090px.jpg"
+  data-srcset="./../images/DIU13/bd-07885-512px.jpg 512w,
+  ./../images/DIU13/bd-07885-768px.jpg 768w,
+  ./../images/DIU13/bd-07885-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -37,22 +65,64 @@ Hey again, everyone! Welcome back to JoJo's Bizarre Comparison, and would you lo
 - In this shot here, Josuke's nip zips have been redrawn, there's one line on his school uniform which is less pronounced in the BDs, Joseph's right eye has been retouched and his coat and hat have a bunch of slight differences. In a couple of frames, a very tiny line on Josuke's left hand has been removed; his left lapel and Joseph's entire head have also been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU13/tv-15880.jpg" />
- <img src="./../images/DIU13/bd-15880.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/tv-15880-1090px.jpg"
+  data-srcset="./../images/DIU13/tv-15880-512px.jpg 512w,
+  ./../images/DIU13/tv-15880-768px.jpg 768w,
+  ./../images/DIU13/tv-15880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/bd-15880-1090px.jpg"
+  data-srcset="./../images/DIU13/bd-15880-512px.jpg 512w,
+  ./../images/DIU13/bd-15880-768px.jpg 768w,
+  ./../images/DIU13/bd-15880-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU13/tv-15895.jpg" />
- <img src="./../images/DIU13/bd-15895.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/tv-15895-1090px.jpg"
+  data-srcset="./../images/DIU13/tv-15895-512px.jpg 512w,
+  ./../images/DIU13/tv-15895-768px.jpg 768w,
+  ./../images/DIU13/tv-15895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/bd-15895-1090px.jpg"
+  data-srcset="./../images/DIU13/bd-15895-512px.jpg 512w,
+  ./../images/DIU13/bd-15895-768px.jpg 768w,
+  ./../images/DIU13/bd-15895-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU13/tv-16020.jpg" />
- <img src="./../images/DIU13/bd-16020.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/tv-16020-1090px.jpg"
+  data-srcset="./../images/DIU13/tv-16020-512px.jpg 512w,
+  ./../images/DIU13/tv-16020-768px.jpg 768w,
+  ./../images/DIU13/tv-16020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/bd-16020-1090px.jpg"
+  data-srcset="./../images/DIU13/bd-16020-512px.jpg 512w,
+  ./../images/DIU13/bd-16020-768px.jpg 768w,
+  ./../images/DIU13/bd-16020-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -60,8 +130,22 @@ Hey again, everyone! Welcome back to JoJo's Bizarre Comparison, and would you lo
 - Josuke's mouth has been redrawn here:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU13/tv-16435.jpg" />
- <img src="./../images/DIU13/bd-16435.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/tv-16435-1090px.jpg"
+  data-srcset="./../images/DIU13/tv-16435-512px.jpg 512w,
+  ./../images/DIU13/tv-16435-768px.jpg 768w,
+  ./../images/DIU13/tv-16435-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/bd-16435-1090px.jpg"
+  data-srcset="./../images/DIU13/bd-16435-512px.jpg 512w,
+  ./../images/DIU13/bd-16435-768px.jpg 768w,
+  ./../images/DIU13/bd-16435-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -69,8 +153,22 @@ Hey again, everyone! Welcome back to JoJo's Bizarre Comparison, and would you lo
 - Here, Joseph's beard and lip have been slightly retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU13/tv-16585.jpg" />
- <img src="./../images/DIU13/bd-16585.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/tv-16585-1090px.jpg"
+  data-srcset="./../images/DIU13/tv-16585-512px.jpg 512w,
+  ./../images/DIU13/tv-16585-768px.jpg 768w,
+  ./../images/DIU13/tv-16585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/bd-16585-1090px.jpg"
+  data-srcset="./../images/DIU13/bd-16585-512px.jpg 512w,
+  ./../images/DIU13/bd-16585-768px.jpg 768w,
+  ./../images/DIU13/bd-16585-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -78,8 +176,22 @@ Hey again, everyone! Welcome back to JoJo's Bizarre Comparison, and would you lo
 - In this bit here, Joseph's mouth flap is slightly different, and some lines in his beard have been retouched:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU13/tv-31211.jpg" />
- <img src="./../images/DIU13/bd-31211.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/tv-31211-1090px.jpg"
+  data-srcset="./../images/DIU13/tv-31211-512px.jpg 512w,
+  ./../images/DIU13/tv-31211-768px.jpg 768w,
+  ./../images/DIU13/tv-31211-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/bd-31211-1090px.jpg"
+  data-srcset="./../images/DIU13/bd-31211-512px.jpg 512w,
+  ./../images/DIU13/bd-31211-768px.jpg 768w,
+  ./../images/DIU13/bd-31211-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
@@ -92,8 +204,22 @@ Hey again, everyone! Welcome back to JoJo's Bizarre Comparison, and would you lo
 - And to close this short comparison, here's a credit difference! You thought you had seen the last of those, huh? Well, think again! Here, animator and character designer 西位輝実 (Nishii Terumi)'s last Kanji (実) was mistakenly written as 美 in the TV version; this has been fixed. Also, the last four lines in this series of credits have been spaced a bit differently:
 
 <div id="container1" class="twentytwenty-container">
- <img src="./../images/DIU13/tv-32605.jpg" />
- <img src="./../images/DIU13/bd-32605.jpg" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/tv-32605-1090px.jpg"
+  data-srcset="./../images/DIU13/tv-32605-512px.jpg 512w,
+  ./../images/DIU13/tv-32605-768px.jpg 768w,
+  ./../images/DIU13/tv-32605-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+  data-src="./../images/DIU13/bd-32605-1090px.jpg"
+  data-srcset="./../images/DIU13/bd-32605-512px.jpg 512w,
+  ./../images/DIU13/bd-32605-768px.jpg 768w,
+  ./../images/DIU13/bd-32605-1090px.jpg 1090w"
+  sizes="(min-width: 1218px) 1090px,
+  (min-width: 768px) 87vw,
+  89vw" />
 </div>
 
 <br>
