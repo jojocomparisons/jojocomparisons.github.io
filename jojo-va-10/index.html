@@ -8,7 +8,28 @@
   <link rel="preload" href="/fonts/cubano-regular-webfont.woff?1474468950" as="font" type="font/woff2" crossorigin>
   <!-- AdSense link -->
   <script data-ad-client="ca-pub-6414589669938505" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <!--Jquery Touch Events -->
+  <script>window.jQuery || document.write('<script src="./../javascripts/libs/jquery.min.js"><\/script>')</script>
   
+  <script type="text/javascript" src="/compare/jquery.event.move.js" async></script>
+
+  <script type="text/javascript" src="/compare/initiate.js" async></script>
+
+  <script type="text/javascript" src="/compare/onlyplayifinview.js" async></script>
+  
+  <script type="text/javascript" src="/compare/jquery.twentytwenty.js"></script>
+
+  <script>
+  $(document).ready(function() {
+    $.ajax({
+        url: "/javascripts/octopress.js",
+        dataType: "script",
+        cache: true
+    });
+  });
+  </script>
+
   <meta charset="utf-8">
   <title>Vento Aureo #10 - La Squadra Esecuzioni - JoJo's Bizarre Comparisons</title>
   <meta name="author" content="Duwang Boi">
@@ -25,21 +46,24 @@
   <!-- Lazy loading -->
 
   <script src="/javascripts/lazysizes.min.js" async></script>
+  <script src="/javascripts/ls.unveilhooks.js" async></script>
 
   
   <link rel="canonical" href="https://jojocomparisons.github.io/jojo-va-10/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <!--
   <script src="/javascripts/modernizr-2.0.js" async></script>
   <script src="/javascripts/ender.js" async></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript" async></script> -->
+  
   <link href="/atom.xml" rel="alternate" title="JoJo's Bizarre Comparisons" type="application/atom+xml" async>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="https://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' type='text/css'>
-<link href="/favicon.png" rel="icon">
+<link href="https://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" async type="text/css">
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' async type='text/css'>
+<!-- <link href="/favicon.png" rel="icon"> -->
 
-<link href="/compare/twentytwenty.css" rel="stylesheet" type="text/css">
+<link href="/compare/twentytwenty.css" async rel="stylesheet" type="text/css">
 
   
   <script type="text/javascript">
@@ -56,7 +80,6 @@
 
 
 </head>
-
 <body   class="collapse-sidebar"   >
   <header role="banner"><hgroup>
   <img src="/images/diulogo.png" />
@@ -128,7 +151,7 @@
   <li>And the frame now shakes towards the end! Check it out:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA10/01 - formaggio shake.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA10/01 - formaggio shake.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -137,7 +160,7 @@
   <li>This animation here is brighter and sharper…:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA10/02 - brighter and sharper.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA10/02 - brighter and sharper.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -146,7 +169,7 @@
   <li>And this other bit is MUCH brighter:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA10/03 - brighter.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA10/03 - brighter.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -219,7 +242,7 @@
   <li>Here’s the usual mid-episode eyecatch:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA10/04 - eyecatch.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA10/04 - eyecatch.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -409,7 +432,7 @@
 
 <p><br /></p>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA10/05 - sorbet.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA10/05 - sorbet.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -456,7 +479,7 @@
   <li>This bit of Aerosmith shooting is brighter and sharper…:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA10/06 - aerosmith.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA10/06 - aerosmith.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -484,7 +507,7 @@
   <li>And one last brighter Aerosmith for the road… I actually think this is exactly the same video from before mirrored horizontally:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA10/07 - aerosmith 2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA10/07 - aerosmith 2.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -602,20 +625,12 @@
 
 
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" async></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<!--
+<script type="text/javascript" src="../../../bower_components/jquery-touch-events/src/1.0.5/jquery.mobile-events.min.js"></script>
 <script src="/javascripts/aharris.js" async></script>
 
-<!--Jquery Touch Events
-<script type="text/javascript" src="../../../bower_components/jquery-touch-events/src/1.0.5/jquery.mobile-events.min.js"></script>
+<script type="text/javascript" src="/javascripts/lazyloadingvideos.js" async></script></script>
 -->
-<script type="text/javascript" src="/compare/jquery.event.move.js" async></script>
-
-<script type="text/javascript" src="/compare/initiate.js" async></script>
-
-<script type="text/javascript" src="/compare/onlyplayifinview.js"></script>
-
-<script type="text/javascript" src="/compare/jquery.twentytwenty.js"></script>
 
 
 </body>

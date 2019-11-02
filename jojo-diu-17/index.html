@@ -8,7 +8,28 @@
   <link rel="preload" href="/fonts/cubano-regular-webfont.woff?1474468950" as="font" type="font/woff2" crossorigin>
   <!-- AdSense link -->
   <script data-ad-client="ca-pub-6414589669938505" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <!--Jquery Touch Events -->
+  <script>window.jQuery || document.write('<script src="./../javascripts/libs/jquery.min.js"><\/script>')</script>
   
+  <script type="text/javascript" src="/compare/jquery.event.move.js" async></script>
+
+  <script type="text/javascript" src="/compare/initiate.js" async></script>
+
+  <script type="text/javascript" src="/compare/onlyplayifinview.js" async></script>
+  
+  <script type="text/javascript" src="/compare/jquery.twentytwenty.js"></script>
+
+  <script>
+  $(document).ready(function() {
+    $.ajax({
+        url: "/javascripts/octopress.js",
+        dataType: "script",
+        cache: true
+    });
+  });
+  </script>
+
   <meta charset="utf-8">
   <title>Diamond is Unbreakable #17 - Rohan Kishibe's Adventure - JoJo's Bizarre Comparisons</title>
   <meta name="author" content="Duwang Boi">
@@ -25,21 +46,24 @@
   <!-- Lazy loading -->
 
   <script src="/javascripts/lazysizes.min.js" async></script>
+  <script src="/javascripts/ls.unveilhooks.js" async></script>
 
   
   <link rel="canonical" href="https://jojocomparisons.github.io/jojo-diu-17/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <!--
   <script src="/javascripts/modernizr-2.0.js" async></script>
   <script src="/javascripts/ender.js" async></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript" async></script> -->
+  
   <link href="/atom.xml" rel="alternate" title="JoJo's Bizarre Comparisons" type="application/atom+xml" async>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="https://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' type='text/css'>
-<link href="/favicon.png" rel="icon">
+<link href="https://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" async type="text/css">
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' async type='text/css'>
+<!-- <link href="/favicon.png" rel="icon"> -->
 
-<link href="/compare/twentytwenty.css" rel="stylesheet" type="text/css">
+<link href="/compare/twentytwenty.css" async rel="stylesheet" type="text/css">
 
   
   <script type="text/javascript">
@@ -56,7 +80,6 @@
 
 
 </head>
-
 <body   class="collapse-sidebar"   >
   <header role="banner"><hgroup>
   <img src="/images/diulogo.png" />
@@ -198,7 +221,7 @@
   <li>Alright, with this one I have to give David pro a slap on the back of the head. One tiny slap. Not too hard. It’s for their good, really. In this scene we have one very rare Blu-ray mistake! Take a gander at the ghost truck passing in the background:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/DIU17/01 - ghost truck.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/DIU17/01 - ghost truck.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -226,7 +249,7 @@
   <li>This shot of Rohan pulling out his… Heaven’s Door has been made <em>way</em> sharper and brighter:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/DIU17/02 - heaven's door.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/DIU17/02 - heaven's door.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -273,7 +296,7 @@
   <li>As has been his more gruesome, more real counterpart:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/DIU17/03 - arnold turn.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/DIU17/03 - arnold turn.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -282,7 +305,7 @@
   <li>This transition is also slightly different in the BDs (the fading to the blood on the ground happens a couple of frames earlier):</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/DIU17/04 - arnold blood.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/DIU17/04 - arnold blood.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1019,20 +1042,12 @@
 
 
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" async></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<!--
+<script type="text/javascript" src="../../../bower_components/jquery-touch-events/src/1.0.5/jquery.mobile-events.min.js"></script>
 <script src="/javascripts/aharris.js" async></script>
 
-<!--Jquery Touch Events
-<script type="text/javascript" src="../../../bower_components/jquery-touch-events/src/1.0.5/jquery.mobile-events.min.js"></script>
+<script type="text/javascript" src="/javascripts/lazyloadingvideos.js" async></script></script>
 -->
-<script type="text/javascript" src="/compare/jquery.event.move.js" async></script>
-
-<script type="text/javascript" src="/compare/initiate.js" async></script>
-
-<script type="text/javascript" src="/compare/onlyplayifinview.js"></script>
-
-<script type="text/javascript" src="/compare/jquery.twentytwenty.js"></script>
 
 
 </body>

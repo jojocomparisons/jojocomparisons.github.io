@@ -8,7 +8,28 @@
   <link rel="preload" href="/fonts/cubano-regular-webfont.woff?1474468950" as="font" type="font/woff2" crossorigin>
   <!-- AdSense link -->
   <script data-ad-client="ca-pub-6414589669938505" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <!--Jquery Touch Events -->
+  <script>window.jQuery || document.write('<script src="./../javascripts/libs/jquery.min.js"><\/script>')</script>
   
+  <script type="text/javascript" src="/compare/jquery.event.move.js" async></script>
+
+  <script type="text/javascript" src="/compare/initiate.js" async></script>
+
+  <script type="text/javascript" src="/compare/onlyplayifinview.js" async></script>
+  
+  <script type="text/javascript" src="/compare/jquery.twentytwenty.js"></script>
+
+  <script>
+  $(document).ready(function() {
+    $.ajax({
+        url: "/javascripts/octopress.js",
+        dataType: "script",
+        cache: true
+    });
+  });
+  </script>
+
   <meta charset="utf-8">
   <title>Diamond is Unbreakable #27 - I Am An Alien - JoJo's Bizarre Comparisons</title>
   <meta name="author" content="Duwang Boi">
@@ -25,21 +46,24 @@
   <!-- Lazy loading -->
 
   <script src="/javascripts/lazysizes.min.js" async></script>
+  <script src="/javascripts/ls.unveilhooks.js" async></script>
 
   
   <link rel="canonical" href="https://jojocomparisons.github.io/jojo-diu-27/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <!--
   <script src="/javascripts/modernizr-2.0.js" async></script>
   <script src="/javascripts/ender.js" async></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript" async></script> -->
+  
   <link href="/atom.xml" rel="alternate" title="JoJo's Bizarre Comparisons" type="application/atom+xml" async>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="https://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' type='text/css'>
-<link href="/favicon.png" rel="icon">
+<link href="https://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" async type="text/css">
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' async type='text/css'>
+<!-- <link href="/favicon.png" rel="icon"> -->
 
-<link href="/compare/twentytwenty.css" rel="stylesheet" type="text/css">
+<link href="/compare/twentytwenty.css" async rel="stylesheet" type="text/css">
 
   
   <script type="text/javascript">
@@ -56,7 +80,6 @@
 
 
 </head>
-
 <body   class="collapse-sidebar"   >
   <header role="banner"><hgroup>
   <img src="/images/diulogo.png" />
@@ -105,7 +128,7 @@
 
 <p><br /></p>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/DIU27/01 - mikitaka arrow.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/DIU27/01 - mikitaka arrow.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -443,7 +466,7 @@
   <li>In the TV version of this bit here, the chair was sort of… vibrating:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/DIU27/05 - vibrating chair.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/DIU27/05 - vibrating chair.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -490,7 +513,7 @@
   <li>The definitive version of the opening also has a fade transition between this sequence and the following one, instead of just cutting to it:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/DIU27/11 - fade transition.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/DIU27/11 - fade transition.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -518,7 +541,7 @@
   <li>The bit where Shinobu splits into multiple copies is different:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/DIU27/06 - shinobu split.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/DIU27/06 - shinobu split.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -603,7 +626,7 @@
   <li>…that’s because the animation itself is completely different! Check it out:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/DIU27/07 - GYAAN.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/DIU27/07 - GYAAN.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -631,7 +654,7 @@
   <li>This bit is also completely different:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/DIU27/08 - ZGYUN.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/DIU27/08 - ZGYUN.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -780,12 +803,12 @@
   <li>Well… Everything is different, at the end! The temporary TV version re-used some bits from episode #25, while the BD version has newly drawn sequences:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/DIU27/09 - all new 1.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/DIU27/09 - all new 1.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/DIU27/10 - all new 2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/DIU27/10 - all new 2.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1077,7 +1100,7 @@
   <li>In addition, the beginning of the previous scene is also hilarious, as we can see that David pro decided to scrap that whole storyline about Shinobu practicing going up an invisible stair to prepare for her long-awaited mime debut:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/DIU27/02 - invisible stairs.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/DIU27/02 - invisible stairs.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1259,7 +1282,7 @@
   <li>Alright, let’s have a little breather with an animation! Here, as you can see, the very static TV version (which was basically just one frame) was replaced with a montage of some (really cute) animations of Shinobu fidgeting and waiting for Kira to do or say something. Needless to say, both her and Kira have been obviously redrawn:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/DIU27/03 - shinobu fidgeting.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/DIU27/03 - shinobu fidgeting.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1287,7 +1310,7 @@
   <li>…and she has also received an additional animation:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/DIU27/04 - added animation.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/DIU27/04 - added animation.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -3160,20 +3183,12 @@
 
 
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" async></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<!--
+<script type="text/javascript" src="../../../bower_components/jquery-touch-events/src/1.0.5/jquery.mobile-events.min.js"></script>
 <script src="/javascripts/aharris.js" async></script>
 
-<!--Jquery Touch Events
-<script type="text/javascript" src="../../../bower_components/jquery-touch-events/src/1.0.5/jquery.mobile-events.min.js"></script>
+<script type="text/javascript" src="/javascripts/lazyloadingvideos.js" async></script></script>
 -->
-<script type="text/javascript" src="/compare/jquery.event.move.js" async></script>
-
-<script type="text/javascript" src="/compare/initiate.js" async></script>
-
-<script type="text/javascript" src="/compare/onlyplayifinview.js"></script>
-
-<script type="text/javascript" src="/compare/jquery.twentytwenty.js"></script>
 
 
 </body>

@@ -8,7 +8,28 @@
   <link rel="preload" href="/fonts/cubano-regular-webfont.woff?1474468950" as="font" type="font/woff2" crossorigin>
   <!-- AdSense link -->
   <script data-ad-client="ca-pub-6414589669938505" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <!--Jquery Touch Events -->
+  <script>window.jQuery || document.write('<script src="./../javascripts/libs/jquery.min.js"><\/script>')</script>
   
+  <script type="text/javascript" src="/compare/jquery.event.move.js" async></script>
+
+  <script type="text/javascript" src="/compare/initiate.js" async></script>
+
+  <script type="text/javascript" src="/compare/onlyplayifinview.js" async></script>
+  
+  <script type="text/javascript" src="/compare/jquery.twentytwenty.js"></script>
+
+  <script>
+  $(document).ready(function() {
+    $.ajax({
+        url: "/javascripts/octopress.js",
+        dataType: "script",
+        cache: true
+    });
+  });
+  </script>
+
   <meta charset="utf-8">
   <title>Battle Tendency #20 - Caesar's Lonely Youth - JoJo's Bizarre Comparisons</title>
   <meta name="author" content="Duwang Boi">
@@ -25,21 +46,24 @@
   <!-- Lazy loading -->
 
   <script src="/javascripts/lazysizes.min.js" async></script>
+  <script src="/javascripts/ls.unveilhooks.js" async></script>
 
   
   <link rel="canonical" href="https://jojocomparisons.github.io/jojo-bt-20/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <!--
   <script src="/javascripts/modernizr-2.0.js" async></script>
   <script src="/javascripts/ender.js" async></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript" async></script> -->
+  
   <link href="/atom.xml" rel="alternate" title="JoJo's Bizarre Comparisons" type="application/atom+xml" async>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="https://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' type='text/css'>
-<link href="/favicon.png" rel="icon">
+<link href="https://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" async type="text/css">
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' async type='text/css'>
+<!-- <link href="/favicon.png" rel="icon"> -->
 
-<link href="/compare/twentytwenty.css" rel="stylesheet" type="text/css">
+<link href="/compare/twentytwenty.css" async rel="stylesheet" type="text/css">
 
   
   <script type="text/javascript">
@@ -56,7 +80,6 @@
 
 
 </head>
-
 <body   class="collapse-sidebar"   >
   <header role="banner"><hgroup>
   <img src="/images/diulogo.png" />
@@ -94,7 +117,7 @@
   <li>Today’s first comparison is a video of this dude getting stepped on, which is now animated in the BD version:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT20/01 - stomach step.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT20/01 - stomach step.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -141,7 +164,7 @@
   <li>Here we have a brighter and sharper animation:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT20/02 - brighter and sharper 1.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT20/02 - brighter and sharper 1.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -169,7 +192,7 @@
   <li>Another brighter and sharper animation here…:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT20/03 - brighter.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT20/03 - brighter.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -235,7 +258,7 @@
   <li>Another brighter and sharper bit… Sort of:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT20/04 - brighter and sharper 3.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT20/04 - brighter and sharper 3.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -342,7 +365,7 @@
   <li>The same differences apply here, and this transition is also way sharper:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT20/05 - sharper 4.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT20/05 - sharper 4.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -351,7 +374,7 @@
   <li>And another one here…:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT20/06 - brighter and sharper 5.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT20/06 - brighter and sharper 5.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -563,7 +586,7 @@
   <li>Whew! That was a long series of frames. Alright, let’s move on! Here’s a brigher bit…:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT20/07 - brighter 6.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT20/07 - brighter 6.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -572,7 +595,7 @@
   <li>And another brighter and sharper animation…:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT20/08 - brighter and sharper 7.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT20/08 - brighter and sharper 7.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -581,7 +604,7 @@
   <li>Aaand another one here:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT20/09 - brighter and sharper 8.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT20/09 - brighter and sharper 8.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -753,7 +776,7 @@
 
 <p><br /></p>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT20/10 - disco dancing.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT20/10 - disco dancing.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -792,7 +815,7 @@
 
 <p><br /></p>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT20/11 - disco dancing 2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT20/11 - disco dancing 2.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -846,7 +869,7 @@
 
 <p><br /></p>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT20/12 - stronger distortion.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT20/12 - stronger distortion.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1060,7 +1083,7 @@
 
 <p><br /></p>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT20/13 - less stylized bg.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT20/13 - less stylized bg.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1228,7 +1251,7 @@
 
 <p><br /></p>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT20/14 - brighter and sharper 9.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT20/14 - brighter and sharper 9.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1256,7 +1279,7 @@
   <li>And Joseph’s eyes tremble as well:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT20/15 - trembling eyes.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT20/15 - trembling eyes.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1514,20 +1537,12 @@
 
 
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" async></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<!--
+<script type="text/javascript" src="../../../bower_components/jquery-touch-events/src/1.0.5/jquery.mobile-events.min.js"></script>
 <script src="/javascripts/aharris.js" async></script>
 
-<!--Jquery Touch Events
-<script type="text/javascript" src="../../../bower_components/jquery-touch-events/src/1.0.5/jquery.mobile-events.min.js"></script>
+<script type="text/javascript" src="/javascripts/lazyloadingvideos.js" async></script></script>
 -->
-<script type="text/javascript" src="/compare/jquery.event.move.js" async></script>
-
-<script type="text/javascript" src="/compare/initiate.js" async></script>
-
-<script type="text/javascript" src="/compare/onlyplayifinview.js"></script>
-
-<script type="text/javascript" src="/compare/jquery.twentytwenty.js"></script>
 
 
 </body>

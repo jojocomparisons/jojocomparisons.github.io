@@ -8,7 +8,28 @@
   <link rel="preload" href="/fonts/cubano-regular-webfont.woff?1474468950" as="font" type="font/woff2" crossorigin>
   <!-- AdSense link -->
   <script data-ad-client="ca-pub-6414589669938505" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <!--Jquery Touch Events -->
+  <script>window.jQuery || document.write('<script src="./../javascripts/libs/jquery.min.js"><\/script>')</script>
   
+  <script type="text/javascript" src="/compare/jquery.event.move.js" async></script>
+
+  <script type="text/javascript" src="/compare/initiate.js" async></script>
+
+  <script type="text/javascript" src="/compare/onlyplayifinview.js" async></script>
+  
+  <script type="text/javascript" src="/compare/jquery.twentytwenty.js"></script>
+
+  <script>
+  $(document).ready(function() {
+    $.ajax({
+        url: "/javascripts/octopress.js",
+        dataType: "script",
+        cache: true
+    });
+  });
+  </script>
+
   <meta charset="utf-8">
   <title>Battle Tendency #12 - The Pillar Man - JoJo's Bizarre Comparisons</title>
   <meta name="author" content="Duwang Boi">
@@ -25,21 +46,24 @@
   <!-- Lazy loading -->
 
   <script src="/javascripts/lazysizes.min.js" async></script>
+  <script src="/javascripts/ls.unveilhooks.js" async></script>
 
   
   <link rel="canonical" href="https://jojocomparisons.github.io/jojo-bt-12/">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <!--
   <script src="/javascripts/modernizr-2.0.js" async></script>
   <script src="/javascripts/ender.js" async></script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript" async></script> -->
+  
   <link href="/atom.xml" rel="alternate" title="JoJo's Bizarre Comparisons" type="application/atom+xml" async>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="https://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' type='text/css'>
-<link href="/favicon.png" rel="icon">
+<link href="https://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" async type="text/css">
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic' rel='stylesheet' async type='text/css'>
+<!-- <link href="/favicon.png" rel="icon"> -->
 
-<link href="/compare/twentytwenty.css" rel="stylesheet" type="text/css">
+<link href="/compare/twentytwenty.css" async rel="stylesheet" type="text/css">
 
   
   <script type="text/javascript">
@@ -56,7 +80,6 @@
 
 
 </head>
-
 <body   class="collapse-sidebar"   >
   <header role="banner"><hgroup>
   <img src="/images/diulogo.png" />
@@ -130,7 +153,7 @@
   <li>Another slightly different mouth flap animation here. This is longer, so here, have a .webm:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT12/01 - mouthflap.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT12/01 - mouthflap.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -226,7 +249,7 @@
   <li>This animation focuses a bit longer on the ground in the BDs:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT12/02 - donovan.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT12/02 - donovan.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -533,12 +556,12 @@
   <li>This scene of Santana detaching from the stone pillar has been redrawn; the blood effects are also more subdued:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT12/03 - santana rebirth.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT12/03 - santana rebirth.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT12/04 - santana rebirth 2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT12/04 - santana rebirth 2.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -805,7 +828,7 @@
   <li>The frames in this brief transition are less blurred:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT12/05 - transition.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT12/05 - transition.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -871,7 +894,7 @@
   <li>This very gross bit of Santana absorbing the vampire has been uncensored:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT12/06 - vampire buffet.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT12/06 - vampire buffet.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1259,7 +1282,7 @@
   <li>Here, the scene shakes differently in the BDs; also, there are the usual tequila labels, the sky in the background is slightly less dark around the edges, the hamon sparks are brighter and there are more tequila particles:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT12/07 - tequila shake.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT12/07 - tequila shake.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1752,7 +1775,7 @@
   <li>Okay now this, THIS is fucked up:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT12/08 - fucked up.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT12/08 - fucked up.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1761,12 +1784,12 @@
   <li>The camera moves around in an unsettling way in the BD version of these shots:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT12/09 - camera 1.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT12/09 - camera 1.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT12/10 - camera 2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT12/10 - camera 2.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1794,7 +1817,7 @@
   <li>I thought about making a pun based on “jaw drop”, but then I decided that it would have been too obvious. You can thank me later. Anyhow, this disgusting scene is brighter and uncensored, and that… thing’s eyeball has also been shaded:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT12/11 - jaw drop.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT12/11 - jaw drop.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1932,7 +1955,7 @@
   <li>The animation of Santana coming out of the nazi soldier’s dead body has also been uncensored:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT12/12 - tear animation 1.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT12/12 - tear animation 1.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1941,7 +1964,7 @@
   <li>Same as before with this one; plus, the scene is brighter and the background is slightly more zoomed out:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT12/13 - tear animation 2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT12/13 - tear animation 2.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1988,7 +2011,7 @@
   <li>Holy hell, now this is what I call a massive redraw! Video+picture for optimal comparison:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT12/14 - joseph run.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT12/14 - joseph run.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -2031,12 +2054,12 @@
   <li>Here’s a couple of brighter and sharper shots, as usual:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT12/15 - brighter 1.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT12/15 - brighter 1.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/BT12/16 - brighter 2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/BT12/16 - brighter 2.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -2353,20 +2376,12 @@
 
 
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" async></script>
-<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<!--
+<script type="text/javascript" src="../../../bower_components/jquery-touch-events/src/1.0.5/jquery.mobile-events.min.js"></script>
 <script src="/javascripts/aharris.js" async></script>
 
-<!--Jquery Touch Events
-<script type="text/javascript" src="../../../bower_components/jquery-touch-events/src/1.0.5/jquery.mobile-events.min.js"></script>
+<script type="text/javascript" src="/javascripts/lazyloadingvideos.js" async></script></script>
 -->
-<script type="text/javascript" src="/compare/jquery.event.move.js" async></script>
-
-<script type="text/javascript" src="/compare/initiate.js" async></script>
-
-<script type="text/javascript" src="/compare/onlyplayifinview.js"></script>
-
-<script type="text/javascript" src="/compare/jquery.twentytwenty.js"></script>
 
 
 </body>

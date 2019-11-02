@@ -4,7 +4,7 @@
   <title><![CDATA[Category: sc | JoJo's Bizarre Comparisons]]></title>
   <link href="https://jojocomparisons.github.io/categories/sc/atom.xml" rel="self"/>
   <link href="https://jojocomparisons.github.io/"/>
-  <updated>2019-10-31T23:50:53+01:00</updated>
+  <updated>2019-11-02T20:35:57+01:00</updated>
   <id>https://jojocomparisons.github.io/</id>
   <author>
     <name><![CDATA[Duwang Boi]]></name>
@@ -108,7 +108,7 @@
   <li>This animation has been made brighter:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC17/01 - brighter.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC17/01 - brighter.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -136,7 +136,7 @@
   <li>Have another brighter animation:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC17/02 - brighter 2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC17/02 - brighter 2.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -164,7 +164,7 @@
   <li>Let’s go back to a longer, brighter animation:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC17/03 - brighter 3.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC17/03 - brighter 3.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -211,7 +211,7 @@
   <li>They also move in sync! Check it out:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC17/04 - sync lovers.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC17/04 - sync lovers.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -235,7 +235,7 @@
 
 <p><br /></p>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC17/05 - lovers crowd.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC17/05 - lovers crowd.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -384,12 +384,12 @@
   <li>These animations are brighter and much sharper:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC17/06 - brighter and sharper.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC17/06 - brighter and sharper.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC17/07 - brighter and sharper.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC17/07 - brighter and sharper.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -398,7 +398,7 @@
   <li>This animation is muuch, much sharper, and the colours are just… Miles better. Check it out:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC17/08 - better colours and sharper.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC17/08 - better colours and sharper.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -452,7 +452,7 @@
   <li>And another brighter and sharper one:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC17/09 - brighter and sharper.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC17/09 - brighter and sharper.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -514,7 +514,7 @@
 
 <p><br /></p>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC17/10 - arm effect.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC17/10 - arm effect.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -538,7 +538,7 @@
 
 <p><br /></p>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC17/11 - leg effect.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC17/11 - leg effect.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -679,12 +679,12 @@
   <li>And the background moves slightly differently here:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC17/12 - moving background.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC17/12 - moving background.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC17/13 - moving background.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC17/13 - moving background.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -819,7 +819,7 @@
   <li>This animation of Steely Dan smashing Jotaro on the shoulder with a rock (?!) has been made sharper and brighter:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC16/01 - rock n roll.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC16/01 - rock n roll.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -877,12 +877,12 @@
   <li>These two brief animations are now brighter…:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC16/02 - hermit purple.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC16/02 - hermit purple.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC16/03 - polnareff.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC16/03 - polnareff.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -891,7 +891,7 @@
   <li>While this is brighter <em>and</em> sharper! Lo and behold:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC16/04 - micro stands.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC16/04 - micro stands.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -946,7 +946,7 @@
   <li>Today’s first difference is this brighter bit of Hol Horse shooting himself right in the face:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC15/01 - hol horse.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC15/01 - hol horse.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -955,12 +955,12 @@
   <li>And let’s quickly move to two brighter and sharper animations:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC15/02 - bns1.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC15/02 - bns1.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC15/03 - bns2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC15/03 - bns2.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -969,7 +969,7 @@
   <li>Aaand let’s close today’s incredibly quick thing with this bit of Jotaro, whose mouth flap has been changed in the BD, and he now no longer opens his mouth during this part here:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC15/04 - mouth flap.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC15/04 - mouth flap.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1194,7 +1194,7 @@
   <li>Alright, this is quite huge, I’d say. The BD version of Justice’s first scene is massively different, as it… actually contains the town itself, instead of being shot in an abstract sandstorm:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC14/01 - justice 1.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC14/01 - justice 1.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1233,7 +1233,7 @@
   <li>And again here, plus some brighter and sharper lightning effects:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC14/02 - justice 2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC14/02 - justice 2.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1257,7 +1257,7 @@
   <li>And, once again, here…:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC14/03 - justice 3.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC14/03 - justice 3.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1319,7 +1319,7 @@
   <li>And this whole sequence of Joseph doing perhaps what is his stupidest and most unnecessary stunt ever in the history of Jojo has also been made brighter and sharper. We can now appreciate this idiot man in full crisp 4K HD:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC14/04 - idiot joseph.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC14/04 - idiot joseph.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1404,12 +1404,12 @@
   <li>Here, have a couple of brighter and sharper animations! They’re always fun:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC14/05 - scissor sisters.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC14/05 - scissor sisters.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC14/06 - scissor sisters 2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC14/06 - scissor sisters 2.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1437,7 +1437,7 @@
   <li>This animation now has a much better contrast and is also sharper:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC14/07 - hol horse 1.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC14/07 - hol horse 1.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1575,7 +1575,7 @@
   <li>In this animation of Polnareff talking, one of his mouthflaps has been changed. The super brief loop makes him look like an idiot, but nevermind that:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC13/01 - polflap.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC13/01 - polflap.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1713,17 +1713,17 @@
   <li>These animations are brighter and sharper:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC13/02 - brighter and sharper 1.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC13/02 - brighter and sharper 1.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC13/03 - brighter and sharper 2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC13/03 - brighter and sharper 2.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC13/04 - brighter and sharper 3.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC13/04 - brighter and sharper 3.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1751,12 +1751,12 @@
   <li>And here we have two last brighter and sharper animations, to cap off this brief comparison:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC13/05 - brighter and sharper 4.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC13/05 - brighter and sharper 4.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/SC13/06 - brighter and sharper 5.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/SC13/06 - brighter and sharper 5.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>

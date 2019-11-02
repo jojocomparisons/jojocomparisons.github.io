@@ -4,7 +4,7 @@
   <title><![CDATA[Category: va | JoJo's Bizarre Comparisons]]></title>
   <link href="https://jojocomparisons.github.io/categories/va/atom.xml" rel="self"/>
   <link href="https://jojocomparisons.github.io/"/>
-  <updated>2019-10-31T23:50:53+01:00</updated>
+  <updated>2019-11-02T20:35:57+01:00</updated>
   <id>https://jojocomparisons.github.io/</id>
   <author>
     <name><![CDATA[Duwang Boi]]></name>
@@ -66,7 +66,7 @@
 
 <p><br /></p>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA27/01 - doppio scissors.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA27/01 - doppio scissors.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -208,7 +208,7 @@
   <li>It’s eyecatch time, friends:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA27/02 - eyecatch.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA27/02 - eyecatch.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -217,7 +217,7 @@
   <li>Going back to the past once again, here we have a Prosciutto flipping through a book! The page-flipping animation has been redrawn and looks nicer:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA27/03 - prosciutto book flip.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA27/03 - prosciutto book flip.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -245,7 +245,7 @@
   <li>In this scene, Doppio turns around only twice (as opposed to the four times he turns around in the TV version, which is double that, which in Italian is… “doppio”):</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA27/04 - doppio turn.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA27/04 - doppio turn.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -303,7 +303,7 @@
 
 <p><br /></p>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA27/05 - risotto fall.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA27/05 - risotto fall.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -380,7 +380,7 @@
 
 <p><br /></p>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA27/06 - doppio black spot.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA27/06 - doppio black spot.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -769,7 +769,7 @@
   <li>…and she moves her mouth more often in the BD version:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA26/01 - doppio's mother.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA26/01 - doppio's mother.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1235,7 +1235,7 @@
   <li>…and while Doppio walks towards the kid, his right arm and leg no longer temporarily go out of the shadows:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA26/02 - doppio walk.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA26/02 - doppio walk.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -1758,7 +1758,7 @@
   <li>In addition, when he turns to look at Risotto, as you can see, most things are different! Check it out:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA26/03 - doppio turn.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA26/03 - doppio turn.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -2061,7 +2061,7 @@
   <li>Here, Risotto walks a little straighter…:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA26/04 - risotto walk.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA26/04 - risotto walk.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -2357,7 +2357,7 @@
   <li>This shot now moves around much more, has some additional motion lines on the sides of the frame and Doppio’s hand is now on a different layer from the rest, meaning that it moves at a different speed from the background and makes for a slightly more parallaxed shot:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA26/05 - blahahshghh.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA26/05 - blahahshghh.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -2703,7 +2703,7 @@
   <li>The first difference here is yet another brighter and sharper animation:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA25/01 - brighter and sharper.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA25/01 - brighter and sharper.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -2776,7 +2776,7 @@
   <li>Let’s take a quick look at the usual brighter and sharper eyecatch for this episode:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA25/02 - eyecatch.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA25/02 - eyecatch.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -2849,7 +2849,7 @@
   <li>This animation of the gang mom yelling at her gang children is now slightly brighter:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA25/03 - angry mom.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA25/03 - angry mom.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -2873,7 +2873,7 @@
   <li>The white-out at the end of this (very pretty) animation is brighter:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA25/04 - whiteout.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA25/04 - whiteout.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -2897,7 +2897,7 @@
   <li>Have a couple of nice brighter and sharper animation, fellas:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA25/05 - bs 1.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA25/05 - bs 1.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -2917,7 +2917,7 @@
 
 <p><br /></p>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA25/06 - bs 2.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA25/06 - bs 2.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -2960,7 +2960,7 @@
   <li>Aaaand here we have some slashes with better contrast:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA25/07 - slashes.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA25/07 - slashes.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -3148,7 +3148,7 @@
   <li>Today’s very short comparison begins with this brief Mista animation, now brighter and sharper:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA24/01 - bs mista.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA24/01 - bs mista.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -3172,7 +3172,7 @@
   <li>Let’s very quickly move to the eyecatch…:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA24/02 - eyecatch.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA24/02 - eyecatch.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -3196,7 +3196,7 @@
   <li>This other brief animation of Aerosmith shooting is also brighter and sharper…:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA24/03 - aerosmith.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA24/03 - aerosmith.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -3270,7 +3270,7 @@
   <li>As I anticipated last time, the “beta version” of the opening only lasted one episode; today we’ll take a look at the only difference between the regular TV opening and the BD opening. Namely, this much sharper and brighter punch barrage:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA23/01 - gold experience barrage.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA23/01 - gold experience barrage.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -3389,7 +3389,7 @@
   <li>This brief animation of Mista blowing up all his friends is brighter and much sharper:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA23/02 - brighter and sharper.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA23/02 - brighter and sharper.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -3428,7 +3428,7 @@
 
 <p><br /></p>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA23/03 - smoke.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA23/03 - smoke.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
@@ -3475,7 +3475,7 @@
   <li>Let’s take a look at the usual eyecatch:</li>
 </ul>
 
-<video class="center" muted="" nocontrols="" autoplay="" playsinline="" loop="" preload="auto">
+<video class="lazyload" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
   <source src="./../videos/VA23/04 - eyecatch.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
   <source src="./../videos/VA23/04 - eyecatch.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
 </video>
