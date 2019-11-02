@@ -154,7 +154,7 @@ Hi there, and welcome back for a look at the differences in Episode #04! Nothing
 
 - As usual, Crazy Diamond's beatdown is sharper and brighter:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU04/01 - beatdown.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU04/01 - beatdown.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

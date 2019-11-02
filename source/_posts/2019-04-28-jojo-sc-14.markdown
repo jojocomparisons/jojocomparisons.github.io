@@ -242,7 +242,7 @@ Shall we start?
 
 - Alright, this is quite huge, I'd say. The BD version of Justice's first scene is massively different, as it... actually contains the town itself, instead of being shot in an abstract sandstorm:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC14/01 - justice 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC14/01 - justice 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -291,7 +291,7 @@ Shall we start?
 
 - And again here, plus some brighter and sharper lightning effects:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC14/02 - justice 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC14/02 - justice 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -319,7 +319,7 @@ Shall we start?
 
 - And, once again, here...:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC14/03 - justice 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC14/03 - justice 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -393,7 +393,7 @@ Shall we start?
 
 - And this whole sequence of Joseph doing perhaps what is his stupidest and most unnecessary stunt ever in the history of Jojo has also been made brighter and sharper. We can now appreciate this idiot man in full crisp 4K HD:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC14/04 - idiot joseph.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC14/04 - idiot joseph.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -492,12 +492,12 @@ Shall we start?
 
 - Here, have a couple of brighter and sharper animations! They're always fun:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC14/05 - scissor sisters.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC14/05 - scissor sisters.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC14/06 - scissor sisters 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC14/06 - scissor sisters 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -527,7 +527,7 @@ Shall we start?
 
 - This animation now has a much better contrast and is also sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC14/07 - hol horse 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC14/07 - hol horse 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

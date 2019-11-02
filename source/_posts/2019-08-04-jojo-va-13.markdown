@@ -221,7 +221,7 @@ Get something to snack on, friends, because this is going to be a very long one!
 
 - During this bit the bottom of the frame is not as dark, the light effects are a little brighter and there are more "splashes" of light accompanying said effects:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA13/01 - brighter lights.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA13/01 - brighter lights.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -272,7 +272,7 @@ Get something to snack on, friends, because this is going to be a very long one!
 
 - Said mouth is also ANIMATED!! HE SPEAKS!!!!! (it might be too tiny to spot on some screens, my bad):
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA13/02 - he speaketh.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA13/02 - he speaketh.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -371,7 +371,7 @@ Get something to snack on, friends, because this is going to be a very long one!
 
 - This animation starts out already zoomed out:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA13/03 - no zoom out.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA13/03 - no zoom out.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -401,7 +401,7 @@ Get something to snack on, friends, because this is going to be a very long one!
 
 - And this beatdown is now brighter and sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA13/04 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA13/04 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -454,7 +454,7 @@ Get something to snack on, friends, because this is going to be a very long one!
 
 - And here, he stands up more:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA13/05 - get up stand up.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA13/05 - get up stand up.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -530,7 +530,7 @@ Get something to snack on, friends, because this is going to be a very long one!
 
 - This brief kick is also brighter and sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA13/06 - bs kick.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA13/06 - bs kick.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -968,7 +968,7 @@ Get something to snack on, friends, because this is going to be a very long one!
 
 - And Abbacchio's blood no longer looks like wine being splashed out of a faucet onto a spinning disc:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA13/07 - abba blood.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA13/07 - abba blood.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1021,7 +1021,7 @@ Get something to snack on, friends, because this is going to be a very long one!
 
 - This mysteriously dark sequence of Illuso running is also much brighter and sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA13/08 - illuso running.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA13/08 - illuso running.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1256,7 +1256,7 @@ Get something to snack on, friends, because this is going to be a very long one!
 
 - Let's take a look at the eyecatch! Here you go:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA13/09 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA13/09 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1464,7 +1464,7 @@ Get something to snack on, friends, because this is going to be a very long one!
 
 - For some reason this animation started out with a couple of black frames in the TV version; this is not the case in the BDs:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA13/10 - no black frames.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA13/10 - no black frames.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1904,7 +1904,7 @@ Get something to snack on, friends, because this is going to be a very long one!
 
 - While this Evangelion-looking Purple Haze beatdown is brighter...:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA13/11 - evangelion beatdown.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA13/11 - evangelion beatdown.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -2024,7 +2024,7 @@ Get something to snack on, friends, because this is going to be a very long one!
 
 - Let's have one last brighter and sharper animation, shall we:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA13/12 - bs snake poke.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA13/12 - bs snake poke.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

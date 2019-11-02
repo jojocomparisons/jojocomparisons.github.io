@@ -85,7 +85,7 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - This bit of Joseph being a joker has been redrawn, and the animation is slightly different:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT13/01 - happy urepy.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT13/01 - happy urepy.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -243,7 +243,7 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 <br>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT13/02 - hol horse reference.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT13/02 - hol horse reference.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -271,7 +271,7 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - These shots now have a moving background in the BDs:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT13/03-04 - background.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT13/03-04 - background.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -322,7 +322,7 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 <br>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT13/05 - santana.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT13/05 - santana.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -392,14 +392,14 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - This shot is more centered:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT13/06 - centered.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT13/06 - centered.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And in this part here, Joseph has his eyes closed for the first few frames of the BD version:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT13/07 - eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT13/07 - eyes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -452,14 +452,14 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - And a proper brighter shot here:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT13/08 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT13/08 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - This other animation here is not only sharper and brighter as usual, but you'll notice the timing of the punch is a bit different; moreover, most frames have been redrawn, and Joseph's mouth is different:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT13/09 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT13/09 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -592,7 +592,7 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 <br>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT13/10 - foot knife.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT13/10 - foot knife.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -710,7 +710,7 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - This animation of Joseph tearing Santana apart is different. The hamon effects are flashier and Santana's body parts circle around Joseph:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT13/11 - rip in pepperoni.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT13/11 - rip in pepperoni.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -763,14 +763,14 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - And here we have another pretty gory bit:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT13/12 - rest in pieces.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT13/12 - rest in pieces.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Every frame of this sequence has been more or less redrawn, and you know what this calls for! Video+image comparison incoming:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT13/13 - alice in chains.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT13/13 - alice in chains.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -886,14 +886,14 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - This animation is (you know the drill) Brighter & Sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT13/14 - axe.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT13/14 - axe.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - As is this other transition:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT13/15 - transition.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT13/15 - transition.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -923,7 +923,7 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - ...Ugh. Just... Ugh. It's slightly darker. It's uncensored. Ugh:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT13/16 - leg wound.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT13/16 - leg wound.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1018,7 +1018,7 @@ Hello again, everyone! Welcome back for another healthy dose of nazis, aztecs an
 
 - This scene is more zoomed in:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT13/17 - zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT13/17 - zoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

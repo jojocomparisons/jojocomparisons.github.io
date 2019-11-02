@@ -18,12 +18,12 @@ Hey hey hey, everybody! I know that you're all sad and heart-broken now that Dia
 
 - Let's begin this (small) comparison with a couple of brighter and sharper shots:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU15/01 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU15/01 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU15/02 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU15/02 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -99,7 +99,7 @@ Hey hey hey, everybody! I know that you're all sad and heart-broken now that Dia
 
 - Here we have a very satisfyingly sharper and brighter beatdown sequence:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU15/03 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU15/03 - brighter 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -150,7 +150,7 @@ Hey hey hey, everybody! I know that you're all sad and heart-broken now that Dia
 
 <br>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU15/04 - shaking.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU15/04 - shaking.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

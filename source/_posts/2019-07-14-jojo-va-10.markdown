@@ -64,21 +64,21 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 
 - And the frame now shakes towards the end! Check it out:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA10/01 - formaggio shake.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA10/01 - formaggio shake.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - This animation here is brighter and sharper...:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA10/02 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA10/02 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And this other bit is MUCH brighter:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA10/03 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA10/03 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -171,7 +171,7 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 
 - Here's the usual mid-episode eyecatch:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA10/04 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA10/04 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -417,7 +417,7 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 
 <br>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA10/05 - sorbet.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA10/05 - sorbet.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -470,7 +470,7 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 
 - This bit of Aerosmith shooting is brighter and sharper...:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA10/06 - aerosmith.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA10/06 - aerosmith.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -500,7 +500,7 @@ Hello again! Funny how quickly time passes sometimes, huh? Well, let's get strai
 
 - And one last brighter Aerosmith for the road... I actually think this is exactly the same video from before mirrored horizontally:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA10/07 - aerosmith 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA10/07 - aerosmith 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

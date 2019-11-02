@@ -206,7 +206,7 @@ Let's get right to it!
 
 - The background in this scene rotates, and Josuke starts from farther away from Jotaro and slowly shifts towards him:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU25/01 - rotating bg.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU25/01 - rotating bg.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -592,7 +592,7 @@ Let's get right to it!
 
 - ...the staples fly differently...:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU25/02 - staples.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU25/02 - staples.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -829,7 +829,7 @@ Let's get right to it!
 
 - This bit is way more zoomed out, there's no pan and we can see Shinobu walk up the stairs. The transition to Kira's closeup face also happens a bit later and it's a clear cut, without a fade:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU25/03 - stairs.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU25/03 - stairs.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1041,7 +1041,7 @@ Let's get right to it!
 
 - And this final transition is different, with Kira having already been substituted with Kosaku:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU25/04 - diamond j.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU25/04 - diamond j.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

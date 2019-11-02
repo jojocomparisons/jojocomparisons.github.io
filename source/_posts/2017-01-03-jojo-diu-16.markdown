@@ -292,7 +292,7 @@ Let's go!
 
 - This part here is so disgusting you just have to watch the whole thing:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU16/01 - melting hand.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU16/01 - melting hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -435,12 +435,12 @@ Let's go!
 
 - But let's go back to what really matters! Melting limbs!:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU16/02 - melting arm.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU16/02 - melting arm.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU16/03 - melting leg.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU16/03 - melting leg.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

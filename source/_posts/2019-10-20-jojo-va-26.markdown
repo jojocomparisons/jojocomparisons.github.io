@@ -453,7 +453,7 @@ Let's begin!
 
 - ...and she moves her mouth more often in the BD version:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA26/01 - doppio's mother.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA26/01 - doppio's mother.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1053,7 +1053,7 @@ Let's begin!
 
 - ...and while Doppio walks towards the kid, his right arm and leg no longer temporarily go out of the shadows:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA26/02 - doppio walk.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA26/02 - doppio walk.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1722,7 +1722,7 @@ Let's begin!
 
 - In addition, when he turns to look at Risotto, as you can see, most things are different! Check it out:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA26/03 - doppio turn.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA26/03 - doppio turn.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -2119,7 +2119,7 @@ Let's begin!
 
 - Here, Risotto walks a little straighter...:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA26/04 - risotto walk.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA26/04 - risotto walk.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -2499,7 +2499,7 @@ Let's begin!
 
 - This shot now moves around much more, has some additional motion lines on the sides of the frame and Doppio's hand is now on a different layer from the rest, meaning that it moves at a different speed from the background and makes for a slightly more parallaxed shot:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA26/05 - blahahshghh.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA26/05 - blahahshghh.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

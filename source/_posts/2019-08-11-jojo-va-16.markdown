@@ -68,7 +68,7 @@ Let's go!
 
 - This bit here has better contrast:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA16/01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA16/01 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -343,7 +343,7 @@ Let's go!
 
 - Let's take a look at the brighter eyecatch for today's episode:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA16/02 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA16/02 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -394,7 +394,7 @@ Let's go!
 
 - This brief animation is brighter and sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA16/03 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA16/03 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -648,7 +648,7 @@ Let's go!
 
 - This scene is... darker and sharper?:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA16/04 - darker and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA16/04 - darker and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -764,7 +764,7 @@ Let's go!
 
 - I love it! Let's watch it in motion, just because:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA16/05 - sticky fingers.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA16/05 - sticky fingers.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -794,21 +794,21 @@ Let's go!
 
 - This beatdown is brighter...:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA16/06 - brighter beatdown.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA16/06 - brighter beatdown.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And this is brighter AND sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA16/07 - brighter and sharper beatdown.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA16/07 - brighter and sharper beatdown.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Let's conclude this post with a second eyecatch:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA16/08 - eyecatch 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA16/08 - eyecatch 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

@@ -219,7 +219,7 @@ The frames themselves, however, will be more or less the same, since thankfully 
 
 - This animation of Crazy Diamond is sharper and brighter:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU02/01 - crazy diamond.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU02/01 - crazy diamond.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -249,21 +249,21 @@ The frames themselves, however, will be more or less the same, since thankfully 
 
 - This horizontal pan has been slightly zoomed in:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU02/02 - angelo pan.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU02/02 - angelo pan.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - As with all the beatdown animations, Crazy Diamond punching Angelo has been sharpened and made brighter:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU02/03 - angelo beatdown.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU02/03 - angelo beatdown.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Josuke's mouth flap has been slightly changed here:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU02/04 - josuke talking.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU02/04 - josuke talking.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

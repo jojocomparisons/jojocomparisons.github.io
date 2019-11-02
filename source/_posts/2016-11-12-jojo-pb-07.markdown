@@ -106,7 +106,7 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 
 - Just look for yourself! This scene looks so different that I had to include a video or I felt that you wouldn't even believe me:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB07/01 - zepweed.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB07/01 - zepweed.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -180,17 +180,17 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 
 - Here we have three brighter animations:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB07/02 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB07/02 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB07/03 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB07/03 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB07/04 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB07/04 - brighter 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -289,7 +289,7 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 
 - Here, everything has a more dramatic light and colour:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB07/05 - jonathan.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB07/05 - jonathan.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -635,7 +635,7 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 
 - In this scene, they've uncensored the mother eating her baby's face off (even though it was only a shadow):
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB07/06 - shadow.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB07/06 - shadow.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -709,7 +709,7 @@ Hello, everybody, and welcome back! Sorry for the long-ish silence, but as I sai
 
 - In this scene here, everything is redrawn and Jonathan walks in a different direction:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB07/07 - jowalk.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB07/07 - jowalk.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

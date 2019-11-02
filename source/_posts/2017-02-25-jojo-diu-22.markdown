@@ -141,7 +141,7 @@ Let's get right to it!
 
 - Shigechi's explosion has been, of course, uncensored, as you can see here:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU22/01 - shigechi.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU22/01 - shigechi.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -661,7 +661,7 @@ Let's get right to it!
 
 - That poor dude's hand has been uncensored:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU22/02 - SHA.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU22/02 - SHA.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -691,7 +691,7 @@ Let's get right to it!
 
 - Man, Kira loves women's hands but he really has no respect for men's, huh:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU22/03 - finger.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU22/03 - finger.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

@@ -43,7 +43,7 @@ Let's begin, shall we?
 
 - Here, Pericolo's walking animation has been redrawn a little bit, and some shades on his arms and back have been retouched as well:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA09/01 - do the pericolo.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA09/01 - do the pericolo.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -138,19 +138,19 @@ Let's begin, shall we?
 
 - Let's have a good look at this brighter and sharper Aerosmith:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA09/02 - aerosmith.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA09/02 - aerosmith.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And here, this explosion is much brighter:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA09/03 - explosion 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA09/03 - explosion 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA09/04 - explosion 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA09/04 - explosion 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

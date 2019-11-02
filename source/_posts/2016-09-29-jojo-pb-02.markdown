@@ -533,7 +533,7 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 
 - This whole animation has been redrawn, and the background is blurrier (I've also added an image comparison because this is a particularly huge redraw):
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB02/01 - objection.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB02/01 - objection.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -651,28 +651,28 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 
 - This animation is slightly brighter and uncensored:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB02/02 - speedhat.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB02/02 - speedhat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - This other one has been uncensored (and I honestly don't get why it was in the first place):
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB02/03 - bottle.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB02/03 - bottle.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - As was this other animation (if you look closely, you can see that the dude walking in the foreground has also been moved slightly to the left):
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB02/04 - smashmouth.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB02/04 - smashmouth.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And another one:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB02/05 - dagger.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB02/05 - dagger.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -702,21 +702,21 @@ Welcome back! Today we'll take a look at Episode #02 of Phantom Blood. A treache
 
 - Alright, let's go back to the interesting stuff:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB02/06 - gimmethat.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB02/06 - gimmethat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Now you can see this dude's messed up hand in all its g(l)ory:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB02/07 - hand.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB02/07 - hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - The thunders in this scene are brighter:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB02/08 - thunder.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB02/08 - thunder.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

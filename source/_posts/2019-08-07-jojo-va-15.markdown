@@ -41,7 +41,7 @@ Hello again, friends! Long time no see! Shall we dive right into this comparison
 
 - And let's whizz right to the eyecatch:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA15/01 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA15/01 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

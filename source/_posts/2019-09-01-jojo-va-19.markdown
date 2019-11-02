@@ -22,7 +22,7 @@ Let's get into it!
 
 - Today's first comparison is this video which you have already seen in the previous comparison - here, however, the TV version is different from the previous comparison's! Check it out:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA19/01 - mista scream.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA19/01 - mista scream.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -75,7 +75,7 @@ Let's get into it!
 
 - This nice animation is brighter and sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA19/02 - brighter punch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA19/02 - brighter punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -126,21 +126,21 @@ Let's get into it!
 
 <br>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA19/03 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA19/03 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Oh-ho, what do we have here? A completely different bit? You shouldn't have, David:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA19/04 - different ghiaccio.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA19/04 - different ghiaccio.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - This creeping ice animation is also looking different and that Mista at the end is looking... worse?:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA19/05 - creeping ice.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA19/05 - creeping ice.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -168,31 +168,31 @@ Let's get into it!
 
 - But let's go back to the good things! These three handsome shots of Mista shooting have been completely redrawn:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA19/06 - mista shoot 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA19/06 - mista shoot 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA19/07 - mista shoot 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA19/07 - mista shoot 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA19/08 - mista shoot 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA19/08 - mista shoot 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - This scene has been completely redrawn as well:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA19/09 - mista poke.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA19/09 - mista poke.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Have another different Mista, baby:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA19/10 - mista shoot 4.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA19/10 - mista shoot 4.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -222,7 +222,7 @@ Let's get into it!
 
 - And here we have another different scene! Woo-hoo:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA19/11 - ghiaccio point.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA19/11 - ghiaccio point.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -275,7 +275,7 @@ Let's get into it!
 
 - Let's take a look at the eyecatach:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA19/12 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA19/12 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -303,7 +303,7 @@ Let's get into it!
 
 - This animation here is brighter, the shading on Giorno is different and softer and the sparkling background is more dynamic:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA19/13 - sparkly giorno.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA19/13 - sparkly giorno.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -331,7 +331,7 @@ Let's get into it!
 
 - This animation is also different...:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA19/14 - mista run.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA19/14 - mista run.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -499,7 +499,7 @@ Let's get into it!
 
 - This animation is brighter and sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA19/15 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA19/15 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -573,7 +573,7 @@ Let's get into it!
 
 - Oh, what a beautiful different animation to close this comparison on! What a wonderful addition to this episode! Here, feast your eyes on poor Narancia learning about the birds and the bees:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA19/16 - shocked narancia.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA19/16 - shocked narancia.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

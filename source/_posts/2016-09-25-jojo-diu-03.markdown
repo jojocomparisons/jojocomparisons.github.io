@@ -18,7 +18,7 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 
 - The scene of Keicho shooting Angelo has got brighter whites (I'm noticing this kind of bright scenes usually get dimmed down in the broadcast version, I wonder if there are some laws regulating the brightness of broadcasts in Japan):
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU03/01 - whiteout.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU03/01 - whiteout.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -71,7 +71,7 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 
 - Keicho's eyes have received a snakeskin-like makeover:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU03/02 - eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU03/02 - eyes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -101,7 +101,7 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 
 - The zoom has been pulled slightly closer here:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU03/03 - enyazoom.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU03/03 - enyazoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -217,7 +217,7 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
 
 - The animation of Crazy Diamond going back into Josuke is slightly smoother:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU03/04 - crazy diamond.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU03/04 - crazy diamond.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

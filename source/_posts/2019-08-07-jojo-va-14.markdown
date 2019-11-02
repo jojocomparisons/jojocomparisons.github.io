@@ -68,7 +68,7 @@ Shall we start?
 
 - This choo choo sequence is brighter and sharper (especially towards the end):
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA14/01 - choo choo.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA14/01 - choo choo.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -96,7 +96,7 @@ Shall we start?
 
 - Let's take a look at the eyecatch for this episode:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA14/02 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA14/02 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

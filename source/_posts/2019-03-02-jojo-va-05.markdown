@@ -110,7 +110,7 @@ Let's get going!
 
 - Abbacchio now *actually* drinks his tea instead of just sitting there looking catatonic:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA05/01 - abbacchio.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA05/01 - abbacchio.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

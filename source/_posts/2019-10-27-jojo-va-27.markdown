@@ -64,7 +64,7 @@ Prepare yourselves!
 
 <br>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA27/01 - doppio scissors.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA27/01 - doppio scissors.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -232,14 +232,14 @@ Prepare yourselves!
 
 - It's eyecatch time, friends:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA27/02 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA27/02 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Going back to the past once again, here we have a Prosciutto flipping through a book! The page-flipping animation has been redrawn and looks nicer:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA27/03 - prosciutto book flip.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA27/03 - prosciutto book flip.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -269,7 +269,7 @@ Prepare yourselves!
 
 - In this scene, Doppio turns around only twice (as opposed to the four times he turns around in the TV version, which is double that, which in Italian is... "doppio"):
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA27/04 - doppio turn.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA27/04 - doppio turn.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -341,7 +341,7 @@ Prepare yourselves!
 
 <br>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA27/05 - risotto fall.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA27/05 - risotto fall.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -436,7 +436,7 @@ Prepare yourselves!
 
 <br>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA27/06 - doppio black spot.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA27/06 - doppio black spot.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

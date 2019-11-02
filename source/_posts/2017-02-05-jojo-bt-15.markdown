@@ -177,14 +177,14 @@ Without further ado then, let's get right to it!
 
 - The bubbles at the end of the animation are sharper and brighter:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT15/01 - bubbles.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT15/01 - bubbles.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Ah, them pesky bubbles at it again! They move way faster in the BDs:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT15/02 - bubbles 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT15/02 - bubbles 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -597,7 +597,7 @@ Without further ado then, let's get right to it!
 
 - A textbook example of SHARPER AND BRIGHTER here:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT15/03 - clackerballs.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT15/03 - clackerballs.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -673,7 +673,7 @@ Without further ado then, let's get right to it!
 
 - This animation of Joseph hitting Wham with his clackers is different and has different colours:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT15/04 - clacker wham.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT15/04 - clacker wham.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -743,7 +743,7 @@ Without further ado then, let's get right to it!
 
 <br>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT15/05 - divine sandstorm.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT15/05 - divine sandstorm.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1336,7 +1336,7 @@ Without further ado then, let's get right to it!
 
 - And this zoom here starts from farther out but ends up closer:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT15/06 - wham zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT15/06 - wham zoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

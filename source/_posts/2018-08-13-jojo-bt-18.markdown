@@ -1061,7 +1061,7 @@ Let's go!
 
 - The blood effects in this scene are darker:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT18/01 - darker blood.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT18/01 - darker blood.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1204,7 +1204,7 @@ Let's go!
 
 - And, towards the end of the shot, there's a much brighter light:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT18/02 - brighter light.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT18/02 - brighter light.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

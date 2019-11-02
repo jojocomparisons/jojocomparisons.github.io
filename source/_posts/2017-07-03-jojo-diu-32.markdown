@@ -725,7 +725,7 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 
 - Here we have a bad case of the ol' brighter and sharper, and the fangirls' tattoos have all been redone (...they are tattoos, right?):
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU32/01 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU32/01 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1188,7 +1188,7 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 
 - And, a bit later during the same scene, Josuke turns away from Yuuya way later in the BDs:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU32/02 - talk to the hand.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU32/02 - talk to the hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1218,7 +1218,7 @@ Hey there, and welcome back! Today we're going to take a look at Episode #32, "J
 
 - And he's no longer trembling during that scene:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU32/03 - trembling.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU32/03 - trembling.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

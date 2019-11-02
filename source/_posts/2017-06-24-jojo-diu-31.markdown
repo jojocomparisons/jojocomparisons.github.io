@@ -306,14 +306,14 @@ Let's go!
 
 - This bit was a bit dark for some reason; this has been fixed in the BDs:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU31/01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU31/01 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And this transition is sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU31/02 - sharper transition.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU31/02 - sharper transition.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -883,7 +883,7 @@ Let's go!
 
 - Here we have another brighter 'n' sharper bit:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU31/03 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU31/03 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

@@ -213,33 +213,33 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 
 - This whole sequence is brighter and much sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC01/01 - run holly run.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC01/01 - run holly run.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - While this is _much_ brighter:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC01/02 - good memories.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC01/02 - good memories.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Another two brighter and sharper sequences of this good mom running, for your eyes only:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC01/03 - run holly run 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC01/03 - run holly run 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC01/04 - run holly run 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC01/04 - run holly run 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And now for a very insignificant change! The title of the episode fades out more... smoothly in the BDs. Have a very brief video and a comparison frame (because I doubt many of you will be able to actually see the difference in the video):
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC01/05 - quicker fade.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC01/05 - quicker fade.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -267,12 +267,12 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 
 - Have another couple of brighter and sharper animations here, this time of Avdol whipping out his charred bird:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC01/06 - charred bird 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC01/06 - charred bird 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC01/07 - charred bird 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC01/07 - charred bird 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -323,12 +323,12 @@ Hello hello hello, good people! Well met! I promised you the crusade of a lifeti
 
 - Moving on, these two clips of Joseph showing off his incredibly overpowered Stand are also brighter and sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC01/08 - camera smash 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC01/08 - camera smash 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC01/09 - camera crash 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC01/09 - camera crash 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

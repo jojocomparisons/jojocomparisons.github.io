@@ -18,7 +18,7 @@ Hello again! Fancy seeing you here, huh? Well, let's continue where we left off,
 
 - Today's first difference is... Something new from the opening? Huh! As I mentioned before, The OP they used in episodes #02 and #03 was temporary, and it had a couple of things that were fixed in the "final" version from episode #04 onwards. Well, the final version also dimmed another sequence that was brighter in the preliminary version; this has, of course, been made brighter again in the BD:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA04/01 - brighter op.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA04/01 - brighter op.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -48,21 +48,21 @@ Hello again! Fancy seeing you here, huh? Well, let's continue where we left off,
 
 - This bit of Gold Experience mudakicking Black Sabbath has been made satisfyingly brighter and sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA04/02 - mudakick.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA04/02 - mudakick.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - As has this one (even more satisfying):
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA04/03 - sketchymuda.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA04/03 - sketchymuda.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Nice! Let's take a look at the eyecatch, now:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA04/04 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA04/04 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -113,7 +113,7 @@ Hello again! Fancy seeing you here, huh? Well, let's continue where we left off,
 
 - The zoom in this scene is much smoother (it was only one frame in the TV version!):
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA04/05 - smoothzoom.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA04/05 - smoothzoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

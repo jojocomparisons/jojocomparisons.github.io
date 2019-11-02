@@ -177,12 +177,12 @@ Hello, peeps! Welcome to this week's comparison. Today we're going to take a loo
 
 - Let's get to today's main course: the torture dance! Two brief scenes in said dance have been made brighter:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA07/01 - torture dance 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA07/01 - torture dance 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA07/02 - torture dance 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA07/02 - torture dance 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -212,7 +212,7 @@ Hello, peeps! Welcome to this week's comparison. Today we're going to take a loo
 
 - Let's move on to the eyecatch:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA07/03 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA07/03 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -286,7 +286,7 @@ Hello, peeps! Welcome to this week's comparison. Today we're going to take a loo
 
 - This bit of Sex Pistols kicking the bullet is also brighter and sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA07/04 - sex pistols.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA07/04 - sex pistols.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

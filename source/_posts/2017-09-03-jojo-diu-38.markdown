@@ -85,7 +85,7 @@ Hail and well met, my dudes! Today we're going to take a look at DiU's second-to
 
 <br>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU38/01 - creep eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU38/01 - creep eyes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

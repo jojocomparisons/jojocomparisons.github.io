@@ -18,7 +18,7 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 
 - Let's begin this comparison with a video! Here, apart from the changes we saw in the last episode (I quote: "Here, Kira's shirt and tie have been redrawn, his neck has been shaded more and one of the lines on his eyes is a bit thicker"), we have a clock overlay, and Hayato's mouth now moves while he's talking:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU37/01 - mouth flap.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU37/01 - mouth flap.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -182,7 +182,7 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 
 - Here Okuyasu starts further away but actually moves towards the viewer. He also ends up a bit more to the left, and the 億 kanji has been drawn on his shoulder:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU37/02 - okuwalk.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU37/02 - okuwalk.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -302,7 +302,7 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 
 - Here we have one of them brighter and sharper beatdown sequences:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU37/03 - bns1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU37/03 - bns1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -489,14 +489,14 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 
 - Another brighter and sharper beatdown here:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU37/04 - bns2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU37/04 - bns2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Poor (uncensored) sweet boy...
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU37/05 - uncensored.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU37/05 - uncensored.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1030,7 +1030,7 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 
 - This very brief animation is actually _less_ sharp! But it works to create tension, I think:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU37/06 - click.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU37/06 - click.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1311,14 +1311,14 @@ Hey there, people, and welcome back to this blog. Today we're going to take a lo
 
 - And again here, and Hayato actually moves his mouth now:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU37/07 - hayatalk.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU37/07 - hayatalk.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - This bit here has a slight vignette, less flat colours, a slight distortion around the edges, more light and brighter godrays:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU37/08 - clouds.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU37/08 - clouds.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

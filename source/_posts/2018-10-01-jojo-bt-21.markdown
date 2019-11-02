@@ -198,7 +198,7 @@ Let's get this party started!
 
 - And, at the very end of this bit, she no longer turns around to face him:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT21/01 - wired beck.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT21/01 - wired beck.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -251,7 +251,7 @@ Let's get this party started!
 
 - Here, Joseph's face slides to the right waaay more slowly:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT21/02 - joseph slide.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT21/02 - joseph slide.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1286,7 +1286,7 @@ Let's get this party started!
 
 - This fire is a little brighter...:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT21/03 - brighter fire.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT21/03 - brighter fire.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

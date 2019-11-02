@@ -358,7 +358,7 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 
 - The camera in this scene is more zoomed-in, and moves around way more:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA20/01 - bucce camera.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA20/01 - bucce camera.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -503,7 +503,7 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 
 - And the shot actually moves in the BD version, revealing two... singularly ugly boats:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA20/02 - moving boat shot.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA20/02 - moving boat shot.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -851,7 +851,7 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 
 - ... and the figures in the foreground move faster, because the BDs added an extra one, at the end:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA20/03 - drug dance.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA20/03 - drug dance.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -902,7 +902,7 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 
 - Here, Diavolo descends the aforementioned beam slightly differently:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA20/04 - steel beeeeeem.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA20/04 - steel beeeeeem.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -955,7 +955,7 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 
 - In this shot, Buccellati and the banister behind him move in opposite directions! Neat:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA20/05 - buccellanister.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA20/05 - buccellanister.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1094,7 +1094,7 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 
 <br>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA20/06 - king crimson.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA20/06 - king crimson.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1187,7 +1187,7 @@ Hello and welcome back, friends! Sorry about the short hiatus, but as I explaine
 
 - ... and, in the BD version, he stays still at the end:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA20/07 - buccellati kc.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA20/07 - buccellati kc.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

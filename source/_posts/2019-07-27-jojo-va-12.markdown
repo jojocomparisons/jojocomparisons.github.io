@@ -68,7 +68,7 @@ Let's get started, then!
 
 - And the background outside the car has been slowed down a tad, so that it no longer looks like they're going at 500 km/h:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA12/01 - fast car.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA12/01 - fast car.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -295,19 +295,19 @@ Let's get started, then!
 
 - Let's skip quite a bit ahead to a couple of brighter punches to our favourite sour boy:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA12/02 - fugo punch 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA12/02 - fugo punch 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA12/03 - fugo punch 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA12/03 - fugo punch 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Let's move on to this week's eyecatch:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA12/04 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA12/04 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -423,7 +423,7 @@ Let's get started, then!
 
 - Here, Purple Haze's breath has been completely redone:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA12/05 - purple haze breath.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA12/05 - purple haze breath.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

@@ -380,7 +380,7 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 
 - This scene of Dio grabbing Jonathan's arm has been entirely redrawn:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB01/01 - armgrab.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB01/01 - armgrab.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -410,7 +410,7 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 
 - This punching animation is brighter:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB01/02 - punch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB01/02 - punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -486,35 +486,35 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 
 - As usual, this animation is brighter:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB01/03 - fire.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB01/03 - fire.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - As is this other brief animation...
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB01/04 - standup.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB01/04 - standup.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - ...And this (very majestic) jacket floating down:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB01/05 - coat.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB01/05 - coat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - This flashback sequence has also been brightened and sharpened:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB01/06 - flashback.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB01/06 - flashback.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And this punch has been cleaned and slightly redrawn towards the end:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB01/07 - punch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB01/07 - punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

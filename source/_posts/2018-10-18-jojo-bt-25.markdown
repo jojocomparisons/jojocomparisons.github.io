@@ -137,7 +137,7 @@ Let's get going!
 
 - And the camera also shakes around more:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT25/01 - do the squirrel shake.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT25/01 - do the squirrel shake.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -188,7 +188,7 @@ Let's get going!
 
 - Kars' butterfly-hand flaps its wings more:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT25/02 - butterflap.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT25/02 - butterflap.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -633,14 +633,14 @@ Let's get going!
 
 - This bit is a little sharper, the colours are a little more saturated and the camera shakes a little bit more:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT25/03 - speedshake.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT25/03 - speedshake.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And this is brighter _and_ sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT25/04 - pew pew.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT25/04 - pew pew.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -850,7 +850,7 @@ Let's get going!
 
 - This animation is also a _tiny bit_ sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT25/05 - maybe sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT25/05 - maybe sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

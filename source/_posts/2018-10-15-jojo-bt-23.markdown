@@ -225,7 +225,7 @@ Without further ado then, let's dive in!
 
 - This animation is brighter:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT23/01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT23/01 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -967,7 +967,7 @@ Without further ado then, let's dive in!
 
 - The onomatopoeia appears with a different animation, here:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT23/02 - onomatopoeia.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT23/02 - onomatopoeia.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1087,7 +1087,7 @@ Without further ado then, let's dive in!
 
 - And the animation itself is different too:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT23/03 - leguitar.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT23/03 - leguitar.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

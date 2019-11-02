@@ -45,7 +45,7 @@ Let's go!
 
 - Here, the dude in the back starts farther away from the camera and walks faster, in a more convincing manner:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU20/01 - walking dude.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU20/01 - walking dude.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -232,12 +232,12 @@ Let's go!
 
 - These two bits are BRIGHTER AND SHARPER:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU20/02 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU20/02 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU20/03 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU20/03 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -288,7 +288,7 @@ Let's go!
 
 - Another brighter and sharper video for your eyes only:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU20/04 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU20/04 - brighter 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

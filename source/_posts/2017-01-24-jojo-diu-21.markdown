@@ -558,7 +558,7 @@ Let's get right to it!
 
 - Shigechi walks slower here:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU21/01 - shigechi walking.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU21/01 - shigechi walking.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -927,7 +927,7 @@ Let's get right to it!
 
 - In this bit of Kira turning, he briefly closes his eyes in BD; when he opens them back, they're also slightly different:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU21/02 - closed eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU21/02 - closed eyes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

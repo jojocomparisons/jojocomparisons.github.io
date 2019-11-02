@@ -18,7 +18,7 @@ Good morning, evening, afternoon, night and whatever else might be appropriate f
 
 - Today's first difference is (surprise surprise!) a brighter animation:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC02/01 - brighter fall.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC02/01 - brighter fall.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -46,7 +46,7 @@ Good morning, evening, afternoon, night and whatever else might be appropriate f
 
 <br>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC02/02 - Katayama.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC02/02 - Katayama.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -160,7 +160,7 @@ Good morning, evening, afternoon, night and whatever else might be appropriate f
 
 - This lovely lovely scene is now uncensored:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC02/03 - owie.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC02/03 - owie.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -230,7 +230,7 @@ Good morning, evening, afternoon, night and whatever else might be appropriate f
 
 - And this first appearance of fan-favourite Hierophant Green is looking brighter and sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC02/04 - EMERARUDO SUPURASSHU.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC02/04 - EMERARUDO SUPURASSHU.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

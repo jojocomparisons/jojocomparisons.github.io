@@ -18,7 +18,7 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 
 - Very aptly, the first difference of this episode is this very brief animation, which is brighter and a bit cleaner:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB06/01 - brighter punch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB06/01 - brighter punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -117,7 +117,7 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 
 - This panning shot is slightly different in the BDs, and the Hamon sparks on Bruford's sword have been redrawn:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB06/02 - bruford pan.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB06/02 - bruford pan.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>  
 </video>
@@ -170,17 +170,17 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 
 - The three following sequences have all received the usual brighter-and-sharper treatment:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB06/03 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB06/03 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB06/04 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB06/04 - brighter 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB06/05 - brighter 4.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB06/05 - brighter 4.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -233,7 +233,7 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 
 - And the scene in which his body starts to crumble because of Jonathan's Hamon has been uncensored:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB06/06 - legs.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB06/06 - legs.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -378,7 +378,7 @@ Hello there, and welcome back! Today we'll take a look at Episode #06 of Phantom
 
 - This scene of Tarkus smashing into the tower has a *slightly* different timing:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB06/07 - tarkus.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB06/07 - tarkus.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

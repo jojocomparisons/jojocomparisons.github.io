@@ -39,7 +39,7 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 
 <br>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU27/01 - mikitaka arrow.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU27/01 - mikitaka arrow.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -467,7 +467,7 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 
 - In the TV version of this bit here, the chair was sort of... vibrating:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU27/05 - vibrating chair.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU27/05 - vibrating chair.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -520,7 +520,7 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 
 - The definitive version of the opening also has a fade transition between this sequence and the following one, instead of just cutting to it:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU27/11 - fade transition.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU27/11 - fade transition.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -550,7 +550,7 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 
 - The bit where Shinobu splits into multiple copies is different:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU27/06 - shinobu split.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU27/06 - shinobu split.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -649,7 +649,7 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 
 - ...that's because the animation itself is completely different! Check it out:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU27/07 - GYAAN.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU27/07 - GYAAN.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -679,7 +679,7 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 
 - This bit is also completely different:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU27/08 - ZGYUN.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU27/08 - ZGYUN.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -864,12 +864,12 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 
 - Well... Everything is different, at the end! The temporary TV version re-used some bits from episode #25, while the BD version has newly drawn sequences:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU27/09 - all new 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU27/09 - all new 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU27/10 - all new 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU27/10 - all new 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1247,7 +1247,7 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 
 - In addition, the beginning of the previous scene is also hilarious, as we can see that David pro decided to scrap that whole storyline about Shinobu practicing going up an invisible stair to prepare for her long-awaited mime debut:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU27/02 - invisible stairs.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU27/02 - invisible stairs.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1489,7 +1489,7 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 
 - Alright, let's have a little breather with an animation! Here, as you can see, the very static TV version (which was basically just one frame) was replaced with a montage of some (really cute) animations of Shinobu fidgeting and waiting for Kira to do or say something. Needless to say, both her and Kira have been obviously redrawn:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU27/03 - shinobu fidgeting.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU27/03 - shinobu fidgeting.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1519,7 +1519,7 @@ Hey everybody, and welcome back to JoJo's Semi-Weekly Comparisons (sorry about l
 
 - ...and she has also received an additional animation:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU27/04 - added animation.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU27/04 - added animation.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

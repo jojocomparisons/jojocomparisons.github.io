@@ -22,7 +22,7 @@ Alright, let's begin!
 
 - The first difference here is yet another brighter and sharper animation:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA25/01 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA25/01 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -115,7 +115,7 @@ Alright, let's begin!
 
 - Let's take a quick look at the usual brighter and sharper eyecatch for this episode:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA25/02 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA25/02 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -208,7 +208,7 @@ Alright, let's begin!
 
 - This animation of the gang mom yelling at her gang children is now slightly brighter:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA25/03 - angry mom.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA25/03 - angry mom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -236,7 +236,7 @@ Alright, let's begin!
 
 - The white-out at the end of this (very pretty) animation is brighter:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA25/04 - whiteout.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA25/04 - whiteout.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -264,7 +264,7 @@ Alright, let's begin!
 
 - Have a couple of nice brighter and sharper animation, fellas:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA25/05 - bs 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA25/05 - bs 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -290,7 +290,7 @@ Alright, let's begin!
 
 <br>
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA25/06 - bs 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA25/06 - bs 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -341,7 +341,7 @@ Alright, let's begin!
 
 - Aaaand here we have some slashes with better contrast:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA25/07 - slashes.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA25/07 - slashes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

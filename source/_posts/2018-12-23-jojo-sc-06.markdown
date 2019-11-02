@@ -45,7 +45,7 @@ Let's go!
 
 - Let's move on to the main course: shark sashimi! Bone apple teeh!:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC06/01 - shark sashimi.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC06/01 - shark sashimi.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -205,7 +205,7 @@ Let's go!
 
 - This very dynamic scene of Captain Tennille snatching the incriminated object away from that poor teenager's innocent lips is brighter and sharper:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC06/02 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC06/02 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -302,7 +302,7 @@ Let's go!
 
 - Another brighter and sharper animation for your bright and sharp eyes only:
 
-<video class='center' muted nocontrols autoplay playsinline loop preload='auto'>
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC06/03 - explosion.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC06/03 - explosion.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
