@@ -133,7 +133,7 @@ gulp.task('resize', gulp.series('create-responsive', 'move', 'clean'));
 
 gulp.task('resize-headers', function () {
   return gulp
-    .src('source/images/HOWTO/header.jpg')
+    .src('source/images/VA28/*header.jpg')
     .pipe(
       $.responsive(
         {
@@ -157,7 +157,7 @@ gulp.task('resize-headers', function () {
         }
       )
     )
-    .pipe(gulp.dest('source/images/HOWTO'))
+    .pipe(gulp.dest('source/images/VA28'))
 });
 
 gulp.task('count', function() {

@@ -237,6 +237,27 @@ Prepare yourselves!
   <source src="./../videos/VA27/02 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA27/tv-17430-1090px.jpg"
+ data-srcset="./../images/VA27/tv-17430-512px.jpg 512w,
+ ./../images/VA27/tv-17430-768px.jpg 768w,
+ ./../images/VA27/tv-17430-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA27/bd-17430-1090px.jpg"
+ data-srcset="./../images/VA27/bd-17430-512px.jpg 512w,
+ ./../images/VA27/bd-17430-768px.jpg 768w,
+ ./../images/VA27/bd-17430-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
 - Going back to the past once again, here we have a Prosciutto flipping through a book! The page-flipping animation has been redrawn and looks nicer:
 
 <video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>

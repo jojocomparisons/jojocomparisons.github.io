@@ -1,0 +1,383 @@
+---
+layout: post
+title: "Vento Aureo #28 - Beneath a Looming Sky"
+date: 2019-11-03 18:51:04 +0100
+comments: true
+categories: va
+---
+
+{% img width="100%" height="100%" center /images/VA28/28-header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello hello, friends! Welcome back. We are here today to pay our respects to a fallen ally and friend... And also to see how much better the episode that depicts his death has been made in the Bluray version! In other words - it's time to take a look at Vento Aureo #28, "Beneath a Looming Sky" (non-literal translation)!
+
+<br>
+
+Let's go (get killed in Sardinia)!
+
+<br>
+
+- Today's first difference is this scene, in which both Narancia and Abbacchio are drawn with sliiightly thinner lines:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/tv-03195-1090px.jpg"
+ data-srcset="./../images/VA28/tv-03195-512px.jpg 512w,
+ ./../images/VA28/tv-03195-768px.jpg 768w,
+ ./../images/VA28/tv-03195-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/bd-03195-1090px.jpg"
+ data-srcset="./../images/VA28/bd-03195-512px.jpg 512w,
+ ./../images/VA28/bd-03195-768px.jpg 768w,
+ ./../images/VA28/bd-03195-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Risotto's blood is darker and more textured, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/tv-05760-1090px.jpg"
+ data-srcset="./../images/VA28/tv-05760-512px.jpg 512w,
+ ./../images/VA28/tv-05760-768px.jpg 768w,
+ ./../images/VA28/tv-05760-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/bd-05760-1090px.jpg"
+ data-srcset="./../images/VA28/bd-05760-512px.jpg 512w,
+ ./../images/VA28/bd-05760-768px.jpg 768w,
+ ./../images/VA28/bd-05760-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/tv-06540-1090px.jpg"
+ data-srcset="./../images/VA28/tv-06540-512px.jpg 512w,
+ ./../images/VA28/tv-06540-768px.jpg 768w,
+ ./../images/VA28/tv-06540-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/bd-06540-1090px.jpg"
+ data-srcset="./../images/VA28/bd-06540-512px.jpg 512w,
+ ./../images/VA28/bd-06540-768px.jpg 768w,
+ ./../images/VA28/bd-06540-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The blood is looking less flat here too, and in addition most lines on Doppio are thicker and the bottom-right of the frame is darker:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/tv-06811-1090px.jpg"
+ data-srcset="./../images/VA28/tv-06811-512px.jpg 512w,
+ ./../images/VA28/tv-06811-768px.jpg 768w,
+ ./../images/VA28/tv-06811-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/bd-06811-1090px.jpg"
+ data-srcset="./../images/VA28/bd-06811-512px.jpg 512w,
+ ./../images/VA28/bd-06811-768px.jpg 768w,
+ ./../images/VA28/bd-06811-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This Aerosmith pew pew shooty scene is, as usual, brighter...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/tv-07390-1090px.jpg"
+ data-srcset="./../images/VA28/tv-07390-512px.jpg 512w,
+ ./../images/VA28/tv-07390-768px.jpg 768w,
+ ./../images/VA28/tv-07390-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/bd-07390-1090px.jpg"
+ data-srcset="./../images/VA28/bd-07390-512px.jpg 512w,
+ ./../images/VA28/bd-07390-768px.jpg 768w,
+ ./../images/VA28/bd-07390-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In this creepy shot of Doppio, the sun is no longer shining behind his hair...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/tv-07560-1090px.jpg"
+ data-srcset="./../images/VA28/tv-07560-512px.jpg 512w,
+ ./../images/VA28/tv-07560-768px.jpg 768w,
+ ./../images/VA28/tv-07560-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/bd-07560-1090px.jpg"
+ data-srcset="./../images/VA28/bd-07560-512px.jpg 512w,
+ ./../images/VA28/bd-07560-768px.jpg 768w,
+ ./../images/VA28/bd-07560-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...And later, when King Crimson shows up, the aura has been moved from the stand to the stand user (along with the relative pink-ish softer shading):
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/tv-07620-1090px.jpg"
+ data-srcset="./../images/VA28/tv-07620-512px.jpg 512w,
+ ./../images/VA28/tv-07620-768px.jpg 768w,
+ ./../images/VA28/tv-07620-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/bd-07620-1090px.jpg"
+ data-srcset="./../images/VA28/bd-07620-512px.jpg 512w,
+ ./../images/VA28/bd-07620-768px.jpg 768w,
+ ./../images/VA28/bd-07620-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In the TV version of this shot, Aerosmith's propeller sort of... detached itself from the stand as the camera zoomed out; this has been fixed in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/tv-09074-1090px.jpg"
+ data-srcset="./../images/VA28/tv-09074-512px.jpg 512w,
+ ./../images/VA28/tv-09074-768px.jpg 768w,
+ ./../images/VA28/tv-09074-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/bd-09074-1090px.jpg"
+ data-srcset="./../images/VA28/bd-09074-512px.jpg 512w,
+ ./../images/VA28/bd-09074-768px.jpg 768w,
+ ./../images/VA28/bd-09074-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- A bunch of clouds are no longer semi-transparent, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/tv-14110-1090px.jpg"
+ data-srcset="./../images/VA28/tv-14110-512px.jpg 512w,
+ ./../images/VA28/tv-14110-768px.jpg 768w,
+ ./../images/VA28/tv-14110-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/bd-14110-1090px.jpg"
+ data-srcset="./../images/VA28/bd-14110-512px.jpg 512w,
+ ./../images/VA28/bd-14110-768px.jpg 768w,
+ ./../images/VA28/bd-14110-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Aerosmith's radar is showing one less blip, here...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/tv-14316-1090px.jpg"
+ data-srcset="./../images/VA28/tv-14316-512px.jpg 512w,
+ ./../images/VA28/tv-14316-768px.jpg 768w,
+ ./../images/VA28/tv-14316-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/bd-14316-1090px.jpg"
+ data-srcset="./../images/VA28/bd-14316-512px.jpg 512w,
+ ./../images/VA28/bd-14316-768px.jpg 768w,
+ ./../images/VA28/bd-14316-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In this shot, Narancia has taken out his Aerosmith:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/tv-17980-1090px.jpg"
+ data-srcset="./../images/VA28/tv-17980-512px.jpg 512w,
+ ./../images/VA28/tv-17980-768px.jpg 768w,
+ ./../images/VA28/tv-17980-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/bd-17980-1090px.jpg"
+ data-srcset="./../images/VA28/bd-17980-512px.jpg 512w,
+ ./../images/VA28/bd-17980-768px.jpg 768w,
+ ./../images/VA28/bd-17980-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's take a look at the usual eyecatch, friends:
+
+<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA28/01 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA28/01 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/tv-19130-1090px.jpg"
+ data-srcset="./../images/VA28/tv-19130-512px.jpg 512w,
+ ./../images/VA28/tv-19130-768px.jpg 768w,
+ ./../images/VA28/tv-19130-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/bd-19130-1090px.jpg"
+ data-srcset="./../images/VA28/bd-19130-512px.jpg 512w,
+ ./../images/VA28/bd-19130-768px.jpg 768w,
+ ./../images/VA28/bd-19130-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The lighting in this dramatic scene is different:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/tv-26195-1090px.jpg"
+ data-srcset="./../images/VA28/tv-26195-512px.jpg 512w,
+ ./../images/VA28/tv-26195-768px.jpg 768w,
+ ./../images/VA28/tv-26195-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/bd-26195-1090px.jpg"
+ data-srcset="./../images/VA28/bd-26195-512px.jpg 512w,
+ ./../images/VA28/bd-26195-768px.jpg 768w,
+ ./../images/VA28/bd-26195-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And here too, in the lower part of the background; in addition, the horizon line is less sharp and Buccellati's suit pattern is different:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/tv-28225-1090px.jpg"
+ data-srcset="./../images/VA28/tv-28225-512px.jpg 512w,
+ ./../images/VA28/tv-28225-768px.jpg 768w,
+ ./../images/VA28/tv-28225-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/bd-28225-1090px.jpg"
+ data-srcset="./../images/VA28/bd-28225-512px.jpg 512w,
+ ./../images/VA28/bd-28225-768px.jpg 768w,
+ ./../images/VA28/bd-28225-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Aaand here we have today's last one! The last different next time title...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/tv-34045-1090px.jpg"
+ data-srcset="./../images/VA28/tv-34045-512px.jpg 512w,
+ ./../images/VA28/tv-34045-768px.jpg 768w,
+ ./../images/VA28/tv-34045-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA28/bd-34045-1090px.jpg"
+ data-srcset="./../images/VA28/bd-34045-512px.jpg 512w,
+ ./../images/VA28/bd-34045-768px.jpg 768w,
+ ./../images/VA28/bd-34045-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And that concludes today's comparison! Just a few differences, nothing major. Speaking of differences... As I mentioned on my twitter, I've been trying to optimize the blog somewhat! Over the past few days I implemented lazy loading on all images and videos (which means that the page will only load what is currently showing instead of loading EVERY IMAGE and EVERY VIDEO all at once! Yeah, I know, I should have done that earlier) and responsive images (which means that there are now three versions of every image - a 1090px, a 768px and a 512px one). The browser should now serve the right one for your screen size, which should result on faster loading times on smaller screens. All in all, you should be having a smoother and faster browsing experience! You might see some "loading" images here and there, depending on your connection speed, but in my opinion that's a good trade-off for faster loading times at the beginning. Let me know if you see anything funky, though!
+
+<br>
+
+See you next time for Vento Aureo #29, "Destination - The Colosseo in Roma!"
+
+<br>
+
+Ciao!
+
+<br>
+
+{% img width="100%" height="100%" center /images/tobecontinued.png %}
