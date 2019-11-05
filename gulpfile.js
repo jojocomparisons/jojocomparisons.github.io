@@ -97,12 +97,12 @@ gulp.task('clean', function() {
 
 gulp.task('create-responsive', function () {
   return gulp
-    .src('source/images/HOWTO/*.png')
+    .src('../OCTOBACKUP/OLD IMAGES/**/*.jpg')
     .pipe(
       $.responsive(
         {
           // Resize all JPG images to three different sizes: 200, 500, and 630 pixels
-          '*': [
+          '**/*.jpg': [
             {
               width: 512,
               rename: { suffix: '-512px' }
@@ -120,13 +120,13 @@ gulp.task('create-responsive', function () {
         {
           // Global configuration for all images
           // The output quality for JPEG, WebP and TIFF output formats
-          quality: 70,
+          quality: 80,
           // Use progressive (interlace) scan for JPEG and PNG output
           progressive: true
         }
       )
     )
-    .pipe(gulp.dest('source/images/HOWTO'))
+    .pipe(gulp.dest('../OCTOBACKUP/80 quality'))
 });
 
 gulp.task('resize', gulp.series('create-responsive', 'move', 'clean'));
