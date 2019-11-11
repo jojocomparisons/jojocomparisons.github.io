@@ -133,7 +133,7 @@ gulp.task('resize', gulp.series('create-responsive', 'move', 'clean'));
 
 gulp.task('resize-headers', function () {
   return gulp
-    .src('source/images/VA28/*header.jpg')
+    .src('source/images/VA29/*header.jpg')
     .pipe(
       $.responsive(
         {
@@ -147,7 +147,7 @@ gulp.task('resize-headers', function () {
         },
         {
           // Global configuration for all images
-          quality: 70,
+          quality: 80,
 		      progressive: true,
 		      withMetadata: false,
 		      skipOnEnlargement: true,
@@ -157,7 +157,7 @@ gulp.task('resize-headers', function () {
         }
       )
     )
-    .pipe(gulp.dest('source/images/VA28'))
+    .pipe(gulp.dest('source/images/VA29'))
 });
 
 gulp.task('count', function() {
