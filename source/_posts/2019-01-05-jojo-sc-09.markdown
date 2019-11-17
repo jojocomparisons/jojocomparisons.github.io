@@ -181,7 +181,7 @@ Let's go!
 
 - This scene is darker in the top left corner, and it's also uncensored:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC09/01 - jawbreaker.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC09/01 - jawbreaker.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -402,7 +402,7 @@ Let's go!
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC09/02 - RERORERORERO.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC09/02 - RERORERORERO.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -522,12 +522,12 @@ Let's go!
 
 - ARAKI DOING WHAT HE DOES BEST:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC09/03 - DOG SLURRY.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC09/03 - DOG SLURRY.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC09/04 - DOG FRISBEE.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC09/04 - DOG FRISBEE.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -578,7 +578,7 @@ Let's go!
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC09/05 - yellow temperance.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC09/05 - yellow temperance.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -650,17 +650,17 @@ Let's go!
 
 - And here we have three obligatory brighter and sharper bits:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC09/06 - brighter and sharper 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC09/06 - brighter and sharper 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC09/07 - brighter and sharper 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC09/07 - brighter and sharper 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC09/08 - brighter and sharper 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC09/08 - brighter and sharper 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

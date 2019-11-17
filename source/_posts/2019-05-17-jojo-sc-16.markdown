@@ -135,7 +135,7 @@ Let's begin!
 
 - This animation of Steely Dan smashing Jotaro on the shoulder with a rock (?!) has been made sharper and brighter:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC16/01 - rock n roll.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC16/01 - rock n roll.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -207,19 +207,19 @@ Let's begin!
 
 - These two brief animations are now brighter...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC16/02 - hermit purple.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC16/02 - hermit purple.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC16/03 - polnareff.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC16/03 - polnareff.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - While this is brighter _and_ sharper! Lo and behold:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC16/04 - micro stands.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC16/04 - micro stands.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

@@ -22,7 +22,7 @@ Let's start with a quick look at Episode #24, "Notorious B.I.G"!
 
 - Today's very short comparison begins with this brief Mista animation, now brighter and sharper:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA24/01 - bs mista.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA24/01 - bs mista.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -50,7 +50,7 @@ Let's start with a quick look at Episode #24, "Notorious B.I.G"!
 
 - Let's very quickly move to the eyecatch...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA24/02 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA24/02 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -78,7 +78,7 @@ Let's start with a quick look at Episode #24, "Notorious B.I.G"!
 
 - This other brief animation of Aerosmith shooting is also brighter and sharper...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA24/03 - aerosmith.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA24/03 - aerosmith.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

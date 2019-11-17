@@ -18,24 +18,24 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 
 - Let's begin with a bunch of brighter animation (the first two of which are incidentally very similar to the last two of the previous episode):
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT11/01 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT11/01 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT11/02 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT11/02 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT11/03 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT11/03 - brighter 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - This (pretty disgusting) scene of Straights digging in his leg to take out the bullet has been uncensored:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT11/04 - straights leg.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT11/04 - straights leg.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -86,17 +86,17 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT11/05 - rip in pieces 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT11/05 - rip in pieces 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT11/06 - rip in pieces 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT11/06 - rip in pieces 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT11/07 - rip in pieces 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT11/07 - rip in pieces 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -614,7 +614,7 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT11/08 - joseph punch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT11/08 - joseph punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -665,7 +665,7 @@ Hello everyone, and welcome back! Today we're going to take a look at Battle Ten
 
 - And his shock is more emphasized in the BDs:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT11/09 - surprise.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT11/09 - surprise.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

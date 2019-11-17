@@ -18,14 +18,14 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 
 - The explosion in the beginning is brighter:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU05/01 - explosion.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU05/01 - explosion.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Nijimura Senior's regenerating arm has been uncensored (even though there was no blood in the first place):
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU05/02 - arm.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU05/02 - arm.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -55,7 +55,7 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 
 - This animation of RHCP punching through Keicho's chest has received the usual sharper-and-brighter treatment; moreover, RHCP's hands are shaded differently:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU05/03 - RHCP.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU05/03 - RHCP.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -104,7 +104,7 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 
 - This animation of the socket exploding is brighter:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU05/04 - flashes.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU05/04 - flashes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -134,7 +134,7 @@ Hey there! Welcome back. Today we'll take a look at Episode #05, Nijimura Senior
 
 - This last animation of the phone exploding has been slightly changed:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU05/05 - phone.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU05/05 - phone.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

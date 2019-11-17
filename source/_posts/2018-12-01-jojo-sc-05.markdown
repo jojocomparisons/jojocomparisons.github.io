@@ -22,22 +22,22 @@ Alright, let's begin...
 
 - Let's start the post with four little brighter and sharper animations! Here you go:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC05/01 - bs1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC05/01 - bs1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC05/02 - bs2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC05/02 - bs2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC05/03 - bs3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC05/03 - bs3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC05/04 - bs4.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC05/04 - bs4.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -67,7 +67,7 @@ Alright, let's begin...
 
 - For some reason, the TV version of this bit here has a black bar at the top in the first few frames; this has been corrected in the BDs:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC05/05 - black bar.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC05/05 - black bar.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -160,7 +160,7 @@ Alright, let's begin...
 
 - Alright, have another very brief brighter and sharper bit:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC05/06 - bs5.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC05/06 - bs5.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -190,22 +190,22 @@ Alright, let's begin...
 
 - Here, have another bunch of BS:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC05/07 - bs6.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC05/07 - bs6.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC05/08 - bs7.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC05/08 - bs7.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC05/09 - bs8.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC05/09 - bs8.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC05/10 - bs9.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC05/10 - bs9.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -235,7 +235,7 @@ Alright, let's begin...
 
 - Have another last serving of BS:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC05/11 - bs10.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC05/11 - bs10.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

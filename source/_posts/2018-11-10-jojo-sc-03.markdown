@@ -41,7 +41,7 @@ Hello, good people of the internet! Welcome back to what will perhaps be the qui
 
 - ... The mouth flap animation in this scene is also a little different...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC03/01 - mouth flap.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC03/01 - mouth flap.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -113,7 +113,7 @@ Hello, good people of the internet! Welcome back to what will perhaps be the qui
 
 - Aaand let's quickly move to the credits, for a further couple of differences! This episode was the first one with a proper ending sequence, and here you can see that this bit has been made brighter and sharper in the BDs:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC03/02 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC03/02 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

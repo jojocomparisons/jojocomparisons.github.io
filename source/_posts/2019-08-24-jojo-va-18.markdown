@@ -22,7 +22,7 @@ Well then, without further ago... Shall we?
 
 - Let's begin with a sample of what's going to happen a lot in this episode: completely redrawn sequences! Take a look at this additional shot of sexy man Risotto talking to his unnamed Passione co-gangster:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/01 - risotto.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/01 - risotto.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -52,7 +52,7 @@ Well then, without further ago... Shall we?
 
 - This sequence of Giorno talking has also been completely changed:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/02 - giorno talk.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/02 - giorno talk.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -124,14 +124,14 @@ Well then, without further ago... Shall we?
 
 - This scene has been changed, and instead of a shot of Melone we actually see what he's looking at...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/03 - screen.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/03 - screen.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - ... and this recycled shot (actually a composite from two different recycled shots) from Episode #17 has been changed to a newly drawn one:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/04 - melone.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/04 - melone.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -207,7 +207,7 @@ Well then, without further ago... Shall we?
 
 - Here, the dividing line goes out of frame a little later:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/05 - division line.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/05 - division line.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -260,7 +260,7 @@ Well then, without further ago... Shall we?
 
 - Baby face is looking MUCH BETTER here! He's been redrawn and reshaded in several places, and the gasoline now also animates! The zoom is also different and the background has been changed too. Check it out:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/06 - baby face.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/06 - baby face.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -288,14 +288,14 @@ Well then, without further ago... Shall we?
 
 - This scene is now actually animated, instead of being one still frame! Take a look:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/07 - giorno explorno.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/07 - giorno explorno.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And here, Baby Face's death has been redrawn and it animates in a more satisfying way:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/08 - baby death.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/08 - baby death.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -346,7 +346,7 @@ Well then, without further ago... Shall we?
 
 - The lighting in this scene is a little different, Buccellati's suit pattern has been tweaked and Trish's breathing has been animated as well:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/09 - trish breath.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/09 - trish breath.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -506,7 +506,7 @@ Well then, without further ago... Shall we?
 
 - Here, this scene of Ghiaccio is also completely different:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/10 - ghiaccio.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/10 - ghiaccio.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -647,7 +647,7 @@ Well then, without further ago... Shall we?
 
 - This scene has a whole new animation between the boss's orders and Abbacchio activating his Moody Blues:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/11 - gangu.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/11 - gangu.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1020,28 +1020,28 @@ Well then, without further ago... Shall we?
 
 - This whole scene is completely different! Take a look:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/12 - mista wipe.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/12 - mista wipe.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And here there's a completely new animation of Mista smacking his good boy face on the window:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/13 - mista smack.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/13 - mista smack.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Aaaand this sequence has also been completely redrawn:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/14 - mista talk.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/14 - mista talk.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - This part has been pretty much completely overhauled too, and Mista moves his hand at the end as well! Check it out:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/15 - mista hand.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/15 - mista hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1092,7 +1092,7 @@ Well then, without further ago... Shall we?
 
 - And this scene is, once again, completely different:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/16 - mista finger.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/16 - mista finger.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1122,7 +1122,7 @@ Well then, without further ago... Shall we?
 
 - Here, the wind effects are MUCH stronger:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/17 - giorno wind.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/17 - giorno wind.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1152,7 +1152,7 @@ Well then, without further ago... Shall we?
 
 - The transition of Ghiaccio's crazed Italian eyes fading in is also a little different:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/18 - ghiaccio eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/18 - ghiaccio eyes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1182,7 +1182,7 @@ Well then, without further ago... Shall we?
 
 - And the whole sequence in general is a little different. Let's take a look:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/19 - mista blood spurt.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/19 - mista blood spurt.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1236,7 +1236,7 @@ Well then, without further ago... Shall we?
 - This small sequence has been substituted for a new Mista shot:
 
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/20 - mista loading.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/20 - mista loading.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1266,7 +1266,7 @@ Well then, without further ago... Shall we?
 
 - Let's look at it in motion too, because the animation itself has also been retouched (most notably, Giorno no longer moves the steering wheel while shaking):
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/21 - giorno drive.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/21 - giorno drive.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1296,7 +1296,7 @@ Well then, without further ago... Shall we?
 
 - And the scene also animates! Well... A little bit:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/22 - mista backseat.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/22 - mista backseat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1326,7 +1326,7 @@ Well then, without further ago... Shall we?
 
 - And this scene is completely different, again! Instead of taking a close look at the car wheel, we can instead focus on beautiful blue-haired Giorno:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/23 - giorno blue.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/23 - giorno blue.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1379,7 +1379,7 @@ Well then, without further ago... Shall we?
 
 - Here, this scene right after the previous difference has been completely redrawn too:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/24 - giorno bullets.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/24 - giorno bullets.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1432,7 +1432,7 @@ Well then, without further ago... Shall we?
 
 - Have another different shot, friends:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/25 - giacchio shot.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/25 - giacchio shot.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1483,28 +1483,28 @@ Well then, without further ago... Shall we?
 
 - And the camera pans a little differently too:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/26 - ghiaccio pan.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/26 - ghiaccio pan.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Here, have another completely redrawn bit here:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/27 - mista gun.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/27 - mista gun.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - All these completely redrawn animations make me longer for simpler times! You know, when we had just brighter and sharper animations... Like this one...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/28 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/28 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Here, our boys' car zooms away much faster:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/29 - nyoom.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/29 - nyoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1603,12 +1603,12 @@ Well then, without further ago... Shall we?
 
 - Have another couple of redrawn animations, brothers and sisters:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/30 - mista bang bang.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/30 - mista bang bang.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/31 - mista wait.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/31 - mista wait.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1638,22 +1638,22 @@ Well then, without further ago... Shall we?
 
 - More completely re-animated parts! More!!:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/32 - mista ice.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/32 - mista ice.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/33 - ghiaccio climb.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/33 - ghiaccio climb.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/34 - mista reload.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/34 - mista reload.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/35 - mista startle.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/35 - mista startle.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1683,12 +1683,12 @@ Well then, without further ago... Shall we?
 
 - MORE ANIMATION!!! MORE!!!!!!!!:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/36 - mista yell.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/36 - mista yell.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/37 - gold experience punch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/37 - gold experience punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1739,12 +1739,12 @@ Well then, without further ago... Shall we?
 
 - Another smattering of different animations, just for you:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/38 - giorno choke.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/38 - giorno choke.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/39 - giorno drive.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/39 - giorno drive.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1797,14 +1797,14 @@ Well then, without further ago... Shall we?
 
 - Let's have one last completely different animation, for the road:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/40 - giorno fall.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/40 - giorno fall.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And this bit has been completely redrawn and animated:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA18/41 - boys fall.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA18/41 - boys fall.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

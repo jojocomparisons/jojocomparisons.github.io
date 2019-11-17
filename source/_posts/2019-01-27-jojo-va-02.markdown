@@ -18,12 +18,12 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 
 - The first order of the day is the opening, which has some brighter bits:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA02/01 - brighter fighting gold 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA02/01 - brighter fighting gold 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA02/02 - brighter fighting gold 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA02/02 - brighter fighting gold 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -191,12 +191,12 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 
 - These two scenes are also brighter:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA02/03 - fighting gold brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA02/03 - fighting gold brighter 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA02/04 - fighting gold brighter 4.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA02/04 - fighting gold brighter 4.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -289,19 +289,19 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 
 - Ok, enough with the opening! Let's move on to the actual episode for something completely different... Brighter scenes! Here, take two:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA02/05 - brighter gold experience.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA02/05 - brighter gold experience.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA02/06 - brighter buccellati.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA02/06 - brighter buccellati.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - It's tiiiime for the eyecatch! Take a look at this bright mysterious zipper boy:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA02/07 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA02/07 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -330,7 +330,7 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 - The way the question marks pop up on the stat hexagon is also a little different:
 
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA02/08 - question mark pop up.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA02/08 - question mark pop up.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -338,17 +338,17 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 - And now for something unexpected... Brighter... AND sharper animations! Take a peek:
 
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA02/09 - sticky fingers.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA02/09 - sticky fingers.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA02/10 - stand battle.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA02/10 - stand battle.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA02/11 - train.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA02/11 - train.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -445,12 +445,12 @@ Hiya, good folks! Did you have a good week? Are you sitting comfortably? Ready t
 
 - I'll leave you with two last brighter and sharper bits, to conclude this comparison in a grand manner:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA02/12 - brighter and sharper beatdown 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA02/12 - brighter and sharper beatdown 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA02/13 - brighter and sharper FEAR.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA02/13 - brighter and sharper FEAR.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

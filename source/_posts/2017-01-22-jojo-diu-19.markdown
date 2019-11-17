@@ -273,7 +273,7 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 
 - This animation of Okuyasu finally punching the little goblin is brighter and sharper:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU19/01 - okupunch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU19/01 - okupunch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -301,12 +301,12 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU19/02 - uncensored 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU19/02 - uncensored 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU19/03 - uncensored 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU19/03 - uncensored 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -334,7 +334,7 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 
 - Josuke's running animation is slightly different in this shot (there are some additional poses between the two running stances, you can see it if you look that the two hearts on his collar no longer shift abruptly from side to side):
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU19/04 - josuke running.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU19/04 - josuke running.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -875,7 +875,7 @@ Without further ado then, let's dive into this episode. I thought the TV broadca
 
 - Here's another brighter and sharper animation:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU19/05 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU19/05 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

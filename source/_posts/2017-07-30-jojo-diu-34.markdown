@@ -332,7 +332,7 @@ Hey hey, welcome back, everyone! Today we're going to take a look at the last ep
 
 - In this same scene, Koichi actually goes away when he's supposed to, instead of lingering on the side of the frame just to suddenly pop out of existence some frames later:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU34/01 - koichi.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU34/01 - koichi.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -408,7 +408,7 @@ Hey hey, welcome back, everyone! Today we're going to take a look at the last ep
 
 - The walking animation is also a bit more static:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU34/02 - walk.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU34/02 - walk.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -484,7 +484,7 @@ Hey hey, welcome back, everyone! Today we're going to take a look at the last ep
 
 - Obligatory Brighter'n'Sharper animation here:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU34/03 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU34/03 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -903,7 +903,7 @@ Hey hey, welcome back, everyone! Today we're going to take a look at the last ep
 
 - This weirdly gross bit has been uncensored:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU34/04 - uncensored.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU34/04 - uncensored.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1230,7 +1230,7 @@ Hey hey, welcome back, everyone! Today we're going to take a look at the last ep
 
 - ...and he writhes in a different way as well:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU34/05 - cheap trick.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU34/05 - cheap trick.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1283,7 +1283,7 @@ Hey hey, welcome back, everyone! Today we're going to take a look at the last ep
 
 - Omae wa mou shindeiru.webm:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU34/06 - cool as shit.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU34/06 - cool as shit.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1382,7 +1382,7 @@ Hey hey, welcome back, everyone! Today we're going to take a look at the last ep
 
 - Minako's mouth flap animation is different here:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU34/07 - mouth flap.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU34/07 - mouth flap.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

@@ -22,7 +22,7 @@ Let's get this started then, shall we?
 
 - Let's get this party going with a video of Narancia's Aerosmith visor. In the BDs the shot is static:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA11/01 - aerosmith visor.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA11/01 - aerosmith visor.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -52,7 +52,7 @@ Let's get this started then, shall we?
 
 - And here, in Narancia's flashback, his mother is no longer breathing quite that hard:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA11/02 - narancia mom.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA11/02 - narancia mom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -264,7 +264,7 @@ Let's get this started then, shall we?
 
 - Narancia no longer shakes here. Good on you, boy:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA11/03 - no shakin.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA11/03 - no shakin.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -382,7 +382,7 @@ Let's get this started then, shall we?
 
 - Here, Narancia no longer does that janky motion to retrieve what was basically the same piece of food he was already eating, but instead he simply munches on what he has in his hand:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA11/04 - narancia munching on arancia.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA11/04 - narancia munching on arancia.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -550,7 +550,7 @@ Let's get this started then, shall we?
 
 - And here, once again, Narancia has found his bravery and is no longer shaking:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA11/05 - no more shakin 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA11/05 - no more shakin 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -731,7 +731,7 @@ Let's get this started then, shall we?
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA11/06 - narancia bottle stab.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA11/06 - narancia bottle stab.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -801,14 +801,14 @@ Let's get this started then, shall we?
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA11/07 - spiderweb.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA11/07 - spiderweb.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Narancia is now casting a shadow, and his shoulders are now shaking:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA11/08 - mo shakin.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA11/08 - mo shakin.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -836,7 +836,7 @@ Let's get this started then, shall we?
 
 - And here's the eyecatch! Take a peek:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA11/09 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA11/09 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -931,7 +931,7 @@ Let's get this started then, shall we?
 
 - This whole bit is brighter and sharper:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA11/10 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA11/10 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -961,7 +961,7 @@ Let's get this started then, shall we?
 
 - Another brighter and sharper animation of Aerosmith, ladles and jelly spoons:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA11/11 - aerosmith.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA11/11 - aerosmith.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1014,7 +1014,7 @@ Let's get this started then, shall we?
 
 - And again here! As you can see, it wasn't really looping properly - it's looking better in the BDs:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA11/12 - smoke loop.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA11/12 - smoke loop.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1044,26 +1044,26 @@ Let's get this started then, shall we?
 
 - The smoke billows differently in the BD again, towards the end:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA11/13 - smoke again.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA11/13 - smoke again.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And again here. Have two more better-looping smoke scenes:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA11/14 - smoke again.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA11/14 - smoke again.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA11/15 - and again.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA11/15 - and again.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - This Aerosmith barrage is now quicker, and the animation holds a little more on the bullet-ridden Formaggio. You know... Like... A Swiss cheese...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA11/16 - swiss cheese.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA11/16 - swiss cheese.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

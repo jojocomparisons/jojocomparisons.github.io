@@ -154,7 +154,7 @@ Without further ado, let's get right to it!
 
 - Alright, with this one I have to give David pro a slap on the back of the head. One tiny slap. Not too hard. It's for their good, really. In this scene we have one very rare Blu-ray mistake! Take a gander at the ghost truck passing in the background:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU17/01 - ghost truck.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU17/01 - ghost truck.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -184,7 +184,7 @@ Without further ado, let's get right to it!
 
 - This shot of Rohan pulling out his... Heaven's Door has been made *way* sharper and brighter:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU17/02 - heaven's door.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU17/02 - heaven's door.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -237,14 +237,14 @@ Without further ado, let's get right to it!
 
 - As has been his more gruesome, more real counterpart:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU17/03 - arnold turn.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU17/03 - arnold turn.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - This transition is also slightly different in the BDs (the fading to the blood on the ground happens a couple of frames earlier):
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU17/04 - arnold blood.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU17/04 - arnold blood.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

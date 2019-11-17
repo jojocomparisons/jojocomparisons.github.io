@@ -384,7 +384,7 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 
 - Oh, an animation! Back to Josuke, have a brighter & sharper bit:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU33/01 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU33/01 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -661,7 +661,7 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 
 - Yuuya's face no longer shivers when he's sniffing around:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU33/02 - yuuya sniffing.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU33/02 - yuuya sniffing.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -783,7 +783,7 @@ So, without further ado, welcome back to Jojo's Bizarre Comparisons, and let's h
 
 - ...and the piece of paper he's in flutters more in the BDs:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU33/03 - paper flutter.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU33/03 - paper flutter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

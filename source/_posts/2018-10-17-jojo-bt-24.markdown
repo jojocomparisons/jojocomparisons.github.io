@@ -45,7 +45,7 @@ Let's blow this popsicle stand!
 
 - ...and, obviously, the crumbling animation is different too:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT24/01 - crumble crumble.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT24/01 - crumble crumble.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -165,7 +165,7 @@ Let's blow this popsicle stand!
 
 - The BD version of this shot starts more zoomed in, and slowly zooms out:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT24/02 - zoom out.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT24/02 - zoom out.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -373,7 +373,7 @@ Let's blow this popsicle stand!
 
 - This slashing animation is brighter:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT24/03 - slash.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT24/03 - slash.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

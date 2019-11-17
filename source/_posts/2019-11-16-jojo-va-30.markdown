@@ -22,7 +22,7 @@ Let's get this started!
 
 - Today's first thing is this scene, in which the zoom is a little slower and the mold on Narancia's skin no longer stops animating in the last 20 frames. Check it out:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA30/01 - zoom + mold.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA30/01 - zoom + mold.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -96,7 +96,7 @@ Let's get this started!
 
 - This brief pew pew animation is brighter...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA30/02 - pew pew.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA30/02 - pew pew.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -124,7 +124,7 @@ Let's get this started!
 
 - And this frankly... very strange transition of Mista is brighter and sharper:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA30/03 - mista transition.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA30/03 - mista transition.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -152,7 +152,7 @@ Let's get this started!
 
 - And this animation of Sticky Fingers appearing is also brighter:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA30/04 - zipper man.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA30/04 - zipper man.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -182,7 +182,7 @@ Let's get this started!
 
 - Let's take a look at the eyecatch, fellas:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA30/05 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA30/05 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -233,7 +233,7 @@ Let's get this started!
 
 - And Secco actually punches the wall, in the BD version! Check it out:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA30/06 - secco punch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA30/06 - secco punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -332,7 +332,7 @@ Let's get this started!
 
 - ...And he also turns around later:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA30/07 - giorno turn.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA30/07 - giorno turn.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -477,7 +477,7 @@ Let's get this started!
 
 - The animation of this random dude running to his death is brighter and sharper...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA30/08 - random dude.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA30/08 - random dude.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -507,7 +507,7 @@ Let's get this started!
 
 - This handsome Mista sliding into frame is now brighter and sharper:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA30/09 - sliding mista.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA30/09 - sliding mista.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -623,7 +623,7 @@ Let's get this started!
 
 - As you can see in the previous comparison, in addition to Mista being redrawn, Giorno's hand being repositioned in a strictly better position and a darker background, you will notice that whenever the gun is shot, the rest of the background darkens dramatically! That creates a much better effect, in my opinion. Check it out:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA30/10 - mista blam blam.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/VA30/10 - mista blam blam.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

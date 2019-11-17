@@ -45,14 +45,14 @@ Let's go!
 
 - This whole flashback sequence is sharper, has better contrast and brighter flashes:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC11/01 - flashback.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC11/01 - flashback.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - This other animation, instead, is just brighter and sharper:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC11/02 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC11/02 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -371,7 +371,7 @@ Let's go!
 
 - And again here! In addition, Kakyoin already looks at Polnareff in the beginning of this bit here:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC11/03 - kaklook.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC11/03 - kaklook.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -447,7 +447,7 @@ Let's go!
 
 - Guess what? A brighter bit! Here:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC11/04 - brighter people.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC11/04 - brighter people.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -542,22 +542,22 @@ Let's go!
 
 - Let's go back to brighter and/or sharper animations! Here, have a spoonful:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC11/05 - bright series 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC11/05 - bright series 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC11/06 - bright series 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC11/06 - bright series 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC11/07 - brighter series 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC11/07 - brighter series 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC11/08 - brighter series 4.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC11/08 - brighter series 4.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -845,32 +845,32 @@ Let's go!
 
 - Have a second big serving of brighter and/or sharper animations:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC11/09 - brighter series 5.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC11/09 - brighter series 5.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC11/10 - brighter series 6.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC11/10 - brighter series 6.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC11/11 - brighter series 7.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC11/11 - brighter series 7.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC11/12 - brighter series 8.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC11/12 - brighter series 8.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC11/13 - brighter series 9.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC11/13 - brighter series 9.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC11/14 - brighter series 10.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC11/14 - brighter series 10.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -900,14 +900,14 @@ Let's go!
 
 - This other flashback scene has had two flashes added, one at the beginning and one at the end (no, the video has not frozen, there's just a very long still frame in the middle):
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC11/15 - horseback.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC11/15 - horseback.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Have one last brighter and sharper bit, for old times' sake:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC11/16 - last brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC11/16 - last brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

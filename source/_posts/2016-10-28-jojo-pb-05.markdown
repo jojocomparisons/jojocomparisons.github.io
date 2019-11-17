@@ -133,7 +133,7 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 
 - This bit of Zeppeling killing a zombie is brighter and uncensored:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB05/01 - zombiepunch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB05/01 - zombiepunch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -209,17 +209,17 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 
 - And this whole sequence is brighter and uncensored:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB05/02 - zombietrain.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB05/02 - zombietrain.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB05/03 - zombiemelt.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB05/03 - zombiemelt.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB05/04 - zombiepunch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB05/04 - zombiepunch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -515,7 +515,7 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 
 - Zeppeli's broken leg has been uncensored:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB05/05 - zeppelileg.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB05/05 - zeppelileg.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -729,7 +729,7 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 
 - Got Your Nose: Ultimate Edition:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB05/06 - nose.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB05/06 - nose.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -849,7 +849,7 @@ Welcome back, people! While we wait for new DiU Blu-rays to get out, we'll do so
 
 - The Turquoise Blue Overdrive animation is brighter and sharper:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB05/07 - turquoise.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB05/07 - turquoise.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

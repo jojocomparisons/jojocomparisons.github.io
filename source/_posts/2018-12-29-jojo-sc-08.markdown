@@ -521,24 +521,24 @@ Let's get started!
 
 - This HORRIFYING scene has been uncensored too:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC08/01 - just a light shave yeah bruv.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC08/01 - just a light shave yeah bruv.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC08/02 - face-off.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC08/02 - face-off.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC08/03 - face-off 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC08/03 - face-off 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Disgusting. Anyway, this bit here is brighter and sharper:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC08/04 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC08/04 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -568,12 +568,12 @@ Let's get started!
 
 - And this two brief animations are brighter again:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC08/05 - stab stab.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC08/05 - stab stab.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC08/06 - slice slice.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC08/06 - slice slice.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -603,17 +603,17 @@ Let's get started!
 
 - And here, at the climax of the episode, we inevitably have a handful of brighter and sharper animations:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC08/08 - b&s 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC08/08 - b&s 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC08/09 - b&s 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC08/09 - b&s 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC08/10 - b&s 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC08/10 - b&s 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -731,7 +731,7 @@ Let's get started!
 
 - This bit of Joseph using Hermit Purple on the TV is a little brighter:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC08/11 - hermit purple.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC08/11 - hermit purple.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -761,14 +761,14 @@ Let's get started!
 
 - And this bit of DIO doing what is perhaps his weirdest feat in the whole of Stardust Crusaders is also brighter:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC08/12 - what are you doing.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC08/12 - what are you doing.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - While this bit here is darker, sharper and has much better contrast:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC08/13 - d&s.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC08/13 - d&s.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

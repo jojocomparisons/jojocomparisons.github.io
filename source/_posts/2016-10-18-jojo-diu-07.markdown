@@ -200,7 +200,7 @@ Welcome back! Today we're finally going back to Diamond is Unbreakable! I have t
 
 - These transition lines are brighter in the BDs:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU07/01 - lines.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU07/01 - lines.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -253,14 +253,14 @@ Welcome back! Today we're finally going back to Diamond is Unbreakable! I have t
 
 - This walking animation is way less static:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU07/02 - walking.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU07/02 - walking.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - This bit was for some reason darker in the TV version; this has been fixed in the BDs:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU07/03 - hazamada.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU07/03 - hazamada.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

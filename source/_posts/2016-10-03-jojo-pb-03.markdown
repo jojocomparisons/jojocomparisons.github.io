@@ -262,14 +262,14 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 
 - This bit here has been brightened:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB03/01 - knife.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB03/01 - knife.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And this brief animation of Jonathan holding George's dying body is now shaking, has added textures, a better shading and less goofy expressions:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB03/02 - georgestab.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB03/02 - georgestab.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -297,7 +297,7 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 
 - This animation of Dio 『ＴＲＡＮＳＣＥＮＤＩＮＧ  ＨＵＭＡＮＩＴＹ』 has different light effects, a differently coloured onomatopoeia and some other things:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB03/03 - stonemask.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB03/03 - stonemask.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -486,7 +486,7 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 
 - This dude *losing his head* has been uncensored:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB03/04-05 - head.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB03/04-05 - head.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -514,7 +514,7 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 
 - The lightning is way more dramatic in the BDs:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB03/06 - lightning.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB03/06 - lightning.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -636,7 +636,7 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 
 - This scene has been uncensored, and the *ズギン ズギュン* onomatopoeia has been textured:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB03/07 - policeman.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB03/07 - policeman.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -687,7 +687,7 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 
 - And this scene (which I though was a bit confusing with all the censoring) is finally more understandable:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB03/08-09 - speedfraid.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB03/08-09 - speedfraid.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -872,7 +872,7 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 
 - This scene has been uncensored, and Jonathan's face redrawn:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB03/10 - lance.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB03/10 - lance.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -900,14 +900,14 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 
 - Another bit of uncensored gore:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB03/11 - speedzombie.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB03/11 - speedzombie.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And Dio who shows us what he has learned from his previous encounter with the drunkard's zombie:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB03/12 - diohand.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB03/12 - diohand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1142,7 +1142,7 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 
 - This scene of Dio burning has been drawn differently (notice in particular the flames around the wound in his cheek):
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB03/13 - dioburning.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB03/13 - dioburning.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1545,12 +1545,12 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 
 - *And it burns, burns, burns/The ring of fire, the ring of fire*:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB03/14 - speedfire.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB03/14 - speedfire.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB03/15 - explosion.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB03/15 - explosion.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1624,7 +1624,7 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 
 - As in Episode #01, this flashback sequence has been brightened (this is especially evident in the white-outs):
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB03/16 - flashback.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB03/16 - flashback.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1954,7 +1954,7 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 
 - This animation has been uncensored:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB03/17 - diostab.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB03/17 - diostab.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -2120,7 +2120,7 @@ Hello there! Welcome back for another healthy dose of redrawn Jonathans and Dios
 
 - The scene of Dio being impaled on the statue has been uncensored (and the fire effects are, as usual, been redrawn):
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB03/18 - statue.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB03/18 - statue.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

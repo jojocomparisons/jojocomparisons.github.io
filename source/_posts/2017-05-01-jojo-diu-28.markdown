@@ -382,7 +382,7 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 
 - Rohan now protests while his house burns to the ground, instead of just standing there like an idiot:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU28/01 - rohan protest.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU28/01 - rohan protest.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -663,7 +663,7 @@ Hey, fancy seeing you here! Welcome back for this week's comparison, "Highway St
 
 - Oh, what is this?! A Brighter & Sharper animation? Why, you shouldn't have!:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU28/02 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU28/02 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

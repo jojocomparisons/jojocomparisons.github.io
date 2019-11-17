@@ -171,12 +171,12 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB04/01 - lady.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB04/01 - lady.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB04/02 - lady.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB04/02 - lady.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -386,7 +386,7 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 - This animation has more light effects and a vignette:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB04/03 - zeppelipoint.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB04/03 - zeppelipoint.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -573,7 +573,7 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 - And again here as before, but the uncensoring is more prominent, and the background is more vivid:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB04/04 - coachdriver.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB04/04 - coachdriver.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -624,7 +624,7 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 - This scene is uncensored and has the usual tunnel effects:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB04/05 - horseneck.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB04/05 - horseneck.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -675,7 +675,7 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 - And another uncensored animation here, as Jack the Ripper crawls out of that poor horse's neck (in the still you can see that the background has also been slightly shifted):
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB04/06 - jack.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB04/06 - jack.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -768,7 +768,7 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 - Here (other than the usual tunnel lighting differences) the zoom is pulled a little closer and Jack's positioning is slightly different. The knife also gleams, towards the end:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB04/07 - jack knife.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB04/07 - jack knife.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -934,7 +934,7 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 - This bit has the usual shading difference, and the horse corpses (horpses?) have been uncensored:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB04/08 - carriage.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB04/08 - carriage.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1297,12 +1297,12 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 - These two scenes are static in the TV version, but in the BDs have a slight zoom in:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB04/09 - addedzoom.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB04/09 - addedzoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB04/10 - addedzoom2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB04/10 - addedzoom2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1770,7 +1770,7 @@ Hey hey hey, welcome back! Are you ready for another episode full of very minor 
 
 - Jack's death is... Yeah. Different:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB04/11 - jackdeath.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB04/11 - jackdeath.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

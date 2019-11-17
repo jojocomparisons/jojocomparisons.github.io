@@ -45,7 +45,7 @@ Let's get right to it!
 
 - Said waiter also turns earlier in the "conversation":
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT14/01 - waiter turn.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT14/01 - waiter turn.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -75,7 +75,7 @@ Let's get right to it!
 
 - Space Ripper Spaghetti Eyes!! (hint: the background is brighter and sharper):
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT14/02 - spaghetti.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT14/02 - spaghetti.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -195,7 +195,7 @@ Let's get right to it!
 
 - This transition to a running Joseph has been changed and he's way closer to the camera in the BDs:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT14/03 - joseph run.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT14/03 - joseph run.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -363,7 +363,7 @@ Let's get right to it!
 
 - "What do we have here?" "Looks like a clear-cut case of Brighter & Sharper to me, detective":
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT14/04 - brightwagon.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT14/04 - brightwagon.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -416,7 +416,7 @@ Let's get right to it!
 
 - This car transition is different:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT14/05 - car transition.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT14/05 - car transition.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -492,7 +492,7 @@ Let's get right to it!
 
 - As does the following scene; additionally, the cracks in the stone in which he was encased and the rocks that fly around have all been coloured brown, to stand out more against the background:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT14/06 - rock crack.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT14/06 - rock crack.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -928,7 +928,7 @@ Let's get right to it!
 
 - This is a first for this blog, I think! This scene has not only been completely redrawn, but it's been shot from a different angle altogether! Needless to say, I think it looks way better in the BD version:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT14/07 - ayayayayyyy.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT14/07 - ayayayayyyy.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1021,7 +1021,7 @@ Let's get right to it!
 
 - This very brief animation is brighter:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT14/08 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT14/08 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

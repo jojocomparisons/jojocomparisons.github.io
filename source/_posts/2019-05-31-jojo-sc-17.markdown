@@ -112,7 +112,7 @@ Today we'll take a look at Stardust Crusaders #17, "The Lovers - Part 2"! Are yo
 
 - This animation has been made brighter:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC17/01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC17/01 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -142,7 +142,7 @@ Today we'll take a look at Stardust Crusaders #17, "The Lovers - Part 2"! Are yo
 
 - Have another brighter animation:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC17/02 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC17/02 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -172,7 +172,7 @@ Today we'll take a look at Stardust Crusaders #17, "The Lovers - Part 2"! Are yo
 
 - Let's go back to a longer, brighter animation:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC17/03 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC17/03 - brighter 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -225,7 +225,7 @@ Today we'll take a look at Stardust Crusaders #17, "The Lovers - Part 2"! Are yo
 
 - They also move in sync! Check it out:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC17/04 - sync lovers.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC17/04 - sync lovers.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -253,7 +253,7 @@ Today we'll take a look at Stardust Crusaders #17, "The Lovers - Part 2"! Are yo
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC17/05 - lovers crowd.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC17/05 - lovers crowd.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -438,20 +438,20 @@ Today we'll take a look at Stardust Crusaders #17, "The Lovers - Part 2"! Are yo
 
 - These animations are brighter and much sharper:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC17/06 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC17/06 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC17/07 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC17/07 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - This animation is muuch, much sharper, and the colours are just... Miles better. Check it out:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC17/08 - better colours and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC17/08 - better colours and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -521,7 +521,7 @@ Today we'll take a look at Stardust Crusaders #17, "The Lovers - Part 2"! Are yo
 
 - And another brighter and sharper one:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC17/09 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC17/09 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -595,7 +595,7 @@ Today we'll take a look at Stardust Crusaders #17, "The Lovers - Part 2"! Are yo
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC17/10 - arm effect.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC17/10 - arm effect.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -623,7 +623,7 @@ Today we'll take a look at Stardust Crusaders #17, "The Lovers - Part 2"! Are yo
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC17/11 - leg effect.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC17/11 - leg effect.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -804,12 +804,12 @@ Today we'll take a look at Stardust Crusaders #17, "The Lovers - Part 2"! Are yo
 
 - And the background moves slightly differently here:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC17/12 - moving background.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC17/12 - moving background.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC17/13 - moving background.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC17/13 - moving background.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

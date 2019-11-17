@@ -313,7 +313,7 @@ Without further ado then, let's dive into DiU #24, "Sheer Heart Attack - Part 2"
 
 - This bit of Kira punching Koichi has received the same kind of different background lighting of one of the previous frames in this comparison; in addition to that, Kira's forehead is darker, the blood particles are more blurred and there's a slight fish-eye-like distortion on the edges of the frame. Check it out:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU24/01 - kira punch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU24/01 - kira punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -387,7 +387,7 @@ Without further ado then, let's dive into DiU #24, "Sheer Heart Attack - Part 2"
 
 - This animation is more zoomed out, and as a result we can see Koichi's blood on the ground:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU24/02 - head beating.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU24/02 - head beating.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -463,7 +463,7 @@ Without further ado then, let's dive into DiU #24, "Sheer Heart Attack - Part 2"
 
 - This animation of KQ taking out his hand from Koichi doesn't have that silly zoom in the BDs, and as a result it's a bit more brutal and effective, in my opinion:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU24/03 - no zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU24/03 - no zoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -696,14 +696,14 @@ Without further ado then, let's dive into DiU #24, "Sheer Heart Attack - Part 2"
 
 - In the TV version, this part of Kira talking menacingly ended with a whiteout; in the BDs it just cuts to the following scene without that:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU24/04 - whiteout.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU24/04 - whiteout.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - As you might have guessed from the previous animation, it's now time for a Brighter & Sharper! Take it away, Killer Queen:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU24/05 - brighter queen.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU24/05 - brighter queen.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -733,7 +733,7 @@ Without further ado then, let's dive into DiU #24, "Sheer Heart Attack - Part 2"
 
 - ...Kira actually moves his mouth while talking...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU24/06 - talking queen.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU24/06 - talking queen.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -763,7 +763,7 @@ Without further ado then, let's dive into DiU #24, "Sheer Heart Attack - Part 2"
 
 - ...Jotaro throws Kira down a bit later, but faster...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU24/07 - nice watch.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU24/07 - nice watch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -793,17 +793,17 @@ Without further ado then, let's dive into DiU #24, "Sheer Heart Attack - Part 2"
 
 - Have a bunch of brighter and sharper animations, on the house:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU24/08 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU24/08 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU24/09 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU24/09 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU24/10 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU24/10 - brighter 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

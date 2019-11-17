@@ -238,7 +238,7 @@ Well, without further ado, let's take a close look at today's episode, "Strength
 
 - This scene is more zoomed out and less _steamy_. Anne's outline is way less blurry, and there's... something weird in the TV version. I never noticed it, but one of Anne's poses remains sort of... _stuck_ in place. This is fixed in the BDs:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC07/01 - anne shower.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC07/01 - anne shower.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -268,12 +268,12 @@ Well, without further ado, let's take a close look at today's episode, "Strength
 
 - Here we have a couple of brighter and sharper scenes:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC07/02 - b&s1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC07/02 - b&s1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC07/03 - b&s2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC07/03 - b&s2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

@@ -371,7 +371,7 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT16/01 - gondola leg.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT16/01 - gondola leg.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -399,14 +399,14 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT16/02 - animated clothes.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT16/02 - animated clothes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - This video has actually been animated in the BD version, the overall zoom is different and the oar leaves less marked afterimages:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT16/03 - oar kick.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT16/03 - oar kick.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -480,7 +480,7 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 
 - And that's not all! The BD added some transitions in this scene, and a result it looks much, much smoother:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT16/04 - added transitions.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT16/04 - added transitions.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -577,7 +577,7 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 
 - Lisa Lisa has actually been animated (and slightly reshaded) here:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT16/05 - animated lisa lisa.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT16/05 - animated lisa lisa.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -720,7 +720,7 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 
 - ...And it actually _animates_ as well! Incredible:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT16/06 - animated.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT16/06 - animated.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -750,7 +750,7 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 
 - But it does animate, so I'll give them that:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT16/07 - wonky animated.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT16/07 - wonky animated.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -780,14 +780,14 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 
 - Look at that! A brighter & sharper video... Isn't that nostalgic?:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT16/08 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT16/08 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - The background moves here, and Lisa Lisa's eyes are looking better:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT16/09 - moving bg.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT16/09 - moving bg.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1045,7 +1045,7 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 
 - The panning here is a little different:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT16/10 - different panning.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT16/10 - different panning.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1121,7 +1121,7 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 
 - In this animation, Joseph's mask moves more, so that it looks more like he's talking under there:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT16/11 - talking mask.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT16/11 - talking mask.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1174,7 +1174,7 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 
 - Another brighter and sharper animation, boyos:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT16/12 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT16/12 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1204,7 +1204,7 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 
 - And here, take some more brighter and sharper:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT16/13 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT16/13 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1234,7 +1234,7 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 
 - In this brief animation, Caesar raises his head slightly earlier:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT16/14 - caesar yell.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT16/14 - caesar yell.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1264,7 +1264,7 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 
 - Yep, another brighter and sharper animation:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT16/15 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT16/15 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1315,7 +1315,7 @@ Without further ado, then... Let's get this started! Welcome back to Jojo's Biza
 
 - And one last quick brighter and sharper animation, for the road:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT16/16 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT16/16 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

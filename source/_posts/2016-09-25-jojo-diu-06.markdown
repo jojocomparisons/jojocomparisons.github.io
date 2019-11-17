@@ -152,7 +152,7 @@ Welcome back, everyone! Join me in finding out what hides in Koichi's egg, and i
 
 - This part has it all: a different background, the usual 銭 kanji redrawn, and the zoom is pulled in closer:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU06/01 - combo.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU06/01 - combo.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -203,7 +203,7 @@ Welcome back, everyone! Join me in finding out what hides in Koichi's egg, and i
 
 - The first frame of this animation of Echoes punching Tamami is different:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU06/02 - echoes.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU06/02 - echoes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -275,7 +275,7 @@ Welcome back, everyone! Join me in finding out what hides in Koichi's egg, and i
 
 - Lastly, this scene has brighter colors:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU06/03 - colors.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU06/03 - colors.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

@@ -18,26 +18,26 @@ Hello, good folks! Welcome back to this blog. Today we're going to take a very b
 
 - Today's first difference is this brighter bit of Hol Horse shooting himself right in the face:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC15/01 - hol horse.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC15/01 - hol horse.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And let's quickly move to two brighter and sharper animations:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC15/02 - bns1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC15/02 - bns1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC15/03 - bns2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC15/03 - bns2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Aaand let's close today's incredibly quick thing with this bit of Jotaro, whose mouth flap has been changed in the BD, and he now no longer opens his mouth during this part here:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC15/04 - mouth flap.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC15/04 - mouth flap.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

@@ -18,14 +18,14 @@ Hey everyone! Welcome back for an (early) Phantom Blood #09! This one was probab
 
 - This pan in the beginning is slightly different in the BDs:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB09/01 - pan.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB09/01 - pan.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Dio chopping his own neck (the absolute madman) has been uncensored:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB09/02 - dio neck.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB09/02 - dio neck.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -55,26 +55,26 @@ Hey everyone! Welcome back for an (early) Phantom Blood #09! This one was probab
 
 - Father Styx's gruesome death has been uncensored:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB09/03 - styx.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB09/03 - styx.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - These two scenes are brighter and sharper:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB09/04 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB09/04 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB09/05 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB09/05 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And this poor dude getting the world's hardest life-preserver to the head has been uncensored as well:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB09/06 - head.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB09/06 - head.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -123,42 +123,42 @@ Hey everyone! Welcome back for an (early) Phantom Blood #09! This one was probab
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB09/07 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB09/07 - brighter 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB09/08 - brighter 4.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB09/08 - brighter 4.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB09/09 - brighter 5.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB09/09 - brighter 5.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB09/10 - brighter 6.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB09/10 - brighter 6.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB09/11 - brighter 7.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB09/11 - brighter 7.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB09/12 - brighter 8.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB09/12 - brighter 8.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB09/13 - brighter 9.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB09/13 - brighter 9.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/PB09/14 - brighter 10.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/PB09/14 - brighter 10.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

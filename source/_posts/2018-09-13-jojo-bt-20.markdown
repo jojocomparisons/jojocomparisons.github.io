@@ -22,7 +22,7 @@ Let's get going!
 
 - Today's first comparison is a video of this dude getting stepped on, which is now animated in the BD version:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT20/01 - stomach step.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT20/01 - stomach step.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -75,7 +75,7 @@ Let's get going!
 
 - Here we have a brighter and sharper animation:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT20/02 - brighter and sharper 1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT20/02 - brighter and sharper 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -105,7 +105,7 @@ Let's get going!
 
 - Another brighter and sharper animation here...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT20/03 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT20/03 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -181,7 +181,7 @@ Let's get going!
 
 - Another brighter and sharper bit... Sort of:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT20/04 - brighter and sharper 3.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT20/04 - brighter and sharper 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -318,14 +318,14 @@ Let's get going!
 
 - The same differences apply here, and this transition is also way sharper:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT20/05 - sharper 4.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT20/05 - sharper 4.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And another one here...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT20/06 - brighter and sharper 5.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT20/06 - brighter and sharper 5.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -609,21 +609,21 @@ Let's get going!
 
 - Whew! That was a long series of frames. Alright, let's move on! Here's a brigher bit...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT20/07 - brighter 6.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT20/07 - brighter 6.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And another brighter and sharper animation...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT20/08 - brighter and sharper 7.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT20/08 - brighter and sharper 7.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - Aaand another one here:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT20/09 - brighter and sharper 8.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT20/09 - brighter and sharper 8.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -833,7 +833,7 @@ Let's get going!
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT20/10 - disco dancing.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT20/10 - disco dancing.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -882,7 +882,7 @@ Let's get going!
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT20/11 - disco dancing 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT20/11 - disco dancing 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -952,7 +952,7 @@ Let's get going!
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT20/12 - stronger distortion.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT20/12 - stronger distortion.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1210,7 +1210,7 @@ Let's get going!
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT20/13 - less stylized bg.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT20/13 - less stylized bg.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1418,7 +1418,7 @@ Let's get going!
 
 <br>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT20/14 - brighter and sharper 9.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT20/14 - brighter and sharper 9.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -1448,7 +1448,7 @@ Let's get going!
 
 - And Joseph's eyes tremble as well:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/BT20/15 - trembling eyes.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/BT20/15 - trembling eyes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

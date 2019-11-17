@@ -261,21 +261,21 @@ Hello again, dear readers! Welcome back, welcome back. Today we're going to take
 
 - In addition to that, Polnareff has received an additional animation in this particular bit here...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC10/01 - arm wipe.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC10/01 - arm wipe.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - ...and the camera movement in general is slightly different:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC10/02 - camera movement.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC10/02 - camera movement.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - This animation is slightly brighter:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC10/03 - brighter stab.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC10/03 - brighter stab.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -349,7 +349,7 @@ Hello again, dear readers! Welcome back, welcome back. Today we're going to take
 
 - This animation of Hol Horse whipping out his Emperor is also a little brighter:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC10/04 - brighter emperor.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC10/04 - brighter emperor.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -486,7 +486,7 @@ Hello again, dear readers! Welcome back, welcome back. Today we're going to take
 
 - Here, have another brighter animation...:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC10/05 - brightsnake.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC10/05 - brightsnake.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -516,7 +516,7 @@ Hello again, dear readers! Welcome back, welcome back. Today we're going to take
 
 - This animation has been made brighter and sharper:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC10/06 - b&s emperor.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC10/06 - b&s emperor.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -588,19 +588,19 @@ Hello again, dear readers! Welcome back, welcome back. Today we're going to take
 
 - Here you have another two brighter and sharper animations:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC10/07 - b&s1.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC10/07 - b&s1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC10/08 - b&s2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC10/08 - b&s2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And a last one, this time just brighter:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC10/09 - bright avdol.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC10/09 - bright avdol.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>

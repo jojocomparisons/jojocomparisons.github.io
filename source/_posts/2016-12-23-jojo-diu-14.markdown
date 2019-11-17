@@ -133,14 +133,14 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 
 - Here we have some uncensored spider guts:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU14/01 - spider gore.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU14/01 - spider gore.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
 - And here, BD Hazamada and Koichi shake slightly less:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU14/02 - shaking.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU14/02 - shaking.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -239,7 +239,7 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 
 - In this very brief video, Rohan has been given a different mouth flap and the screen shakes around in a slightly different manner:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU14/03 - mouth flap.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU14/03 - mouth flap.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -361,7 +361,7 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 
 - And for the final frames of this scene, Rohan has a different mouth flap:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU14/04 - mouth flap 2.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU14/04 - mouth flap 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -483,7 +483,7 @@ Hello, everyone! Welcome back for another Diamond is Unbreakable comparison. Tod
 
 - Here we have a shining example of the usual "sharper and brighter" business:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/DIU14/05 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/DIU14/05 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
