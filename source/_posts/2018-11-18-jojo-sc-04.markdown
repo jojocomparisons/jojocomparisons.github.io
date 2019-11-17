@@ -87,7 +87,7 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 
 - Have a look at it in motion, just because:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC04/01 - tongue twister.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC04/01 - tongue twister.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -482,7 +482,7 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 
 - Let's take a quick break for an _animated_ uncensoring! You need to see all the frames on this baby. The cut tongue is kinda humorous to me, because it kinda ends up looking like a pink mustache:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC04/02 - two tongues.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC04/02 - two tongues.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
@@ -910,7 +910,7 @@ Hello, peeps! How are you doing? I'm still reeling from the INCREDIBLE gift that
 
 - This scene of Silver Chariot cutting through flames has been made sharper and brighter:
 
-<video class='lazyload' muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+<video class='lazyload' playsinline nocontrols muted='' data-autoplay='' preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC04/03 - silver chariot.webm" type='video/webm; codecs="vp8, vorbis"'>
   <source src="./../videos/SC04/03 - silver chariot.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
