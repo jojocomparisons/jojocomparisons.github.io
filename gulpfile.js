@@ -133,7 +133,7 @@ gulp.task('resize', gulp.series('create-responsive', 'move', 'clean'));
 
 gulp.task('resize-headers', function () {
   return gulp
-    .src('source/images/VA31/*header.jpg')
+    .src('source/images/VA32/*header.jpg')
     .pipe(
       $.responsive(
         {
@@ -157,7 +157,7 @@ gulp.task('resize-headers', function () {
         }
       )
     )
-    .pipe(gulp.dest('source/images/VA31'))
+    .pipe(gulp.dest('source/images/VA32'))
 });
 
 gulp.task('count', function() {

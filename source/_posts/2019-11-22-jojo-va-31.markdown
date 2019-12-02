@@ -371,3 +371,7 @@ And that concludes today's very brief post, I'm afraid! Sorry about that, folks.
 <br>
 
 Have a good week in the meantime!
+
+<br>
+
+{% img width="100%" height="100%" center /images/tobecontinued.png %}

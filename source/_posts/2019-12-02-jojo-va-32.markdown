@@ -1,0 +1,1114 @@
+---
+layout: post
+title: "Vento Aureo #32 - Green Day and Oasis - Part 3"
+date: 2019-12-02 22:53:10 +0100
+comments: true
+categories: va
+---
+
+{% img width="100%" height="100%" center /images/VA32/32-header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello again, friends! Sorry 'bout the short delay - it was a busy week, and I also spent a couple of days revising the way I compress videos. The good news is that I found a way to compress them better while still keeping a small size (and you should see that starting from this comparison), but the bad news is that this new compression won't be applied instantly to all the other comparisons too, but it will most likely require me going back one by one. Ah well! We'll cross that bridge when we come to it, eh?
+But anyway, that's not why you're here today, is it? Let's cut to the chase and take a look at Vento Aureo #32 "Green Day and Oasis - Part 3", shall we? I've written quite a lot of sentences like this in a row, haven't I?
+
+<br>
+
+- Let's begin this uncharacteristically meaty episode with a simple difference! Here, Buccellati's no longer looking directly at Secco:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-04835-1090px.jpg"
+ data-srcset="./../images/VA32/tv-04835-512px.jpg 512w,
+ ./../images/VA32/tv-04835-768px.jpg 768w,
+ ./../images/VA32/tv-04835-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-04835-1090px.jpg"
+ data-srcset="./../images/VA32/bd-04835-512px.jpg 512w,
+ ./../images/VA32/bd-04835-768px.jpg 768w,
+ ./../images/VA32/bd-04835-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In the BD version of this animation, the camera movement is less static:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA32/01 - buccellati stare.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA32/01 - buccellati stare.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Moving on, here's our poor Mama Buccellati, now sporting a brand new zipper on his shoulder and several (3) shards of glass embedded in his poor body:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-10055-1090px.jpg"
+ data-srcset="./../images/VA32/tv-10055-512px.jpg 512w,
+ ./../images/VA32/tv-10055-768px.jpg 768w,
+ ./../images/VA32/tv-10055-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-10055-1090px.jpg"
+ data-srcset="./../images/VA32/bd-10055-512px.jpg 512w,
+ ./../images/VA32/bd-10055-768px.jpg 768w,
+ ./../images/VA32/bd-10055-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In this BEAUTIFUL frame, our boy has once again been adorned with two (2) additional zippers and an additional shard; the background is also blurrier:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-10140-1090px.jpg"
+ data-srcset="./../images/VA32/tv-10140-512px.jpg 512w,
+ ./../images/VA32/tv-10140-768px.jpg 768w,
+ ./../images/VA32/tv-10140-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-10140-1090px.jpg"
+ data-srcset="./../images/VA32/bd-10140-512px.jpg 512w,
+ ./../images/VA32/bd-10140-768px.jpg 768w,
+ ./../images/VA32/bd-10140-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Polnareff's binoculars cast a brighter gleam, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-10368-1090px.jpg"
+ data-srcset="./../images/VA32/tv-10368-512px.jpg 512w,
+ ./../images/VA32/tv-10368-768px.jpg 768w,
+ ./../images/VA32/tv-10368-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-10368-1090px.jpg"
+ data-srcset="./../images/VA32/bd-10368-512px.jpg 512w,
+ ./../images/VA32/bd-10368-768px.jpg 768w,
+ ./../images/VA32/bd-10368-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA32/02 - binoculars.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA32/02 - binoculars.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Buccellati has once again been pierced with one more shard of glass here, and the general lighting is different on the background and on Secco:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-10920-1090px.jpg"
+ data-srcset="./../images/VA32/tv-10920-512px.jpg 512w,
+ ./../images/VA32/tv-10920-768px.jpg 768w,
+ ./../images/VA32/tv-10920-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-10920-1090px.jpg"
+ data-srcset="./../images/VA32/bd-10920-512px.jpg 512w,
+ ./../images/VA32/bd-10920-768px.jpg 768w,
+ ./../images/VA32/bd-10920-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- STOP STABBING MY MOM:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-11100-1090px.jpg"
+ data-srcset="./../images/VA32/tv-11100-512px.jpg 512w,
+ ./../images/VA32/tv-11100-768px.jpg 768w,
+ ./../images/VA32/tv-11100-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-11100-1090px.jpg"
+ data-srcset="./../images/VA32/bd-11100-512px.jpg 512w,
+ ./../images/VA32/bd-11100-768px.jpg 768w,
+ ./../images/VA32/bd-11100-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-11115-1090px.jpg"
+ data-srcset="./../images/VA32/tv-11115-512px.jpg 512w,
+ ./../images/VA32/tv-11115-768px.jpg 768w,
+ ./../images/VA32/tv-11115-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-11115-1090px.jpg"
+ data-srcset="./../images/VA32/bd-11115-512px.jpg 512w,
+ ./../images/VA32/bd-11115-768px.jpg 768w,
+ ./../images/VA32/bd-11115-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-11210-1090px.jpg"
+ data-srcset="./../images/VA32/tv-11210-512px.jpg 512w,
+ ./../images/VA32/tv-11210-768px.jpg 768w,
+ ./../images/VA32/tv-11210-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-11210-1090px.jpg"
+ data-srcset="./../images/VA32/bd-11210-512px.jpg 512w,
+ ./../images/VA32/bd-11210-768px.jpg 768w,
+ ./../images/VA32/bd-11210-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This animation is, hm... A little different, but not very noticeably so. For starters, Secco is drawn with thinner lines in all frames; in addition, for the duration of the first two frames he's also been moved to the left...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-12606-1090px.jpg"
+ data-srcset="./../images/VA32/tv-12606-512px.jpg 512w,
+ ./../images/VA32/tv-12606-768px.jpg 768w,
+ ./../images/VA32/tv-12606-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-12606-1090px.jpg"
+ data-srcset="./../images/VA32/bd-12606-512px.jpg 512w,
+ ./../images/VA32/bd-12606-768px.jpg 768w,
+ ./../images/VA32/bd-12606-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...and the animation itself is a tad smoother, too. Check it out:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA32/03 - secco turn.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA32/03 - secco turn.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- The camera has been moved down in this scene, and it no longer looks like the lens has been smeared with vaseline:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-15350-1090px.jpg"
+ data-srcset="./../images/VA32/tv-15350-512px.jpg 512w,
+ ./../images/VA32/tv-15350-768px.jpg 768w,
+ ./../images/VA32/tv-15350-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-15350-1090px.jpg"
+ data-srcset="./../images/VA32/bd-15350-512px.jpg 512w,
+ ./../images/VA32/bd-15350-768px.jpg 768w,
+ ./../images/VA32/bd-15350-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In addition, when Secco shows up, the background is less blurry, there's a new darker vignette along the edges, the dirt in the foreground has been completely re-textured, the mud on him is looking different and Secco himself has been slightly re-coloured so as to look less flat:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-15380-1090px.jpg"
+ data-srcset="./../images/VA32/tv-15380-512px.jpg 512w,
+ ./../images/VA32/tv-15380-768px.jpg 768w,
+ ./../images/VA32/tv-15380-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-15380-1090px.jpg"
+ data-srcset="./../images/VA32/bd-15380-512px.jpg 512w,
+ ./../images/VA32/bd-15380-768px.jpg 768w,
+ ./../images/VA32/bd-15380-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-15525-1090px.jpg"
+ data-srcset="./../images/VA32/tv-15525-512px.jpg 512w,
+ ./../images/VA32/tv-15525-768px.jpg 768w,
+ ./../images/VA32/tv-15525-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-15525-1090px.jpg"
+ data-srcset="./../images/VA32/bd-15525-512px.jpg 512w,
+ ./../images/VA32/bd-15525-768px.jpg 768w,
+ ./../images/VA32/bd-15525-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Buccellati's mouth has been moved down a few pixels, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-16030-1090px.jpg"
+ data-srcset="./../images/VA32/tv-16030-512px.jpg 512w,
+ ./../images/VA32/tv-16030-768px.jpg 768w,
+ ./../images/VA32/tv-16030-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-16030-1090px.jpg"
+ data-srcset="./../images/VA32/bd-16030-512px.jpg 512w,
+ ./../images/VA32/bd-16030-768px.jpg 768w,
+ ./../images/VA32/bd-16030-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+ 
+- All the portraits of our precious boys have been completely redrawn here, for some reason, and there's a new textbox under Buccellati's:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-17705-1090px.jpg"
+ data-srcset="./../images/VA32/tv-17705-512px.jpg 512w,
+ ./../images/VA32/tv-17705-768px.jpg 768w,
+ ./../images/VA32/tv-17705-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-17705-1090px.jpg"
+ data-srcset="./../images/VA32/bd-17705-512px.jpg 512w,
+ ./../images/VA32/bd-17705-768px.jpg 768w,
+ ./../images/VA32/bd-17705-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-18310-1090px.jpg"
+ data-srcset="./../images/VA32/tv-18310-512px.jpg 512w,
+ ./../images/VA32/tv-18310-768px.jpg 768w,
+ ./../images/VA32/tv-18310-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-18310-1090px.jpg"
+ data-srcset="./../images/VA32/bd-18310-512px.jpg 512w,
+ ./../images/VA32/bd-18310-768px.jpg 768w,
+ ./../images/VA32/bd-18310-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-18530-1090px.jpg"
+ data-srcset="./../images/VA32/tv-18530-512px.jpg 512w,
+ ./../images/VA32/tv-18530-768px.jpg 768w,
+ ./../images/VA32/tv-18530-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-18530-1090px.jpg"
+ data-srcset="./../images/VA32/bd-18530-512px.jpg 512w,
+ ./../images/VA32/bd-18530-768px.jpg 768w,
+ ./../images/VA32/bd-18530-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-19310-1090px.jpg"
+ data-srcset="./../images/VA32/tv-19310-512px.jpg 512w,
+ ./../images/VA32/tv-19310-768px.jpg 768w,
+ ./../images/VA32/tv-19310-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-19310-1090px.jpg"
+ data-srcset="./../images/VA32/bd-19310-512px.jpg 512w,
+ ./../images/VA32/bd-19310-768px.jpg 768w,
+ ./../images/VA32/bd-19310-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The lines on Secco are _sliiiiiiiiiiightly_ thicker, here...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-20310-1090px.jpg"
+ data-srcset="./../images/VA32/tv-20310-512px.jpg 512w,
+ ./../images/VA32/tv-20310-768px.jpg 768w,
+ ./../images/VA32/tv-20310-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-20310-1090px.jpg"
+ data-srcset="./../images/VA32/bd-20310-512px.jpg 512w,
+ ./../images/VA32/bd-20310-768px.jpg 768w,
+ ./../images/VA32/bd-20310-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here's an interesting change! In this scene of Secco diving deep below Rome (AND WHERE ARE THE ANCIENT ROMAN RUINS, HUH ARAKI??? HUH???), the camera has been moved a little, most things are blurrier and slightly more muted and there's a new vignette along the edges:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-21278-1090px.jpg"
+ data-srcset="./../images/VA32/tv-21278-512px.jpg 512w,
+ ./../images/VA32/tv-21278-768px.jpg 768w,
+ ./../images/VA32/tv-21278-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-21278-1090px.jpg"
+ data-srcset="./../images/VA32/bd-21278-512px.jpg 512w,
+ ./../images/VA32/bd-21278-768px.jpg 768w,
+ ./../images/VA32/bd-21278-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-21283-1090px.jpg"
+ data-srcset="./../images/VA32/tv-21283-512px.jpg 512w,
+ ./../images/VA32/tv-21283-768px.jpg 768w,
+ ./../images/VA32/tv-21283-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-21283-1090px.jpg"
+ data-srcset="./../images/VA32/bd-21283-512px.jpg 512w,
+ ./../images/VA32/bd-21283-768px.jpg 768w,
+ ./../images/VA32/bd-21283-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In addition, Secco has pulled down his mask...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-21295-1090px.jpg"
+ data-srcset="./../images/VA32/tv-21295-512px.jpg 512w,
+ ./../images/VA32/tv-21295-768px.jpg 768w,
+ ./../images/VA32/tv-21295-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-21295-1090px.jpg"
+ data-srcset="./../images/VA32/bd-21295-512px.jpg 512w,
+ ./../images/VA32/bd-21295-768px.jpg 768w,
+ ./../images/VA32/bd-21295-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...And the underground bubbles are different, too:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-21308-1090px.jpg"
+ data-srcset="./../images/VA32/tv-21308-512px.jpg 512w,
+ ./../images/VA32/tv-21308-768px.jpg 768w,
+ ./../images/VA32/tv-21308-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-21308-1090px.jpg"
+ data-srcset="./../images/VA32/bd-21308-512px.jpg 512w,
+ ./../images/VA32/bd-21308-768px.jpg 768w,
+ ./../images/VA32/bd-21308-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-21425-1090px.jpg"
+ data-srcset="./../images/VA32/tv-21425-512px.jpg 512w,
+ ./../images/VA32/tv-21425-768px.jpg 768w,
+ ./../images/VA32/tv-21425-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-21425-1090px.jpg"
+ data-srcset="./../images/VA32/bd-21425-512px.jpg 512w,
+ ./../images/VA32/bd-21425-768px.jpg 768w,
+ ./../images/VA32/bd-21425-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-21515-1090px.jpg"
+ data-srcset="./../images/VA32/tv-21515-512px.jpg 512w,
+ ./../images/VA32/tv-21515-768px.jpg 768w,
+ ./../images/VA32/tv-21515-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-21515-1090px.jpg"
+ data-srcset="./../images/VA32/bd-21515-512px.jpg 512w,
+ ./../images/VA32/bd-21515-768px.jpg 768w,
+ ./../images/VA32/bd-21515-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-21565-1090px.jpg"
+ data-srcset="./../images/VA32/tv-21565-512px.jpg 512w,
+ ./../images/VA32/tv-21565-768px.jpg 768w,
+ ./../images/VA32/tv-21565-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-21565-1090px.jpg"
+ data-srcset="./../images/VA32/bd-21565-512px.jpg 512w,
+ ./../images/VA32/bd-21565-768px.jpg 768w,
+ ./../images/VA32/bd-21565-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In addition, he moves slightly later in the last part of the animation:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA32/04 - later secco.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA32/04 - later secco.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- The timing in this very cursed animation are also slightly different:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA32/05 - cursed secco.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA32/05 - cursed secco.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- The lighting is much better in this pretty shot, and there are more rocks floating about:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-24770-1090px.jpg"
+ data-srcset="./../images/VA32/tv-24770-512px.jpg 512w,
+ ./../images/VA32/tv-24770-768px.jpg 768w,
+ ./../images/VA32/tv-24770-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-24770-1090px.jpg"
+ data-srcset="./../images/VA32/bd-24770-512px.jpg 512w,
+ ./../images/VA32/bd-24770-768px.jpg 768w,
+ ./../images/VA32/bd-24770-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, the car has been retouched and repositioned, and there are new, darker effects where Secco melts into the ground:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-25300-1090px.jpg"
+ data-srcset="./../images/VA32/tv-25300-512px.jpg 512w,
+ ./../images/VA32/tv-25300-768px.jpg 768w,
+ ./../images/VA32/tv-25300-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-25300-1090px.jpg"
+ data-srcset="./../images/VA32/bd-25300-512px.jpg 512w,
+ ./../images/VA32/bd-25300-768px.jpg 768w,
+ ./../images/VA32/bd-25300-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, the ground and sky textures are both different:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-25455-1090px.jpg"
+ data-srcset="./../images/VA32/tv-25455-512px.jpg 512w,
+ ./../images/VA32/tv-25455-768px.jpg 768w,
+ ./../images/VA32/tv-25455-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-25455-1090px.jpg"
+ data-srcset="./../images/VA32/bd-25455-512px.jpg 512w,
+ ./../images/VA32/bd-25455-768px.jpg 768w,
+ ./../images/VA32/bd-25455-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In this scene of Secco just yelling at a random dog, the background has been moved and its lighting/shading tweaked, and there's a different distortion along the edges of the frame:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-25670-1090px.jpg"
+ data-srcset="./../images/VA32/tv-25670-512px.jpg 512w,
+ ./../images/VA32/tv-25670-768px.jpg 768w,
+ ./../images/VA32/tv-25670-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-25670-1090px.jpg"
+ data-srcset="./../images/VA32/bd-25670-512px.jpg 512w,
+ ./../images/VA32/bd-25670-768px.jpg 768w,
+ ./../images/VA32/bd-25670-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Most things have been moved around here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-25720-1090px.jpg"
+ data-srcset="./../images/VA32/tv-25720-512px.jpg 512w,
+ ./../images/VA32/tv-25720-768px.jpg 768w,
+ ./../images/VA32/tv-25720-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-25720-1090px.jpg"
+ data-srcset="./../images/VA32/bd-25720-512px.jpg 512w,
+ ./../images/VA32/bd-25720-768px.jpg 768w,
+ ./../images/VA32/bd-25720-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In this _extremely_ cool shot of Buccellati, there is a new distortion effect around the zipper, there's a different lighting on Buccellati and on some elements of the background, and he has A MOUTH:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-26110-1090px.jpg"
+ data-srcset="./../images/VA32/tv-26110-512px.jpg 512w,
+ ./../images/VA32/tv-26110-768px.jpg 768w,
+ ./../images/VA32/tv-26110-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-26110-1090px.jpg"
+ data-srcset="./../images/VA32/bd-26110-512px.jpg 512w,
+ ./../images/VA32/bd-26110-768px.jpg 768w,
+ ./../images/VA32/bd-26110-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...which he actually uses to actually talk:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA32/06 - he speaketh.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA32/06 - he speaketh.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- The zipper distortion is back here, and both Buccellati and the background have a slightly different lighting once more, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-26215-1090px.jpg"
+ data-srcset="./../images/VA32/tv-26215-512px.jpg 512w,
+ ./../images/VA32/tv-26215-768px.jpg 768w,
+ ./../images/VA32/tv-26215-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-26215-1090px.jpg"
+ data-srcset="./../images/VA32/bd-26215-512px.jpg 512w,
+ ./../images/VA32/bd-26215-768px.jpg 768w,
+ ./../images/VA32/bd-26215-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-26305-1090px.jpg"
+ data-srcset="./../images/VA32/tv-26305-512px.jpg 512w,
+ ./../images/VA32/tv-26305-768px.jpg 768w,
+ ./../images/VA32/tv-26305-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-26305-1090px.jpg"
+ data-srcset="./../images/VA32/bd-26305-512px.jpg 512w,
+ ./../images/VA32/bd-26305-768px.jpg 768w,
+ ./../images/VA32/bd-26305-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Secco, the signs and the kiosk in the background are looking a little blurrier and brighter, here; in addition, the car on the left has been moved on the appropriate layer, and its taillights have been retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-26390-1090px.jpg"
+ data-srcset="./../images/VA32/tv-26390-512px.jpg 512w,
+ ./../images/VA32/tv-26390-768px.jpg 768w,
+ ./../images/VA32/tv-26390-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-26390-1090px.jpg"
+ data-srcset="./../images/VA32/bd-26390-512px.jpg 512w,
+ ./../images/VA32/bd-26390-768px.jpg 768w,
+ ./../images/VA32/bd-26390-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Most lines are thinner on Buccellati here, and a couple of shadows have also been retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-26840-1090px.jpg"
+ data-srcset="./../images/VA32/tv-26840-512px.jpg 512w,
+ ./../images/VA32/tv-26840-768px.jpg 768w,
+ ./../images/VA32/tv-26840-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-26840-1090px.jpg"
+ data-srcset="./../images/VA32/bd-26840-512px.jpg 512w,
+ ./../images/VA32/bd-26840-768px.jpg 768w,
+ ./../images/VA32/bd-26840-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-26890-1090px.jpg"
+ data-srcset="./../images/VA32/tv-26890-512px.jpg 512w,
+ ./../images/VA32/tv-26890-768px.jpg 768w,
+ ./../images/VA32/tv-26890-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-26890-1090px.jpg"
+ data-srcset="./../images/VA32/bd-26890-512px.jpg 512w,
+ ./../images/VA32/bd-26890-768px.jpg 768w,
+ ./../images/VA32/bd-26890-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Most lines are, once again, thinner here; in addition, the background has been moved...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-27355-1090px.jpg"
+ data-srcset="./../images/VA32/tv-27355-512px.jpg 512w,
+ ./../images/VA32/tv-27355-768px.jpg 768w,
+ ./../images/VA32/tv-27355-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-27355-1090px.jpg"
+ data-srcset="./../images/VA32/bd-27355-512px.jpg 512w,
+ ./../images/VA32/bd-27355-768px.jpg 768w,
+ ./../images/VA32/bd-27355-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-27545-1090px.jpg"
+ data-srcset="./../images/VA32/tv-27545-512px.jpg 512w,
+ ./../images/VA32/tv-27545-768px.jpg 768w,
+ ./../images/VA32/tv-27545-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-27545-1090px.jpg"
+ data-srcset="./../images/VA32/bd-27545-512px.jpg 512w,
+ ./../images/VA32/bd-27545-768px.jpg 768w,
+ ./../images/VA32/bd-27545-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...and the aforementioned background also moves less (since, you know, it's _right behind them_):
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA32/07 - no bg move.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA32/07 - no bg move.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Woo, this one's got a bunch of different things! The background has been moved, Buccellati's blurrier, there's a different distortion along the edge and all three characters haave a slightly different lighting/shading:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-27670-1090px.jpg"
+ data-srcset="./../images/VA32/tv-27670-512px.jpg 512w,
+ ./../images/VA32/tv-27670-768px.jpg 768w,
+ ./../images/VA32/tv-27670-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-27670-1090px.jpg"
+ data-srcset="./../images/VA32/bd-27670-512px.jpg 512w,
+ ./../images/VA32/bd-27670-768px.jpg 768w,
+ ./../images/VA32/bd-27670-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The lines! They're thinner again:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-28050-1090px.jpg"
+ data-srcset="./../images/VA32/tv-28050-512px.jpg 512w,
+ ./../images/VA32/tv-28050-768px.jpg 768w,
+ ./../images/VA32/tv-28050-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-28050-1090px.jpg"
+ data-srcset="./../images/VA32/bd-28050-512px.jpg 512w,
+ ./../images/VA32/bd-28050-768px.jpg 768w,
+ ./../images/VA32/bd-28050-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In the TV version, the trash mysteriously disappeared for the last 5 frames of this animation; this is no longer the case in the BDs (although, as we all know, the _real_ trash is there in both versions). A line on Secco's foot has also been slightly retouched:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-30188-1090px.jpg"
+ data-srcset="./../images/VA32/tv-30188-512px.jpg 512w,
+ ./../images/VA32/tv-30188-768px.jpg 768w,
+ ./../images/VA32/tv-30188-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-30188-1090px.jpg"
+ data-srcset="./../images/VA32/bd-30188-512px.jpg 512w,
+ ./../images/VA32/bd-30188-768px.jpg 768w,
+ ./../images/VA32/bd-30188-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Doppio no longer looks like he's wearing some very low-rise pants, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-30637-1090px.jpg"
+ data-srcset="./../images/VA32/tv-30637-512px.jpg 512w,
+ ./../images/VA32/tv-30637-768px.jpg 768w,
+ ./../images/VA32/tv-30637-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-30637-1090px.jpg"
+ data-srcset="./../images/VA32/bd-30637-512px.jpg 512w,
+ ./../images/VA32/bd-30637-768px.jpg 768w,
+ ./../images/VA32/bd-30637-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- DOPPIO! YOU FORGOT YOUR BAG! Also, your right shoulder has been slightly retouched. Did you notice, my dear Doppio?:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-31380-1090px.jpg"
+ data-srcset="./../images/VA32/tv-31380-512px.jpg 512w,
+ ./../images/VA32/tv-31380-768px.jpg 768w,
+ ./../images/VA32/tv-31380-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-31380-1090px.jpg"
+ data-srcset="./../images/VA32/bd-31380-512px.jpg 512w,
+ ./../images/VA32/bd-31380-768px.jpg 768w,
+ ./../images/VA32/bd-31380-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The bag has reappeared here as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-31381-1090px.jpg"
+ data-srcset="./../images/VA32/tv-31381-512px.jpg 512w,
+ ./../images/VA32/tv-31381-768px.jpg 768w,
+ ./../images/VA32/tv-31381-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-31381-1090px.jpg"
+ data-srcset="./../images/VA32/bd-31381-512px.jpg 512w,
+ ./../images/VA32/bd-31381-768px.jpg 768w,
+ ./../images/VA32/bd-31381-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And, in addition, our beloved "To Be Continued" arrow comes later:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA32/08 - to be continued.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA32/08 - to be continued.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Moreover! The texture at the end is looking a little different too:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-31525-1090px.jpg"
+ data-srcset="./../images/VA32/tv-31525-512px.jpg 512w,
+ ./../images/VA32/tv-31525-768px.jpg 768w,
+ ./../images/VA32/tv-31525-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-31525-1090px.jpg"
+ data-srcset="./../images/VA32/bd-31525-512px.jpg 512w,
+ ./../images/VA32/bd-31525-768px.jpg 768w,
+ ./../images/VA32/bd-31525-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- What's this? A credit difference! We haven't had one of these in a bit, huh? In any case, Felix Film has been added to the credits, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/tv-32315-1090px.jpg"
+ data-srcset="./../images/VA32/tv-32315-512px.jpg 512w,
+ ./../images/VA32/tv-32315-768px.jpg 768w,
+ ./../images/VA32/tv-32315-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA32/bd-32315-1090px.jpg"
+ data-srcset="./../images/VA32/bd-32315-512px.jpg 512w,
+ ./../images/VA32/bd-32315-768px.jpg 768w,
+ ./../images/VA32/bd-32315-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And that concludes today's in-depth look at Vento Aureo! Finally something a little juicier, huh? I hope the videos are looking better for you too, and do let me know if anything's looking weird! I'll see you next time for Vento Aureo #33, "His Name is Diavolo"! Same place, same time! Maybe it'll be on schedule next week, though...
+
+<br>
+
+Well, see ya!
+
+<br>
+
+{% img width="100%" height="100%" center /images/tobecontinued.png %}
