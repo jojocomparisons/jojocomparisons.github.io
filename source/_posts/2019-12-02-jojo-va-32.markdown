@@ -40,7 +40,7 @@ But anyway, that's not why you're here today, is it? Let's cut to the chase and 
 
 <br>
 
-- In the BD version of this animation, the camera movement is less static:
+- In the BD version of this animation, the camera movement is less static! In addition, most lines on our sweet boy are thinner, the shading is softer and the background is a little brighter and blurrier:
 
 <video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/VA32/01 - buccellati stare.webm" type='video/webm; codecs="vp8, vorbis"'>
