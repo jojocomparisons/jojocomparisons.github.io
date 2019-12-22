@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://jojocomparisons.github.io/jojo-va-35/</loc>
+<lastmod>2019-12-22T17:16:19+01:00</lastmod>
+</url>
+<url>
 <loc>https://jojocomparisons.github.io/jojo-va-34/</loc>
 <lastmod>2019-12-15T15:00:47+01:00</lastmod>
 </url>
@@ -469,9 +473,6 @@
 <lastmod>2016-09-21T12:34:21+02:00</lastmod>
 </url>
 <url>
-<loc>https://jojocomparisons.github.io/archives/</loc>
-</url>
-<url>
 <loc>https://jojocomparisons.github.io/contact/</loc>
 </url>
 <url>
@@ -481,13 +482,16 @@
 <loc>https://jojocomparisons.github.io/donate/</loc>
 </url>
 <url>
-<loc>https://jojocomparisons.github.io/</loc>
-</url>
-<url>
 <loc>https://jojocomparisons.github.io/blog/archives/</loc>
 </url>
 <url>
+<loc>https://jojocomparisons.github.io/</loc>
+</url>
+<url>
 <loc>https://jojocomparisons.github.io/episodelist/</loc>
+</url>
+<url>
+<loc>https://jojocomparisons.github.io/archives/</loc>
 </url>
 <url>
 <loc>https://jojocomparisons.github.io/categories/diu/</loc>
