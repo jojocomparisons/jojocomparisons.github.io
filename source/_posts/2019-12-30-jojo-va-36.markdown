@@ -1976,7 +1976,7 @@ So let's dive in!
 
 <br>
 
-- The bottom of the frame is slightly brighter here, and some details have been retouched on King Crimson:
+- The bottom of the frame is slightly brighter here, and some details have been retouched on King Crimson (although, alas, some mistakes have been introduced in a couple of these frames - thanks, <a href="https://jojocomparisons.github.io/jojo-va-36/#comment-4740047732">justacer</a>!):
 
 <div id="container1" class="twentytwenty-container">
  <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
