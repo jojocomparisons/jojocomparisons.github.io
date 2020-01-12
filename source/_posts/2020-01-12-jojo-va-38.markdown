@@ -1,0 +1,936 @@
+---
+layout: post
+title: "Vento Aureo #38 - Gold Experience Requiem"
+date: 2020-01-12 19:15:07 +0100
+comments: true
+categories: va
+---
+
+{% img width="100%" height="100%" center /images/VA38/38-header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+What is up my good fellas? Welcome back to this here fine establishment for out second-to-last appointment with Vento Aureo: Episode #38, "Gold Experience Requiem"! This will be a shorter and less eventful post compared to the last couple, so grab a (smaller) snack and sit back on a (smaller, less comfortable) chair, because we're about to plunge the (relatively shallow) depths of this comparison together, friends!
+
+<br>
+
+Let's go!
+
+<br>
+
+- Today's first difference is this couple of animations, now beautifully rendered in all their bright & sharp details:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA38/01 - beatdown 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA38/01 - beatdown 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-00910-1090px.jpg"
+ data-srcset="./../images/VA38/tv-00910-512px.jpg 512w,
+ ./../images/VA38/tv-00910-768px.jpg 768w,
+ ./../images/VA38/tv-00910-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-00910-1090px.jpg"
+ data-srcset="./../images/VA38/bd-00910-512px.jpg 512w,
+ ./../images/VA38/bd-00910-768px.jpg 768w,
+ ./../images/VA38/bd-00910-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-00913-1090px.jpg"
+ data-srcset="./../images/VA38/tv-00913-512px.jpg 512w,
+ ./../images/VA38/tv-00913-768px.jpg 768w,
+ ./../images/VA38/tv-00913-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-00913-1090px.jpg"
+ data-srcset="./../images/VA38/bd-00913-512px.jpg 512w,
+ ./../images/VA38/bd-00913-768px.jpg 768w,
+ ./../images/VA38/bd-00913-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA38/02 - beatdown 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA38/02 - beatdown 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-00940-1090px.jpg"
+ data-srcset="./../images/VA38/tv-00940-512px.jpg 512w,
+ ./../images/VA38/tv-00940-768px.jpg 768w,
+ ./../images/VA38/tv-00940-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-00940-1090px.jpg"
+ data-srcset="./../images/VA38/bd-00940-512px.jpg 512w,
+ ./../images/VA38/bd-00940-768px.jpg 768w,
+ ./../images/VA38/bd-00940-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-00952-1090px.jpg"
+ data-srcset="./../images/VA38/tv-00952-512px.jpg 512w,
+ ./../images/VA38/tv-00952-768px.jpg 768w,
+ ./../images/VA38/tv-00952-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-00952-1090px.jpg"
+ data-srcset="./../images/VA38/bd-00952-512px.jpg 512w,
+ ./../images/VA38/bd-00952-768px.jpg 768w,
+ ./../images/VA38/bd-00952-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- King Crimson's head has been retouched in some places, here...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-01257-1090px.jpg"
+ data-srcset="./../images/VA38/tv-01257-512px.jpg 512w,
+ ./../images/VA38/tv-01257-768px.jpg 768w,
+ ./../images/VA38/tv-01257-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-01257-1090px.jpg"
+ data-srcset="./../images/VA38/bd-01257-512px.jpg 512w,
+ ./../images/VA38/bd-01257-768px.jpg 768w,
+ ./../images/VA38/bd-01257-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-01264-1090px.jpg"
+ data-srcset="./../images/VA38/tv-01264-512px.jpg 512w,
+ ./../images/VA38/tv-01264-768px.jpg 768w,
+ ./../images/VA38/tv-01264-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-01264-1090px.jpg"
+ data-srcset="./../images/VA38/bd-01264-512px.jpg 512w,
+ ./../images/VA38/bd-01264-768px.jpg 768w,
+ ./../images/VA38/bd-01264-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-01272-1090px.jpg"
+ data-srcset="./../images/VA38/tv-01272-512px.jpg 512w,
+ ./../images/VA38/tv-01272-768px.jpg 768w,
+ ./../images/VA38/tv-01272-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-01272-1090px.jpg"
+ data-srcset="./../images/VA38/bd-01272-512px.jpg 512w,
+ ./../images/VA38/bd-01272-768px.jpg 768w,
+ ./../images/VA38/bd-01272-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- While here it's Gold Experience Requiem who has received a significant retouch! In addition, the background is different, there is a new distortion along the edges and its aura is also looking different in places. Forgive me the frame barrage, but there's just A LOT to take a look at:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-01326-1090px.jpg"
+ data-srcset="./../images/VA38/tv-01326-512px.jpg 512w,
+ ./../images/VA38/tv-01326-768px.jpg 768w,
+ ./../images/VA38/tv-01326-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-01326-1090px.jpg"
+ data-srcset="./../images/VA38/bd-01326-512px.jpg 512w,
+ ./../images/VA38/bd-01326-768px.jpg 768w,
+ ./../images/VA38/bd-01326-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-01328-1090px.jpg"
+ data-srcset="./../images/VA38/tv-01328-512px.jpg 512w,
+ ./../images/VA38/tv-01328-768px.jpg 768w,
+ ./../images/VA38/tv-01328-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-01328-1090px.jpg"
+ data-srcset="./../images/VA38/bd-01328-512px.jpg 512w,
+ ./../images/VA38/bd-01328-768px.jpg 768w,
+ ./../images/VA38/bd-01328-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-01333-1090px.jpg"
+ data-srcset="./../images/VA38/tv-01333-512px.jpg 512w,
+ ./../images/VA38/tv-01333-768px.jpg 768w,
+ ./../images/VA38/tv-01333-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-01333-1090px.jpg"
+ data-srcset="./../images/VA38/bd-01333-512px.jpg 512w,
+ ./../images/VA38/bd-01333-768px.jpg 768w,
+ ./../images/VA38/bd-01333-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-01335-1090px.jpg"
+ data-srcset="./../images/VA38/tv-01335-512px.jpg 512w,
+ ./../images/VA38/tv-01335-768px.jpg 768w,
+ ./../images/VA38/tv-01335-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-01335-1090px.jpg"
+ data-srcset="./../images/VA38/bd-01335-512px.jpg 512w,
+ ./../images/VA38/bd-01335-768px.jpg 768w,
+ ./../images/VA38/bd-01335-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-01340-1090px.jpg"
+ data-srcset="./../images/VA38/tv-01340-512px.jpg 512w,
+ ./../images/VA38/tv-01340-768px.jpg 768w,
+ ./../images/VA38/tv-01340-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-01340-1090px.jpg"
+ data-srcset="./../images/VA38/bd-01340-512px.jpg 512w,
+ ./../images/VA38/bd-01340-768px.jpg 768w,
+ ./../images/VA38/bd-01340-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-01360-1090px.jpg"
+ data-srcset="./../images/VA38/tv-01360-512px.jpg 512w,
+ ./../images/VA38/tv-01360-768px.jpg 768w,
+ ./../images/VA38/tv-01360-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-01360-1090px.jpg"
+ data-srcset="./../images/VA38/bd-01360-512px.jpg 512w,
+ ./../images/VA38/bd-01360-768px.jpg 768w,
+ ./../images/VA38/bd-01360-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-01362-1090px.jpg"
+ data-srcset="./../images/VA38/tv-01362-512px.jpg 512w,
+ ./../images/VA38/tv-01362-768px.jpg 768w,
+ ./../images/VA38/tv-01362-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-01362-1090px.jpg"
+ data-srcset="./../images/VA38/bd-01362-512px.jpg 512w,
+ ./../images/VA38/bd-01362-768px.jpg 768w,
+ ./../images/VA38/bd-01362-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-01365-1090px.jpg"
+ data-srcset="./../images/VA38/tv-01365-512px.jpg 512w,
+ ./../images/VA38/tv-01365-768px.jpg 768w,
+ ./../images/VA38/tv-01365-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-01365-1090px.jpg"
+ data-srcset="./../images/VA38/bd-01365-512px.jpg 512w,
+ ./../images/VA38/bd-01365-768px.jpg 768w,
+ ./../images/VA38/bd-01365-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-01368-1090px.jpg"
+ data-srcset="./../images/VA38/tv-01368-512px.jpg 512w,
+ ./../images/VA38/tv-01368-768px.jpg 768w,
+ ./../images/VA38/tv-01368-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-01368-1090px.jpg"
+ data-srcset="./../images/VA38/bd-01368-512px.jpg 512w,
+ ./../images/VA38/bd-01368-768px.jpg 768w,
+ ./../images/VA38/bd-01368-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-01375-1090px.jpg"
+ data-srcset="./../images/VA38/tv-01375-512px.jpg 512w,
+ ./../images/VA38/tv-01375-768px.jpg 768w,
+ ./../images/VA38/tv-01375-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-01375-1090px.jpg"
+ data-srcset="./../images/VA38/bd-01375-512px.jpg 512w,
+ ./../images/VA38/bd-01375-768px.jpg 768w,
+ ./../images/VA38/bd-01375-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-01377-1090px.jpg"
+ data-srcset="./../images/VA38/tv-01377-512px.jpg 512w,
+ ./../images/VA38/tv-01377-768px.jpg 768w,
+ ./../images/VA38/tv-01377-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-01377-1090px.jpg"
+ data-srcset="./../images/VA38/bd-01377-512px.jpg 512w,
+ ./../images/VA38/bd-01377-768px.jpg 768w,
+ ./../images/VA38/bd-01377-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-01387-1090px.jpg"
+ data-srcset="./../images/VA38/tv-01387-512px.jpg 512w,
+ ./../images/VA38/tv-01387-768px.jpg 768w,
+ ./../images/VA38/tv-01387-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-01387-1090px.jpg"
+ data-srcset="./../images/VA38/bd-01387-512px.jpg 512w,
+ ./../images/VA38/bd-01387-768px.jpg 768w,
+ ./../images/VA38/bd-01387-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-01394-1090px.jpg"
+ data-srcset="./../images/VA38/tv-01394-512px.jpg 512w,
+ ./../images/VA38/tv-01394-768px.jpg 768w,
+ ./../images/VA38/tv-01394-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-01394-1090px.jpg"
+ data-srcset="./../images/VA38/bd-01394-512px.jpg 512w,
+ ./../images/VA38/bd-01394-768px.jpg 768w,
+ ./../images/VA38/bd-01394-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's take a look at it in motion, shall we?:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA38/04 - ger punch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA38/04 - ger punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here we have the final version of the opening's punch barrage, now sporting Gold Experience Requiem:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA38/03 - beatdown 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA38/03 - beatdown 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-03990-1090px.jpg"
+ data-srcset="./../images/VA38/tv-03990-512px.jpg 512w,
+ ./../images/VA38/tv-03990-768px.jpg 768w,
+ ./../images/VA38/tv-03990-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-03990-1090px.jpg"
+ data-srcset="./../images/VA38/bd-03990-512px.jpg 512w,
+ ./../images/VA38/bd-03990-768px.jpg 768w,
+ ./../images/VA38/bd-03990-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-04011-1090px.jpg"
+ data-srcset="./../images/VA38/tv-04011-512px.jpg 512w,
+ ./../images/VA38/tv-04011-768px.jpg 768w,
+ ./../images/VA38/tv-04011-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-04011-1090px.jpg"
+ data-srcset="./../images/VA38/bd-04011-512px.jpg 512w,
+ ./../images/VA38/bd-04011-768px.jpg 768w,
+ ./../images/VA38/bd-04011-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-04036-1090px.jpg"
+ data-srcset="./../images/VA38/tv-04036-512px.jpg 512w,
+ ./../images/VA38/tv-04036-768px.jpg 768w,
+ ./../images/VA38/tv-04036-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-04036-1090px.jpg"
+ data-srcset="./../images/VA38/bd-04036-512px.jpg 512w,
+ ./../images/VA38/bd-04036-768px.jpg 768w,
+ ./../images/VA38/bd-04036-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-04080-1090px.jpg"
+ data-srcset="./../images/VA38/tv-04080-512px.jpg 512w,
+ ./../images/VA38/tv-04080-768px.jpg 768w,
+ ./../images/VA38/tv-04080-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-04080-1090px.jpg"
+ data-srcset="./../images/VA38/bd-04080-512px.jpg 512w,
+ ./../images/VA38/bd-04080-768px.jpg 768w,
+ ./../images/VA38/bd-04080-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The エクスペリエンス furigana has thicker outlines, here...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-04340-1090px.jpg"
+ data-srcset="./../images/VA38/tv-04340-512px.jpg 512w,
+ ./../images/VA38/tv-04340-768px.jpg 768w,
+ ./../images/VA38/tv-04340-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-04340-1090px.jpg"
+ data-srcset="./../images/VA38/bd-04340-512px.jpg 512w,
+ ./../images/VA38/bd-04340-768px.jpg 768w,
+ ./../images/VA38/bd-04340-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The pool of blood is no longer static, here (making the ripple effects look less weird)...:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA38/05 - blood.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA38/05 - blood.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-08129-1090px.jpg"
+ data-srcset="./../images/VA38/tv-08129-512px.jpg 512w,
+ ./../images/VA38/tv-08129-768px.jpg 768w,
+ ./../images/VA38/tv-08129-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-08129-1090px.jpg"
+ data-srcset="./../images/VA38/bd-08129-512px.jpg 512w,
+ ./../images/VA38/bd-08129-768px.jpg 768w,
+ ./../images/VA38/bd-08129-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- These two bits coming up are the most interesting, for me! Here, the scene of the scalpel cutting into Diavolo's chest has been slightly extended...:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA38/06 - scalpel.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA38/06 - scalpel.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And here there's an entirely new (gory) bit! The animation is strangely choppy, but we'll take what we can get:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA38/07 - liver.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA38/07 - liver.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, the dude's mouth has been retouched and the colouring on the right part of the frame is slightly flatter:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-12595-1090px.jpg"
+ data-srcset="./../images/VA38/tv-12595-512px.jpg 512w,
+ ./../images/VA38/tv-12595-768px.jpg 768w,
+ ./../images/VA38/tv-12595-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-12595-1090px.jpg"
+ data-srcset="./../images/VA38/bd-12595-512px.jpg 512w,
+ ./../images/VA38/bd-12595-768px.jpg 768w,
+ ./../images/VA38/bd-12595-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-12600-1090px.jpg"
+ data-srcset="./../images/VA38/tv-12600-512px.jpg 512w,
+ ./../images/VA38/tv-12600-768px.jpg 768w,
+ ./../images/VA38/tv-12600-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-12600-1090px.jpg"
+ data-srcset="./../images/VA38/bd-12600-512px.jpg 512w,
+ ./../images/VA38/bd-12600-768px.jpg 768w,
+ ./../images/VA38/bd-12600-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's take a look at the second-to-last eyecatch...:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA38/08 - eyecatch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA38/08 - eyecatch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-16760-1090px.jpg"
+ data-srcset="./../images/VA38/tv-16760-512px.jpg 512w,
+ ./../images/VA38/tv-16760-768px.jpg 768w,
+ ./../images/VA38/tv-16760-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-16760-1090px.jpg"
+ data-srcset="./../images/VA38/bd-16760-512px.jpg 512w,
+ ./../images/VA38/bd-16760-768px.jpg 768w,
+ ./../images/VA38/bd-16760-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Moving on to the second part of the episode, this scene has a different shading towards the bottom (and, in addition, the bottle in the middle of the table also casts a darker shadow):
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-18715-1090px.jpg"
+ data-srcset="./../images/VA38/tv-18715-512px.jpg 512w,
+ ./../images/VA38/tv-18715-768px.jpg 768w,
+ ./../images/VA38/tv-18715-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-18715-1090px.jpg"
+ data-srcset="./../images/VA38/bd-18715-512px.jpg 512w,
+ ./../images/VA38/bd-18715-768px.jpg 768w,
+ ./../images/VA38/bd-18715-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This brief animation is brighter...:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA38/09 - falling.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA38/09 - falling.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-23945-1090px.jpg"
+ data-srcset="./../images/VA38/tv-23945-512px.jpg 512w,
+ ./../images/VA38/tv-23945-768px.jpg 768w,
+ ./../images/VA38/tv-23945-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-23945-1090px.jpg"
+ data-srcset="./../images/VA38/bd-23945-512px.jpg 512w,
+ ./../images/VA38/bd-23945-768px.jpg 768w,
+ ./../images/VA38/bd-23945-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...while this is slightly darker:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/VA38/10 - darker.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/VA38/10 - darker.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-23959-1090px.jpg"
+ data-srcset="./../images/VA38/tv-23959-512px.jpg 512w,
+ ./../images/VA38/tv-23959-768px.jpg 768w,
+ ./../images/VA38/tv-23959-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-23959-1090px.jpg"
+ data-srcset="./../images/VA38/bd-23959-512px.jpg 512w,
+ ./../images/VA38/bd-23959-768px.jpg 768w,
+ ./../images/VA38/bd-23959-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-24035-1090px.jpg"
+ data-srcset="./../images/VA38/tv-24035-512px.jpg 512w,
+ ./../images/VA38/tv-24035-768px.jpg 768w,
+ ./../images/VA38/tv-24035-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-24035-1090px.jpg"
+ data-srcset="./../images/VA38/bd-24035-512px.jpg 512w,
+ ./../images/VA38/bd-24035-768px.jpg 768w,
+ ./../images/VA38/bd-24035-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, most colours are slightly flatter, there are a couple more dots on Buccellati's back and the round table has a brighter rim:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-24040-1090px.jpg"
+ data-srcset="./../images/VA38/tv-24040-512px.jpg 512w,
+ ./../images/VA38/tv-24040-768px.jpg 768w,
+ ./../images/VA38/tv-24040-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-24040-1090px.jpg"
+ data-srcset="./../images/VA38/bd-24040-512px.jpg 512w,
+ ./../images/VA38/bd-24040-768px.jpg 768w,
+ ./../images/VA38/bd-24040-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-24110-1090px.jpg"
+ data-srcset="./../images/VA38/tv-24110-512px.jpg 512w,
+ ./../images/VA38/tv-24110-768px.jpg 768w,
+ ./../images/VA38/tv-24110-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-24110-1090px.jpg"
+ data-srcset="./../images/VA38/bd-24110-512px.jpg 512w,
+ ./../images/VA38/bd-24110-768px.jpg 768w,
+ ./../images/VA38/bd-24110-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The shading and colouring have been slightly tweaked here as well; in addition, the shadow under Buccellati's nose is slightly darker, and the lines on his upper lip (which were missing in three frames) have been restored:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-24125-1090px.jpg"
+ data-srcset="./../images/VA38/tv-24125-512px.jpg 512w,
+ ./../images/VA38/tv-24125-768px.jpg 768w,
+ ./../images/VA38/tv-24125-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-24125-1090px.jpg"
+ data-srcset="./../images/VA38/bd-24125-512px.jpg 512w,
+ ./../images/VA38/bd-24125-768px.jpg 768w,
+ ./../images/VA38/bd-24125-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-24505-1090px.jpg"
+ data-srcset="./../images/VA38/tv-24505-512px.jpg 512w,
+ ./../images/VA38/tv-24505-768px.jpg 768w,
+ ./../images/VA38/tv-24505-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-24505-1090px.jpg"
+ data-srcset="./../images/VA38/bd-24505-512px.jpg 512w,
+ ./../images/VA38/bd-24505-768px.jpg 768w,
+ ./../images/VA38/bd-24505-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In this scene, the background is blurrier and is now sporting a dark vignette along the bottom of the frame. In addition, the right side of the character is slightly brighter:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-27200-1090px.jpg"
+ data-srcset="./../images/VA38/tv-27200-512px.jpg 512w,
+ ./../images/VA38/tv-27200-768px.jpg 768w,
+ ./../images/VA38/tv-27200-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-27200-1090px.jpg"
+ data-srcset="./../images/VA38/bd-27200-512px.jpg 512w,
+ ./../images/VA38/bd-27200-768px.jpg 768w,
+ ./../images/VA38/bd-27200-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In this beautiful scene depicting our good good boys, most lines on Abbacchio are thicker and Abbacchio's eyes have been retouched; in addition, the shading/colouring on most things has been tweaked slightly:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/tv-27522-1090px.jpg"
+ data-srcset="./../images/VA38/tv-27522-512px.jpg 512w,
+ ./../images/VA38/tv-27522-768px.jpg 768w,
+ ./../images/VA38/tv-27522-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/VA38/bd-27522-1090px.jpg"
+ data-srcset="./../images/VA38/bd-27522-512px.jpg 512w,
+ ./../images/VA38/bd-27522-768px.jpg 768w,
+ ./../images/VA38/bd-27522-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And that's it for this time, fellas! I hope you had a good time with yours truly, and meet me back here next week for the grand finale, the conlusion to this glorious arc - Vento Aureo #39, "Sleeping Slaves"!
+
+<br>
+
+Arrivederci!
+
+<br>
+
+{% img width="100%" height="100%" center /images/tobecontinued.png %}
