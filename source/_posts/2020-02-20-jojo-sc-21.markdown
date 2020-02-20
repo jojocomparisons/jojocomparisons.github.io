@@ -1,0 +1,240 @@
+---
+layout: post
+title: "Stardust Crusaders #21 - Judgement - Part 1"
+date: 2020-02-20 22:40:51 +0100
+comments: true
+categories: sc
+---
+
+{% img center /images/SC21/21-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello once again, friends! Today I have come to tickle your corneas with a delightful package of not ONE, but TWO comparisons! And no, this is by no means an attempt to make up for last week's incredibly short comparison (and, to a lesser extent, today's first short post), I don't know why you would even ask that, go away. Actually no, don't go - it's Stardust Crusaders time! So, without further ado... Let's take a look at "Judgement - Part 1"!
+
+<br>
+
+Let's go!
+
+<br>
+
+- Let's start with this shot of Kakyoin! His neck has been correctly recoloured, the inside of his ear is now black and the background is blurrier and brighter:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/tv-04220-1090px.jpg"
+ data-srcset="./../images/SC21/tv-04220-512px.jpg 512w,
+ ./../images/SC21/tv-04220-768px.jpg 768w,
+ ./../images/SC21/tv-04220-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/bd-04220-1090px.jpg"
+ data-srcset="./../images/SC21/bd-04220-512px.jpg 512w,
+ ./../images/SC21/bd-04220-768px.jpg 768w,
+ ./../images/SC21/bd-04220-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Speaking of brighter... This animation! Check it out:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC21/01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC21/01 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/tv-11127-1090px.jpg"
+ data-srcset="./../images/SC21/tv-11127-512px.jpg 512w,
+ ./../images/SC21/tv-11127-768px.jpg 768w,
+ ./../images/SC21/tv-11127-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/bd-11127-1090px.jpg"
+ data-srcset="./../images/SC21/bd-11127-512px.jpg 512w,
+ ./../images/SC21/bd-11127-768px.jpg 768w,
+ ./../images/SC21/bd-11127-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Moving on... Here, the area next to Jotaro's left ear is darker...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/tv-21640-1090px.jpg"
+ data-srcset="./../images/SC21/tv-21640-512px.jpg 512w,
+ ./../images/SC21/tv-21640-768px.jpg 768w,
+ ./../images/SC21/tv-21640-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/bd-21640-1090px.jpg"
+ data-srcset="./../images/SC21/bd-21640-512px.jpg 512w,
+ ./../images/SC21/bd-21640-768px.jpg 768w,
+ ./../images/SC21/bd-21640-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/tv-21740-1090px.jpg"
+ data-srcset="./../images/SC21/tv-21740-512px.jpg 512w,
+ ./../images/SC21/tv-21740-768px.jpg 768w,
+ ./../images/SC21/tv-21740-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/bd-21740-1090px.jpg"
+ data-srcset="./../images/SC21/bd-21740-512px.jpg 512w,
+ ./../images/SC21/bd-21740-768px.jpg 768w,
+ ./../images/SC21/bd-21740-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- These poor birds have been uncensored...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/tv-24075-1090px.jpg"
+ data-srcset="./../images/SC21/tv-24075-512px.jpg 512w,
+ ./../images/SC21/tv-24075-768px.jpg 768w,
+ ./../images/SC21/tv-24075-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/bd-24075-1090px.jpg"
+ data-srcset="./../images/SC21/bd-24075-512px.jpg 512w,
+ ./../images/SC21/bd-24075-768px.jpg 768w,
+ ./../images/SC21/bd-24075-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/tv-24115-1090px.jpg"
+ data-srcset="./../images/SC21/tv-24115-512px.jpg 512w,
+ ./../images/SC21/tv-24115-768px.jpg 768w,
+ ./../images/SC21/tv-24115-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/bd-24115-1090px.jpg"
+ data-srcset="./../images/SC21/bd-24115-512px.jpg 512w,
+ ./../images/SC21/bd-24115-768px.jpg 768w,
+ ./../images/SC21/bd-24115-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...as has been this touching family reunion! In addition, some of the blood droplets in the first video are slightly sharper as well:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC21/02 - uncensored.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC21/02 - uncensored.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/tv-27715-1090px.jpg"
+ data-srcset="./../images/SC21/tv-27715-512px.jpg 512w,
+ ./../images/SC21/tv-27715-768px.jpg 768w,
+ ./../images/SC21/tv-27715-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/bd-27715-1090px.jpg"
+ data-srcset="./../images/SC21/bd-27715-512px.jpg 512w,
+ ./../images/SC21/bd-27715-768px.jpg 768w,
+ ./../images/SC21/bd-27715-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/tv-27735-1090px.jpg"
+ data-srcset="./../images/SC21/tv-27735-512px.jpg 512w,
+ ./../images/SC21/tv-27735-768px.jpg 768w,
+ ./../images/SC21/tv-27735-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/bd-27735-1090px.jpg"
+ data-srcset="./../images/SC21/bd-27735-512px.jpg 512w,
+ ./../images/SC21/bd-27735-768px.jpg 768w,
+ ./../images/SC21/bd-27735-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/tv-31205-1090px.jpg"
+ data-srcset="./../images/SC21/tv-31205-512px.jpg 512w,
+ ./../images/SC21/tv-31205-768px.jpg 768w,
+ ./../images/SC21/tv-31205-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC21/bd-31205-1090px.jpg"
+ data-srcset="./../images/SC21/bd-31205-512px.jpg 512w,
+ ./../images/SC21/bd-31205-768px.jpg 768w,
+ ./../images/SC21/bd-31205-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And that concludes this brief first post! But worry not, my friends, because the comparison for Stardust Crusaders #22 is right around the corner...
+
+<br>
+
+See you there in a couple of seconds!
+
+<br>
+
+{% img center /images/tobecontinued.png %}

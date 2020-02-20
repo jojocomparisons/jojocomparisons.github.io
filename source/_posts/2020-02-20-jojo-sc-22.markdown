@@ -1,0 +1,839 @@
+---
+layout: post
+title: "Stardust Crusaders #22 - Judgement - Part 2"
+date: 2020-02-20 22:45:40 +0100
+comments: true
+categories: sc
+---
+
+{% img center /images/SC22/22-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Aaaand welcome back! There's no time to dilly-dally... Let's pick up right where we left off: Stardust Crusaders #22, "Judgement - Part 2"! As a brief disclaimer - this is going to contain a ton of videos, so if this comparison is acting up on your mobile devices, I suggest you read it from a PC instead. Anyhow...
+
+<br>
+
+Let's go!
+
+<br>
+
+- This comparison comes out of the gates swinging, with this animation of... Sherry? Chérie? (I'm gonna call her Chérie, since her name is most likely a reference to <a href="https://www.youtube.com/watch?v=9K-wFmkGIHc">this Polnareff song</a>) munching on something gross! The scene has been uncensored, the general lighting is slightly different and she no longer freezes for the last six frames:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/01 - chérie.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/01 - chérie.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-00410-1090px.jpg"
+ data-srcset="./../images/SC22/tv-00410-512px.jpg 512w,
+ ./../images/SC22/tv-00410-768px.jpg 768w,
+ ./../images/SC22/tv-00410-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-00410-1090px.jpg"
+ data-srcset="./../images/SC22/bd-00410-512px.jpg 512w,
+ ./../images/SC22/bd-00410-768px.jpg 768w,
+ ./../images/SC22/bd-00410-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-00480-1090px.jpg"
+ data-srcset="./../images/SC22/tv-00480-512px.jpg 512w,
+ ./../images/SC22/tv-00480-768px.jpg 768w,
+ ./../images/SC22/tv-00480-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-00480-1090px.jpg"
+ data-srcset="./../images/SC22/bd-00480-512px.jpg 512w,
+ ./../images/SC22/bd-00480-768px.jpg 768w,
+ ./../images/SC22/bd-00480-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Those strange plants no longer stop moving in this animation...:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/02 - grass wave.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/02 - grass wave.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And here, this animation has a different distortion, there are more blood specks flzing around and those very gross wounds have been uncensored:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/03 - scratch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/03 - scratch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-04334-1090px.jpg"
+ data-srcset="./../images/SC22/tv-04334-512px.jpg 512w,
+ ./../images/SC22/tv-04334-768px.jpg 768w,
+ ./../images/SC22/tv-04334-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-04334-1090px.jpg"
+ data-srcset="./../images/SC22/bd-04334-512px.jpg 512w,
+ ./../images/SC22/bd-04334-768px.jpg 768w,
+ ./../images/SC22/bd-04334-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Aaaand, right after the previous video, you'll be able to see the first of several animations which have been entirely changed throughout this episode, in the same vein as Vento Aureo #18 (but to a much lesser extent!) Check it out, friends:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/04 - throw.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/04 - throw.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- This animation no longer has those weird black borders towards the end...:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/05 - no borders.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/05 - no borders.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-05550-1090px.jpg"
+ data-srcset="./../images/SC22/tv-05550-512px.jpg 512w,
+ ./../images/SC22/tv-05550-768px.jpg 768w,
+ ./../images/SC22/tv-05550-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-05550-1090px.jpg"
+ data-srcset="./../images/SC22/bd-05550-512px.jpg 512w,
+ ./../images/SC22/bd-05550-768px.jpg 768w,
+ ./../images/SC22/bd-05550-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This sequence has been uncensored, the top-right corner is brighter, those weird veins on Chérie's face have been textured better and taper off more smoothly, and there are stronger motion lines on the bottom-left corner as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-05590-1090px.jpg"
+ data-srcset="./../images/SC22/tv-05590-512px.jpg 512w,
+ ./../images/SC22/tv-05590-768px.jpg 768w,
+ ./../images/SC22/tv-05590-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-05590-1090px.jpg"
+ data-srcset="./../images/SC22/bd-05590-512px.jpg 512w,
+ ./../images/SC22/bd-05590-768px.jpg 768w,
+ ./../images/SC22/bd-05590-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-05595-1090px.jpg"
+ data-srcset="./../images/SC22/tv-05595-512px.jpg 512w,
+ ./../images/SC22/tv-05595-768px.jpg 768w,
+ ./../images/SC22/tv-05595-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-05595-1090px.jpg"
+ data-srcset="./../images/SC22/bd-05595-512px.jpg 512w,
+ ./../images/SC22/bd-05595-768px.jpg 768w,
+ ./../images/SC22/bd-05595-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The background here is blurrier...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-05720-1090px.jpg"
+ data-srcset="./../images/SC22/tv-05720-512px.jpg 512w,
+ ./../images/SC22/tv-05720-768px.jpg 768w,
+ ./../images/SC22/tv-05720-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-05720-1090px.jpg"
+ data-srcset="./../images/SC22/bd-05720-512px.jpg 512w,
+ ./../images/SC22/bd-05720-768px.jpg 768w,
+ ./../images/SC22/bd-05720-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Now back to the good part! Here, in addition to the two clearly uncensored bits, the veins on both Chérie and Avdol's faces have all received the same treatment as that previous difference:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-05780-1090px.jpg"
+ data-srcset="./../images/SC22/tv-05780-512px.jpg 512w,
+ ./../images/SC22/tv-05780-768px.jpg 768w,
+ ./../images/SC22/tv-05780-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-05780-1090px.jpg"
+ data-srcset="./../images/SC22/bd-05780-512px.jpg 512w,
+ ./../images/SC22/bd-05780-768px.jpg 768w,
+ ./../images/SC22/bd-05780-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- There's a completely new animation, here...:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/06 - munch squad.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/06 - munch squad.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- ...while this one has "just" been uncensored, and the camera also moves around differently:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/07 - munch and shake.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/07 - munch and shake.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-07541-1090px.jpg"
+ data-srcset="./../images/SC22/tv-07541-512px.jpg 512w,
+ ./../images/SC22/tv-07541-768px.jpg 768w,
+ ./../images/SC22/tv-07541-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-07541-1090px.jpg"
+ data-srcset="./../images/SC22/bd-07541-512px.jpg 512w,
+ ./../images/SC22/bd-07541-768px.jpg 768w,
+ ./../images/SC22/bd-07541-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here we have another uncensored video! In addition, the grass blades also move a little more naturally:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/08 - munch grass.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/08 - munch grass.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-08100-1090px.jpg"
+ data-srcset="./../images/SC22/tv-08100-512px.jpg 512w,
+ ./../images/SC22/tv-08100-768px.jpg 768w,
+ ./../images/SC22/tv-08100-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-08100-1090px.jpg"
+ data-srcset="./../images/SC22/bd-08100-512px.jpg 512w,
+ ./../images/SC22/bd-08100-768px.jpg 768w,
+ ./../images/SC22/bd-08100-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And here we have another uncensored video, which has also received a shakier camera! In addition, some parts of the frame are blurrier and the general lighting is also different:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/09 - munch and shake.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/09 - munch and shake.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-08340-1090px.jpg"
+ data-srcset="./../images/SC22/tv-08340-512px.jpg 512w,
+ ./../images/SC22/tv-08340-768px.jpg 768w,
+ ./../images/SC22/tv-08340-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-08340-1090px.jpg"
+ data-srcset="./../images/SC22/bd-08340-512px.jpg 512w,
+ ./../images/SC22/bd-08340-768px.jpg 768w,
+ ./../images/SC22/bd-08340-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-08390-1090px.jpg"
+ data-srcset="./../images/SC22/tv-08390-512px.jpg 512w,
+ ./../images/SC22/tv-08390-768px.jpg 768w,
+ ./../images/SC22/tv-08390-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-08390-1090px.jpg"
+ data-srcset="./../images/SC22/bd-08390-512px.jpg 512w,
+ ./../images/SC22/bd-08390-768px.jpg 768w,
+ ./../images/SC22/bd-08390-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, the lighting is different and the scene is (once again) uncensored; interestingly enough, in the TV version the censoring did not disappear immediately as the scene changed, but carried over for a few frames of the following shot as well. Check it out:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/10 - uncensored.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/10 - uncensored.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-08435-1090px.jpg"
+ data-srcset="./../images/SC22/tv-08435-512px.jpg 512w,
+ ./../images/SC22/tv-08435-768px.jpg 768w,
+ ./../images/SC22/tv-08435-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-08435-1090px.jpg"
+ data-srcset="./../images/SC22/bd-08435-512px.jpg 512w,
+ ./../images/SC22/bd-08435-768px.jpg 768w,
+ ./../images/SC22/bd-08435-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-08694-1090px.jpg"
+ data-srcset="./../images/SC22/tv-08694-512px.jpg 512w,
+ ./../images/SC22/tv-08694-768px.jpg 768w,
+ ./../images/SC22/tv-08694-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-08694-1090px.jpg"
+ data-srcset="./../images/SC22/bd-08694-512px.jpg 512w,
+ ./../images/SC22/bd-08694-768px.jpg 768w,
+ ./../images/SC22/bd-08694-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here we have another couple of completely different videos, friends! Love it! Weirdly enough, Polnareff's expression is completely different in the first one:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/11 - different.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/11 - different.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/12 - different.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/12 - different.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- This animation has much better contrast in the beginning, and is also uncensored:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/13 - avdol explode.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/13 - avdol explode.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-10825-1090px.jpg"
+ data-srcset="./../images/SC22/tv-10825-512px.jpg 512w,
+ ./../images/SC22/tv-10825-768px.jpg 768w,
+ ./../images/SC22/tv-10825-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-10825-1090px.jpg"
+ data-srcset="./../images/SC22/bd-10825-512px.jpg 512w,
+ ./../images/SC22/bd-10825-768px.jpg 768w,
+ ./../images/SC22/bd-10825-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-10870-1090px.jpg"
+ data-srcset="./../images/SC22/tv-10870-512px.jpg 512w,
+ ./../images/SC22/tv-10870-768px.jpg 768w,
+ ./../images/SC22/tv-10870-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-10870-1090px.jpg"
+ data-srcset="./../images/SC22/bd-10870-512px.jpg 512w,
+ ./../images/SC22/bd-10870-768px.jpg 768w,
+ ./../images/SC22/bd-10870-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-10922-1090px.jpg"
+ data-srcset="./../images/SC22/tv-10922-512px.jpg 512w,
+ ./../images/SC22/tv-10922-768px.jpg 768w,
+ ./../images/SC22/tv-10922-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-10922-1090px.jpg"
+ data-srcset="./../images/SC22/bd-10922-512px.jpg 512w,
+ ./../images/SC22/bd-10922-768px.jpg 768w,
+ ./../images/SC22/bd-10922-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Now for a very, very important difference... The very small dot on the bottom of the frame is no longer there. Shocking:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-11220-1090px.jpg"
+ data-srcset="./../images/SC22/tv-11220-512px.jpg 512w,
+ ./../images/SC22/tv-11220-768px.jpg 768w,
+ ./../images/SC22/tv-11220-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-11220-1090px.jpg"
+ data-srcset="./../images/SC22/bd-11220-512px.jpg 512w,
+ ./../images/SC22/bd-11220-768px.jpg 768w,
+ ./../images/SC22/bd-11220-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Avdol's final finger motion has been reversed, here:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/14 - tsk tsk.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/14 - tsk tsk.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Avdol's face has been retouched here and there...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-15255-1090px.jpg"
+ data-srcset="./../images/SC22/tv-15255-512px.jpg 512w,
+ ./../images/SC22/tv-15255-768px.jpg 768w,
+ ./../images/SC22/tv-15255-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-15255-1090px.jpg"
+ data-srcset="./../images/SC22/bd-15255-512px.jpg 512w,
+ ./../images/SC22/bd-15255-768px.jpg 768w,
+ ./../images/SC22/bd-15255-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-15265-1090px.jpg"
+ data-srcset="./../images/SC22/tv-15265-512px.jpg 512w,
+ ./../images/SC22/tv-15265-768px.jpg 768w,
+ ./../images/SC22/tv-15265-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-15265-1090px.jpg"
+ data-srcset="./../images/SC22/bd-15265-512px.jpg 512w,
+ ./../images/SC22/bd-15265-768px.jpg 768w,
+ ./../images/SC22/bd-15265-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- There's a new vignette here, and Avdol's eyebrows have been also properly recoloured...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-17055-1090px.jpg"
+ data-srcset="./../images/SC22/tv-17055-512px.jpg 512w,
+ ./../images/SC22/tv-17055-768px.jpg 768w,
+ ./../images/SC22/tv-17055-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-17055-1090px.jpg"
+ data-srcset="./../images/SC22/bd-17055-512px.jpg 512w,
+ ./../images/SC22/bd-17055-768px.jpg 768w,
+ ./../images/SC22/bd-17055-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...as they have here too! Well, his right one at least:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-17970-1090px.jpg"
+ data-srcset="./../images/SC22/tv-17970-512px.jpg 512w,
+ ./../images/SC22/tv-17970-768px.jpg 768w,
+ ./../images/SC22/tv-17970-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-17970-1090px.jpg"
+ data-srcset="./../images/SC22/bd-17970-512px.jpg 512w,
+ ./../images/SC22/bd-17970-768px.jpg 768w,
+ ./../images/SC22/bd-17970-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, the small bit of Judgement's back you can see between his head and his right shoulder is no longer shaking as much as in the TV version:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/15 - judgement back.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/15 - judgement back.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- This here explosion is brighter...:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/16 - explosion.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/16 - explosion.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-19290-1090px.jpg"
+ data-srcset="./../images/SC22/tv-19290-512px.jpg 512w,
+ ./../images/SC22/tv-19290-768px.jpg 768w,
+ ./../images/SC22/tv-19290-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-19290-1090px.jpg"
+ data-srcset="./../images/SC22/bd-19290-512px.jpg 512w,
+ ./../images/SC22/bd-19290-768px.jpg 768w,
+ ./../images/SC22/bd-19290-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Magician's Red has received a brand new animation, here:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/17 - magician's red.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/17 - magician's red.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And this one is brighter and sharper, instead:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/18 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/18 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-20788-1090px.jpg"
+ data-srcset="./../images/SC22/tv-20788-512px.jpg 512w,
+ ./../images/SC22/tv-20788-768px.jpg 768w,
+ ./../images/SC22/tv-20788-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-20788-1090px.jpg"
+ data-srcset="./../images/SC22/bd-20788-512px.jpg 512w,
+ ./../images/SC22/bd-20788-768px.jpg 768w,
+ ./../images/SC22/bd-20788-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Another new animation! Hooray!:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/19 - let's piss.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/19 - let's piss.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And this iconic golden shower scene is now... brighter, sharper, wetter:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/20 - golden showers.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/20 - golden showers.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-24079-1090px.jpg"
+ data-srcset="./../images/SC22/tv-24079-512px.jpg 512w,
+ ./../images/SC22/tv-24079-768px.jpg 768w,
+ ./../images/SC22/tv-24079-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-24079-1090px.jpg"
+ data-srcset="./../images/SC22/bd-24079-512px.jpg 512w,
+ ./../images/SC22/bd-24079-768px.jpg 768w,
+ ./../images/SC22/bd-24079-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This disgusting conclusion to the previous animation has a new distortion, blurrier edges and new motion lines along the sides; on top of that, all the flying rocks are now also textured:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-24970-1090px.jpg"
+ data-srcset="./../images/SC22/tv-24970-512px.jpg 512w,
+ ./../images/SC22/tv-24970-768px.jpg 768w,
+ ./../images/SC22/tv-24970-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-24970-1090px.jpg"
+ data-srcset="./../images/SC22/bd-24970-512px.jpg 512w,
+ ./../images/SC22/bd-24970-768px.jpg 768w,
+ ./../images/SC22/bd-24970-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And here, most flying bits are now also burning:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-25605-1090px.jpg"
+ data-srcset="./../images/SC22/tv-25605-512px.jpg 512w,
+ ./../images/SC22/tv-25605-768px.jpg 768w,
+ ./../images/SC22/tv-25605-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-25605-1090px.jpg"
+ data-srcset="./../images/SC22/bd-25605-512px.jpg 512w,
+ ./../images/SC22/bd-25605-768px.jpg 768w,
+ ./../images/SC22/bd-25605-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In the TV version of this scene there was a small dot in Kakyoin's eye; this has been removed in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-26130-1090px.jpg"
+ data-srcset="./../images/SC22/tv-26130-512px.jpg 512w,
+ ./../images/SC22/tv-26130-768px.jpg 768w,
+ ./../images/SC22/tv-26130-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-26130-1090px.jpg"
+ data-srcset="./../images/SC22/bd-26130-512px.jpg 512w,
+ ./../images/SC22/bd-26130-768px.jpg 768w,
+ ./../images/SC22/bd-26130-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, Kakyoin trembles less when Polnareff points at him...:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/21 - kak tremble.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/21 - kak tremble.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- ...and he settles into a slightly different expression:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-26310-1090px.jpg"
+ data-srcset="./../images/SC22/tv-26310-512px.jpg 512w,
+ ./../images/SC22/tv-26310-768px.jpg 768w,
+ ./../images/SC22/tv-26310-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-26310-1090px.jpg"
+ data-srcset="./../images/SC22/bd-26310-512px.jpg 512w,
+ ./../images/SC22/bd-26310-768px.jpg 768w,
+ ./../images/SC22/bd-26310-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Joseph no longer stands around with his mouth agape, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/tv-26825-1090px.jpg"
+ data-srcset="./../images/SC22/tv-26825-512px.jpg 512w,
+ ./../images/SC22/tv-26825-768px.jpg 768w,
+ ./../images/SC22/tv-26825-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC22/bd-26825-1090px.jpg"
+ data-srcset="./../images/SC22/bd-26825-512px.jpg 512w,
+ ./../images/SC22/bd-26825-768px.jpg 768w,
+ ./../images/SC22/bd-26825-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And this scene has been, once again, completely re-animated! Check it, friends:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC22/22 - different everything.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC22/22 - different everything.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<br>
+
+And that concludes this pleasantly lengthy comparison, friends! I hope you appreciated the double - and early! - post, and I wish you a super cool rest of the week. Meet you here next time for Stardust Crusaders #23, "High Priestess - Part 1"!
+
+<br>
+
+See ya!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
