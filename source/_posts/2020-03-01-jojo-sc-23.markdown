@@ -1,0 +1,426 @@
+---
+layout: post
+title: "Stardust Crusaders #23 - High Priestess - Part 1"
+date: 2020-03-01 19:24:48 +0100
+comments: true
+categories: sc
+---
+
+{% img center /images/SC23/23-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello hello, good people! Welcome back to our weekly-ish appointment wherein we overanalyze episodes of a specific Japanese anime series. In today's post: Stardust Crusaders #23, "High Priestess - Part 1"! So, what are we waiting for?
+
+<br>
+
+Let's dive right in!
+
+<br>
+
+- Today's first difference is this sequence, in which both the transition and the following frames are now brighter:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC23/01 - brighter new york.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC23/01 - brighter new york.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/tv-06940-1090px.jpg"
+ data-srcset="./../images/SC23/tv-06940-512px.jpg 512w,
+ ./../images/SC23/tv-06940-768px.jpg 768w,
+ ./../images/SC23/tv-06940-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/bd-06940-1090px.jpg"
+ data-srcset="./../images/SC23/bd-06940-512px.jpg 512w,
+ ./../images/SC23/bd-06940-768px.jpg 768w,
+ ./../images/SC23/bd-06940-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Meanwhile, the colours in this other animation is looking much less washed out:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC23/02 - punch.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC23/02 - punch.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/tv-16631-1090px.jpg"
+ data-srcset="./../images/SC23/tv-16631-512px.jpg 512w,
+ ./../images/SC23/tv-16631-768px.jpg 768w,
+ ./../images/SC23/tv-16631-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/bd-16631-1090px.jpg"
+ data-srcset="./../images/SC23/bd-16631-512px.jpg 512w,
+ ./../images/SC23/bd-16631-768px.jpg 768w,
+ ./../images/SC23/bd-16631-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/tv-16645-1090px.jpg"
+ data-srcset="./../images/SC23/tv-16645-512px.jpg 512w,
+ ./../images/SC23/tv-16645-768px.jpg 768w,
+ ./../images/SC23/tv-16645-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/bd-16645-1090px.jpg"
+ data-srcset="./../images/SC23/bd-16645-512px.jpg 512w,
+ ./../images/SC23/bd-16645-768px.jpg 768w,
+ ./../images/SC23/bd-16645-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/tv-16659-1090px.jpg"
+ data-srcset="./../images/SC23/tv-16659-512px.jpg 512w,
+ ./../images/SC23/tv-16659-768px.jpg 768w,
+ ./../images/SC23/tv-16659-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/bd-16659-1090px.jpg"
+ data-srcset="./../images/SC23/bd-16659-512px.jpg 512w,
+ ./../images/SC23/bd-16659-768px.jpg 768w,
+ ./../images/SC23/bd-16659-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, Suzy Q's reflection is no longer wearing a wedding ring (since, ya know, it usually goes on the left hand):
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/tv-21535-1090px.jpg"
+ data-srcset="./../images/SC23/tv-21535-512px.jpg 512w,
+ ./../images/SC23/tv-21535-768px.jpg 768w,
+ ./../images/SC23/tv-21535-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/bd-21535-1090px.jpg"
+ data-srcset="./../images/SC23/bd-21535-512px.jpg 512w,
+ ./../images/SC23/bd-21535-768px.jpg 768w,
+ ./../images/SC23/bd-21535-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The following four animations are all brighter...:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC23/03 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC23/03 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/tv-23005-1090px.jpg"
+ data-srcset="./../images/SC23/tv-23005-512px.jpg 512w,
+ ./../images/SC23/tv-23005-768px.jpg 768w,
+ ./../images/SC23/tv-23005-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/bd-23005-1090px.jpg"
+ data-srcset="./../images/SC23/bd-23005-512px.jpg 512w,
+ ./../images/SC23/bd-23005-768px.jpg 768w,
+ ./../images/SC23/bd-23005-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/tv-23055-1090px.jpg"
+ data-srcset="./../images/SC23/tv-23055-512px.jpg 512w,
+ ./../images/SC23/tv-23055-768px.jpg 768w,
+ ./../images/SC23/tv-23055-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/bd-23055-1090px.jpg"
+ data-srcset="./../images/SC23/bd-23055-512px.jpg 512w,
+ ./../images/SC23/bd-23055-768px.jpg 768w,
+ ./../images/SC23/bd-23055-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC23/04 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC23/04 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/tv-23300-1090px.jpg"
+ data-srcset="./../images/SC23/tv-23300-512px.jpg 512w,
+ ./../images/SC23/tv-23300-768px.jpg 768w,
+ ./../images/SC23/tv-23300-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/bd-23300-1090px.jpg"
+ data-srcset="./../images/SC23/bd-23300-512px.jpg 512w,
+ ./../images/SC23/bd-23300-768px.jpg 768w,
+ ./../images/SC23/bd-23300-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/tv-23330-1090px.jpg"
+ data-srcset="./../images/SC23/tv-23330-512px.jpg 512w,
+ ./../images/SC23/tv-23330-768px.jpg 768w,
+ ./../images/SC23/tv-23330-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/bd-23330-1090px.jpg"
+ data-srcset="./../images/SC23/bd-23330-512px.jpg 512w,
+ ./../images/SC23/bd-23330-768px.jpg 768w,
+ ./../images/SC23/bd-23330-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC23/05 - brighter 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC23/05 - brighter 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/tv-23460-1090px.jpg"
+ data-srcset="./../images/SC23/tv-23460-512px.jpg 512w,
+ ./../images/SC23/tv-23460-768px.jpg 768w,
+ ./../images/SC23/tv-23460-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/bd-23460-1090px.jpg"
+ data-srcset="./../images/SC23/bd-23460-512px.jpg 512w,
+ ./../images/SC23/bd-23460-768px.jpg 768w,
+ ./../images/SC23/bd-23460-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/tv-23480-1090px.jpg"
+ data-srcset="./../images/SC23/tv-23480-512px.jpg 512w,
+ ./../images/SC23/tv-23480-768px.jpg 768w,
+ ./../images/SC23/tv-23480-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/bd-23480-1090px.jpg"
+ data-srcset="./../images/SC23/bd-23480-512px.jpg 512w,
+ ./../images/SC23/bd-23480-768px.jpg 768w,
+ ./../images/SC23/bd-23480-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC23/06 - brighter 4.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC23/06 - brighter 4.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/tv-24710-1090px.jpg"
+ data-srcset="./../images/SC23/tv-24710-512px.jpg 512w,
+ ./../images/SC23/tv-24710-768px.jpg 768w,
+ ./../images/SC23/tv-24710-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/bd-24710-1090px.jpg"
+ data-srcset="./../images/SC23/bd-24710-512px.jpg 512w,
+ ./../images/SC23/bd-24710-768px.jpg 768w,
+ ./../images/SC23/bd-24710-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/tv-24745-1090px.jpg"
+ data-srcset="./../images/SC23/tv-24745-512px.jpg 512w,
+ ./../images/SC23/tv-24745-768px.jpg 768w,
+ ./../images/SC23/tv-24745-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/bd-24745-1090px.jpg"
+ data-srcset="./../images/SC23/bd-24745-512px.jpg 512w,
+ ./../images/SC23/bd-24745-768px.jpg 768w,
+ ./../images/SC23/bd-24745-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- While this one has just a generally better contrast:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC23/07 - better contrast.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC23/07 - better contrast.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/tv-26260-1090px.jpg"
+ data-srcset="./../images/SC23/tv-26260-512px.jpg 512w,
+ ./../images/SC23/tv-26260-768px.jpg 768w,
+ ./../images/SC23/tv-26260-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/bd-26260-1090px.jpg"
+ data-srcset="./../images/SC23/bd-26260-512px.jpg 512w,
+ ./../images/SC23/bd-26260-768px.jpg 768w,
+ ./../images/SC23/bd-26260-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/tv-26277-1090px.jpg"
+ data-srcset="./../images/SC23/tv-26277-512px.jpg 512w,
+ ./../images/SC23/tv-26277-768px.jpg 768w,
+ ./../images/SC23/tv-26277-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/bd-26277-1090px.jpg"
+ data-srcset="./../images/SC23/bd-26277-512px.jpg 512w,
+ ./../images/SC23/bd-26277-768px.jpg 768w,
+ ./../images/SC23/bd-26277-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- These last two animations have some new white frames in between, to further communicate Silver Chariot's stabs to the viewer:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC23/08 - flash 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC23/08 - flash 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC23/09 - flash 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC23/09 - flash 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And I'm gonna wave goodbye to you with Joseph's mechanical hand, now correctly flipped around in this final difference:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/tv-31346-1090px.jpg"
+ data-srcset="./../images/SC23/tv-31346-512px.jpg 512w,
+ ./../images/SC23/tv-31346-768px.jpg 768w,
+ ./../images/SC23/tv-31346-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC23/bd-31346-1090px.jpg"
+ data-srcset="./../images/SC23/bd-31346-512px.jpg 512w,
+ ./../images/SC23/bd-31346-768px.jpg 768w,
+ ./../images/SC23/bd-31346-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And that's it for today, friends! Nothing too exciting this time around, but that's in the nature of things - I'll see you here next time for the conclusion to Stardust Crusaders' first arc, "High Priestess - Part 2"!
+
+<br>
+
+Bye!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
