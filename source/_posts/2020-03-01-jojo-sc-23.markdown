@@ -48,7 +48,7 @@ Let's dive right in!
 
 <br>
 
-- Meanwhile, the colours in this other animation is looking much less washed out:
+- Meanwhile, the colours in this other animation are looking much less washed out:
 
 <video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC23/02 - punch.webm" type='video/webm; codecs="vp8, vorbis"'>
