@@ -521,7 +521,7 @@ Howdy, fellas! Welcome back to this humble comparison compendium. Today we're go
 
 <br>
 
-- The general lighting is different in this scene, and most elements are not as blurry as they were in the BD version:
+- The general lighting is different in this scene, and most elements are not as blurry as they were in the TV version:
 
 <div id="container1" class="twentytwenty-container">
  <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
