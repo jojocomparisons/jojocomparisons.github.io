@@ -1,0 +1,363 @@
+---
+layout: post
+title: "Stardust Crusaders #26 - Iggy the Fool and Geb's N'Doul - Part 2"
+date: 2020-03-22 14:50:34 +0100
+comments: true
+categories: sc
+---
+
+{% img center /images/SC26/26-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hey hey, fellas! Welcome back. Let's pick up right where we left off last week, shall we? It's time to take a look at Episode #26, "Iggy the Fool and Geb's N'Doul - Part 2"!
+
+<br>
+
+Let's go!
+
+<br>
+
+- First off, N'Doul has his cane back here, and part of his chin has been shaded slightly more:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/tv-01455-1090px.jpg"
+ data-srcset="./../images/SC25/tv-01455-512px.jpg 512w,
+ ./../images/SC25/tv-01455-768px.jpg 768w,
+ ./../images/SC25/tv-01455-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/bd-01455-1090px.jpg"
+ data-srcset="./../images/SC25/bd-01455-512px.jpg 512w,
+ ./../images/SC25/bd-01455-768px.jpg 768w,
+ ./../images/SC25/bd-01455-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The contrast and lighting in this scene have been balanced better:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC26/01 - contrast.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC26/01 - contrast.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/tv-07410-1090px.jpg"
+ data-srcset="./../images/SC25/tv-07410-512px.jpg 512w,
+ ./../images/SC25/tv-07410-768px.jpg 768w,
+ ./../images/SC25/tv-07410-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/bd-07410-1090px.jpg"
+ data-srcset="./../images/SC25/bd-07410-512px.jpg 512w,
+ ./../images/SC25/bd-07410-768px.jpg 768w,
+ ./../images/SC25/bd-07410-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/tv-07420-1090px.jpg"
+ data-srcset="./../images/SC25/tv-07420-512px.jpg 512w,
+ ./../images/SC25/tv-07420-768px.jpg 768w,
+ ./../images/SC25/tv-07420-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/bd-07420-1090px.jpg"
+ data-srcset="./../images/SC25/bd-07420-512px.jpg 512w,
+ ./../images/SC25/bd-07420-768px.jpg 768w,
+ ./../images/SC25/bd-07420-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And this one starts out the same but slowly became dimmer in the TV version; this has been fixed:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC26/02 - fade to bright.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC26/02 - fade to bright.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/tv-08719-1090px.jpg"
+ data-srcset="./../images/SC25/tv-08719-512px.jpg 512w,
+ ./../images/SC25/tv-08719-768px.jpg 768w,
+ ./../images/SC25/tv-08719-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/bd-08719-1090px.jpg"
+ data-srcset="./../images/SC25/bd-08719-512px.jpg 512w,
+ ./../images/SC25/bd-08719-768px.jpg 768w,
+ ./../images/SC25/bd-08719-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- These few animations are now brighter and have better contrast...:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC26/03 - brighter and sharper 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC26/03 - brighter and sharper 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/tv-08732-1090px.jpg"
+ data-srcset="./../images/SC25/tv-08732-512px.jpg 512w,
+ ./../images/SC25/tv-08732-768px.jpg 768w,
+ ./../images/SC25/tv-08732-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/bd-08732-1090px.jpg"
+ data-srcset="./../images/SC25/bd-08732-512px.jpg 512w,
+ ./../images/SC25/bd-08732-768px.jpg 768w,
+ ./../images/SC25/bd-08732-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC26/04 - brighter and sharper 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC26/04 - brighter and sharper 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/tv-09015-1090px.jpg"
+ data-srcset="./../images/SC25/tv-09015-512px.jpg 512w,
+ ./../images/SC25/tv-09015-768px.jpg 768w,
+ ./../images/SC25/tv-09015-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/bd-09015-1090px.jpg"
+ data-srcset="./../images/SC25/bd-09015-512px.jpg 512w,
+ ./../images/SC25/bd-09015-768px.jpg 768w,
+ ./../images/SC25/bd-09015-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC26/05 - brighter and sharper 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC26/05 - brighter and sharper 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/tv-13957-1090px.jpg"
+ data-srcset="./../images/SC25/tv-13957-512px.jpg 512w,
+ ./../images/SC25/tv-13957-768px.jpg 768w,
+ ./../images/SC25/tv-13957-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/bd-13957-1090px.jpg"
+ data-srcset="./../images/SC25/bd-13957-512px.jpg 512w,
+ ./../images/SC25/bd-13957-768px.jpg 768w,
+ ./../images/SC25/bd-13957-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC26/06 - brighter and sharper 4.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC26/06 - brighter and sharper 4.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/tv-13975-1090px.jpg"
+ data-srcset="./../images/SC25/tv-13975-512px.jpg 512w,
+ ./../images/SC25/tv-13975-768px.jpg 768w,
+ ./../images/SC25/tv-13975-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/bd-13975-1090px.jpg"
+ data-srcset="./../images/SC25/bd-13975-512px.jpg 512w,
+ ./../images/SC25/bd-13975-768px.jpg 768w,
+ ./../images/SC25/bd-13975-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This one has received the same treatment, and there's also one extra white frame for impact:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC26/07 - brighter and sharper 5.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC26/07 - brighter and sharper 5.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/tv-14045-1090px.jpg"
+ data-srcset="./../images/SC25/tv-14045-512px.jpg 512w,
+ ./../images/SC25/tv-14045-768px.jpg 768w,
+ ./../images/SC25/tv-14045-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/bd-14045-1090px.jpg"
+ data-srcset="./../images/SC25/bd-14045-512px.jpg 512w,
+ ./../images/SC25/bd-14045-768px.jpg 768w,
+ ./../images/SC25/bd-14045-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- These two animations are, instead, just brighter:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC26/08 - brighter 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC26/08 - brighter 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/tv-19990-1090px.jpg"
+ data-srcset="./../images/SC25/tv-19990-512px.jpg 512w,
+ ./../images/SC25/tv-19990-768px.jpg 768w,
+ ./../images/SC25/tv-19990-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/bd-19990-1090px.jpg"
+ data-srcset="./../images/SC25/bd-19990-512px.jpg 512w,
+ ./../images/SC25/bd-19990-768px.jpg 768w,
+ ./../images/SC25/bd-19990-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC26/09 - brighter 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC26/09 - brighter 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/tv-20010-1090px.jpg"
+ data-srcset="./../images/SC25/tv-20010-512px.jpg 512w,
+ ./../images/SC25/tv-20010-768px.jpg 768w,
+ ./../images/SC25/tv-20010-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/bd-20010-1090px.jpg"
+ data-srcset="./../images/SC25/bd-20010-512px.jpg 512w,
+ ./../images/SC25/bd-20010-768px.jpg 768w,
+ ./../images/SC25/bd-20010-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/tv-20080-1090px.jpg"
+ data-srcset="./../images/SC25/tv-20080-512px.jpg 512w,
+ ./../images/SC25/tv-20080-768px.jpg 768w,
+ ./../images/SC25/tv-20080-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/bd-20080-1090px.jpg"
+ data-srcset="./../images/SC25/bd-20080-512px.jpg 512w,
+ ./../images/SC25/bd-20080-768px.jpg 768w,
+ ./../images/SC25/bd-20080-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And, moving on to the credits, here Designer 長澤順子 (Nagasawa Junko)'s name is now followed by the name of the company she belongs to, プロダクション・アイ (Production Ai). Check it out:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/tv-27485-1090px.jpg"
+ data-srcset="./../images/SC25/tv-27485-512px.jpg 512w,
+ ./../images/SC25/tv-27485-768px.jpg 768w,
+ ./../images/SC25/tv-27485-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC25/bd-27485-1090px.jpg"
+ data-srcset="./../images/SC25/bd-27485-512px.jpg 512w,
+ ./../images/SC25/bd-27485-768px.jpg 768w,
+ ./../images/SC25/bd-27485-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And that concludes today's fairly short comparison, friends! I hope you had a good time nonetheless, and I'll see you next time for Episode #27, "Khnum's Oingo and Thoth's Boingo"!
+
+<br>
+
+See ya!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
