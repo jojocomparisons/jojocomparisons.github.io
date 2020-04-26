@@ -1,0 +1,576 @@
+---
+layout: post
+title: "Stardust Crusaders #28 - Anubis - Part 1"
+date: 2020-04-26 22:33:34 +0200
+comments: true
+categories: sc
+---
+
+{% img center /images/SC28/28-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Welcome back! It's comparison time, babes - and today we're going to take a quick look at Stardust Crusaders #28, "Anubis - Part 1"!
+
+<br>
+
+Let's cut to the chase and get right into it, shall we?
+
+<br>
+
+- Today's opening difference is this scene of Polnareff moving at the edge of the frame! In the TV version, there was some weird ghosting-like effect for some undiscernible reason; this has been fixed in the BDs, thankfully:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC28/01 - ghostnareff.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC28/01 - ghostnareff.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-02077-1090px.jpg"
+ data-srcset="./../images/SC28/tv-02077-512px.jpg 512w,
+ ./../images/SC28/tv-02077-768px.jpg 768w,
+ ./../images/SC28/tv-02077-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-02077-1090px.jpg"
+ data-srcset="./../images/SC28/bd-02077-512px.jpg 512w,
+ ./../images/SC28/bd-02077-768px.jpg 768w,
+ ./../images/SC28/bd-02077-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-02080-1090px.jpg"
+ data-srcset="./../images/SC28/tv-02080-512px.jpg 512w,
+ ./../images/SC28/tv-02080-768px.jpg 768w,
+ ./../images/SC28/tv-02080-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-02080-1090px.jpg"
+ data-srcset="./../images/SC28/bd-02080-512px.jpg 512w,
+ ./../images/SC28/bd-02080-768px.jpg 768w,
+ ./../images/SC28/bd-02080-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-02084-1090px.jpg"
+ data-srcset="./../images/SC28/tv-02084-512px.jpg 512w,
+ ./../images/SC28/tv-02084-768px.jpg 768w,
+ ./../images/SC28/tv-02084-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-02084-1090px.jpg"
+ data-srcset="./../images/SC28/bd-02084-512px.jpg 512w,
+ ./../images/SC28/bd-02084-768px.jpg 768w,
+ ./../images/SC28/bd-02084-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's look at another Polnareff-centric difference! Here, the mouthflap has been tweaked, and Polnareff itself has also been redrawn:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC28/02 - mouthflap.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC28/02 - mouthflap.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-02735-1090px.jpg"
+ data-srcset="./../images/SC28/tv-02735-512px.jpg 512w,
+ ./../images/SC28/tv-02735-768px.jpg 768w,
+ ./../images/SC28/tv-02735-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-02735-1090px.jpg"
+ data-srcset="./../images/SC28/bd-02735-512px.jpg 512w,
+ ./../images/SC28/bd-02735-768px.jpg 768w,
+ ./../images/SC28/bd-02735-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-02752-1090px.jpg"
+ data-srcset="./../images/SC28/tv-02752-512px.jpg 512w,
+ ./../images/SC28/tv-02752-768px.jpg 768w,
+ ./../images/SC28/tv-02752-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-02752-1090px.jpg"
+ data-srcset="./../images/SC28/bd-02752-512px.jpg 512w,
+ ./../images/SC28/bd-02752-768px.jpg 768w,
+ ./../images/SC28/bd-02752-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This here animation has better contrast and is sharper (this last detail is particularly evident on the top and bottom of the frame):
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC28/03 - sharper and better.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC28/03 - sharper and better.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-08015-1090px.jpg"
+ data-srcset="./../images/SC28/tv-08015-512px.jpg 512w,
+ ./../images/SC28/tv-08015-768px.jpg 768w,
+ ./../images/SC28/tv-08015-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-08015-1090px.jpg"
+ data-srcset="./../images/SC28/bd-08015-512px.jpg 512w,
+ ./../images/SC28/bd-08015-768px.jpg 768w,
+ ./../images/SC28/bd-08015-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This brief slashing animation is also brighter:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC28/04 - slash.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC28/04 - slash.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-09150-1090px.jpg"
+ data-srcset="./../images/SC28/tv-09150-512px.jpg 512w,
+ ./../images/SC28/tv-09150-768px.jpg 768w,
+ ./../images/SC28/tv-09150-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-09150-1090px.jpg"
+ data-srcset="./../images/SC28/bd-09150-512px.jpg 512w,
+ ./../images/SC28/bd-09150-768px.jpg 768w,
+ ./../images/SC28/bd-09150-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The first frame of this next animation is different, and the stab has also been uncensored! In addition, the shading around this poor dude's head has also been changed slightly:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC28/05 - stab.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC28/05 - stab.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-10079-1090px.jpg"
+ data-srcset="./../images/SC28/tv-10079-512px.jpg 512w,
+ ./../images/SC28/tv-10079-768px.jpg 768w,
+ ./../images/SC28/tv-10079-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-10079-1090px.jpg"
+ data-srcset="./../images/SC28/bd-10079-512px.jpg 512w,
+ ./../images/SC28/bd-10079-768px.jpg 768w,
+ ./../images/SC28/bd-10079-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-10099-1090px.jpg"
+ data-srcset="./../images/SC28/tv-10099-512px.jpg 512w,
+ ./../images/SC28/tv-10099-768px.jpg 768w,
+ ./../images/SC28/tv-10099-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-10099-1090px.jpg"
+ data-srcset="./../images/SC28/bd-10099-512px.jpg 512w,
+ ./../images/SC28/bd-10099-768px.jpg 768w,
+ ./../images/SC28/bd-10099-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Have a bunch of uncensored animations with slight shading/lighting changes, fellas:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC28/06 - stab 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC28/06 - stab 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-10120-1090px.jpg"
+ data-srcset="./../images/SC28/tv-10120-512px.jpg 512w,
+ ./../images/SC28/tv-10120-768px.jpg 768w,
+ ./../images/SC28/tv-10120-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-10120-1090px.jpg"
+ data-srcset="./../images/SC28/bd-10120-512px.jpg 512w,
+ ./../images/SC28/bd-10120-768px.jpg 768w,
+ ./../images/SC28/bd-10120-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC28/07 - slice.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC28/07 - slice.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-10605-1090px.jpg"
+ data-srcset="./../images/SC28/tv-10605-512px.jpg 512w,
+ ./../images/SC28/tv-10605-768px.jpg 768w,
+ ./../images/SC28/tv-10605-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-10605-1090px.jpg"
+ data-srcset="./../images/SC28/bd-10605-512px.jpg 512w,
+ ./../images/SC28/bd-10605-768px.jpg 768w,
+ ./../images/SC28/bd-10605-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-10644-1090px.jpg"
+ data-srcset="./../images/SC28/tv-10644-512px.jpg 512w,
+ ./../images/SC28/tv-10644-768px.jpg 768w,
+ ./../images/SC28/tv-10644-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-10644-1090px.jpg"
+ data-srcset="./../images/SC28/bd-10644-512px.jpg 512w,
+ ./../images/SC28/bd-10644-768px.jpg 768w,
+ ./../images/SC28/bd-10644-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC28/08 - slice 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC28/08 - slice 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-10695-1090px.jpg"
+ data-srcset="./../images/SC28/tv-10695-512px.jpg 512w,
+ ./../images/SC28/tv-10695-768px.jpg 768w,
+ ./../images/SC28/tv-10695-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-10695-1090px.jpg"
+ data-srcset="./../images/SC28/bd-10695-512px.jpg 512w,
+ ./../images/SC28/bd-10695-768px.jpg 768w,
+ ./../images/SC28/bd-10695-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC28/09 - chop.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC28/09 - chop.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-12400-1090px.jpg"
+ data-srcset="./../images/SC28/tv-12400-512px.jpg 512w,
+ ./../images/SC28/tv-12400-768px.jpg 768w,
+ ./../images/SC28/tv-12400-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-12400-1090px.jpg"
+ data-srcset="./../images/SC28/bd-12400-512px.jpg 512w,
+ ./../images/SC28/bd-12400-768px.jpg 768w,
+ ./../images/SC28/bd-12400-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC28/10 - chop 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC28/10 - chop 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-12480-1090px.jpg"
+ data-srcset="./../images/SC28/tv-12480-512px.jpg 512w,
+ ./../images/SC28/tv-12480-768px.jpg 768w,
+ ./../images/SC28/tv-12480-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-12480-1090px.jpg"
+ data-srcset="./../images/SC28/bd-12480-512px.jpg 512w,
+ ./../images/SC28/bd-12480-768px.jpg 768w,
+ ./../images/SC28/bd-12480-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC28/11 - chop 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC28/11 - chop 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-12548-1090px.jpg"
+ data-srcset="./../images/SC28/tv-12548-512px.jpg 512w,
+ ./../images/SC28/tv-12548-768px.jpg 768w,
+ ./../images/SC28/tv-12548-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-12548-1090px.jpg"
+ data-srcset="./../images/SC28/bd-12548-512px.jpg 512w,
+ ./../images/SC28/bd-12548-768px.jpg 768w,
+ ./../images/SC28/bd-12548-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-12614-1090px.jpg"
+ data-srcset="./../images/SC28/tv-12614-512px.jpg 512w,
+ ./../images/SC28/tv-12614-768px.jpg 768w,
+ ./../images/SC28/tv-12614-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-12614-1090px.jpg"
+ data-srcset="./../images/SC28/bd-12614-512px.jpg 512w,
+ ./../images/SC28/bd-12614-768px.jpg 768w,
+ ./../images/SC28/bd-12614-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Both stand name and stand master have been moved in the mid-episode eyecatch:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-19370-1090px.jpg"
+ data-srcset="./../images/SC28/tv-19370-512px.jpg 512w,
+ ./../images/SC28/tv-19370-768px.jpg 768w,
+ ./../images/SC28/tv-19370-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-19370-1090px.jpg"
+ data-srcset="./../images/SC28/bd-19370-512px.jpg 512w,
+ ./../images/SC28/bd-19370-768px.jpg 768w,
+ ./../images/SC28/bd-19370-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In this animation, every time Silver Chariot hits Anubis there's a brighter flash (it might not be that noticeable in the video):
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC28/12 - brighter clashes.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC28/12 - brighter clashes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-19924-1090px.jpg"
+ data-srcset="./../images/SC28/tv-19924-512px.jpg 512w,
+ ./../images/SC28/tv-19924-768px.jpg 768w,
+ ./../images/SC28/tv-19924-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-19924-1090px.jpg"
+ data-srcset="./../images/SC28/bd-19924-512px.jpg 512w,
+ ./../images/SC28/bd-19924-768px.jpg 768w,
+ ./../images/SC28/bd-19924-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-19929-1090px.jpg"
+ data-srcset="./../images/SC28/tv-19929-512px.jpg 512w,
+ ./../images/SC28/tv-19929-768px.jpg 768w,
+ ./../images/SC28/tv-19929-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-19929-1090px.jpg"
+ data-srcset="./../images/SC28/bd-19929-512px.jpg 512w,
+ ./../images/SC28/bd-19929-768px.jpg 768w,
+ ./../images/SC28/bd-19929-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The first and 35th frames in this very pretty animation are slightly more zoomed in, and the reason for that will become apparent if you look at the edges of said frames:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC28/13 - two zoomed in frames.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC28/13 - two zoomed in frames.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-20012-1090px.jpg"
+ data-srcset="./../images/SC28/tv-20012-512px.jpg 512w,
+ ./../images/SC28/tv-20012-768px.jpg 768w,
+ ./../images/SC28/tv-20012-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-20012-1090px.jpg"
+ data-srcset="./../images/SC28/bd-20012-512px.jpg 512w,
+ ./../images/SC28/bd-20012-768px.jpg 768w,
+ ./../images/SC28/bd-20012-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/tv-20046-1090px.jpg"
+ data-srcset="./../images/SC28/tv-20046-512px.jpg 512w,
+ ./../images/SC28/tv-20046-768px.jpg 768w,
+ ./../images/SC28/tv-20046-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC28/bd-20046-1090px.jpg"
+ data-srcset="./../images/SC28/bd-20046-512px.jpg 512w,
+ ./../images/SC28/bd-20046-768px.jpg 768w,
+ ./../images/SC28/bd-20046-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And that concludes this episode, my friends! Another quieter comparison - but we all know it's just a waiting game until D'arby the Gambler and DIO's World roll along, don't we? Well, anyway - you have a great week and I'll see you next time for Stardust Crusaders #29, "Anubis - Part 2"!
+
+<br>
+
+Ciao!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
