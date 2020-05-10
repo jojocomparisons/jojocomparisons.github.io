@@ -97,7 +97,7 @@ Once both versions of the episode have been extracted to two separate folders (f
 
 <br>
 
-As you can notice from either scrolling a bit through your two folders or from looking at the above screenshot, the episodes in the TV and BD versions don't match! For example, the file called `tv-00083.jpg` is the first one from a new scene, but said scene doesn't start until frame `00110` in the BD version.
+As you can notice from either scrolling a bit through your two folders or from looking at the above screenshot, the frames in the TV and BD versions don't match! For example, the file called `tv-00083.jpg` is the first one from a new scene, but said scene doesn't start until frame `00110` in the BD version.
 
 For the comparison process to go successfully, we need each pair of files with the same number to be the same frame. To achieve that, we need to...
 

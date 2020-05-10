@@ -1,0 +1,683 @@
+---
+layout: post
+title: "Stardust Crusaders #29 - Anubis - Part 2"
+date: 2020-05-10 19:25:37 +0200
+comments: true
+categories: sc
+---
+
+{% img center /images/SC29/29-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hey hey, friends! Welcome, once again, to our semi-weekly appointment! Lately I've been taking it a little easier with the comparisons - I hope you won't hold it against me. Today we're going to take a look at Stardust Crusaders #29, "Anubis - Part 2"! It's not going to be a long one, and it'll mostly consist of videos, so if it's not looking exactly right on your mobile device you might have to read it from your laptop instead. But without further ado...
+
+<br>
+
+Let's get into it!
+
+<br>
+
+- Today's first difference is here, in these three videos; the first and third one are brighter and sharper, and they have white frames for more impactful hits, while the second one is just brighter:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/01 - b&s 1.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/01 - b&s 1.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-01395-1090px.jpg"
+ data-srcset="./../images/SC29/tv-01395-512px.jpg 512w,
+ ./../images/SC29/tv-01395-768px.jpg 768w,
+ ./../images/SC29/tv-01395-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-01395-1090px.jpg"
+ data-srcset="./../images/SC29/bd-01395-512px.jpg 512w,
+ ./../images/SC29/bd-01395-768px.jpg 768w,
+ ./../images/SC29/bd-01395-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/02 - b&s 2.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/02 - b&s 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-06172-1090px.jpg"
+ data-srcset="./../images/SC29/tv-06172-512px.jpg 512w,
+ ./../images/SC29/tv-06172-768px.jpg 768w,
+ ./../images/SC29/tv-06172-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-06172-1090px.jpg"
+ data-srcset="./../images/SC29/bd-06172-512px.jpg 512w,
+ ./../images/SC29/bd-06172-768px.jpg 768w,
+ ./../images/SC29/bd-06172-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/03 - b&s 3.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/03 - b&s 3.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-06277-1090px.jpg"
+ data-srcset="./../images/SC29/tv-06277-512px.jpg 512w,
+ ./../images/SC29/tv-06277-768px.jpg 768w,
+ ./../images/SC29/tv-06277-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-06277-1090px.jpg"
+ data-srcset="./../images/SC29/bd-06277-512px.jpg 512w,
+ ./../images/SC29/bd-06277-768px.jpg 768w,
+ ./../images/SC29/bd-06277-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This animation of Polnareff being Polnareff is now brighter and sharper:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/04 - b&s 4.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/04 - b&s 4.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-09504-1090px.jpg"
+ data-srcset="./../images/SC29/tv-09504-512px.jpg 512w,
+ ./../images/SC29/tv-09504-768px.jpg 768w,
+ ./../images/SC29/tv-09504-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-09504-1090px.jpg"
+ data-srcset="./../images/SC29/bd-09504-512px.jpg 512w,
+ ./../images/SC29/bd-09504-768px.jpg 768w,
+ ./../images/SC29/bd-09504-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- While the end of this super slick animation is brighter:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/05 - cool dude.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/05 - cool dude.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-16743-1090px.jpg"
+ data-srcset="./../images/SC29/tv-16743-512px.jpg 512w,
+ ./../images/SC29/tv-16743-768px.jpg 768w,
+ ./../images/SC29/tv-16743-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-16743-1090px.jpg"
+ data-srcset="./../images/SC29/bd-16743-512px.jpg 512w,
+ ./../images/SC29/bd-16743-768px.jpg 768w,
+ ./../images/SC29/bd-16743-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The writings in the mid-episode eyecatch have been, once again, moved:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-17049-1090px.jpg"
+ data-srcset="./../images/SC29/tv-17049-512px.jpg 512w,
+ ./../images/SC29/tv-17049-768px.jpg 768w,
+ ./../images/SC29/tv-17049-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-17049-1090px.jpg"
+ data-srcset="./../images/SC29/bd-17049-512px.jpg 512w,
+ ./../images/SC29/bd-17049-768px.jpg 768w,
+ ./../images/SC29/bd-17049-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's take a look at a barrage of brighter animation, my good fellows:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/06 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/06 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-17485-1090px.jpg"
+ data-srcset="./../images/SC29/tv-17485-512px.jpg 512w,
+ ./../images/SC29/tv-17485-768px.jpg 768w,
+ ./../images/SC29/tv-17485-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-17485-1090px.jpg"
+ data-srcset="./../images/SC29/bd-17485-512px.jpg 512w,
+ ./../images/SC29/bd-17485-768px.jpg 768w,
+ ./../images/SC29/bd-17485-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/07 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/07 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-17510-1090px.jpg"
+ data-srcset="./../images/SC29/tv-17510-512px.jpg 512w,
+ ./../images/SC29/tv-17510-768px.jpg 768w,
+ ./../images/SC29/tv-17510-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-17510-1090px.jpg"
+ data-srcset="./../images/SC29/bd-17510-512px.jpg 512w,
+ ./../images/SC29/bd-17510-768px.jpg 768w,
+ ./../images/SC29/bd-17510-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/08 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/08 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-17545-1090px.jpg"
+ data-srcset="./../images/SC29/tv-17545-512px.jpg 512w,
+ ./../images/SC29/tv-17545-768px.jpg 768w,
+ ./../images/SC29/tv-17545-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-17545-1090px.jpg"
+ data-srcset="./../images/SC29/bd-17545-512px.jpg 512w,
+ ./../images/SC29/bd-17545-768px.jpg 768w,
+ ./../images/SC29/bd-17545-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/09 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/09 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-17573-1090px.jpg"
+ data-srcset="./../images/SC29/tv-17573-512px.jpg 512w,
+ ./../images/SC29/tv-17573-768px.jpg 768w,
+ ./../images/SC29/tv-17573-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-17573-1090px.jpg"
+ data-srcset="./../images/SC29/bd-17573-512px.jpg 512w,
+ ./../images/SC29/bd-17573-768px.jpg 768w,
+ ./../images/SC29/bd-17573-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's add some sharpness to the equation, like so:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/10 - and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/10 - and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-17607-1090px.jpg"
+ data-srcset="./../images/SC29/tv-17607-512px.jpg 512w,
+ ./../images/SC29/tv-17607-768px.jpg 768w,
+ ./../images/SC29/tv-17607-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-17607-1090px.jpg"
+ data-srcset="./../images/SC29/bd-17607-512px.jpg 512w,
+ ./../images/SC29/bd-17607-768px.jpg 768w,
+ ./../images/SC29/bd-17607-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Back to the "just brighter" animations:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/11 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/11 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-17660-1090px.jpg"
+ data-srcset="./../images/SC29/tv-17660-512px.jpg 512w,
+ ./../images/SC29/tv-17660-768px.jpg 768w,
+ ./../images/SC29/tv-17660-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-17660-1090px.jpg"
+ data-srcset="./../images/SC29/bd-17660-512px.jpg 512w,
+ ./../images/SC29/bd-17660-768px.jpg 768w,
+ ./../images/SC29/bd-17660-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/12 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/12 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-17670-1090px.jpg"
+ data-srcset="./../images/SC29/tv-17670-512px.jpg 512w,
+ ./../images/SC29/tv-17670-768px.jpg 768w,
+ ./../images/SC29/tv-17670-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-17670-1090px.jpg"
+ data-srcset="./../images/SC29/bd-17670-512px.jpg 512w,
+ ./../images/SC29/bd-17670-768px.jpg 768w,
+ ./../images/SC29/bd-17670-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/13 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/13 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-17704-1090px.jpg"
+ data-srcset="./../images/SC29/tv-17704-512px.jpg 512w,
+ ./../images/SC29/tv-17704-768px.jpg 768w,
+ ./../images/SC29/tv-17704-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-17704-1090px.jpg"
+ data-srcset="./../images/SC29/bd-17704-512px.jpg 512w,
+ ./../images/SC29/bd-17704-768px.jpg 768w,
+ ./../images/SC29/bd-17704-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-17735-1090px.jpg"
+ data-srcset="./../images/SC29/tv-17735-512px.jpg 512w,
+ ./../images/SC29/tv-17735-768px.jpg 768w,
+ ./../images/SC29/tv-17735-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-17735-1090px.jpg"
+ data-srcset="./../images/SC29/bd-17735-512px.jpg 512w,
+ ./../images/SC29/bd-17735-768px.jpg 768w,
+ ./../images/SC29/bd-17735-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Back to the "and sharper" part of the comparison, now (and the second one also has an extra white frame thrown in the middle, for good measure):
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/14 - and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/14 - and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-17765-1090px.jpg"
+ data-srcset="./../images/SC29/tv-17765-512px.jpg 512w,
+ ./../images/SC29/tv-17765-768px.jpg 768w,
+ ./../images/SC29/tv-17765-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-17765-1090px.jpg"
+ data-srcset="./../images/SC29/bd-17765-512px.jpg 512w,
+ ./../images/SC29/bd-17765-768px.jpg 768w,
+ ./../images/SC29/bd-17765-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/15 - and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/15 - and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-17785-1090px.jpg"
+ data-srcset="./../images/SC29/tv-17785-512px.jpg 512w,
+ ./../images/SC29/tv-17785-768px.jpg 768w,
+ ./../images/SC29/tv-17785-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-17785-1090px.jpg"
+ data-srcset="./../images/SC29/bd-17785-512px.jpg 512w,
+ ./../images/SC29/bd-17785-768px.jpg 768w,
+ ./../images/SC29/bd-17785-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's take a brief reprise with an animation which is just brighter...:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/16 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/16 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-17810-1090px.jpg"
+ data-srcset="./../images/SC29/tv-17810-512px.jpg 512w,
+ ./../images/SC29/tv-17810-768px.jpg 768w,
+ ./../images/SC29/tv-17810-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-17810-1090px.jpg"
+ data-srcset="./../images/SC29/bd-17810-512px.jpg 512w,
+ ./../images/SC29/bd-17810-768px.jpg 768w,
+ ./../images/SC29/bd-17810-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-17829-1090px.jpg"
+ data-srcset="./../images/SC29/tv-17829-512px.jpg 512w,
+ ./../images/SC29/tv-17829-768px.jpg 768w,
+ ./../images/SC29/tv-17829-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-17829-1090px.jpg"
+ data-srcset="./../images/SC29/bd-17829-512px.jpg 512w,
+ ./../images/SC29/bd-17829-768px.jpg 768w,
+ ./../images/SC29/bd-17829-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And back to the last three also-sharper animations:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/17 - and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/17 - and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-18030-1090px.jpg"
+ data-srcset="./../images/SC29/tv-18030-512px.jpg 512w,
+ ./../images/SC29/tv-18030-768px.jpg 768w,
+ ./../images/SC29/tv-18030-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-18030-1090px.jpg"
+ data-srcset="./../images/SC29/bd-18030-512px.jpg 512w,
+ ./../images/SC29/bd-18030-768px.jpg 768w,
+ ./../images/SC29/bd-18030-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/18 - and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/18 - and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-18915-1090px.jpg"
+ data-srcset="./../images/SC29/tv-18915-512px.jpg 512w,
+ ./../images/SC29/tv-18915-768px.jpg 768w,
+ ./../images/SC29/tv-18915-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-18915-1090px.jpg"
+ data-srcset="./../images/SC29/bd-18915-512px.jpg 512w,
+ ./../images/SC29/bd-18915-768px.jpg 768w,
+ ./../images/SC29/bd-18915-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-19029-1090px.jpg"
+ data-srcset="./../images/SC29/tv-19029-512px.jpg 512w,
+ ./../images/SC29/tv-19029-768px.jpg 768w,
+ ./../images/SC29/tv-19029-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-19029-1090px.jpg"
+ data-srcset="./../images/SC29/bd-19029-512px.jpg 512w,
+ ./../images/SC29/bd-19029-768px.jpg 768w,
+ ./../images/SC29/bd-19029-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/19 - and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/19 - and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-25025-1090px.jpg"
+ data-srcset="./../images/SC29/tv-25025-512px.jpg 512w,
+ ./../images/SC29/tv-25025-768px.jpg 768w,
+ ./../images/SC29/tv-25025-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-25025-1090px.jpg"
+ data-srcset="./../images/SC29/bd-25025-512px.jpg 512w,
+ ./../images/SC29/bd-25025-768px.jpg 768w,
+ ./../images/SC29/bd-25025-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Aaand let's go back to take a look at the last two _just brighter_ animations:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/20 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/20 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-25830-1090px.jpg"
+ data-srcset="./../images/SC29/tv-25830-512px.jpg 512w,
+ ./../images/SC29/tv-25830-768px.jpg 768w,
+ ./../images/SC29/tv-25830-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-25830-1090px.jpg"
+ data-srcset="./../images/SC29/bd-25830-512px.jpg 512w,
+ ./../images/SC29/bd-25830-768px.jpg 768w,
+ ./../images/SC29/bd-25830-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC29/21 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC29/21 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/tv-26000-1090px.jpg"
+ data-srcset="./../images/SC29/tv-26000-512px.jpg 512w,
+ ./../images/SC29/tv-26000-768px.jpg 768w,
+ ./../images/SC29/tv-26000-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC29/bd-26000-1090px.jpg"
+ data-srcset="./../images/SC29/bd-26000-512px.jpg 512w,
+ ./../images/SC29/bd-26000-768px.jpg 768w,
+ ./../images/SC29/bd-26000-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And here you have it, friends! A whole lot of brighter and sharper animations this time around, huh? Nothing too exciting, but perhaps next time will be better! See you here in the near future for the next episode, Stardust Crusaders #30, "Bastet's Mariah - Part 1"!
+
+<br>
+
+Ciao!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
