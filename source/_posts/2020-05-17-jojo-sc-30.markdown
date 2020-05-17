@@ -1,0 +1,110 @@
+---
+layout: post
+title: "Stardust Crusaders #30 - Bastet's Mariah - Part 1"
+date: 2020-05-17 14:45:49 +0200
+comments: true
+categories: sc
+---
+
+{% img center /images/SC30/30-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello hello, good people! Welcome back for a quick look at Stardust Crusaders #30, "Bastet's Mariah - Part 1"! Due to the small size of this bad boy right here (and to somewhat make up for my inconsistent schedule as of late), I'll be treating you to the next comparison today as well! But let's not get ahead of ourselves...
+
+<br>
+
+Let's begin with episode #30!
+
+<br>
+
+- Today's short comparison begins with this scene, in which the contrast/brightness was adjusted toward the end:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC30/01 - statue fall.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC30/01 - statue fall.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC30/tv-24021-1090px.jpg"
+ data-srcset="./../images/SC30/tv-24021-512px.jpg 512w,
+ ./../images/SC30/tv-24021-768px.jpg 768w,
+ ./../images/SC30/tv-24021-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC30/bd-24021-1090px.jpg"
+ data-srcset="./../images/SC30/bd-24021-512px.jpg 512w,
+ ./../images/SC30/bd-24021-768px.jpg 768w,
+ ./../images/SC30/bd-24021-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Avdol's forehead wrinkles no longer stay on screen after he turns, here:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC30/02 - avdol wrinkle.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC30/02 - avdol wrinkle.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC30/tv-26840-1090px.jpg"
+ data-srcset="./../images/SC30/tv-26840-512px.jpg 512w,
+ ./../images/SC30/tv-26840-768px.jpg 768w,
+ ./../images/SC30/tv-26840-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC30/bd-26840-1090px.jpg"
+ data-srcset="./../images/SC30/bd-26840-512px.jpg 512w,
+ ./../images/SC30/bd-26840-768px.jpg 768w,
+ ./../images/SC30/bd-26840-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's conclude this lightning-quick comparison with a credit difference! Here, in addition to the usual プロダクション・アイ added on the left, company 美峰 (Bihō)'s name was spaced better as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC30/tv-31955-1090px.jpg"
+ data-srcset="./../images/SC30/tv-31955-512px.jpg 512w,
+ ./../images/SC30/tv-31955-768px.jpg 768w,
+ ./../images/SC30/tv-31955-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC30/bd-31955-1090px.jpg"
+ data-srcset="./../images/SC30/bd-31955-512px.jpg 512w,
+ ./../images/SC30/bd-31955-768px.jpg 768w,
+ ./../images/SC30/bd-31955-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And that concludes this briefest of comparisons, friends! But never fret, because episode #31, "Bastet's Mariah - Part 2" is also available <a href="https://jojocomparisons.github.io/jojo-sc-31/">here</a>!
+
+<br>
+
+See you there!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
