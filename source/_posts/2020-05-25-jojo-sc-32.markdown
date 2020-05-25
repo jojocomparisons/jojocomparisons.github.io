@@ -1,0 +1,210 @@
+---
+layout: post
+title: "Stardust Crusaders #32 - Set's Alessi - Part 1"
+date: 2020-05-25 10:29:15 +0200
+comments: true
+categories: sc
+---
+
+{% img center /images/SC32/32-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Howdy, fellas! How's it going? Fancy seeing you here! Welcome aboard the comparison cruise - today we'll be sailing for the Alessi archipelago, with two quick stops at Episode #32 and #33 - but let's not get ahead of ourselves, and let's begin by taking a look at our first episode, "Set's Alessi - Part 1"!
+
+<br>
+
+Ahoy!
+
+<br>
+
+- This first, brief comparison begins with this sharper and brighter animation! Take a gander, friends:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC32/01 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC32/01 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC32/tv-11889-1090px.jpg"
+ data-srcset="./../images/SC32/tv-11889-512px.jpg 512w,
+ ./../images/SC32/tv-11889-768px.jpg 768w,
+ ./../images/SC32/tv-11889-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC32/bd-11889-1090px.jpg"
+ data-srcset="./../images/SC32/bd-11889-512px.jpg 512w,
+ ./../images/SC32/bd-11889-768px.jpg 768w,
+ ./../images/SC32/bd-11889-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here we have the first redraw in a long time - this lady has been pretty significantly retouched, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC32/tv-27382-1090px.jpg"
+ data-srcset="./../images/SC32/tv-27382-512px.jpg 512w,
+ ./../images/SC32/tv-27382-768px.jpg 768w,
+ ./../images/SC32/tv-27382-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC32/bd-27382-1090px.jpg"
+ data-srcset="./../images/SC32/bd-27382-512px.jpg 512w,
+ ./../images/SC32/bd-27382-768px.jpg 768w,
+ ./../images/SC32/bd-27382-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC32/tv-27395-1090px.jpg"
+ data-srcset="./../images/SC32/tv-27395-512px.jpg 512w,
+ ./../images/SC32/tv-27395-768px.jpg 768w,
+ ./../images/SC32/tv-27395-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC32/bd-27395-1090px.jpg"
+ data-srcset="./../images/SC32/bd-27395-512px.jpg 512w,
+ ./../images/SC32/bd-27395-768px.jpg 768w,
+ ./../images/SC32/bd-27395-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC32/tv-27461-1090px.jpg"
+ data-srcset="./../images/SC32/tv-27461-512px.jpg 512w,
+ ./../images/SC32/tv-27461-768px.jpg 768w,
+ ./../images/SC32/tv-27461-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC32/bd-27461-1090px.jpg"
+ data-srcset="./../images/SC32/bd-27461-512px.jpg 512w,
+ ./../images/SC32/bd-27461-768px.jpg 768w,
+ ./../images/SC32/bd-27461-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC32/tv-27467-1090px.jpg"
+ data-srcset="./../images/SC32/tv-27467-512px.jpg 512w,
+ ./../images/SC32/tv-27467-768px.jpg 768w,
+ ./../images/SC32/tv-27467-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC32/bd-27467-1090px.jpg"
+ data-srcset="./../images/SC32/bd-27467-512px.jpg 512w,
+ ./../images/SC32/bd-27467-768px.jpg 768w,
+ ./../images/SC32/bd-27467-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC32/tv-27490-1090px.jpg"
+ data-srcset="./../images/SC32/tv-27490-512px.jpg 512w,
+ ./../images/SC32/tv-27490-768px.jpg 768w,
+ ./../images/SC32/tv-27490-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC32/bd-27490-1090px.jpg"
+ data-srcset="./../images/SC32/bd-27490-512px.jpg 512w,
+ ./../images/SC32/bd-27490-768px.jpg 768w,
+ ./../images/SC32/bd-27490-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC32/tv-27550-1090px.jpg"
+ data-srcset="./../images/SC32/tv-27550-512px.jpg 512w,
+ ./../images/SC32/tv-27550-768px.jpg 768w,
+ ./../images/SC32/tv-27550-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC32/bd-27550-1090px.jpg"
+ data-srcset="./../images/SC32/bd-27550-512px.jpg 512w,
+ ./../images/SC32/bd-27550-768px.jpg 768w,
+ ./../images/SC32/bd-27550-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's close this brief post with this scene, in which some parts of the frame are sliiiightly darker:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC32/tv-27960-1090px.jpg"
+ data-srcset="./../images/SC32/tv-27960-512px.jpg 512w,
+ ./../images/SC32/tv-27960-768px.jpg 768w,
+ ./../images/SC32/tv-27960-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC32/bd-27960-1090px.jpg"
+ data-srcset="./../images/SC32/bd-27960-512px.jpg 512w,
+ ./../images/SC32/bd-27960-768px.jpg 768w,
+ ./../images/SC32/bd-27960-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And that concludes this very brief amouse-bouche; but never fear! We will go straight to the main meal, because on this cruise ship we have no standards and absolutely no etiquette! Click right <a href="https://jojocomparisons.github.io/jojo-sc-33/">here</a> for a bite of that juicy dish, baby!
+
+<br>
+
+See you there!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
