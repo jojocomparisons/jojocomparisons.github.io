@@ -1,0 +1,191 @@
+---
+layout: post
+title: "Stardust Crusaders #34 - D'Arby the Gambler - Part 1"
+date: 2020-06-01 14:03:36 +0200
+comments: true
+categories: sc
+---
+
+{% img center /images/SC34/34-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello, good peeps! Welcome back. I hope you're keeping safe in these horrible times - shit is rough and everything sucks. I'm sorry I can only offer you this lame comparison, but I hope it helps keep your mind off the news for a couple of minutes at least. Unfortunately today's post will be a rather quick one, for Episode #34, "D'Arby the Gambler - Part 1" is fairly light on differences, but boy oh BOY will that change next time!
+
+<br>
+
+But let's not get ahead of ourselves...
+
+<br>
+
+- Today's first difference is here: D'Arby's legs have now been moved to the correct layer:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC34/tv-08180-1090px.jpg"
+ data-srcset="./../images/SC34/tv-08180-512px.jpg 512w,
+ ./../images/SC34/tv-08180-768px.jpg 768w,
+ ./../images/SC34/tv-08180-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC34/bd-08180-1090px.jpg"
+ data-srcset="./../images/SC34/bd-08180-512px.jpg 512w,
+ ./../images/SC34/bd-08180-768px.jpg 768w,
+ ./../images/SC34/bd-08180-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This is a weird one... This scene (which is just a bunch of frames later) _should_ be exactly like the previous one, but instead has a bunch of differences. I suspect they used a previous version instead of the final one; thankfully the BDs have undone that oversight. In the video you can also notice how the background is subtly shifting with the haze:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC34/tv-08740-1090px.jpg"
+ data-srcset="./../images/SC34/tv-08740-512px.jpg 512w,
+ ./../images/SC34/tv-08740-768px.jpg 768w,
+ ./../images/SC34/tv-08740-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC34/bd-08740-1090px.jpg"
+ data-srcset="./../images/SC34/bd-08740-512px.jpg 512w,
+ ./../images/SC34/bd-08740-768px.jpg 768w,
+ ./../images/SC34/bd-08740-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC34/01 - background shift.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC34/01 - background shift.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- This transition happens two frames earlier in the BD, perhaps to hide the fact that those two frames were slightly different, and created a slightly jarring shift:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC34/02 - earlier transition.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC34/02 - earlier transition.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- The border of this chip has been correctly coloured, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC34/tv-17405-1090px.jpg"
+ data-srcset="./../images/SC34/tv-17405-512px.jpg 512w,
+ ./../images/SC34/tv-17405-768px.jpg 768w,
+ ./../images/SC34/tv-17405-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC34/bd-17405-1090px.jpg"
+ data-srcset="./../images/SC34/bd-17405-512px.jpg 512w,
+ ./../images/SC34/bd-17405-768px.jpg 768w,
+ ./../images/SC34/bd-17405-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Jotaro's mouthflap has been adjusted, here:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC34/03 - mouthflap.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC34/03 - mouthflap.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- Here, there's an extra line on Joseph's right forearm:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC34/tv-27280-1090px.jpg"
+ data-srcset="./../images/SC34/tv-27280-512px.jpg 512w,
+ ./../images/SC34/tv-27280-768px.jpg 768w,
+ ./../images/SC34/tv-27280-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC34/bd-27280-1090px.jpg"
+ data-srcset="./../images/SC34/bd-27280-512px.jpg 512w,
+ ./../images/SC34/bd-27280-768px.jpg 768w,
+ ./../images/SC34/bd-27280-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, the overlay on Joseph's different, and the "aura" effect is less noticeable:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC34/04 - phantom aura.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC34/04 - phantom aura.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC34/tv-28320-1090px.jpg"
+ data-srcset="./../images/SC34/tv-28320-512px.jpg 512w,
+ ./../images/SC34/tv-28320-768px.jpg 768w,
+ ./../images/SC34/tv-28320-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC34/bd-28320-1090px.jpg"
+ data-srcset="./../images/SC34/bd-28320-512px.jpg 512w,
+ ./../images/SC34/bd-28320-768px.jpg 768w,
+ ./../images/SC34/bd-28320-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC34/tv-28510-1090px.jpg"
+ data-srcset="./../images/SC34/tv-28510-512px.jpg 512w,
+ ./../images/SC34/tv-28510-768px.jpg 768w,
+ ./../images/SC34/tv-28510-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC34/bd-28510-1090px.jpg"
+ data-srcset="./../images/SC34/bd-28510-512px.jpg 512w,
+ ./../images/SC34/bd-28510-768px.jpg 768w,
+ ./../images/SC34/bd-28510-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And that concludes today's comparison, friends! I hope you had a decently good time - as much as it could be possible in these circumstances. Please, stay safe and continue to fight the good fight. In the meantime, I'll see you again next time for the big boy comparison, Episode #35, "D'Arby the Gambler - Part 2"!
+
+<br>
+
+It's gonna be a long one!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
