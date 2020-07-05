@@ -1,0 +1,1376 @@
+---
+layout: post
+title: "Stardust Crusaders #37 - Hol Horse and Boingo - Part 2"
+date: 2020-07-05 20:01:59 +0200
+comments: true
+categories: sc
+---
+
+{% img center /images/SC37/37-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello hello, friends! Let's pick right up where we left off with a sizable serving of differences - they will mostly deal with removed Japanese text, but hey, that's still something! Let's dive right into today's episode, "Hol Horse and Boingo - Part 2", shall we?
+
+<br>
+
+- Let's start with this nice animation of Polnareff taking out his Silver Chariot, now brighter and (slightly) sharper:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC37/01 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC37/01 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-01580-1090px.jpg"
+ data-srcset="./../images/SC37/tv-01580-512px.jpg 512w,
+ ./../images/SC37/tv-01580-768px.jpg 768w,
+ ./../images/SC37/tv-01580-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-01580-1090px.jpg"
+ data-srcset="./../images/SC37/bd-01580-512px.jpg 512w,
+ ./../images/SC37/bd-01580-768px.jpg 768w,
+ ./../images/SC37/bd-01580-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here we have a couple of text differences...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-01990-1090px.jpg"
+ data-srcset="./../images/SC37/tv-01990-512px.jpg 512w,
+ ./../images/SC37/tv-01990-768px.jpg 768w,
+ ./../images/SC37/tv-01990-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-01990-1090px.jpg"
+ data-srcset="./../images/SC37/bd-01990-512px.jpg 512w,
+ ./../images/SC37/bd-01990-768px.jpg 768w,
+ ./../images/SC37/bd-01990-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-09390-1090px.jpg"
+ data-srcset="./../images/SC37/tv-09390-512px.jpg 512w,
+ ./../images/SC37/tv-09390-768px.jpg 768w,
+ ./../images/SC37/tv-09390-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-09390-1090px.jpg"
+ data-srcset="./../images/SC37/bd-09390-512px.jpg 512w,
+ ./../images/SC37/bd-09390-768px.jpg 768w,
+ ./../images/SC37/bd-09390-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here we have another brighter and sharper animation:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC37/02 - b and s.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC37/02 - b and s.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-09395-1090px.jpg"
+ data-srcset="./../images/SC37/tv-09395-512px.jpg 512w,
+ ./../images/SC37/tv-09395-768px.jpg 768w,
+ ./../images/SC37/tv-09395-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-09395-1090px.jpg"
+ data-srcset="./../images/SC37/bd-09395-512px.jpg 512w,
+ ./../images/SC37/bd-09395-768px.jpg 768w,
+ ./../images/SC37/bd-09395-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-09410-1090px.jpg"
+ data-srcset="./../images/SC37/tv-09410-512px.jpg 512w,
+ ./../images/SC37/tv-09410-768px.jpg 768w,
+ ./../images/SC37/tv-09410-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-09410-1090px.jpg"
+ data-srcset="./../images/SC37/bd-09410-512px.jpg 512w,
+ ./../images/SC37/bd-09410-768px.jpg 768w,
+ ./../images/SC37/bd-09410-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This flashback of the last episode was, once again, uncensored:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC37/03 - uncensored flashback.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC37/03 - uncensored flashback.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-10645-1090px.jpg"
+ data-srcset="./../images/SC37/tv-10645-512px.jpg 512w,
+ ./../images/SC37/tv-10645-768px.jpg 768w,
+ ./../images/SC37/tv-10645-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-10645-1090px.jpg"
+ data-srcset="./../images/SC37/bd-10645-512px.jpg 512w,
+ ./../images/SC37/bd-10645-768px.jpg 768w,
+ ./../images/SC37/bd-10645-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here we have a big, big helping of text differences:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-11100-1090px.jpg"
+ data-srcset="./../images/SC37/tv-11100-512px.jpg 512w,
+ ./../images/SC37/tv-11100-768px.jpg 768w,
+ ./../images/SC37/tv-11100-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-11100-1090px.jpg"
+ data-srcset="./../images/SC37/bd-11100-512px.jpg 512w,
+ ./../images/SC37/bd-11100-768px.jpg 768w,
+ ./../images/SC37/bd-11100-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-11780-1090px.jpg"
+ data-srcset="./../images/SC37/tv-11780-512px.jpg 512w,
+ ./../images/SC37/tv-11780-768px.jpg 768w,
+ ./../images/SC37/tv-11780-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-11780-1090px.jpg"
+ data-srcset="./../images/SC37/bd-11780-512px.jpg 512w,
+ ./../images/SC37/bd-11780-768px.jpg 768w,
+ ./../images/SC37/bd-11780-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-12120-1090px.jpg"
+ data-srcset="./../images/SC37/tv-12120-512px.jpg 512w,
+ ./../images/SC37/tv-12120-768px.jpg 768w,
+ ./../images/SC37/tv-12120-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-12120-1090px.jpg"
+ data-srcset="./../images/SC37/bd-12120-512px.jpg 512w,
+ ./../images/SC37/bd-12120-768px.jpg 768w,
+ ./../images/SC37/bd-12120-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-12320-1090px.jpg"
+ data-srcset="./../images/SC37/tv-12320-512px.jpg 512w,
+ ./../images/SC37/tv-12320-768px.jpg 768w,
+ ./../images/SC37/tv-12320-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-12320-1090px.jpg"
+ data-srcset="./../images/SC37/bd-12320-512px.jpg 512w,
+ ./../images/SC37/bd-12320-768px.jpg 768w,
+ ./../images/SC37/bd-12320-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-12390-1090px.jpg"
+ data-srcset="./../images/SC37/tv-12390-512px.jpg 512w,
+ ./../images/SC37/tv-12390-768px.jpg 768w,
+ ./../images/SC37/tv-12390-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-12390-1090px.jpg"
+ data-srcset="./../images/SC37/bd-12390-512px.jpg 512w,
+ ./../images/SC37/bd-12390-768px.jpg 768w,
+ ./../images/SC37/bd-12390-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-12505-1090px.jpg"
+ data-srcset="./../images/SC37/tv-12505-512px.jpg 512w,
+ ./../images/SC37/tv-12505-768px.jpg 768w,
+ ./../images/SC37/tv-12505-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-12505-1090px.jpg"
+ data-srcset="./../images/SC37/bd-12505-512px.jpg 512w,
+ ./../images/SC37/bd-12505-768px.jpg 768w,
+ ./../images/SC37/bd-12505-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-12985-1090px.jpg"
+ data-srcset="./../images/SC37/tv-12985-512px.jpg 512w,
+ ./../images/SC37/tv-12985-768px.jpg 768w,
+ ./../images/SC37/tv-12985-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-12985-1090px.jpg"
+ data-srcset="./../images/SC37/bd-12985-512px.jpg 512w,
+ ./../images/SC37/bd-12985-768px.jpg 768w,
+ ./../images/SC37/bd-12985-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-13390-1090px.jpg"
+ data-srcset="./../images/SC37/tv-13390-512px.jpg 512w,
+ ./../images/SC37/tv-13390-768px.jpg 768w,
+ ./../images/SC37/tv-13390-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-13390-1090px.jpg"
+ data-srcset="./../images/SC37/bd-13390-512px.jpg 512w,
+ ./../images/SC37/bd-13390-768px.jpg 768w,
+ ./../images/SC37/bd-13390-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-14095-1090px.jpg"
+ data-srcset="./../images/SC37/tv-14095-512px.jpg 512w,
+ ./../images/SC37/tv-14095-768px.jpg 768w,
+ ./../images/SC37/tv-14095-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-14095-1090px.jpg"
+ data-srcset="./../images/SC37/bd-14095-512px.jpg 512w,
+ ./../images/SC37/bd-14095-768px.jpg 768w,
+ ./../images/SC37/bd-14095-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-14100-1090px.jpg"
+ data-srcset="./../images/SC37/tv-14100-512px.jpg 512w,
+ ./../images/SC37/tv-14100-768px.jpg 768w,
+ ./../images/SC37/tv-14100-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-14100-1090px.jpg"
+ data-srcset="./../images/SC37/bd-14100-512px.jpg 512w,
+ ./../images/SC37/bd-14100-768px.jpg 768w,
+ ./../images/SC37/bd-14100-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-14360-1090px.jpg"
+ data-srcset="./../images/SC37/tv-14360-512px.jpg 512w,
+ ./../images/SC37/tv-14360-768px.jpg 768w,
+ ./../images/SC37/tv-14360-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-14360-1090px.jpg"
+ data-srcset="./../images/SC37/bd-14360-512px.jpg 512w,
+ ./../images/SC37/bd-14360-768px.jpg 768w,
+ ./../images/SC37/bd-14360-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-14470-1090px.jpg"
+ data-srcset="./../images/SC37/tv-14470-512px.jpg 512w,
+ ./../images/SC37/tv-14470-768px.jpg 768w,
+ ./../images/SC37/tv-14470-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-14470-1090px.jpg"
+ data-srcset="./../images/SC37/bd-14470-512px.jpg 512w,
+ ./../images/SC37/bd-14470-768px.jpg 768w,
+ ./../images/SC37/bd-14470-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-14570-1090px.jpg"
+ data-srcset="./../images/SC37/tv-14570-512px.jpg 512w,
+ ./../images/SC37/tv-14570-768px.jpg 768w,
+ ./../images/SC37/tv-14570-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-14570-1090px.jpg"
+ data-srcset="./../images/SC37/bd-14570-512px.jpg 512w,
+ ./../images/SC37/bd-14570-768px.jpg 768w,
+ ./../images/SC37/bd-14570-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-14620-1090px.jpg"
+ data-srcset="./../images/SC37/tv-14620-512px.jpg 512w,
+ ./../images/SC37/tv-14620-768px.jpg 768w,
+ ./../images/SC37/tv-14620-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-14620-1090px.jpg"
+ data-srcset="./../images/SC37/bd-14620-512px.jpg 512w,
+ ./../images/SC37/bd-14620-768px.jpg 768w,
+ ./../images/SC37/bd-14620-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-14755-1090px.jpg"
+ data-srcset="./../images/SC37/tv-14755-512px.jpg 512w,
+ ./../images/SC37/tv-14755-768px.jpg 768w,
+ ./../images/SC37/tv-14755-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-14755-1090px.jpg"
+ data-srcset="./../images/SC37/bd-14755-512px.jpg 512w,
+ ./../images/SC37/bd-14755-768px.jpg 768w,
+ ./../images/SC37/bd-14755-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-15680-1090px.jpg"
+ data-srcset="./../images/SC37/tv-15680-512px.jpg 512w,
+ ./../images/SC37/tv-15680-768px.jpg 768w,
+ ./../images/SC37/tv-15680-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-15680-1090px.jpg"
+ data-srcset="./../images/SC37/bd-15680-512px.jpg 512w,
+ ./../images/SC37/bd-15680-768px.jpg 768w,
+ ./../images/SC37/bd-15680-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-15757-1090px.jpg"
+ data-srcset="./../images/SC37/tv-15757-512px.jpg 512w,
+ ./../images/SC37/tv-15757-768px.jpg 768w,
+ ./../images/SC37/tv-15757-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-15757-1090px.jpg"
+ data-srcset="./../images/SC37/bd-15757-512px.jpg 512w,
+ ./../images/SC37/bd-15757-768px.jpg 768w,
+ ./../images/SC37/bd-15757-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-15852-1090px.jpg"
+ data-srcset="./../images/SC37/tv-15852-512px.jpg 512w,
+ ./../images/SC37/tv-15852-768px.jpg 768w,
+ ./../images/SC37/tv-15852-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-15852-1090px.jpg"
+ data-srcset="./../images/SC37/bd-15852-512px.jpg 512w,
+ ./../images/SC37/bd-15852-768px.jpg 768w,
+ ./../images/SC37/bd-15852-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-15900-1090px.jpg"
+ data-srcset="./../images/SC37/tv-15900-512px.jpg 512w,
+ ./../images/SC37/tv-15900-768px.jpg 768w,
+ ./../images/SC37/tv-15900-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-15900-1090px.jpg"
+ data-srcset="./../images/SC37/bd-15900-512px.jpg 512w,
+ ./../images/SC37/bd-15900-768px.jpg 768w,
+ ./../images/SC37/bd-15900-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-16135-1090px.jpg"
+ data-srcset="./../images/SC37/tv-16135-512px.jpg 512w,
+ ./../images/SC37/tv-16135-768px.jpg 768w,
+ ./../images/SC37/tv-16135-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-16135-1090px.jpg"
+ data-srcset="./../images/SC37/bd-16135-512px.jpg 512w,
+ ./../images/SC37/bd-16135-768px.jpg 768w,
+ ./../images/SC37/bd-16135-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-16185-1090px.jpg"
+ data-srcset="./../images/SC37/tv-16185-512px.jpg 512w,
+ ./../images/SC37/tv-16185-768px.jpg 768w,
+ ./../images/SC37/tv-16185-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-16185-1090px.jpg"
+ data-srcset="./../images/SC37/bd-16185-512px.jpg 512w,
+ ./../images/SC37/bd-16185-768px.jpg 768w,
+ ./../images/SC37/bd-16185-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-16465-1090px.jpg"
+ data-srcset="./../images/SC37/tv-16465-512px.jpg 512w,
+ ./../images/SC37/tv-16465-768px.jpg 768w,
+ ./../images/SC37/tv-16465-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-16465-1090px.jpg"
+ data-srcset="./../images/SC37/bd-16465-512px.jpg 512w,
+ ./../images/SC37/bd-16465-768px.jpg 768w,
+ ./../images/SC37/bd-16465-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-16530-1090px.jpg"
+ data-srcset="./../images/SC37/tv-16530-512px.jpg 512w,
+ ./../images/SC37/tv-16530-768px.jpg 768w,
+ ./../images/SC37/tv-16530-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-16530-1090px.jpg"
+ data-srcset="./../images/SC37/bd-16530-512px.jpg 512w,
+ ./../images/SC37/bd-16530-768px.jpg 768w,
+ ./../images/SC37/bd-16530-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-16532-1090px.jpg"
+ data-srcset="./../images/SC37/tv-16532-512px.jpg 512w,
+ ./../images/SC37/tv-16532-768px.jpg 768w,
+ ./../images/SC37/tv-16532-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-16532-1090px.jpg"
+ data-srcset="./../images/SC37/bd-16532-512px.jpg 512w,
+ ./../images/SC37/bd-16532-768px.jpg 768w,
+ ./../images/SC37/bd-16532-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-16555-1090px.jpg"
+ data-srcset="./../images/SC37/tv-16555-512px.jpg 512w,
+ ./../images/SC37/tv-16555-768px.jpg 768w,
+ ./../images/SC37/tv-16555-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-16555-1090px.jpg"
+ data-srcset="./../images/SC37/bd-16555-512px.jpg 512w,
+ ./../images/SC37/bd-16555-768px.jpg 768w,
+ ./../images/SC37/bd-16555-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-16694-1090px.jpg"
+ data-srcset="./../images/SC37/tv-16694-512px.jpg 512w,
+ ./../images/SC37/tv-16694-768px.jpg 768w,
+ ./../images/SC37/tv-16694-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-16694-1090px.jpg"
+ data-srcset="./../images/SC37/bd-16694-512px.jpg 512w,
+ ./../images/SC37/bd-16694-768px.jpg 768w,
+ ./../images/SC37/bd-16694-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-16753-1090px.jpg"
+ data-srcset="./../images/SC37/tv-16753-512px.jpg 512w,
+ ./../images/SC37/tv-16753-768px.jpg 768w,
+ ./../images/SC37/tv-16753-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-16753-1090px.jpg"
+ data-srcset="./../images/SC37/bd-16753-512px.jpg 512w,
+ ./../images/SC37/bd-16753-768px.jpg 768w,
+ ./../images/SC37/bd-16753-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-16940-1090px.jpg"
+ data-srcset="./../images/SC37/tv-16940-512px.jpg 512w,
+ ./../images/SC37/tv-16940-768px.jpg 768w,
+ ./../images/SC37/tv-16940-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-16940-1090px.jpg"
+ data-srcset="./../images/SC37/bd-16940-512px.jpg 512w,
+ ./../images/SC37/bd-16940-768px.jpg 768w,
+ ./../images/SC37/bd-16940-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-16965-1090px.jpg"
+ data-srcset="./../images/SC37/tv-16965-512px.jpg 512w,
+ ./../images/SC37/tv-16965-768px.jpg 768w,
+ ./../images/SC37/tv-16965-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-16965-1090px.jpg"
+ data-srcset="./../images/SC37/bd-16965-512px.jpg 512w,
+ ./../images/SC37/bd-16965-768px.jpg 768w,
+ ./../images/SC37/bd-16965-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-17150-1090px.jpg"
+ data-srcset="./../images/SC37/tv-17150-512px.jpg 512w,
+ ./../images/SC37/tv-17150-768px.jpg 768w,
+ ./../images/SC37/tv-17150-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-17150-1090px.jpg"
+ data-srcset="./../images/SC37/bd-17150-512px.jpg 512w,
+ ./../images/SC37/bd-17150-768px.jpg 768w,
+ ./../images/SC37/bd-17150-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-17660-1090px.jpg"
+ data-srcset="./../images/SC37/tv-17660-512px.jpg 512w,
+ ./../images/SC37/tv-17660-768px.jpg 768w,
+ ./../images/SC37/tv-17660-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-17660-1090px.jpg"
+ data-srcset="./../images/SC37/bd-17660-512px.jpg 512w,
+ ./../images/SC37/bd-17660-768px.jpg 768w,
+ ./../images/SC37/bd-17660-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-17721-1090px.jpg"
+ data-srcset="./../images/SC37/tv-17721-512px.jpg 512w,
+ ./../images/SC37/tv-17721-768px.jpg 768w,
+ ./../images/SC37/tv-17721-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-17721-1090px.jpg"
+ data-srcset="./../images/SC37/bd-17721-512px.jpg 512w,
+ ./../images/SC37/bd-17721-768px.jpg 768w,
+ ./../images/SC37/bd-17721-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-17895-1090px.jpg"
+ data-srcset="./../images/SC37/tv-17895-512px.jpg 512w,
+ ./../images/SC37/tv-17895-768px.jpg 768w,
+ ./../images/SC37/tv-17895-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-17895-1090px.jpg"
+ data-srcset="./../images/SC37/bd-17895-512px.jpg 512w,
+ ./../images/SC37/bd-17895-768px.jpg 768w,
+ ./../images/SC37/bd-17895-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-19605-1090px.jpg"
+ data-srcset="./../images/SC37/tv-19605-512px.jpg 512w,
+ ./../images/SC37/tv-19605-768px.jpg 768w,
+ ./../images/SC37/tv-19605-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-19605-1090px.jpg"
+ data-srcset="./../images/SC37/bd-19605-512px.jpg 512w,
+ ./../images/SC37/bd-19605-768px.jpg 768w,
+ ./../images/SC37/bd-19605-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-19790-1090px.jpg"
+ data-srcset="./../images/SC37/tv-19790-512px.jpg 512w,
+ ./../images/SC37/tv-19790-768px.jpg 768w,
+ ./../images/SC37/tv-19790-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-19790-1090px.jpg"
+ data-srcset="./../images/SC37/bd-19790-512px.jpg 512w,
+ ./../images/SC37/bd-19790-768px.jpg 768w,
+ ./../images/SC37/bd-19790-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-20280-1090px.jpg"
+ data-srcset="./../images/SC37/tv-20280-512px.jpg 512w,
+ ./../images/SC37/tv-20280-768px.jpg 768w,
+ ./../images/SC37/tv-20280-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-20280-1090px.jpg"
+ data-srcset="./../images/SC37/bd-20280-512px.jpg 512w,
+ ./../images/SC37/bd-20280-768px.jpg 768w,
+ ./../images/SC37/bd-20280-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-20670-1090px.jpg"
+ data-srcset="./../images/SC37/tv-20670-512px.jpg 512w,
+ ./../images/SC37/tv-20670-768px.jpg 768w,
+ ./../images/SC37/tv-20670-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-20670-1090px.jpg"
+ data-srcset="./../images/SC37/bd-20670-512px.jpg 512w,
+ ./../images/SC37/bd-20670-768px.jpg 768w,
+ ./../images/SC37/bd-20670-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's take a quick break from all that text with... some more text, accompanied by a brighter and sharper animation:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC37/04 - brighter and sharper text.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC37/04 - brighter and sharper text.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-22525-1090px.jpg"
+ data-srcset="./../images/SC37/tv-22525-512px.jpg 512w,
+ ./../images/SC37/tv-22525-768px.jpg 768w,
+ ./../images/SC37/tv-22525-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-22525-1090px.jpg"
+ data-srcset="./../images/SC37/bd-22525-512px.jpg 512w,
+ ./../images/SC37/bd-22525-768px.jpg 768w,
+ ./../images/SC37/bd-22525-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- One more text difference:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-22628-1090px.jpg"
+ data-srcset="./../images/SC37/tv-22628-512px.jpg 512w,
+ ./../images/SC37/tv-22628-768px.jpg 768w,
+ ./../images/SC37/tv-22628-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-22628-1090px.jpg"
+ data-srcset="./../images/SC37/bd-22628-512px.jpg 512w,
+ ./../images/SC37/bd-22628-768px.jpg 768w,
+ ./../images/SC37/bd-22628-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, on top of the now no longer erased title, the book's spine has been correctly recoloured between Boingo's index and middle fingers:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-24920-1090px.jpg"
+ data-srcset="./../images/SC37/tv-24920-512px.jpg 512w,
+ ./../images/SC37/tv-24920-768px.jpg 768w,
+ ./../images/SC37/tv-24920-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-24920-1090px.jpg"
+ data-srcset="./../images/SC37/bd-24920-512px.jpg 512w,
+ ./../images/SC37/bd-24920-768px.jpg 768w,
+ ./../images/SC37/bd-24920-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Back to the grind, peeps:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-25593-1090px.jpg"
+ data-srcset="./../images/SC37/tv-25593-512px.jpg 512w,
+ ./../images/SC37/tv-25593-768px.jpg 768w,
+ ./../images/SC37/tv-25593-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-25593-1090px.jpg"
+ data-srcset="./../images/SC37/bd-25593-512px.jpg 512w,
+ ./../images/SC37/bd-25593-768px.jpg 768w,
+ ./../images/SC37/bd-25593-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-25916-1090px.jpg"
+ data-srcset="./../images/SC37/tv-25916-512px.jpg 512w,
+ ./../images/SC37/tv-25916-768px.jpg 768w,
+ ./../images/SC37/tv-25916-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-25916-1090px.jpg"
+ data-srcset="./../images/SC37/bd-25916-512px.jpg 512w,
+ ./../images/SC37/bd-25916-768px.jpg 768w,
+ ./../images/SC37/bd-25916-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-26092-1090px.jpg"
+ data-srcset="./../images/SC37/tv-26092-512px.jpg 512w,
+ ./../images/SC37/tv-26092-768px.jpg 768w,
+ ./../images/SC37/tv-26092-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-26092-1090px.jpg"
+ data-srcset="./../images/SC37/bd-26092-512px.jpg 512w,
+ ./../images/SC37/bd-26092-768px.jpg 768w,
+ ./../images/SC37/bd-26092-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-26131-1090px.jpg"
+ data-srcset="./../images/SC37/tv-26131-512px.jpg 512w,
+ ./../images/SC37/tv-26131-768px.jpg 768w,
+ ./../images/SC37/tv-26131-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-26131-1090px.jpg"
+ data-srcset="./../images/SC37/bd-26131-512px.jpg 512w,
+ ./../images/SC37/bd-26131-768px.jpg 768w,
+ ./../images/SC37/bd-26131-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-26595-1090px.jpg"
+ data-srcset="./../images/SC37/tv-26595-512px.jpg 512w,
+ ./../images/SC37/tv-26595-768px.jpg 768w,
+ ./../images/SC37/tv-26595-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-26595-1090px.jpg"
+ data-srcset="./../images/SC37/bd-26595-512px.jpg 512w,
+ ./../images/SC37/bd-26595-768px.jpg 768w,
+ ./../images/SC37/bd-26595-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-26857-1090px.jpg"
+ data-srcset="./../images/SC37/tv-26857-512px.jpg 512w,
+ ./../images/SC37/tv-26857-768px.jpg 768w,
+ ./../images/SC37/tv-26857-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-26857-1090px.jpg"
+ data-srcset="./../images/SC37/bd-26857-512px.jpg 512w,
+ ./../images/SC37/bd-26857-768px.jpg 768w,
+ ./../images/SC37/bd-26857-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-28475-1090px.jpg"
+ data-srcset="./../images/SC37/tv-28475-512px.jpg 512w,
+ ./../images/SC37/tv-28475-768px.jpg 768w,
+ ./../images/SC37/tv-28475-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-28475-1090px.jpg"
+ data-srcset="./../images/SC37/bd-28475-512px.jpg 512w,
+ ./../images/SC37/bd-28475-768px.jpg 768w,
+ ./../images/SC37/bd-28475-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-29757-1090px.jpg"
+ data-srcset="./../images/SC37/tv-29757-512px.jpg 512w,
+ ./../images/SC37/tv-29757-768px.jpg 768w,
+ ./../images/SC37/tv-29757-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-29757-1090px.jpg"
+ data-srcset="./../images/SC37/bd-29757-512px.jpg 512w,
+ ./../images/SC37/bd-29757-768px.jpg 768w,
+ ./../images/SC37/bd-29757-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-30125-1090px.jpg"
+ data-srcset="./../images/SC37/tv-30125-512px.jpg 512w,
+ ./../images/SC37/tv-30125-768px.jpg 768w,
+ ./../images/SC37/tv-30125-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-30125-1090px.jpg"
+ data-srcset="./../images/SC37/bd-30125-512px.jpg 512w,
+ ./../images/SC37/bd-30125-768px.jpg 768w,
+ ./../images/SC37/bd-30125-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-30385-1090px.jpg"
+ data-srcset="./../images/SC37/tv-30385-512px.jpg 512w,
+ ./../images/SC37/tv-30385-768px.jpg 768w,
+ ./../images/SC37/tv-30385-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-30385-1090px.jpg"
+ data-srcset="./../images/SC37/bd-30385-512px.jpg 512w,
+ ./../images/SC37/bd-30385-768px.jpg 768w,
+ ./../images/SC37/bd-30385-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-31460-1090px.jpg"
+ data-srcset="./../images/SC37/tv-31460-512px.jpg 512w,
+ ./../images/SC37/tv-31460-768px.jpg 768w,
+ ./../images/SC37/tv-31460-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-31460-1090px.jpg"
+ data-srcset="./../images/SC37/bd-31460-512px.jpg 512w,
+ ./../images/SC37/bd-31460-768px.jpg 768w,
+ ./../images/SC37/bd-31460-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And, at the end of the very last bit, the BD adds the usual sign that reads "Hol Horse and Boingo - Retired":
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-31485-1090px.jpg"
+ data-srcset="./../images/SC37/tv-31485-512px.jpg 512w,
+ ./../images/SC37/tv-31485-768px.jpg 768w,
+ ./../images/SC37/tv-31485-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-31485-1090px.jpg"
+ data-srcset="./../images/SC37/bd-31485-512px.jpg 512w,
+ ./../images/SC37/bd-31485-768px.jpg 768w,
+ ./../images/SC37/bd-31485-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-31550-1090px.jpg"
+ data-srcset="./../images/SC37/tv-31550-512px.jpg 512w,
+ ./../images/SC37/tv-31550-768px.jpg 768w,
+ ./../images/SC37/tv-31550-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-31550-1090px.jpg"
+ data-srcset="./../images/SC37/bd-31550-512px.jpg 512w,
+ ./../images/SC37/bd-31550-768px.jpg 768w,
+ ./../images/SC37/bd-31550-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Since this episode has, strictly speaking, a new ending, let's take a super quick look at it! For some reason, the very first shot was a little dark; this has been rectified in the BDs:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC37/05 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC37/05 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-31568-1090px.jpg"
+ data-srcset="./../images/SC37/tv-31568-512px.jpg 512w,
+ ./../images/SC37/tv-31568-768px.jpg 768w,
+ ./../images/SC37/tv-31568-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-31568-1090px.jpg"
+ data-srcset="./../images/SC37/bd-31568-512px.jpg 512w,
+ ./../images/SC37/bd-31568-768px.jpg 768w,
+ ./../images/SC37/bd-31568-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-31580-1090px.jpg"
+ data-srcset="./../images/SC37/tv-31580-512px.jpg 512w,
+ ./../images/SC37/tv-31580-768px.jpg 768w,
+ ./../images/SC37/tv-31580-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-31580-1090px.jpg"
+ data-srcset="./../images/SC37/bd-31580-512px.jpg 512w,
+ ./../images/SC37/bd-31580-768px.jpg 768w,
+ ./../images/SC37/bd-31580-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/tv-31615-1090px.jpg"
+ data-srcset="./../images/SC37/tv-31615-512px.jpg 512w,
+ ./../images/SC37/tv-31615-768px.jpg 768w,
+ ./../images/SC37/tv-31615-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC37/bd-31615-1090px.jpg"
+ data-srcset="./../images/SC37/bd-31615-512px.jpg 512w,
+ ./../images/SC37/bd-31615-768px.jpg 768w,
+ ./../images/SC37/bd-31615-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And there you have it, folks! That concludes this strange duology of comparisons - and, hopefully, the last time we'll see this kind of text-only differences! Either way, I hope you had a good time looking through these frames, and as usual, I'll see you next time for Episode #38, "The Guardian of Hell, Pet Shop - Part 1"!
+
+<br>
+
+See ya!
+
+<br>
+
+{% img center /images/tobecontinued.png %}

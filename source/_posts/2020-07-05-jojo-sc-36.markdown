@@ -1,0 +1,1112 @@
+---
+layout: post
+title: "Stardust Crusaders #36 - Hol Horse and Boingo - Part 1"
+date: 2020-07-05 20:00:45 +0200
+comments: true
+categories: sc
+---
+
+{% img center /images/SC36/36-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello again, good people! Apologies for the latest hiatus - I'm trying to balance this blog with the rest of my life while also trying to not burn myself out. Thanks for the patience! :) Today we're going to take a look at not one, but two episodes! And my reasoning is twofold: fistly, I want to somewhat make it up for the delay, and secondly I feel that both of these episodes are rather dull, comparison-wise. So, without further ado, let's dive right into the first one, "Hol Horse and Boingo - Part 1"!
+
+<br>
+
+- Here, Hol Horse's gun no longer looks like a plastic toy:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-06590-1090px.jpg"
+ data-srcset="./../images/SC36/tv-06590-512px.jpg 512w,
+ ./../images/SC36/tv-06590-768px.jpg 768w,
+ ./../images/SC36/tv-06590-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-06590-1090px.jpg"
+ data-srcset="./../images/SC36/bd-06590-512px.jpg 512w,
+ ./../images/SC36/bd-06590-768px.jpg 768w,
+ ./../images/SC36/bd-06590-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, a small area on Dio's hair is now darker:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-07580-1090px.jpg"
+ data-srcset="./../images/SC36/tv-07580-512px.jpg 512w,
+ ./../images/SC36/tv-07580-768px.jpg 768w,
+ ./../images/SC36/tv-07580-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-07580-1090px.jpg"
+ data-srcset="./../images/SC36/bd-07580-512px.jpg 512w,
+ ./../images/SC36/bd-07580-768px.jpg 768w,
+ ./../images/SC36/bd-07580-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This scene is now brighter and sharper:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC36/01 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC36/01 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-11837-1090px.jpg"
+ data-srcset="./../images/SC36/tv-11837-512px.jpg 512w,
+ ./../images/SC36/tv-11837-768px.jpg 768w,
+ ./../images/SC36/tv-11837-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-11837-1090px.jpg"
+ data-srcset="./../images/SC36/bd-11837-512px.jpg 512w,
+ ./../images/SC36/bd-11837-768px.jpg 768w,
+ ./../images/SC36/bd-11837-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- As is this one, on top of being uncensored:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC36/02 - uncensored and bs.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC36/02 - uncensored and bs.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-11842-1090px.jpg"
+ data-srcset="./../images/SC36/tv-11842-512px.jpg 512w,
+ ./../images/SC36/tv-11842-768px.jpg 768w,
+ ./../images/SC36/tv-11842-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-11842-1090px.jpg"
+ data-srcset="./../images/SC36/bd-11842-512px.jpg 512w,
+ ./../images/SC36/bd-11842-768px.jpg 768w,
+ ./../images/SC36/bd-11842-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-11870-1090px.jpg"
+ data-srcset="./../images/SC36/tv-11870-512px.jpg 512w,
+ ./../images/SC36/tv-11870-768px.jpg 768w,
+ ./../images/SC36/tv-11870-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-11870-1090px.jpg"
+ data-srcset="./../images/SC36/bd-11870-512px.jpg 512w,
+ ./../images/SC36/bd-11870-768px.jpg 768w,
+ ./../images/SC36/bd-11870-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This scene is, instead, just censored...:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC36/03 - uncensored.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC36/03 - uncensored.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- And from here on I'm afraid the BD version is almost entirely unchanged, so let's take this opportunity to take a look at what was changed in some (all?) western releases, like we did with <a href="https://jojocomparisons.github.io/jojo-sc-27/">Episode #27</a>! As with that episode, all instances of "Oingo Boingo" were erased, along with any written Japanese text on the pages of Thoth itself. Here, have a look:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-12785-1090px.jpg"
+ data-srcset="./../images/SC36/tv-12785-512px.jpg 512w,
+ ./../images/SC36/tv-12785-768px.jpg 768w,
+ ./../images/SC36/tv-12785-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-12785-1090px.jpg"
+ data-srcset="./../images/SC36/bd-12785-512px.jpg 512w,
+ ./../images/SC36/bd-12785-768px.jpg 768w,
+ ./../images/SC36/bd-12785-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-13060-1090px.jpg"
+ data-srcset="./../images/SC36/tv-13060-512px.jpg 512w,
+ ./../images/SC36/tv-13060-768px.jpg 768w,
+ ./../images/SC36/tv-13060-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-13060-1090px.jpg"
+ data-srcset="./../images/SC36/bd-13060-512px.jpg 512w,
+ ./../images/SC36/bd-13060-768px.jpg 768w,
+ ./../images/SC36/bd-13060-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-13610-1090px.jpg"
+ data-srcset="./../images/SC36/tv-13610-512px.jpg 512w,
+ ./../images/SC36/tv-13610-768px.jpg 768w,
+ ./../images/SC36/tv-13610-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-13610-1090px.jpg"
+ data-srcset="./../images/SC36/bd-13610-512px.jpg 512w,
+ ./../images/SC36/bd-13610-768px.jpg 768w,
+ ./../images/SC36/bd-13610-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-13830-1090px.jpg"
+ data-srcset="./../images/SC36/tv-13830-512px.jpg 512w,
+ ./../images/SC36/tv-13830-768px.jpg 768w,
+ ./../images/SC36/tv-13830-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-13830-1090px.jpg"
+ data-srcset="./../images/SC36/bd-13830-512px.jpg 512w,
+ ./../images/SC36/bd-13830-768px.jpg 768w,
+ ./../images/SC36/bd-13830-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-15050-1090px.jpg"
+ data-srcset="./../images/SC36/tv-15050-512px.jpg 512w,
+ ./../images/SC36/tv-15050-768px.jpg 768w,
+ ./../images/SC36/tv-15050-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-15050-1090px.jpg"
+ data-srcset="./../images/SC36/bd-15050-512px.jpg 512w,
+ ./../images/SC36/bd-15050-768px.jpg 768w,
+ ./../images/SC36/bd-15050-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-15090-1090px.jpg"
+ data-srcset="./../images/SC36/tv-15090-512px.jpg 512w,
+ ./../images/SC36/tv-15090-768px.jpg 768w,
+ ./../images/SC36/tv-15090-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-15090-1090px.jpg"
+ data-srcset="./../images/SC36/bd-15090-512px.jpg 512w,
+ ./../images/SC36/bd-15090-768px.jpg 768w,
+ ./../images/SC36/bd-15090-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-15190-1090px.jpg"
+ data-srcset="./../images/SC36/tv-15190-512px.jpg 512w,
+ ./../images/SC36/tv-15190-768px.jpg 768w,
+ ./../images/SC36/tv-15190-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-15190-1090px.jpg"
+ data-srcset="./../images/SC36/bd-15190-512px.jpg 512w,
+ ./../images/SC36/bd-15190-768px.jpg 768w,
+ ./../images/SC36/bd-15190-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-15375-1090px.jpg"
+ data-srcset="./../images/SC36/tv-15375-512px.jpg 512w,
+ ./../images/SC36/tv-15375-768px.jpg 768w,
+ ./../images/SC36/tv-15375-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-15375-1090px.jpg"
+ data-srcset="./../images/SC36/bd-15375-512px.jpg 512w,
+ ./../images/SC36/bd-15375-768px.jpg 768w,
+ ./../images/SC36/bd-15375-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-15435-1090px.jpg"
+ data-srcset="./../images/SC36/tv-15435-512px.jpg 512w,
+ ./../images/SC36/tv-15435-768px.jpg 768w,
+ ./../images/SC36/tv-15435-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-15435-1090px.jpg"
+ data-srcset="./../images/SC36/bd-15435-512px.jpg 512w,
+ ./../images/SC36/bd-15435-768px.jpg 768w,
+ ./../images/SC36/bd-15435-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-15600-1090px.jpg"
+ data-srcset="./../images/SC36/tv-15600-512px.jpg 512w,
+ ./../images/SC36/tv-15600-768px.jpg 768w,
+ ./../images/SC36/tv-15600-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-15600-1090px.jpg"
+ data-srcset="./../images/SC36/bd-15600-512px.jpg 512w,
+ ./../images/SC36/bd-15600-768px.jpg 768w,
+ ./../images/SC36/bd-15600-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-16265-1090px.jpg"
+ data-srcset="./../images/SC36/tv-16265-512px.jpg 512w,
+ ./../images/SC36/tv-16265-768px.jpg 768w,
+ ./../images/SC36/tv-16265-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-16265-1090px.jpg"
+ data-srcset="./../images/SC36/bd-16265-512px.jpg 512w,
+ ./../images/SC36/bd-16265-768px.jpg 768w,
+ ./../images/SC36/bd-16265-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-16374-1090px.jpg"
+ data-srcset="./../images/SC36/tv-16374-512px.jpg 512w,
+ ./../images/SC36/tv-16374-768px.jpg 768w,
+ ./../images/SC36/tv-16374-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-16374-1090px.jpg"
+ data-srcset="./../images/SC36/bd-16374-512px.jpg 512w,
+ ./../images/SC36/bd-16374-768px.jpg 768w,
+ ./../images/SC36/bd-16374-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-16535-1090px.jpg"
+ data-srcset="./../images/SC36/tv-16535-512px.jpg 512w,
+ ./../images/SC36/tv-16535-768px.jpg 768w,
+ ./../images/SC36/tv-16535-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-16535-1090px.jpg"
+ data-srcset="./../images/SC36/bd-16535-512px.jpg 512w,
+ ./../images/SC36/bd-16535-768px.jpg 768w,
+ ./../images/SC36/bd-16535-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-16615-1090px.jpg"
+ data-srcset="./../images/SC36/tv-16615-512px.jpg 512w,
+ ./../images/SC36/tv-16615-768px.jpg 768w,
+ ./../images/SC36/tv-16615-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-16615-1090px.jpg"
+ data-srcset="./../images/SC36/bd-16615-512px.jpg 512w,
+ ./../images/SC36/bd-16615-768px.jpg 768w,
+ ./../images/SC36/bd-16615-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-16830-1090px.jpg"
+ data-srcset="./../images/SC36/tv-16830-512px.jpg 512w,
+ ./../images/SC36/tv-16830-768px.jpg 768w,
+ ./../images/SC36/tv-16830-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-16830-1090px.jpg"
+ data-srcset="./../images/SC36/bd-16830-512px.jpg 512w,
+ ./../images/SC36/bd-16830-768px.jpg 768w,
+ ./../images/SC36/bd-16830-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-17085-1090px.jpg"
+ data-srcset="./../images/SC36/tv-17085-512px.jpg 512w,
+ ./../images/SC36/tv-17085-768px.jpg 768w,
+ ./../images/SC36/tv-17085-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-17085-1090px.jpg"
+ data-srcset="./../images/SC36/bd-17085-512px.jpg 512w,
+ ./../images/SC36/bd-17085-768px.jpg 768w,
+ ./../images/SC36/bd-17085-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-17550-1090px.jpg"
+ data-srcset="./../images/SC36/tv-17550-512px.jpg 512w,
+ ./../images/SC36/tv-17550-768px.jpg 768w,
+ ./../images/SC36/tv-17550-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-17550-1090px.jpg"
+ data-srcset="./../images/SC36/bd-17550-512px.jpg 512w,
+ ./../images/SC36/bd-17550-768px.jpg 768w,
+ ./../images/SC36/bd-17550-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-20400-1090px.jpg"
+ data-srcset="./../images/SC36/tv-20400-512px.jpg 512w,
+ ./../images/SC36/tv-20400-768px.jpg 768w,
+ ./../images/SC36/tv-20400-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-20400-1090px.jpg"
+ data-srcset="./../images/SC36/bd-20400-512px.jpg 512w,
+ ./../images/SC36/bd-20400-768px.jpg 768w,
+ ./../images/SC36/bd-20400-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's take a break with an actual difference! Here, the picture of Dio's mansion is different:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-20660-1090px.jpg"
+ data-srcset="./../images/SC36/tv-20660-512px.jpg 512w,
+ ./../images/SC36/tv-20660-768px.jpg 768w,
+ ./../images/SC36/tv-20660-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-20660-1090px.jpg"
+ data-srcset="./../images/SC36/bd-20660-512px.jpg 512w,
+ ./../images/SC36/bd-20660-768px.jpg 768w,
+ ./../images/SC36/bd-20660-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-20860-1090px.jpg"
+ data-srcset="./../images/SC36/tv-20860-512px.jpg 512w,
+ ./../images/SC36/tv-20860-768px.jpg 768w,
+ ./../images/SC36/tv-20860-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-20860-1090px.jpg"
+ data-srcset="./../images/SC36/bd-20860-512px.jpg 512w,
+ ./../images/SC36/bd-20860-768px.jpg 768w,
+ ./../images/SC36/bd-20860-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's go back to the Japanese-Western differences:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-22980-1090px.jpg"
+ data-srcset="./../images/SC36/tv-22980-512px.jpg 512w,
+ ./../images/SC36/tv-22980-768px.jpg 768w,
+ ./../images/SC36/tv-22980-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-22980-1090px.jpg"
+ data-srcset="./../images/SC36/bd-22980-512px.jpg 512w,
+ ./../images/SC36/bd-22980-768px.jpg 768w,
+ ./../images/SC36/bd-22980-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-23110-1090px.jpg"
+ data-srcset="./../images/SC36/tv-23110-512px.jpg 512w,
+ ./../images/SC36/tv-23110-768px.jpg 768w,
+ ./../images/SC36/tv-23110-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-23110-1090px.jpg"
+ data-srcset="./../images/SC36/bd-23110-512px.jpg 512w,
+ ./../images/SC36/bd-23110-768px.jpg 768w,
+ ./../images/SC36/bd-23110-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-23385-1090px.jpg"
+ data-srcset="./../images/SC36/tv-23385-512px.jpg 512w,
+ ./../images/SC36/tv-23385-768px.jpg 768w,
+ ./../images/SC36/tv-23385-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-23385-1090px.jpg"
+ data-srcset="./../images/SC36/bd-23385-512px.jpg 512w,
+ ./../images/SC36/bd-23385-768px.jpg 768w,
+ ./../images/SC36/bd-23385-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-23500-1090px.jpg"
+ data-srcset="./../images/SC36/tv-23500-512px.jpg 512w,
+ ./../images/SC36/tv-23500-768px.jpg 768w,
+ ./../images/SC36/tv-23500-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-23500-1090px.jpg"
+ data-srcset="./../images/SC36/bd-23500-512px.jpg 512w,
+ ./../images/SC36/bd-23500-768px.jpg 768w,
+ ./../images/SC36/bd-23500-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-23665-1090px.jpg"
+ data-srcset="./../images/SC36/tv-23665-512px.jpg 512w,
+ ./../images/SC36/tv-23665-768px.jpg 768w,
+ ./../images/SC36/tv-23665-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-23665-1090px.jpg"
+ data-srcset="./../images/SC36/bd-23665-512px.jpg 512w,
+ ./../images/SC36/bd-23665-768px.jpg 768w,
+ ./../images/SC36/bd-23665-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-23800-1090px.jpg"
+ data-srcset="./../images/SC36/tv-23800-512px.jpg 512w,
+ ./../images/SC36/tv-23800-768px.jpg 768w,
+ ./../images/SC36/tv-23800-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-23800-1090px.jpg"
+ data-srcset="./../images/SC36/bd-23800-512px.jpg 512w,
+ ./../images/SC36/bd-23800-768px.jpg 768w,
+ ./../images/SC36/bd-23800-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-23905-1090px.jpg"
+ data-srcset="./../images/SC36/tv-23905-512px.jpg 512w,
+ ./../images/SC36/tv-23905-768px.jpg 768w,
+ ./../images/SC36/tv-23905-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-23905-1090px.jpg"
+ data-srcset="./../images/SC36/bd-23905-512px.jpg 512w,
+ ./../images/SC36/bd-23905-768px.jpg 768w,
+ ./../images/SC36/bd-23905-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-23932-1090px.jpg"
+ data-srcset="./../images/SC36/tv-23932-512px.jpg 512w,
+ ./../images/SC36/tv-23932-768px.jpg 768w,
+ ./../images/SC36/tv-23932-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-23932-1090px.jpg"
+ data-srcset="./../images/SC36/bd-23932-512px.jpg 512w,
+ ./../images/SC36/bd-23932-768px.jpg 768w,
+ ./../images/SC36/bd-23932-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-24160-1090px.jpg"
+ data-srcset="./../images/SC36/tv-24160-512px.jpg 512w,
+ ./../images/SC36/tv-24160-768px.jpg 768w,
+ ./../images/SC36/tv-24160-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-24160-1090px.jpg"
+ data-srcset="./../images/SC36/bd-24160-512px.jpg 512w,
+ ./../images/SC36/bd-24160-768px.jpg 768w,
+ ./../images/SC36/bd-24160-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-24165-1090px.jpg"
+ data-srcset="./../images/SC36/tv-24165-512px.jpg 512w,
+ ./../images/SC36/tv-24165-768px.jpg 768w,
+ ./../images/SC36/tv-24165-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-24165-1090px.jpg"
+ data-srcset="./../images/SC36/bd-24165-512px.jpg 512w,
+ ./../images/SC36/bd-24165-768px.jpg 768w,
+ ./../images/SC36/bd-24165-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-24340-1090px.jpg"
+ data-srcset="./../images/SC36/tv-24340-512px.jpg 512w,
+ ./../images/SC36/tv-24340-768px.jpg 768w,
+ ./../images/SC36/tv-24340-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-24340-1090px.jpg"
+ data-srcset="./../images/SC36/bd-24340-512px.jpg 512w,
+ ./../images/SC36/bd-24340-768px.jpg 768w,
+ ./../images/SC36/bd-24340-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-24420-1090px.jpg"
+ data-srcset="./../images/SC36/tv-24420-512px.jpg 512w,
+ ./../images/SC36/tv-24420-768px.jpg 768w,
+ ./../images/SC36/tv-24420-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-24420-1090px.jpg"
+ data-srcset="./../images/SC36/bd-24420-512px.jpg 512w,
+ ./../images/SC36/bd-24420-768px.jpg 768w,
+ ./../images/SC36/bd-24420-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-24530-1090px.jpg"
+ data-srcset="./../images/SC36/tv-24530-512px.jpg 512w,
+ ./../images/SC36/tv-24530-768px.jpg 768w,
+ ./../images/SC36/tv-24530-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-24530-1090px.jpg"
+ data-srcset="./../images/SC36/bd-24530-512px.jpg 512w,
+ ./../images/SC36/bd-24530-768px.jpg 768w,
+ ./../images/SC36/bd-24530-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-24810-1090px.jpg"
+ data-srcset="./../images/SC36/tv-24810-512px.jpg 512w,
+ ./../images/SC36/tv-24810-768px.jpg 768w,
+ ./../images/SC36/tv-24810-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-24810-1090px.jpg"
+ data-srcset="./../images/SC36/bd-24810-512px.jpg 512w,
+ ./../images/SC36/bd-24810-768px.jpg 768w,
+ ./../images/SC36/bd-24810-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-25115-1090px.jpg"
+ data-srcset="./../images/SC36/tv-25115-512px.jpg 512w,
+ ./../images/SC36/tv-25115-768px.jpg 768w,
+ ./../images/SC36/tv-25115-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-25115-1090px.jpg"
+ data-srcset="./../images/SC36/bd-25115-512px.jpg 512w,
+ ./../images/SC36/bd-25115-768px.jpg 768w,
+ ./../images/SC36/bd-25115-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-25735-1090px.jpg"
+ data-srcset="./../images/SC36/tv-25735-512px.jpg 512w,
+ ./../images/SC36/tv-25735-768px.jpg 768w,
+ ./../images/SC36/tv-25735-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-25735-1090px.jpg"
+ data-srcset="./../images/SC36/bd-25735-512px.jpg 512w,
+ ./../images/SC36/bd-25735-768px.jpg 768w,
+ ./../images/SC36/bd-25735-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This flashback has also been uncensored, and Oingo's wound looks as superficial as it did in Episode #27:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-26090-1090px.jpg"
+ data-srcset="./../images/SC36/tv-26090-512px.jpg 512w,
+ ./../images/SC36/tv-26090-768px.jpg 768w,
+ ./../images/SC36/tv-26090-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-26090-1090px.jpg"
+ data-srcset="./../images/SC36/bd-26090-512px.jpg 512w,
+ ./../images/SC36/bd-26090-768px.jpg 768w,
+ ./../images/SC36/bd-26090-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Back to the text changes, baby:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-26465-1090px.jpg"
+ data-srcset="./../images/SC36/tv-26465-512px.jpg 512w,
+ ./../images/SC36/tv-26465-768px.jpg 768w,
+ ./../images/SC36/tv-26465-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-26465-1090px.jpg"
+ data-srcset="./../images/SC36/bd-26465-512px.jpg 512w,
+ ./../images/SC36/bd-26465-768px.jpg 768w,
+ ./../images/SC36/bd-26465-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-27700-1090px.jpg"
+ data-srcset="./../images/SC36/tv-27700-512px.jpg 512w,
+ ./../images/SC36/tv-27700-768px.jpg 768w,
+ ./../images/SC36/tv-27700-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-27700-1090px.jpg"
+ data-srcset="./../images/SC36/bd-27700-512px.jpg 512w,
+ ./../images/SC36/bd-27700-768px.jpg 768w,
+ ./../images/SC36/bd-27700-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-28130-1090px.jpg"
+ data-srcset="./../images/SC36/tv-28130-512px.jpg 512w,
+ ./../images/SC36/tv-28130-768px.jpg 768w,
+ ./../images/SC36/tv-28130-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-28130-1090px.jpg"
+ data-srcset="./../images/SC36/bd-28130-512px.jpg 512w,
+ ./../images/SC36/bd-28130-768px.jpg 768w,
+ ./../images/SC36/bd-28130-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-28155-1090px.jpg"
+ data-srcset="./../images/SC36/tv-28155-512px.jpg 512w,
+ ./../images/SC36/tv-28155-768px.jpg 768w,
+ ./../images/SC36/tv-28155-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-28155-1090px.jpg"
+ data-srcset="./../images/SC36/bd-28155-512px.jpg 512w,
+ ./../images/SC36/bd-28155-768px.jpg 768w,
+ ./../images/SC36/bd-28155-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-28605-1090px.jpg"
+ data-srcset="./../images/SC36/tv-28605-512px.jpg 512w,
+ ./../images/SC36/tv-28605-768px.jpg 768w,
+ ./../images/SC36/tv-28605-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-28605-1090px.jpg"
+ data-srcset="./../images/SC36/bd-28605-512px.jpg 512w,
+ ./../images/SC36/bd-28605-768px.jpg 768w,
+ ./../images/SC36/bd-28605-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-28822-1090px.jpg"
+ data-srcset="./../images/SC36/tv-28822-512px.jpg 512w,
+ ./../images/SC36/tv-28822-768px.jpg 768w,
+ ./../images/SC36/tv-28822-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-28822-1090px.jpg"
+ data-srcset="./../images/SC36/bd-28822-512px.jpg 512w,
+ ./../images/SC36/bd-28822-768px.jpg 768w,
+ ./../images/SC36/bd-28822-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-30069-1090px.jpg"
+ data-srcset="./../images/SC36/tv-30069-512px.jpg 512w,
+ ./../images/SC36/tv-30069-768px.jpg 768w,
+ ./../images/SC36/tv-30069-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-30069-1090px.jpg"
+ data-srcset="./../images/SC36/bd-30069-512px.jpg 512w,
+ ./../images/SC36/bd-30069-768px.jpg 768w,
+ ./../images/SC36/bd-30069-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/tv-30400-1090px.jpg"
+ data-srcset="./../images/SC36/tv-30400-512px.jpg 512w,
+ ./../images/SC36/tv-30400-768px.jpg 768w,
+ ./../images/SC36/tv-30400-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC36/bd-30400-1090px.jpg"
+ data-srcset="./../images/SC36/bd-30400-512px.jpg 512w,
+ ./../images/SC36/bd-30400-768px.jpg 768w,
+ ./../images/SC36/bd-30400-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+Aaaaand that concludes today's first episode! I hope you had fun, and see you right now for a look at the next episode! Click <a href="https://jojocomparisons.github.io/jojo-sc-37/">here</a> to take a look at "Hol Horse and Boingo - Part 2"!
+
+<br>
+
+See you very, very soon!
+
+<br>
+
+{% img center /images/tobecontinued.png %}

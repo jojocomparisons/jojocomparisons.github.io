@@ -136,7 +136,7 @@ Let's not belabor the point, then, and let's dive right in!
   <source src="./../videos/SC35/04 - different.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-- A bunch of details have been tweaked in this scene here! In no particular oder: the general shading has been tweaked, Jotaro's mouth is looking different, the left part of his collar has been recoloured and a couple of lines in the same area have been retouched:
+- A bunch of details have been tweaked in this scene here! In no particular order: the general shading has been tweaked, Jotaro's mouth is looking different, the left part of his collar has been recoloured and a couple of lines in the same area have been retouched:
 
 <div id="container1" class="twentytwenty-container">
  <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
@@ -210,7 +210,7 @@ Let's not belabor the point, then, and let's dive right in!
 
 <br>
 
-- And, right after the previous difference, the BDs introduce a completely different shot:
+- And, right after the previous difference, the BDs introduce a completely different shot, accompanied by a slightly smoother card shuffling animation (thanks, <a href="https://jojocomparisons.github.io/jojo-sc-35/#comment-4945731534">Brainulator9</a>!):
 
 <video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC35/06 - different.webm" type='video/webm; codecs="vp8, vorbis"'>
