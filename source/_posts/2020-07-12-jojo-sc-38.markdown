@@ -367,7 +367,7 @@ Hit it!
 
 <br>
 
-- The frames around this transition are now slightly brighter...:
+- The frames around this transition now have a better contrast...:
 
 <video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC38/03 - slightly brightly.webm" type='video/webm; codecs="vp8, vorbis"'>
@@ -1336,7 +1336,7 @@ Hit it!
 
 <br>
 
-- ...all the ice effects are looking much cooler! Check it:
+- ...has some _cooler_ ice effects! Check it:
 
 <video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
   <source src="./../videos/SC38/19 - better ice.webm" type='video/webm; codecs="vp8, vorbis"'>

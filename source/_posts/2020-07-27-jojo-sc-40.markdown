@@ -1,0 +1,806 @@
+---
+layout: post
+title: "Stardust Crusaders #40 - D'Arby the Player - Part 1"
+date: 2020-07-27 16:30:46 +0200
+comments: true
+categories: sc
+---
+
+{% img center /images/SC40/40-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Howdy, fellas! Another week has gone by and, after a little bit of delay, it's once again time for your friendly neighborhood comparisons. Today we're going to take a look at Stardust Crusaders #40, "D'Arby the Player - Part 1"!
+
+<br>
+
+Without further ado, then...
+
+<br>
+
+- Let's begin with a couple of small retouches on the younger D'Arby, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-02030-1090px.jpg"
+ data-srcset="./../images/SC40/tv-02030-512px.jpg 512w,
+ ./../images/SC40/tv-02030-768px.jpg 768w,
+ ./../images/SC40/tv-02030-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-02030-1090px.jpg"
+ data-srcset="./../images/SC40/bd-02030-512px.jpg 512w,
+ ./../images/SC40/bd-02030-768px.jpg 768w,
+ ./../images/SC40/bd-02030-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-02165-1090px.jpg"
+ data-srcset="./../images/SC40/tv-02165-512px.jpg 512w,
+ ./../images/SC40/tv-02165-768px.jpg 768w,
+ ./../images/SC40/tv-02165-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-02165-1090px.jpg"
+ data-srcset="./../images/SC40/bd-02165-512px.jpg 512w,
+ ./../images/SC40/bd-02165-768px.jpg 768w,
+ ./../images/SC40/bd-02165-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-02280-1090px.jpg"
+ data-srcset="./../images/SC40/tv-02280-512px.jpg 512w,
+ ./../images/SC40/tv-02280-768px.jpg 768w,
+ ./../images/SC40/tv-02280-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-02280-1090px.jpg"
+ data-srcset="./../images/SC40/bd-02280-512px.jpg 512w,
+ ./../images/SC40/bd-02280-768px.jpg 768w,
+ ./../images/SC40/bd-02280-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-02400-1090px.jpg"
+ data-srcset="./../images/SC40/tv-02400-512px.jpg 512w,
+ ./../images/SC40/tv-02400-768px.jpg 768w,
+ ./../images/SC40/tv-02400-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-02400-1090px.jpg"
+ data-srcset="./../images/SC40/bd-02400-512px.jpg 512w,
+ ./../images/SC40/bd-02400-768px.jpg 768w,
+ ./../images/SC40/bd-02400-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The mouthflap has been adjusted in the following bits:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-07960-1090px.jpg"
+ data-srcset="./../images/SC40/tv-07960-512px.jpg 512w,
+ ./../images/SC40/tv-07960-768px.jpg 768w,
+ ./../images/SC40/tv-07960-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-07960-1090px.jpg"
+ data-srcset="./../images/SC40/bd-07960-512px.jpg 512w,
+ ./../images/SC40/bd-07960-768px.jpg 768w,
+ ./../images/SC40/bd-07960-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-17100-1090px.jpg"
+ data-srcset="./../images/SC40/tv-17100-512px.jpg 512w,
+ ./../images/SC40/tv-17100-768px.jpg 768w,
+ ./../images/SC40/tv-17100-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-17100-1090px.jpg"
+ data-srcset="./../images/SC40/bd-17100-512px.jpg 512w,
+ ./../images/SC40/bd-17100-768px.jpg 768w,
+ ./../images/SC40/bd-17100-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And here we start with the interesting changes! Here, the lighting/shading on D'Arby's arms has been slightly tweaked...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-19112-1090px.jpg"
+ data-srcset="./../images/SC40/tv-19112-512px.jpg 512w,
+ ./../images/SC40/tv-19112-768px.jpg 768w,
+ ./../images/SC40/tv-19112-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-19112-1090px.jpg"
+ data-srcset="./../images/SC40/bd-19112-512px.jpg 512w,
+ ./../images/SC40/bd-19112-768px.jpg 768w,
+ ./../images/SC40/bd-19112-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...and, on top of that, Atum's no longer using his left hand to play:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-19145-1090px.jpg"
+ data-srcset="./../images/SC40/tv-19145-512px.jpg 512w,
+ ./../images/SC40/tv-19145-768px.jpg 768w,
+ ./../images/SC40/tv-19145-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-19145-1090px.jpg"
+ data-srcset="./../images/SC40/bd-19145-512px.jpg 512w,
+ ./../images/SC40/bd-19145-768px.jpg 768w,
+ ./../images/SC40/bd-19145-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-19405-1090px.jpg"
+ data-srcset="./../images/SC40/tv-19405-512px.jpg 512w,
+ ./../images/SC40/tv-19405-768px.jpg 768w,
+ ./../images/SC40/tv-19405-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-19405-1090px.jpg"
+ data-srcset="./../images/SC40/bd-19405-512px.jpg 512w,
+ ./../images/SC40/bd-19405-768px.jpg 768w,
+ ./../images/SC40/bd-19405-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, Atum's left hand has, once again, been removed, and Terence's arms have been moved so that they're actually positioned on the joypad:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-19504-1090px.jpg"
+ data-srcset="./../images/SC40/tv-19504-512px.jpg 512w,
+ ./../images/SC40/tv-19504-768px.jpg 768w,
+ ./../images/SC40/tv-19504-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-19504-1090px.jpg"
+ data-srcset="./../images/SC40/bd-19504-512px.jpg 512w,
+ ./../images/SC40/bd-19504-768px.jpg 768w,
+ ./../images/SC40/bd-19504-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This section is for Kira Yoshikage's eyes only:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-19510-1090px.jpg"
+ data-srcset="./../images/SC40/tv-19510-512px.jpg 512w,
+ ./../images/SC40/tv-19510-768px.jpg 768w,
+ ./../images/SC40/tv-19510-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-19510-1090px.jpg"
+ data-srcset="./../images/SC40/bd-19510-512px.jpg 512w,
+ ./../images/SC40/bd-19510-768px.jpg 768w,
+ ./../images/SC40/bd-19510-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-19805-1090px.jpg"
+ data-srcset="./../images/SC40/tv-19805-512px.jpg 512w,
+ ./../images/SC40/tv-19805-768px.jpg 768w,
+ ./../images/SC40/tv-19805-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-19805-1090px.jpg"
+ data-srcset="./../images/SC40/bd-19805-512px.jpg 512w,
+ ./../images/SC40/bd-19805-768px.jpg 768w,
+ ./../images/SC40/bd-19805-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-19935-1090px.jpg"
+ data-srcset="./../images/SC40/tv-19935-512px.jpg 512w,
+ ./../images/SC40/tv-19935-768px.jpg 768w,
+ ./../images/SC40/tv-19935-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-19935-1090px.jpg"
+ data-srcset="./../images/SC40/bd-19935-512px.jpg 512w,
+ ./../images/SC40/bd-19935-768px.jpg 768w,
+ ./../images/SC40/bd-19935-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This sequence is more zoomed-out (UI included), and it's got a better contrast too:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC40/01 - zoom and contrast.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC40/01 - zoom and contrast.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-20030-1090px.jpg"
+ data-srcset="./../images/SC40/tv-20030-512px.jpg 512w,
+ ./../images/SC40/tv-20030-768px.jpg 768w,
+ ./../images/SC40/tv-20030-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-20030-1090px.jpg"
+ data-srcset="./../images/SC40/bd-20030-512px.jpg 512w,
+ ./../images/SC40/bd-20030-768px.jpg 768w,
+ ./../images/SC40/bd-20030-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Atum's thumb is, once again, absent here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-20405-1090px.jpg"
+ data-srcset="./../images/SC40/tv-20405-512px.jpg 512w,
+ ./../images/SC40/tv-20405-768px.jpg 768w,
+ ./../images/SC40/tv-20405-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-20405-1090px.jpg"
+ data-srcset="./../images/SC40/bd-20405-512px.jpg 512w,
+ ./../images/SC40/bd-20405-768px.jpg 768w,
+ ./../images/SC40/bd-20405-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- As its hand is here, in the latter part of this animation; animation in whose transition Atum and D'Arby are also less transparent:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC40/02 - transition.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC40/02 - transition.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-20711-1090px.jpg"
+ data-srcset="./../images/SC40/tv-20711-512px.jpg 512w,
+ ./../images/SC40/tv-20711-768px.jpg 768w,
+ ./../images/SC40/tv-20711-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-20711-1090px.jpg"
+ data-srcset="./../images/SC40/bd-20711-512px.jpg 512w,
+ ./../images/SC40/bd-20711-768px.jpg 768w,
+ ./../images/SC40/bd-20711-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-20716-1090px.jpg"
+ data-srcset="./../images/SC40/tv-20716-512px.jpg 512w,
+ ./../images/SC40/tv-20716-768px.jpg 768w,
+ ./../images/SC40/tv-20716-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-20716-1090px.jpg"
+ data-srcset="./../images/SC40/bd-20716-512px.jpg 512w,
+ ./../images/SC40/bd-20716-768px.jpg 768w,
+ ./../images/SC40/bd-20716-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This animation of Kakyoin showing off his mad gamer skillz is now brighter...:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC40/03 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC40/03 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-20980-1090px.jpg"
+ data-srcset="./../images/SC40/tv-20980-512px.jpg 512w,
+ ./../images/SC40/tv-20980-768px.jpg 768w,
+ ./../images/SC40/tv-20980-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-20980-1090px.jpg"
+ data-srcset="./../images/SC40/bd-20980-512px.jpg 512w,
+ ./../images/SC40/bd-20980-768px.jpg 768w,
+ ./../images/SC40/bd-20980-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...and this is much sharper too:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC40/04 - and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC40/04 - and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-21005-1090px.jpg"
+ data-srcset="./../images/SC40/tv-21005-512px.jpg 512w,
+ ./../images/SC40/tv-21005-768px.jpg 768w,
+ ./../images/SC40/tv-21005-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-21005-1090px.jpg"
+ data-srcset="./../images/SC40/bd-21005-512px.jpg 512w,
+ ./../images/SC40/bd-21005-768px.jpg 768w,
+ ./../images/SC40/bd-21005-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This animation is, once again, just brighter:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC40/05 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC40/05 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-21065-1090px.jpg"
+ data-srcset="./../images/SC40/tv-21065-512px.jpg 512w,
+ ./../images/SC40/tv-21065-768px.jpg 768w,
+ ./../images/SC40/tv-21065-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-21065-1090px.jpg"
+ data-srcset="./../images/SC40/bd-21065-512px.jpg 512w,
+ ./../images/SC40/bd-21065-768px.jpg 768w,
+ ./../images/SC40/bd-21065-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, Atum's eyes are twitching and his left hand is, once again, no longer there...:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC40/06 - Atum eyes and hand.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC40/06 - Atum eyes and hand.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-21650-1090px.jpg"
+ data-srcset="./../images/SC40/tv-21650-512px.jpg 512w,
+ ./../images/SC40/tv-21650-768px.jpg 768w,
+ ./../images/SC40/tv-21650-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-21650-1090px.jpg"
+ data-srcset="./../images/SC40/bd-21650-512px.jpg 512w,
+ ./../images/SC40/bd-21650-768px.jpg 768w,
+ ./../images/SC40/bd-21650-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, the background is blurrier (especially along the sides)...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-21908-1090px.jpg"
+ data-srcset="./../images/SC40/tv-21908-512px.jpg 512w,
+ ./../images/SC40/tv-21908-768px.jpg 768w,
+ ./../images/SC40/tv-21908-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-21908-1090px.jpg"
+ data-srcset="./../images/SC40/bd-21908-512px.jpg 512w,
+ ./../images/SC40/bd-21908-768px.jpg 768w,
+ ./../images/SC40/bd-21908-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-21935-1090px.jpg"
+ data-srcset="./../images/SC40/tv-21935-512px.jpg 512w,
+ ./../images/SC40/tv-21935-768px.jpg 768w,
+ ./../images/SC40/tv-21935-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-21935-1090px.jpg"
+ data-srcset="./../images/SC40/bd-21935-512px.jpg 512w,
+ ./../images/SC40/bd-21935-768px.jpg 768w,
+ ./../images/SC40/bd-21935-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-21970-1090px.jpg"
+ data-srcset="./../images/SC40/tv-21970-512px.jpg 512w,
+ ./../images/SC40/tv-21970-768px.jpg 768w,
+ ./../images/SC40/tv-21970-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-21970-1090px.jpg"
+ data-srcset="./../images/SC40/bd-21970-512px.jpg 512w,
+ ./../images/SC40/bd-21970-768px.jpg 768w,
+ ./../images/SC40/bd-21970-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...and, when the game UI shows up later in the same scene, we can see that it was mistakenly doubled in the TV version! This has, thankfully, been corrected in the BDs:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-22005-1090px.jpg"
+ data-srcset="./../images/SC40/tv-22005-512px.jpg 512w,
+ ./../images/SC40/tv-22005-768px.jpg 768w,
+ ./../images/SC40/tv-22005-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-22005-1090px.jpg"
+ data-srcset="./../images/SC40/bd-22005-512px.jpg 512w,
+ ./../images/SC40/bd-22005-768px.jpg 768w,
+ ./../images/SC40/bd-22005-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, the BD adds an overlay of the speed meter...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-22485-1090px.jpg"
+ data-srcset="./../images/SC40/tv-22485-512px.jpg 512w,
+ ./../images/SC40/tv-22485-768px.jpg 768w,
+ ./../images/SC40/tv-22485-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-22485-1090px.jpg"
+ data-srcset="./../images/SC40/bd-22485-512px.jpg 512w,
+ ./../images/SC40/bd-22485-768px.jpg 768w,
+ ./../images/SC40/bd-22485-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The end of this animation has better contrast:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC40/07 - good contrast.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC40/07 - good contrast.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-25090-1090px.jpg"
+ data-srcset="./../images/SC40/tv-25090-512px.jpg 512w,
+ ./../images/SC40/tv-25090-768px.jpg 768w,
+ ./../images/SC40/tv-25090-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-25090-1090px.jpg"
+ data-srcset="./../images/SC40/bd-25090-512px.jpg 512w,
+ ./../images/SC40/bd-25090-768px.jpg 768w,
+ ./../images/SC40/bd-25090-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- While most of this one is much sharper and brighter:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC40/08 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC40/08 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-25110-1090px.jpg"
+ data-srcset="./../images/SC40/tv-25110-512px.jpg 512w,
+ ./../images/SC40/tv-25110-768px.jpg 768w,
+ ./../images/SC40/tv-25110-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-25110-1090px.jpg"
+ data-srcset="./../images/SC40/bd-25110-512px.jpg 512w,
+ ./../images/SC40/bd-25110-768px.jpg 768w,
+ ./../images/SC40/bd-25110-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Atum's left hand is, once again, absent here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-27440-1090px.jpg"
+ data-srcset="./../images/SC40/tv-27440-512px.jpg 512w,
+ ./../images/SC40/tv-27440-768px.jpg 768w,
+ ./../images/SC40/tv-27440-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-27440-1090px.jpg"
+ data-srcset="./../images/SC40/bd-27440-512px.jpg 512w,
+ ./../images/SC40/bd-27440-768px.jpg 768w,
+ ./../images/SC40/bd-27440-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-27685-1090px.jpg"
+ data-srcset="./../images/SC40/tv-27685-512px.jpg 512w,
+ ./../images/SC40/tv-27685-768px.jpg 768w,
+ ./../images/SC40/tv-27685-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-27685-1090px.jpg"
+ data-srcset="./../images/SC40/bd-27685-512px.jpg 512w,
+ ./../images/SC40/bd-27685-768px.jpg 768w,
+ ./../images/SC40/bd-27685-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Some of the writings have been changed, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-29215-1090px.jpg"
+ data-srcset="./../images/SC40/tv-29215-512px.jpg 512w,
+ ./../images/SC40/tv-29215-768px.jpg 768w,
+ ./../images/SC40/tv-29215-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-29215-1090px.jpg"
+ data-srcset="./../images/SC40/bd-29215-512px.jpg 512w,
+ ./../images/SC40/bd-29215-768px.jpg 768w,
+ ./../images/SC40/bd-29215-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-29810-1090px.jpg"
+ data-srcset="./../images/SC40/tv-29810-512px.jpg 512w,
+ ./../images/SC40/tv-29810-768px.jpg 768w,
+ ./../images/SC40/tv-29810-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-29810-1090px.jpg"
+ data-srcset="./../images/SC40/bd-29810-512px.jpg 512w,
+ ./../images/SC40/bd-29810-768px.jpg 768w,
+ ./../images/SC40/bd-29810-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's take a quick look at the credits! Here, the section 3Dモデリング (3D modeling) has been added along with the two names it contains (もももワークス - Momomo Works and 川島基本 - Kawashima Motonobu), and the rest of the lines have been moved around:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/tv-32465-1090px.jpg"
+ data-srcset="./../images/SC40/tv-32465-512px.jpg 512w,
+ ./../images/SC40/tv-32465-768px.jpg 768w,
+ ./../images/SC40/tv-32465-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC40/bd-32465-1090px.jpg"
+ data-srcset="./../images/SC40/bd-32465-512px.jpg 512w,
+ ./../images/SC40/bd-32465-768px.jpg 768w,
+ ./../images/SC40/bd-32465-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And that concludes today's quick look, friends! Another episode down, one less to go - we're quickly (well, sort of) approaching the ending stretch here! Join me next time for a look at the conclusion of this 1337 arc, "D'Arby the Player - Part 2"!
+
+<br>
+
+Cheers!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
