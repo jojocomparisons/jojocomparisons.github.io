@@ -1,0 +1,1806 @@
+---
+layout: post
+title: "Stardust Crusaders #45 - Dio's World - Part 1"
+date: 2020-10-04 17:13:35 +0200
+comments: true
+categories: sc
+---
+
+{% img center /images/SC45/45-headerJP.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello again, good people! It is once again that time of the week wherein we must compare two sets of different images and discuss what has changed and what looks better. In other words, welcome back to Jojo's Bizarre Comparisons for a healthy dose of differences! It's time to take a look at Stardust Crusaders #45, "Dio's World - Part 1"!
+
+<br>
+
+Let's get right to it!
+
+<br>
+
+- The first difference comes quite early in the episode: here, the general lighting has been tweaked, and most things are not as hazy as they were in the TV version. Check it out:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-00270-1090px.jpg"
+ data-srcset="./../images/SC45/tv-00270-512px.jpg 512w,
+ ./../images/SC45/tv-00270-768px.jpg 768w,
+ ./../images/SC45/tv-00270-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-00270-1090px.jpg"
+ data-srcset="./../images/SC45/bd-00270-512px.jpg 512w,
+ ./../images/SC45/bd-00270-768px.jpg 768w,
+ ./../images/SC45/bd-00270-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In addition, the zoom-in is slightly different and blurrier and the camera shakes a little bit at the end of the transition:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/01 - zoom-in.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/01 - zoom-in.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-00302-1090px.jpg"
+ data-srcset="./../images/SC45/tv-00302-512px.jpg 512w,
+ ./../images/SC45/tv-00302-768px.jpg 768w,
+ ./../images/SC45/tv-00302-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-00302-1090px.jpg"
+ data-srcset="./../images/SC45/bd-00302-512px.jpg 512w,
+ ./../images/SC45/bd-00302-768px.jpg 768w,
+ ./../images/SC45/bd-00302-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-00304-1090px.jpg"
+ data-srcset="./../images/SC45/tv-00304-512px.jpg 512w,
+ ./../images/SC45/tv-00304-768px.jpg 768w,
+ ./../images/SC45/tv-00304-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-00304-1090px.jpg"
+ data-srcset="./../images/SC45/bd-00304-512px.jpg 512w,
+ ./../images/SC45/bd-00304-768px.jpg 768w,
+ ./../images/SC45/bd-00304-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- JUST IN CASE YOU FORGOT ONCE AGAIN WHAT HAPPENED TO AVDOL:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-02055-1090px.jpg"
+ data-srcset="./../images/SC45/tv-02055-512px.jpg 512w,
+ ./../images/SC45/tv-02055-768px.jpg 768w,
+ ./../images/SC45/tv-02055-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-02055-1090px.jpg"
+ data-srcset="./../images/SC45/bd-02055-512px.jpg 512w,
+ ./../images/SC45/bd-02055-768px.jpg 768w,
+ ./../images/SC45/bd-02055-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Throughout the episode, every time Dio uses The World and we see it from an outside point of view, there is a slight contrast change to punctuate the action, like so:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/02 - world contrast.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/02 - world contrast.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-02393-1090px.jpg"
+ data-srcset="./../images/SC45/tv-02393-512px.jpg 512w,
+ ./../images/SC45/tv-02393-768px.jpg 768w,
+ ./../images/SC45/tv-02393-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-02393-1090px.jpg"
+ data-srcset="./../images/SC45/bd-02393-512px.jpg 512w,
+ ./../images/SC45/bd-02393-768px.jpg 768w,
+ ./../images/SC45/bd-02393-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In addition, the camera ends up slightly more to the right:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-02419-1090px.jpg"
+ data-srcset="./../images/SC45/tv-02419-512px.jpg 512w,
+ ./../images/SC45/tv-02419-768px.jpg 768w,
+ ./../images/SC45/tv-02419-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-02419-1090px.jpg"
+ data-srcset="./../images/SC45/bd-02419-512px.jpg 512w,
+ ./../images/SC45/bd-02419-768px.jpg 768w,
+ ./../images/SC45/bd-02419-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This other shot is slightly more zoomed-in:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-02760-1090px.jpg"
+ data-srcset="./../images/SC45/tv-02760-512px.jpg 512w,
+ ./../images/SC45/tv-02760-768px.jpg 768w,
+ ./../images/SC45/tv-02760-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-02760-1090px.jpg"
+ data-srcset="./../images/SC45/bd-02760-512px.jpg 512w,
+ ./../images/SC45/bd-02760-768px.jpg 768w,
+ ./../images/SC45/bd-02760-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here we have another The World-related displacement:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/03 - contrast.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/03 - contrast.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-03520-1090px.jpg"
+ data-srcset="./../images/SC45/tv-03520-512px.jpg 512w,
+ ./../images/SC45/tv-03520-768px.jpg 768w,
+ ./../images/SC45/tv-03520-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-03520-1090px.jpg"
+ data-srcset="./../images/SC45/bd-03520-512px.jpg 512w,
+ ./../images/SC45/bd-03520-768px.jpg 768w,
+ ./../images/SC45/bd-03520-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This scene has received a few key differences: the general lighting is different, the smoke effect is different, the stairs have been shaded much much better, the haze behind Dio's chair is not so strong as to muddle the outlines, a small bit of the smoke behind Dio has been recoloured and the shadow cast by Dio's chair on the staircase is much more visible:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/04 - dio staircase.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/04 - dio staircase.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-07080-1090px.jpg"
+ data-srcset="./../images/SC45/tv-07080-512px.jpg 512w,
+ ./../images/SC45/tv-07080-768px.jpg 768w,
+ ./../images/SC45/tv-07080-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-07080-1090px.jpg"
+ data-srcset="./../images/SC45/bd-07080-512px.jpg 512w,
+ ./../images/SC45/bd-07080-768px.jpg 768w,
+ ./../images/SC45/bd-07080-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, on top of some new smoke effects, the background and the lighting have been changed so as to make Dio much more clearly visible:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/05 - dio close-up.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/05 - dio close-up.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-07305-1090px.jpg"
+ data-srcset="./../images/SC45/tv-07305-512px.jpg 512w,
+ ./../images/SC45/tv-07305-768px.jpg 768w,
+ ./../images/SC45/tv-07305-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-07305-1090px.jpg"
+ data-srcset="./../images/SC45/bd-07305-512px.jpg 512w,
+ ./../images/SC45/bd-07305-768px.jpg 768w,
+ ./../images/SC45/bd-07305-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-07485-1090px.jpg"
+ data-srcset="./../images/SC45/tv-07485-512px.jpg 512w,
+ ./../images/SC45/tv-07485-768px.jpg 768w,
+ ./../images/SC45/tv-07485-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-07485-1090px.jpg"
+ data-srcset="./../images/SC45/bd-07485-512px.jpg 512w,
+ ./../images/SC45/bd-07485-768px.jpg 768w,
+ ./../images/SC45/bd-07485-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The same lighting change can be seen in the following shot as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-07825-1090px.jpg"
+ data-srcset="./../images/SC45/tv-07825-512px.jpg 512w,
+ ./../images/SC45/tv-07825-768px.jpg 768w,
+ ./../images/SC45/tv-07825-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-07825-1090px.jpg"
+ data-srcset="./../images/SC45/bd-07825-512px.jpg 512w,
+ ./../images/SC45/bd-07825-768px.jpg 768w,
+ ./../images/SC45/bd-07825-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This shot is slightly sharper, and the lighting has been tweaked as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-08045-1090px.jpg"
+ data-srcset="./../images/SC45/tv-08045-512px.jpg 512w,
+ ./../images/SC45/tv-08045-768px.jpg 768w,
+ ./../images/SC45/tv-08045-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-08045-1090px.jpg"
+ data-srcset="./../images/SC45/bd-08045-512px.jpg 512w,
+ ./../images/SC45/bd-08045-768px.jpg 768w,
+ ./../images/SC45/bd-08045-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-08075-1090px.jpg"
+ data-srcset="./../images/SC45/tv-08075-512px.jpg 512w,
+ ./../images/SC45/tv-08075-768px.jpg 768w,
+ ./../images/SC45/tv-08075-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-08075-1090px.jpg"
+ data-srcset="./../images/SC45/bd-08075-512px.jpg 512w,
+ ./../images/SC45/bd-08075-768px.jpg 768w,
+ ./../images/SC45/bd-08075-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-08140-1090px.jpg"
+ data-srcset="./../images/SC45/tv-08140-512px.jpg 512w,
+ ./../images/SC45/tv-08140-768px.jpg 768w,
+ ./../images/SC45/tv-08140-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-08140-1090px.jpg"
+ data-srcset="./../images/SC45/bd-08140-512px.jpg 512w,
+ ./../images/SC45/bd-08140-768px.jpg 768w,
+ ./../images/SC45/bd-08140-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Have a good old brighter and sharper animation, friends:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/06 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/06 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-08229-1090px.jpg"
+ data-srcset="./../images/SC45/tv-08229-512px.jpg 512w,
+ ./../images/SC45/tv-08229-768px.jpg 768w,
+ ./../images/SC45/tv-08229-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-08229-1090px.jpg"
+ data-srcset="./../images/SC45/bd-08229-512px.jpg 512w,
+ ./../images/SC45/bd-08229-768px.jpg 768w,
+ ./../images/SC45/bd-08229-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-08235-1090px.jpg"
+ data-srcset="./../images/SC45/tv-08235-512px.jpg 512w,
+ ./../images/SC45/tv-08235-768px.jpg 768w,
+ ./../images/SC45/tv-08235-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-08235-1090px.jpg"
+ data-srcset="./../images/SC45/bd-08235-512px.jpg 512w,
+ ./../images/SC45/bd-08235-768px.jpg 768w,
+ ./../images/SC45/bd-08235-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-08240-1090px.jpg"
+ data-srcset="./../images/SC45/tv-08240-512px.jpg 512w,
+ ./../images/SC45/tv-08240-768px.jpg 768w,
+ ./../images/SC45/tv-08240-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-08240-1090px.jpg"
+ data-srcset="./../images/SC45/bd-08240-512px.jpg 512w,
+ ./../images/SC45/bd-08240-768px.jpg 768w,
+ ./../images/SC45/bd-08240-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This scene has now been properly smoked, and the background is also significantly more interesting:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/07 - smoked.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/07 - smoked.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-08435-1090px.jpg"
+ data-srcset="./../images/SC45/tv-08435-512px.jpg 512w,
+ ./../images/SC45/tv-08435-768px.jpg 768w,
+ ./../images/SC45/tv-08435-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-08435-1090px.jpg"
+ data-srcset="./../images/SC45/bd-08435-512px.jpg 512w,
+ ./../images/SC45/bd-08435-768px.jpg 768w,
+ ./../images/SC45/bd-08435-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- When the rest of the gang shows up, the background is much brighter and more radiant, the dust effect is looking significantly better and the light rays are brighter as well:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/08 - gang shows up.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/08 - gang shows up.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-08815-1090px.jpg"
+ data-srcset="./../images/SC45/tv-08815-512px.jpg 512w,
+ ./../images/SC45/tv-08815-768px.jpg 768w,
+ ./../images/SC45/tv-08815-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-08815-1090px.jpg"
+ data-srcset="./../images/SC45/bd-08815-512px.jpg 512w,
+ ./../images/SC45/bd-08815-768px.jpg 768w,
+ ./../images/SC45/bd-08815-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-08852-1090px.jpg"
+ data-srcset="./../images/SC45/tv-08852-512px.jpg 512w,
+ ./../images/SC45/tv-08852-768px.jpg 768w,
+ ./../images/SC45/tv-08852-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-08852-1090px.jpg"
+ data-srcset="./../images/SC45/bd-08852-512px.jpg 512w,
+ ./../images/SC45/bd-08852-768px.jpg 768w,
+ ./../images/SC45/bd-08852-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/09 - gang dust.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/09 - gang dust.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-08900-1090px.jpg"
+ data-srcset="./../images/SC45/tv-08900-512px.jpg 512w,
+ ./../images/SC45/tv-08900-768px.jpg 768w,
+ ./../images/SC45/tv-08900-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-08900-1090px.jpg"
+ data-srcset="./../images/SC45/bd-08900-512px.jpg 512w,
+ ./../images/SC45/bd-08900-768px.jpg 768w,
+ ./../images/SC45/bd-08900-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-08955-1090px.jpg"
+ data-srcset="./../images/SC45/tv-08955-512px.jpg 512w,
+ ./../images/SC45/tv-08955-768px.jpg 768w,
+ ./../images/SC45/tv-08955-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-08955-1090px.jpg"
+ data-srcset="./../images/SC45/bd-08955-512px.jpg 512w,
+ ./../images/SC45/bd-08955-768px.jpg 768w,
+ ./../images/SC45/bd-08955-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-09005-1090px.jpg"
+ data-srcset="./../images/SC45/tv-09005-512px.jpg 512w,
+ ./../images/SC45/tv-09005-768px.jpg 768w,
+ ./../images/SC45/tv-09005-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-09005-1090px.jpg"
+ data-srcset="./../images/SC45/bd-09005-512px.jpg 512w,
+ ./../images/SC45/bd-09005-768px.jpg 768w,
+ ./../images/SC45/bd-09005-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/10 - radiant.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/10 - radiant.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-09060-1090px.jpg"
+ data-srcset="./../images/SC45/tv-09060-512px.jpg 512w,
+ ./../images/SC45/tv-09060-768px.jpg 768w,
+ ./../images/SC45/tv-09060-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-09060-1090px.jpg"
+ data-srcset="./../images/SC45/bd-09060-512px.jpg 512w,
+ ./../images/SC45/bd-09060-768px.jpg 768w,
+ ./../images/SC45/bd-09060-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-09140-1090px.jpg"
+ data-srcset="./../images/SC45/tv-09140-512px.jpg 512w,
+ ./../images/SC45/tv-09140-768px.jpg 768w,
+ ./../images/SC45/tv-09140-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-09140-1090px.jpg"
+ data-srcset="./../images/SC45/bd-09140-512px.jpg 512w,
+ ./../images/SC45/bd-09140-768px.jpg 768w,
+ ./../images/SC45/bd-09140-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Wow. Look at that RADIANT Joseph. Incredible. Anyway, moving on... In the first frames of this animation, Dio had a bunch of extraneous lines drawn all over his body - perhaps the result of a layer mishap? Anyway, those have been removed, and the background is significantly brighter as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-09197-1090px.jpg"
+ data-srcset="./../images/SC45/tv-09197-512px.jpg 512w,
+ ./../images/SC45/tv-09197-768px.jpg 768w,
+ ./../images/SC45/tv-09197-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-09197-1090px.jpg"
+ data-srcset="./../images/SC45/bd-09197-512px.jpg 512w,
+ ./../images/SC45/bd-09197-768px.jpg 768w,
+ ./../images/SC45/bd-09197-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Later on in the same scene, we can see that Jotaro's hat is now more shaded, for some reason:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-09250-1090px.jpg"
+ data-srcset="./../images/SC45/tv-09250-512px.jpg 512w,
+ ./../images/SC45/tv-09250-768px.jpg 768w,
+ ./../images/SC45/tv-09250-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-09250-1090px.jpg"
+ data-srcset="./../images/SC45/bd-09250-512px.jpg 512w,
+ ./../images/SC45/bd-09250-768px.jpg 768w,
+ ./../images/SC45/bd-09250-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Moving on, here we have a blurrier Polnareff in the foreground:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-09690-1090px.jpg"
+ data-srcset="./../images/SC45/tv-09690-512px.jpg 512w,
+ ./../images/SC45/tv-09690-768px.jpg 768w,
+ ./../images/SC45/tv-09690-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-09690-1090px.jpg"
+ data-srcset="./../images/SC45/bd-09690-512px.jpg 512w,
+ ./../images/SC45/bd-09690-768px.jpg 768w,
+ ./../images/SC45/bd-09690-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-09804-1090px.jpg"
+ data-srcset="./../images/SC45/tv-09804-512px.jpg 512w,
+ ./../images/SC45/tv-09804-768px.jpg 768w,
+ ./../images/SC45/tv-09804-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-09804-1090px.jpg"
+ data-srcset="./../images/SC45/bd-09804-512px.jpg 512w,
+ ./../images/SC45/bd-09804-768px.jpg 768w,
+ ./../images/SC45/bd-09804-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- While here in this very similar shot, everyone is slightly sharper, Polnareff has been shaded in a flatter way and there's a slight distortion along the edges:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-10670-1090px.jpg"
+ data-srcset="./../images/SC45/tv-10670-512px.jpg 512w,
+ ./../images/SC45/tv-10670-768px.jpg 768w,
+ ./../images/SC45/tv-10670-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-10670-1090px.jpg"
+ data-srcset="./../images/SC45/bd-10670-512px.jpg 512w,
+ ./../images/SC45/bd-10670-768px.jpg 768w,
+ ./../images/SC45/bd-10670-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The bits of glass flying out of the turret now move in a slightly more natural way:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/11 - glass bits.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/11 - glass bits.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-11965-1090px.jpg"
+ data-srcset="./../images/SC45/tv-11965-512px.jpg 512w,
+ ./../images/SC45/tv-11965-768px.jpg 768w,
+ ./../images/SC45/tv-11965-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-11965-1090px.jpg"
+ data-srcset="./../images/SC45/bd-11965-512px.jpg 512w,
+ ./../images/SC45/bd-11965-768px.jpg 768w,
+ ./../images/SC45/bd-11965-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, the godrays are looking different, the general lighting has been tweaked and there is the usual distortion along the edges...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-11986-1090px.jpg"
+ data-srcset="./../images/SC45/tv-11986-512px.jpg 512w,
+ ./../images/SC45/tv-11986-768px.jpg 768w,
+ ./../images/SC45/tv-11986-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-11986-1090px.jpg"
+ data-srcset="./../images/SC45/bd-11986-512px.jpg 512w,
+ ./../images/SC45/bd-11986-768px.jpg 768w,
+ ./../images/SC45/bd-11986-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...the shading on the gang is also significantly different, at the end of the shot...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-12016-1090px.jpg"
+ data-srcset="./../images/SC45/tv-12016-512px.jpg 512w,
+ ./../images/SC45/tv-12016-768px.jpg 768w,
+ ./../images/SC45/tv-12016-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-12016-1090px.jpg"
+ data-srcset="./../images/SC45/bd-12016-512px.jpg 512w,
+ ./../images/SC45/bd-12016-768px.jpg 768w,
+ ./../images/SC45/bd-12016-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...and the motion itself of the whole shot is also different! The Joestar group shows up later, is blurrier in their first frames and moves into frame more dramatically:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/12 - gang in.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/12 - gang in.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-11995-1090px.jpg"
+ data-srcset="./../images/SC45/tv-11995-512px.jpg 512w,
+ ./../images/SC45/tv-11995-768px.jpg 768w,
+ ./../images/SC45/tv-11995-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-11995-1090px.jpg"
+ data-srcset="./../images/SC45/bd-11995-512px.jpg 512w,
+ ./../images/SC45/bd-11995-768px.jpg 768w,
+ ./../images/SC45/bd-11995-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here we have a slew of uncensored shots of Nukesaku (the usual lighting changes also apply):
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-14615-1090px.jpg"
+ data-srcset="./../images/SC45/tv-14615-512px.jpg 512w,
+ ./../images/SC45/tv-14615-768px.jpg 768w,
+ ./../images/SC45/tv-14615-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-14615-1090px.jpg"
+ data-srcset="./../images/SC45/bd-14615-512px.jpg 512w,
+ ./../images/SC45/bd-14615-768px.jpg 768w,
+ ./../images/SC45/bd-14615-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-14645-1090px.jpg"
+ data-srcset="./../images/SC45/tv-14645-512px.jpg 512w,
+ ./../images/SC45/tv-14645-768px.jpg 768w,
+ ./../images/SC45/tv-14645-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-14645-1090px.jpg"
+ data-srcset="./../images/SC45/bd-14645-512px.jpg 512w,
+ ./../images/SC45/bd-14645-768px.jpg 768w,
+ ./../images/SC45/bd-14645-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-14705-1090px.jpg"
+ data-srcset="./../images/SC45/tv-14705-512px.jpg 512w,
+ ./../images/SC45/tv-14705-768px.jpg 768w,
+ ./../images/SC45/tv-14705-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-14705-1090px.jpg"
+ data-srcset="./../images/SC45/bd-14705-512px.jpg 512w,
+ ./../images/SC45/bd-14705-768px.jpg 768w,
+ ./../images/SC45/bd-14705-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-14710-1090px.jpg"
+ data-srcset="./../images/SC45/tv-14710-512px.jpg 512w,
+ ./../images/SC45/tv-14710-768px.jpg 768w,
+ ./../images/SC45/tv-14710-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-14710-1090px.jpg"
+ data-srcset="./../images/SC45/bd-14710-512px.jpg 512w,
+ ./../images/SC45/bd-14710-768px.jpg 768w,
+ ./../images/SC45/bd-14710-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-14815-1090px.jpg"
+ data-srcset="./../images/SC45/tv-14815-512px.jpg 512w,
+ ./../images/SC45/tv-14815-768px.jpg 768w,
+ ./../images/SC45/tv-14815-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-14815-1090px.jpg"
+ data-srcset="./../images/SC45/bd-14815-512px.jpg 512w,
+ ./../images/SC45/bd-14815-768px.jpg 768w,
+ ./../images/SC45/bd-14815-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-15070-1090px.jpg"
+ data-srcset="./../images/SC45/tv-15070-512px.jpg 512w,
+ ./../images/SC45/tv-15070-768px.jpg 768w,
+ ./../images/SC45/tv-15070-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-15070-1090px.jpg"
+ data-srcset="./../images/SC45/bd-15070-512px.jpg 512w,
+ ./../images/SC45/bd-15070-768px.jpg 768w,
+ ./../images/SC45/bd-15070-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- These three shots are now brighter and sharper...
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/13 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/13 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-15200-1090px.jpg"
+ data-srcset="./../images/SC45/tv-15200-512px.jpg 512w,
+ ./../images/SC45/tv-15200-768px.jpg 768w,
+ ./../images/SC45/tv-15200-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-15200-1090px.jpg"
+ data-srcset="./../images/SC45/bd-15200-512px.jpg 512w,
+ ./../images/SC45/bd-15200-768px.jpg 768w,
+ ./../images/SC45/bd-15200-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/14 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/14 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-15202-1090px.jpg"
+ data-srcset="./../images/SC45/tv-15202-512px.jpg 512w,
+ ./../images/SC45/tv-15202-768px.jpg 768w,
+ ./../images/SC45/tv-15202-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-15202-1090px.jpg"
+ data-srcset="./../images/SC45/bd-15202-512px.jpg 512w,
+ ./../images/SC45/bd-15202-768px.jpg 768w,
+ ./../images/SC45/bd-15202-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/15 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/15 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-15350-1090px.jpg"
+ data-srcset="./../images/SC45/tv-15350-512px.jpg 512w,
+ ./../images/SC45/tv-15350-768px.jpg 768w,
+ ./../images/SC45/tv-15350-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-15350-1090px.jpg"
+ data-srcset="./../images/SC45/bd-15350-512px.jpg 512w,
+ ./../images/SC45/bd-15350-768px.jpg 768w,
+ ./../images/SC45/bd-15350-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This shot is split in two, and in both the contrast and brightness have been fixed:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/16 - contrast and brightness.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/16 - contrast and brightness.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-15482-1090px.jpg"
+ data-srcset="./../images/SC45/tv-15482-512px.jpg 512w,
+ ./../images/SC45/tv-15482-768px.jpg 768w,
+ ./../images/SC45/tv-15482-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-15482-1090px.jpg"
+ data-srcset="./../images/SC45/bd-15482-512px.jpg 512w,
+ ./../images/SC45/bd-15482-768px.jpg 768w,
+ ./../images/SC45/bd-15482-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-15524-1090px.jpg"
+ data-srcset="./../images/SC45/tv-15524-512px.jpg 512w,
+ ./../images/SC45/tv-15524-768px.jpg 768w,
+ ./../images/SC45/tv-15524-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-15524-1090px.jpg"
+ data-srcset="./../images/SC45/bd-15524-512px.jpg 512w,
+ ./../images/SC45/bd-15524-768px.jpg 768w,
+ ./../images/SC45/bd-15524-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, on top of a new distortion and vignette along the edges of the frame, the car has been scaled down and moved as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-19600-1090px.jpg"
+ data-srcset="./../images/SC45/tv-19600-512px.jpg 512w,
+ ./../images/SC45/tv-19600-768px.jpg 768w,
+ ./../images/SC45/tv-19600-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-19600-1090px.jpg"
+ data-srcset="./../images/SC45/bd-19600-512px.jpg 512w,
+ ./../images/SC45/bd-19600-768px.jpg 768w,
+ ./../images/SC45/bd-19600-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The same vignette and distortion are back here as well; on top of that, we have some new and better lighting on Polnareff and on the background too:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-19965-1090px.jpg"
+ data-srcset="./../images/SC45/tv-19965-512px.jpg 512w,
+ ./../images/SC45/tv-19965-768px.jpg 768w,
+ ./../images/SC45/tv-19965-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-19965-1090px.jpg"
+ data-srcset="./../images/SC45/bd-19965-512px.jpg 512w,
+ ./../images/SC45/bd-19965-768px.jpg 768w,
+ ./../images/SC45/bd-19965-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Dude I'm so sorry:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/17 - uncensored.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/17 - uncensored.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-21669-1090px.jpg"
+ data-srcset="./../images/SC45/tv-21669-512px.jpg 512w,
+ ./../images/SC45/tv-21669-768px.jpg 768w,
+ ./../images/SC45/tv-21669-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-21669-1090px.jpg"
+ data-srcset="./../images/SC45/bd-21669-512px.jpg 512w,
+ ./../images/SC45/bd-21669-768px.jpg 768w,
+ ./../images/SC45/bd-21669-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/18 - uncensored.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/18 - uncensored.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-21800-1090px.jpg"
+ data-srcset="./../images/SC45/tv-21800-512px.jpg 512w,
+ ./../images/SC45/tv-21800-768px.jpg 768w,
+ ./../images/SC45/tv-21800-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-21800-1090px.jpg"
+ data-srcset="./../images/SC45/bd-21800-512px.jpg 512w,
+ ./../images/SC45/bd-21800-768px.jpg 768w,
+ ./../images/SC45/bd-21800-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here we have another couple of The World-related contrast changes (after the first cut, the camera is also more zoomed-in):
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/19 - contrast.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/19 - contrast.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-23655-1090px.jpg"
+ data-srcset="./../images/SC45/tv-23655-512px.jpg 512w,
+ ./../images/SC45/tv-23655-768px.jpg 768w,
+ ./../images/SC45/tv-23655-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-23655-1090px.jpg"
+ data-srcset="./../images/SC45/bd-23655-512px.jpg 512w,
+ ./../images/SC45/bd-23655-768px.jpg 768w,
+ ./../images/SC45/bd-23655-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/20 - contrast.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/20 - contrast.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-23835-1090px.jpg"
+ data-srcset="./../images/SC45/tv-23835-512px.jpg 512w,
+ ./../images/SC45/tv-23835-768px.jpg 768w,
+ ./../images/SC45/tv-23835-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-23835-1090px.jpg"
+ data-srcset="./../images/SC45/bd-23835-512px.jpg 512w,
+ ./../images/SC45/bd-23835-768px.jpg 768w,
+ ./../images/SC45/bd-23835-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, the lighting and shading inside the car have been tweaked, and the background outside the window has a warmer tint...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-24220-1090px.jpg"
+ data-srcset="./../images/SC45/tv-24220-512px.jpg 512w,
+ ./../images/SC45/tv-24220-768px.jpg 768w,
+ ./../images/SC45/tv-24220-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-24220-1090px.jpg"
+ data-srcset="./../images/SC45/bd-24220-512px.jpg 512w,
+ ./../images/SC45/bd-24220-768px.jpg 768w,
+ ./../images/SC45/bd-24220-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...and, at the end of the same shot, said background is also blurrier:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-24499-1090px.jpg"
+ data-srcset="./../images/SC45/tv-24499-512px.jpg 512w,
+ ./../images/SC45/tv-24499-768px.jpg 768w,
+ ./../images/SC45/tv-24499-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-24499-1090px.jpg"
+ data-srcset="./../images/SC45/bd-24499-512px.jpg 512w,
+ ./../images/SC45/bd-24499-768px.jpg 768w,
+ ./../images/SC45/bd-24499-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here we have a whole bunch of differences! The car windows are more opaque, the background is blurrier, there are many more of those lens flare-like spheres on the sides of the frame, the camera moves slightly more...:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/21 - vroom vroom.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/21 - vroom vroom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-24635-1090px.jpg"
+ data-srcset="./../images/SC45/tv-24635-512px.jpg 512w,
+ ./../images/SC45/tv-24635-768px.jpg 768w,
+ ./../images/SC45/tv-24635-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-24635-1090px.jpg"
+ data-srcset="./../images/SC45/bd-24635-512px.jpg 512w,
+ ./../images/SC45/bd-24635-768px.jpg 768w,
+ ./../images/SC45/bd-24635-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here both the background and the car on the left have been moved a little...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-25110-1090px.jpg"
+ data-srcset="./../images/SC45/tv-25110-512px.jpg 512w,
+ ./../images/SC45/tv-25110-768px.jpg 768w,
+ ./../images/SC45/tv-25110-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-25110-1090px.jpg"
+ data-srcset="./../images/SC45/bd-25110-512px.jpg 512w,
+ ./../images/SC45/bd-25110-768px.jpg 768w,
+ ./../images/SC45/bd-25110-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This shot has a different distortion along the edges, most lines are thinner and the background is blurrier:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-25120-1090px.jpg"
+ data-srcset="./../images/SC45/tv-25120-512px.jpg 512w,
+ ./../images/SC45/tv-25120-768px.jpg 768w,
+ ./../images/SC45/tv-25120-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-25120-1090px.jpg"
+ data-srcset="./../images/SC45/bd-25120-512px.jpg 512w,
+ ./../images/SC45/bd-25120-768px.jpg 768w,
+ ./../images/SC45/bd-25120-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-25270-1090px.jpg"
+ data-srcset="./../images/SC45/tv-25270-512px.jpg 512w,
+ ./../images/SC45/tv-25270-768px.jpg 768w,
+ ./../images/SC45/tv-25270-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-25270-1090px.jpg"
+ data-srcset="./../images/SC45/bd-25270-512px.jpg 512w,
+ ./../images/SC45/bd-25270-768px.jpg 768w,
+ ./../images/SC45/bd-25270-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Most of the differences that applied to the previous car scene are back here:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/22 - car differences.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/22 - car differences.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-25490-1090px.jpg"
+ data-srcset="./../images/SC45/tv-25490-512px.jpg 512w,
+ ./../images/SC45/tv-25490-768px.jpg 768w,
+ ./../images/SC45/tv-25490-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-25490-1090px.jpg"
+ data-srcset="./../images/SC45/bd-25490-512px.jpg 512w,
+ ./../images/SC45/bd-25490-768px.jpg 768w,
+ ./../images/SC45/bd-25490-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/23 - car differences.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/23 - car differences.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-25575-1090px.jpg"
+ data-srcset="./../images/SC45/tv-25575-512px.jpg 512w,
+ ./../images/SC45/tv-25575-768px.jpg 768w,
+ ./../images/SC45/tv-25575-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-25575-1090px.jpg"
+ data-srcset="./../images/SC45/bd-25575-512px.jpg 512w,
+ ./../images/SC45/bd-25575-768px.jpg 768w,
+ ./../images/SC45/bd-25575-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The background is much more zoomed-in and blurrier, here! In addition to that, the shading on Kakyoin is slightly flatter as well:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/24 - background outside.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/24 - background outside.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-25580-1090px.jpg"
+ data-srcset="./../images/SC45/tv-25580-512px.jpg 512w,
+ ./../images/SC45/tv-25580-768px.jpg 768w,
+ ./../images/SC45/tv-25580-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-25580-1090px.jpg"
+ data-srcset="./../images/SC45/bd-25580-512px.jpg 512w,
+ ./../images/SC45/bd-25580-768px.jpg 768w,
+ ./../images/SC45/bd-25580-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here we have some good old redraws! Both Polnareff and Jotaro have been blessed by the generous redrawing pencil, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-26810-1090px.jpg"
+ data-srcset="./../images/SC45/tv-26810-512px.jpg 512w,
+ ./../images/SC45/tv-26810-768px.jpg 768w,
+ ./../images/SC45/tv-26810-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-26810-1090px.jpg"
+ data-srcset="./../images/SC45/bd-26810-512px.jpg 512w,
+ ./../images/SC45/bd-26810-768px.jpg 768w,
+ ./../images/SC45/bd-26810-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-26955-1090px.jpg"
+ data-srcset="./../images/SC45/tv-26955-512px.jpg 512w,
+ ./../images/SC45/tv-26955-768px.jpg 768w,
+ ./../images/SC45/tv-26955-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-26955-1090px.jpg"
+ data-srcset="./../images/SC45/bd-26955-512px.jpg 512w,
+ ./../images/SC45/bd-26955-768px.jpg 768w,
+ ./../images/SC45/bd-26955-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The blood streaks on the car have been slightly modified and they now animate a little more convincingly:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/25 - blood streaks.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/25 - blood streaks.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-26960-1090px.jpg"
+ data-srcset="./../images/SC45/tv-26960-512px.jpg 512w,
+ ./../images/SC45/tv-26960-768px.jpg 768w,
+ ./../images/SC45/tv-26960-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-26960-1090px.jpg"
+ data-srcset="./../images/SC45/bd-26960-512px.jpg 512w,
+ ./../images/SC45/bd-26960-768px.jpg 768w,
+ ./../images/SC45/bd-26960-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This shot is slightly more zoomed in...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-28105-1090px.jpg"
+ data-srcset="./../images/SC45/tv-28105-512px.jpg 512w,
+ ./../images/SC45/tv-28105-768px.jpg 768w,
+ ./../images/SC45/tv-28105-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-28105-1090px.jpg"
+ data-srcset="./../images/SC45/bd-28105-512px.jpg 512w,
+ ./../images/SC45/bd-28105-768px.jpg 768w,
+ ./../images/SC45/bd-28105-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- While this is brighter and sharper:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/26 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/26 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-28330-1090px.jpg"
+ data-srcset="./../images/SC45/tv-28330-512px.jpg 512w,
+ ./../images/SC45/tv-28330-768px.jpg 768w,
+ ./../images/SC45/tv-28330-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-28330-1090px.jpg"
+ data-srcset="./../images/SC45/bd-28330-512px.jpg 512w,
+ ./../images/SC45/bd-28330-768px.jpg 768w,
+ ./../images/SC45/bd-28330-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...while this is, once again, slightly more zoomed in:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-28357-1090px.jpg"
+ data-srcset="./../images/SC45/tv-28357-512px.jpg 512w,
+ ./../images/SC45/tv-28357-768px.jpg 768w,
+ ./../images/SC45/tv-28357-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-28357-1090px.jpg"
+ data-srcset="./../images/SC45/bd-28357-512px.jpg 512w,
+ ./../images/SC45/bd-28357-768px.jpg 768w,
+ ./../images/SC45/bd-28357-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...and, guess what, this one is again brighter and sharper:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/27 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/27 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-28515-1090px.jpg"
+ data-srcset="./../images/SC45/tv-28515-512px.jpg 512w,
+ ./../images/SC45/tv-28515-768px.jpg 768w,
+ ./../images/SC45/tv-28515-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-28515-1090px.jpg"
+ data-srcset="./../images/SC45/bd-28515-512px.jpg 512w,
+ ./../images/SC45/bd-28515-768px.jpg 768w,
+ ./../images/SC45/bd-28515-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This scene has been recoloured, and the background animates more as well:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/28 - recoloured kak.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/28 - recoloured kak.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-29940-1090px.jpg"
+ data-srcset="./../images/SC45/tv-29940-512px.jpg 512w,
+ ./../images/SC45/tv-29940-768px.jpg 768w,
+ ./../images/SC45/tv-29940-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-29940-1090px.jpg"
+ data-srcset="./../images/SC45/bd-29940-512px.jpg 512w,
+ ./../images/SC45/bd-29940-768px.jpg 768w,
+ ./../images/SC45/bd-29940-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's have one last The World-related contrast (and camera) difference, shall we:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/29 - contrast difference.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/29 - contrast difference.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-30795-1090px.jpg"
+ data-srcset="./../images/SC45/tv-30795-512px.jpg 512w,
+ ./../images/SC45/tv-30795-768px.jpg 768w,
+ ./../images/SC45/tv-30795-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-30795-1090px.jpg"
+ data-srcset="./../images/SC45/bd-30795-512px.jpg 512w,
+ ./../images/SC45/bd-30795-768px.jpg 768w,
+ ./../images/SC45/bd-30795-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Senator Phillips' corpse has been sort-of uncensored, here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-31790-1090px.jpg"
+ data-srcset="./../images/SC45/tv-31790-512px.jpg 512w,
+ ./../images/SC45/tv-31790-768px.jpg 768w,
+ ./../images/SC45/tv-31790-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-31790-1090px.jpg"
+ data-srcset="./../images/SC45/bd-31790-512px.jpg 512w,
+ ./../images/SC45/bd-31790-768px.jpg 768w,
+ ./../images/SC45/bd-31790-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And let's conclude with this scene, which now starts MUCH, MUCH less zoomed-in:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC45/30 - no zoom.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC45/30 - no zoom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-32021-1090px.jpg"
+ data-srcset="./../images/SC45/tv-32021-512px.jpg 512w,
+ ./../images/SC45/tv-32021-768px.jpg 768w,
+ ./../images/SC45/tv-32021-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-32021-1090px.jpg"
+ data-srcset="./../images/SC45/bd-32021-512px.jpg 512w,
+ ./../images/SC45/bd-32021-768px.jpg 768w,
+ ./../images/SC45/bd-32021-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/tv-32104-1090px.jpg"
+ data-srcset="./../images/SC45/tv-32104-512px.jpg 512w,
+ ./../images/SC45/tv-32104-768px.jpg 768w,
+ ./../images/SC45/tv-32104-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SC45/bd-32104-1090px.jpg"
+ data-srcset="./../images/SC45/bd-32104-512px.jpg 512w,
+ ./../images/SC45/bd-32104-768px.jpg 768w,
+ ./../images/SC45/bd-32104-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And that was the last of the differences for today's episode, friends! A fair amount of stuff, to be fair, but I have a feeling the best is yet to come... We shall see, we shall see! Tune in next time for Stardust Crusaders #46, "#46 - Dio's World - Part 2", why don't ya?
+
+<br>
+
+Well, bye for now!
+
+<br>
+
+{% img center /images/tobecontinued.png %}

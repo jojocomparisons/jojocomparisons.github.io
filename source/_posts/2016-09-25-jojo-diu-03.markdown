@@ -76,7 +76,7 @@ What's up people! Let's cut to the chase since I doubt anyone even reads these s
   <source src="./../videos/DIU03/02 - eyes.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-- Bits of Jotaro's car have been changed from blue to black:
+- Bits of Jotaro's car have been changed from blue to black, and one little bit on the front (near the headlights) was changed from blue to white instead (thanks, <a href="https://jojocomparisons.github.io/jojo-diu-03/#comment-4889945710">glue stick</a> and <a href="https://jojocomparisons.github.io/jojo-diu-03/#comment-5088052597">Cactoni</a>):
 
 <div id="container1" class="twentytwenty-container">
  <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
