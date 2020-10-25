@@ -3732,6 +3732,11 @@ Let's get to it!
 
 - Dio's face has been retouched here, and the bottom of the frame is now slightly brighter...:
 
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SC46/53 - retouched dio.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SC46/53 - retouched dio.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
 <div id="container1" class="twentytwenty-container">
  <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
  data-src="./../images/SC46/tv-29880-1090px.jpg"
