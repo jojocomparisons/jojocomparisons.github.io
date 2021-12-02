@@ -121,7 +121,7 @@ Ahoy, people! As the week ends, the time of the comparison draws near... Today w
   <source src="./../videos/VA03/03 - electrosnake 2.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
 </video>
 
-- And here, for some reason, they got Animation director 木下由衣 (Kinoshita Yui)'s name was completely wrong (木下千恵, Kinoshita _Chie_). This has been corrected in the BD:
+- And here, for some reason, they got Animation director 木下由衣 (Kinoshita Yui)'s name completely wrong (木下千恵, Kinoshita _Chie_). This has been corrected in the BD:
 
 <div id="container1" class="twentytwenty-container">
  <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
