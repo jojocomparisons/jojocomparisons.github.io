@@ -6,7 +6,7 @@ comments: true
 categories: pb
 ---
 
-{% img center /images/PB02/02-headerJP.jpg %}
+{% img center /images/PB02/02header.jpg %}
 <!-- more -->
 
 <br>

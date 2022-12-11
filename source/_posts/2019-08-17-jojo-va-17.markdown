@@ -6,7 +6,7 @@ comments: true
 categories: va
 ---
 
-{% img center /images/VA17/17-header.jpg %}
+{% img center /images/VA17/17header.jpg %}
 <!-- more -->
 
 <br>

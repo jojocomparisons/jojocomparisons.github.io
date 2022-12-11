@@ -6,7 +6,7 @@ comments: true
 categories: pb
 ---
 
-{% img center /images/PB01/01-headerJP.jpg %}
+{% img center /images/PB01/01header.jpg %}
 <!-- more -->
 
 <br>
@@ -129,7 +129,7 @@ Hello there! Welcome back to JoJo's Bizarre Comparisons! Today marks a new begin
 
 <br>
 
-- ...And the secon kanji in 製作 ("Production") has instead been slightly moved to the left (look, I know nobody cares about these things, but I've gotta include everything for completeness' sake!):
+- ...And the second kanji in 製作 ("Production") has instead been slightly moved to the left (look, I know nobody cares about these things, but I've gotta include everything for completeness' sake!):
 
 <div id="container1" class="twentytwenty-container">
  <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"

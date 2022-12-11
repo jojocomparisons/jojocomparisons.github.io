@@ -6,7 +6,7 @@ comments: true
 categories: bt
 ---
 
-{% img center /images/BT11/11-headerJP.jpg %}
+{% img center /images/BT11/11header.jpg %}
 <!-- more -->
 
 <br>

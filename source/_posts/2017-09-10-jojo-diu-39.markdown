@@ -6,7 +6,7 @@ comments: true
 categories: diu
 ---
 
-{% img center /images/DIU39/39-headerJP.jpg %}
+{% img center /images/DIU39/39header.jpg %}
 <!-- more -->
 
 <br>

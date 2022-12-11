@@ -6,7 +6,7 @@ comments: true
 categories: sc
 ---
 
-{% img center /images/SC40/40-headerJP.jpg %}
+{% img center /images/SC40/40header.jpg %}
 <!-- more -->
 
 <br>
