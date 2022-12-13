@@ -3,7 +3,7 @@
   <title><![CDATA[JoJo's Bizarre Comparisons]]></title>
   <link href="https://jojocomparisons.github.io/atom.xml" rel="self"/>
   <link href="https://jojocomparisons.github.io/"/>
-  <updated>2022-12-11T15:09:14+00:00</updated>
+  <updated>2022-12-13T09:55:57+00:00</updated>
   <id>https://jojocomparisons.github.io/</id>
   <author>
     <name><![CDATA[Duwang Boi]]></name>
@@ -264,6 +264,30 @@
  <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SO01/bd-33560-1090px.jpg" data-srcset="./../images/SO01/bd-33560-512px.jpg 512w,
  ./../images/SO01/bd-33560-768px.jpg 768w,
  ./../images/SO01/bd-33560-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<p><br /></p>
+
+<ul>
+  <li>To conclude it all, the TV and Blu-ray versions both introduce a new “next time” animation, which is obviously absent from the Netflix version:</li>
+</ul>
+
+<video class="lazyload" playsinline="" nocontrols="" muted="" data-autoplay="" preload="none" loop="" data-poster="./../images/loadingvideo.jpg">
+  <source src="./../videos/SO01/04 - next time.webm" type="video/webm; codecs=&quot;vp8, vorbis&quot;" />
+  <source src="./../videos/SO01/04 - next time.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2" />
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SO01/tv-34015-1090px.jpg" data-srcset="./../images/SO01/tv-34015-512px.jpg 512w,
+ ./../images/SO01/tv-34015-768px.jpg 768w,
+ ./../images/SO01/tv-34015-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg" data-src="./../images/SO01/bd-34015-1090px.jpg" data-srcset="./../images/SO01/bd-34015-512px.jpg 512w,
+ ./../images/SO01/bd-34015-768px.jpg 768w,
+ ./../images/SO01/bd-34015-1090px.jpg 1090w" sizes="(min-width: 1218px) 1090px,
  (min-width: 768px) 87vw,
  89vw" />
 </div>
