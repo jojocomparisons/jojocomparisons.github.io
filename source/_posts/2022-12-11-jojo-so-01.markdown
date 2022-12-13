@@ -315,6 +315,34 @@ Let's dive right into this titular ocean of stone, shall we?
 
 <br>
 
+- To conclude it all, the TV and Blu-ray versions both introduce a new "next time" animation, which is obviously absent from the Netflix version:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO01/04 - next time.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO01/04 - next time.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO01/tv-34015-1090px.jpg"
+ data-srcset="./../images/SO01/tv-34015-512px.jpg 512w,
+ ./../images/SO01/tv-34015-768px.jpg 768w,
+ ./../images/SO01/tv-34015-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO01/bd-34015-1090px.jpg"
+ data-srcset="./../images/SO01/bd-34015-512px.jpg 512w,
+ ./../images/SO01/bd-34015-768px.jpg 768w,
+ ./../images/SO01/bd-34015-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
 Aaand this concludes the comparison for the first episode of Stone Ocean! We've had Blu-ray-exclusive changes, differences that were introduced to the TV version and reflected in the Netflix episodes as well, changes that _were_ added to Netflix but not to the TV broadcast... The only thing I'm sad about is that it was all extremely minor. Hopefully the next episodes will have something a little meatier to analyze, and if not maybe cours 2 and 3! For now I'll be saying goodbye, and...
 
 <br>
