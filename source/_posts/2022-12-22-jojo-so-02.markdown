@@ -1,0 +1,433 @@
+---
+layout: post
+title: "Stone Ocean #02 - Stone Free"
+date: 2022-12-22 18:34:51 +0000
+comments: true
+categories: so
+---
+
+{% img center /images/SO02/02header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Welcome back, friends, welcome back! Apologies for the delayed post - but it's chrimbo, and I'm enjoying some very nice holidays! That, plus the fact that there isn't _that_ much to talk about in these episodes put a bit of a dampener on these comparisons. That said, there's no point in crying about it, is there? Nothing to do but carry on! It's time to take a deeper look at Stone Ocean #02, "Stone Free"!
+
+<br>
+
+Let's get to it!
+
+<br>
+
+- Let's start with a look at Kamikaze Douga's _beautiful_ new CG opening! Here, Emporio's jersey has been modified to account for the newly-designed Green Dolphin logo - this difference was first introduced **in the TV version**, and has since made its way back **on Netflix** as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-00906-1090px.jpg"
+ data-srcset="./../images/SO02/tv-00906-512px.jpg 512w,
+ ./../images/SO02/tv-00906-768px.jpg 768w,
+ ./../images/SO02/tv-00906-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-00906-1090px.jpg"
+ data-srcset="./../images/SO02/bd-00906-512px.jpg 512w,
+ ./../images/SO02/bd-00906-768px.jpg 768w,
+ ./../images/SO02/bd-00906-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This fantastic sequence is now sharper and brighter:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO02/01 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO02/01 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-01340-1090px.jpg"
+ data-srcset="./../images/SO02/tv-01340-512px.jpg 512w,
+ ./../images/SO02/tv-01340-768px.jpg 768w,
+ ./../images/SO02/tv-01340-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-01340-1090px.jpg"
+ data-srcset="./../images/SO02/bd-01340-512px.jpg 512w,
+ ./../images/SO02/bd-01340-768px.jpg 768w,
+ ./../images/SO02/bd-01340-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-01345-1090px.jpg"
+ data-srcset="./../images/SO02/tv-01345-512px.jpg 512w,
+ ./../images/SO02/tv-01345-768px.jpg 768w,
+ ./../images/SO02/tv-01345-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-01345-1090px.jpg"
+ data-srcset="./../images/SO02/bd-01345-512px.jpg 512w,
+ ./../images/SO02/bd-01345-768px.jpg 768w,
+ ./../images/SO02/bd-01345-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-01390-1090px.jpg"
+ data-srcset="./../images/SO02/tv-01390-512px.jpg 512w,
+ ./../images/SO02/tv-01390-768px.jpg 768w,
+ ./../images/SO02/tv-01390-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-01390-1090px.jpg"
+ data-srcset="./../images/SO02/bd-01390-512px.jpg 512w,
+ ./../images/SO02/bd-01390-768px.jpg 768w,
+ ./../images/SO02/bd-01390-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-01419-1090px.jpg"
+ data-srcset="./../images/SO02/tv-01419-512px.jpg 512w,
+ ./../images/SO02/tv-01419-768px.jpg 768w,
+ ./../images/SO02/tv-01419-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-01419-1090px.jpg"
+ data-srcset="./../images/SO02/bd-01419-512px.jpg 512w,
+ ./../images/SO02/bd-01419-768px.jpg 768w,
+ ./../images/SO02/bd-01419-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-01435-1090px.jpg"
+ data-srcset="./../images/SO02/tv-01435-512px.jpg 512w,
+ ./../images/SO02/tv-01435-768px.jpg 768w,
+ ./../images/SO02/tv-01435-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-01435-1090px.jpg"
+ data-srcset="./../images/SO02/bd-01435-512px.jpg 512w,
+ ./../images/SO02/bd-01435-768px.jpg 768w,
+ ./../images/SO02/bd-01435-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-01442-1090px.jpg"
+ data-srcset="./../images/SO02/tv-01442-512px.jpg 512w,
+ ./../images/SO02/tv-01442-768px.jpg 768w,
+ ./../images/SO02/tv-01442-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-01442-1090px.jpg"
+ data-srcset="./../images/SO02/bd-01442-512px.jpg 512w,
+ ./../images/SO02/bd-01442-768px.jpg 768w,
+ ./../images/SO02/bd-01442-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-01470-1090px.jpg"
+ data-srcset="./../images/SO02/tv-01470-512px.jpg 512w,
+ ./../images/SO02/tv-01470-768px.jpg 768w,
+ ./../images/SO02/tv-01470-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-01470-1090px.jpg"
+ data-srcset="./../images/SO02/bd-01470-512px.jpg 512w,
+ ./../images/SO02/bd-01470-768px.jpg 768w,
+ ./../images/SO02/bd-01470-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, the shading on Gwess' thumb has been tweaked (once again - not strictly speaking a "redraw", as the same shading was correct on other frames originally):
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-20180-1090px.jpg"
+ data-srcset="./../images/SO02/tv-20180-512px.jpg 512w,
+ ./../images/SO02/tv-20180-768px.jpg 768w,
+ ./../images/SO02/tv-20180-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-20180-1090px.jpg"
+ data-srcset="./../images/SO02/bd-20180-512px.jpg 512w,
+ ./../images/SO02/bd-20180-768px.jpg 768w,
+ ./../images/SO02/bd-20180-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-20195-1090px.jpg"
+ data-srcset="./../images/SO02/tv-20195-512px.jpg 512w,
+ ./../images/SO02/tv-20195-768px.jpg 768w,
+ ./../images/SO02/tv-20195-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-20195-1090px.jpg"
+ data-srcset="./../images/SO02/bd-20195-512px.jpg 512w,
+ ./../images/SO02/bd-20195-768px.jpg 768w,
+ ./../images/SO02/bd-20195-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's close this up with three extremely satisfying punch rushes, now viewable in their original brighter and sharper glory:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO02/02 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO02/02 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-30660-1090px.jpg"
+ data-srcset="./../images/SO02/tv-30660-512px.jpg 512w,
+ ./../images/SO02/tv-30660-768px.jpg 768w,
+ ./../images/SO02/tv-30660-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-30660-1090px.jpg"
+ data-srcset="./../images/SO02/bd-30660-512px.jpg 512w,
+ ./../images/SO02/bd-30660-768px.jpg 768w,
+ ./../images/SO02/bd-30660-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-30695-1090px.jpg"
+ data-srcset="./../images/SO02/tv-30695-512px.jpg 512w,
+ ./../images/SO02/tv-30695-768px.jpg 768w,
+ ./../images/SO02/tv-30695-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-30695-1090px.jpg"
+ data-srcset="./../images/SO02/bd-30695-512px.jpg 512w,
+ ./../images/SO02/bd-30695-768px.jpg 768w,
+ ./../images/SO02/bd-30695-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO02/03 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO02/03 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-30700-1090px.jpg"
+ data-srcset="./../images/SO02/tv-30700-512px.jpg 512w,
+ ./../images/SO02/tv-30700-768px.jpg 768w,
+ ./../images/SO02/tv-30700-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-30700-1090px.jpg"
+ data-srcset="./../images/SO02/bd-30700-512px.jpg 512w,
+ ./../images/SO02/bd-30700-768px.jpg 768w,
+ ./../images/SO02/bd-30700-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-30702-1090px.jpg"
+ data-srcset="./../images/SO02/tv-30702-512px.jpg 512w,
+ ./../images/SO02/tv-30702-768px.jpg 768w,
+ ./../images/SO02/tv-30702-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-30702-1090px.jpg"
+ data-srcset="./../images/SO02/bd-30702-512px.jpg 512w,
+ ./../images/SO02/bd-30702-768px.jpg 768w,
+ ./../images/SO02/bd-30702-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-30705-1090px.jpg"
+ data-srcset="./../images/SO02/tv-30705-512px.jpg 512w,
+ ./../images/SO02/tv-30705-768px.jpg 768w,
+ ./../images/SO02/tv-30705-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-30705-1090px.jpg"
+ data-srcset="./../images/SO02/bd-30705-512px.jpg 512w,
+ ./../images/SO02/bd-30705-768px.jpg 768w,
+ ./../images/SO02/bd-30705-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-30719-1090px.jpg"
+ data-srcset="./../images/SO02/tv-30719-512px.jpg 512w,
+ ./../images/SO02/tv-30719-768px.jpg 768w,
+ ./../images/SO02/tv-30719-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-30719-1090px.jpg"
+ data-srcset="./../images/SO02/bd-30719-512px.jpg 512w,
+ ./../images/SO02/bd-30719-768px.jpg 768w,
+ ./../images/SO02/bd-30719-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO02/04 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO02/04 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-30724-1090px.jpg"
+ data-srcset="./../images/SO02/tv-30724-512px.jpg 512w,
+ ./../images/SO02/tv-30724-768px.jpg 768w,
+ ./../images/SO02/tv-30724-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-30724-1090px.jpg"
+ data-srcset="./../images/SO02/bd-30724-512px.jpg 512w,
+ ./../images/SO02/bd-30724-768px.jpg 768w,
+ ./../images/SO02/bd-30724-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/tv-30748-1090px.jpg"
+ data-srcset="./../images/SO02/tv-30748-512px.jpg 512w,
+ ./../images/SO02/tv-30748-768px.jpg 768w,
+ ./../images/SO02/tv-30748-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO02/bd-30748-1090px.jpg"
+ data-srcset="./../images/SO02/bd-30748-512px.jpg 512w,
+ ./../images/SO02/bd-30748-768px.jpg 768w,
+ ./../images/SO02/bd-30748-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And that - barring the same two credit differences that were present in the last episode - is it for this comparison! Once again, nothing too deep - but ain't no use crying about it, am I right? Either way, it's very nice to be able to enjoy those delightful punches without that annoying ghosting. That's it from me for today! See you again for the next episode! Bye!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
