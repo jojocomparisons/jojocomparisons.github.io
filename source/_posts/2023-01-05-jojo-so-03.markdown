@@ -1,0 +1,145 @@
+---
+layout: post
+title: "Stone Ocean #03 - The Visitor - Part 1"
+date: 2023-01-05 11:19:34 +0000
+comments: true
+categories: so
+---
+
+{% img center /images/SO03/03header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello again, friends from all over the world, and happy new year! Today we're going to take a look at Stone Ocean #03 - "The Visitor - Part 1"! There's once again not going to be much to talk about - so we might as well just get right into it, eh?
+
+<br>
+
+Let's get started!
+
+<br>
+
+- Today's first three differences are going to be something you might have already seen - Emporio's uniform! These had already been introduced **in the TV version**, and have been since **patched into the Netflix version as well**. Take a look:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO03/tv-12562-1090px.jpg"
+ data-srcset="./../images/SO03/tv-12562-512px.jpg 512w,
+ ./../images/SO03/tv-12562-768px.jpg 768w,
+ ./../images/SO03/tv-12562-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO03/bd-12562-1090px.jpg"
+ data-srcset="./../images/SO03/bd-12562-512px.jpg 512w,
+ ./../images/SO03/bd-12562-768px.jpg 768w,
+ ./../images/SO03/bd-12562-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, in addition to having a new colour on the 6 on the back of his jersey, Emporio's cap brim is also significantly darker:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO03/tv-12603-1090px.jpg"
+ data-srcset="./../images/SO03/tv-12603-512px.jpg 512w,
+ ./../images/SO03/tv-12603-768px.jpg 768w,
+ ./../images/SO03/tv-12603-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO03/bd-12603-1090px.jpg"
+ data-srcset="./../images/SO03/bd-12603-512px.jpg 512w,
+ ./../images/SO03/bd-12603-768px.jpg 768w,
+ ./../images/SO03/bd-12603-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And let's conclude this Emporio-centric first section with a last shot of him showing off his fresh new logos:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO03/tv-12875-1090px.jpg"
+ data-srcset="./../images/SO03/tv-12875-512px.jpg 512w,
+ ./../images/SO03/tv-12875-768px.jpg 768w,
+ ./../images/SO03/tv-12875-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO03/bd-12875-1090px.jpg"
+ data-srcset="./../images/SO03/bd-12875-512px.jpg 512w,
+ ./../images/SO03/bd-12875-768px.jpg 768w,
+ ./../images/SO03/bd-12875-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This animation of Jotaro taking out Star Platinum is now brighter and sharper:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO03/01 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO03/01 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO03/tv-26620-1090px.jpg"
+ data-srcset="./../images/SO03/tv-26620-512px.jpg 512w,
+ ./../images/SO03/tv-26620-768px.jpg 768w,
+ ./../images/SO03/tv-26620-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO03/bd-26620-1090px.jpg"
+ data-srcset="./../images/SO03/bd-26620-512px.jpg 512w,
+ ./../images/SO03/bd-26620-768px.jpg 768w,
+ ./../images/SO03/bd-26620-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO03/tv-26632-1090px.jpg"
+ data-srcset="./../images/SO03/tv-26632-512px.jpg 512w,
+ ./../images/SO03/tv-26632-768px.jpg 768w,
+ ./../images/SO03/tv-26632-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO03/bd-26632-1090px.jpg"
+ data-srcset="./../images/SO03/bd-26632-512px.jpg 512w,
+ ./../images/SO03/bd-26632-768px.jpg 768w,
+ ./../images/SO03/bd-26632-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And this, unfortunately, is the end of today's very brief comparison. I can't help but wonder what would have happened if they had given Stone Ocean the proper Blu-Ray treatment we're used to... But alas, no use in crying over spilled milk, I suppose. Sorry for ending this post on a bit of a bummer note! See you next time for hopefully something a bit meatier! Ciao!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
