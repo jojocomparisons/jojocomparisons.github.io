@@ -4,7 +4,7 @@
   <title><![CDATA[Category: va | JoJo's Bizarre Comparisons]]></title>
   <link href="https://jojocomparisons.github.io/categories/va/atom.xml" rel="self"/>
   <link href="https://jojocomparisons.github.io/"/>
-  <updated>2023-01-31T10:50:19+00:00</updated>
+  <updated>2023-02-25T11:12:26+00:00</updated>
   <id>https://jojocomparisons.github.io/</id>
   <author>
     <name><![CDATA[Duwang Boi]]></name>
@@ -18,7 +18,7 @@
     <link href="https://jojocomparisons.github.io/jojo-va-39/"/>
     <updated>2020-01-19T20:45:25+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-va-39</id>
-    <content type="html"><![CDATA[<p><img class="width=”100%” height=”100%” center" src="/images/VA39/39header.jpg">
+    <content type="html"><![CDATA[<p>{% img width=”100%” height=”100%” center /images/VA39/39header.jpg %}
 <!-- more --></p>
 
 <p><br />
@@ -2861,7 +2861,7 @@
 
 <p><br /></p>
 
-<p><img class="width=”100%” height=”100%” center" src="/images/tobecontinued.png"></p>
+<p>{% img width=”100%” height=”100%” center /images/tobecontinued.png %}</p>
 ]]></content>
   </entry>
   
@@ -2870,7 +2870,7 @@
     <link href="https://jojocomparisons.github.io/jojo-va-38/"/>
     <updated>2020-01-12T19:15:07+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-va-38</id>
-    <content type="html"><![CDATA[<p><img class="width=”100%” height=”100%” center" src="/images/VA38/38header.jpg">
+    <content type="html"><![CDATA[<p>{% img width=”100%” height=”100%” center /images/VA38/38header.jpg %}
 <!-- more --></p>
 
 <p><br />
@@ -3599,7 +3599,7 @@
 
 <p><br /></p>
 
-<p><img class="width=”100%” height=”100%” center" src="/images/tobecontinued.png"></p>
+<p>{% img width=”100%” height=”100%” center /images/tobecontinued.png %}</p>
 ]]></content>
   </entry>
   
@@ -3608,7 +3608,7 @@
     <link href="https://jojocomparisons.github.io/jojo-va-37/"/>
     <updated>2020-01-05T20:41:55+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-va-37</id>
-    <content type="html"><![CDATA[<p><img class="width=”100%” height=”100%” center" src="/images/VA37/37header.jpg">
+    <content type="html"><![CDATA[<p>{% img width=”100%” height=”100%” center /images/VA37/37header.jpg %}
 <!-- more --></p>
 
 <p><br />
@@ -5241,7 +5241,7 @@
 
 <p><br /></p>
 
-<p><img class="width=”100%” height=”100%” center" src="/images/tobecontinued.png"></p>
+<p>{% img width=”100%” height=”100%” center /images/tobecontinued.png %}</p>
 ]]></content>
   </entry>
   
@@ -5250,7 +5250,7 @@
     <link href="https://jojocomparisons.github.io/jojo-va-36/"/>
     <updated>2019-12-30T15:06:38+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-va-36</id>
-    <content type="html"><![CDATA[<p><img class="width=”100%” height=”100%” center" src="/images/VA36/36header.jpg">
+    <content type="html"><![CDATA[<p>{% img width=”100%” height=”100%” center /images/VA36/36header.jpg %}
 <!-- more --></p>
 
 <p><br />
@@ -7177,7 +7177,7 @@
 
 <p><br /></p>
 
-<p><img class="width=”100%” height=”100%” center" src="/images/tobecontinued.png"></p>
+<p>{% img width=”100%” height=”100%” center /images/tobecontinued.png %}</p>
 ]]></content>
   </entry>
   
@@ -7186,7 +7186,7 @@
     <link href="https://jojocomparisons.github.io/jojo-va-35/"/>
     <updated>2019-12-22T17:16:19+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-va-35</id>
-    <content type="html"><![CDATA[<p><img class="width=”100%” height=”100%” center" src="/images/VA35/35header.jpg">
+    <content type="html"><![CDATA[<p>{% img width=”100%” height=”100%” center /images/VA35/35header.jpg %}
 <!-- more --></p>
 
 <p><br />
@@ -8157,7 +8157,7 @@
 
 <p><br /></p>
 
-<p><img class="width=”100%” height=”100%” center" src="/images/tobecontinued.png"></p>
+<p>{% img width=”100%” height=”100%” center /images/tobecontinued.png %}</p>
 ]]></content>
   </entry>
   
