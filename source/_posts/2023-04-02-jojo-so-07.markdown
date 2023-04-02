@@ -1,0 +1,271 @@
+---
+layout: post
+title: "Stone Ocean #07 - There's Six of Us!"
+date: 2023-04-02 18:06:00 +0100
+comments: true
+categories: so
+---
+
+{% img center /images/SO07/07header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello hello, good people of the internet! Apologies for the long wait - I've been down with a rather nasty cold that functionally knocked me out for the better part of three weeks, and I'm now finally beginning to recover! To celebrate, I thought I'd take a look at today's episode, "There's Six of Us!" - as a now too-common heads-up, I'd just like to let you know that this episode is not going to be super eventful, but what can ya do!
+
+<br>
+
+Let's get into it then, shall we?
+
+<br>
+
+- Today's episode opens up with a small series of retouched Emporio jerseys - as usual, these are now present in **all three versions**. Check 'em out:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/tv-00883-1090px.jpg"
+ data-srcset="./../images/SO07/tv-00883-512px.jpg 512w,
+ ./../images/SO07/tv-00883-768px.jpg 768w,
+ ./../images/SO07/tv-00883-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/bd-00883-1090px.jpg"
+ data-srcset="./../images/SO07/bd-00883-512px.jpg 512w,
+ ./../images/SO07/bd-00883-768px.jpg 768w,
+ ./../images/SO07/bd-00883-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/tv-01285-1090px.jpg"
+ data-srcset="./../images/SO07/tv-01285-512px.jpg 512w,
+ ./../images/SO07/tv-01285-768px.jpg 768w,
+ ./../images/SO07/tv-01285-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/bd-01285-1090px.jpg"
+ data-srcset="./../images/SO07/bd-01285-512px.jpg 512w,
+ ./../images/SO07/bd-01285-768px.jpg 768w,
+ ./../images/SO07/bd-01285-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/tv-01455-1090px.jpg"
+ data-srcset="./../images/SO07/tv-01455-512px.jpg 512w,
+ ./../images/SO07/tv-01455-768px.jpg 768w,
+ ./../images/SO07/tv-01455-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/bd-01455-1090px.jpg"
+ data-srcset="./../images/SO07/bd-01455-512px.jpg 512w,
+ ./../images/SO07/bd-01455-768px.jpg 768w,
+ ./../images/SO07/bd-01455-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Moving on... Here we have a real, genuine retouched bit! Yes, it's microscopic, but I'll take what I can get! Ermes' chin triangle has now correctly been added to this scene - this was already present **in the TV version** and has since been re-introduced in the **Netflix version as well**:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/tv-08055-1090px.jpg"
+ data-srcset="./../images/SO07/tv-08055-512px.jpg 512w,
+ ./../images/SO07/tv-08055-768px.jpg 768w,
+ ./../images/SO07/tv-08055-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/bd-08055-1090px.jpg"
+ data-srcset="./../images/SO07/bd-08055-512px.jpg 512w,
+ ./../images/SO07/bd-08055-768px.jpg 768w,
+ ./../images/SO07/bd-08055-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- This brief animation is now brighter:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO07/01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO07/01 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/tv-26385-1090px.jpg"
+ data-srcset="./../images/SO07/tv-26385-512px.jpg 512w,
+ ./../images/SO07/tv-26385-768px.jpg 768w,
+ ./../images/SO07/tv-26385-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/bd-26385-1090px.jpg"
+ data-srcset="./../images/SO07/bd-26385-512px.jpg 512w,
+ ./../images/SO07/bd-26385-768px.jpg 768w,
+ ./../images/SO07/bd-26385-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In this shot here, a sweat bead on Ermes' forehead used to turn black at certain points - this has been fixed in the BD:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO07/02 - sweat.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO07/02 - sweat.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/tv-26665-1090px.jpg"
+ data-srcset="./../images/SO07/tv-26665-512px.jpg 512w,
+ ./../images/SO07/tv-26665-768px.jpg 768w,
+ ./../images/SO07/tv-26665-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/bd-26665-1090px.jpg"
+ data-srcset="./../images/SO07/bd-26665-512px.jpg 512w,
+ ./../images/SO07/bd-26665-768px.jpg 768w,
+ ./../images/SO07/bd-26665-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And let's conclude this comparison with two brighter and sharper ora-ora rushes, shall we:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO07/03 - b and s.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO07/03 - b and s.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/tv-28426-1090px.jpg"
+ data-srcset="./../images/SO07/tv-28426-512px.jpg 512w,
+ ./../images/SO07/tv-28426-768px.jpg 768w,
+ ./../images/SO07/tv-28426-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/bd-28426-1090px.jpg"
+ data-srcset="./../images/SO07/bd-28426-512px.jpg 512w,
+ ./../images/SO07/bd-28426-768px.jpg 768w,
+ ./../images/SO07/bd-28426-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/tv-28430-1090px.jpg"
+ data-srcset="./../images/SO07/tv-28430-512px.jpg 512w,
+ ./../images/SO07/tv-28430-768px.jpg 768w,
+ ./../images/SO07/tv-28430-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/bd-28430-1090px.jpg"
+ data-srcset="./../images/SO07/bd-28430-512px.jpg 512w,
+ ./../images/SO07/bd-28430-768px.jpg 768w,
+ ./../images/SO07/bd-28430-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO07/04 - b and s.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO07/04 - b and s.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/tv-28450-1090px.jpg"
+ data-srcset="./../images/SO07/tv-28450-512px.jpg 512w,
+ ./../images/SO07/tv-28450-768px.jpg 768w,
+ ./../images/SO07/tv-28450-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/bd-28450-1090px.jpg"
+ data-srcset="./../images/SO07/bd-28450-512px.jpg 512w,
+ ./../images/SO07/bd-28450-768px.jpg 768w,
+ ./../images/SO07/bd-28450-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/tv-28479-1090px.jpg"
+ data-srcset="./../images/SO07/tv-28479-512px.jpg 512w,
+ ./../images/SO07/tv-28479-768px.jpg 768w,
+ ./../images/SO07/tv-28479-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO07/bd-28479-1090px.jpg"
+ data-srcset="./../images/SO07/bd-28479-512px.jpg 512w,
+ ./../images/SO07/bd-28479-768px.jpg 768w,
+ ./../images/SO07/bd-28479-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+Aaand that concludes today's comparison! I'm sorry to only give you this little thing after more than a month (!) of absence - hopefully I'll find the time and motivation to do episode #08 in a more timely manner :) in the meantime - have a great one, and see y'all next time for the conclusion of this mini-arc, "Foo Fighters"!
+
+<br>
+
+Bye!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
