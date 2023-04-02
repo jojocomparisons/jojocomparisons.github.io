@@ -4,7 +4,7 @@
   <title><![CDATA[Category: sc | JoJo's Bizarre Comparisons]]></title>
   <link href="https://jojocomparisons.github.io/categories/sc/atom.xml" rel="self"/>
   <link href="https://jojocomparisons.github.io/"/>
-  <updated>2023-02-25T11:12:26+00:00</updated>
+  <updated>2023-04-02T17:57:43+01:00</updated>
   <id>https://jojocomparisons.github.io/</id>
   <author>
     <name><![CDATA[Duwang Boi]]></name>
@@ -18,7 +18,7 @@
     <link href="https://jojocomparisons.github.io/jojo-sc-48/"/>
     <updated>2020-11-09T13:20:37+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-sc-48</id>
-    <content type="html"><![CDATA[<p>{% img center /images/SC48/48header.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/SC48/48header.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -2851,7 +2851,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
@@ -2860,7 +2860,7 @@
     <link href="https://jojocomparisons.github.io/jojo-sc-47/"/>
     <updated>2020-10-25T15:50:16+02:00</updated>
     <id>https://jojocomparisons.github.io/jojo-sc-47</id>
-    <content type="html"><![CDATA[<p>{% img center /images/SC47/47header.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/SC47/47header.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -7477,7 +7477,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
@@ -7486,7 +7486,7 @@
     <link href="https://jojocomparisons.github.io/jojo-sc-46/"/>
     <updated>2020-10-12T18:46:02+02:00</updated>
     <id>https://jojocomparisons.github.io/jojo-sc-46</id>
-    <content type="html"><![CDATA[<p>{% img center /images/SC46/46header.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/SC46/46header.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -11171,7 +11171,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
@@ -11180,7 +11180,7 @@
     <link href="https://jojocomparisons.github.io/jojo-sc-45/"/>
     <updated>2020-10-04T17:13:35+02:00</updated>
     <id>https://jojocomparisons.github.io/jojo-sc-45</id>
-    <content type="html"><![CDATA[<p>{% img center /images/SC45/45header.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/SC45/45header.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -12631,7 +12631,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
@@ -12640,7 +12640,7 @@
     <link href="https://jojocomparisons.github.io/jojo-sc-44/"/>
     <updated>2020-09-26T14:38:51+02:00</updated>
     <id>https://jojocomparisons.github.io/jojo-sc-44</id>
-    <content type="html"><![CDATA[<p>{% img center /images/SC44/44header.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/SC44/44header.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -13585,7 +13585,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
