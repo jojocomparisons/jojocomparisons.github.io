@@ -1,0 +1,390 @@
+---
+layout: post
+title: "Stone Ocean #08 - Foo Fighters"
+date: 2023-04-16 14:30:27 +0100
+comments: true
+categories: so
+---
+
+{% img center /images/SO08/08header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello there, good people! Welcome back to another short comparison - it's time to take a look at episode #08 of Stone Ocean, "Foo Fighters"! As I anticipated, this one is going to be rather brief - it's mostly going to be punch rushes all the way to the end... but let's not get ahead of ourselves, shall we?
+
+<br>
+
+Let's get started!
+
+<br>
+
+- Today's first comparison is going to be the only non-punch rush - in the Netflix and TV versions of this scene, a bit on the prisoner's manacle used to turn slightly more brown for two frames; this has been fixed in the BDs. It's not very evident from the video, but take a look anyway:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO08/01 - manacle.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO08/01 - manacle.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/tv-02928-1090px.jpg"
+ data-srcset="./../images/SO08/tv-02928-512px.jpg 512w,
+ ./../images/SO08/tv-02928-768px.jpg 768w,
+ ./../images/SO08/tv-02928-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/bd-02928-1090px.jpg"
+ data-srcset="./../images/SO08/bd-02928-512px.jpg 512w,
+ ./../images/SO08/bd-02928-768px.jpg 768w,
+ ./../images/SO08/bd-02928-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Moving on, we get to the actual meat of the episode... the punch rushes, now brighter and sharper! There's not a lot of variety, but at least there's a fair number of them! Here you go, presented one after the other for your viewing pleasure:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO08/02 - punch rush.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO08/02 - punch rush.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/tv-04107-1090px.jpg"
+ data-srcset="./../images/SO08/tv-04107-512px.jpg 512w,
+ ./../images/SO08/tv-04107-768px.jpg 768w,
+ ./../images/SO08/tv-04107-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/bd-04107-1090px.jpg"
+ data-srcset="./../images/SO08/bd-04107-512px.jpg 512w,
+ ./../images/SO08/bd-04107-768px.jpg 768w,
+ ./../images/SO08/bd-04107-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/tv-04112-1090px.jpg"
+ data-srcset="./../images/SO08/tv-04112-512px.jpg 512w,
+ ./../images/SO08/tv-04112-768px.jpg 768w,
+ ./../images/SO08/tv-04112-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/bd-04112-1090px.jpg"
+ data-srcset="./../images/SO08/bd-04112-512px.jpg 512w,
+ ./../images/SO08/bd-04112-768px.jpg 768w,
+ ./../images/SO08/bd-04112-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO08/03 - punch rush.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO08/03 - punch rush.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/tv-04137-1090px.jpg"
+ data-srcset="./../images/SO08/tv-04137-512px.jpg 512w,
+ ./../images/SO08/tv-04137-768px.jpg 768w,
+ ./../images/SO08/tv-04137-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/bd-04137-1090px.jpg"
+ data-srcset="./../images/SO08/bd-04137-512px.jpg 512w,
+ ./../images/SO08/bd-04137-768px.jpg 768w,
+ ./../images/SO08/bd-04137-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/tv-04140-1090px.jpg"
+ data-srcset="./../images/SO08/tv-04140-512px.jpg 512w,
+ ./../images/SO08/tv-04140-768px.jpg 768w,
+ ./../images/SO08/tv-04140-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/bd-04140-1090px.jpg"
+ data-srcset="./../images/SO08/bd-04140-512px.jpg 512w,
+ ./../images/SO08/bd-04140-768px.jpg 768w,
+ ./../images/SO08/bd-04140-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO08/04 - punch rush.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO08/04 - punch rush.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/tv-12515-1090px.jpg"
+ data-srcset="./../images/SO08/tv-12515-512px.jpg 512w,
+ ./../images/SO08/tv-12515-768px.jpg 768w,
+ ./../images/SO08/tv-12515-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/bd-12515-1090px.jpg"
+ data-srcset="./../images/SO08/bd-12515-512px.jpg 512w,
+ ./../images/SO08/bd-12515-768px.jpg 768w,
+ ./../images/SO08/bd-12515-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/tv-12520-1090px.jpg"
+ data-srcset="./../images/SO08/tv-12520-512px.jpg 512w,
+ ./../images/SO08/tv-12520-768px.jpg 768w,
+ ./../images/SO08/tv-12520-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/bd-12520-1090px.jpg"
+ data-srcset="./../images/SO08/bd-12520-512px.jpg 512w,
+ ./../images/SO08/bd-12520-768px.jpg 768w,
+ ./../images/SO08/bd-12520-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO08/05 - punch rush.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO08/05 - punch rush.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/tv-12550-1090px.jpg"
+ data-srcset="./../images/SO08/tv-12550-512px.jpg 512w,
+ ./../images/SO08/tv-12550-768px.jpg 768w,
+ ./../images/SO08/tv-12550-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/bd-12550-1090px.jpg"
+ data-srcset="./../images/SO08/bd-12550-512px.jpg 512w,
+ ./../images/SO08/bd-12550-768px.jpg 768w,
+ ./../images/SO08/bd-12550-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/tv-12553-1090px.jpg"
+ data-srcset="./../images/SO08/tv-12553-512px.jpg 512w,
+ ./../images/SO08/tv-12553-768px.jpg 768w,
+ ./../images/SO08/tv-12553-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/bd-12553-1090px.jpg"
+ data-srcset="./../images/SO08/bd-12553-512px.jpg 512w,
+ ./../images/SO08/bd-12553-768px.jpg 768w,
+ ./../images/SO08/bd-12553-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO08/06 - punch rush.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO08/06 - punch rush.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/tv-12596-1090px.jpg"
+ data-srcset="./../images/SO08/tv-12596-512px.jpg 512w,
+ ./../images/SO08/tv-12596-768px.jpg 768w,
+ ./../images/SO08/tv-12596-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/bd-12596-1090px.jpg"
+ data-srcset="./../images/SO08/bd-12596-512px.jpg 512w,
+ ./../images/SO08/bd-12596-768px.jpg 768w,
+ ./../images/SO08/bd-12596-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/tv-12605-1090px.jpg"
+ data-srcset="./../images/SO08/tv-12605-512px.jpg 512w,
+ ./../images/SO08/tv-12605-768px.jpg 768w,
+ ./../images/SO08/tv-12605-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/bd-12605-1090px.jpg"
+ data-srcset="./../images/SO08/bd-12605-512px.jpg 512w,
+ ./../images/SO08/bd-12605-768px.jpg 768w,
+ ./../images/SO08/bd-12605-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO08/07 - punch rush.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO08/07 - punch rush.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/tv-17269-1090px.jpg"
+ data-srcset="./../images/SO08/tv-17269-512px.jpg 512w,
+ ./../images/SO08/tv-17269-768px.jpg 768w,
+ ./../images/SO08/tv-17269-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/bd-17269-1090px.jpg"
+ data-srcset="./../images/SO08/bd-17269-512px.jpg 512w,
+ ./../images/SO08/bd-17269-768px.jpg 768w,
+ ./../images/SO08/bd-17269-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/tv-17273-1090px.jpg"
+ data-srcset="./../images/SO08/tv-17273-512px.jpg 512w,
+ ./../images/SO08/tv-17273-768px.jpg 768w,
+ ./../images/SO08/tv-17273-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/bd-17273-1090px.jpg"
+ data-srcset="./../images/SO08/bd-17273-512px.jpg 512w,
+ ./../images/SO08/bd-17273-768px.jpg 768w,
+ ./../images/SO08/bd-17273-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO08/08 - punch rush.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO08/08 - punch rush.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/tv-17295-1090px.jpg"
+ data-srcset="./../images/SO08/tv-17295-512px.jpg 512w,
+ ./../images/SO08/tv-17295-768px.jpg 768w,
+ ./../images/SO08/tv-17295-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/bd-17295-1090px.jpg"
+ data-srcset="./../images/SO08/bd-17295-512px.jpg 512w,
+ ./../images/SO08/bd-17295-768px.jpg 768w,
+ ./../images/SO08/bd-17295-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/tv-17310-1090px.jpg"
+ data-srcset="./../images/SO08/tv-17310-512px.jpg 512w,
+ ./../images/SO08/tv-17310-768px.jpg 768w,
+ ./../images/SO08/tv-17310-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO08/bd-17310-1090px.jpg"
+ data-srcset="./../images/SO08/bd-17310-512px.jpg 512w,
+ ./../images/SO08/bd-17310-768px.jpg 768w,
+ ./../images/SO08/bd-17310-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+Aaand that concludes the changes in episode #08! Not much to talk about this time around - but look at all the moving pictures! Mesmerizing! Hopefully the next episode will have something better for us... Well, see you next time for a look at #09, "Marilyn Manson, The Debt Collector"!
+
+<br>
+
+See ya!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
