@@ -4,7 +4,7 @@
   <title><![CDATA[Category: diu | JoJo's Bizarre Comparisons]]></title>
   <link href="https://jojocomparisons.github.io/categories/diu/atom.xml" rel="self"/>
   <link href="https://jojocomparisons.github.io/"/>
-  <updated>2023-04-16T13:56:14+01:00</updated>
+  <updated>2023-06-11T11:22:37+01:00</updated>
   <id>https://jojocomparisons.github.io/</id>
   <author>
     <name><![CDATA[Duwang Boi]]></name>
@@ -18,7 +18,7 @@
     <link href="https://jojocomparisons.github.io/jojo-diu-39/"/>
     <updated>2017-09-10T17:40:48+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-diu-39</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/DIU39/39header.jpg">
+    <content type="html"><![CDATA[<p>{% img center /images/DIU39/39header.jpg %}
 <!-- more --></p>
 
 <p><br />
@@ -917,7 +917,7 @@
 
 <p><br /></p>
 
-<p><img class="center" src="/images/tobecontinued.png"></p>
+<p>{% img center /images/tobecontinued.png %}</p>
 ]]></content>
   </entry>
   
@@ -926,7 +926,7 @@
     <link href="https://jojocomparisons.github.io/jojo-diu-38/"/>
     <updated>2017-09-03T09:51:18+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-diu-38</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/DIU38/38header.jpg">
+    <content type="html"><![CDATA[<p>{% img center /images/DIU38/38header.jpg %}
 <!-- more --></p>
 
 <p><br />
@@ -1313,7 +1313,7 @@
 
 <p><br /></p>
 
-<p><img class="center" src="/images/tobecontinued.png"></p>
+<p>{% img center /images/tobecontinued.png %}</p>
 ]]></content>
   </entry>
   
@@ -1322,7 +1322,7 @@
     <link href="https://jojocomparisons.github.io/jojo-diu-37/"/>
     <updated>2017-08-28T10:08:25+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-diu-37</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/DIU37/37header.jpg">
+    <content type="html"><![CDATA[<p>{% img center /images/DIU37/37header.jpg %}
 <!-- more --></p>
 
 <p><br />
@@ -2493,7 +2493,7 @@
 
 <p><br /></p>
 
-<p><img class="center" src="/images/tobecontinued.png"></p>
+<p>{% img center /images/tobecontinued.png %}</p>
 ]]></content>
   </entry>
   
@@ -2502,7 +2502,7 @@
     <link href="https://jojocomparisons.github.io/jojo-diu-36/"/>
     <updated>2017-08-20T09:18:43+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-diu-36</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/DIU36/36header.jpg">
+    <content type="html"><![CDATA[<p>{% img center /images/DIU36/36header.jpg %}
 <!-- more --></p>
 
 <p><br />
@@ -3380,7 +3380,7 @@
 
 <p><br /></p>
 
-<p><img class="center" src="/images/tobecontinued.png"></p>
+<p>{% img center /images/tobecontinued.png %}</p>
 ]]></content>
   </entry>
   
@@ -3389,7 +3389,7 @@
     <link href="https://jojocomparisons.github.io/jojo-diu-35/"/>
     <updated>2017-08-05T08:44:41+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-diu-35</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/DIU35/35header.jpg">
+    <content type="html"><![CDATA[<p>{% img center /images/DIU35/35header.jpg %}
 <!-- more --></p>
 
 <p><br />
@@ -5464,7 +5464,7 @@
 
 <p><br /></p>
 
-<p><img class="center" src="/images/tobecontinued.png"></p>
+<p>{% img center /images/tobecontinued.png %}</p>
 ]]></content>
   </entry>
   

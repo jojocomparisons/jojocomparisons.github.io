@@ -4,7 +4,7 @@
   <title><![CDATA[Category: bt | JoJo's Bizarre Comparisons]]></title>
   <link href="https://jojocomparisons.github.io/categories/bt/atom.xml" rel="self"/>
   <link href="https://jojocomparisons.github.io/"/>
-  <updated>2023-04-16T13:56:14+01:00</updated>
+  <updated>2023-06-11T11:22:37+01:00</updated>
   <id>https://jojocomparisons.github.io/</id>
   <author>
     <name><![CDATA[Duwang Boi]]></name>
@@ -18,7 +18,7 @@
     <link href="https://jojocomparisons.github.io/jojo-bt-26/"/>
     <updated>2018-10-20T14:37:17+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-bt-26</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/BT26/26header.jpg">
+    <content type="html"><![CDATA[<p>{% img center /images/BT26/26header.jpg %}
 <!-- more --></p>
 
 <p><br />
@@ -1479,7 +1479,7 @@
 
 <p><br /></p>
 
-<p><img class="center" src="/images/tobecontinued.png"></p>
+<p>{% img center /images/tobecontinued.png %}</p>
 ]]></content>
   </entry>
   
@@ -1488,7 +1488,7 @@
     <link href="https://jojocomparisons.github.io/jojo-bt-25/"/>
     <updated>2018-10-18T21:53:17+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-bt-25</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/BT25/25header.jpg">
+    <content type="html"><![CDATA[<p>{% img center /images/BT25/25header.jpg %}
 <!-- more --></p>
 
 <p><br />
@@ -2202,7 +2202,7 @@
 
 <p><br /></p>
 
-<p><img class="center" src="/images/tobecontinued.png"></p>
+<p>{% img center /images/tobecontinued.png %}</p>
 ]]></content>
   </entry>
   
@@ -2211,7 +2211,7 @@
     <link href="https://jojocomparisons.github.io/jojo-bt-24/"/>
     <updated>2018-10-17T16:01:00+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-bt-24</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/BT24/24header.jpg">
+    <content type="html"><![CDATA[<p>{% img center /images/BT24/24header.jpg %}
 <!-- more --></p>
 
 <p><br />
@@ -2764,7 +2764,7 @@
 
 <p><br /></p>
 
-<p><img class="center" src="/images/tobecontinued.png"></p>
+<p>{% img center /images/tobecontinued.png %}</p>
 ]]></content>
   </entry>
   
@@ -2773,7 +2773,7 @@
     <link href="https://jojocomparisons.github.io/jojo-bt-23/"/>
     <updated>2018-10-15T15:06:58+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-bt-23</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/BT23/23header.jpg">
+    <content type="html"><![CDATA[<p>{% img center /images/BT23/23header.jpg %}
 <!-- more --></p>
 
 <p><br />
@@ -3678,7 +3678,7 @@
 
 <p><br /></p>
 
-<p><img class="center" src="/images/tobecontinued.png"></p>
+<p>{% img center /images/tobecontinued.png %}</p>
 ]]></content>
   </entry>
   
@@ -3687,7 +3687,7 @@
     <link href="https://jojocomparisons.github.io/jojo-bt-22/"/>
     <updated>2018-10-07T09:26:50+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-bt-22</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/BT22/22header.jpg">
+    <content type="html"><![CDATA[<p>{% img center /images/BT22/22header.jpg %}
 <!-- more --></p>
 
 <p><br />
@@ -6356,7 +6356,7 @@
 
 <p><br /></p>
 
-<p><img class="center" src="/images/tobecontinued.png"></p>
+<p>{% img center /images/tobecontinued.png %}</p>
 ]]></content>
   </entry>
   
