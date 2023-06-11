@@ -18,7 +18,7 @@
     <link href="https://jojocomparisons.github.io/jojo-so-09/"/>
     <updated>2023-06-11T11:40:44+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-so-09</id>
-    <content type="html"><![CDATA[<p>{% img center /images/SO09/09header.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/SO09/09header.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -187,7 +187,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
@@ -196,7 +196,7 @@
     <link href="https://jojocomparisons.github.io/jojo-so-10/"/>
     <updated>2023-06-11T09:12:54+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-so-10</id>
-    <content type="html"><![CDATA[<p>{% img center /images/SO10/10header.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/SO10/10header.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -1524,7 +1524,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
@@ -1533,7 +1533,7 @@
     <link href="https://jojocomparisons.github.io/jojo-so-08/"/>
     <updated>2023-04-16T14:30:27+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-so-08</id>
-    <content type="html"><![CDATA[<p>{% img center /images/SO08/08header.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/SO08/08header.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -1828,7 +1828,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
@@ -1837,7 +1837,7 @@
     <link href="https://jojocomparisons.github.io/jojo-so-07/"/>
     <updated>2023-04-02T18:06:00+01:00</updated>
     <id>https://jojocomparisons.github.io/jojo-so-07</id>
-    <content type="html"><![CDATA[<p>{% img center /images/SO07/07header.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/SO07/07header.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -2049,7 +2049,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
@@ -2058,7 +2058,7 @@
     <link href="https://jojocomparisons.github.io/jojo-so-06/"/>
     <updated>2023-02-25T08:10:04+00:00</updated>
     <id>https://jojocomparisons.github.io/jojo-so-06</id>
-    <content type="html"><![CDATA[<p>{% img center /images/SO06/06header.jpg %}
+    <content type="html"><![CDATA[<p><img class="center" src="/images/SO06/06header.jpg">
 <!-- more --></p>
 
 <p><br />
@@ -2901,7 +2901,7 @@
 
 <p><br /></p>
 
-<p>{% img center /images/tobecontinued.png %}</p>
+<p><img class="center" src="/images/tobecontinued.png"></p>
 ]]></content>
   </entry>
   
