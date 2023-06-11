@@ -1,0 +1,220 @@
+---
+layout: post
+title: "Stone Ocean #09 - Marilyn Manson, The Debt Collector"
+date: 2023-06-11 11:40:44 +0100
+comments: true
+categories: so
+---
+
+{% img center /images/SO09/09header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello hello, old friends! Long time no... read? Write? Both of those things, in fact! You know how it is - life, uh... finds a way, and so I ended up neglecting this blog for longer than I meant to. In order to make up for this (and in order to make up for the woefully short comparison you're about to blitz through), however, I decided it would be nice to present you with not one, but two posts at once! And, as you'll see with the comparison for the next episode, today we'll finally have something a bit more interesting to talk about... But let's not get ahead of ourselves, and let's instead very briefly dive into Episode #09, "Marilyn Manson, The Debt Collector"!
+
+<br>
+
+Without further ado...
+
+<br>
+
+- Today's first (and only substantial) changes all have one thing in common - they're all brighter and sharper animations! Enjoy these three shots of Jolyne pummeling Miraschon into mincemeat:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO09/01 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO09/01 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO09/tv-30858-1090px.jpg"
+ data-srcset="./../images/SO09/tv-30858-512px.jpg 512w,
+ ./../images/SO09/tv-30858-768px.jpg 768w,
+ ./../images/SO09/tv-30858-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO09/bd-30858-1090px.jpg"
+ data-srcset="./../images/SO09/bd-30858-512px.jpg 512w,
+ ./../images/SO09/bd-30858-768px.jpg 768w,
+ ./../images/SO09/bd-30858-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO09/tv-30867-1090px.jpg"
+ data-srcset="./../images/SO09/tv-30867-512px.jpg 512w,
+ ./../images/SO09/tv-30867-768px.jpg 768w,
+ ./../images/SO09/tv-30867-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO09/bd-30867-1090px.jpg"
+ data-srcset="./../images/SO09/bd-30867-512px.jpg 512w,
+ ./../images/SO09/bd-30867-768px.jpg 768w,
+ ./../images/SO09/bd-30867-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO09/02 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO09/02 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO09/tv-30920-1090px.jpg"
+ data-srcset="./../images/SO09/tv-30920-512px.jpg 512w,
+ ./../images/SO09/tv-30920-768px.jpg 768w,
+ ./../images/SO09/tv-30920-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO09/bd-30920-1090px.jpg"
+ data-srcset="./../images/SO09/bd-30920-512px.jpg 512w,
+ ./../images/SO09/bd-30920-768px.jpg 768w,
+ ./../images/SO09/bd-30920-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO09/tv-30925-1090px.jpg"
+ data-srcset="./../images/SO09/tv-30925-512px.jpg 512w,
+ ./../images/SO09/tv-30925-768px.jpg 768w,
+ ./../images/SO09/tv-30925-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO09/bd-30925-1090px.jpg"
+ data-srcset="./../images/SO09/bd-30925-512px.jpg 512w,
+ ./../images/SO09/bd-30925-768px.jpg 768w,
+ ./../images/SO09/bd-30925-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO09/03 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO09/03 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO09/tv-30939-1090px.jpg"
+ data-srcset="./../images/SO09/tv-30939-512px.jpg 512w,
+ ./../images/SO09/tv-30939-768px.jpg 768w,
+ ./../images/SO09/tv-30939-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO09/bd-30939-1090px.jpg"
+ data-srcset="./../images/SO09/bd-30939-512px.jpg 512w,
+ ./../images/SO09/bd-30939-768px.jpg 768w,
+ ./../images/SO09/bd-30939-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO09/tv-31003-1090px.jpg"
+ data-srcset="./../images/SO09/tv-31003-512px.jpg 512w,
+ ./../images/SO09/tv-31003-768px.jpg 768w,
+ ./../images/SO09/tv-31003-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO09/bd-31003-1090px.jpg"
+ data-srcset="./../images/SO09/bd-31003-512px.jpg 512w,
+ ./../images/SO09/bd-31003-768px.jpg 768w,
+ ./../images/SO09/bd-31003-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Moving on to the credits (yeah, already!), here we can see a new name added to the credits: 村越さおり (Murakoshi Saori), in the role of 仕上検査補佐 (Finishing/Clean-up Inspection Assistance) - this difference was already present in the **TV version**, and has now been added to the **Netflix version** as well:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO09/tv-32500-1090px.jpg"
+ data-srcset="./../images/SO09/tv-32500-512px.jpg 512w,
+ ./../images/SO09/tv-32500-768px.jpg 768w,
+ ./../images/SO09/tv-32500-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO09/bd-32500-1090px.jpg"
+ data-srcset="./../images/SO09/bd-32500-512px.jpg 512w,
+ ./../images/SO09/bd-32500-768px.jpg 768w,
+ ./../images/SO09/bd-32500-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And, to conclude, here is a very... small and quite insignificant difference - the credits have been shifted by like... a pixel here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO09/tv-32620-1090px.jpg"
+ data-srcset="./../images/SO09/tv-32620-512px.jpg 512w,
+ ./../images/SO09/tv-32620-768px.jpg 768w,
+ ./../images/SO09/tv-32620-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO09/bd-32620-1090px.jpg"
+ data-srcset="./../images/SO09/bd-32620-512px.jpg 512w,
+ ./../images/SO09/bd-32620-768px.jpg 768w,
+ ./../images/SO09/bd-32620-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And on this electrifying note, we conclude the comparison for Episode #09! But be not afraid, because today has yet more thrills and more chills in store for you, which you will be able to find and savour and experience if you but click on the link down below, at the bottom right and enjoy... Episode #10, "Operation Savage Garden (Head for the Courtyard!) - Part 1"!
+
+<br>
+
+See you there!
+
+<br>
+
+{% img center /images/tobecontinued.png %}

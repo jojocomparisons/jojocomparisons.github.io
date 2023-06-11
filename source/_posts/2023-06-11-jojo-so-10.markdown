@@ -1,0 +1,1725 @@
+---
+layout: post
+title: "Stone Ocean #10 - Operation Savage Garden (Head for the Courtyard!) - Part 1"
+date: 2023-06-11 11:40:54 +0100
+comments: true
+categories: so
+---
+
+{% img center /images/SO10/10header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+And hello again, good people! Why, it seems like only mere moments ago that we bid farewell to one another, and yet here we are, once more upon the breach, gathered as one and poised to admire some (for once!) actually interesting differences and meaningful changes. Not to over-hype you unduly - this will certainly be the longest Stone Ocean comparison by far, but it still can't be compared (heh) with previous parts. All that said, though, get nice and comfortable, because today we have a bit more to bite on our plates! It's time to take a look at Episode #10, "Operation Savage Garden (Head for the Courtyard!) - Part 1"! As a special note, since today's differences are almost uniformly now present in **all three versions**, for brevity I will just specify which ones **do not**.
+
+<br>
+
+Let's get to it!
+
+<br>
+
+- In perhaps one of the funniest changes I've ever showcased on this blog, the text on this monitor has been subtly altered, and BLAIN has been corrected into BRAIN. Peep this comparison with your eyes, or you will be cursed with blain damage:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-05860-1090px.jpg"
+ data-srcset="./../images/SO10/tv-05860-512px.jpg 512w,
+ ./../images/SO10/tv-05860-768px.jpg 768w,
+ ./../images/SO10/tv-05860-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-05860-1090px.jpg"
+ data-srcset="./../images/SO10/bd-05860-512px.jpg 512w,
+ ./../images/SO10/bd-05860-768px.jpg 768w,
+ ./../images/SO10/bd-05860-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's, as is customary, take a look at a handful of reworked Emporio jerseys (including one where he looks like that Eminem picture where he's throwing a mouse):
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-10136-1090px.jpg"
+ data-srcset="./../images/SO10/tv-10136-512px.jpg 512w,
+ ./../images/SO10/tv-10136-768px.jpg 768w,
+ ./../images/SO10/tv-10136-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-10136-1090px.jpg"
+ data-srcset="./../images/SO10/bd-10136-512px.jpg 512w,
+ ./../images/SO10/bd-10136-768px.jpg 768w,
+ ./../images/SO10/bd-10136-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-10159-1090px.jpg"
+ data-srcset="./../images/SO10/tv-10159-512px.jpg 512w,
+ ./../images/SO10/tv-10159-768px.jpg 768w,
+ ./../images/SO10/tv-10159-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-10159-1090px.jpg"
+ data-srcset="./../images/SO10/bd-10159-512px.jpg 512w,
+ ./../images/SO10/bd-10159-768px.jpg 768w,
+ ./../images/SO10/bd-10159-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-10169-1090px.jpg"
+ data-srcset="./../images/SO10/tv-10169-512px.jpg 512w,
+ ./../images/SO10/tv-10169-768px.jpg 768w,
+ ./../images/SO10/tv-10169-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-10169-1090px.jpg"
+ data-srcset="./../images/SO10/bd-10169-512px.jpg 512w,
+ ./../images/SO10/bd-10169-768px.jpg 768w,
+ ./../images/SO10/bd-10169-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-10415-1090px.jpg"
+ data-srcset="./../images/SO10/tv-10415-512px.jpg 512w,
+ ./../images/SO10/tv-10415-768px.jpg 768w,
+ ./../images/SO10/tv-10415-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-10415-1090px.jpg"
+ data-srcset="./../images/SO10/bd-10415-512px.jpg 512w,
+ ./../images/SO10/bd-10415-768px.jpg 768w,
+ ./../images/SO10/bd-10415-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-10420-1090px.jpg"
+ data-srcset="./../images/SO10/tv-10420-512px.jpg 512w,
+ ./../images/SO10/tv-10420-768px.jpg 768w,
+ ./../images/SO10/tv-10420-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-10420-1090px.jpg"
+ data-srcset="./../images/SO10/bd-10420-512px.jpg 512w,
+ ./../images/SO10/bd-10420-768px.jpg 768w,
+ ./../images/SO10/bd-10420-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And here, in addition to the usual jersey redesign, we can see that the "G.D. st JAIL" (obviously short for "goddamn shit jail") writing on Jolyne's back has also been moved and resized:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-10800-1090px.jpg"
+ data-srcset="./../images/SO10/tv-10800-512px.jpg 512w,
+ ./../images/SO10/tv-10800-768px.jpg 768w,
+ ./../images/SO10/tv-10800-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-10800-1090px.jpg"
+ data-srcset="./../images/SO10/bd-10800-512px.jpg 512w,
+ ./../images/SO10/bd-10800-768px.jpg 768w,
+ ./../images/SO10/bd-10800-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, on top of the usual jersey shenanigan, I believe Emporio's mouthflap has been ever-so-slightly retouched as well (perhaps to fit better with the voice line?):
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO10/01 - emporio + mouthflap.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO10/01 - emporio + mouthflap.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-11168-1090px.jpg"
+ data-srcset="./../images/SO10/tv-11168-512px.jpg 512w,
+ ./../images/SO10/tv-11168-768px.jpg 768w,
+ ./../images/SO10/tv-11168-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-11168-1090px.jpg"
+ data-srcset="./../images/SO10/bd-11168-512px.jpg 512w,
+ ./../images/SO10/bd-11168-768px.jpg 768w,
+ ./../images/SO10/bd-11168-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- "New Jersey is a state situated within both the Mid-Atlantic and No-":
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-11480-1090px.jpg"
+ data-srcset="./../images/SO10/tv-11480-512px.jpg 512w,
+ ./../images/SO10/tv-11480-768px.jpg 768w,
+ ./../images/SO10/tv-11480-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-11480-1090px.jpg"
+ data-srcset="./../images/SO10/bd-11480-512px.jpg 512w,
+ ./../images/SO10/bd-11480-768px.jpg 768w,
+ ./../images/SO10/bd-11480-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-11610-1090px.jpg"
+ data-srcset="./../images/SO10/tv-11610-512px.jpg 512w,
+ ./../images/SO10/tv-11610-768px.jpg 768w,
+ ./../images/SO10/tv-11610-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-11610-1090px.jpg"
+ data-srcset="./../images/SO10/bd-11610-512px.jpg 512w,
+ ./../images/SO10/bd-11610-768px.jpg 768w,
+ ./../images/SO10/bd-11610-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, on top of Emporio having traded his clothes for fresher ones, the camera has been moved down significantly, better framing the shot:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-11770-1090px.jpg"
+ data-srcset="./../images/SO10/tv-11770-512px.jpg 512w,
+ ./../images/SO10/tv-11770-768px.jpg 768w,
+ ./../images/SO10/tv-11770-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-11770-1090px.jpg"
+ data-srcset="./../images/SO10/bd-11770-512px.jpg 512w,
+ ./../images/SO10/bd-11770-768px.jpg 768w,
+ ./../images/SO10/bd-11770-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The Emporio's New Clothes:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-11930-1090px.jpg"
+ data-srcset="./../images/SO10/tv-11930-512px.jpg 512w,
+ ./../images/SO10/tv-11930-768px.jpg 768w,
+ ./../images/SO10/tv-11930-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-11930-1090px.jpg"
+ data-srcset="./../images/SO10/bd-11930-512px.jpg 512w,
+ ./../images/SO10/bd-11930-768px.jpg 768w,
+ ./../images/SO10/bd-11930-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-12050-1090px.jpg"
+ data-srcset="./../images/SO10/tv-12050-512px.jpg 512w,
+ ./../images/SO10/tv-12050-768px.jpg 768w,
+ ./../images/SO10/tv-12050-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-12050-1090px.jpg"
+ data-srcset="./../images/SO10/bd-12050-512px.jpg 512w,
+ ./../images/SO10/bd-12050-768px.jpg 768w,
+ ./../images/SO10/bd-12050-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-12190-1090px.jpg"
+ data-srcset="./../images/SO10/tv-12190-512px.jpg 512w,
+ ./../images/SO10/tv-12190-768px.jpg 768w,
+ ./../images/SO10/tv-12190-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-12190-1090px.jpg"
+ data-srcset="./../images/SO10/bd-12190-512px.jpg 512w,
+ ./../images/SO10/bd-12190-768px.jpg 768w,
+ ./../images/SO10/bd-12190-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-12380-1090px.jpg"
+ data-srcset="./../images/SO10/tv-12380-512px.jpg 512w,
+ ./../images/SO10/tv-12380-768px.jpg 768w,
+ ./../images/SO10/tv-12380-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-12380-1090px.jpg"
+ data-srcset="./../images/SO10/bd-12380-512px.jpg 512w,
+ ./../images/SO10/bd-12380-768px.jpg 768w,
+ ./../images/SO10/bd-12380-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here we have the same differences we saw earlier in the episode:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-12525-1090px.jpg"
+ data-srcset="./../images/SO10/tv-12525-512px.jpg 512w,
+ ./../images/SO10/tv-12525-768px.jpg 768w,
+ ./../images/SO10/tv-12525-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-12525-1090px.jpg"
+ data-srcset="./../images/SO10/bd-12525-512px.jpg 512w,
+ ./../images/SO10/bd-12525-768px.jpg 768w,
+ ./../images/SO10/bd-12525-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And here we go back to a pure, undiluted Emporio shot:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-12750-1090px.jpg"
+ data-srcset="./../images/SO10/tv-12750-512px.jpg 512w,
+ ./../images/SO10/tv-12750-768px.jpg 768w,
+ ./../images/SO10/tv-12750-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-12750-1090px.jpg"
+ data-srcset="./../images/SO10/bd-12750-512px.jpg 512w,
+ ./../images/SO10/bd-12750-768px.jpg 768w,
+ ./../images/SO10/bd-12750-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, on top of the usual, the camera starts further to the right (probably to hide the fact that the left border of the original shot was black):
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO10/02 - camera.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO10/02 - camera.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-12814-1090px.jpg"
+ data-srcset="./../images/SO10/tv-12814-512px.jpg 512w,
+ ./../images/SO10/tv-12814-768px.jpg 768w,
+ ./../images/SO10/tv-12814-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-12814-1090px.jpg"
+ data-srcset="./../images/SO10/bd-12814-512px.jpg 512w,
+ ./../images/SO10/bd-12814-768px.jpg 768w,
+ ./../images/SO10/bd-12814-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-13080-1090px.jpg"
+ data-srcset="./../images/SO10/tv-13080-512px.jpg 512w,
+ ./../images/SO10/tv-13080-768px.jpg 768w,
+ ./../images/SO10/tv-13080-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-13080-1090px.jpg"
+ data-srcset="./../images/SO10/bd-13080-512px.jpg 512w,
+ ./../images/SO10/bd-13080-768px.jpg 768w,
+ ./../images/SO10/bd-13080-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Once again here, on top of the usual, the back of Jolyne's uniform no longer looks like the "graphic design is my passion" frog meme:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-13100-1090px.jpg"
+ data-srcset="./../images/SO10/tv-13100-512px.jpg 512w,
+ ./../images/SO10/tv-13100-768px.jpg 768w,
+ ./../images/SO10/tv-13100-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-13100-1090px.jpg"
+ data-srcset="./../images/SO10/bd-13100-512px.jpg 512w,
+ ./../images/SO10/bd-13100-768px.jpg 768w,
+ ./../images/SO10/bd-13100-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-13125-1090px.jpg"
+ data-srcset="./../images/SO10/tv-13125-512px.jpg 512w,
+ ./../images/SO10/tv-13125-768px.jpg 768w,
+ ./../images/SO10/tv-13125-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-13125-1090px.jpg"
+ data-srcset="./../images/SO10/bd-13125-512px.jpg 512w,
+ ./../images/SO10/bd-13125-768px.jpg 768w,
+ ./../images/SO10/bd-13125-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Emporio is in the (burning) house:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-13285-1090px.jpg"
+ data-srcset="./../images/SO10/tv-13285-512px.jpg 512w,
+ ./../images/SO10/tv-13285-768px.jpg 768w,
+ ./../images/SO10/tv-13285-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-13285-1090px.jpg"
+ data-srcset="./../images/SO10/bd-13285-512px.jpg 512w,
+ ./../images/SO10/bd-13285-768px.jpg 768w,
+ ./../images/SO10/bd-13285-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-13599-1090px.jpg"
+ data-srcset="./../images/SO10/tv-13599-512px.jpg 512w,
+ ./../images/SO10/tv-13599-768px.jpg 768w,
+ ./../images/SO10/tv-13599-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-13599-1090px.jpg"
+ data-srcset="./../images/SO10/bd-13599-512px.jpg 512w,
+ ./../images/SO10/bd-13599-768px.jpg 768w,
+ ./../images/SO10/bd-13599-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-13800-1090px.jpg"
+ data-srcset="./../images/SO10/tv-13800-512px.jpg 512w,
+ ./../images/SO10/tv-13800-768px.jpg 768w,
+ ./../images/SO10/tv-13800-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-13800-1090px.jpg"
+ data-srcset="./../images/SO10/bd-13800-512px.jpg 512w,
+ ./../images/SO10/bd-13800-768px.jpg 768w,
+ ./../images/SO10/bd-13800-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-13900-1090px.jpg"
+ data-srcset="./../images/SO10/tv-13900-512px.jpg 512w,
+ ./../images/SO10/tv-13900-768px.jpg 768w,
+ ./../images/SO10/tv-13900-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-13900-1090px.jpg"
+ data-srcset="./../images/SO10/bd-13900-512px.jpg 512w,
+ ./../images/SO10/bd-13900-768px.jpg 768w,
+ ./../images/SO10/bd-13900-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-14155-1090px.jpg"
+ data-srcset="./../images/SO10/tv-14155-512px.jpg 512w,
+ ./../images/SO10/tv-14155-768px.jpg 768w,
+ ./../images/SO10/tv-14155-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-14155-1090px.jpg"
+ data-srcset="./../images/SO10/bd-14155-512px.jpg 512w,
+ ./../images/SO10/bd-14155-768px.jpg 768w,
+ ./../images/SO10/bd-14155-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-14234-1090px.jpg"
+ data-srcset="./../images/SO10/tv-14234-512px.jpg 512w,
+ ./../images/SO10/tv-14234-768px.jpg 768w,
+ ./../images/SO10/tv-14234-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-14234-1090px.jpg"
+ data-srcset="./../images/SO10/bd-14234-512px.jpg 512w,
+ ./../images/SO10/bd-14234-768px.jpg 768w,
+ ./../images/SO10/bd-14234-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-14285-1090px.jpg"
+ data-srcset="./../images/SO10/tv-14285-512px.jpg 512w,
+ ./../images/SO10/tv-14285-768px.jpg 768w,
+ ./../images/SO10/tv-14285-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-14285-1090px.jpg"
+ data-srcset="./../images/SO10/bd-14285-512px.jpg 512w,
+ ./../images/SO10/bd-14285-768px.jpg 768w,
+ ./../images/SO10/bd-14285-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-14300-1090px.jpg"
+ data-srcset="./../images/SO10/tv-14300-512px.jpg 512w,
+ ./../images/SO10/tv-14300-768px.jpg 768w,
+ ./../images/SO10/tv-14300-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-14300-1090px.jpg"
+ data-srcset="./../images/SO10/bd-14300-512px.jpg 512w,
+ ./../images/SO10/bd-14300-768px.jpg 768w,
+ ./../images/SO10/bd-14300-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, on top of our usual traumatized baseball boy, the shading on both him and Weather Report has been subtly tweaked (as far as I can tell, the shading was already present in the **TV version**, but it has **not** been back-ported to Netflix this time. Weird!):
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-14323-1090px.jpg"
+ data-srcset="./../images/SO10/tv-14323-512px.jpg 512w,
+ ./../images/SO10/tv-14323-768px.jpg 768w,
+ ./../images/SO10/tv-14323-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-14323-1090px.jpg"
+ data-srcset="./../images/SO10/bd-14323-512px.jpg 512w,
+ ./../images/SO10/bd-14323-768px.jpg 768w,
+ ./../images/SO10/bd-14323-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-14415-1090px.jpg"
+ data-srcset="./../images/SO10/tv-14415-512px.jpg 512w,
+ ./../images/SO10/tv-14415-768px.jpg 768w,
+ ./../images/SO10/tv-14415-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-14415-1090px.jpg"
+ data-srcset="./../images/SO10/bd-14415-512px.jpg 512w,
+ ./../images/SO10/bd-14415-768px.jpg 768w,
+ ./../images/SO10/bd-14415-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- "Excuse me, would you be interested in buying an intangible ghost gun":
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-14770-1090px.jpg"
+ data-srcset="./../images/SO10/tv-14770-512px.jpg 512w,
+ ./../images/SO10/tv-14770-768px.jpg 768w,
+ ./../images/SO10/tv-14770-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-14770-1090px.jpg"
+ data-srcset="./../images/SO10/bd-14770-512px.jpg 512w,
+ ./../images/SO10/bd-14770-768px.jpg 768w,
+ ./../images/SO10/bd-14770-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-14905-1090px.jpg"
+ data-srcset="./../images/SO10/tv-14905-512px.jpg 512w,
+ ./../images/SO10/tv-14905-768px.jpg 768w,
+ ./../images/SO10/tv-14905-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-14905-1090px.jpg"
+ data-srcset="./../images/SO10/bd-14905-512px.jpg 512w,
+ ./../images/SO10/bd-14905-768px.jpg 768w,
+ ./../images/SO10/bd-14905-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- In this only slightly cursed shot, the shading on both Jolyne and Weather Report is a little different, and the outlines on both are thicker:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-14909-1090px.jpg"
+ data-srcset="./../images/SO10/tv-14909-512px.jpg 512w,
+ ./../images/SO10/tv-14909-768px.jpg 768w,
+ ./../images/SO10/tv-14909-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-14909-1090px.jpg"
+ data-srcset="./../images/SO10/bd-14909-512px.jpg 512w,
+ ./../images/SO10/bd-14909-768px.jpg 768w,
+ ./../images/SO10/bd-14909-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-14990-1090px.jpg"
+ data-srcset="./../images/SO10/tv-14990-512px.jpg 512w,
+ ./../images/SO10/tv-14990-768px.jpg 768w,
+ ./../images/SO10/tv-14990-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-14990-1090px.jpg"
+ data-srcset="./../images/SO10/bd-14990-512px.jpg 512w,
+ ./../images/SO10/bd-14990-768px.jpg 768w,
+ ./../images/SO10/bd-14990-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- On what is probably the shot of one of the strangest duo poses in Jojo, Emporio's jersey has as usual been redesigned, and the scene is now more distorted around the edges:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-15060-1090px.jpg"
+ data-srcset="./../images/SO10/tv-15060-512px.jpg 512w,
+ ./../images/SO10/tv-15060-768px.jpg 768w,
+ ./../images/SO10/tv-15060-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-15060-1090px.jpg"
+ data-srcset="./../images/SO10/bd-15060-512px.jpg 512w,
+ ./../images/SO10/bd-15060-768px.jpg 768w,
+ ./../images/SO10/bd-15060-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-15130-1090px.jpg"
+ data-srcset="./../images/SO10/tv-15130-512px.jpg 512w,
+ ./../images/SO10/tv-15130-768px.jpg 768w,
+ ./../images/SO10/tv-15130-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-15130-1090px.jpg"
+ data-srcset="./../images/SO10/bd-15130-512px.jpg 512w,
+ ./../images/SO10/bd-15130-768px.jpg 768w,
+ ./../images/SO10/bd-15130-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-15265-1090px.jpg"
+ data-srcset="./../images/SO10/tv-15265-512px.jpg 512w,
+ ./../images/SO10/tv-15265-768px.jpg 768w,
+ ./../images/SO10/tv-15265-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-15265-1090px.jpg"
+ data-srcset="./../images/SO10/bd-15265-512px.jpg 512w,
+ ./../images/SO10/bd-15265-768px.jpg 768w,
+ ./../images/SO10/bd-15265-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-15452-1090px.jpg"
+ data-srcset="./../images/SO10/tv-15452-512px.jpg 512w,
+ ./../images/SO10/tv-15452-768px.jpg 768w,
+ ./../images/SO10/tv-15452-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-15452-1090px.jpg"
+ data-srcset="./../images/SO10/bd-15452-512px.jpg 512w,
+ ./../images/SO10/bd-15452-768px.jpg 768w,
+ ./../images/SO10/bd-15452-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- NO BRITCHES?:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-15805-1090px.jpg"
+ data-srcset="./../images/SO10/tv-15805-512px.jpg 512w,
+ ./../images/SO10/tv-15805-768px.jpg 768w,
+ ./../images/SO10/tv-15805-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-15805-1090px.jpg"
+ data-srcset="./../images/SO10/bd-15805-512px.jpg 512w,
+ ./../images/SO10/bd-15805-768px.jpg 768w,
+ ./../images/SO10/bd-15805-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, on top of a significantly more dramatic distortion around the edges, Weather and Emporio both have tweaked shadings (and oh yeah, the jersey too, of course):
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-15815-1090px.jpg"
+ data-srcset="./../images/SO10/tv-15815-512px.jpg 512w,
+ ./../images/SO10/tv-15815-768px.jpg 768w,
+ ./../images/SO10/tv-15815-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-15815-1090px.jpg"
+ data-srcset="./../images/SO10/bd-15815-512px.jpg 512w,
+ ./../images/SO10/bd-15815-768px.jpg 768w,
+ ./../images/SO10/bd-15815-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-15890-1090px.jpg"
+ data-srcset="./../images/SO10/tv-15890-512px.jpg 512w,
+ ./../images/SO10/tv-15890-768px.jpg 768w,
+ ./../images/SO10/tv-15890-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-15890-1090px.jpg"
+ data-srcset="./../images/SO10/bd-15890-512px.jpg 512w,
+ ./../images/SO10/bd-15890-768px.jpg 768w,
+ ./../images/SO10/bd-15890-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- The shading on Emporio and his fresh new garments is different here:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-15892-1090px.jpg"
+ data-srcset="./../images/SO10/tv-15892-512px.jpg 512w,
+ ./../images/SO10/tv-15892-768px.jpg 768w,
+ ./../images/SO10/tv-15892-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-15892-1090px.jpg"
+ data-srcset="./../images/SO10/bd-15892-512px.jpg 512w,
+ ./../images/SO10/bd-15892-768px.jpg 768w,
+ ./../images/SO10/bd-15892-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-16025-1090px.jpg"
+ data-srcset="./../images/SO10/tv-16025-512px.jpg 512w,
+ ./../images/SO10/tv-16025-768px.jpg 768w,
+ ./../images/SO10/tv-16025-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-16025-1090px.jpg"
+ data-srcset="./../images/SO10/bd-16025-512px.jpg 512w,
+ ./../images/SO10/bd-16025-768px.jpg 768w,
+ ./../images/SO10/bd-16025-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-16105-1090px.jpg"
+ data-srcset="./../images/SO10/tv-16105-512px.jpg 512w,
+ ./../images/SO10/tv-16105-768px.jpg 768w,
+ ./../images/SO10/tv-16105-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-16105-1090px.jpg"
+ data-srcset="./../images/SO10/bd-16105-512px.jpg 512w,
+ ./../images/SO10/bd-16105-768px.jpg 768w,
+ ./../images/SO10/bd-16105-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, on top of Emporio and his new attire, Weather Report's mouthflap has been tweaked slightly:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO10/03 - mouthflap.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO10/03 - mouthflap.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-17112-1090px.jpg"
+ data-srcset="./../images/SO10/tv-17112-512px.jpg 512w,
+ ./../images/SO10/tv-17112-768px.jpg 768w,
+ ./../images/SO10/tv-17112-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-17112-1090px.jpg"
+ data-srcset="./../images/SO10/bd-17112-512px.jpg 512w,
+ ./../images/SO10/bd-17112-768px.jpg 768w,
+ ./../images/SO10/bd-17112-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Jersey Shore? More like "Jersey? Sure!":
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-18019-1090px.jpg"
+ data-srcset="./../images/SO10/tv-18019-512px.jpg 512w,
+ ./../images/SO10/tv-18019-768px.jpg 768w,
+ ./../images/SO10/tv-18019-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-18019-1090px.jpg"
+ data-srcset="./../images/SO10/bd-18019-512px.jpg 512w,
+ ./../images/SO10/bd-18019-768px.jpg 768w,
+ ./../images/SO10/bd-18019-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-18375-1090px.jpg"
+ data-srcset="./../images/SO10/tv-18375-512px.jpg 512w,
+ ./../images/SO10/tv-18375-768px.jpg 768w,
+ ./../images/SO10/tv-18375-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-18375-1090px.jpg"
+ data-srcset="./../images/SO10/bd-18375-512px.jpg 512w,
+ ./../images/SO10/bd-18375-768px.jpg 768w,
+ ./../images/SO10/bd-18375-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-18460-1090px.jpg"
+ data-srcset="./../images/SO10/tv-18460-512px.jpg 512w,
+ ./../images/SO10/tv-18460-768px.jpg 768w,
+ ./../images/SO10/tv-18460-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-18460-1090px.jpg"
+ data-srcset="./../images/SO10/bd-18460-512px.jpg 512w,
+ ./../images/SO10/bd-18460-768px.jpg 768w,
+ ./../images/SO10/bd-18460-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, on top of our little baseball infant's attire, basically everything except the foreground section of the staircase is darker:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-18472-1090px.jpg"
+ data-srcset="./../images/SO10/tv-18472-512px.jpg 512w,
+ ./../images/SO10/tv-18472-768px.jpg 768w,
+ ./../images/SO10/tv-18472-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-18472-1090px.jpg"
+ data-srcset="./../images/SO10/bd-18472-512px.jpg 512w,
+ ./../images/SO10/bd-18472-768px.jpg 768w,
+ ./../images/SO10/bd-18472-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-18490-1090px.jpg"
+ data-srcset="./../images/SO10/tv-18490-512px.jpg 512w,
+ ./../images/SO10/tv-18490-768px.jpg 768w,
+ ./../images/SO10/tv-18490-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-18490-1090px.jpg"
+ data-srcset="./../images/SO10/bd-18490-512px.jpg 512w,
+ ./../images/SO10/bd-18490-768px.jpg 768w,
+ ./../images/SO10/bd-18490-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And here, on top of Emporio's new threads, Weather has now been drawn bigger during his turn...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-18580-1090px.jpg"
+ data-srcset="./../images/SO10/tv-18580-512px.jpg 512w,
+ ./../images/SO10/tv-18580-768px.jpg 768w,
+ ./../images/SO10/tv-18580-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-18580-1090px.jpg"
+ data-srcset="./../images/SO10/bd-18580-512px.jpg 512w,
+ ./../images/SO10/bd-18580-768px.jpg 768w,
+ ./../images/SO10/bd-18580-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- ...and, in the last two frames of this shot, Jolyne's elbow has been correctly layered:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-18588-1090px.jpg"
+ data-srcset="./../images/SO10/tv-18588-512px.jpg 512w,
+ ./../images/SO10/tv-18588-768px.jpg 768w,
+ ./../images/SO10/tv-18588-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-18588-1090px.jpg"
+ data-srcset="./../images/SO10/bd-18588-512px.jpg 512w,
+ ./../images/SO10/bd-18588-768px.jpg 768w,
+ ./../images/SO10/bd-18588-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Let's take a look at the whole animation, just for kicks:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO10/04 - emporio + run + elbow.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO10/04 - emporio + run + elbow.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+- New finery for the best boy:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-18600-1090px.jpg"
+ data-srcset="./../images/SO10/tv-18600-512px.jpg 512w,
+ ./../images/SO10/tv-18600-768px.jpg 768w,
+ ./../images/SO10/tv-18600-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-18600-1090px.jpg"
+ data-srcset="./../images/SO10/bd-18600-512px.jpg 512w,
+ ./../images/SO10/bd-18600-768px.jpg 768w,
+ ./../images/SO10/bd-18600-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-18835-1090px.jpg"
+ data-srcset="./../images/SO10/tv-18835-512px.jpg 512w,
+ ./../images/SO10/tv-18835-768px.jpg 768w,
+ ./../images/SO10/tv-18835-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-18835-1090px.jpg"
+ data-srcset="./../images/SO10/bd-18835-512px.jpg 512w,
+ ./../images/SO10/bd-18835-768px.jpg 768w,
+ ./../images/SO10/bd-18835-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-18840-1090px.jpg"
+ data-srcset="./../images/SO10/tv-18840-512px.jpg 512w,
+ ./../images/SO10/tv-18840-768px.jpg 768w,
+ ./../images/SO10/tv-18840-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-18840-1090px.jpg"
+ data-srcset="./../images/SO10/bd-18840-512px.jpg 512w,
+ ./../images/SO10/bd-18840-768px.jpg 768w,
+ ./../images/SO10/bd-18840-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-18845-1090px.jpg"
+ data-srcset="./../images/SO10/tv-18845-512px.jpg 512w,
+ ./../images/SO10/tv-18845-768px.jpg 768w,
+ ./../images/SO10/tv-18845-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-18845-1090px.jpg"
+ data-srcset="./../images/SO10/bd-18845-512px.jpg 512w,
+ ./../images/SO10/bd-18845-768px.jpg 768w,
+ ./../images/SO10/bd-18845-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-18850-1090px.jpg"
+ data-srcset="./../images/SO10/tv-18850-512px.jpg 512w,
+ ./../images/SO10/tv-18850-768px.jpg 768w,
+ ./../images/SO10/tv-18850-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-18850-1090px.jpg"
+ data-srcset="./../images/SO10/bd-18850-512px.jpg 512w,
+ ./../images/SO10/bd-18850-768px.jpg 768w,
+ ./../images/SO10/bd-18850-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-18865-1090px.jpg"
+ data-srcset="./../images/SO10/tv-18865-512px.jpg 512w,
+ ./../images/SO10/tv-18865-768px.jpg 768w,
+ ./../images/SO10/tv-18865-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-18865-1090px.jpg"
+ data-srcset="./../images/SO10/bd-18865-512px.jpg 512w,
+ ./../images/SO10/bd-18865-768px.jpg 768w,
+ ./../images/SO10/bd-18865-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-18890-1090px.jpg"
+ data-srcset="./../images/SO10/tv-18890-512px.jpg 512w,
+ ./../images/SO10/tv-18890-768px.jpg 768w,
+ ./../images/SO10/tv-18890-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-18890-1090px.jpg"
+ data-srcset="./../images/SO10/bd-18890-512px.jpg 512w,
+ ./../images/SO10/bd-18890-768px.jpg 768w,
+ ./../images/SO10/bd-18890-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-18894-1090px.jpg"
+ data-srcset="./../images/SO10/tv-18894-512px.jpg 512w,
+ ./../images/SO10/tv-18894-768px.jpg 768w,
+ ./../images/SO10/tv-18894-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-18894-1090px.jpg"
+ data-srcset="./../images/SO10/bd-18894-512px.jpg 512w,
+ ./../images/SO10/bd-18894-768px.jpg 768w,
+ ./../images/SO10/bd-18894-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-18900-1090px.jpg"
+ data-srcset="./../images/SO10/tv-18900-512px.jpg 512w,
+ ./../images/SO10/tv-18900-768px.jpg 768w,
+ ./../images/SO10/tv-18900-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-18900-1090px.jpg"
+ data-srcset="./../images/SO10/bd-18900-512px.jpg 512w,
+ ./../images/SO10/bd-18900-768px.jpg 768w,
+ ./../images/SO10/bd-18900-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-19580-1090px.jpg"
+ data-srcset="./../images/SO10/tv-19580-512px.jpg 512w,
+ ./../images/SO10/tv-19580-768px.jpg 768w,
+ ./../images/SO10/tv-19580-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-19580-1090px.jpg"
+ data-srcset="./../images/SO10/bd-19580-512px.jpg 512w,
+ ./../images/SO10/bd-19580-768px.jpg 768w,
+ ./../images/SO10/bd-19580-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-19797-1090px.jpg"
+ data-srcset="./../images/SO10/tv-19797-512px.jpg 512w,
+ ./../images/SO10/tv-19797-768px.jpg 768w,
+ ./../images/SO10/tv-19797-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-19797-1090px.jpg"
+ data-srcset="./../images/SO10/bd-19797-512px.jpg 512w,
+ ./../images/SO10/bd-19797-768px.jpg 768w,
+ ./../images/SO10/bd-19797-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-19885-1090px.jpg"
+ data-srcset="./../images/SO10/tv-19885-512px.jpg 512w,
+ ./../images/SO10/tv-19885-768px.jpg 768w,
+ ./../images/SO10/tv-19885-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-19885-1090px.jpg"
+ data-srcset="./../images/SO10/bd-19885-512px.jpg 512w,
+ ./../images/SO10/bd-19885-768px.jpg 768w,
+ ./../images/SO10/bd-19885-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And here, on top of the usual, the general shading of this shot is also slightly different and slightly less... blue:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-19887-1090px.jpg"
+ data-srcset="./../images/SO10/tv-19887-512px.jpg 512w,
+ ./../images/SO10/tv-19887-768px.jpg 768w,
+ ./../images/SO10/tv-19887-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-19887-1090px.jpg"
+ data-srcset="./../images/SO10/bd-19887-512px.jpg 512w,
+ ./../images/SO10/bd-19887-768px.jpg 768w,
+ ./../images/SO10/bd-19887-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-20055-1090px.jpg"
+ data-srcset="./../images/SO10/tv-20055-512px.jpg 512w,
+ ./../images/SO10/tv-20055-768px.jpg 768w,
+ ./../images/SO10/tv-20055-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-20055-1090px.jpg"
+ data-srcset="./../images/SO10/bd-20055-512px.jpg 512w,
+ ./../images/SO10/bd-20055-768px.jpg 768w,
+ ./../images/SO10/bd-20055-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And here, Weather is significantly darker:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-20130-1090px.jpg"
+ data-srcset="./../images/SO10/tv-20130-512px.jpg 512w,
+ ./../images/SO10/tv-20130-768px.jpg 768w,
+ ./../images/SO10/tv-20130-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-20130-1090px.jpg"
+ data-srcset="./../images/SO10/bd-20130-512px.jpg 512w,
+ ./../images/SO10/bd-20130-768px.jpg 768w,
+ ./../images/SO10/bd-20130-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here you have a couple of rather cursed Emporio shots:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-20415-1090px.jpg"
+ data-srcset="./../images/SO10/tv-20415-512px.jpg 512w,
+ ./../images/SO10/tv-20415-768px.jpg 768w,
+ ./../images/SO10/tv-20415-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-20415-1090px.jpg"
+ data-srcset="./../images/SO10/bd-20415-512px.jpg 512w,
+ ./../images/SO10/bd-20415-768px.jpg 768w,
+ ./../images/SO10/bd-20415-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-20510-1090px.jpg"
+ data-srcset="./../images/SO10/tv-20510-512px.jpg 512w,
+ ./../images/SO10/tv-20510-768px.jpg 768w,
+ ./../images/SO10/tv-20510-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-20510-1090px.jpg"
+ data-srcset="./../images/SO10/bd-20510-512px.jpg 512w,
+ ./../images/SO10/bd-20510-768px.jpg 768w,
+ ./../images/SO10/bd-20510-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-20755-1090px.jpg"
+ data-srcset="./../images/SO10/tv-20755-512px.jpg 512w,
+ ./../images/SO10/tv-20755-768px.jpg 768w,
+ ./../images/SO10/tv-20755-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-20755-1090px.jpg"
+ data-srcset="./../images/SO10/bd-20755-512px.jpg 512w,
+ ./../images/SO10/bd-20755-768px.jpg 768w,
+ ./../images/SO10/bd-20755-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Here, in addition to the dude's new duds, there was a line appearing on Jolyne's cheek in the latter part of the shot, when her mouth was closed - this has been removed. This tiny difference is BD exclusive! It's not present in the TV version, nor has it been back-ported to the Netflix version in the time since. It's not super easy to spot, but take a look:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO10/05 - emporio + line.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO10/05 - emporio + line.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-21370-1090px.jpg"
+ data-srcset="./../images/SO10/tv-21370-512px.jpg 512w,
+ ./../images/SO10/tv-21370-768px.jpg 768w,
+ ./../images/SO10/tv-21370-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-21370-1090px.jpg"
+ data-srcset="./../images/SO10/bd-21370-512px.jpg 512w,
+ ./../images/SO10/bd-21370-768px.jpg 768w,
+ ./../images/SO10/bd-21370-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- One last stray Emporio hat, for the road...:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-21410-1090px.jpg"
+ data-srcset="./../images/SO10/tv-21410-512px.jpg 512w,
+ ./../images/SO10/tv-21410-768px.jpg 768w,
+ ./../images/SO10/tv-21410-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-21410-1090px.jpg"
+ data-srcset="./../images/SO10/bd-21410-512px.jpg 512w,
+ ./../images/SO10/bd-21410-768px.jpg 768w,
+ ./../images/SO10/bd-21410-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And here, (kinda) similarly to the penultimate difference, on top of Emporio's new kit, the line at the bottom of the row of lines on Jolyne's face used to disappear every time she closed her mouth - that no longer happens. It also might be difficult to spot, but take a look (as the previous similar difference, this one is also **BD-exclusive**):
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO10/06 - emporio + line.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO10/06 - emporio + line.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-21638-1090px.jpg"
+ data-srcset="./../images/SO10/tv-21638-512px.jpg 512w,
+ ./../images/SO10/tv-21638-768px.jpg 768w,
+ ./../images/SO10/tv-21638-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-21638-1090px.jpg"
+ data-srcset="./../images/SO10/bd-21638-512px.jpg 512w,
+ ./../images/SO10/bd-21638-768px.jpg 768w,
+ ./../images/SO10/bd-21638-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Although, as the most eagle-eyed ones among you have noticed, that doesn't apply anymore after a little bit - in the last 30 frames of the previous shot, the line disappears anyway. Ah well:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-21651-1090px.jpg"
+ data-srcset="./../images/SO10/tv-21651-512px.jpg 512w,
+ ./../images/SO10/tv-21651-768px.jpg 768w,
+ ./../images/SO10/tv-21651-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-21651-1090px.jpg"
+ data-srcset="./../images/SO10/bd-21651-512px.jpg 512w,
+ ./../images/SO10/bd-21651-768px.jpg 768w,
+ ./../images/SO10/bd-21651-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And of course, how best to end this gargantuan episode than with a last look at this guy's great get-up? Here it is, one last time:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/tv-21760-1090px.jpg"
+ data-srcset="./../images/SO10/tv-21760-512px.jpg 512w,
+ ./../images/SO10/tv-21760-768px.jpg 768w,
+ ./../images/SO10/tv-21760-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO10/bd-21760-1090px.jpg"
+ data-srcset="./../images/SO10/bd-21760-512px.jpg 512w,
+ ./../images/SO10/bd-21760-768px.jpg 768w,
+ ./../images/SO10/bd-21760-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And this small difference marathon concludes Stone Ocean's longest post so far! It was fun to go back to a more substantial episode - and although, for sure - the actual, proper, significant changes were a scant few, it still felt like we were back in the golden era of Jojo comparisons. A pleasant throwback indeed! Well, be that as it may, who can say - maybe the future will hold more succulent differences for us to examine! And if not here in Stone Ocean, perhaps in a future hypothetical Steel Ball Run adaptation... But enough with the daydreaming - that's all from me for today! I hope y'all enjoyed this smörgåsbord of little changes, and see you next time with Episode #11, "Operation Savage Garden (Head for the Courtyard!) - Part 2", which will be out... when it'll be out!
+
+<br>
+
+See ya!
+
+<br>
+
+{% img center /images/tobecontinued.png %}

@@ -2854,7 +2854,7 @@ Let's begin!
 
 <br>
 
-- And here, the rocks in the background haave been moved and resized, Doppio's face has been retouched and the razor blades on the ground have been completely redrawn:
+- And here, the rocks in the background have been moved and resized, Doppio's face has been retouched and the razor blades on the ground have been completely redrawn:
 
 <div id="container1" class="twentytwenty-container">
  <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
