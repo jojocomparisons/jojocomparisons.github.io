@@ -1,0 +1,424 @@
+---
+layout: post
+title: "Stone Ocean #11 - Operation Savage Garden (Head for the Courtyard!) - Part 2"
+date: 2023-08-20 10:13:35 +0100
+comments: true
+categories: so
+---
+
+{% img center /images/SO11/11header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello friends, and welcome back to this unfortunately uneventful blog for another unfortunately uneventful couple of comparisons! As you can imagine, it's quite hard finding the motivation to keep working on comparisons that barely have any differences (especially when you have precious little free time), but I'll keep doing the best I can. I still intend to take a look at all of them, so let's cut to che chase and get to the few things we have on the plate for today. It's time to analyze episode #11 of Stone Ocean, "Operation Savage Garden (Head for the Courtyard!) - Part 2"!
+
+<br>
+
+Hit it!
+
+<br>
+
+- Unfortunately all we have for this episode are a bunch of brighter and sharper punch rushes - not much to say about these, so just take a look:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO11/01 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO11/01 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-17060-1090px.jpg"
+ data-srcset="./../images/SO11/tv-17060-512px.jpg 512w,
+ ./../images/SO11/tv-17060-768px.jpg 768w,
+ ./../images/SO11/tv-17060-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-17060-1090px.jpg"
+ data-srcset="./../images/SO11/bd-17060-512px.jpg 512w,
+ ./../images/SO11/bd-17060-768px.jpg 768w,
+ ./../images/SO11/bd-17060-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-17077-1090px.jpg"
+ data-srcset="./../images/SO11/tv-17077-512px.jpg 512w,
+ ./../images/SO11/tv-17077-768px.jpg 768w,
+ ./../images/SO11/tv-17077-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-17077-1090px.jpg"
+ data-srcset="./../images/SO11/bd-17077-512px.jpg 512w,
+ ./../images/SO11/bd-17077-768px.jpg 768w,
+ ./../images/SO11/bd-17077-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO11/02 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO11/02 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-20540-1090px.jpg"
+ data-srcset="./../images/SO11/tv-20540-512px.jpg 512w,
+ ./../images/SO11/tv-20540-768px.jpg 768w,
+ ./../images/SO11/tv-20540-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-20540-1090px.jpg"
+ data-srcset="./../images/SO11/bd-20540-512px.jpg 512w,
+ ./../images/SO11/bd-20540-768px.jpg 768w,
+ ./../images/SO11/bd-20540-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-20553-1090px.jpg"
+ data-srcset="./../images/SO11/tv-20553-512px.jpg 512w,
+ ./../images/SO11/tv-20553-768px.jpg 768w,
+ ./../images/SO11/tv-20553-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-20553-1090px.jpg"
+ data-srcset="./../images/SO11/bd-20553-512px.jpg 512w,
+ ./../images/SO11/bd-20553-768px.jpg 768w,
+ ./../images/SO11/bd-20553-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-20572-1090px.jpg"
+ data-srcset="./../images/SO11/tv-20572-512px.jpg 512w,
+ ./../images/SO11/tv-20572-768px.jpg 768w,
+ ./../images/SO11/tv-20572-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-20572-1090px.jpg"
+ data-srcset="./../images/SO11/bd-20572-512px.jpg 512w,
+ ./../images/SO11/bd-20572-768px.jpg 768w,
+ ./../images/SO11/bd-20572-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br> 
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO11/03 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO11/03 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-20580-1090px.jpg"
+ data-srcset="./../images/SO11/tv-20580-512px.jpg 512w,
+ ./../images/SO11/tv-20580-768px.jpg 768w,
+ ./../images/SO11/tv-20580-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-20580-1090px.jpg"
+ data-srcset="./../images/SO11/bd-20580-512px.jpg 512w,
+ ./../images/SO11/bd-20580-768px.jpg 768w,
+ ./../images/SO11/bd-20580-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-20615-1090px.jpg"
+ data-srcset="./../images/SO11/tv-20615-512px.jpg 512w,
+ ./../images/SO11/tv-20615-768px.jpg 768w,
+ ./../images/SO11/tv-20615-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-20615-1090px.jpg"
+ data-srcset="./../images/SO11/bd-20615-512px.jpg 512w,
+ ./../images/SO11/bd-20615-768px.jpg 768w,
+ ./../images/SO11/bd-20615-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-20690-1090px.jpg"
+ data-srcset="./../images/SO11/tv-20690-512px.jpg 512w,
+ ./../images/SO11/tv-20690-768px.jpg 768w,
+ ./../images/SO11/tv-20690-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-20690-1090px.jpg"
+ data-srcset="./../images/SO11/bd-20690-512px.jpg 512w,
+ ./../images/SO11/bd-20690-768px.jpg 768w,
+ ./../images/SO11/bd-20690-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-20720-1090px.jpg"
+ data-srcset="./../images/SO11/tv-20720-512px.jpg 512w,
+ ./../images/SO11/tv-20720-768px.jpg 768w,
+ ./../images/SO11/tv-20720-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-20720-1090px.jpg"
+ data-srcset="./../images/SO11/bd-20720-512px.jpg 512w,
+ ./../images/SO11/bd-20720-768px.jpg 768w,
+ ./../images/SO11/bd-20720-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO11/04 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO11/04 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-25235-1090px.jpg"
+ data-srcset="./../images/SO11/tv-25235-512px.jpg 512w,
+ ./../images/SO11/tv-25235-768px.jpg 768w,
+ ./../images/SO11/tv-25235-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-25235-1090px.jpg"
+ data-srcset="./../images/SO11/bd-25235-512px.jpg 512w,
+ ./../images/SO11/bd-25235-768px.jpg 768w,
+ ./../images/SO11/bd-25235-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-25263-1090px.jpg"
+ data-srcset="./../images/SO11/tv-25263-512px.jpg 512w,
+ ./../images/SO11/tv-25263-768px.jpg 768w,
+ ./../images/SO11/tv-25263-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-25263-1090px.jpg"
+ data-srcset="./../images/SO11/bd-25263-512px.jpg 512w,
+ ./../images/SO11/bd-25263-768px.jpg 768w,
+ ./../images/SO11/bd-25263-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And let's cut the monotony with a... punch rush that's just brighter:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO11/05 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO11/05 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-27460-1090px.jpg"
+ data-srcset="./../images/SO11/tv-27460-512px.jpg 512w,
+ ./../images/SO11/tv-27460-768px.jpg 768w,
+ ./../images/SO11/tv-27460-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-27460-1090px.jpg"
+ data-srcset="./../images/SO11/bd-27460-512px.jpg 512w,
+ ./../images/SO11/bd-27460-768px.jpg 768w,
+ ./../images/SO11/bd-27460-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-27524-1090px.jpg"
+ data-srcset="./../images/SO11/tv-27524-512px.jpg 512w,
+ ./../images/SO11/tv-27524-768px.jpg 768w,
+ ./../images/SO11/tv-27524-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-27524-1090px.jpg"
+ data-srcset="./../images/SO11/bd-27524-512px.jpg 512w,
+ ./../images/SO11/bd-27524-768px.jpg 768w,
+ ./../images/SO11/bd-27524-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And how else could we conclude this comparison if not with another... brighter and sharper punch rush? You know it! These frames actually go super hard, I love the expressions on Stone Free's face:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO11/06 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO11/06 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-27540-1090px.jpg"
+ data-srcset="./../images/SO11/tv-27540-512px.jpg 512w,
+ ./../images/SO11/tv-27540-768px.jpg 768w,
+ ./../images/SO11/tv-27540-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-27540-1090px.jpg"
+ data-srcset="./../images/SO11/bd-27540-512px.jpg 512w,
+ ./../images/SO11/bd-27540-768px.jpg 768w,
+ ./../images/SO11/bd-27540-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-27564-1090px.jpg"
+ data-srcset="./../images/SO11/tv-27564-512px.jpg 512w,
+ ./../images/SO11/tv-27564-768px.jpg 768w,
+ ./../images/SO11/tv-27564-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-27564-1090px.jpg"
+ data-srcset="./../images/SO11/bd-27564-512px.jpg 512w,
+ ./../images/SO11/bd-27564-768px.jpg 768w,
+ ./../images/SO11/bd-27564-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-27625-1090px.jpg"
+ data-srcset="./../images/SO11/tv-27625-512px.jpg 512w,
+ ./../images/SO11/tv-27625-768px.jpg 768w,
+ ./../images/SO11/tv-27625-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-27625-1090px.jpg"
+ data-srcset="./../images/SO11/bd-27625-512px.jpg 512w,
+ ./../images/SO11/bd-27625-768px.jpg 768w,
+ ./../images/SO11/bd-27625-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/tv-27627-1090px.jpg"
+ data-srcset="./../images/SO11/tv-27627-512px.jpg 512w,
+ ./../images/SO11/tv-27627-768px.jpg 768w,
+ ./../images/SO11/tv-27627-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO11/bd-27627-1090px.jpg"
+ data-srcset="./../images/SO11/bd-27627-512px.jpg 512w,
+ ./../images/SO11/bd-27627-768px.jpg 768w,
+ ./../images/SO11/bd-27627-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And that concludes our look at the differences in episode #11 of Stone Ocean! Not much, alas - but I've also prepared the comparison for episode #12, "Torrential Downpour Warning" - it's even shorter than this one, but hey, what can ya do!
+
+<br>
+
+See you there!
+
+<br>
+
+{% img center /images/tobecontinued.png %}

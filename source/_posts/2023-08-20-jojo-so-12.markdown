@@ -1,0 +1,166 @@
+---
+layout: post
+title: "Stone Ocean #12 - Torrential Downpour Warning"
+date: 2023-08-20 10:32:05 +0100
+comments: true
+categories: so
+---
+
+{% img center /images/SO12/12header.jpg %}
+<!-- more -->
+
+<br>
+<br>
+
+Hello, good (and patient) people! It seems like we've spoken just moments ago - and yet here we hare, primed and poised to take a very quick look at the differences in Stone Ocean #12, "Torrential Downpour Warning"!
+
+<br>
+
+Let's cut to the chase!
+
+<br>
+
+- How could we have a Stone Ocean comparison without a brighter and sharper punch rush? Here you have it:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO12/01 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO12/01 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO12/tv-16351-1090px.jpg"
+ data-srcset="./../images/SO12/tv-16351-512px.jpg 512w,
+ ./../images/SO12/tv-16351-768px.jpg 768w,
+ ./../images/SO12/tv-16351-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO12/bd-16351-1090px.jpg"
+ data-srcset="./../images/SO12/bd-16351-512px.jpg 512w,
+ ./../images/SO12/bd-16351-768px.jpg 768w,
+ ./../images/SO12/bd-16351-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO12/tv-16355-1090px.jpg"
+ data-srcset="./../images/SO12/tv-16355-512px.jpg 512w,
+ ./../images/SO12/tv-16355-768px.jpg 768w,
+ ./../images/SO12/tv-16355-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO12/bd-16355-1090px.jpg"
+ data-srcset="./../images/SO12/bd-16355-512px.jpg 512w,
+ ./../images/SO12/bd-16355-768px.jpg 768w,
+ ./../images/SO12/bd-16355-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO12/tv-16359-1090px.jpg"
+ data-srcset="./../images/SO12/tv-16359-512px.jpg 512w,
+ ./../images/SO12/tv-16359-768px.jpg 768w,
+ ./../images/SO12/tv-16359-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO12/bd-16359-1090px.jpg"
+ data-srcset="./../images/SO12/bd-16359-512px.jpg 512w,
+ ./../images/SO12/bd-16359-768px.jpg 768w,
+ ./../images/SO12/bd-16359-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO12/tv-16394-1090px.jpg"
+ data-srcset="./../images/SO12/tv-16394-512px.jpg 512w,
+ ./../images/SO12/tv-16394-768px.jpg 768w,
+ ./../images/SO12/tv-16394-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO12/bd-16394-1090px.jpg"
+ data-srcset="./../images/SO12/bd-16394-512px.jpg 512w,
+ ./../images/SO12/bd-16394-768px.jpg 768w,
+ ./../images/SO12/bd-16394-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And, of course... We couldn't have a cour 1 Stone Ocean comparison without a look at Emporio's redrawn jersey! Here it is:
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO12/tv-30615-1090px.jpg"
+ data-srcset="./../images/SO12/tv-30615-512px.jpg 512w,
+ ./../images/SO12/tv-30615-768px.jpg 768w,
+ ./../images/SO12/tv-30615-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO12/bd-30615-1090px.jpg"
+ data-srcset="./../images/SO12/bd-30615-512px.jpg 512w,
+ ./../images/SO12/bd-30615-768px.jpg 768w,
+ ./../images/SO12/bd-30615-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO12/tv-30710-1090px.jpg"
+ data-srcset="./../images/SO12/tv-30710-512px.jpg 512w,
+ ./../images/SO12/tv-30710-768px.jpg 768w,
+ ./../images/SO12/tv-30710-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO12/bd-30710-1090px.jpg"
+ data-srcset="./../images/SO12/bd-30710-512px.jpg 512w,
+ ./../images/SO12/bd-30710-768px.jpg 768w,
+ ./../images/SO12/bd-30710-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And that is, unfortunately, it for this episode! Which also conveniently concludes the first cour of Stone Ocean. I'll be honest with you: I'm not very confident that the rest of the episodes will all have some difference for us to look at, alas. It's never happened so far, as every Jojo episode prior to this one has received some sort of touch-up in the Blu-rays, but you all know Stone Ocean's anime adaptation has been special in many ways, so I wouldn't be too surprised if we had some empty comparisons coming up. But I guess we'll think about that if and when that actually happens! In the meantime take care and see you next time (whenever that is) for a look at episode #13, "Kiss of Love and Revenge - Part 1"!
+
+<br>
+
+Bye!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
