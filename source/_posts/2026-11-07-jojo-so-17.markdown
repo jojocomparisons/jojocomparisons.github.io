@@ -1,0 +1,175 @@
+---
+layout: post
+title: "Stone Ocean #17 - Enter the Dragon's Dream"
+date: 2026-11-07 09:11:44 +0000
+comments: true
+categories: so
+---
+
+{% img center /images/SO17/17header.jpg %}
+<!-- more -->
+
+Howdy y'all! How's it going? Did you enjoy yesterday's Steel Ball Run episode (#08)? I'm not gonna get into it too much because I don't want to write spoilers, but hot damn, that was spectacular. Anyway! Moving on to something a little *less* spectacular... Let's take a very quick look at Stone Ocean #17, "Enter the Dragon's Dream"!
+
+<br>
+
+Let's enter this Dragon's Dream or whatever!
+
+<br>
+
+- First off we have this brief CD flashback, which is slightly brighter (just like in Episode #15):
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO17/tv-00361-1090px.jpg"
+ data-srcset="./../images/SO17/tv-00361-512px.jpg 512w,
+ ./../images/SO17/tv-00361-768px.jpg 768w,
+ ./../images/SO17/tv-00361-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO17/bd-00361-1090px.jpg"
+ data-srcset="./../images/SO17/bd-00361-512px.jpg 512w,
+ ./../images/SO17/bd-00361-768px.jpg 768w,
+ ./../images/SO17/bd-00361-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- Then, moving waaay later in the episode, we have a brighter punch rush by our lovely plankton creature:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO17/01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO17/01 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO17/tv-19284-1090px.jpg"
+ data-srcset="./../images/SO17/tv-19284-512px.jpg 512w,
+ ./../images/SO17/tv-19284-768px.jpg 768w,
+ ./../images/SO17/tv-19284-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO17/bd-19284-1090px.jpg"
+ data-srcset="./../images/SO17/bd-19284-512px.jpg 512w,
+ ./../images/SO17/bd-19284-768px.jpg 768w,
+ ./../images/SO17/bd-19284-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO17/tv-19326-1090px.jpg"
+ data-srcset="./../images/SO17/tv-19326-512px.jpg 512w,
+ ./../images/SO17/tv-19326-768px.jpg 768w,
+ ./../images/SO17/tv-19326-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO17/bd-19326-1090px.jpg"
+ data-srcset="./../images/SO17/bd-19326-512px.jpg 512w,
+ ./../images/SO17/bd-19326-768px.jpg 768w,
+ ./../images/SO17/bd-19326-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And the same punch rush continues being brighter in the two following shots, but it's also sharper:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO17/02 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO17/02 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO17/tv-19338-1090px.jpg"
+ data-srcset="./../images/SO17/tv-19338-512px.jpg 512w,
+ ./../images/SO17/tv-19338-768px.jpg 768w,
+ ./../images/SO17/tv-19338-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO17/bd-19338-1090px.jpg"
+ data-srcset="./../images/SO17/bd-19338-512px.jpg 512w,
+ ./../images/SO17/bd-19338-768px.jpg 768w,
+ ./../images/SO17/bd-19338-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO17/03 - brighter and sharper.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO17/03 - brighter and sharper.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO17/tv-19368-1090px.jpg"
+ data-srcset="./../images/SO17/tv-19368-512px.jpg 512w,
+ ./../images/SO17/tv-19368-768px.jpg 768w,
+ ./../images/SO17/tv-19368-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO17/bd-19368-1090px.jpg"
+ data-srcset="./../images/SO17/bd-19368-512px.jpg 512w,
+ ./../images/SO17/bd-19368-768px.jpg 768w,
+ ./../images/SO17/bd-19368-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO17/tv-19394-1090px.jpg"
+ data-srcset="./../images/SO17/tv-19394-512px.jpg 512w,
+ ./../images/SO17/tv-19394-768px.jpg 768w,
+ ./../images/SO17/tv-19394-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO17/bd-19394-1090px.jpg"
+ data-srcset="./../images/SO17/bd-19394-512px.jpg 512w,
+ ./../images/SO17/bd-19394-768px.jpg 768w,
+ ./../images/SO17/bd-19394-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+Aaaand that concludes it for Episode #17! Not a whole lot to look at, unfortunately, but such is life sometimes. But hey, silver lining: if these comparisons keep staying super short like these, there's a much lower chance I'll get burnt out on them! Well anyhow, I'll see you next time for the thrilling conclusion to this definitely easy to understand and straightforward fight!
+
+<br>
+
+Bye!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
