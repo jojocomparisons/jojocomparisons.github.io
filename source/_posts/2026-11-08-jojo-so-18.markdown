@@ -1,0 +1,105 @@
+---
+layout: post
+title: "Stone Ocean #18 - Enter the Foo Fighters"
+date: 2026-11-08 14:22:25 +0000
+comments: true
+categories: so
+---
+
+{% img center /images/SO18/18header.jpg %}
+<!-- more -->
+
+Hey there, friends! Welcome back to this humble blog. Today we're going to take a look at the differences between the TV and the BD versions of Episode #18 of Stone Ocean, "Enter the Foo Fighters"! A bit of a weird title, if you ask me, but that's not the only weird thing about this fight, to be frank. Unfortunately it's not going to be a very long comparison, but by now I think you're probably used to these shorter posts for SO episodes - so without further ado...
+
+<br>
+
+Let's get started!
+
+<br>
+
+- First off, this shot of Kenzou standing in front of F.F. while they get electrocuted is now brighter:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO18/01 - brighter.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO18/01 - brighter.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO18/tv-18875-1090px.jpg"
+ data-srcset="./../images/SO18/tv-18875-512px.jpg 512w,
+ ./../images/SO18/tv-18875-768px.jpg 768w,
+ ./../images/SO18/tv-18875-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO18/bd-18875-1090px.jpg"
+ data-srcset="./../images/SO18/bd-18875-512px.jpg 512w,
+ ./../images/SO18/bd-18875-768px.jpg 768w,
+ ./../images/SO18/bd-18875-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And, moving on, this scene of F.F. being electrocuted is much brighter and sharper. Poor plankton baby!!! Surely that's the worst they're going to go through in this part, right? Nothing bad is going to happen to them, right?:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO18/02 - fried plankton.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO18/02 - fried plankton.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO18/tv-19299-1090px.jpg"
+ data-srcset="./../images/SO18/tv-19299-512px.jpg 512w,
+ ./../images/SO18/tv-19299-768px.jpg 768w,
+ ./../images/SO18/tv-19299-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO18/bd-19299-1090px.jpg"
+ data-srcset="./../images/SO18/bd-19299-512px.jpg 512w,
+ ./../images/SO18/bd-19299-768px.jpg 768w,
+ ./../images/SO18/bd-19299-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO18/tv-19425-1090px.jpg"
+ data-srcset="./../images/SO18/tv-19425-512px.jpg 512w,
+ ./../images/SO18/tv-19425-768px.jpg 768w,
+ ./../images/SO18/tv-19425-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO18/bd-19425-1090px.jpg"
+ data-srcset="./../images/SO18/bd-19425-512px.jpg 512w,
+ ./../images/SO18/bd-19425-768px.jpg 768w,
+ ./../images/SO18/bd-19425-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And that concludes today's *shocking* comparison. Sometimes I like to fantasize about a different world where Stone Ocean got the Blu-Ray correction it deserved... I wonder how this adaptation would have looked with a fresh coat of paint. Instead all we get is a fresh coat of pain. Ah well. See you next time for Stone Ocean #19 - "Birth of the "Green""!
+
+<br>
+
+Bye!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
