@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://jojocomparisons.github.io/jojo-so-18/</loc>
+<lastmod>2026-11-08T14:22:25+00:00</lastmod>
+</url>
+<url>
 <loc>https://jojocomparisons.github.io/jojo-so-17/</loc>
 <lastmod>2026-11-07T09:11:44+00:00</lastmod>
 </url>
@@ -772,5 +776,8 @@
 </url>
 <url>
 <loc>https://jojocomparisons.github.io/posts/17/</loc>
+</url>
+<url>
+<loc>https://jojocomparisons.github.io/posts/18/</loc>
 </url>
 </urlset>
