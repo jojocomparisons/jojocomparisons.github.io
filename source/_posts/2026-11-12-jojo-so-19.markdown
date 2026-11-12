@@ -1,0 +1,168 @@
+---
+layout: post
+title: "Stone Ocean #19 - Birth of the \"Green\""
+date: 2026-11-12 21:28:44 +0000
+comments: true
+categories: so
+---
+
+{% img center /images/SO19/19header.jpg %}
+<!-- more -->
+
+Hello again, one and all! Welcome back, welcome back! Sit around the fire as I tell you the (very brief) story of what changed between the Blu-Ray and the broadcast versions of Stone Ocean #19 - "Birth of the "Green""! We're going to take a look at just two differences today - two brighter and sharper sequences, so nothing too crazy. You know we like to take it easy on Part 6 here.
+
+<br>
+
+Anyhow, let's take a look!
+
+<br>
+
+- In this shot, the pan up is repeated three times - twice quickly, and the third time more slowly. In the Blu-Ray version, the first two shots are brighter and sharper:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO19/01 - pan up.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO19/01 - pan up.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO19/tv-14359-1090px.jpg"
+ data-srcset="./../images/SO19/tv-14359-512px.jpg 512w,
+ ./../images/SO19/tv-14359-768px.jpg 768w,
+ ./../images/SO19/tv-14359-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO19/bd-14359-1090px.jpg"
+ data-srcset="./../images/SO19/bd-14359-512px.jpg 512w,
+ ./../images/SO19/bd-14359-768px.jpg 768w,
+ ./../images/SO19/bd-14359-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO19/tv-14363-1090px.jpg"
+ data-srcset="./../images/SO19/tv-14363-512px.jpg 512w,
+ ./../images/SO19/tv-14363-768px.jpg 768w,
+ ./../images/SO19/tv-14363-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO19/bd-14363-1090px.jpg"
+ data-srcset="./../images/SO19/bd-14363-512px.jpg 512w,
+ ./../images/SO19/bd-14363-768px.jpg 768w,
+ ./../images/SO19/bd-14363-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO19/tv-14366-1090px.jpg"
+ data-srcset="./../images/SO19/tv-14366-512px.jpg 512w,
+ ./../images/SO19/tv-14366-768px.jpg 768w,
+ ./../images/SO19/tv-14366-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO19/bd-14366-1090px.jpg"
+ data-srcset="./../images/SO19/bd-14366-512px.jpg 512w,
+ ./../images/SO19/bd-14366-768px.jpg 768w,
+ ./../images/SO19/bd-14366-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+- And the second brighter and sharper sequence in this very brief shot of F.F. summoning their plankton finger gun thingy:
+
+<video class='lazyload' playsinline nocontrols muted data-autoplay preload='none' loop data-poster='./../images/loadingvideo.jpg'>
+  <source src="./../videos/SO19/02 - plankton goes boom.webm" type='video/webm; codecs="vp8, vorbis"'>
+  <source src="./../videos/SO19/02 - plankton goes boom.mp4" type='video/mp4; codecs=avc1.42E01E,mp4a.40.2'>
+</video>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO19/tv-26893-1090px.jpg"
+ data-srcset="./../images/SO19/tv-26893-512px.jpg 512w,
+ ./../images/SO19/tv-26893-768px.jpg 768w,
+ ./../images/SO19/tv-26893-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO19/bd-26893-1090px.jpg"
+ data-srcset="./../images/SO19/bd-26893-512px.jpg 512w,
+ ./../images/SO19/bd-26893-768px.jpg 768w,
+ ./../images/SO19/bd-26893-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO19/tv-26894-1090px.jpg"
+ data-srcset="./../images/SO19/tv-26894-512px.jpg 512w,
+ ./../images/SO19/tv-26894-768px.jpg 768w,
+ ./../images/SO19/tv-26894-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO19/bd-26894-1090px.jpg"
+ data-srcset="./../images/SO19/bd-26894-512px.jpg 512w,
+ ./../images/SO19/bd-26894-768px.jpg 768w,
+ ./../images/SO19/bd-26894-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+<div id="container1" class="twentytwenty-container">
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO19/tv-26919-1090px.jpg"
+ data-srcset="./../images/SO19/tv-26919-512px.jpg 512w,
+ ./../images/SO19/tv-26919-768px.jpg 768w,
+ ./../images/SO19/tv-26919-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+ <img width="100%" height="100%" class="lazyload" src="./../images/loading.jpg"
+ data-src="./../images/SO19/bd-26919-1090px.jpg"
+ data-srcset="./../images/SO19/bd-26919-512px.jpg 512w,
+ ./../images/SO19/bd-26919-768px.jpg 768w,
+ ./../images/SO19/bd-26919-1090px.jpg 1090w"
+ sizes="(min-width: 1218px) 1090px,
+ (min-width: 768px) 87vw,
+ 89vw" />
+</div>
+
+<br>
+
+And there you have it! Another episode in the books. Are you excited for tomorrow's SBR episode (#09, "Scary Monsters - Part 1" at the time of writing)? Man, if they adapt the rest of Part 7 with the same level of quality that they've given us so far, we're in for anime of the century. Anyway, I'll see you next time for Stone Ocean #20, "F.F. - The Witness"!
+
+<br>
+
+Arrivederci!
+
+<br>
+
+{% img center /images/tobecontinued.png %}
